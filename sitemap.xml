@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/oceania/polynesia/tonga/</loc>
+        <lastmod>2023-09-01T12:36:52+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/polynesia/tonga/ha-apai/</loc>
+        <lastmod>2023-09-01T12:36:52+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/balkans/north-macedonia/western-north-macedonia/</loc>
         <lastmod>2023-09-01T12:03:06+03:00</lastmod>
     </url>
