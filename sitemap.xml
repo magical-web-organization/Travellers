@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/nordic-countries/iceland/</loc>
+        <lastmod>2023-09-02T19:46:08+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/nordic-countries/iceland/west-iceland/</loc>
+        <lastmod>2023-09-02T19:46:08+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/flores/</loc>
         <lastmod>2023-09-02T18:36:13+03:00</lastmod>
     </url>
