@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/</loc>
+        <lastmod>2023-09-03T20:45:09+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/adamawa-state/</loc>
+        <lastmod>2023-09-03T20:45:09+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/adamawa-state/mubi/</loc>
+        <lastmod>2023-09-03T20:45:09+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/iberia/portugal/algarve/portimao/</loc>
         <lastmod>2023-09-03T20:00:31+03:00</lastmod>
     </url>
