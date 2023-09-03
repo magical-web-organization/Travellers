@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/east-africa/ethiopia/southern-ethiopia/</loc>
+        <lastmod>2023-09-03T11:00:02+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/east-africa/ethiopia/southern-ethiopia/shashemene/</loc>
+        <lastmod>2023-09-03T11:00:02+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/yate/</loc>
         <lastmod>2023-09-03T09:50:50+03:00</lastmod>
     </url>
