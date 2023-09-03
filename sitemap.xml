@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/south-america/brazil/northeast/bahia/central-south/</loc>
+        <lastmod>2023-09-03T04:40:28+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/brazil/northeast/bahia/central-south/vitoria-da-conquista/</loc>
+        <lastmod>2023-09-03T04:40:28+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/yakutia/</loc>
         <lastmod>2023-09-03T03:37:21+03:00</lastmod>
     </url>
