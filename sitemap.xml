@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-litoral/</loc>
+        <lastmod>2023-09-04T23:02:04+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-litoral/figueira-da-foz/</loc>
+        <lastmod>2023-09-04T23:02:04+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/central-finland/toivakka/</loc>
         <lastmod>2023-09-04T21:45:20+03:00</lastmod>
     </url>
