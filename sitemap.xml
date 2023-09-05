@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/</loc>
+        <lastmod>2023-09-05T22:56:38+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/east-sichuan/</loc>
+        <lastmod>2023-09-05T22:56:38+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/east-sichuan/leshan/</loc>
+        <lastmod>2023-09-05T22:56:38+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/southern-africa/namibia/kunene/</loc>
         <lastmod>2023-09-05T21:53:56+03:00</lastmod>
     </url>
