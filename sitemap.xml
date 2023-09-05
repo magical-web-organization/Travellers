@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/</loc>
+        <lastmod>2023-09-05T18:46:48+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/heviz/</loc>
+        <lastmod>2023-09-05T18:46:48+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/</loc>
         <lastmod>2023-09-05T17:44:07+03:00</lastmod>
     </url>
