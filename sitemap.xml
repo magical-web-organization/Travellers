@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/saint-martin/</loc>
+        <lastmod>2023-09-06T10:35:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/saint-martin/grand-case/</loc>
+        <lastmod>2023-09-06T10:35:20+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/italy/central-italy/umbria/bevagna/</loc>
         <lastmod>2023-09-06T09:59:50+03:00</lastmod>
     </url>
