@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/central-asia/kazakhstan/</loc>
+        <lastmod>2023-09-06T22:02:30+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/central-asia/kazakhstan/kazakhstani-north/</loc>
+        <lastmod>2023-09-06T22:02:30+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/central-asia/kazakhstan/kazakhstani-north/naurzum-state-nature-reserve/</loc>
+        <lastmod>2023-09-06T22:02:30+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/gelderland/rivierenland/</loc>
         <lastmod>2023-09-06T20:49:14+03:00</lastmod>
     </url>
