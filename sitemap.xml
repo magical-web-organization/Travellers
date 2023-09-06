@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/himalayas/</loc>
+        <lastmod>2023-09-06T05:44:57+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/himalayas/mount-everest/</loc>
+        <lastmod>2023-09-06T05:44:57+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/</loc>
         <lastmod>2023-09-06T04:57:38+03:00</lastmod>
     </url>
