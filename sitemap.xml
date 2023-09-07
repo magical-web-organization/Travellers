@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/landes/</loc>
+        <lastmod>2023-09-08T00:01:11+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/landes/aire-sur-l-adour/</loc>
+        <lastmod>2023-09-08T00:01:11+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/east-asia/china/south-central-china/</loc>
         <lastmod>2023-09-07T22:50:16+03:00</lastmod>
     </url>
