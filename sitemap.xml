@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/</loc>
+        <lastmod>2023-09-09T15:55:22+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/los-osos/</loc>
+        <lastmod>2023-09-09T15:55:22+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/</loc>
         <lastmod>2023-09-09T14:53:19+03:00</lastmod>
     </url>
