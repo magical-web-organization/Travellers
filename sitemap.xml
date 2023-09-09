@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/pyrenees-atlantiques/</loc>
+        <lastmod>2023-09-09T20:39:22+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/pyrenees-atlantiques/saint-jean-pied-de-port/</loc>
+        <lastmod>2023-09-09T20:39:22+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/iberia/spain/green-spain/</loc>
         <lastmod>2023-09-09T19:59:14+03:00</lastmod>
     </url>
