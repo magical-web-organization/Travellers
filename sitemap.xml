@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/</loc>
+        <lastmod>2023-09-09T03:42:57+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/south-kalimantan/</loc>
+        <lastmod>2023-09-09T03:42:57+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/south-kalimantan/kandangan/</loc>
+        <lastmod>2023-09-09T03:42:57+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ekiti-state/efon-alaaye/</loc>
         <lastmod>2023-09-09T03:02:01+03:00</lastmod>
     </url>
