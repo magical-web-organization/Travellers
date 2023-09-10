@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/south-yorkshire/</loc>
+        <lastmod>2023-09-10T11:02:04+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/south-yorkshire/barnsley/</loc>
+        <lastmod>2023-09-10T11:02:04+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/south-america/lake-titicaca/</loc>
         <lastmod>2023-09-10T09:46:03+03:00</lastmod>
     </url>
