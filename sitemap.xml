@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/</loc>
+        <lastmod>2023-09-11T14:42:10+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/valencia-province/</loc>
+        <lastmod>2023-09-11T14:42:10+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/valencia-province/xativa/</loc>
+        <lastmod>2023-09-11T14:42:10+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/france/centre-val-de-loire/orleans/</loc>
         <lastmod>2023-09-11T13:50:25+03:00</lastmod>
     </url>
