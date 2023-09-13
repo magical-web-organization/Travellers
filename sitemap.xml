@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/north-africa/western-sahara/</loc>
+        <lastmod>2023-09-13T03:39:50+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/north-africa/western-sahara/el-aaiun/</loc>
+        <lastmod>2023-09-13T03:39:50+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/edo-state/</loc>
         <lastmod>2023-09-13T02:56:32+03:00</lastmod>
     </url>
