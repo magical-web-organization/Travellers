@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/cambodia/north-western-cambodia/</loc>
+        <lastmod>2023-09-14T11:02:04+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/cambodia/north-western-cambodia/banteay-chhmar/</loc>
+        <lastmod>2023-09-14T11:02:04+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/south-asia/india/western-india/gujarat/kutch/bhuj/</loc>
         <lastmod>2023-09-14T09:43:28+03:00</lastmod>
     </url>
