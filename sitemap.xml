@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/austria/lower-austria/wachau/</loc>
+        <lastmod>2023-09-15T15:52:28+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/austria/lower-austria/wachau/emmersdorf/</loc>
+        <lastmod>2023-09-15T15:52:28+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/grande-rio/</loc>
         <lastmod>2023-09-15T14:48:01+03:00</lastmod>
     </url>
