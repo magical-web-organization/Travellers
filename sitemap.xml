@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/burkina-faso/</loc>
+        <lastmod>2023-09-15T10:53:41+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/burkina-faso/black-volta-region/</loc>
+        <lastmod>2023-09-15T10:53:41+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/burkina-faso/black-volta-region/dedougou/</loc>
+        <lastmod>2023-09-15T10:53:41+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/south-america/bolivia/altiplano/</loc>
         <lastmod>2023-09-15T10:02:13+03:00</lastmod>
     </url>
