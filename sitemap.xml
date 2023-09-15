@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/south-america/bolivia/altiplano/</loc>
+        <lastmod>2023-09-15T10:02:13+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/bolivia/altiplano/potosi-department/</loc>
+        <lastmod>2023-09-15T10:02:13+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/bolivia/altiplano/potosi-department/llallagua/</loc>
+        <lastmod>2023-09-15T10:02:13+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/greece/greek-islands/south-aegean-islands/</loc>
         <lastmod>2023-09-15T08:53:47+03:00</lastmod>
     </url>
