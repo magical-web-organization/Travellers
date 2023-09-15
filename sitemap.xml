@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/</loc>
+        <lastmod>2023-09-15T16:51:47+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/cape-town/</loc>
+        <lastmod>2023-09-15T16:51:47+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/central-europe/austria/lower-austria/wachau/</loc>
         <lastmod>2023-09-15T15:52:28+03:00</lastmod>
     </url>
