@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/greece/greek-islands/south-aegean-islands/</loc>
+        <lastmod>2023-09-15T08:53:47+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/greece/greek-islands/south-aegean-islands/small-cyclades/</loc>
+        <lastmod>2023-09-15T08:53:47+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/east-african-islands/madagascar/antsiranana-province/</loc>
         <lastmod>2023-09-15T07:42:49+03:00</lastmod>
     </url>
