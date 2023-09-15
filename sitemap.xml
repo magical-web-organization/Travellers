@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/fraser-valley/</loc>
+        <lastmod>2023-09-15T06:34:39+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/fraser-valley/mission/</loc>
+        <lastmod>2023-09-15T06:34:39+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/southeastern-karnataka/savandurga/</loc>
         <lastmod>2023-09-15T05:42:41+03:00</lastmod>
     </url>
