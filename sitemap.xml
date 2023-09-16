@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/</loc>
+        <lastmod>2023-09-16T11:41:13+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/wasatch-range/</loc>
+        <lastmod>2023-09-16T11:41:13+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/wasatch-range/salt-lake-city/</loc>
+        <lastmod>2023-09-16T11:41:13+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/northwestern-colorado/redstone/</loc>
         <lastmod>2023-09-16T10:49:21+03:00</lastmod>
     </url>
