@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/</loc>
+        <lastmod>2023-09-17T13:34:55+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/southeastern-yunnan/</loc>
+        <lastmod>2023-09-17T13:34:55+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/southeastern-yunnan/shiping/</loc>
+        <lastmod>2023-09-17T13:34:55+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/mangualde/</loc>
         <lastmod>2023-09-17T12:38:41+03:00</lastmod>
     </url>
