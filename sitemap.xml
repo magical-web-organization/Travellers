@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-maritimes/</loc>
+        <lastmod>2023-09-18T12:00:33+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-maritimes/la-trinite/</loc>
+        <lastmod>2023-09-18T12:00:33+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/false-bay/</loc>
         <lastmod>2023-09-18T10:43:25+03:00</lastmod>
     </url>
