@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/oceania/new-zealand/south-island/otago/</loc>
+        <lastmod>2023-09-19T20:48:37+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/new-zealand/south-island/otago/milton/</loc>
+        <lastmod>2023-09-19T20:48:37+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/oceania/new-zealand/north-island/northland/hokianga/</loc>
         <lastmod>2023-09-19T20:03:04+03:00</lastmod>
     </url>
