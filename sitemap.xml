@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/east-africa/tanzania/zanzibar/</loc>
+        <lastmod>2023-09-20T01:01:58+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/east-africa/tanzania/zanzibar/stone-town/</loc>
+        <lastmod>2023-09-20T01:01:58+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/balkans/serbia/podunavlje/</loc>
         <lastmod>2023-09-20T00:02:28+03:00</lastmod>
     </url>
