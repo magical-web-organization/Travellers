@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/</loc>
+        <lastmod>2023-09-20T03:01:41+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/york-region/</loc>
+        <lastmod>2023-09-20T03:01:41+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/york-region/vaughan/</loc>
+        <lastmod>2023-09-20T03:01:41+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/west-africa/benin/northern-benin/natitingou/</loc>
         <lastmod>2023-09-20T01:53:42+03:00</lastmod>
     </url>
