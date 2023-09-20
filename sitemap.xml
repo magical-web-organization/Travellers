@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/south-america/colombia/costa-norte/</loc>
+        <lastmod>2023-09-21T00:58:45+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/colombia/costa-norte/la-guajira/</loc>
+        <lastmod>2023-09-21T00:58:45+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/colombia/costa-norte/la-guajira/palomino/</loc>
+        <lastmod>2023-09-21T00:58:45+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/east-central-saskatchewan/</loc>
         <lastmod>2023-09-20T23:57:45+03:00</lastmod>
     </url>
