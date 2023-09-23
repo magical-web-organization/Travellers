@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/south-asia/pakistan/gilgit-baltistan/</loc>
+        <lastmod>2023-09-23T15:48:08+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/south-asia/pakistan/gilgit-baltistan/hunza-valley/</loc>
+        <lastmod>2023-09-23T15:48:08+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/south-asia/pakistan/gilgit-baltistan/hunza-valley/ganish/</loc>
+        <lastmod>2023-09-23T15:48:08+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/eastern-europe/belarus/vitebsk-oblast/polotsk/</loc>
         <lastmod>2023-09-23T14:57:29+03:00</lastmod>
     </url>
