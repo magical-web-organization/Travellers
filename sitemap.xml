@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/east-timor/</loc>
+        <lastmod>2023-09-24T14:51:41+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/east-timor/timorese-south-coast/</loc>
+        <lastmod>2023-09-24T14:51:41+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/east-timor/timorese-south-coast/lospalos/</loc>
+        <lastmod>2023-09-24T14:51:41+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/west-kalimantan/</loc>
         <lastmod>2023-09-24T13:59:29+03:00</lastmod>
     </url>
