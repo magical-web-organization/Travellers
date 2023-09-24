@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/greece/greek-islands/saronic-gulf-islands/</loc>
+        <lastmod>2023-09-24T11:53:33+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/greece/greek-islands/saronic-gulf-islands/poros/</loc>
+        <lastmod>2023-09-24T11:53:33+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/mexico/central-mexico/mexico-state/amecameca/</loc>
         <lastmod>2023-09-24T10:45:05+03:00</lastmod>
     </url>
