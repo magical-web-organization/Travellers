@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/northern-spain/</loc>
+        <lastmod>2023-09-27T01:59:35+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/northern-spain/aragon/</loc>
+        <lastmod>2023-09-27T01:59:35+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/northern-spain/aragon/albarracin/</loc>
+        <lastmod>2023-09-27T01:59:35+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/sandhills/</loc>
         <lastmod>2023-09-27T00:53:10+03:00</lastmod>
     </url>
