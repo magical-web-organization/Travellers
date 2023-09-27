@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/southern-africa/malawi/northern-malawi/</loc>
+        <lastmod>2023-09-27T22:01:26+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/southern-africa/malawi/northern-malawi/nyika-national-park/</loc>
+        <lastmod>2023-09-27T22:01:26+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/south-america/venezuela/northwest/</loc>
         <lastmod>2023-09-27T20:34:21+03:00</lastmod>
     </url>
