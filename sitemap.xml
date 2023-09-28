@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/kiel-bay/</loc>
+        <lastmod>2023-09-29T02:34:49+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/kiel-bay/kiel/</loc>
+        <lastmod>2023-09-29T02:34:49+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/herzegovina/</loc>
         <lastmod>2023-09-29T01:39:58+03:00</lastmod>
     </url>
