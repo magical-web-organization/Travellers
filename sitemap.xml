@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-state/tijuana/</loc>
+        <lastmod>2023-09-30T21:02:30+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-state/tijuana/playas/</loc>
+        <lastmod>2023-09-30T21:02:30+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/balkans/montenegro/montenegrin-south-coast/</loc>
         <lastmod>2023-09-30T19:50:52+03:00</lastmod>
     </url>
