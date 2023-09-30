@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/greece/crete/chania-regional-unit/</loc>
+        <lastmod>2023-09-30T10:34:11+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/greece/crete/chania-regional-unit/chania/</loc>
+        <lastmod>2023-09-30T10:34:11+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/west-africa/ghana/ghanaian-coastal-plain/tema/</loc>
         <lastmod>2023-09-30T09:34:48+03:00</lastmod>
     </url>
