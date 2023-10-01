@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northeastern-ontario/</loc>
+        <lastmod>2023-10-01T18:34:22+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northeastern-ontario/longlac/</loc>
+        <lastmod>2023-10-01T18:34:22+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/plymouth/</loc>
         <lastmod>2023-10-01T17:39:06+03:00</lastmod>
     </url>
