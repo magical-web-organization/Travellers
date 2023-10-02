@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/south-america/peru/peruvian-amazon/</loc>
+        <lastmod>2023-10-03T00:33:37+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/peru/peruvian-amazon/iquitos/</loc>
+        <lastmod>2023-10-03T00:33:37+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/willamette-valley/mt-angel/</loc>
         <lastmod>2023-10-02T23:36:45+03:00</lastmod>
     </url>
