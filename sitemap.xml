@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/chaudiere-appalaches/</loc>
+        <lastmod>2023-10-08T14:39:16+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/chaudiere-appalaches/beauce/</loc>
+        <lastmod>2023-10-08T14:39:16+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/jewish-autonomous-oblast/</loc>
         <lastmod>2023-10-08T13:54:39+03:00</lastmod>
     </url>
