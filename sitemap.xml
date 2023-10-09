@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/south-america/argentina/pampas/la-pampa/</loc>
+        <lastmod>2023-10-10T00:43:41+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/argentina/pampas/la-pampa/santa-rosa/</loc>
+        <lastmod>2023-10-10T00:43:41+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/charlevoix/saint-tite-des-caps/</loc>
         <lastmod>2023-10-09T23:46:14+03:00</lastmod>
     </url>
