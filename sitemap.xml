@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/</loc>
+        <lastmod>2023-10-09T14:01:56+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/gongju/</loc>
+        <lastmod>2023-10-09T14:01:56+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/sagadahoc-county/phippsburg/</loc>
         <lastmod>2023-10-09T12:56:04+03:00</lastmod>
     </url>
