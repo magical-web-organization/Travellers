@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/central-africa/cameroon/coastal-cameroon/</loc>
+        <lastmod>2023-10-13T21:00:47+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/central-africa/cameroon/coastal-cameroon/douala/</loc>
+        <lastmod>2023-10-13T21:00:47+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/northeast-high-country/</loc>
         <lastmod>2023-10-13T19:57:52+03:00</lastmod>
     </url>
