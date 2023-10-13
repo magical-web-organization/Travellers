@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/</loc>
+        <lastmod>2023-10-13T10:48:31+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/bay-of-fundy/</loc>
+        <lastmod>2023-10-13T10:48:31+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/bay-of-fundy/fundy-national-park/</loc>
+        <lastmod>2023-10-13T10:48:31+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northwest-ohio/wauseon/</loc>
         <lastmod>2023-10-13T09:55:13+03:00</lastmod>
     </url>
