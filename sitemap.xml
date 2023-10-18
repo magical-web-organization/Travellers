@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/benelux/belgium/flanders/west-flanders/</loc>
+        <lastmod>2023-10-18T14:02:43+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/benelux/belgium/flanders/west-flanders/kortrijk/</loc>
+        <lastmod>2023-10-18T14:02:43+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/eastern-europe/belarus/minsk-region/nesvizh/</loc>
         <lastmod>2023-10-18T12:40:52+03:00</lastmod>
     </url>
