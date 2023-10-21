@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/</loc>
+        <lastmod>2023-10-22T01:56:53+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/kilkivan/</loc>
+        <lastmod>2023-10-22T01:56:53+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/central-europe/czech-republic/north-bohemia/</loc>
         <lastmod>2023-10-22T00:55:05+03:00</lastmod>
     </url>
