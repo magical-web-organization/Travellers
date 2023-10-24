@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/seoul/</loc>
+        <lastmod>2023-10-24T03:43:22+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/seoul/songpa/</loc>
+        <lastmod>2023-10-24T03:43:22+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/east-parahyangan/</loc>
         <lastmod>2023-10-24T03:01:36+03:00</lastmod>
     </url>
