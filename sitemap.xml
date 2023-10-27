@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/austria/carinthia/</loc>
+        <lastmod>2023-10-27T15:47:49+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/austria/carinthia/klagenfurt/</loc>
+        <lastmod>2023-10-27T15:47:49+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/central-africa/cameroon/coastal-cameroon/kumba/</loc>
         <lastmod>2023-10-27T14:48:34+03:00</lastmod>
     </url>
