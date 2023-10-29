@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/centre-val-de-loire/maintenon/</loc>
+        <lastmod>2023-10-29T08:47:43+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/france/bourgogne-franche-comte/saint-claude/</loc>
         <lastmod>2023-10-29T07:44:31+03:00</lastmod>
     </url>
