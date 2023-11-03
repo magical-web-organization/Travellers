@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/northern-mexico/coahuila/</loc>
+        <lastmod>2023-11-03T03:56:33+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/northern-mexico/coahuila/saltillo/</loc>
+        <lastmod>2023-11-03T03:56:33+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/luneburg-heath/bergen/</loc>
         <lastmod>2023-11-03T02:48:20+03:00</lastmod>
     </url>
