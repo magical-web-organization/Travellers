@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/</loc>
+        <lastmod>2023-11-08T14:45:28+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/hill-end/</loc>
+        <lastmod>2023-11-08T14:45:28+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/suomu/</loc>
         <lastmod>2023-11-08T13:47:41+03:00</lastmod>
     </url>
