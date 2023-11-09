@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/central-africa/equatorial-guinea/</loc>
+        <lastmod>2023-11-09T15:35:38+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/central-africa/equatorial-guinea/bioko/</loc>
+        <lastmod>2023-11-09T15:35:38+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/hooghly-and-howrah/</loc>
         <lastmod>2023-11-09T14:39:31+03:00</lastmod>
     </url>
