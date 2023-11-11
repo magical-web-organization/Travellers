@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/</loc>
+        <lastmod>2023-11-11T23:34:59+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/shaoxing/</loc>
+        <lastmod>2023-11-11T23:34:59+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/grande-recife/recife/</loc>
         <lastmod>2023-11-11T22:54:12+03:00</lastmod>
     </url>
