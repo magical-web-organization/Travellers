@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/germany/saxony/</loc>
+        <lastmod>2023-11-11T14:47:21+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-switzerland/</loc>
+        <lastmod>2023-11-11T14:47:21+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-switzerland/bad-gottleuba-berggiesshubel/</loc>
+        <lastmod>2023-11-11T14:47:21+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/south-america/peru/san-martin/moyobamba/</loc>
         <lastmod>2023-11-11T14:03:14+03:00</lastmod>
     </url>
