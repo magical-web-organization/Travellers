@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/singapore/marina-bay/</loc>
+        <lastmod>2023-11-14T11:47:59+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/adirondacks/north-pole-new-york/</loc>
         <lastmod>2023-11-14T10:55:59+03:00</lastmod>
     </url>
