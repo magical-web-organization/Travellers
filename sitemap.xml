@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/east-bali/</loc>
+        <lastmod>2023-11-20T04:59:24+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/east-bali/klungkung/</loc>
+        <lastmod>2023-11-20T04:59:24+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/east-asia/south-korea/gangwon/cheorwon/</loc>
         <lastmod>2023-11-20T03:47:35+03:00</lastmod>
     </url>
