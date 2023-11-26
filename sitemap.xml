@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/chaoshan/</loc>
+        <lastmod>2023-11-26T03:40:42+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/chaoshan/shantou/</loc>
+        <lastmod>2023-11-26T03:40:42+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/xigatse-prefecture/qomolangma/</loc>
         <lastmod>2023-11-26T02:54:52+03:00</lastmod>
     </url>
