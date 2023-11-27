@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/north-africa/egypt/middle-egypt/</loc>
+        <lastmod>2023-11-27T15:47:25+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/north-africa/egypt/middle-egypt/mallawi/</loc>
+        <lastmod>2023-11-27T15:47:25+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/oceania/australia/new-south-wales/blue-mountains/leura/</loc>
         <lastmod>2023-11-27T14:53:44+03:00</lastmod>
     </url>
