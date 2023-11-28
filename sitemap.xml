@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/miami-dade-county/doral/</loc>
+        <lastmod>2023-11-28T10:50:59+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/oceania/australia/western-australia/goldfields-esperance/cape-arid-national-park/</loc>
         <lastmod>2023-11-28T09:40:24+03:00</lastmod>
     </url>
