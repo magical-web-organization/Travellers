@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-sur/la-paz/</loc>
+        <lastmod>2023-12-01T05:47:07+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/benelux/belgium/flanders/west-flanders/roeselare/</loc>
         <lastmod>2023-12-01T04:53:25+03:00</lastmod>
     </url>
