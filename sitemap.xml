@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/san-bernardino-county/san-bernardino/</loc>
+        <lastmod>2023-12-05T00:37:09+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/mexico/pacific-coast/michoacan/lake-patzcuaro/</loc>
         <lastmod>2023-12-04T23:53:52+03:00</lastmod>
     </url>
