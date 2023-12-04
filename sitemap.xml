@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/central-mexico/mexico-city/desert-of-the-lions/</loc>
+        <lastmod>2023-12-04T15:47:28+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/north-yorkshire/north-york-moors/</loc>
         <lastmod>2023-12-04T14:59:35+03:00</lastmod>
     </url>
