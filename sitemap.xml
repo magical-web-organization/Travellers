@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/caucasus/abkhazia/</loc>
+        <lastmod>2023-12-06T01:58:37+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/caucasus/abkhazia/new-athos/</loc>
+        <lastmod>2023-12-06T01:58:37+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/southeast-asia/myanmar/southeastern-myanmar/mawlamyine/</loc>
         <lastmod>2023-12-06T00:47:36+03:00</lastmod>
     </url>
