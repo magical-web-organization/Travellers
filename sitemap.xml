@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/pacific-coast/guerrero/</loc>
+        <lastmod>2023-12-07T01:55:44+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/pacific-coast/guerrero/cuajinicuilapa/</loc>
+        <lastmod>2023-12-07T01:55:44+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/oceania/australia/queensland/darling-downs/</loc>
         <lastmod>2023-12-07T00:41:31+03:00</lastmod>
     </url>
