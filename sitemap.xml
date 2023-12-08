@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/japan/shikoku/kagawa/</loc>
+        <lastmod>2023-12-08T14:36:13+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/japan/shikoku/kagawa/sakaide/</loc>
+        <lastmod>2023-12-08T14:36:13+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/balkans/croatia/dalmatia/dubrovnik-neretva/orebic/</loc>
         <lastmod>2023-12-08T13:47:15+03:00</lastmod>
     </url>
