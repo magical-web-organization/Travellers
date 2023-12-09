@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/</loc>
+        <lastmod>2023-12-09T20:42:17+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/pescadero/</loc>
+        <lastmod>2023-12-09T20:42:17+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/east-asia/japan/shikoku/tokushima-prefecture/</loc>
         <lastmod>2023-12-09T19:35:51+03:00</lastmod>
     </url>
