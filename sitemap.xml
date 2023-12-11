@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/south-america/chile/patagonia/</loc>
+        <lastmod>2023-12-11T06:06:50+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/chile/patagonia/bernardo-o-higgins-national-park/</loc>
+        <lastmod>2023-12-11T06:06:45+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/central-africa/angola/</loc>
         <lastmod>2023-12-11T04:51:44+03:00</lastmod>
     </url>
