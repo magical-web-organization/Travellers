@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/eastern-plains/</loc>
+        <lastmod>2023-12-14T20:51:40+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/eastern-plains/sterling/</loc>
+        <lastmod>2023-12-14T20:51:39+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/canada/prairies/alberta/edmonton-capital-region/beaver-hills/</loc>
         <lastmod>2023-12-14T19:36:09+03:00</lastmod>
     </url>
