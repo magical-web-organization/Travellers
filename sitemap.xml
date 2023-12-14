@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/aegean-sea/</loc>
+        <lastmod>2023-12-14T21:47:25+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/eastern-plains/</loc>
         <lastmod>2023-12-14T20:51:40+03:00</lastmod>
     </url>
