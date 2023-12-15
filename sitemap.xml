@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/</loc>
+        <lastmod>2023-12-15T11:00:00+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/palencia/</loc>
+        <lastmod>2023-12-15T11:00:00+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/southern-coast/kavali/</loc>
         <lastmod>2023-12-15T09:48:14+03:00</lastmod>
     </url>
