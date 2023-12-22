@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/east-africa/burundi/</loc>
+        <lastmod>2023-12-22T21:56:40+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/west-africa/benin/southern-benin/avrankou/</loc>
         <lastmod>2023-12-22T20:49:47+03:00</lastmod>
     </url>
