@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/senegal/central-senegal/</loc>
+        <lastmod>2023-12-22T05:55:16+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/west-africa/senegal/central-senegal/mar-lodj/</loc>
+        <lastmod>2023-12-22T05:55:16+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/pest-county/budaors/</loc>
         <lastmod>2023-12-22T04:42:31+03:00</lastmod>
     </url>
