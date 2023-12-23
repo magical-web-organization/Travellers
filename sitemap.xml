@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/british-virgin-islands/</loc>
+        <lastmod>2023-12-23T09:56:04+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/british-virgin-islands/tortola/</loc>
+        <lastmod>2023-12-23T09:56:04+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/baltic-states/latvia/riga-region/riga/</loc>
         <lastmod>2023-12-23T08:35:09+03:00</lastmod>
     </url>
