@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/varmland/</loc>
+        <lastmod>2023-12-24T01:02:23+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/varmland/arvika/</loc>
+        <lastmod>2023-12-24T01:02:23+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/oceania/new-zealand/south-island/otago/ranfurly/</loc>
         <lastmod>2023-12-23T23:44:33+03:00</lastmod>
     </url>
