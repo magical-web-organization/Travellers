@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/southern-africa/namibia/kavango/</loc>
+        <lastmod>2023-12-25T01:53:01+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/southern-africa/namibia/kavango/rundu/</loc>
+        <lastmod>2023-12-25T01:53:01+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/balkans/montenegro/bay-of-kotor/prcanj/</loc>
         <lastmod>2023-12-25T00:48:37+03:00</lastmod>
     </url>
