@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/antarctica/south-pole/</loc>
+        <lastmod>2023-12-26T00:55:27+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/worcestershire/bromsgrove/</loc>
         <lastmod>2023-12-25T23:50:29+03:00</lastmod>
     </url>
