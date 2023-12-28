@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/quebec/northern-quebec/nunavik/kuujjuaq/</loc>
+        <lastmod>2023-12-28T18:41:29+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/texas/gulf-coast/south-barrier-coast/port-aransas/</loc>
         <lastmod>2023-12-28T17:42:08+03:00</lastmod>
     </url>
