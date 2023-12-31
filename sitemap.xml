@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/oceania/polynesia/hawaii/maui/</loc>
+        <lastmod>2023-12-31T09:51:12+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/polynesia/hawaii/maui/kahului/</loc>
+        <lastmod>2023-12-31T09:51:12+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/qiandaohu/</loc>
         <lastmod>2023-12-31T09:00:41+03:00</lastmod>
     </url>
