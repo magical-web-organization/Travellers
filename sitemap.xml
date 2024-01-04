@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/northern-canada/</loc>
+        <lastmod>2024-01-04T22:02:10+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/northern-canada/northwest-territories/</loc>
+        <lastmod>2024-01-04T22:02:10+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/northern-canada/northwest-territories/enterprise/</loc>
+        <lastmod>2024-01-04T22:02:10+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/east-asia/japan/okinawa/daito-islands/</loc>
         <lastmod>2024-01-04T20:51:17+03:00</lastmod>
     </url>
