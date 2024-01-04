@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/cyprus/</loc>
+        <lastmod>2024-01-04T15:53:19+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/cyprus/paphos-district/</loc>
+        <lastmod>2024-01-04T15:53:19+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/cyprus/paphos-district/tala/</loc>
+        <lastmod>2024-01-04T15:53:19+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/research-triangle/raleigh/</loc>
         <lastmod>2024-01-04T14:43:02+03:00</lastmod>
     </url>
