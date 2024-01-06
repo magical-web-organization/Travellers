@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-state/tijuana/zona-norte/</loc>
+        <lastmod>2024-01-06T04:02:40+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/little-diomede/</loc>
         <lastmod>2024-01-06T02:34:55+03:00</lastmod>
     </url>
