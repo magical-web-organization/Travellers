@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/benelux/belgium/wallonia/walloon-brabant/</loc>
+        <lastmod>2024-01-09T21:50:47+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/benelux/belgium/wallonia/walloon-brabant/waterloo/</loc>
+        <lastmod>2024-01-09T21:50:47+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/uppsala-county/</loc>
         <lastmod>2024-01-09T20:40:32+03:00</lastmod>
     </url>
