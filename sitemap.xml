@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/oceania/new-zealand/north-island/greater-wellington/</loc>
+        <lastmod>2024-01-11T03:39:51+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/new-zealand/north-island/greater-wellington/kapiti-coast/</loc>
+        <lastmod>2024-01-11T03:39:51+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/new-zealand/north-island/greater-wellington/kapiti-coast/paekakariki/</loc>
+        <lastmod>2024-01-11T03:39:51+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/zaanstreek-waterland/</loc>
         <lastmod>2024-01-11T02:52:44+03:00</lastmod>
     </url>
