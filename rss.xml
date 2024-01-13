@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Travellers.wiki RSS Feed</title>
+        <link>https://travellers.wiki</link>
+        <description>Travellers.wiki RSS Feed</description>
+        <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
+        <pubDate>2024-01-13T22:43:37+03:00</pubDate>
+        <lastBuildDate>2024-01-13T22:43:37+03:00</lastBuildDate>
+
+        <item>
+            <title>Enterprise Travel Guide (River Heritage/Alabama/South/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/river-heritage/enterprise/</link>
+            <description>Plan your next trip to Enterprise, Alabama with this comprehensive tour guide. Find everything from natural attractions and hiking routes to where to stay and local customs.</description>
+            <pubDate>2024-01-13T22:43:37+03:00</pubDate>
+        </item>
+
+        <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
+        <atom:link rel="hub" href="http://pubsubhubbub.appspot.com/" />
+
+    </channel>
+</rss>
