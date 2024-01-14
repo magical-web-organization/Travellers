@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-14T09:48:48+03:00</pubDate>
-        <lastBuildDate>2024-01-14T09:48:48+03:00</lastBuildDate>
+        <pubDate>2024-01-14T10:44:12+03:00</pubDate>
+        <lastBuildDate>2024-01-14T10:44:12+03:00</lastBuildDate>
 
         <item>
-            <title>Huxi Travel Guide (Penghu/Taiwan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/taiwan/penghu/huxi/</link>
-            <description>Plan your trip to Huxi, Penghu with this comprehensive travel guide, including attractions, activities, hotels, local culture, safety tips, and more.</description>
-            <pubDate>2024-01-14T09:48:48+03:00</pubDate>
+            <title>Kiawah Island Travel Guide (Greater Charleston/South Carolina/South/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/greater-charleston/kiawah-island/</link>
+            <description>Discover the top things to do, see, and eat in Kiawah Island, South Carolina. Our travel guide provides recommendations on where to stay, how to get there, and what to expect during your trip.</description>
+            <pubDate>2024-01-14T10:44:12+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
