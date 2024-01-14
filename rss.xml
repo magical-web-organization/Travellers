@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-14T03:33:53+03:00</pubDate>
-        <lastBuildDate>2024-01-14T03:33:53+03:00</lastBuildDate>
+        <pubDate>2024-01-14T05:03:09+03:00</pubDate>
+        <lastBuildDate>2024-01-14T05:03:09+03:00</lastBuildDate>
 
         <item>
-            <title>Pisac Travel Guide (Sacred Valley of the Incas/Southern Sierra/Peru/South America)</title>
-            <link>https://travellers.wiki/en/south-america/peru/southern-sierra/sacred-valley-of-the-incas/pisac/</link>
-            <description>Discover the beauty of Pisac, Peru with our comprehensive travel guide covering all the main attractions, activities, food, and local customs.</description>
-            <pubDate>2024-01-14T03:33:53+03:00</pubDate>
+            <title>Northern Aegean Travel Guide (Aegean Turkey/Turkey/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/northern-aegean/</link>
+            <description>Discover the best places to visit, things to do, and where to stay in Northern Aegean, Turkey. Get insider tips on local culture, food, and customs. Plan your trip with our week-long itinerary and transportation options.</description>
+            <pubDate>2024-01-14T05:03:09+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
