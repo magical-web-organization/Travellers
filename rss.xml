@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-15T20:58:10+03:00</pubDate>
-        <lastBuildDate>2024-01-15T20:58:10+03:00</lastBuildDate>
+        <pubDate>2024-01-15T21:52:17+03:00</pubDate>
+        <lastBuildDate>2024-01-15T21:52:17+03:00</lastBuildDate>
 
         <item>
-            <title>Douai Travel Guide (Hauts-de-France/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/hauts-de-france/douai/</link>
-            <description>Find out everything you need to know about Douai, France in this comprehensive guide that covers everything from where to stay, things to do, to cultural customs and safety. Plan your next trip to Douai today!</description>
-            <pubDate>2024-01-15T20:58:10+03:00</pubDate>
+            <title>Gezira Travel Guide (Cairo/Lower Egypt/Egypt/North Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/cairo/gezira/</link>
+            <description>Discover the culturally rich and natural attractions of Gezira in Cairo, Egypt with this comprehensive travel guide. Explore the must-visit museums, historical landmarks, scenic views, outdoor adventures and more.</description>
+            <pubDate>2024-01-15T21:52:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
