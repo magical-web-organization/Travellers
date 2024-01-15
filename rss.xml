@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-15T13:38:52+03:00</pubDate>
-        <lastBuildDate>2024-01-15T13:38:52+03:00</lastBuildDate>
+        <pubDate>2024-01-15T14:48:00+03:00</pubDate>
+        <lastBuildDate>2024-01-15T14:48:00+03:00</lastBuildDate>
 
         <item>
-            <title>McLean Travel Guide (High Plains/Texas Panhandle/Texas/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/high-plains/mclean/</link>
-            <description>This comprehensive guide to McLean, Texas highlights the best things to do, see, and eat in this small town, as well as essential travel tips and advice.</description>
-            <pubDate>2024-01-15T13:38:52+03:00</pubDate>
+            <title>Belmont Travel Guide (Lakes Region/New Hampshire/New England/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/lakes-region/belmont/</link>
+            <description>Discover the best things to do, places to visit, and where to stay in Belmont. Plan your trip with our comprehensive travel guide.</description>
+            <pubDate>2024-01-15T14:48:00+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
