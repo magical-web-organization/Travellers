@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-16T01:34:23+03:00</pubDate>
-        <lastBuildDate>2024-01-16T01:34:23+03:00</lastBuildDate>
+        <pubDate>2024-01-16T02:50:00+03:00</pubDate>
+        <lastBuildDate>2024-01-16T02:50:00+03:00</lastBuildDate>
 
         <item>
-            <title>Surakarta Travel Guide (Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/surakarta/</link>
-            <description>Discover the top attractions, hiking and biking routes, best food and drink, where to stay, and travel tips for Surakarta, Indonesia.</description>
-            <pubDate>2024-01-16T01:34:23+03:00</pubDate>
+            <title>Sahelian Chad Travel Guide (Chad/Sahel/Africa)</title>
+            <link>https://travellers.wiki/en/africa/sahel/chad/sahelian-chad/</link>
+            <description>Planning a trip to Sahelian Chad? Check out our comprehensive travel guide to learn about the best places to visit, things to do, where to eat and stay, and the local customs and culture.</description>
+            <pubDate>2024-01-16T02:50:00+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
