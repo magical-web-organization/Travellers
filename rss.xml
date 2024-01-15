@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-15T08:42:35+03:00</pubDate>
-        <lastBuildDate>2024-01-15T08:42:35+03:00</lastBuildDate>
+        <pubDate>2024-01-15T09:56:24+03:00</pubDate>
+        <lastBuildDate>2024-01-15T09:56:24+03:00</lastBuildDate>
 
         <item>
-            <title>Tashkent Region Travel Guide (Uzbekistan/Central Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/central-asia/uzbekistan/tashkent-region/</link>
-            <description>Plan your trip to Tashkent Region with our in-depth travel guide. Discover the culturally rich attractions, natural wonders, delicious cuisine, and local customs of this Central Asian region.</description>
-            <pubDate>2024-01-15T08:42:35+03:00</pubDate>
+            <title>Balkan Mountains Travel Guide (Bulgaria/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/bulgaria/balkan-mountains/</link>
+            <description>Discover the beauty of the Balkan Mountains with our comprehensive travel guide, featuring everything from outdoor adventures and scenic views to culturally important attractions, food and drink recommendations, and much more.</description>
+            <pubDate>2024-01-15T09:56:24+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
