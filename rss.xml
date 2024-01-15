@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-15T10:53:38+03:00</pubDate>
-        <lastBuildDate>2024-01-15T10:53:38+03:00</lastBuildDate>
+        <pubDate>2024-01-15T11:59:09+03:00</pubDate>
+        <lastBuildDate>2024-01-15T11:59:09+03:00</lastBuildDate>
 
         <item>
-            <title>Lille Travel Guide (Hauts-de-France/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/hauts-de-france/lille/</link>
-            <description>Plan your trip to Lille, France with this comprehensive travel guide featuring top attractions, accommodations, food and drink, and transportation options.</description>
-            <pubDate>2024-01-15T10:53:38+03:00</pubDate>
+            <title>Lawton Travel Guide (Great Plains Country/Oklahoma/Great Plains/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/great-plains-country/lawton/</link>
+            <description>Plan your trip with our comprehensive Lawton travel guide. Find out where to stay, what to eat, and the best things to do in this charming Oklahoma city.</description>
+            <pubDate>2024-01-15T11:59:09+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
