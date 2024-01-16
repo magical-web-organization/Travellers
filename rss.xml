@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-16T16:38:09+03:00</pubDate>
-        <lastBuildDate>2024-01-16T16:38:09+03:00</lastBuildDate>
+        <pubDate>2024-01-16T17:51:24+03:00</pubDate>
+        <lastBuildDate>2024-01-16T17:51:24+03:00</lastBuildDate>
 
         <item>
-            <title>Cinque Terre Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
-            <link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/cinque-terre/</link>
-            <description>Discover the best places to visit, things to do, the local culture and customs, and where to stay and eat in Cinque Terre, Italy.</description>
-            <pubDate>2024-01-16T16:38:09+03:00</pubDate>
+            <title>Bragança Paulista Travel Guide (Campinas Region/São Paulo (state)/Southeast/Brazil/South America)</title>
+            <link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/campinas-region/braganca-paulista/</link>
+            <description>Discover the top attractions, food, accommodations, culture and customs in Bragança Paulista, Brazil. Learn about transportation options and logistics to plan your trip.</description>
+            <pubDate>2024-01-16T17:51:24+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
