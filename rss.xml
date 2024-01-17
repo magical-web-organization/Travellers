@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-17T19:47:58+03:00</pubDate>
-        <lastBuildDate>2024-01-17T19:47:58+03:00</lastBuildDate>
+        <pubDate>2024-01-17T21:02:22+03:00</pubDate>
+        <lastBuildDate>2024-01-17T21:02:22+03:00</lastBuildDate>
 
         <item>
-            <title>Minami Travel Guide (Osaka/Osaka (prefecture)/Kansai/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/kansai/osaka-prefecture/osaka/minami/</link>
-            <description>Explore the natural and cultural wonders of Minami in Osaka, Japan. Discover the must-visit attractions, local food and drink, transportation options, and more.</description>
-            <pubDate>2024-01-17T19:47:58+03:00</pubDate>
+            <title>Sitges Travel Guide (Barcelona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
+            <link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/sitges/</link>
+            <description>Explore the beautiful town of Sitges, located in Catalonia, Spain. Learn about the best places to visit, stay, and dine, along with safety tips and transportation options.</description>
+            <pubDate>2024-01-17T21:02:22+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
