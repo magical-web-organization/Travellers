@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-17T18:03:09+03:00</pubDate>
-        <lastBuildDate>2024-01-17T18:03:09+03:00</lastBuildDate>
+        <pubDate>2024-01-17T19:03:09+03:00</pubDate>
+        <lastBuildDate>2024-01-17T19:03:09+03:00</lastBuildDate>
 
         <item>
-            <title>Pistoia (province) Travel Guide (Tuscany/Central Italy/Italy/Europe)</title>
-            <link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/pistoia-province/</link>
-            <description>Get ready to explore the hidden gems of Pistoia (Province) with our comprehensive tour guide. Find out all the best things to do, see & experience in Pistoia.</description>
-            <pubDate>2024-01-17T18:03:09+03:00</pubDate>
+            <title>Friuli-Venezia Giulia Travel Guide (Northeast Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/northeast-italy/friuli-venezia-giulia/</link>
+            <description>Explore the beautiful region of Friuli-Venezia Giulia in Northeast Italy with this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay, as well as local culture, food, and safety information.</description>
+            <pubDate>2024-01-17T19:03:09+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
