@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-19T01:39:40+03:00</pubDate>
-        <lastBuildDate>2024-01-19T01:39:40+03:00</lastBuildDate>
+        <pubDate>2024-01-19T02:58:41+03:00</pubDate>
+        <lastBuildDate>2024-01-19T02:58:41+03:00</lastBuildDate>
 
         <item>
-            <title>Gurzuf Travel Guide (Crimea/Southern Russia/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/crimea/gurzuf/</link>
-            <description>Read this guide to discover the best things to do in Gurzuf, the top attractions and natural wonders, how to get around Gurzuf, where to stay and eat, and more!</description>
-            <pubDate>2024-01-19T01:39:40+03:00</pubDate>
+            <title>Park City Travel Guide (Wasatch Range/Utah/Southwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/wasatch-range/park-city/</link>
+            <description>Explore the best of Park City, Utah with our comprehensive travel guide, featuring top attractions, outdoor adventures, and more!</description>
+            <pubDate>2024-01-19T02:58:41+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
