@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-18T12:46:52+03:00</pubDate>
-        <lastBuildDate>2024-01-18T12:46:52+03:00</lastBuildDate>
+        <pubDate>2024-01-18T13:54:36+03:00</pubDate>
+        <lastBuildDate>2024-01-18T13:54:36+03:00</lastBuildDate>
 
         <item>
-            <title>Bad Segeberg Travel Guide (South Holstein/Schleswig-Holstein/Germany/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/south-holstein/bad-segeberg/</link>
-            <description>Explore the cultural attractions, natural beauty, food and drink scene, and travel logistics of this charming town in Schleswig-Holstein, Germany.</description>
-            <pubDate>2024-01-18T12:46:52+03:00</pubDate>
+            <title>Santa Lucía de Gordón Travel Guide (Castile and Leon/Central Spain/Spain/Iberia/Europe)</title>
+            <link>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/santa-lucia-de-gordon/</link>
+            <description>Discover the scenic views, outdoor adventures, rich culture, and local cuisine of Santa Lucía de Gordón with this comprehensive travel guide.</description>
+            <pubDate>2024-01-18T13:54:36+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
