@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-19T15:51:40+03:00</pubDate>
-        <lastBuildDate>2024-01-19T15:51:40+03:00</lastBuildDate>
+        <pubDate>2024-01-19T16:43:11+03:00</pubDate>
+        <lastBuildDate>2024-01-19T16:43:11+03:00</lastBuildDate>
 
         <item>
-            <title>Valle de Bravo Travel Guide (Mexico State/Central Mexico/Mexico/North America)</title>
-            <link>https://travellers.wiki/en/north-america/mexico/central-mexico/mexico-state/valle-de-bravo/</link>
-            <description>Plan your trip to Valle de Bravo with our comprehensive guide featuring the best places to visit, local culture, food scene, and transportation options.</description>
-            <pubDate>2024-01-19T15:51:40+03:00</pubDate>
+            <title>Ypacarai Travel Guide (Southern Paraneña/Paraguay/South America)</title>
+            <link>https://travellers.wiki/en/south-america/paraguay/southern-paranena/ypacarai/</link>
+            <description>Explore the scenic beauty and cultural significance of Ypacarai in Southern Paraneña. Visit museums and historical places, hike/bike through natural attractions, taste local dishes and beverages, and experience the Ypacarai culture. We provide all information to help you plan your trip to Ypacarai.</description>
+            <pubDate>2024-01-19T16:43:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
