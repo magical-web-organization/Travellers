@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-19T08:02:19+03:00</pubDate>
-        <lastBuildDate>2024-01-19T08:02:19+03:00</lastBuildDate>
+        <pubDate>2024-01-19T08:37:40+03:00</pubDate>
+        <lastBuildDate>2024-01-19T08:37:40+03:00</lastBuildDate>
 
         <item>
-            <title>Bahía de Kino Travel Guide (Sonora/Northern Mexico/Mexico/North America)</title>
-            <link>https://travellers.wiki/en/north-america/mexico/northern-mexico/sonora/bahia-de-kino/</link>
-            <description>Plan your trip to Bahía de Kino with this comprehensive travel guide featuring information on places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-01-19T08:02:19+03:00</pubDate>
+            <title>Cape Cod National Seashore Travel Guide (Cape Cod/Massachusetts/New England/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/cape-cod-national-seashore/</link>
+            <description>Discover the best places to visit, hike, eat, and stay in Cape Cod National Seashore with our detailed travel guide.</description>
+            <pubDate>2024-01-19T08:37:40+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
