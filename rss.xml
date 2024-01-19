@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-19T08:37:40+03:00</pubDate>
-        <lastBuildDate>2024-01-19T08:37:40+03:00</lastBuildDate>
+        <pubDate>2024-01-19T09:54:14+03:00</pubDate>
+        <lastBuildDate>2024-01-19T09:54:14+03:00</lastBuildDate>
 
         <item>
-            <title>Cape Cod National Seashore Travel Guide (Cape Cod/Massachusetts/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/cape-cod-national-seashore/</link>
-            <description>Discover the best places to visit, hike, eat, and stay in Cape Cod National Seashore with our detailed travel guide.</description>
-            <pubDate>2024-01-19T08:37:40+03:00</pubDate>
+            <title>Berne Travel Guide (Berne Region/Switzerland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/switzerland/berne-region/berne/</link>
+            <description>This Berne travel guide provides all the information you need for a perfect visit to the Swiss city. Discover the best things to do, places to visit, and local culture and customs of Berne.</description>
+            <pubDate>2024-01-19T09:54:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
