@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-20T21:33:54+03:00</pubDate>
-        <lastBuildDate>2024-01-20T21:33:54+03:00</lastBuildDate>
+        <pubDate>2024-01-20T22:08:22+03:00</pubDate>
+        <lastBuildDate>2024-01-20T22:08:22+03:00</lastBuildDate>
 
         <item>
-            <title>Conway Travel Guide (Grand Strand/South Carolina/South/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/grand-strand/conway/</link>
-            <description>Planning a trip to Conway, South Carolina? Our comprehensive guide covers everything from top attractions to best places to stay and local customs.</description>
-            <pubDate>2024-01-20T21:33:54+03:00</pubDate>
+            <title>Sherwood Park Travel Guide (Edmonton Capital Region/Alberta/Prairies/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/prairies/alberta/edmonton-capital-region/sherwood-park/</link>
+            <description>Plan your perfect trip to Sherwood Park in Alberta's Capital Region with our comprehensive travel guide covering the top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
+            <pubDate>2024-01-20T22:08:22+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
