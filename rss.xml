@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-20T21:09:59+03:00</pubDate>
-        <lastBuildDate>2024-01-20T21:09:59+03:00</lastBuildDate>
+        <pubDate>2024-01-20T21:33:54+03:00</pubDate>
+        <lastBuildDate>2024-01-20T21:33:54+03:00</lastBuildDate>
 
         <item>
-            <title>Wewoka Travel Guide (Frontier Country/Oklahoma/Great Plains/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/frontier-country/wewoka/</link>
-            <description>Discover the best places to visit, eat, and stay in Wewoka. Explore the natural and cultural attractions, hiking and biking routes, and nearby destinations to plan your trip to this charming town in Oklahoma.</description>
-            <pubDate>2024-01-20T21:09:59+03:00</pubDate>
+            <title>Conway Travel Guide (Grand Strand/South Carolina/South/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/grand-strand/conway/</link>
+            <description>Planning a trip to Conway, South Carolina? Our comprehensive guide covers everything from top attractions to best places to stay and local customs.</description>
+            <pubDate>2024-01-20T21:33:54+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
