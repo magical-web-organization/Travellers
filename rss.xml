@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-20T11:46:41+03:00</pubDate>
-        <lastBuildDate>2024-01-20T11:46:41+03:00</lastBuildDate>
+        <pubDate>2024-01-20T13:00:33+03:00</pubDate>
+        <lastBuildDate>2024-01-20T13:00:33+03:00</lastBuildDate>
 
         <item>
-            <title>Solola Travel Guide (Western Highlands/Guatemala/Central America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/central-america/guatemala/western-highlands/solola/</link>
-            <description>Discover the best things to do, see, and eat in Solola, Guatemala, with this comprehensive travel guide. Plan your trip with our expert recommendations for hotels, attractions, and more ahead of your next vacation.</description>
-            <pubDate>2024-01-20T11:46:41+03:00</pubDate>
+            <title>Chaffee Travel Guide (Red River Valley/North Dakota/Great Plains/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/red-river-valley/chaffee/</link>
+            <description>A comprehensive travel guide for Chaffee, North Dakota, featuring a list of places to visit, best things to do, where to stay, and culture & customs tips.</description>
+            <pubDate>2024-01-20T13:00:33+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
