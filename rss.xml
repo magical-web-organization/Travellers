@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-21T07:29:10+03:00</pubDate>
-        <lastBuildDate>2024-01-21T07:29:10+03:00</lastBuildDate>
+        <pubDate>2024-01-21T07:42:11+03:00</pubDate>
+        <lastBuildDate>2024-01-21T07:42:11+03:00</lastBuildDate>
 
         <item>
-            <title>Île Saint-Paul Travel Guide (Islands of the Indian Ocean/Islands/Other destinations)</title>
-            <link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-indian-ocean/ile-saint-paul/</link>
-            <description>Plan your next adventure to Île Saint-Paul with this ultimate travel guide. Discover the best hiking routes, outdoor adventures, cultural attractions, and local food and drink scene of the Indian Ocean's hidden gem.</description>
-            <pubDate>2024-01-21T07:29:10+03:00</pubDate>
+            <title>Karkaraly National Park Travel Guide (Central Highlands/Kazakhstan/Central Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/central-asia/kazakhstan/central-highlands/karkaraly-national-park/</link>
+            <description>Discover the best things to do, see, eat, and experience in Karkaraly National Park, a stunning wilderness area in central Kazakhstan. From hiking and biking to learning about local history and culture, this guide has everything you need to plan the perfect trip.</description>
+            <pubDate>2024-01-21T07:42:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
