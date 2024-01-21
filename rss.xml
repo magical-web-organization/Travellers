@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-21T11:22:42+03:00</pubDate>
-        <lastBuildDate>2024-01-21T11:22:42+03:00</lastBuildDate>
+        <pubDate>2024-01-21T11:51:46+03:00</pubDate>
+        <lastBuildDate>2024-01-21T11:51:46+03:00</lastBuildDate>
 
         <item>
-            <title>Ballia Travel Guide (Purvanchal/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/purvanchal/ballia/</link>
-            <description>Plan your trip to Ballia with our comprehensive travel guide featuring places to visit, food and drink, where to stay, and more. Discover the rich culture and stunning natural beauty of this hidden gem in Uttar Pradesh, India.</description>
-            <pubDate>2024-01-21T11:22:42+03:00</pubDate>
+            <title>Puracé National Natural Park Travel Guide (Andino/Colombia/South America)</title>
+            <link>https://travellers.wiki/en/south-america/colombia/andino/purace-national-natural-park/</link>
+            <description>Discover Puracé National Natural Park's stunning landscapes, hidden gems, and outdoor adventures. Learn about its cultural significance, food, accommodation and much more!</description>
+            <pubDate>2024-01-21T11:51:46+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
