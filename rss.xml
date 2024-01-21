@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-22T02:07:15+03:00</pubDate>
-        <lastBuildDate>2024-01-22T02:07:15+03:00</lastBuildDate>
+        <pubDate>2024-01-22T02:52:14+03:00</pubDate>
+        <lastBuildDate>2024-01-22T02:52:14+03:00</lastBuildDate>
 
         <item>
-            <title>Dead Cities Travel Guide (Northwestern Syria/Syria/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/syria/northwestern-syria/dead-cities/</link>
-            <description>Explore the ancient ruins of Dead Cities in Syria, discover its cultural and natural attractions, and learn about its local customs, food and drink, and transportation options.</description>
-            <pubDate>2024-01-22T02:07:15+03:00</pubDate>
+            <title>Bontebok National Park Travel Guide (Overberg/Western Cape/South Africa/Southern Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/overberg/bontebok-national-park/</link>
+            <description>Bontebok National Park is a hidden gem in South Africa's Western Cape. Our comprehensive travel guide includes everything you need to know about visiting this stunning park, from where to stay to the best hiking routes and local cuisine.</description>
+            <pubDate>2024-01-22T02:52:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
