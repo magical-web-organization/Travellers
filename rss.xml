@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-21T14:02:04+03:00</pubDate>
-        <lastBuildDate>2024-01-21T14:02:04+03:00</lastBuildDate>
+        <pubDate>2024-01-21T14:23:43+03:00</pubDate>
+        <lastBuildDate>2024-01-21T14:23:43+03:00</lastBuildDate>
 
         <item>
-            <title>Rai Valley Travel Guide (Marlborough/South Island/New Zealand/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/new-zealand/south-island/marlborough/rai-valley/</link>
-            <description>Discover the natural and cultural attractions of Rai Valley in Marlborough, New Zealand. Get insider tips on the best things to do, where to stay, and how to get around.</description>
-            <pubDate>2024-01-21T14:02:04+03:00</pubDate>
+            <title>Walt Disney World Travel Guide (Greater Orlando/Inland Florida/Florida/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/greater-orlando/walt-disney-world/</link>
+            <description>Plan your dream vacation with our complete guide to Walt Disney World. Learn about the top attractions, where to stay, what to eat, and more.</description>
+            <pubDate>2024-01-21T14:23:43+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
