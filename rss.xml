@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-21T23:11:16+03:00</pubDate>
-        <lastBuildDate>2024-01-21T23:11:16+03:00</lastBuildDate>
+        <pubDate>2024-01-21T23:53:14+03:00</pubDate>
+        <lastBuildDate>2024-01-21T23:53:14+03:00</lastBuildDate>
 
         <item>
-            <title>Andijk Travel Guide (North Holland Peninsula/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
-            <link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/north-holland-peninsula/andijk/</link>
-            <description>Discover the best places to visit, things to do, where to stay, and what to eat in Andijk, North Holland. Plan your trip with our comprehensive guide.</description>
-            <pubDate>2024-01-21T23:11:16+03:00</pubDate>
+            <title>Pole of Cold Travel Guide (Yakutia/Russian Far East/Russia/Eastern Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/yakutia/pole-of-cold/</link>
+            <description>Discover the best places to visit, things to do, food and drink scene, and travel tips for a memorable trip to Pole of Cold in Yakutia, Russia.</description>
+            <pubDate>2024-01-21T23:53:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
