@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-21T12:29:23+03:00</pubDate>
-        <lastBuildDate>2024-01-21T12:29:23+03:00</lastBuildDate>
+        <pubDate>2024-01-21T12:45:38+03:00</pubDate>
+        <lastBuildDate>2024-01-21T12:45:38+03:00</lastBuildDate>
 
         <item>
-            <title>Kingsport Travel Guide (Eastern Tennessee/Tennessee/South/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/eastern-tennessee/kingsport/</link>
-            <description>Plan your visit to Kingsport with this comprehensive tour guide including attractions, accommodations, food, transportation, and local customs.</description>
-            <pubDate>2024-01-21T12:29:23+03:00</pubDate>
+            <title>Reynosa Travel Guide (Tamaulipas/Northern Mexico/Mexico/North America)</title>
+            <link>https://travellers.wiki/en/north-america/mexico/northern-mexico/tamaulipas/reynosa/</link>
+            <description>Explore the vibrant and adventurous city of Reynosa in Northern Mexico with our comprehensive travel guide. Discover the best things to do, see, and eat, along with safety tips for a memorable trip.</description>
+            <pubDate>2024-01-21T12:45:38+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
