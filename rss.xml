@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-22T12:48:13+03:00</pubDate>
-        <lastBuildDate>2024-01-22T12:48:13+03:00</lastBuildDate>
+        <pubDate>2024-01-22T13:08:36+03:00</pubDate>
+        <lastBuildDate>2024-01-22T13:08:36+03:00</lastBuildDate>
 
         <item>
-            <title>Chernobyl Travel Guide (Central Ukraine/Ukraine/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/ukraine/central-ukraine/chernobyl/</link>
-            <description>Explore the abandoned city of Chernobyl with this comprehensive travel guide. Discover the top places to visit, things to do, and where to stay, along with safety tips and cultural insights.</description>
-            <pubDate>2024-01-22T12:48:13+03:00</pubDate>
+            <title>Georges River National Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/georges-river-national-park/</link>
+            <description>A comprehensive guide to plan your visit to Georges River National Park, including places to visit, hiking/biking routes, food, and drink scene, where to stay, and more.</description>
+            <pubDate>2024-01-22T13:08:36+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
