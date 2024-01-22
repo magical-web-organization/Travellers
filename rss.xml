@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-22T19:33:45+03:00</pubDate>
-        <lastBuildDate>2024-01-22T19:33:45+03:00</lastBuildDate>
+        <pubDate>2024-01-22T20:33:09+03:00</pubDate>
+        <lastBuildDate>2024-01-22T20:33:09+03:00</lastBuildDate>
 
         <item>
-            <title>Andalusia Travel Guide (River Heritage/Alabama/South/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/river-heritage/andalusia/</link>
-            <description>Explore the culturally rich and natural attractions of Andalusia, Alabama. Discover the best things to do, where to stay, what to eat, and much more in our comprehensive travel guide.</description>
-            <pubDate>2024-01-22T19:33:45+03:00</pubDate>
+            <title>Cividale del Friuli Travel Guide (Friuli-Venezia Giulia/Northeast Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/northeast-italy/friuli-venezia-giulia/cividale-del-friuli/</link>
+            <description>Discover the best things to do, see, and eat in Cividale del Friuli, Italy with our comprehensive travel guide. Explore top attractions, beautiful natural areas, hiking routes, delicious food, and more.</description>
+            <pubDate>2024-01-22T20:33:09+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
