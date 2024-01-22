@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-22T21:38:50+03:00</pubDate>
-        <lastBuildDate>2024-01-22T21:38:50+03:00</lastBuildDate>
+        <pubDate>2024-01-22T22:14:52+03:00</pubDate>
+        <lastBuildDate>2024-01-22T22:14:52+03:00</lastBuildDate>
 
         <item>
-            <title>Cleveland Travel Guide (North East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-east-england/cleveland/</link>
-            <description>Discover the best places to visit, food to try, and things to do in Cleveland, UK. Plan your trip with this comprehensive guide that includes natural attractions, hiking/biking routes, museums, local culture and customs, safety measures, transportation and logistics, and nearby destinations.</description>
-            <pubDate>2024-01-22T21:38:50+03:00</pubDate>
+            <title>South Lombok Travel Guide (Lombok/Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/lombok/south-lombok/</link>
+            <description>This travel guide offers a detailed itinerary of South Lombok, including places to visit, things to do, where to stay, local cuisine, and cultural insights.</description>
+            <pubDate>2024-01-22T22:14:52+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
