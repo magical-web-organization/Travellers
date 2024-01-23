@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-23T12:17:21+03:00</pubDate>
-        <lastBuildDate>2024-01-23T12:17:21+03:00</lastBuildDate>
+        <pubDate>2024-01-23T12:56:46+03:00</pubDate>
+        <lastBuildDate>2024-01-23T12:56:46+03:00</lastBuildDate>
 
         <item>
-            <title>South Savonia Travel Guide (Finnish Lakeland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/south-savonia/</link>
-            <description>Discover the cultural and natural attractions, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety, and logistics for South Savonia, Finland.</description>
-            <pubDate>2024-01-23T12:17:21+03:00</pubDate>
+            <title>Brenzone sul Garda Travel Guide (Verona (province)/Veneto/Northeast Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/verona-province/brenzone-sul-garda/</link>
+            <description>Discover the best places to visit, things to do, food scene, accommodations, and more in Brenzone sul Garda, Italy with our comprehensive travel guide!</description>
+            <pubDate>2024-01-23T12:56:46+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
