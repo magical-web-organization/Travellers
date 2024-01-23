@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-23T10:31:19+03:00</pubDate>
-        <lastBuildDate>2024-01-23T10:31:19+03:00</lastBuildDate>
+        <pubDate>2024-01-23T11:00:01+03:00</pubDate>
+        <lastBuildDate>2024-01-23T11:00:01+03:00</lastBuildDate>
 
         <item>
-            <title>Burlington Travel Guide (Southeast Iowa/Iowa/Midwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/southeast-iowa/burlington/</link>
-            <description>Discover the best places to visit, where to stay, what to eat, and things to do in Burlington, Iowa. Read our travel guide now!</description>
-            <pubDate>2024-01-23T10:31:19+03:00</pubDate>
+            <title>St Andrews Travel Guide (Fife/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/st-andrews/</link>
+            <description>Discover the best things to do, places to stay, local culture, and transportation options in St Andrews with our comprehensive tour guide.</description>
+            <pubDate>2024-01-23T11:00:01+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
