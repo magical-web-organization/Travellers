@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-23T23:34:32+03:00</pubDate>
-        <lastBuildDate>2024-01-23T23:34:32+03:00</lastBuildDate>
+        <pubDate>2024-01-24T00:28:00+03:00</pubDate>
+        <lastBuildDate>2024-01-24T00:28:00+03:00</lastBuildDate>
 
         <item>
-            <title>Rothenburg ob der Tauber Travel Guide (Middle Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/rothenburg-ob-der-tauber/</link>
-            <description>Discover the best things to do, see, eat, and stay in Rothenburg ob der Tauber, Germany with this comprehensive travel guide.</description>
-            <pubDate>2024-01-23T23:34:32+03:00</pubDate>
+            <title>Seiser Alm Travel Guide (South Tyrol/Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/south-tyrol/seiser-alm/</link>
+            <description>Discover the best of Seiser Alm with our comprehensive travel guide. From natural attractions to cultural landmarks, hiking and biking routes to local cuisine, we've got all the information you need to plan your perfect trip.</description>
+            <pubDate>2024-01-24T00:28:00+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
