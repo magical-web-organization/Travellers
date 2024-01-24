@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-24T21:52:29+03:00</pubDate>
-        <lastBuildDate>2024-01-24T21:52:29+03:00</lastBuildDate>
+        <pubDate>2024-01-24T22:11:27+03:00</pubDate>
+        <lastBuildDate>2024-01-24T22:11:27+03:00</lastBuildDate>
 
         <item>
-            <title>Kittery Travel Guide (Southern Coast/Maine/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/southern-coast/kittery/</link>
-            <description>Discover the best things to do, places to visit, where to stay and eat in Kittery, Maine, the gateway to the Southern Coast of Maine, New England, USA. Plan your trip to Kittery with this complete itinerary and insider's guide.</description>
-            <pubDate>2024-01-24T21:52:29+03:00</pubDate>
+            <title>Southern Circuit Travel Guide (Hokkaido/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/southern-circuit/</link>
+            <description>Discover the cultural, natural, and adventurous attractions of Southern Circuit in Hokkaido, Japan. Updated information on what to see, where to stay, and what to do in Southern Circuit.</description>
+            <pubDate>2024-01-24T22:11:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
