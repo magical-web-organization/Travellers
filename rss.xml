@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-24T13:09:01+03:00</pubDate>
-        <lastBuildDate>2024-01-24T13:09:01+03:00</lastBuildDate>
+        <pubDate>2024-01-24T13:39:01+03:00</pubDate>
+        <lastBuildDate>2024-01-24T13:39:01+03:00</lastBuildDate>
 
         <item>
-            <title>Maloti Drakensberg Park Travel Guide (South Africa/Southern Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/southern-africa/south-africa/maloti-drakensberg-park/</link>
-            <description>Get ready for an adventure-filled trip to Maloti Drakensberg Park in South Africa. Learn about its natural attractions, cultural sites, activities, and must-try dishes in this comprehensive guide.</description>
-            <pubDate>2024-01-24T13:09:01+03:00</pubDate>
+            <title>Koper Travel Guide (Coast and Karst/Slovenia/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/slovenia/coast-and-karst/koper/</link>
+            <description>Plan your trip to Koper, Slovenia with this comprehensive guide including must-see attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
+            <pubDate>2024-01-24T13:39:01+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
