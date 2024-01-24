@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-24T13:39:01+03:00</pubDate>
-        <lastBuildDate>2024-01-24T13:39:01+03:00</lastBuildDate>
+        <pubDate>2024-01-24T14:05:07+03:00</pubDate>
+        <lastBuildDate>2024-01-24T14:05:07+03:00</lastBuildDate>
 
         <item>
-            <title>Koper Travel Guide (Coast and Karst/Slovenia/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/slovenia/coast-and-karst/koper/</link>
-            <description>Plan your trip to Koper, Slovenia with this comprehensive guide including must-see attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
-            <pubDate>2024-01-24T13:39:01+03:00</pubDate>
+            <title>Yellowstone Country Travel Guide (Montana/Rocky Mountains/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/yellowstone-country/</link>
+            <description>A comprehensive travel guide to Yellowstone Country in Montana, including things to do, where to stay, local culture, and more.</description>
+            <pubDate>2024-01-24T14:05:07+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
