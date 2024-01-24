@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T00:05:22+03:00</pubDate>
-        <lastBuildDate>2024-01-25T00:05:22+03:00</lastBuildDate>
+        <pubDate>2024-01-25T00:59:54+03:00</pubDate>
+        <lastBuildDate>2024-01-25T00:59:54+03:00</lastBuildDate>
 
         <item>
-            <title>Hoquiam Travel Guide (Olympic Peninsula/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/olympic-peninsula/hoquiam/</link>
-            <description>Discover the best places to visit, things to do, and where to stay in Hoquiam, Washington. Get tips on food, culture, safety, and transportation for a memorable trip.</description>
-            <pubDate>2024-01-25T00:05:22+03:00</pubDate>
+            <title>Stephenville Travel Guide (Cross Timbers/Prairies and Lakes/Texas/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/cross-timbers/stephenville/</link>
+            <description>Explore the best of Stephenville, Texas with our comprehensive guide, featuring top attractions, activities, accommodations, and more.</description>
+            <pubDate>2024-01-25T00:59:54+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
