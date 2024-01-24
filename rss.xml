@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-24T19:51:43+03:00</pubDate>
-        <lastBuildDate>2024-01-24T19:51:43+03:00</lastBuildDate>
+        <pubDate>2024-01-24T20:10:27+03:00</pubDate>
+        <lastBuildDate>2024-01-24T20:10:27+03:00</lastBuildDate>
 
         <item>
-            <title>Neuenkirchen Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/neuenkirchen/</link>
-            <description>Plan your trip to Neuenkirchen with our detailed guide. Discover the best things to see and do, where to eat and stay, local culture and customs, and more!</description>
-            <pubDate>2024-01-24T19:51:43+03:00</pubDate>
+            <title>Amaliapolis Travel Guide (Magnesia/Thessaly/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/amaliapolis/</link>
+            <description>Planning a trip to Amaliapolis? Discover the best things to do, places to visit, food to try, and more with our comprehensive travel guide.</description>
+            <pubDate>2024-01-24T20:10:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
