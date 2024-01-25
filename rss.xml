@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T06:35:16+03:00</pubDate>
-        <lastBuildDate>2024-01-25T06:35:16+03:00</lastBuildDate>
+        <pubDate>2024-01-25T07:29:55+03:00</pubDate>
+        <lastBuildDate>2024-01-25T07:29:55+03:00</lastBuildDate>
 
         <item>
-            <title>Milos Travel Guide (Cyclades/Greek Islands/Greece/Europe)</title>
-            <link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/milos/</link>
-            <description>Discover the best places to visit, stay, and eat in Milos, Greece. Learn about the local culture, customs, and safety tips for a memorable trip.</description>
-            <pubDate>2024-01-25T06:35:16+03:00</pubDate>
+            <title>Yeovil Travel Guide (Somerset/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/somerset/yeovil/</link>
+            <description>Explore the culturally significant attractions, hike/bike routes, food and drink scene, and local customs of Yeovil. Discover the best things to do, stay options, and transportation logistics in this comprehensive travel guide.</description>
+            <pubDate>2024-01-25T07:29:55+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
