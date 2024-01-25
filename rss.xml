@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T14:10:59+03:00</pubDate>
-        <lastBuildDate>2024-01-25T14:10:59+03:00</lastBuildDate>
+        <pubDate>2024-01-25T14:53:59+03:00</pubDate>
+        <lastBuildDate>2024-01-25T14:53:59+03:00</lastBuildDate>
 
         <item>
-            <title>Hatfield Travel Guide (Hertfordshire/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/hertfordshire/hatfield/</link>
-            <description>Discover all the must-visit attractions, outdoor adventures, local cuisine, accommodations, transportation, and cultural customs of Hatfield, UK.</description>
-            <pubDate>2024-01-25T14:10:59+03:00</pubDate>
+            <title>Ashgabat Travel Guide (Ahal Province/Turkmenistan/Central Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/central-asia/turkmenistan/ahal-province/ashgabat/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in Ashgabat, Turkmenistan.</description>
+            <pubDate>2024-01-25T14:53:59+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
