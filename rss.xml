@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T05:20:43+03:00</pubDate>
-        <lastBuildDate>2024-01-25T05:20:43+03:00</lastBuildDate>
+        <pubDate>2024-01-25T05:58:46+03:00</pubDate>
+        <lastBuildDate>2024-01-25T05:58:46+03:00</lastBuildDate>
 
         <item>
-            <title>Jakar Travel Guide (Central Bhutan/Bhutan/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/bhutan/central-bhutan/jakar/</link>
-            <description>Discover the best places to visit, things to do, and local culture of Jakar, Bhutan with this detailed travel guide. Find out where to stay, how to get around, and tips for a safe and enjoyable trip.</description>
-            <pubDate>2024-01-25T05:20:43+03:00</pubDate>
+            <title>Goiânia Travel Guide (Goiás/Central West/Brazil/South America)</title>
+            <link>https://travellers.wiki/en/south-america/brazil/central-west/goias/goiania/</link>
+            <description>Plan your travels with this extensive guide to the best attractions, food, culture, and more in Goiânia, Brazil.</description>
+            <pubDate>2024-01-25T05:58:46+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
