@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T17:05:29+03:00</pubDate>
-        <lastBuildDate>2024-01-25T17:05:29+03:00</lastBuildDate>
+        <pubDate>2024-01-25T17:46:51+03:00</pubDate>
+        <lastBuildDate>2024-01-25T17:46:51+03:00</lastBuildDate>
 
         <item>
-            <title>Guaíra Travel Guide (Paraná/South/Brazil/South America)</title>
-            <link>https://travellers.wiki/en/south-america/brazil/south/parana/guaira/</link>
-            <description>Discover the cultural attractions, natural wonders, food and drink scene, where to stay, and more in Guaíra, Brazil with this comprehensive travel guide.</description>
-            <pubDate>2024-01-25T17:05:29+03:00</pubDate>
+            <title>Mastigouche Wildlife Reserve Travel Guide (Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/mastigouche-wildlife-reserve/</link>
+            <description>Explore Mastigouche Wildlife Reserve with this comprehensive travel guide featuring tips on what to see, where to stay, and what to do in the area.</description>
+            <pubDate>2024-01-25T17:46:51+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
