@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T21:45:56+03:00</pubDate>
-        <lastBuildDate>2024-01-25T21:45:56+03:00</lastBuildDate>
+        <pubDate>2024-01-25T22:11:23+03:00</pubDate>
+        <lastBuildDate>2024-01-25T22:11:23+03:00</lastBuildDate>
 
         <item>
-            <title>Laufenburg Travel Guide (Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/laufenburg/</link>
-            <description>Discover Laufenburg's culture, food, and outdoor adventures. Get insider tips on where to stay and what to do in this scenic town.</description>
-            <pubDate>2024-01-25T21:45:56+03:00</pubDate>
+            <title>Fish River Canyon Park Travel Guide (ǁKaras/Namibia/Southern Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/southern-africa/namibia/karas/fish-river-canyon-park/</link>
+            <description>Plan your trip to Fish River Canyon Park with this comprehensive tour guide! From outdoor adventures to local culture, we have everything you need to know to make the most out of your visit.</description>
+            <pubDate>2024-01-25T22:11:23+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
