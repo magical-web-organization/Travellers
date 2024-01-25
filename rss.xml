@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T18:22:17+03:00</pubDate>
-        <lastBuildDate>2024-01-25T18:22:17+03:00</lastBuildDate>
+        <pubDate>2024-01-25T18:39:32+03:00</pubDate>
+        <lastBuildDate>2024-01-25T18:39:32+03:00</lastBuildDate>
 
         <item>
-            <title>Southern District Travel Guide (Hong Kong/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/hong-kong/southern-district/</link>
-            <description>Plan your trip to Southern District, Hong Kong with this comprehensive travel guide featuring top attractions, activities, food options, and more.</description>
-            <pubDate>2024-01-25T18:22:17+03:00</pubDate>
+            <title>Enna (province) Travel Guide (Sicily/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/sicily/enna-province/</link>
+            <description>Discover the hidden gems of Enna Province! From natural attractions to cultural landmarks and hiking/biking routes, explore everything this beautiful region in Sicily has to offer. Plan your trip now with our comprehensive guide!</description>
+            <pubDate>2024-01-25T18:39:32+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
