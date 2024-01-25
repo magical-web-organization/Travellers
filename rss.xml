@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T23:43:03+03:00</pubDate>
-        <lastBuildDate>2024-01-25T23:43:03+03:00</lastBuildDate>
+        <pubDate>2024-01-26T00:13:21+03:00</pubDate>
+        <lastBuildDate>2024-01-26T00:13:21+03:00</lastBuildDate>
 
         <item>
-            <title>Banda Islands Travel Guide (Maluku/Indonesia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/maluku/banda-islands/</link>
-            <description>Explore the beauty of Banda Islands with our travel guide. Discover must-visit places, hiking/biking routes, food scene, culture, and more.</description>
-            <pubDate>2024-01-25T23:43:03+03:00</pubDate>
+            <title>Shoshone Travel Guide (South Central Idaho/Idaho/Rocky Mountains/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/south-central-idaho/shoshone/</link>
+            <description>Discover the best cultural attractions, natural wonders, hiking and biking routes, activities, hotels and local cuisine recommendations in Shoshone, Idaho.</description>
+            <pubDate>2024-01-26T00:13:21+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
