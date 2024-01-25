@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T10:59:33+03:00</pubDate>
-        <lastBuildDate>2024-01-25T10:59:33+03:00</lastBuildDate>
+        <pubDate>2024-01-25T11:09:35+03:00</pubDate>
+        <lastBuildDate>2024-01-25T11:09:35+03:00</lastBuildDate>
 
         <item>
-            <title>Ritzville Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/ritzville/</link>
-            <description>Plan your trip to Ritzville with our comprehensive guide. Explore its natural and cultural attractions, food scene, local customs, and more!</description>
-            <pubDate>2024-01-25T10:59:33+03:00</pubDate>
+            <title>Toliara Travel Guide (Toliara Province/Madagascar/East African Islands/Africa)</title>
+            <link>https://travellers.wiki/en/africa/east-african-islands/madagascar/toliara-province/toliara/</link>
+            <description>Discover the best places to visit, things to do, and where to eat in Toliara, Madagascar. Plan your trip with this comprehensive travel guide.</description>
+            <pubDate>2024-01-25T11:09:35+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
