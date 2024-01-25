@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T08:05:06+03:00</pubDate>
-        <lastBuildDate>2024-01-25T08:05:06+03:00</lastBuildDate>
+        <pubDate>2024-01-25T09:02:29+03:00</pubDate>
+        <lastBuildDate>2024-01-25T09:02:29+03:00</lastBuildDate>
 
         <item>
-            <title>El Centro Travel Guide (Imperial County/Desert/California/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/imperial-county/el-centro/</link>
-            <description>Discover the best places to visit, things to do, where to stay, and more in El Centro, California.</description>
-            <pubDate>2024-01-25T08:05:06+03:00</pubDate>
+            <title>Ionian Islands Travel Guide (Greek Islands/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/greek-islands/ionian-islands/</link>
+            <description>Discover the best places to visit, food scene, accommodations, cultural customs, and transportation options in Ionian Islands, Greece.</description>
+            <pubDate>2024-01-25T09:02:29+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
