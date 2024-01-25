@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-25T10:20:37+03:00</pubDate>
-        <lastBuildDate>2024-01-25T10:20:37+03:00</lastBuildDate>
+        <pubDate>2024-01-25T10:59:33+03:00</pubDate>
+        <lastBuildDate>2024-01-25T10:59:33+03:00</lastBuildDate>
 
         <item>
-            <title>Douarnenez Travel Guide (Brittany/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/brittany/douarnenez/</link>
-            <description>Explore Douarnenez, France with this comprehensive travel guide. Discover the best things to do, see, and eat in the coastal city of Brittany.</description>
-            <pubDate>2024-01-25T10:20:37+03:00</pubDate>
+            <title>Ritzville Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/ritzville/</link>
+            <description>Plan your trip to Ritzville with our comprehensive guide. Explore its natural and cultural attractions, food scene, local customs, and more!</description>
+            <pubDate>2024-01-25T10:59:33+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
