@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/menorca/</loc>
+        <lastmod>2024-01-26T06:20:38+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/menorca/es-mercadal/</loc>
+        <lastmod>2024-01-26T06:20:38+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/winthrop-washington/</loc>
         <lastmod>2024-01-26T05:52:22+03:00</lastmod>
     </url>
