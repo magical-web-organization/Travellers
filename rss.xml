@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-26T16:19:33+03:00</pubDate>
-        <lastBuildDate>2024-01-26T16:19:33+03:00</lastBuildDate>
+        <pubDate>2024-01-26T16:48:28+03:00</pubDate>
+        <lastBuildDate>2024-01-26T16:48:28+03:00</lastBuildDate>
 
         <item>
-            <title>Beipu Travel Guide (Hsinchu County/Northern Taiwan/Taiwan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/hsinchu-county/beipu/</link>
-            <description>Discover the top attractions, activities, food, and culture in Beipu, Taiwan. Plan your trip with this detailed travel guide, including itinerary suggestions and transportation options.</description>
-            <pubDate>2024-01-26T16:19:33+03:00</pubDate>
+            <title>Kent Travel Guide (Fraser Valley/Lower Mainland/British Columbia/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/fraser-valley/kent/</link>
+            <description>Discover the best things to do, places to visit, where to stay, and more in Kent, BC with this comprehensive travel guide.</description>
+            <pubDate>2024-01-26T16:48:28+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
