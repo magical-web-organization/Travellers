@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-26T20:00:38+03:00</pubDate>
-        <lastBuildDate>2024-01-26T20:00:38+03:00</lastBuildDate>
+        <pubDate>2024-01-26T20:12:28+03:00</pubDate>
+        <lastBuildDate>2024-01-26T20:12:28+03:00</lastBuildDate>
 
         <item>
-            <title>Lingga Islands Travel Guide (Riau Islands/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/riau-islands/lingga-islands/</link>
-            <description>Plan your trip to Lingga Islands with our comprehensive travel guide. Discover the best things to do, places to see, and where to stay in this Southeast Asian paradise.</description>
-            <pubDate>2024-01-26T20:00:38+03:00</pubDate>
+            <title>Saaremaa Travel Guide (West Estonia and Islands/Estonia/Baltic states/Europe)</title>
+            <link>https://travellers.wiki/en/europe/baltic-states/estonia/west-estonia-and-islands/saaremaa/</link>
+            <description>Discover the top attractions, best hiking and biking routes, food and drink scene, and local culture of Saaremaa in this comprehensive travel guide. Learn about transportation options, nearby destinations, and do's and don'ts for a safe and enjoyable trip.</description>
+            <pubDate>2024-01-26T20:12:28+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
