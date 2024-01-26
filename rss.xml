@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-26T12:05:12+03:00</pubDate>
-        <lastBuildDate>2024-01-26T12:05:12+03:00</lastBuildDate>
+        <pubDate>2024-01-26T12:56:12+03:00</pubDate>
+        <lastBuildDate>2024-01-26T12:56:12+03:00</lastBuildDate>
 
         <item>
-            <title>West Travel Guide (Lima/Central Coast/Peru/South America)</title>
-            <link>https://travellers.wiki/en/south-america/peru/central-coast/lima/west/</link>
-            <description>Discover the best places to visit, things to do, and cultural customs in West, Lima, Peru. Plan your trip with this comprehensive travel guide.</description>
-            <pubDate>2024-01-26T12:05:12+03:00</pubDate>
+            <title>Yokosuka Travel Guide (Kanagawa/Kanto/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/kanto/kanagawa/yokosuka/</link>
+            <description>Discover the best places to visit, things to do, and local culture of Yokosuka in Kanagawa, Japan, with this comprehensive travel guide.</description>
+            <pubDate>2024-01-26T12:56:12+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
