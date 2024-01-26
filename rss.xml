@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-26T22:17:15+03:00</pubDate>
-        <lastBuildDate>2024-01-26T22:17:15+03:00</lastBuildDate>
+        <pubDate>2024-01-26T22:57:35+03:00</pubDate>
+        <lastBuildDate>2024-01-26T22:57:35+03:00</lastBuildDate>
 
         <item>
-            <title>Navotas Travel Guide (Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/navotas/</link>
-            <description>Explore the beautiful town of Navotas in the Philippines with this comprehensive tour guide. Discover the best places to visit, things to do, food to try, and more.</description>
-            <pubDate>2024-01-26T22:17:15+03:00</pubDate>
+            <title>Orontes Valley Travel Guide (Syria/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/syria/orontes-valley/</link>
+            <description>Plan your trip to Orontes Valley with this comprehensive travel guide featuring top attractions, things to do, where to stay, and more.</description>
+            <pubDate>2024-01-26T22:57:35+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
