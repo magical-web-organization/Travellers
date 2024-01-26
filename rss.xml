@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-26T15:07:33+03:00</pubDate>
-        <lastBuildDate>2024-01-26T15:07:33+03:00</lastBuildDate>
+        <pubDate>2024-01-26T15:53:26+03:00</pubDate>
+        <lastBuildDate>2024-01-26T15:53:26+03:00</lastBuildDate>
 
         <item>
-            <title>Jung Travel Guide (Seoul/Gyeonggi/South Korea/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/seoul/jung/</link>
-            <description>Explore the rich culture, natural beauty, and exciting outdoor adventures in Jung, South Korea with this comprehensive tour guide. Discover the best places to visit, hiking and biking routes, food and drink scene, where to stay, and more.</description>
-            <pubDate>2024-01-26T15:07:33+03:00</pubDate>
+            <title>Santillana del Mar Travel Guide (Cantabria/Green Spain/Spain/Iberia/Europe)</title>
+            <link>https://travellers.wiki/en/europe/iberia/spain/green-spain/cantabria/santillana-del-mar/</link>
+            <description>Planning a trip to Santillana del Mar? Our comprehensive guide has you covered with recommendations on what to see, do, eat and more.</description>
+            <pubDate>2024-01-26T15:53:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
