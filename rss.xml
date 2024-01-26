@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-26T20:37:29+03:00</pubDate>
-        <lastBuildDate>2024-01-26T20:37:29+03:00</lastBuildDate>
+        <pubDate>2024-01-26T21:11:16+03:00</pubDate>
+        <lastBuildDate>2024-01-26T21:11:16+03:00</lastBuildDate>
 
         <item>
-            <title>Mount Kisco Travel Guide (Westchester County/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/westchester-county/mount-kisco/</link>
-            <description>Discover the best places to visit, things to do, where to eat and stay, and local customs in Mount Kisco, New York.</description>
-            <pubDate>2024-01-26T20:37:29+03:00</pubDate>
+            <title>Lantau Travel Guide (Hong Kong/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/hong-kong/lantau/</link>
+            <description>Explore the beautiful island of Lantau in Hong Kong with our comprehensive travel guide. Discover top attractions, hiking routes, food scene, safety tips, transportation options, and more.</description>
+            <pubDate>2024-01-26T21:11:16+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
