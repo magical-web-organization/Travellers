@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-26T13:27:21+03:00</pubDate>
-        <lastBuildDate>2024-01-26T13:27:21+03:00</lastBuildDate>
+        <pubDate>2024-01-26T13:45:27+03:00</pubDate>
+        <lastBuildDate>2024-01-26T13:45:27+03:00</lastBuildDate>
 
         <item>
-            <title>North Travel Guide (Kuala Lumpur/West Coast/Malaysia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/kuala-lumpur/north/</link>
-            <description>Discover the best things to do in North, Kuala Lumpur with this comprehensive travel guide. From cultural attractions, natural wonders, to delicious food, you'll find everything you need to plan your trip.</description>
-            <pubDate>2024-01-26T13:27:21+03:00</pubDate>
+            <title>Pogradec Travel Guide (Southeastern Albania/Albania/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/albania/southeastern-albania/pogradec/</link>
+            <description>Discover the must-see attractions, hiking and biking routes, cultural gems, food and drink scene, and everything else you need to know about planning a trip to Pogradec, Albania.</description>
+            <pubDate>2024-01-26T13:45:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
