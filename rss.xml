@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T02:03:19+03:00</pubDate>
-        <lastBuildDate>2024-01-28T02:03:19+03:00</lastBuildDate>
+        <pubDate>2024-01-28T02:09:21+03:00</pubDate>
+        <lastBuildDate>2024-01-28T02:09:21+03:00</lastBuildDate>
 
         <item>
-            <title>Mossoró Travel Guide (Rio Grande do Norte/Northeast/Brazil/South America)</title>
-            <link>https://travellers.wiki/en/south-america/brazil/northeast/rio-grande-do-norte/mossoro/</link>
-            <description>Discover everything you need to know about Mossoró, including top attractions, food and drink scene, where to stay, local culture, safety, and logistics.</description>
-            <pubDate>2024-01-28T02:03:19+03:00</pubDate>
+            <title>Litang Travel Guide (Ganzi (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/litang/</link>
+            <description>Plan your trip to Litang with our comprehensive travel guide that includes information on the best things to do, places to stay, local food and drinks, culture and customs, and much more.</description>
+            <pubDate>2024-01-28T02:09:21+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
