@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-27T09:30:52+03:00</pubDate>
-        <lastBuildDate>2024-01-27T09:30:52+03:00</lastBuildDate>
+        <pubDate>2024-01-27T09:57:22+03:00</pubDate>
+        <lastBuildDate>2024-01-27T09:57:22+03:00</lastBuildDate>
 
         <item>
-            <title>Andover Travel Guide (Oxford County/Lakes and Mountains/Maine/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/lakes-and-mountains/oxford-county/andover/</link>
-            <description>Plan your next adventure to Andover, Maine with this comprehensive travel guide. Explore the natural beauty, cultural attractions, and local cuisine of this charming New England town.</description>
-            <pubDate>2024-01-27T09:30:52+03:00</pubDate>
+            <title>Juana Díaz Travel Guide (Porta Caribe/Puerto Rico/Caribbean/North America)</title>
+            <link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/porta-caribe/juana-diaz/</link>
+            <description>Discover the best places to visit, things to do, and where to stay in Juana Díaz. Plan your trip and explore the local culture and customs, food and drink scene, and natural attractions of this vibrant Puerto Rican town.</description>
+            <pubDate>2024-01-27T09:57:22+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
