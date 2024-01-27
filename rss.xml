@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-27T23:39:23+03:00</pubDate>
-        <lastBuildDate>2024-01-27T23:39:23+03:00</lastBuildDate>
+        <pubDate>2024-01-28T00:32:39+03:00</pubDate>
+        <lastBuildDate>2024-01-28T00:32:39+03:00</lastBuildDate>
 
         <item>
-            <title>Aden Travel Guide (Yemeni Coastal Plains/Yemen/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/yemen/yemeni-coastal-plains/aden/</link>
-            <description>Plan your trip to Aden with our comprehensive travel guide, including places to visit, hiking routes, cultural attractions, food scene, and transportation options.</description>
-            <pubDate>2024-01-27T23:39:23+03:00</pubDate>
+            <title>North Travel Guide (Paraná/South/Brazil/South America)</title>
+            <link>https://travellers.wiki/en/south-america/brazil/south/parana/north/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in North Paraná, Brazil.</description>
+            <pubDate>2024-01-28T00:32:39+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
