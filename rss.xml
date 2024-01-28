@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T10:01:58+03:00</pubDate>
-        <lastBuildDate>2024-01-28T10:01:58+03:00</lastBuildDate>
+        <pubDate>2024-01-28T10:29:50+03:00</pubDate>
+        <lastBuildDate>2024-01-28T10:29:50+03:00</lastBuildDate>
 
         <item>
-            <title>South Travel Guide (Kuala Lumpur/West Coast/Malaysia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/kuala-lumpur/south/</link>
-            <description>Discover the must-visit attractions, food scene, where to stay, safety tips, getting around, and more in this comprehensive travel guide to South Kuala Lumpur, Malaysia.</description>
-            <pubDate>2024-01-28T10:01:58+03:00</pubDate>
+            <title>Kuala Kangsar Travel Guide (Perak/West Coast/Malaysia/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/perak/kuala-kangsar/</link>
+            <description>This guide showcases the top things to do in Kuala Kangsar, must-try dishes, accommodations, transportation options and logistics, and other travel tips.</description>
+            <pubDate>2024-01-28T10:29:50+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
