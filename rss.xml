@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T03:09:42+03:00</pubDate>
-        <lastBuildDate>2024-01-28T03:09:42+03:00</lastBuildDate>
+        <pubDate>2024-01-28T03:46:12+03:00</pubDate>
+        <lastBuildDate>2024-01-28T03:46:12+03:00</lastBuildDate>
 
         <item>
-            <title>Serrana Travel Guide (Santa Catarina/South/Brazil/South America)</title>
-            <link>https://travellers.wiki/en/south-america/brazil/south/santa-catarina/serrana/</link>
-            <description>Discover the cultural and natural treasures of Serrana, a beautiful city in Santa Catarina, Brazil. Plan your trip with this complete guide that covers everything from where to stay to what to eat, see, and do.</description>
-            <pubDate>2024-01-28T03:09:42+03:00</pubDate>
+            <title>Sainte-Thècle Travel Guide (Mékinac/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/mekinac/sainte-thecle/</link>
+            <description>Plan your next adventure to Sainte-Thècle with this comprehensive travel guide, featuring top attractions, hiking/biking routes, food and drink scene, accommodations, local culture, safety and health, transportation options, and nearby destinations.</description>
+            <pubDate>2024-01-28T03:46:12+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
