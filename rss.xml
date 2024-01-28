@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T22:59:31+03:00</pubDate>
-        <lastBuildDate>2024-01-28T22:59:31+03:00</lastBuildDate>
+        <pubDate>2024-01-28T23:21:18+03:00</pubDate>
+        <lastBuildDate>2024-01-28T23:21:18+03:00</lastBuildDate>
 
         <item>
-            <title>West Timor Travel Guide (Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/west-timor/</link>
-            <description>Discover the best of West Timor, including natural attractions, cultural landmarks, outdoor adventures, food and drink scene, accommodations, and travel logistics.</description>
-            <pubDate>2024-01-28T22:59:31+03:00</pubDate>
+            <title>Fakarava Travel Guide (Tuamotu Islands/French Polynesia/Polynesia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/polynesia/french-polynesia/tuamotu-islands/fakarava/</link>
+            <description>Read this comprehensive travel guide to Fakarava, French Polynesia to discover the best things to do, places to stay, and local customs to experience in this beautiful island paradise.</description>
+            <pubDate>2024-01-28T23:21:18+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
