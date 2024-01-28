@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T18:24:57+03:00</pubDate>
-        <lastBuildDate>2024-01-28T18:24:57+03:00</lastBuildDate>
+        <pubDate>2024-01-28T18:46:26+03:00</pubDate>
+        <lastBuildDate>2024-01-28T18:46:26+03:00</lastBuildDate>
 
         <item>
-            <title>Mattinata Travel Guide (Foggia (province)/Apulia/Southern Italy/Italy/Europe)</title>
-            <link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/foggia-province/mattinata/</link>
-            <description>Read our travel guide to Mattinata, Italy. Learn about the best places to visit, cultural attractions, natural wonders, hiking and biking routes, best things to do, where to stay, and more.</description>
-            <pubDate>2024-01-28T18:24:57+03:00</pubDate>
+            <title>Alvor Travel Guide (Algarve/Portugal/Iberia/Europe)</title>
+            <link>https://travellers.wiki/en/europe/iberia/portugal/algarve/alvor/</link>
+            <description>Discover the hidden gem of Alvor with our comprehensive travel guide. From hiking routes to local customs, we have everything you need to know to plan your trip.</description>
+            <pubDate>2024-01-28T18:46:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
