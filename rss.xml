@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T09:11:38+03:00</pubDate>
-        <lastBuildDate>2024-01-28T09:11:38+03:00</lastBuildDate>
+        <pubDate>2024-01-28T10:01:58+03:00</pubDate>
+        <lastBuildDate>2024-01-28T10:01:58+03:00</lastBuildDate>
 
         <item>
-            <title>Falmouth Travel Guide (Antigua/Antigua and Barbuda/Lesser Antilles/Caribbean/North America)</title>
-            <link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/antigua-and-barbuda/antigua/falmouth/</link>
-            <description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive tour guide to Falmouth, Antigua</description>
-            <pubDate>2024-01-28T09:11:38+03:00</pubDate>
+            <title>South Travel Guide (Kuala Lumpur/West Coast/Malaysia/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/kuala-lumpur/south/</link>
+            <description>Discover the must-visit attractions, food scene, where to stay, safety tips, getting around, and more in this comprehensive travel guide to South Kuala Lumpur, Malaysia.</description>
+            <pubDate>2024-01-28T10:01:58+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
