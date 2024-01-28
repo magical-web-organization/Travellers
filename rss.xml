@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T17:21:50+03:00</pubDate>
-        <lastBuildDate>2024-01-28T17:21:50+03:00</lastBuildDate>
+        <pubDate>2024-01-28T17:57:02+03:00</pubDate>
+        <lastBuildDate>2024-01-28T17:57:02+03:00</lastBuildDate>
 
         <item>
-            <title>Kathmandu Travel Guide (Kathmandu Valley/Nepal/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/nepal/kathmandu-valley/kathmandu/</link>
-            <description>Discover the best places to visit, things to do, and where to stay in Kathmandu with our comprehensive guide. Explore the rich culture, food scene, outdoor adventures, and nearby destinations of Nepal's vibrant capital city.</description>
-            <pubDate>2024-01-28T17:21:50+03:00</pubDate>
+            <title>Newport Travel Guide (Newport County/Rhode Island/New England/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/newport-county/newport/</link>
+            <description>Read this comprehensive travel guide for Newport, Rhode Island, to know about its rich history, places to visit, things to do, food and drink scene, local culture, safety tips, and transportation options.</description>
+            <pubDate>2024-01-28T17:57:02+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
