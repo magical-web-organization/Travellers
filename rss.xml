@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-28T22:17:20+03:00</pubDate>
-        <lastBuildDate>2024-01-28T22:17:20+03:00</lastBuildDate>
+        <pubDate>2024-01-28T22:59:31+03:00</pubDate>
+        <lastBuildDate>2024-01-28T22:59:31+03:00</lastBuildDate>
 
         <item>
-            <title>Stonington Travel Guide (Mystic-Eastern/Connecticut/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/mystic-eastern/stonington/</link>
-            <description>Explore the best things to do in Stonington, Connecticut, including must-visit attractions, delicious food and drink spots, memorable outdoor adventures, and more.</description>
-            <pubDate>2024-01-28T22:17:20+03:00</pubDate>
+            <title>West Timor Travel Guide (Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/west-timor/</link>
+            <description>Discover the best of West Timor, including natural attractions, cultural landmarks, outdoor adventures, food and drink scene, accommodations, and travel logistics.</description>
+            <pubDate>2024-01-28T22:59:31+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
