@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-29T05:15:12+03:00</pubDate>
-        <lastBuildDate>2024-01-29T05:15:12+03:00</lastBuildDate>
+        <pubDate>2024-01-29T05:37:12+03:00</pubDate>
+        <lastBuildDate>2024-01-29T05:37:12+03:00</lastBuildDate>
 
         <item>
-            <title>Touba Travel Guide (Central Senegal/Senegal/West Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/west-africa/senegal/central-senegal/touba/</link>
-            <description>Explore the cultural and natural attractions of Touba, Senegal with our comprehensive travel guide. Learn about the best things to do, where to stay, and how to get around this vibrant and dynamic city in West Africa.</description>
-            <pubDate>2024-01-29T05:15:12+03:00</pubDate>
+            <title>Hythe Travel Guide (Hampshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/hythe/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in Hythe, Hampshire, South East England with this comprehensive travel guide.</description>
+            <pubDate>2024-01-29T05:37:12+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
