@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-29T23:22:14+03:00</pubDate>
-        <lastBuildDate>2024-01-29T23:22:14+03:00</lastBuildDate>
+        <pubDate>2024-01-29T23:36:45+03:00</pubDate>
+        <lastBuildDate>2024-01-29T23:36:45+03:00</lastBuildDate>
 
         <item>
-            <title>Taivalkoski Travel Guide (Kainuu and Eastern Oulu region/Northern Finland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/kainuu-and-eastern-oulu-region/taivalkoski/</link>
-            <description>Discover the natural beauty, rich culture, and stunning scenery of Taivalkoski with our comprehensive travel guide.</description>
-            <pubDate>2024-01-29T23:22:14+03:00</pubDate>
+            <title>Kendwa Travel Guide (Zanzibar/Tanzania/East Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/east-africa/tanzania/zanzibar/kendwa/</link>
+            <description>Discover the best things to do, see, and eat in Kendwa, Tanzania. Find out about the culture, customs, and local products in this comprehensive travel guide.</description>
+            <pubDate>2024-01-29T23:36:45+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
