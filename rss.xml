@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-30T00:54:37+03:00</pubDate>
-        <lastBuildDate>2024-01-30T00:54:37+03:00</lastBuildDate>
+        <pubDate>2024-01-30T01:23:59+03:00</pubDate>
+        <lastBuildDate>2024-01-30T01:23:59+03:00</lastBuildDate>
 
         <item>
-            <title>Aracataca Travel Guide (Magdalena Department/Costa Norte/Colombia/South America)</title>
-            <link>https://travellers.wiki/en/south-america/colombia/costa-norte/magdalena-department/aracataca/</link>
-            <description>Here's everything you need to know before traveling to Aracataca, Colombia.</description>
-            <pubDate>2024-01-30T00:54:37+03:00</pubDate>
+            <title>Karakum Travel Guide (Ahal Province/Turkmenistan/Central Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/central-asia/turkmenistan/ahal-province/karakum/</link>
+            <description>Plan your next trip to Karakum with this comprehensive travel guide that includes everything from must-visit attractions and hiking/biking routes to local customs and safety tips.</description>
+            <pubDate>2024-01-30T01:23:59+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
