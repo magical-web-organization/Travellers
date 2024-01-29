@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-29T04:10:05+03:00</pubDate>
-        <lastBuildDate>2024-01-29T04:10:05+03:00</lastBuildDate>
+        <pubDate>2024-01-29T04:34:42+03:00</pubDate>
+        <lastBuildDate>2024-01-29T04:34:42+03:00</lastBuildDate>
 
         <item>
-            <title>Wilpattu National Park Travel Guide (Sri Lanka/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/sri-lanka/wilpattu-national-park/</link>
-            <description>This travel guide provides a comprehensive tour of Wilpattu National Park, including places to visit, hiking/biking routes, where to stay, food and drink scene, local culture, safety and health, and transportation options.</description>
-            <pubDate>2024-01-29T04:10:05+03:00</pubDate>
+            <title>Western Switzerland Travel Guide (Switzerland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/switzerland/western-switzerland/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and tips for traveling in Western Switzerland with this comprehensive tour guide.</description>
+            <pubDate>2024-01-29T04:34:42+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
