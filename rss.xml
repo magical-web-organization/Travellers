@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-29T09:18:30+03:00</pubDate>
-        <lastBuildDate>2024-01-29T09:18:30+03:00</lastBuildDate>
+        <pubDate>2024-01-29T09:36:41+03:00</pubDate>
+        <lastBuildDate>2024-01-29T09:36:41+03:00</lastBuildDate>
 
         <item>
-            <title>Vilonia Travel Guide (Central Arkansas/Arkansas/South/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/central-arkansas/vilonia/</link>
-            <description>Discover the top attractions, hiking routes, food scene, accommodations, and safety tips for Vilonia, Arkansas.</description>
-            <pubDate>2024-01-29T09:18:30+03:00</pubDate>
+            <title>Daqing Travel Guide (Heilongjiang/Northeast China/China/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/daqing/</link>
+            <description>Discover the best things to do, see, and eat in Daqing. Our travel guide covers everything from cultural attractions to outdoor adventures to local customs and safety tips.</description>
+            <pubDate>2024-01-29T09:36:41+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
