@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-30T11:38:25+03:00</pubDate>
-        <lastBuildDate>2024-01-30T11:38:25+03:00</lastBuildDate>
+        <pubDate>2024-01-30T12:32:01+03:00</pubDate>
+        <lastBuildDate>2024-01-30T12:32:01+03:00</lastBuildDate>
 
         <item>
-            <title>Skipton (Victoria) Travel Guide (Goldfields/Victoria (state)/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/victoria-state/goldfields/skipton-victoria/</link>
-            <description>Plan your trip to Skipton (Victoria) with this comprehensive travel guide featuring top attractions, hiking/biking routes, food and drink scene, cultural insights, and transportation options.</description>
-            <pubDate>2024-01-30T11:38:25+03:00</pubDate>
+            <title>Ramla Travel Guide (Israeli Coastal Plain/Israel/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/israel/israeli-coastal-plain/ramla/</link>
+            <description>Read this comprehensive guide to know everything about Ramla, including culture, food, attractions, and history. Discover the best things to do in Ramla, must-visit museums, and cultural landmarks. Explore the natural beauty with hiking and biking routes.</description>
+            <pubDate>2024-01-30T12:32:01+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
