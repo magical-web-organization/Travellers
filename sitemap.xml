@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/prairies/alberta/alberta-rockies/canmore/</loc>
+        <lastmod>2024-01-30T14:38:33+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/laurentians/deux-montagnes/</loc>
         <lastmod>2024-01-30T14:08:00+03:00</lastmod>
     </url>
