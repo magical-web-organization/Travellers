@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-30T07:06:13+03:00</pubDate>
-        <lastBuildDate>2024-01-30T07:06:13+03:00</lastBuildDate>
+        <pubDate>2024-01-30T08:01:07+03:00</pubDate>
+        <lastBuildDate>2024-01-30T08:01:07+03:00</lastBuildDate>
 
         <item>
-            <title>Fiordland National Park Travel Guide (Southland/South Island/New Zealand/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/new-zealand/south-island/southland/fiordland-national-park/</link>
-            <description>Discover the best places to visit, must-try dishes, where to stay, and more in our complete guide to Fiordland National Park.</description>
-            <pubDate>2024-01-30T07:06:13+03:00</pubDate>
+            <title>Drammen Travel Guide (Buskerud/East Norway/Norway/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/buskerud/drammen/</link>
+            <description>Discover the best things to do, see, and eat in Drammen, Norway, and plan your itinerary with our comprehensive travel guide.</description>
+            <pubDate>2024-01-30T08:01:07+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
