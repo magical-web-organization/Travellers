@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-30T04:28:48+03:00</pubDate>
-        <lastBuildDate>2024-01-30T04:28:48+03:00</lastBuildDate>
+        <pubDate>2024-01-30T04:39:54+03:00</pubDate>
+        <lastBuildDate>2024-01-30T04:39:54+03:00</lastBuildDate>
 
         <item>
-            <title>Podgorica Travel Guide (Central Montenegro/Montenegro/Balkans/Europe)</title>
-            <link>https://travellers.wiki/en/europe/balkans/montenegro/central-montenegro/podgorica/</link>
-            <description>Plan your trip to Podgorica, Montenegro with this comprehensive travel guide, featuring top attractions, hiking and biking routes, food and drink recommendations, safety and health tips, and more.</description>
-            <pubDate>2024-01-30T04:28:48+03:00</pubDate>
+            <title>Coatbridge Travel Guide (Clydeside/Central Belt/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/clydeside/coatbridge/</link>
+            <description>Find out everything you need to know about visiting Coatbridge in Scotland, including the best places to visit, popular activities, where to stay and local customs.</description>
+            <pubDate>2024-01-30T04:39:54+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
