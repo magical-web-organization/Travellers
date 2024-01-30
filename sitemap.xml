@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/south-america/argentina/cuyo/</loc>
+        <lastmod>2024-01-30T03:57:55+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/argentina/cuyo/san-juan-province-argentina/</loc>
+        <lastmod>2024-01-30T03:57:55+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/south-america/argentina/cuyo/san-juan-province-argentina/san-juan-city-argentina/</loc>
+        <lastmod>2024-01-30T03:57:55+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/north-shore/skokie/</loc>
         <lastmod>2024-01-30T03:04:59+03:00</lastmod>
     </url>
