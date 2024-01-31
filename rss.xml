@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-31T14:04:13+03:00</pubDate>
-        <lastBuildDate>2024-01-31T14:04:13+03:00</lastBuildDate>
+        <pubDate>2024-01-31T15:01:04+03:00</pubDate>
+        <lastBuildDate>2024-01-31T15:01:04+03:00</lastBuildDate>
 
         <item>
-            <title>Easton Travel Guide (Eastern Shore/Maryland/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/eastern-shore/easton/</link>
-            <description>Plan your trip to Easton with this helpful travel guide. Discover top attractions, hiking and biking routes, the food and drink scene, where to stay, and more.</description>
-            <pubDate>2024-01-31T14:04:13+03:00</pubDate>
+            <title>Yongin Travel Guide (Gyeonggi/South Korea/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/yongin/</link>
+            <description>Plan your trip to Yongin with this comprehensive travel guide. Find information on top attractions, food and drink, where to stay, local culture and customs, safety, and transportation.</description>
+            <pubDate>2024-01-31T15:01:04+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
