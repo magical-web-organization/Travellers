@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-31T20:21:22+03:00</pubDate>
-        <lastBuildDate>2024-01-31T20:21:22+03:00</lastBuildDate>
+        <pubDate>2024-01-31T20:41:57+03:00</pubDate>
+        <lastBuildDate>2024-01-31T20:41:57+03:00</lastBuildDate>
 
         <item>
-            <title>Mimizan Travel Guide (Landes/Nouvelle-Aquitaine/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/landes/mimizan/</link>
-            <description>Discover the best things to do, places to stay, and where to eat in Mimizan, France. Plan your trip with our comprehensive travel guide to make the most of your visit to this stunning beach town.</description>
-            <pubDate>2024-01-31T20:21:22+03:00</pubDate>
+            <title>Los Andes Travel Guide (Central Chile/Chile/South America)</title>
+            <link>https://travellers.wiki/en/south-america/chile/central-chile/los-andes/</link>
+            <description>Discover the best things to do, eat, and see in Los Andes, Chile. Our comprehensive travel guide includes information on hiking, biking, cultural attractions, local food and drink, accommodations, and transportation options.</description>
+            <pubDate>2024-01-31T20:41:57+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
