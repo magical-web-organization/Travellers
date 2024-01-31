@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-31T17:13:17+03:00</pubDate>
-        <lastBuildDate>2024-01-31T17:13:17+03:00</lastBuildDate>
+        <pubDate>2024-01-31T17:53:29+03:00</pubDate>
+        <lastBuildDate>2024-01-31T17:53:29+03:00</lastBuildDate>
 
         <item>
-            <title>Cape Brett Travel Guide (Bay of Islands/Northland/North Island/New Zealand/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/new-zealand/north-island/northland/bay-of-islands/cape-brett/</link>
-            <description>Discover the top attractions, activities, accommodations, and travel tips in Cape Brett, a beautiful place in North Island, New Zealand.</description>
-            <pubDate>2024-01-31T17:13:17+03:00</pubDate>
+            <title>Wildwood Travel Guide (Cape May County/Jersey Shore/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/cape-may-county/wildwood/</link>
+            <description>Discover the best places to visit, things to do, where to stay and eat, and how to get around Wildwood, New Jersey with this comprehensive travel guide.</description>
+            <pubDate>2024-01-31T17:53:29+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
