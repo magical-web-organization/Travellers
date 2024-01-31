@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-01T00:12:28+03:00</pubDate>
-        <lastBuildDate>2024-02-01T00:12:28+03:00</lastBuildDate>
+        <pubDate>2024-02-01T00:49:11+03:00</pubDate>
+        <lastBuildDate>2024-02-01T00:49:11+03:00</lastBuildDate>
 
         <item>
-            <title>Collins Travel Guide (Gulf Coast/Mississippi/South/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/gulf-coast/collins/</link>
-            <description>Discover the best places to visit, things to do, where to eat, stay and shop in Collins, Mississippi. A comprehensive travel guide with safety tips, cultural insights, and transport information for a perfect vacation in Gulf Coast.</description>
-            <pubDate>2024-02-01T00:12:28+03:00</pubDate>
+            <title>Northern Interior Travel Guide (Uruguay/South America)</title>
+            <link>https://travellers.wiki/en/south-america/uruguay/northern-interior/</link>
+            <description>Discover the culturally rich and naturally stunning Northern Interior region of Uruguay with our comprehensive travel guide. From must-visit attractions, best hiking trails, and delicious local cuisine, to travel logistics and safety tips, find everything you need to plan a memorable trip.</description>
+            <pubDate>2024-02-01T00:49:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
