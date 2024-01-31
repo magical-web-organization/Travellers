@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-01-31T15:24:17+03:00</pubDate>
-        <lastBuildDate>2024-01-31T15:24:17+03:00</lastBuildDate>
+        <pubDate>2024-01-31T15:52:11+03:00</pubDate>
+        <lastBuildDate>2024-01-31T15:52:11+03:00</lastBuildDate>
 
         <item>
-            <title>Serifos Travel Guide (Cyclades/Greek Islands/Greece/Europe)</title>
-            <link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/serifos/</link>
-            <description>Discover the top attractions, things to do, places to stay, local cuisine, and customs of Serifos, Greece, in this detailed travel guide.</description>
-            <pubDate>2024-01-31T15:24:17+03:00</pubDate>
+            <title>Pando Travel Guide (Bolivia/South America)</title>
+            <link>https://travellers.wiki/en/south-america/bolivia/pando/</link>
+            <description>Plan your visit to Pando with our comprehensive travel guide, including top attractions, hiking routes, accommodation options, local culture, safety tips, and more.</description>
+            <pubDate>2024-01-31T15:52:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
