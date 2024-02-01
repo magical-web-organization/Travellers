@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-01T13:21:38+03:00</pubDate>
-        <lastBuildDate>2024-02-01T13:21:38+03:00</lastBuildDate>
+        <pubDate>2024-02-01T13:42:06+03:00</pubDate>
+        <lastBuildDate>2024-02-01T13:42:06+03:00</lastBuildDate>
 
         <item>
-            <title>Spearfish Travel Guide (Badlands and Black Hills/South Dakota/Great Plains/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/south-dakota/badlands-and-black-hills/spearfish/</link>
-            <description>Discover the best places to visit in Spearfish, South Dakota. Learn about natural and cultural attractions, hiking and biking routes, local food and beverages, where to stay and buy souvenirs, and safety and health tips.</description>
-            <pubDate>2024-02-01T13:21:38+03:00</pubDate>
+            <title>Osh Travel Guide (Ferghana Valley/Kyrgyzstan/Central Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/central-asia/kyrgyzstan/ferghana-valley/osh/</link>
+            <description>Discover the best places to visit, hike, stay, eat, and more in Osh, Kyrgyzstan with this comprehensive travel guide.</description>
+            <pubDate>2024-02-01T13:42:06+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
