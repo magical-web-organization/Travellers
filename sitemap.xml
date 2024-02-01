@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/poland/podkarpackie/</loc>
+        <lastmod>2024-02-01T20:44:40+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/central-europe/poland/podkarpackie/lezajsk/</loc>
+        <lastmod>2024-02-01T20:44:40+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/italy/sicily/agrigento-province/heraclea-minoa/</loc>
         <lastmod>2024-02-01T20:05:53+03:00</lastmod>
     </url>
