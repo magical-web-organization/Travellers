@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-01T06:54:40+03:00</pubDate>
-        <lastBuildDate>2024-02-01T06:54:40+03:00</lastBuildDate>
+        <pubDate>2024-02-01T07:19:51+03:00</pubDate>
+        <lastBuildDate>2024-02-01T07:19:51+03:00</lastBuildDate>
 
         <item>
-            <title>Kalahari Travel Guide (Northern Cape/South Africa/Southern Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/southern-africa/south-africa/northern-cape/kalahari/</link>
-            <description>Discover the best places to visit, hike and bike routes, and local culture and customs of Kalahari. Learn about safety and health, transportation options, and must-try dishes.</description>
-            <pubDate>2024-02-01T06:54:40+03:00</pubDate>
+            <title>Uitgeest Travel Guide (Kennemerland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
+            <link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/kennemerland/uitgeest/</link>
+            <description>Explore Uitgeest, Netherlands with this comprehensive travel guide featuring top tourist attractions, best things to do, where to stay, and more!</description>
+            <pubDate>2024-02-01T07:19:51+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
