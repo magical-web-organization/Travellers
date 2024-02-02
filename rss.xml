@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T05:39:35+03:00</pubDate>
-        <lastBuildDate>2024-02-02T05:39:35+03:00</lastBuildDate>
+        <pubDate>2024-02-02T06:12:02+03:00</pubDate>
+        <lastBuildDate>2024-02-02T06:12:02+03:00</lastBuildDate>
 
         <item>
-            <title>Redmond Travel Guide (Central Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/central-oregon/redmond/</link>
-            <description>A comprehensive tour guide for Redmond, Oregon, including places to visit, must-try food and drink, where to stay, and getting around.</description>
-            <pubDate>2024-02-02T05:39:35+03:00</pubDate>
+            <title>ZEC Wessonneau Travel Guide (La Tuque Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/zec-wessonneau/</link>
+            <description>Discover the best things to do, see, eat, buy, and where to stay in ZEC Wessonneau, Quebec. Explore the diverse cultural and natural attractions, hiking/biking routes, transportation options, and nearby destinations.</description>
+            <pubDate>2024-02-02T06:12:02+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
