@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T21:53:29+03:00</pubDate>
-        <lastBuildDate>2024-02-02T21:53:29+03:00</lastBuildDate>
+        <pubDate>2024-02-02T22:15:57+03:00</pubDate>
+        <lastBuildDate>2024-02-02T22:15:57+03:00</lastBuildDate>
 
         <item>
-            <title>Endau Rompin National Park Travel Guide (Johor/Malaysia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/johor/endau-rompin-national-park/</link>
-            <description>Plan your trip to Endau Rompin National Park with this comprehensive travel guide, including information on places to visit, hiking and biking routes, food and drink scene, safety and health, transportation, and more.</description>
-            <pubDate>2024-02-02T21:53:29+03:00</pubDate>
+            <title>Eastern District Travel Guide (Hong Kong/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/hong-kong/eastern-district/</link>
+            <description>Discover the must-visit places, food scene, hiking routes, cultural attractions and local culture of the Eastern District in Hong Kong. Read on to plan your trip and explore the best of this fascinating region.</description>
+            <pubDate>2024-02-02T22:15:57+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
