@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-03T01:36:37+03:00</pubDate>
-        <lastBuildDate>2024-02-03T01:36:37+03:00</lastBuildDate>
+        <pubDate>2024-02-03T02:30:22+03:00</pubDate>
+        <lastBuildDate>2024-02-03T02:30:22+03:00</lastBuildDate>
 
         <item>
-            <title>Omuo Travel Guide (Ekiti State/South West Nigeria/Nigeria/West Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ekiti-state/omuo/</link>
-            <description>This travel guide includes everything you need to know about Omuo, Ekiti State, Nigeria including places to visit, things to do, food, culture, safety and health, transportation, and nearby destinations.</description>
-            <pubDate>2024-02-03T01:36:37+03:00</pubDate>
+            <title>Gocta Travel Guide (Peruvian Amazon/Peru/South America)</title>
+            <link>https://travellers.wiki/en/south-america/peru/peruvian-amazon/gocta/</link>
+            <description>Discover the best things to do, places to visit, and local culture of Gocta in Peru. This comprehensive travel guide covers hiking routes, food, accommodation, travel options, and safety tips.</description>
+            <pubDate>2024-02-03T02:30:22+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
