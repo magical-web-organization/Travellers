@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T23:30:45+03:00</pubDate>
-        <lastBuildDate>2024-02-02T23:30:45+03:00</lastBuildDate>
+        <pubDate>2024-02-02T23:58:53+03:00</pubDate>
+        <lastBuildDate>2024-02-02T23:58:53+03:00</lastBuildDate>
 
         <item>
-            <title>Buxton Travel Guide (Southern Coast/Maine/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/southern-coast/buxton/</link>
-            <description>Discover the culturally-important attractions, natural wonders, hiking and biking routes, activities, and local customs of Buxton, Maine. Find out where to stay, what to eat, where to go, and how to get there with this comprehensive tour guide.</description>
-            <pubDate>2024-02-02T23:30:45+03:00</pubDate>
+            <title>Bundaberg Travel Guide (Central Queensland/Queensland/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/bundaberg/</link>
+            <description>Explore Bundaberg, Central Queensland's hidden gem. From natural attractions to cultural landmarks, hiking and biking trails, and local cuisine and culture, here's everything you need to know about this stunning destination.</description>
+            <pubDate>2024-02-02T23:58:53+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
