@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T13:23:08+03:00</pubDate>
-        <lastBuildDate>2024-02-02T13:23:08+03:00</lastBuildDate>
+        <pubDate>2024-02-02T13:37:41+03:00</pubDate>
+        <lastBuildDate>2024-02-02T13:37:41+03:00</lastBuildDate>
 
         <item>
-            <title>Pskov Oblast Travel Guide (Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/pskov-oblast/</link>
-            <description>Discover the wonders of Pskov Oblast through this comprehensive travel guide, featuring top attractions, things to do, hiking and biking routes, food and drink scene, and more.</description>
-            <pubDate>2024-02-02T13:23:08+03:00</pubDate>
+            <title>Sainte-Anne-de-Sorel Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/sainte-anne-de-sorel/</link>
+            <description>Explore the cultural and natural attractions of Sainte-Anne-de-Sorel, Quebec, with this comprehensive tour guide. Discover the best things to do, where to eat and stay, and how to get there.</description>
+            <pubDate>2024-02-02T13:37:41+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
