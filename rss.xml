@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T08:13:44+03:00</pubDate>
-        <lastBuildDate>2024-02-02T08:13:44+03:00</lastBuildDate>
+        <pubDate>2024-02-02T08:54:05+03:00</pubDate>
+        <lastBuildDate>2024-02-02T08:54:05+03:00</lastBuildDate>
 
         <item>
-            <title>Rondônia Travel Guide (North/Brazil/South America)</title>
-            <link>https://travellers.wiki/en/south-america/brazil/north/rondonia/</link>
-            <description>Discover the best places to visit, food to try, activities to do, and cultural experiences in Rondônia, Brazil. Plan your trip with insider tips, safety precautions, and transportation options.</description>
-            <pubDate>2024-02-02T08:13:44+03:00</pubDate>
+            <title>El Verano Travel Guide (Sonoma County/North Coast/California/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/sonoma-county/el-verano/</link>
+            <description>Plan your trip to El Verano with this comprehensive travel guide including places to visit, hiking and biking routes, must-try dishes, where to stay, and more.</description>
+            <pubDate>2024-02-02T08:54:05+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
