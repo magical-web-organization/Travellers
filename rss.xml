@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T06:12:02+03:00</pubDate>
-        <lastBuildDate>2024-02-02T06:12:02+03:00</lastBuildDate>
+        <pubDate>2024-02-02T06:55:14+03:00</pubDate>
+        <lastBuildDate>2024-02-02T06:55:14+03:00</lastBuildDate>
 
         <item>
-            <title>ZEC Wessonneau Travel Guide (La Tuque Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/zec-wessonneau/</link>
-            <description>Discover the best things to do, see, eat, buy, and where to stay in ZEC Wessonneau, Quebec. Explore the diverse cultural and natural attractions, hiking/biking routes, transportation options, and nearby destinations.</description>
-            <pubDate>2024-02-02T06:12:02+03:00</pubDate>
+            <title>Port Coquitlam Travel Guide (Vancouver eastern suburbs/Lower Mainland/British Columbia/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/vancouver-eastern-suburbs/port-coquitlam/</link>
+            <description>Plan your trip to Port Coquitlam with our comprehensive travel guide. Discover the best attractions, activities, accommodation, and dining options in the city.</description>
+            <pubDate>2024-02-02T06:55:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
