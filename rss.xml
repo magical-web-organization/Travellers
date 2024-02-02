@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T02:39:59+03:00</pubDate>
-        <lastBuildDate>2024-02-02T02:39:59+03:00</lastBuildDate>
+        <pubDate>2024-02-02T03:22:36+03:00</pubDate>
+        <lastBuildDate>2024-02-02T03:22:36+03:00</lastBuildDate>
 
         <item>
-            <title>Worcester Travel Guide (Cape Winelands/Western Cape/South Africa/Southern Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-winelands/worcester/</link>
-            <description>Discover Worcester, South Africa, and its rich culture, history, outdoor adventures, and delicious cuisine. Whether you're a first-time visitor or a seasoned traveler, this comprehensive guide has everything you need to know to plan an unforgettable trip to Worcester.</description>
-            <pubDate>2024-02-02T02:39:59+03:00</pubDate>
+            <title>Wisemans Ferry Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/wisemans-ferry/</link>
+            <description>Explore Wisemans Ferry, a small town located in Sydney, New South Wales. This travel guide covers all the recommendations and tips for travellers visiting Wisemans Ferry.</description>
+            <pubDate>2024-02-02T03:22:36+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
