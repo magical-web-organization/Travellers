@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-02T04:14:56+03:00</pubDate>
-        <lastBuildDate>2024-02-02T04:14:56+03:00</lastBuildDate>
+        <pubDate>2024-02-02T04:47:51+03:00</pubDate>
+        <lastBuildDate>2024-02-02T04:47:51+03:00</lastBuildDate>
 
         <item>
-            <title>Nosara Travel Guide (Guanacaste/Costa Rica/Central America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/central-america/costa-rica/guanacaste/nosara/</link>
-            <description>Planning a trip to Nosara, Costa Rica? Read this ultimate travel guide to explore its natural attractions, outdoor adventures, hiking and biking trails, food and drink scene, hotels, souvenirs, local customs, safety and health, transportation options and logistics, and nearby destinations.</description>
-            <pubDate>2024-02-02T04:14:56+03:00</pubDate>
+            <title>Rouge Park Travel Guide (Greater Toronto Area/Ontario/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/rouge-park/</link>
+            <description>Discover the best natural and cultural spots in Rouge Park, the largest urban park in Canada. Plan your trip with our comprehensive guide.</description>
+            <pubDate>2024-02-02T04:47:51+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
