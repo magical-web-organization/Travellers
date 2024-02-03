@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-03T18:21:57+03:00</pubDate>
-        <lastBuildDate>2024-02-03T18:21:57+03:00</lastBuildDate>
+        <pubDate>2024-02-03T18:33:52+03:00</pubDate>
+        <lastBuildDate>2024-02-03T18:33:52+03:00</lastBuildDate>
 
         <item>
-            <title>Jurmo Travel Guide (Archipelago Sea/Finland Proper/West Coast/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/archipelago-sea/jurmo/</link>
-            <description>Discover the best places to visit and things to do in Jurmo, Finland. From natural attractions to cultural landmarks, hiking/biking routes to delicious local cuisine, this guide covers it all.</description>
-            <pubDate>2024-02-03T18:21:57+03:00</pubDate>
+            <title>Wolf Creek Travel Guide (Gold West Country/Montana/Rocky Mountains/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/gold-west-country/wolf-creek/</link>
+            <description>Plan your next trip to Wolf Creek with this helpful travel guide featuring must-see attractions, outdoor adventures, local cuisine, transportation options, and more.</description>
+            <pubDate>2024-02-03T18:33:52+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
