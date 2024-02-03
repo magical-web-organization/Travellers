@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-03T08:32:05+03:00</pubDate>
-        <lastBuildDate>2024-02-03T08:32:05+03:00</lastBuildDate>
+        <pubDate>2024-02-03T08:53:07+03:00</pubDate>
+        <lastBuildDate>2024-02-03T08:53:07+03:00</lastBuildDate>
 
         <item>
-            <title>Sekigahara Travel Guide (Gifu (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/chubu/gifu-prefecture/sekigahara/</link>
-            <description>Discover the rich cultural and natural attractions of Sekigahara in Gifu, Japan. Learn the best places to visit, eat, stay, and more in this comprehensive travel guide.</description>
-            <pubDate>2024-02-03T08:32:05+03:00</pubDate>
+            <title>Møn Travel Guide (Lolland-Falster/Denmark/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/denmark/lolland-falster/mon/</link>
+            <description>Plan your trip to Møn, Denmark with our comprehensive tour guide featuring the best things to do, places to stay, and more.</description>
+            <pubDate>2024-02-03T08:53:07+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
