@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-03T11:29:31+03:00</pubDate>
-        <lastBuildDate>2024-02-03T11:29:31+03:00</lastBuildDate>
+        <pubDate>2024-02-03T12:00:35+03:00</pubDate>
+        <lastBuildDate>2024-02-03T12:00:35+03:00</lastBuildDate>
 
         <item>
-            <title>Yucatán Travel Guide (Yucatán and the South/Mexico/North America)</title>
-            <link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/yucatan/</link>
-            <description>Explore the culturally rich and naturally beautiful Yucatán with our ultimate travel guide. Discover the best places to visit, things to do, food and drink scene, where to stay, and more.</description>
-            <pubDate>2024-02-03T11:29:31+03:00</pubDate>
+            <title>Northeast Tanzania Travel Guide (Tanzania/East Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/east-africa/tanzania/northeast-tanzania/</link>
+            <description>Discover the hidden gems of Northeast Tanzania with this comprehensive travel guide. From culturally important attractions and natural wonders to hiking routes and accommodations, this guide has everything you need to plan your next adventure.</description>
+            <pubDate>2024-02-03T12:00:35+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
