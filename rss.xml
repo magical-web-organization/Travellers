@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-03T14:47:55+03:00</pubDate>
-        <lastBuildDate>2024-02-03T14:47:55+03:00</lastBuildDate>
+        <pubDate>2024-02-03T15:07:05+03:00</pubDate>
+        <lastBuildDate>2024-02-03T15:07:05+03:00</lastBuildDate>
 
         <item>
-            <title>Lý Sơn Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/ly-sn/</link>
-            <description>Explore Lý Sơn with our comprehensive travel guide. Discover the best places to visit, hike and bike routes, local food and drink, where to stay, and more.</description>
-            <pubDate>2024-02-03T14:47:55+03:00</pubDate>
+            <title>Sharonville Travel Guide (Butler County/Greater Cincinnati/Ohio/Midwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/butler-county/sharonville/</link>
+            <description>Discover the best things to do, places to visit, where to stay, what to eat, and how to get around in Sharonville, Ohio.</description>
+            <pubDate>2024-02-03T15:07:05+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
