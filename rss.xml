@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-05T00:01:04+03:00</pubDate>
-        <lastBuildDate>2024-02-05T00:01:04+03:00</lastBuildDate>
+        <pubDate>2024-02-05T00:25:42+03:00</pubDate>
+        <lastBuildDate>2024-02-05T00:25:42+03:00</lastBuildDate>
 
         <item>
-            <title>Musandam Peninsula Travel Guide (Northern Oman/Oman/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/oman/northern-oman/musandam-peninsula/</link>
-            <description>Discover the top places to visit, things to do, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options in Musandam Peninsula, Oman.</description>
-            <pubDate>2024-02-05T00:01:04+03:00</pubDate>
+            <title>Yonghe Travel Guide (New Taipei/Northern Taiwan/Taiwan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/new-taipei/yonghe/</link>
+            <description>Discover the culturally and naturally rich Yonghe, Taiwan. This travel guide covers all the must-visit attractions, hiking and biking routes, itineraries, food, accommodations, culture, safety, transportation, and nearby destinations of Yonghe.</description>
+            <pubDate>2024-02-05T00:25:42+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
