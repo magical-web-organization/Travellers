@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-04T19:43:45+03:00</pubDate>
-        <lastBuildDate>2024-02-04T19:43:45+03:00</lastBuildDate>
+        <pubDate>2024-02-04T20:05:18+03:00</pubDate>
+        <lastBuildDate>2024-02-04T20:05:18+03:00</lastBuildDate>
 
         <item>
-            <title>Körmend Travel Guide (Vas County/Western Transdanubia/Hungary/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/hungary/western-transdanubia/vas-county/kormend/</link>
-            <description>Planning a trip to Körmend in Hungary? This comprehensive travel guide covers everything you need to know from places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-02-04T19:43:45+03:00</pubDate>
+            <title>Fichtelgebirge Travel Guide (Upper Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/upper-franconia/fichtelgebirge/</link>
+            <description>Fichtelgebirge Travel Guide is your ultimate resource for planning a trip to Bavaria, Germany. Discover the best places to visit, things to do, and where to eat and stay in Fichtelgebirge.</description>
+            <pubDate>2024-02-04T20:05:18+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
