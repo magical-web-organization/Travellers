@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-04T12:38:35+03:00</pubDate>
-        <lastBuildDate>2024-02-04T12:38:35+03:00</lastBuildDate>
+        <pubDate>2024-02-04T13:22:26+03:00</pubDate>
+        <lastBuildDate>2024-02-04T13:22:26+03:00</lastBuildDate>
 
         <item>
-            <title>Päijänne Tavastia Travel Guide (Southern Finland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/paijanne-tavastia/</link>
-            <description>Discover the best places to visit, activities to do, food and drink scene, local culture, and travel tips in Päijänne Tavastia, Southern Finland.</description>
-            <pubDate>2024-02-04T12:38:35+03:00</pubDate>
+            <title>Tolo Travel Guide (Argolis/Peloponnese/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/peloponnese/argolis/tolo/</link>
+            <description>Discover the best things to do, see, eat and stay in Tolo, Greece, with this comprehensive travel guide.</description>
+            <pubDate>2024-02-04T13:22:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
