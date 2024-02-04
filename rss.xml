@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-04T07:53:27+03:00</pubDate>
-        <lastBuildDate>2024-02-04T07:53:27+03:00</lastBuildDate>
+        <pubDate>2024-02-04T08:15:59+03:00</pubDate>
+        <lastBuildDate>2024-02-04T08:15:59+03:00</lastBuildDate>
 
         <item>
-            <title>Nanoor Travel Guide (West Bengal/Eastern India/India/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/nanoor/</link>
-            <description>Explore the cultural and natural attractions of Nanoor, West Bengal. Hike, bike, eat, and enjoy the local culture of this beautiful region.</description>
-            <pubDate>2024-02-04T07:53:27+03:00</pubDate>
+            <title>Łeba Travel Guide (Pomorskie/Poland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/poland/pomorskie/leba/</link>
+            <description>Explore Łeba in Poland with our comprehensive travel guide that features the best things to do, attractions, must-try dishes, local culture, safety tips, transportation options, and nearby excursions.</description>
+            <pubDate>2024-02-04T08:15:59+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
