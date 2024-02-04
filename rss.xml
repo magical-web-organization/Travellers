@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-04T09:08:43+03:00</pubDate>
-        <lastBuildDate>2024-02-04T09:08:43+03:00</lastBuildDate>
+        <pubDate>2024-02-04T09:35:50+03:00</pubDate>
+        <lastBuildDate>2024-02-04T09:35:50+03:00</lastBuildDate>
 
         <item>
-            <title>Donbas Travel Guide (Ukraine/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/ukraine/donbas/</link>
-            <description>Get to know the culturally rich and scenic destinations in Donbas, Ukraine. Discover the best places to visit, food and drink scene, and more in this comprehensive guide.</description>
-            <pubDate>2024-02-04T09:08:43+03:00</pubDate>
+            <title>Curonian Spit Travel Guide (Europe)</title>
+            <link>https://travellers.wiki/en/europe/curonian-spit/</link>
+            <description>Plan your visit to Curonian Spit with our exhaustive guide to its must-visit sites, culinary wonders, and hidden gems.</description>
+            <pubDate>2024-02-04T09:35:50+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
