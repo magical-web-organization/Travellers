@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-05T16:09:29+03:00</pubDate>
-        <lastBuildDate>2024-02-05T16:09:29+03:00</lastBuildDate>
+        <pubDate>2024-02-05T16:48:46+03:00</pubDate>
+        <lastBuildDate>2024-02-05T16:48:46+03:00</lastBuildDate>
 
         <item>
-            <title>Leticia Travel Guide (Amazonia/Colombia/South America)</title>
-            <link>https://travellers.wiki/en/south-america/colombia/amazonia/leticia/</link>
-            <description>Discover the hidden gem of Leticia with our comprehensive travel guide. Explore the culturally rich attractions, natural wonders, food and drink scenes, and much more.</description>
-            <pubDate>2024-02-05T16:09:29+03:00</pubDate>
+            <title>Jinghong Travel Guide (Xishuangbanna/Southern Yunnan/Yunnan/Southwest China/China/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/southern-yunnan/xishuangbanna/jinghong/</link>
+            <description>Discover the best places to visit, things to do, food scene, where to stay, local culture, and more in Jinghong, China.</description>
+            <pubDate>2024-02-05T16:48:46+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
