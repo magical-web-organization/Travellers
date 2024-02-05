@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-06T00:32:35+03:00</pubDate>
-        <lastBuildDate>2024-02-06T00:32:35+03:00</lastBuildDate>
+        <pubDate>2024-02-06T00:52:50+03:00</pubDate>
+        <lastBuildDate>2024-02-06T00:52:50+03:00</lastBuildDate>
 
         <item>
-            <title>Supraśl Travel Guide (Podlaskie/Poland/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/poland/podlaskie/suprasl/</link>
-            <description>Discover the best places to visit, things to do, and where to stay in Supraśl, Podlaskie. Learn about the local culture, cuisine, and customs in this comprehensive travel guide.</description>
-            <pubDate>2024-02-06T00:32:35+03:00</pubDate>
+            <title>Broadford Travel Guide (Skye/Inner Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/inner-hebrides/skye/broadford/</link>
+            <description>Discover the best things to do, places to visit, and local culture of the charming town of Broadford in Scotland, including hiking routes, food scene, accommodations, and transportation options.</description>
+            <pubDate>2024-02-06T00:52:50+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
