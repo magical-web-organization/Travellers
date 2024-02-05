@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-05T22:41:09+03:00</pubDate>
-        <lastBuildDate>2024-02-05T22:41:09+03:00</lastBuildDate>
+        <pubDate>2024-02-05T23:10:24+03:00</pubDate>
+        <lastBuildDate>2024-02-05T23:10:24+03:00</lastBuildDate>
 
         <item>
-            <title>El Jem Travel Guide (Northern Tunisia/Tunisia/North Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/north-africa/tunisia/northern-tunisia/el-jem/</link>
-            <description>Explore the best places to visit, things to do, and where to stay in El Jem, Tunisia. Learn about the local culture, food and drink scene, hiking/biking routes, and nearby destinations.</description>
-            <pubDate>2024-02-05T22:41:09+03:00</pubDate>
+            <title>ZEC du Gros-Brochet Travel Guide (Mékinac/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/mekinac/zec-du-gros-brochet/</link>
+            <description>Plan your trip to ZEC du Gros-Brochet with our comprehensive travel guide. Discover the best things to do, places to stay, and local food and culture.</description>
+            <pubDate>2024-02-05T23:10:24+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
