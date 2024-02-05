@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-05T22:16:26+03:00</pubDate>
-        <lastBuildDate>2024-02-05T22:16:26+03:00</lastBuildDate>
+        <pubDate>2024-02-05T22:41:09+03:00</pubDate>
+        <lastBuildDate>2024-02-05T22:41:09+03:00</lastBuildDate>
 
         <item>
-            <title>Lourmarin Travel Guide (Vaucluse/Provence-Alpes-Côte d'Azur/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/vaucluse/lourmarin/</link>
-            <description>Our travel guide to Lourmarin offers detailed information for exploring this charming village in Provence, including recommendations for places to see, things to do, where to stay, local food and drink, cultural customs, safety, travel logistics and more.</description>
-            <pubDate>2024-02-05T22:16:26+03:00</pubDate>
+            <title>El Jem Travel Guide (Northern Tunisia/Tunisia/North Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/north-africa/tunisia/northern-tunisia/el-jem/</link>
+            <description>Explore the best places to visit, things to do, and where to stay in El Jem, Tunisia. Learn about the local culture, food and drink scene, hiking/biking routes, and nearby destinations.</description>
+            <pubDate>2024-02-05T22:41:09+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
