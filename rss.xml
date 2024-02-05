@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-06T00:52:50+03:00</pubDate>
-        <lastBuildDate>2024-02-06T00:52:50+03:00</lastBuildDate>
+        <pubDate>2024-02-06T01:08:04+03:00</pubDate>
+        <lastBuildDate>2024-02-06T01:08:04+03:00</lastBuildDate>
 
         <item>
-            <title>Broadford Travel Guide (Skye/Inner Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/inner-hebrides/skye/broadford/</link>
-            <description>Discover the best things to do, places to visit, and local culture of the charming town of Broadford in Scotland, including hiking routes, food scene, accommodations, and transportation options.</description>
-            <pubDate>2024-02-06T00:52:50+03:00</pubDate>
+            <title>Calabazo Travel Guide (Magdalena Department/Costa Norte/Colombia/South America)</title>
+            <link>https://travellers.wiki/en/south-america/colombia/costa-norte/magdalena-department/calabazo/</link>
+            <description>Discover the magical wonders of Calabazo, a hidden gem in Magdalena Department, Colombia. Read our comprehensive tour guide to plan your itinerary and make the most of your trip!</description>
+            <pubDate>2024-02-06T01:08:04+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
