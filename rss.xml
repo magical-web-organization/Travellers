@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-05T06:10:39+03:00</pubDate>
-        <lastBuildDate>2024-02-05T06:10:39+03:00</lastBuildDate>
+        <pubDate>2024-02-05T06:43:28+03:00</pubDate>
+        <lastBuildDate>2024-02-05T06:43:28+03:00</lastBuildDate>
 
         <item>
-            <title>Plav Travel Guide (North Montenegrin Mountains/Montenegro/Balkans/Europe)</title>
-            <link>https://travellers.wiki/en/europe/balkans/montenegro/north-montenegrin-mountains/plav/</link>
-            <description>Uncover the hidden gems and cultural attractions of the North Montenegrin Mountains with this comprehensive guide to Plav, Montenegro.</description>
-            <pubDate>2024-02-05T06:10:39+03:00</pubDate>
+            <title>Cassis Travel Guide (Bouches-du-Rhône/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+            <link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/bouches-du-rhone/cassis/</link>
+            <description>Discover the best things to do, places to visit, food and drinks to try, and much more in Cassis, France in this comprehensive travel guide.</description>
+            <pubDate>2024-02-05T06:43:28+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
