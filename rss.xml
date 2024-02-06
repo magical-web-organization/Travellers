@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-06T08:59:00+03:00</pubDate>
-        <lastBuildDate>2024-02-06T08:59:00+03:00</lastBuildDate>
+        <pubDate>2024-02-06T09:09:17+03:00</pubDate>
+        <lastBuildDate>2024-02-06T09:09:17+03:00</lastBuildDate>
 
         <item>
-            <title>Somesville Travel Guide (Mount Desert Island/Down East/Maine/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/down-east/mount-desert-island/somesville/</link>
-            <description>A comprehensive guide to Somesville, its attractions, food, culture, safety, transportation, and recommendations for itinerary and nearby destinations in Maine.</description>
-            <pubDate>2024-02-06T08:59:00+03:00</pubDate>
+            <title>Kapalua Travel Guide (Maui/Hawaii/Polynesia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/polynesia/hawaii/maui/kapalua/</link>
+            <description>Discover Kapalua, Maui's premier resort community in Hawaii, with its breathtaking views, cultural attractions, outdoor adventures, and delicious cuisine, in this comprehensive travel guide.</description>
+            <pubDate>2024-02-06T09:09:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
