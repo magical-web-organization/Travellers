@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-06T15:54:38+03:00</pubDate>
-        <lastBuildDate>2024-02-06T15:54:38+03:00</lastBuildDate>
+        <pubDate>2024-02-06T16:29:13+03:00</pubDate>
+        <lastBuildDate>2024-02-06T16:29:13+03:00</lastBuildDate>
 
         <item>
-            <title>Les Trois Vallées Travel Guide (Savoie/Auvergne-Rhône-Alpes/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/savoie/les-trois-vallees/</link>
-            <description>Plan your trip to Les Trois Vallées with this comprehensive travel guide, featuring cultural attractions, outdoor adventures, food and drink, accommodations, and transportation options.</description>
-            <pubDate>2024-02-06T15:54:38+03:00</pubDate>
+            <title>Samoa Travel Guide (Polynesia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/polynesia/samoa/</link>
+            <description>A complete travel guide for Samoa, including a list of places to visit, hiking and biking routes, food and drink scene, where to stay, local culture, safety and health tips and transportation options.</description>
+            <pubDate>2024-02-06T16:29:13+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
