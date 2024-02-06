@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-06T09:47:33+03:00</pubDate>
-        <lastBuildDate>2024-02-06T09:47:33+03:00</lastBuildDate>
+        <pubDate>2024-02-06T10:25:22+03:00</pubDate>
+        <lastBuildDate>2024-02-06T10:25:22+03:00</lastBuildDate>
 
         <item>
-            <title>Deloraine Travel Guide (Western Tasmania/Tasmania/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/tasmania/western-tasmania/deloraine/</link>
-            <description>Discover the best of Deloraine, Western Tasmania including must-visit attractions, hiking and biking routes, food and drink scene, where to stay, local culture, safety, and more.</description>
-            <pubDate>2024-02-06T09:47:33+03:00</pubDate>
+            <title>Derwent Valley Travel Guide (Southern Tasmania/Tasmania/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/derwent-valley/</link>
+            <description>Discover the best things to do and places to visit in Derwent Valley, Tasmania. From natural attractions to cultural landmarks, hiking and biking routes, food and drink scene, where to stay and how to get there, we've got you covered.</description>
+            <pubDate>2024-02-06T10:25:22+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
