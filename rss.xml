@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-07T02:04:44+03:00</pubDate>
-        <lastBuildDate>2024-02-07T02:04:44+03:00</lastBuildDate>
+        <pubDate>2024-02-07T02:34:18+03:00</pubDate>
+        <lastBuildDate>2024-02-07T02:34:18+03:00</lastBuildDate>
 
         <item>
-            <title>Bi'r Tawīl Travel Guide (North Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/north-africa/bi-r-tawil/</link>
-            <description>Plan your trip to Bi'r Tawīl with this comprehensive travel guide. From cultural attractions to outdoor adventures, food and drink recommendations to transportation options, this guide has everything you need to know to make the most of your visit.</description>
-            <pubDate>2024-02-07T02:04:44+03:00</pubDate>
+            <title>6th arrondissement Travel Guide (Paris/Île-de-France/France/Europe)</title>
+            <link>https://travellers.wiki/en/europe/france/ile-de-france/paris/6th-arrondissement/</link>
+            <description>Read on to explore the must-visit attractions, best activities and tours, food and drink scene, where to stay, transportation options, and nearby destinations in the 6th arrondissement of Paris, France.</description>
+            <pubDate>2024-02-07T02:34:18+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
