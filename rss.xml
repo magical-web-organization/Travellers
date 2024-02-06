@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-06T15:05:21+03:00</pubDate>
-        <lastBuildDate>2024-02-06T15:05:21+03:00</lastBuildDate>
+        <pubDate>2024-02-06T15:54:38+03:00</pubDate>
+        <lastBuildDate>2024-02-06T15:54:38+03:00</lastBuildDate>
 
         <item>
-            <title>Langford Travel Guide (South Vancouver Island/Vancouver Island/British Columbia/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/south-vancouver-island/langford/</link>
-            <description>A complete travel guide to Langford in Vancouver Island. This guide covers the top things to do, best places to visit, hiking routes, food and drink scene, where to stay, and much more.</description>
-            <pubDate>2024-02-06T15:05:21+03:00</pubDate>
+            <title>Les Trois Vallées Travel Guide (Savoie/Auvergne-Rhône-Alpes/France/Europe)</title>
+            <link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/savoie/les-trois-vallees/</link>
+            <description>Plan your trip to Les Trois Vallées with this comprehensive travel guide, featuring cultural attractions, outdoor adventures, food and drink, accommodations, and transportation options.</description>
+            <pubDate>2024-02-06T15:54:38+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
