@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-07T13:29:39+03:00</pubDate>
-        <lastBuildDate>2024-02-07T13:29:39+03:00</lastBuildDate>
+        <pubDate>2024-02-07T13:52:56+03:00</pubDate>
+        <lastBuildDate>2024-02-07T13:52:56+03:00</lastBuildDate>
 
         <item>
-            <title>Sverdlovsk Oblast Travel Guide (Urals/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/sverdlovsk-oblast/</link>
-            <description>Discover the beauty of Sverdlovsk Oblast with our comprehensive travel guide. From hiking and biking routes to local food and drinks, we have everything you need to plan your trip.</description>
-            <pubDate>2024-02-07T13:29:39+03:00</pubDate>
+            <title>Hamilton Parish Travel Guide (Bermuda/Caribbean/North America)</title>
+            <link>https://travellers.wiki/en/north-america/caribbean/bermuda/hamilton-parish/</link>
+            <description>Discover the best places to visit, eat, stay and things to do in Hamilton Parish with our comprehensive travel guide. Plan your perfect trip today!</description>
+            <pubDate>2024-02-07T13:52:56+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
