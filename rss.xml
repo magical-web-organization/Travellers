@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-07T08:06:42+03:00</pubDate>
-        <lastBuildDate>2024-02-07T08:06:42+03:00</lastBuildDate>
+        <pubDate>2024-02-07T08:37:49+03:00</pubDate>
+        <lastBuildDate>2024-02-07T08:37:49+03:00</lastBuildDate>
 
         <item>
-            <title>Sam Neua Travel Guide (Central Laos/Laos/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/laos/central-laos/sam-neua/</link>
-            <description>Discover the top attractions, best things to do, where to stay, what to buy, local culture, safety and health, transportation options and logistics, and nearby destinations and excursions in Sam Neua, Laos.</description>
-            <pubDate>2024-02-07T08:06:42+03:00</pubDate>
+            <title>Rusizi Travel Guide (Rwanda/East Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/east-africa/rwanda/rusizi/</link>
+            <description>Discover the top attractions, best things to do, where to stay, and safety tips for your trip to Rusizi, Rwanda.</description>
+            <pubDate>2024-02-07T08:37:49+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
