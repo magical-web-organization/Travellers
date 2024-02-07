@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-07T16:02:36+03:00</pubDate>
-        <lastBuildDate>2024-02-07T16:02:36+03:00</lastBuildDate>
+        <pubDate>2024-02-07T16:26:48+03:00</pubDate>
+        <lastBuildDate>2024-02-07T16:26:48+03:00</lastBuildDate>
 
         <item>
-            <title>Freshwater East Travel Guide (Pembrokeshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/pembrokeshire/freshwater-east/</link>
-            <description>Discover the top attractions, hiking/biking routes, activities, food and drink scene, accommodations, local culture, safety tips, and nearby destinations in Freshwater East, Wales.</description>
-            <pubDate>2024-02-07T16:02:36+03:00</pubDate>
+            <title>Sinai Travel Guide (Egypt/North Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/north-africa/egypt/sinai/</link>
+            <description>Explore the best of Sinai including culturally important attractions, outdoor adventures, food scene, accommodation options, safety, and more in this comprehensive travel guide.</description>
+            <pubDate>2024-02-07T16:26:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
