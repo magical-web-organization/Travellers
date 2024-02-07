@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-07T17:59:12+03:00</pubDate>
-        <lastBuildDate>2024-02-07T17:59:12+03:00</lastBuildDate>
+        <pubDate>2024-02-07T18:26:14+03:00</pubDate>
+        <lastBuildDate>2024-02-07T18:26:14+03:00</lastBuildDate>
 
         <item>
-            <title>Ordino Travel Guide (Andorra/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/andorra/ordino/</link>
-            <description>Plan your trip to Ordino, Andorra with this comprehensive travel guide featuring top attractions, outdoor adventures, local culture, transportation options, and more.</description>
-            <pubDate>2024-02-07T17:59:12+03:00</pubDate>
+            <title>Alfreton Travel Guide (Derbyshire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/derbyshire/alfreton/</link>
+            <description>Discover the beautiful town of Alfreton located in Derbyshire, England. From natural attractions to cultural landmarks, hiking, biking routes, food and drinks, and everything in between – this guide has it all!</description>
+            <pubDate>2024-02-07T18:26:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
