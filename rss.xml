@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T10:43:45+03:00</pubDate>
-        <lastBuildDate>2024-02-08T10:43:45+03:00</lastBuildDate>
+        <pubDate>2024-02-08T11:18:50+03:00</pubDate>
+        <lastBuildDate>2024-02-08T11:18:50+03:00</lastBuildDate>
 
         <item>
-            <title>Thisted Travel Guide (North Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/north-jutland/thisted/</link>
-            <description>Discover the best things to do in Thisted, Denmark. From outdoor adventures to museums and historical places, our comprehensive travel guide has it all.</description>
-            <pubDate>2024-02-08T10:43:45+03:00</pubDate>
+            <title>Leicestershire Travel Guide (East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/leicestershire/</link>
+            <description>Read this comprehensive guide to discover the best places to visit, things to do, food and drink scene, culture, safety, transportation options, and nearby destinations in Leicestershire, England.</description>
+            <pubDate>2024-02-08T11:18:50+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
