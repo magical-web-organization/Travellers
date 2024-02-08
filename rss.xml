@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T07:02:50+03:00</pubDate>
-        <lastBuildDate>2024-02-08T07:02:50+03:00</lastBuildDate>
+        <pubDate>2024-02-08T07:17:28+03:00</pubDate>
+        <lastBuildDate>2024-02-08T07:17:28+03:00</lastBuildDate>
 
         <item>
-            <title>Terrace Bay Travel Guide (Lake Superior North Shore/Northern Ontario/Ontario/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/lake-superior-north-shore/terrace-bay/</link>
-            <description>Check out this comprehensive guide to Terrace Bay, Northern Ontario, filled with natural and cultural attractions, food and drink scene, accommodation, and transport options.</description>
-            <pubDate>2024-02-08T07:02:50+03:00</pubDate>
+            <title>Murillo de Gallego Travel Guide (Aragon/Northern Spain/Spain/Iberia/Europe)</title>
+            <link>https://travellers.wiki/en/europe/iberia/spain/northern-spain/aragon/murillo-de-gallego/</link>
+            <description>Explore the culturally and naturally rich town of Murillo de Gallego in Spain with this comprehensive travel guide, including things to do, places to visit, transportation options and more.</description>
+            <pubDate>2024-02-08T07:17:28+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
