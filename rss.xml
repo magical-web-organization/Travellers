@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T13:05:39+03:00</pubDate>
-        <lastBuildDate>2024-02-08T13:05:39+03:00</lastBuildDate>
+        <pubDate>2024-02-08T13:33:55+03:00</pubDate>
+        <lastBuildDate>2024-02-08T13:33:55+03:00</lastBuildDate>
 
         <item>
-            <title>Haute-Savoie Travel Guide (Auvergne-Rhône-Alpes/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/haute-savoie/</link>
-            <description>Haute-Savoie Travel Guide is an informative and helpful tourist handbook that offers in-depth information and insights about the best places to visit, activities, recommendations, and more to make your visit unforgettable.</description>
-            <pubDate>2024-02-08T13:05:39+03:00</pubDate>
+            <title>Epirus Travel Guide (Northern Greece/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/northern-greece/epirus/</link>
+            <description>Discover the best places to visit, things to do, and where to stay in Epirus, Greece with this comprehensive guide.</description>
+            <pubDate>2024-02-08T13:33:55+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
