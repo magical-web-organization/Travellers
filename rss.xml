@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T08:25:26+03:00</pubDate>
-        <lastBuildDate>2024-02-08T08:25:26+03:00</lastBuildDate>
+        <pubDate>2024-02-08T08:42:20+03:00</pubDate>
+        <lastBuildDate>2024-02-08T08:42:20+03:00</lastBuildDate>
 
         <item>
-            <title>Iga Travel Guide (Mie/Kansai/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/kansai/mie/iga/</link>
-            <description>Explore the culturally rich city of Iga in Japan with our informative travel guide. Discover natural attractions, hiking and biking routes, food and drink scenes, local culture, and much more.</description>
-            <pubDate>2024-02-08T08:25:26+03:00</pubDate>
+            <title>Treis-Karden Travel Guide (Moselle Valley/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/moselle-valley/treis-karden/</link>
+            <description>A comprehensive travel guide for Treis-Karden, Germany, including places to visit, activities, food and drink scene, and transportation options.</description>
+            <pubDate>2024-02-08T08:42:20+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
