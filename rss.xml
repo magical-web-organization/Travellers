@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T22:25:02+03:00</pubDate>
-        <lastBuildDate>2024-02-08T22:25:02+03:00</lastBuildDate>
+        <pubDate>2024-02-08T22:55:11+03:00</pubDate>
+        <lastBuildDate>2024-02-08T22:55:11+03:00</lastBuildDate>
 
         <item>
-            <title>Igan Travel Guide (Sarawak/Malaysia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/igan/</link>
-            <description>Discover the best places to visit, things to do, where to stay, what to eat, and more in Igan, Sarawak, Malaysia. This complete travel guide will give you everything you need to know.</description>
-            <pubDate>2024-02-08T22:25:02+03:00</pubDate>
+            <title>Kidlington Travel Guide (Oxfordshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/oxfordshire/kidlington/</link>
+            <description>Explore the best of Kidlington, from cultural attractions to outdoor adventures, and discover local food, accommodations, and transportation options.</description>
+            <pubDate>2024-02-08T22:55:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
