@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T15:27:00+03:00</pubDate>
-        <lastBuildDate>2024-02-08T15:27:00+03:00</lastBuildDate>
+        <pubDate>2024-02-08T15:37:04+03:00</pubDate>
+        <lastBuildDate>2024-02-08T15:37:04+03:00</lastBuildDate>
 
         <item>
-            <title>Qabala Travel Guide (Sheki Region/Azerbaijan/Caucasus/Asia)</title>
-            <link>https://travellers.wiki/en/asia/caucasus/azerbaijan/sheki-region/qabala/</link>
-            <description>Planning to visit Qabala? Check out our comprehensive guide to Qabala that offers detailed insights into where to go, what to see, and what to do in Qabala.</description>
-            <pubDate>2024-02-08T15:27:00+03:00</pubDate>
+            <title>Kamianets-Podilskyi Travel Guide (Western Ukraine/Ukraine/Eastern Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/eastern-europe/ukraine/western-ukraine/kamianets-podilskyi/</link>
+            <description>Plan an unforgettable trip to Kamianets-Podilskyi with this comprehensive travel guide. Discover top attractions, outdoor adventures, food and drink scene, where to stay, local culture, safety tips, and much more.</description>
+            <pubDate>2024-02-08T15:37:04+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
