@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T04:11:01+03:00</pubDate>
-        <lastBuildDate>2024-02-08T04:11:01+03:00</lastBuildDate>
+        <pubDate>2024-02-08T04:36:58+03:00</pubDate>
+        <lastBuildDate>2024-02-08T04:36:58+03:00</lastBuildDate>
 
         <item>
-            <title>Stansbury Travel Guide (Yorke Peninsula/South Australia/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/south-australia/yorke-peninsula/stansbury/</link>
-            <description>Discover the best things to do, places to visit, and where to stay in Stansbury, South Australia. Read our comprehensive guide to plan your trip now.</description>
-            <pubDate>2024-02-08T04:11:01+03:00</pubDate>
+            <title>Sondrio Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/sondrio/</link>
+            <description>Get ready to explore the cultural and natural attractions of Sondrio in Italy. From hiking routes to local cuisine and customs, we have everything covered. Plan your trip today!</description>
+            <pubDate>2024-02-08T04:36:58+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
