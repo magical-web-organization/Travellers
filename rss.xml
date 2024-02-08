@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T03:01:35+03:00</pubDate>
-        <lastBuildDate>2024-02-08T03:01:35+03:00</lastBuildDate>
+        <pubDate>2024-02-08T03:03:35+03:00</pubDate>
+        <lastBuildDate>2024-02-08T03:03:35+03:00</lastBuildDate>
 
         <item>
-            <title>Kraljevo Travel Guide (Šumadija/Serbia/Balkans/Europe)</title>
-            <link>https://travellers.wiki/en/europe/balkans/serbia/sumadija/kraljevo/</link>
-            <description>Explore the best museums, outdoor adventures, food scenes, accommodations, and more with our comprehensive travel guide to Kraljevo, Serbia.</description>
-            <pubDate>2024-02-08T03:01:35+03:00</pubDate>
+            <title>Bellflower Travel Guide (Gateway Cities (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/gateway-cities-los-angeles-county/bellflower/</link>
+            <description>Discover the highlights of Bellflower, California in this comprehensive travel guide. Find the best places to visit, things to do, where to eat and stay, and more.</description>
+            <pubDate>2024-02-08T03:03:35+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
