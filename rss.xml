@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T16:38:06+03:00</pubDate>
-        <lastBuildDate>2024-02-08T16:38:06+03:00</lastBuildDate>
+        <pubDate>2024-02-08T17:32:04+03:00</pubDate>
+        <lastBuildDate>2024-02-08T17:32:04+03:00</lastBuildDate>
 
         <item>
-            <title>Girona Pyrenees Travel Guide (Girona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/girona-province/girona-pyrenees/</link>
-            <description>Explore the culturally rich and breathtakingly beautiful region of Girona Pyrenees with our comprehensive travel guide.</description>
-            <pubDate>2024-02-08T16:38:06+03:00</pubDate>
+            <title>Matsuyama Travel Guide (Ehime/Shikoku/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/ehime/matsuyama/</link>
+            <description>A comprehensive guide of Matsuyama, Japan. Learn about its attractions, food and drink scene, where to stay, and cultural customs, among other things.</description>
+            <pubDate>2024-02-08T17:32:04+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
