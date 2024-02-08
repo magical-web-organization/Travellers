@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-08T20:22:54+03:00</pubDate>
-        <lastBuildDate>2024-02-08T20:22:54+03:00</lastBuildDate>
+        <pubDate>2024-02-08T20:57:28+03:00</pubDate>
+        <lastBuildDate>2024-02-08T20:57:28+03:00</lastBuildDate>
 
         <item>
-            <title>Quillabamba Travel Guide (Southern Sierra/Peru/South America)</title>
-            <link>https://travellers.wiki/en/south-america/peru/southern-sierra/quillabamba/</link>
-            <description>Plan your ideal trip to Quillabamba with our comprehensive travel guide, featuring all the top attractions, activities, accommodations, dining options, and more.</description>
-            <pubDate>2024-02-08T20:22:54+03:00</pubDate>
+            <title>Chitral Travel Guide (Khyber Pakhtunkhwa/Pakistan/South Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/chitral/</link>
+            <description>Plan your trip to Chitral, Pakistan with this comprehensive travel guide covering top attractions, hiking routes, food, accommodations and more.</description>
+            <pubDate>2024-02-08T20:57:28+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
