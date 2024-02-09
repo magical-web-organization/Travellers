@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-09T12:36:04+03:00</pubDate>
-        <lastBuildDate>2024-02-09T12:36:04+03:00</lastBuildDate>
+        <pubDate>2024-02-09T13:09:05+03:00</pubDate>
+        <lastBuildDate>2024-02-09T13:09:05+03:00</lastBuildDate>
 
         <item>
-            <title>San Ramon Travel Guide (Contra Costa County/East Bay/Bay Area/California/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/contra-costa-county/san-ramon/</link>
-            <description>San Ramon is a city located in the East Bay area of California. Plan your trip with our comprehensive travel guide, filled with tips and recommendations for things to do, where to stay, and how to get around.</description>
-            <pubDate>2024-02-09T12:36:04+03:00</pubDate>
+            <title>Latin America Travel Guide (Other destinations)</title>
+            <link>https://travellers.wiki/en/other-destinations/latin-america/</link>
+            <description>Plan your ultimate adventure in Latin America with our comprehensive guide. Discover the region's top destinations, must-see attractions, activities, accommodations, and more.</description>
+            <pubDate>2024-02-09T13:09:05+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
