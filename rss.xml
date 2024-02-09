@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-09T18:36:05+03:00</pubDate>
-        <lastBuildDate>2024-02-09T18:36:05+03:00</lastBuildDate>
+        <pubDate>2024-02-09T19:05:06+03:00</pubDate>
+        <lastBuildDate>2024-02-09T19:05:06+03:00</lastBuildDate>
 
         <item>
-            <title>Linhares Travel Guide (North Coast Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
-            <link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/north-coast-espirito-santo/linhares/</link>
-            <description>Discover the top-rated attractions, adventurous activities, local culture & cuisine, accommodation options, and transport modes to reach & get around Linhares.</description>
-            <pubDate>2024-02-09T18:36:05+03:00</pubDate>
+            <title>Mount Ostrog Travel Guide (Central Montenegro/Montenegro/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/montenegro/central-montenegro/mount-ostrog/</link>
+            <description>Plan your trip to Mount Ostrog with this helpful guide that includes information on hiking/biking routes, places to visit, food and drink scene, and more!</description>
+            <pubDate>2024-02-09T19:05:06+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
