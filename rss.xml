@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-09T15:11:10+03:00</pubDate>
-        <lastBuildDate>2024-02-09T15:11:10+03:00</lastBuildDate>
+        <pubDate>2024-02-09T15:36:07+03:00</pubDate>
+        <lastBuildDate>2024-02-09T15:36:07+03:00</lastBuildDate>
 
         <item>
-            <title>Requena Travel Guide (Valencia (province)/Valencian Community/Eastern Spain/Spain/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/valencia-province/requena/</link>
-            <description>Discover the charms of Requena, a hidden gem in Valencia, Spain. From cultural attractions to hiking routes, food, and local customs, this guide has it all. Learn more today!</description>
-            <pubDate>2024-02-09T15:11:10+03:00</pubDate>
+            <title>Red Lake Travel Guide (Northwestern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northwestern-ontario/red-lake/</link>
+            <description>Explore the hidden gems of Red Lake, Ontario with our comprehensive tour guide. Discover the best places to visit, hike, eat, stay, and more in this charming town surrounded by scenic views.</description>
+            <pubDate>2024-02-09T15:36:07+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
