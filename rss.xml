@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-09T20:23:14+03:00</pubDate>
-        <lastBuildDate>2024-02-09T20:23:14+03:00</lastBuildDate>
+        <pubDate>2024-02-09T20:52:53+03:00</pubDate>
+        <lastBuildDate>2024-02-09T20:52:53+03:00</lastBuildDate>
 
         <item>
-            <title>Morinville Travel Guide (Edmonton Capital Region/Alberta/Prairies/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/prairies/alberta/edmonton-capital-region/morinville/</link>
-            <description>Discover the best things to do, see, eat, and stay in Morinville, Alberta with this comprehensive travel guide that covers everything from outdoor adventures to cultural attractions.</description>
-            <pubDate>2024-02-09T20:23:14+03:00</pubDate>
+            <title>Lavia Travel Guide (Satakunta/West Coast/Finland/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/satakunta/lavia/</link>
+            <description>Read this travel guide for a detailed itinerary, top attractions, transportation options, and more to plan your trip to Lavia, Finland.</description>
+            <pubDate>2024-02-09T20:52:53+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
