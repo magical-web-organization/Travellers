@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-09T08:43:26+03:00</pubDate>
-        <lastBuildDate>2024-02-09T08:43:26+03:00</lastBuildDate>
+        <pubDate>2024-02-09T09:05:25+03:00</pubDate>
+        <lastBuildDate>2024-02-09T09:05:25+03:00</lastBuildDate>
 
         <item>
-            <title>Agios Nikolaos Travel Guide (Sithonia/Chalkidiki/Macedonia/Northern Greece/Greece/Europe)</title>
-            <link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/chalkidiki/sithonia/agios-nikolaos/</link>
-            <description>Plan your trip to Agios Nikolaos with this comprehensive travel guide. Discover outdoor adventures, cultural attractions, food scene, and more!</description>
-            <pubDate>2024-02-09T08:43:26+03:00</pubDate>
+            <title>Scarborough Travel Guide (Toronto/Greater Toronto Area/Ontario/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/toronto/scarborough/</link>
+            <description>Discover the best places to visit, eat, stay, and things to do in Scarborough with our comprehensive travel guide.</description>
+            <pubDate>2024-02-09T09:05:25+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
