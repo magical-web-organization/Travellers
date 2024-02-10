@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-10T16:45:55+03:00</pubDate>
-        <lastBuildDate>2024-02-10T16:45:55+03:00</lastBuildDate>
+        <pubDate>2024-02-10T17:08:03+03:00</pubDate>
+        <lastBuildDate>2024-02-10T17:08:03+03:00</lastBuildDate>
 
         <item>
-            <title>Phan Thiet Travel Guide (Southern Vietnam/Vietnam/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/vietnam/southern-vietnam/phan-thiet/</link>
-            <description>Discover the best things to do, places to stay, and local culture in Phan Thiet. This comprehensive guide provides tips on transportation, food, and safety in Southern Vietnam.</description>
-            <pubDate>2024-02-10T16:45:55+03:00</pubDate>
+            <title>Cartwright Travel Guide (Labrador/Newfoundland and Labrador/Atlantic Canada/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/labrador/cartwright/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in Cartwright, Newfoundland and Labrador with our comprehensive guide.</description>
+            <pubDate>2024-02-10T17:08:03+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
