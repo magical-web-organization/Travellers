@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-10T09:13:00+03:00</pubDate>
-        <lastBuildDate>2024-02-10T09:13:00+03:00</lastBuildDate>
+        <pubDate>2024-02-10T09:47:32+03:00</pubDate>
+        <lastBuildDate>2024-02-10T09:47:32+03:00</lastBuildDate>
 
         <item>
-            <title>Murray and Mallee Riverland Travel Guide (South Australia/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/south-australia/murray-and-mallee-riverland/</link>
-            <description>Plan your trip to Murray and Mallee Riverland with this comprehensive travel guide, including places to visit, hiking routes, food and drink scene, where to stay, and more.</description>
-            <pubDate>2024-02-10T09:13:00+03:00</pubDate>
+            <title>Tiwi Islands Travel Guide (Top End/Northern Territory/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/northern-territory/top-end/tiwi-islands/</link>
+            <description>Discover the stunning natural beauty, rich cultural heritage, and delicious local cuisine of Tiwi Islands. From hiking and biking routes to must-visit museums and historical sites, this guide has everything you need to plan your perfect trip.</description>
+            <pubDate>2024-02-10T09:47:32+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
