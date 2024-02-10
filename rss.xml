@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-11T00:14:07+03:00</pubDate>
-        <lastBuildDate>2024-02-11T00:14:07+03:00</lastBuildDate>
+        <pubDate>2024-02-11T00:49:35+03:00</pubDate>
+        <lastBuildDate>2024-02-11T00:49:35+03:00</lastBuildDate>
 
         <item>
-            <title>Biharinath Travel Guide (Rarh/West Bengal/Eastern India/India/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/rarh/biharinath/</link>
-            <description>Discover the natural wonders, cultural highlights, and outdoor activities that Biharinath has to offer with this comprehensive travel guide.</description>
-            <pubDate>2024-02-11T00:14:07+03:00</pubDate>
+            <title>Münsterland Travel Guide (North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/munsterland/</link>
+            <description>Read this comprehensive travel guide to Münsterland to plan your next trip. Explore cultural attractions, natural wonders, hiking and biking routes, local cuisine, and more.</description>
+            <pubDate>2024-02-11T00:49:35+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
