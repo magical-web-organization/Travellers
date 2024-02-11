@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/japan/okinawa/miyako-islands/</loc>
+        <lastmod>2024-02-11T14:25:08+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/east-asia/japan/okinawa/miyako-islands/miyako/</loc>
+        <lastmod>2024-02-11T14:25:08+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/south-america/chile/patagonia/tierra-del-fuego/</loc>
         <lastmod>2024-02-11T13:39:30+03:00</lastmod>
     </url>
