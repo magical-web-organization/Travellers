@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-12T00:17:17+03:00</pubDate>
-        <lastBuildDate>2024-02-12T00:17:17+03:00</lastBuildDate>
+        <pubDate>2024-02-12T00:42:48+03:00</pubDate>
+        <lastBuildDate>2024-02-12T00:42:48+03:00</lastBuildDate>
 
         <item>
-            <title>Aveyron Travel Guide (Occitanie/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/occitanie/aveyron/</link>
-            <description>Discover the beautiful region of Aveyron in France with this comprehensive travel guide.</description>
-            <pubDate>2024-02-12T00:17:17+03:00</pubDate>
+            <title>Guangzhou Travel Guide (Pearl River Delta/Guangdong/South China/China/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/pearl-river-delta/guangzhou/</link>
+            <description>Discover the rich culture and natural beauty of Guangzhou with this comprehensive travel guide featuring top attractions, hiking/biking routes, food and drink scene, local customs, and more.</description>
+            <pubDate>2024-02-12T00:42:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
