@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-11T23:52:56+03:00</pubDate>
-        <lastBuildDate>2024-02-11T23:52:56+03:00</lastBuildDate>
+        <pubDate>2024-02-12T00:17:17+03:00</pubDate>
+        <lastBuildDate>2024-02-12T00:17:17+03:00</lastBuildDate>
 
         <item>
-            <title>Actun Tunichil Muknal Travel Guide (Cayo/Belize/Central America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/central-america/belize/cayo/actun-tunichil-muknal/</link>
-            <description>Discover the best places to visit, things to do, food to try, and practical tips for a safe and enjoyable trip to Actun Tunichil Muknal, Belize.</description>
-            <pubDate>2024-02-11T23:52:56+03:00</pubDate>
+            <title>Aveyron Travel Guide (Occitanie/France/Europe)</title>
+            <link>https://travellers.wiki/en/europe/france/occitanie/aveyron/</link>
+            <description>Discover the beautiful region of Aveyron in France with this comprehensive travel guide.</description>
+            <pubDate>2024-02-12T00:17:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
