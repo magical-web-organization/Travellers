@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-11T11:18:53+03:00</pubDate>
-        <lastBuildDate>2024-02-11T11:18:53+03:00</lastBuildDate>
+        <pubDate>2024-02-11T11:42:34+03:00</pubDate>
+        <lastBuildDate>2024-02-11T11:42:34+03:00</lastBuildDate>
 
         <item>
-            <title>South Atlantic Coast Travel Guide (Morocco/North Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/north-africa/morocco/south-atlantic-coast/</link>
-            <description>A comprehensive guide to the South Atlantic Coast of Morocco, including information on places to visit, activities, food, lodging, culture, and more.</description>
-            <pubDate>2024-02-11T11:18:53+03:00</pubDate>
+            <title>La Union Travel Guide (Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/la-union/</link>
+            <description>Discover the best places to visit, things to do, food to try, and tips for safety and cultural immersion in La Union, Philippines. Plan your trip with our complete itinerary and transportation guide.</description>
+            <pubDate>2024-02-11T11:42:34+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
