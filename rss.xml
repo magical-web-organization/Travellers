@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-11T17:11:39+03:00</pubDate>
-        <lastBuildDate>2024-02-11T17:11:39+03:00</lastBuildDate>
+        <pubDate>2024-02-11T17:38:23+03:00</pubDate>
+        <lastBuildDate>2024-02-11T17:38:23+03:00</lastBuildDate>
 
         <item>
-            <title>Rjukan Travel Guide (Telemark/East Norway/Norway/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/telemark/rjukan/</link>
-            <description>Discover the best places to visit, food to try, and activities to do in Rjukan, Norway with our comprehensive travel guide.</description>
-            <pubDate>2024-02-11T17:11:39+03:00</pubDate>
+            <title>Arkhangelsk Oblast Travel Guide (Northwestern Russia/Russia/Eastern Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/arkhangelsk-oblast/</link>
+            <description>Discover the best things to do, see, eat, and stay in Arkhangelsk Oblast with our detailed travel guide. Learn about top attractions, local culture, safety tips, and more.</description>
+            <pubDate>2024-02-11T17:38:23+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
