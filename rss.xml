@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-11T05:13:02+03:00</pubDate>
-        <lastBuildDate>2024-02-11T05:13:02+03:00</lastBuildDate>
+        <pubDate>2024-02-11T05:57:26+03:00</pubDate>
+        <lastBuildDate>2024-02-11T05:57:26+03:00</lastBuildDate>
 
         <item>
-            <title>Çerkezköy Travel Guide (Eastern Thrace/Marmara (region)/Turkey/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-thrace/cerkezkoy/</link>
-            <description>Discover the rich cultural and natural attractions, outdoor adventures, and local cuisine of Çerkezköy, Turkey with our ultimate travel guide.</description>
-            <pubDate>2024-02-11T05:13:02+03:00</pubDate>
+            <title>Window Rock Travel Guide (Northern Arizona/Arizona/Southwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/northern-arizona/window-rock/</link>
+            <description>Discover the best places to visit in Window Rock, from natural attractions to culturally important museums and historical places. Plan your trip with our comprehensive travel guide.</description>
+            <pubDate>2024-02-11T05:57:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
