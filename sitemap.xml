@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/french-riviera/</loc>
+        <lastmod>2024-02-11T15:47:12+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/italy/central-italy/marche/macerata-province/</loc>
         <lastmod>2024-02-11T15:23:47+03:00</lastmod>
     </url>
