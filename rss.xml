@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-12T14:59:41+03:00</pubDate>
-        <lastBuildDate>2024-02-12T14:59:41+03:00</lastBuildDate>
+        <pubDate>2024-02-12T15:18:48+03:00</pubDate>
+        <lastBuildDate>2024-02-12T15:18:48+03:00</lastBuildDate>
 
         <item>
-            <title>Taketomi Travel Guide (Yaeyama Islands/Okinawa/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/okinawa/yaeyama-islands/taketomi/</link>
-            <description>Plan your trip to Taketomi, Okinawa, Japan with our extensive travel guide. Discover the best things to see, do, eat, and where to stay in this stunning East Asian paradise.</description>
-            <pubDate>2024-02-12T14:59:41+03:00</pubDate>
+            <title>Milk River Travel Guide (Southern Alberta/Alberta/Prairies/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/prairies/alberta/southern-alberta/milk-river/</link>
+            <description>Explore the hidden treasures of Milk River, Southern Alberta with our comprehensive guide showcasing the best places to visit, activities, and local culture.</description>
+            <pubDate>2024-02-12T15:18:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
