@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-12T16:15:53+03:00</pubDate>
-        <lastBuildDate>2024-02-12T16:15:53+03:00</lastBuildDate>
+        <pubDate>2024-02-12T16:55:43+03:00</pubDate>
+        <lastBuildDate>2024-02-12T16:55:43+03:00</lastBuildDate>
 
         <item>
-            <title>Königstein Travel Guide (Saxon Switzerland/Saxony/Germany/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-switzerland/konigstein/</link>
-            <description>Explore Königstein, Germany with our comprehensive travel guide. Discover the best attractions, activities, accommodations, food scene, and travel tips.</description>
-            <pubDate>2024-02-12T16:15:53+03:00</pubDate>
+            <title>Entwistle-Evansburg Travel Guide (Foothills/Central Alberta/Alberta/Prairies/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/prairies/alberta/central-alberta/foothills/entwistle-evansburg/</link>
+            <description>Discover the best things to do, places to stay, and where to eat in Entwistle-Evansburg, Alberta. Explore its cultural and natural attractions, and plan your trip today.</description>
+            <pubDate>2024-02-12T16:55:43+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
