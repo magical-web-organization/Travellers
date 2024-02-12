@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-12T16:03:24+03:00</pubDate>
-        <lastBuildDate>2024-02-12T16:03:24+03:00</lastBuildDate>
+        <pubDate>2024-02-12T16:15:53+03:00</pubDate>
+        <lastBuildDate>2024-02-12T16:15:53+03:00</lastBuildDate>
 
         <item>
-            <title>Salgótarján Travel Guide (Nógrád County/Northern Hungary/Hungary/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/nograd-county/salgotarjan/</link>
-            <description>Discover the best things to do, places to visit, where to stay, and more in Salgótarján. Plan your trip now with our comprehensive travel guide.</description>
-            <pubDate>2024-02-12T16:03:24+03:00</pubDate>
+            <title>Königstein Travel Guide (Saxon Switzerland/Saxony/Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-switzerland/konigstein/</link>
+            <description>Explore Königstein, Germany with our comprehensive travel guide. Discover the best attractions, activities, accommodations, food scene, and travel tips.</description>
+            <pubDate>2024-02-12T16:15:53+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
