@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-12T06:02:14+03:00</pubDate>
-        <lastBuildDate>2024-02-12T06:02:14+03:00</lastBuildDate>
+        <pubDate>2024-02-12T06:13:20+03:00</pubDate>
+        <lastBuildDate>2024-02-12T06:13:20+03:00</lastBuildDate>
 
         <item>
-            <title>Agra Travel Guide (Doab/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/doab/agra/</link>
-            <description>Explore the best of Agra including UNESCO World Heritage Sites, outdoor adventures, local culture and customs, food and drink scene, and transportation logistics.</description>
-            <pubDate>2024-02-12T06:02:14+03:00</pubDate>
+            <title>L'Isle-aux-Coudres Travel Guide (Charlevoix/Central Quebec/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/charlevoix/l-isle-aux-coudres/</link>
+            <description>Discover the best things to do, see, and eat on your next trip to L'Isle-aux-Coudres in Quebec, Canada with this comprehensive travel guide.</description>
+            <pubDate>2024-02-12T06:13:20+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
