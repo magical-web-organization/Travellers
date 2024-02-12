@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-12T12:27:34+03:00</pubDate>
-        <lastBuildDate>2024-02-12T12:27:34+03:00</lastBuildDate>
+        <pubDate>2024-02-12T13:02:19+03:00</pubDate>
+        <lastBuildDate>2024-02-12T13:02:19+03:00</lastBuildDate>
 
         <item>
-            <title>Blue Earth Travel Guide (Southern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/blue-earth/</link>
-            <description>Plan your trip to Blue Earth with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-02-12T12:27:34+03:00</pubDate>
+            <title>Kennebunkport Travel Guide (Southern Coast/Maine/New England/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/southern-coast/kennebunkport/</link>
+            <description>Discover the best attractions, activities, food and drink scene, where to stay, culture, safety, and transportation options for your visit to Kennebunkport in Maine.</description>
+            <pubDate>2024-02-12T13:02:19+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
