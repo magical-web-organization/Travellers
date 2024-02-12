@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-12T17:27:34+03:00</pubDate>
-        <lastBuildDate>2024-02-12T17:27:34+03:00</lastBuildDate>
+        <pubDate>2024-02-12T17:36:20+03:00</pubDate>
+        <lastBuildDate>2024-02-12T17:36:20+03:00</lastBuildDate>
 
         <item>
-            <title>Schiermonnikoog Travel Guide (West Frisian Islands/Northern Netherlands/Netherlands/Benelux/Europe)</title>
-            <link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/west-frisian-islands/schiermonnikoog/</link>
-            <description>Discover the best places to visit, things to do, and famous landmarks to see in Schiermonnikoog. Learn about the culture, history, food, and local customs of this beautiful Dutch island.</description>
-            <pubDate>2024-02-12T17:27:34+03:00</pubDate>
+            <title>Cagnes-sur-Mer Travel Guide (Alpes-Maritimes/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+            <link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-maritimes/cagnes-sur-mer/</link>
+            <description>Discover Cagnes-sur-Mer, a hidden gem in Provence-Alpes-Côte d'Azur in France. From museums to outdoor adventures, this guide covers everything you need to know to plan your trip.</description>
+            <pubDate>2024-02-12T17:36:20+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
