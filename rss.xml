@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-13T19:33:50+03:00</pubDate>
-        <lastBuildDate>2024-02-13T19:33:50+03:00</lastBuildDate>
+        <pubDate>2024-02-13T20:19:16+03:00</pubDate>
+        <lastBuildDate>2024-02-13T20:19:16+03:00</lastBuildDate>
 
         <item>
-            <title>Okha Travel Guide (Sakhalin/Russian Far East/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/sakhalin/okha/</link>
-            <description>Explore the highlights of Okha, Russia with this comprehensive travel guide featuring must-visit attractions, hiking/biking routes, accommodations, local food and drink, culture, safety, transportation options, and more.</description>
-            <pubDate>2024-02-13T19:33:50+03:00</pubDate>
+            <title>Swansea Travel Guide (Eastern Tasmania/Tasmania/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/tasmania/eastern-tasmania/swansea/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in Swansea, Australia with our comprehensive travel guide. Read on to learn more!</description>
+            <pubDate>2024-02-13T20:19:16+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
