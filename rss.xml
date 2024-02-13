@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-14T01:48:24+03:00</pubDate>
-        <lastBuildDate>2024-02-14T01:48:24+03:00</lastBuildDate>
+        <pubDate>2024-02-14T02:29:15+03:00</pubDate>
+        <lastBuildDate>2024-02-14T02:29:15+03:00</lastBuildDate>
 
         <item>
-            <title>Chartres Travel Guide (Centre-Val de Loire/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/centre-val-de-loire/chartres/</link>
-            <description>Discover all the best things to do, places to visit, and food to eat in Chartres, France with our comprehensive travel guide. From historical attractions to natural wonders, hiking trails to local culture, we've got you covered.</description>
-            <pubDate>2024-02-14T01:48:24+03:00</pubDate>
+            <title>Hanover Travel Guide (Dartmouth Lake Sunapee/New Hampshire/New England/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/dartmouth-lake-sunapee/hanover/</link>
+            <description>Plan your trip to Hanover with this comprehensive travel guide, covering everything from top attractions to where to stay and what to eat.</description>
+            <pubDate>2024-02-14T02:29:15+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
