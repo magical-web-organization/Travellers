@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-13T13:29:39+03:00</pubDate>
-        <lastBuildDate>2024-02-13T13:29:39+03:00</lastBuildDate>
+        <pubDate>2024-02-13T13:43:49+03:00</pubDate>
+        <lastBuildDate>2024-02-13T13:43:49+03:00</lastBuildDate>
 
         <item>
-            <title>Sarti Travel Guide (Sithonia/Chalkidiki/Macedonia/Northern Greece/Greece/Europe)</title>
-            <link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/chalkidiki/sithonia/sarti/</link>
-            <description>Discover the natural and cultural attractions of Sarti, Chalkidiki, and immerse yourself in its rich history, delicious cuisine, and stunning landscapes.</description>
-            <pubDate>2024-02-13T13:29:39+03:00</pubDate>
+            <title>Namshan Travel Guide (Eastern Myanmar/Myanmar/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/myanmar/eastern-myanmar/namshan/</link>
+            <description>Discover the best places to visit, things to do, and where to stay in Namshan, Myanmar with our comprehensive travel guide.</description>
+            <pubDate>2024-02-13T13:43:49+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
