@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-13T16:20:00+03:00</pubDate>
-        <lastBuildDate>2024-02-13T16:20:00+03:00</lastBuildDate>
+        <pubDate>2024-02-13T16:37:20+03:00</pubDate>
+        <lastBuildDate>2024-02-13T16:37:20+03:00</lastBuildDate>
 
         <item>
-            <title>Richmond Travel Guide (Greater Hobart/Southern Tasmania/Tasmania/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/greater-hobart/richmond/</link>
-            <description>Discover the culturally rich and naturally beautiful town of Richmond in Southern Tasmania, Australia with this comprehensive travel guide.</description>
-            <pubDate>2024-02-13T16:20:00+03:00</pubDate>
+            <title>Villagarzón Travel Guide (Amazonia/Colombia/South America)</title>
+            <link>https://travellers.wiki/en/south-america/colombia/amazonia/villagarzon/</link>
+            <description>Discover the best things to do in Villagarzón, including natural attractions, hiking/biking routes, local cuisine, where to stay, transport options, and cultural highlights.</description>
+            <pubDate>2024-02-13T16:37:20+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
