@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-14T16:58:31+03:00</pubDate>
-        <lastBuildDate>2024-02-14T16:58:31+03:00</lastBuildDate>
+        <pubDate>2024-02-14T17:26:11+03:00</pubDate>
+        <lastBuildDate>2024-02-14T17:26:11+03:00</lastBuildDate>
 
         <item>
-            <title>San Fernando Travel Guide (Pampanga/Central Luzon/Luzon/Philippines/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/central-luzon/pampanga/san-fernando/</link>
-            <description>Discover the best things to do, where to stay, what to eat and drink and how to get around in San Fernando, Pampanga, Philippines.</description>
-            <pubDate>2024-02-14T16:58:31+03:00</pubDate>
+            <title>Hamhung Travel Guide (Donghae Coast/North Korea/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/north-korea/donghae-coast/hamhung/</link>
+            <description>Discover the best things to see and do in Hamhung, North Korea. From cultural and natural attractions to hiking and biking routes, this guide will help you plan your visit.</description>
+            <pubDate>2024-02-14T17:26:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
