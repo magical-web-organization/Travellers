@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-14T14:32:02+03:00</pubDate>
-        <lastBuildDate>2024-02-14T14:32:02+03:00</lastBuildDate>
+        <pubDate>2024-02-14T14:41:05+03:00</pubDate>
+        <lastBuildDate>2024-02-14T14:41:05+03:00</lastBuildDate>
 
         <item>
-            <title>Inglewood Travel Guide (South Bay (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/south-bay-los-angeles-county/inglewood/</link>
-            <description>Get to know Inglewood, Southern California's small town with a big heart. From museums and scenic views to local cuisine and culture, Inglewood has something for everyone.</description>
-            <pubDate>2024-02-14T14:32:02+03:00</pubDate>
+            <title>Abéché Travel Guide (Sahelian Chad/Chad/Sahel/Africa)</title>
+            <link>https://travellers.wiki/en/africa/sahel/chad/sahelian-chad/abeche/</link>
+            <description>A comprehensive travel guide to Abéché in Chad, including top attractions, local culture, transportation, and more.</description>
+            <pubDate>2024-02-14T14:41:05+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
