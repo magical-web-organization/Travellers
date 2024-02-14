@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-14T22:03:49+03:00</pubDate>
-        <lastBuildDate>2024-02-14T22:03:49+03:00</lastBuildDate>
+        <pubDate>2024-02-14T22:37:50+03:00</pubDate>
+        <lastBuildDate>2024-02-14T22:37:50+03:00</lastBuildDate>
 
         <item>
-            <title>Poděbrady Travel Guide (Central Bohemia/Czech Republic/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/czech-republic/central-bohemia/podebrady/</link>
-            <description>Discover the cultural attractions, natural wonders, activities, food, and best time to visit Poděbrady with our comprehensive tour guide.</description>
-            <pubDate>2024-02-14T22:03:49+03:00</pubDate>
+            <title>Garibaldi Travel Guide (Northern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/northern-oregon-coast/garibaldi/</link>
+            <description>Find the best attractions, food, stay, and activities in Garibaldi, Oregon. A comprehensive travel guide with tips and insights.</description>
+            <pubDate>2024-02-14T22:37:50+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
