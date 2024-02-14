@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-14T05:59:19+03:00</pubDate>
-        <lastBuildDate>2024-02-14T05:59:19+03:00</lastBuildDate>
+        <pubDate>2024-02-14T06:17:41+03:00</pubDate>
+        <lastBuildDate>2024-02-14T06:17:41+03:00</lastBuildDate>
 
         <item>
-            <title>Berry Islands Travel Guide (Bahamas/Caribbean/North America)</title>
-            <link>https://travellers.wiki/en/north-america/caribbean/bahamas/berry-islands/</link>
-            <description>Read our guide to Berry Islands to discover the best things to do, places to visit, where to stay and more.</description>
-            <pubDate>2024-02-14T05:59:19+03:00</pubDate>
+            <title>Stavroupoli Travel Guide (Western Thrace/Northern Greece/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/northern-greece/western-thrace/stavroupoli/</link>
+            <description>Discover the top attractions, must-try dishes, accommodations, cultural experiences, safety tips, and logistics of Stavroupoli in this comprehensive travel guide.</description>
+            <pubDate>2024-02-14T06:17:41+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
