@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-15T01:48:03+03:00</pubDate>
-        <lastBuildDate>2024-02-15T01:48:03+03:00</lastBuildDate>
+        <pubDate>2024-02-15T02:22:20+03:00</pubDate>
+        <lastBuildDate>2024-02-15T02:22:20+03:00</lastBuildDate>
 
         <item>
-            <title>Mountainair Travel Guide (Central New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/central-new-mexico/mountainair/</link>
-            <description>Discover the beautiful town of Mountainair in central New Mexico with this comprehensive tour guide. Explore the natural and cultural attractions, hiking and biking routes, food and drink scene, where to stay, and much more.</description>
-            <pubDate>2024-02-15T01:48:03+03:00</pubDate>
+            <title>Lusatian Lake District Travel Guide (Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/lusatian-lake-district/</link>
+            <description>Explore natural attractions, cultural landmarks, food, and more in Lusatian Lake District. Plan your trip with our expert guide!</description>
+            <pubDate>2024-02-15T02:22:20+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
