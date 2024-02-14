@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-14T21:14:17+03:00</pubDate>
-        <lastBuildDate>2024-02-14T21:14:17+03:00</lastBuildDate>
+        <pubDate>2024-02-14T21:50:17+03:00</pubDate>
+        <lastBuildDate>2024-02-14T21:50:17+03:00</lastBuildDate>
 
         <item>
-            <title>Yangpu Travel Guide (Shanghai/East China/China/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/yangpu/</link>
-            <description>Discover the best places to visit, things to do, where to stay, what to eat, and all you need to know to make the most of your trip to Yangpu, Shanghai, China.</description>
-            <pubDate>2024-02-14T21:14:17+03:00</pubDate>
+            <title>Alberto de Agostini National Park Travel Guide (Patagonia/Chile/South America)</title>
+            <link>https://travellers.wiki/en/south-america/chile/patagonia/alberto-de-agostini-national-park/</link>
+            <description>Plan your trip to Alberto de Agostini National Park in Chile with our comprehensive guide. Discover the top attractions, activities, hiking routes, where to stay, and more.</description>
+            <pubDate>2024-02-14T21:50:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
