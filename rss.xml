@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-15T08:48:55+03:00</pubDate>
-        <lastBuildDate>2024-02-15T08:48:55+03:00</lastBuildDate>
+        <pubDate>2024-02-15T09:26:40+03:00</pubDate>
+        <lastBuildDate>2024-02-15T09:26:40+03:00</lastBuildDate>
 
         <item>
-            <title>Valley Travel Guide (Anglesey/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/anglesey/valley/</link>
-            <description>Discover the best places to visit and things to do in Valley, North Wales, UK. Plan your trip with our comprehensive travel guide.</description>
-            <pubDate>2024-02-15T08:48:55+03:00</pubDate>
+            <title>Vestegnen Travel Guide (Copenhagen/Zealand/Denmark/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/copenhagen/vestegnen/</link>
+            <description>Discover the cultural, natural, and foodie attractions of Vestegnen in Copenhagen, Denmark. Find out the best things to do, where to stay, and how to get around in this travel guide.</description>
+            <pubDate>2024-02-15T09:26:40+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
