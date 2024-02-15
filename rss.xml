@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-15T09:26:40+03:00</pubDate>
-        <lastBuildDate>2024-02-15T09:26:40+03:00</lastBuildDate>
+        <pubDate>2024-02-15T09:55:40+03:00</pubDate>
+        <lastBuildDate>2024-02-15T09:55:40+03:00</lastBuildDate>
 
         <item>
-            <title>Vestegnen Travel Guide (Copenhagen/Zealand/Denmark/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/copenhagen/vestegnen/</link>
-            <description>Discover the cultural, natural, and foodie attractions of Vestegnen in Copenhagen, Denmark. Find out the best things to do, where to stay, and how to get around in this travel guide.</description>
-            <pubDate>2024-02-15T09:26:40+03:00</pubDate>
+            <title>New Italy Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/new-italy/</link>
+            <description>Explore the North Rivers region of New South Wales with our comprehensive travel guide to New Italy. Discover the stunning natural attractions, culturally significant sites, and the delicious food and drink scene of this picturesque town.</description>
+            <pubDate>2024-02-15T09:55:40+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
