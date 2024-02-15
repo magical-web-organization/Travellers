@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-15T18:55:25+03:00</pubDate>
-        <lastBuildDate>2024-02-15T18:55:25+03:00</lastBuildDate>
+        <pubDate>2024-02-15T19:32:11+03:00</pubDate>
+        <lastBuildDate>2024-02-15T19:32:11+03:00</lastBuildDate>
 
         <item>
-            <title>Harz Travel Guide (Germany/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/germany/harz/</link>
-            <description>Plan your Harz trip with our comprehensive travel guide. Discover cultural attractions, natural wonders, hiking routes, food scene, local customs, safety tips, and logistics.</description>
-            <pubDate>2024-02-15T18:55:25+03:00</pubDate>
+            <title>Chamberlain Travel Guide (Great Lakes/South Dakota/Great Plains/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/south-dakota/great-lakes/chamberlain/</link>
+            <description>Plan your trip to Chamberlain, South Dakota with our comprehensive travel guide featuring cultural attractions, natural attractions, food and drink scene, where to stay, and more. Read now!</description>
+            <pubDate>2024-02-15T19:32:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
