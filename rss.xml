@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-15T06:11:29+03:00</pubDate>
-        <lastBuildDate>2024-02-15T06:11:29+03:00</lastBuildDate>
+        <pubDate>2024-02-15T06:53:01+03:00</pubDate>
+        <lastBuildDate>2024-02-15T06:53:01+03:00</lastBuildDate>
 
         <item>
-            <title>Lo de Marcos Travel Guide (Nayarit/Pacific Coast/Mexico/North America)</title>
-            <link>https://travellers.wiki/en/north-america/mexico/pacific-coast/nayarit/lo-de-marcos/</link>
-            <description>Get ready for an exciting adventure in Lo de Marcos, a beautiful and culturally rich destination in Mexico. Discover stunning natural attractions, amazing activities, delicious local cuisine and more!</description>
-            <pubDate>2024-02-15T06:11:29+03:00</pubDate>
+            <title>Neyveli Travel Guide (Tamil Nadu North Coast/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/tamil-nadu-north-coast/neyveli/</link>
+            <description>A detailed Neyveli travel guide with information on places to visit, things to do, local cuisine, and more.</description>
+            <pubDate>2024-02-15T06:53:01+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
