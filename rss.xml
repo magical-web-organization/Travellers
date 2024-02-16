@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-16T06:29:59+03:00</pubDate>
-        <lastBuildDate>2024-02-16T06:29:59+03:00</lastBuildDate>
+        <pubDate>2024-02-16T06:38:16+03:00</pubDate>
+        <lastBuildDate>2024-02-16T06:38:16+03:00</lastBuildDate>
 
         <item>
-            <title>West Wyalong Travel Guide (Central West/New South Wales/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/west-wyalong/</link>
-            <description>A comprehensive guide to West Wyalong, including a list of places to visit, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, getting there and getting around, and nearby destinations.</description>
-            <pubDate>2024-02-16T06:29:59+03:00</pubDate>
+            <title>Tusheti Travel Guide (Kakheti/Georgia (country)/Caucasus/Asia)</title>
+            <link>https://travellers.wiki/en/asia/caucasus/georgia-country/kakheti/tusheti/</link>
+            <description>Explore the beauty and culture of Tusheti with this comprehensive travel guide. Learn about the best places to visit, local food and culture, safety tips, and transportation options.</description>
+            <pubDate>2024-02-16T06:38:16+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
