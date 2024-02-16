@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-16T18:01:02+03:00</pubDate>
-        <lastBuildDate>2024-02-16T18:01:02+03:00</lastBuildDate>
+        <pubDate>2024-02-16T18:09:34+03:00</pubDate>
+        <lastBuildDate>2024-02-16T18:09:34+03:00</lastBuildDate>
 
         <item>
-            <title>Perry Travel Guide (Red Carpet Country/Oklahoma/Great Plains/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/red-carpet-country/perry/</link>
-            <description>Explore the best things to do and see in Perry, Oklahoma with this comprehensive travel guide. Discover hiking and biking routes, natural attractions, cultural landmarks, local cuisine, and more.</description>
-            <pubDate>2024-02-16T18:01:02+03:00</pubDate>
+            <title>Pavones Travel Guide (South Pacific Costa Rica/Costa Rica/Central America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/central-america/costa-rica/south-pacific-costa-rica/pavones/</link>
+            <description>Looking for an adventure and scenic views? This guide to Pavones, Costa Rica, has everything you need to know from transportation to activities, and more.</description>
+            <pubDate>2024-02-16T18:09:34+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
