@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-16T12:17:09+03:00</pubDate>
-        <lastBuildDate>2024-02-16T12:17:09+03:00</lastBuildDate>
+        <pubDate>2024-02-16T12:45:58+03:00</pubDate>
+        <lastBuildDate>2024-02-16T12:45:58+03:00</lastBuildDate>
 
         <item>
-            <title>Bled Travel Guide (Julian Alps/Slovenia/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/slovenia/julian-alps/bled/</link>
-            <description>Discover the best places to visit, things to do, where to stay, what to eat, and more in Bled, Slovenia.</description>
-            <pubDate>2024-02-16T12:17:09+03:00</pubDate>
+            <title>Dos Pilas Travel Guide (Northern Lowlands/Guatemala/Central America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/central-america/guatemala/northern-lowlands/dos-pilas/</link>
+            <description>Discover the hidden gems of Dos Pilas in this comprehensive travel guide. From cultural attractions to outdoor adventures, we've got you covered.</description>
+            <pubDate>2024-02-16T12:45:58+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
