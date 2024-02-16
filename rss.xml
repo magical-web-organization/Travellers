@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-16T14:05:12+03:00</pubDate>
-        <lastBuildDate>2024-02-16T14:05:12+03:00</lastBuildDate>
+        <pubDate>2024-02-16T14:48:18+03:00</pubDate>
+        <lastBuildDate>2024-02-16T14:48:18+03:00</lastBuildDate>
 
         <item>
-            <title>Springwood Travel Guide (Blue Mountains/New South Wales/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/blue-mountains/springwood/</link>
-            <description>Explore the best of Springwood with our travel guide, including a list of places to visit, must-try dishes, hiking/biking routes, and more. Discover the local culture and customs, transportation options, and nearby destinations.</description>
-            <pubDate>2024-02-16T14:05:12+03:00</pubDate>
+            <title>Ojców National Park Travel Guide (Małopolskie/Poland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/ojcow-national-park/</link>
+            <description>Explore the best of Ojców National Park with our detailed tour guide featuring a list of places to visit, hiking trails, local food, safety tips, and more.</description>
+            <pubDate>2024-02-16T14:48:18+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
