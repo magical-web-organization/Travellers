@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T13:02:18+03:00</pubDate>
-        <lastBuildDate>2024-02-17T13:02:18+03:00</lastBuildDate>
+        <pubDate>2024-02-17T13:31:37+03:00</pubDate>
+        <lastBuildDate>2024-02-17T13:31:37+03:00</lastBuildDate>
 
         <item>
-            <title>Daşoguz Travel Guide (Dashoguz Province/Turkmenistan/Central Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/central-asia/turkmenistan/dashoguz-province/dasoguz/</link>
-            <description>Discover the best things to do, places to visit, and where to stay in Daşoguz, Turkmenistan. Plan your trip with this comprehensive travel guide.</description>
-            <pubDate>2024-02-17T13:02:18+03:00</pubDate>
+            <title>Sultanahmet-Old City Travel Guide (Istanbul/Marmara (region)/Turkey/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/istanbul/sultanahmet-old-city/</link>
+            <description>Discover the best places to visit in Sultanahmet-Old City, Istanbul, including top cultural attractions, outdoor adventures, and delicious local cuisine. Plan your perfect trip with our helpful travel guide.</description>
+            <pubDate>2024-02-17T13:31:37+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
