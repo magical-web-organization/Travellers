@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-18T00:34:38+03:00</pubDate>
-        <lastBuildDate>2024-02-18T00:34:38+03:00</lastBuildDate>
+        <pubDate>2024-02-18T01:24:10+03:00</pubDate>
+        <lastBuildDate>2024-02-18T01:24:10+03:00</lastBuildDate>
 
         <item>
-            <title>Radolfzell Travel Guide (Bodensee Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/bodensee-region/radolfzell/</link>
-            <description>Explore the best places to visit, food and drink scene, where to stay, local culture and customs, and more in this comprehensive travel guide for Radolfzell, Germany.</description>
-            <pubDate>2024-02-18T00:34:38+03:00</pubDate>
+            <title>Port Lockroy Travel Guide (Antarctic Peninsula/Antarctica)</title>
+            <link>https://travellers.wiki/en/antarctica/antarctic-peninsula/port-lockroy/</link>
+            <description>Planning a trip to Port Lockroy, Antarctica? Read this comprehensive guide before you go, and discover everything you need to know to make the most of your journey.</description>
+            <pubDate>2024-02-18T01:24:10+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
