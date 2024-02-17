@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T17:32:34+03:00</pubDate>
-        <lastBuildDate>2024-02-17T17:32:34+03:00</lastBuildDate>
+        <pubDate>2024-02-17T17:43:08+03:00</pubDate>
+        <lastBuildDate>2024-02-17T17:43:08+03:00</lastBuildDate>
 
         <item>
-            <title>Maroneia Travel Guide (Western Thrace/Northern Greece/Greece/Europe)</title>
-            <link>https://travellers.wiki/en/europe/greece/northern-greece/western-thrace/maroneia/</link>
-            <description>Discover the top things to do, see, eat, and explore in Maroneia, Greece. Our comprehensive guide includes all the essential information you need for your trip.</description>
-            <pubDate>2024-02-17T17:32:34+03:00</pubDate>
+            <title>Sorsogon Travel Guide (Bicol/Luzon/Philippines/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/bicol/sorsogon/</link>
+            <description>Discover the best places to visit, things to do, and where to stay in Sorsogon. Learn about the local cuisine, culture, and customs, as well as tips for safety and health.</description>
+            <pubDate>2024-02-17T17:43:08+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
