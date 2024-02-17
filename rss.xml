@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T17:03:20+03:00</pubDate>
-        <lastBuildDate>2024-02-17T17:03:20+03:00</lastBuildDate>
+        <pubDate>2024-02-17T17:32:34+03:00</pubDate>
+        <lastBuildDate>2024-02-17T17:32:34+03:00</lastBuildDate>
 
         <item>
-            <title>Kiyama Travel Guide (Saga (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/saga-prefecture/kiyama/</link>
-            <description>Explore the culturally rich and natural beauty of Kiyama in Saga prefecture, Kyushu, Japan. Find places to visit, hiking/biking routes, must-try food, where to stay, and more.</description>
-            <pubDate>2024-02-17T17:03:20+03:00</pubDate>
+            <title>Maroneia Travel Guide (Western Thrace/Northern Greece/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/northern-greece/western-thrace/maroneia/</link>
+            <description>Discover the top things to do, see, eat, and explore in Maroneia, Greece. Our comprehensive guide includes all the essential information you need for your trip.</description>
+            <pubDate>2024-02-17T17:32:34+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
