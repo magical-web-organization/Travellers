@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T20:55:53+03:00</pubDate>
-        <lastBuildDate>2024-02-17T20:55:53+03:00</lastBuildDate>
+        <pubDate>2024-02-17T21:18:44+03:00</pubDate>
+        <lastBuildDate>2024-02-17T21:18:44+03:00</lastBuildDate>
 
         <item>
-            <title>Northern Samar Travel Guide (Samar Island/Visayas/Philippines/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/samar-island/northern-samar/</link>
-            <description>Discover the beauty and hidden gems of Northern Samar with this comprehensive travel guide.</description>
-            <pubDate>2024-02-17T20:55:53+03:00</pubDate>
+            <title>Afonso Cláudio Travel Guide (Central Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
+            <link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/central-espirito-santo/afonso-claudio/</link>
+            <description>Discover the best places to visit, things to do, where to eat, and where to stay in Afonso Cláudio, a charming town in Central Espírito Santo.</description>
+            <pubDate>2024-02-17T21:18:44+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
