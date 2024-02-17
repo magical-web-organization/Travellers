@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T23:48:46+03:00</pubDate>
-        <lastBuildDate>2024-02-17T23:48:46+03:00</lastBuildDate>
+        <pubDate>2024-02-18T00:26:14+03:00</pubDate>
+        <lastBuildDate>2024-02-18T00:26:14+03:00</lastBuildDate>
 
         <item>
-            <title>Mineral del Monte Travel Guide (Hidalgo/Central Mexico/Mexico/North America)</title>
-            <link>https://travellers.wiki/en/north-america/mexico/central-mexico/hidalgo/mineral-del-monte/</link>
-            <description>Explore the culturally rich and scenic town of Mineral del Monte with this thorough travel guide. Learn about the must-visit places, outdoor adventures, food and drink scene, accommodations, and more.</description>
-            <pubDate>2024-02-17T23:48:46+03:00</pubDate>
+            <title>Karlštejn Travel Guide (Central Bohemia/Czech Republic/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/czech-republic/central-bohemia/karlstejn/</link>
+            <description>Discover the best things to do, places to stay, and food to try in Karlštejn. Learn all about the culture, history, and nature of this charming Czech town.</description>
+            <pubDate>2024-02-18T00:26:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
