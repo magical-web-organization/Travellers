@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T11:08:44+03:00</pubDate>
-        <lastBuildDate>2024-02-17T11:08:44+03:00</lastBuildDate>
+        <pubDate>2024-02-17T11:39:34+03:00</pubDate>
+        <lastBuildDate>2024-02-17T11:39:34+03:00</lastBuildDate>
 
         <item>
-            <title>Abbiategrasso Travel Guide (Grande Milano/Lombardy/Northwest Italy/Italy/Europe)</title>
-            <link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/grande-milano/abbiategrasso/</link>
-            <description>Explore Abbiategrasso, its breathtaking sites, splendid natural beauty, adventurous trails, and local culture and customs with our comprehensive travel guide. Read now!</description>
-            <pubDate>2024-02-17T11:08:44+03:00</pubDate>
+            <title>Sistan and Baluchestan Travel Guide (Iran/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/iran/sistan-and-baluchestan/</link>
+            <description>Discover the best places to visit, things to do, and local customs in Sistan and Baluchestan, Iran. Plan your trip with our comprehensive guide.</description>
+            <pubDate>2024-02-17T11:39:34+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
