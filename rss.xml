@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T02:47:16+03:00</pubDate>
-        <lastBuildDate>2024-02-17T02:47:16+03:00</lastBuildDate>
+        <pubDate>2024-02-17T03:09:56+03:00</pubDate>
+        <lastBuildDate>2024-02-17T03:09:56+03:00</lastBuildDate>
 
         <item>
-            <title>Methlick Travel Guide (Aberdeenshire/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/aberdeenshire/methlick/</link>
-            <description>Discover the best places to visit, things to do, where to stay, and more in Methlick, Scotland. Plan your trip with our comprehensive travel guide.</description>
-            <pubDate>2024-02-17T02:47:16+03:00</pubDate>
+            <title>Oamaru Travel Guide (Otago/South Island/New Zealand/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/new-zealand/south-island/otago/oamaru/</link>
+            <description>A comprehensive guide to travel to Oamaru, New Zealand, including places to visit, things to do, where to stay, and more.</description>
+            <pubDate>2024-02-17T03:09:56+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
