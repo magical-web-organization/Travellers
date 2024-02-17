@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T09:12:40+03:00</pubDate>
-        <lastBuildDate>2024-02-17T09:12:40+03:00</lastBuildDate>
+        <pubDate>2024-02-17T09:58:18+03:00</pubDate>
+        <lastBuildDate>2024-02-17T09:58:18+03:00</lastBuildDate>
 
         <item>
-            <title>Covington Travel Guide (Central Indiana/Indiana/Midwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/central-indiana/covington/</link>
-            <description>Plan a trip to Covington, Indiana with our comprehensive travel guide to explore museums, natural attractions, biking routes, food, accommodations, and nearby excursions.</description>
-            <pubDate>2024-02-17T09:12:40+03:00</pubDate>
+            <title>Saas-Fee Travel Guide (Valais/Switzerland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/switzerland/valais/saas-fee/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in Saas-Fee, Switzerland.</description>
+            <pubDate>2024-02-17T09:58:18+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
