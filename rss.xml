@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-18T01:24:10+03:00</pubDate>
-        <lastBuildDate>2024-02-18T01:24:10+03:00</lastBuildDate>
+        <pubDate>2024-02-18T02:31:49+03:00</pubDate>
+        <lastBuildDate>2024-02-18T02:31:49+03:00</lastBuildDate>
 
         <item>
-            <title>Port Lockroy Travel Guide (Antarctic Peninsula/Antarctica)</title>
-            <link>https://travellers.wiki/en/antarctica/antarctic-peninsula/port-lockroy/</link>
-            <description>Planning a trip to Port Lockroy, Antarctica? Read this comprehensive guide before you go, and discover everything you need to know to make the most of your journey.</description>
-            <pubDate>2024-02-18T01:24:10+03:00</pubDate>
+            <title>Drayton Valley Travel Guide (Foothills/Central Alberta/Alberta/Prairies/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/prairies/alberta/central-alberta/foothills/drayton-valley/</link>
+            <description>Plan your trip to Drayton Valley with this comprehensive travel guide, including must-see attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health tips, and transportation options.</description>
+            <pubDate>2024-02-18T02:31:49+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
