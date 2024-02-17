@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-17T03:09:56+03:00</pubDate>
-        <lastBuildDate>2024-02-17T03:09:56+03:00</lastBuildDate>
+        <pubDate>2024-02-17T03:59:45+03:00</pubDate>
+        <lastBuildDate>2024-02-17T03:59:45+03:00</lastBuildDate>
 
         <item>
-            <title>Oamaru Travel Guide (Otago/South Island/New Zealand/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/new-zealand/south-island/otago/oamaru/</link>
-            <description>A comprehensive guide to travel to Oamaru, New Zealand, including places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-02-17T03:09:56+03:00</pubDate>
+            <title>Vardzia Travel Guide (Samtskhe-Javakheti/Georgia (country)/Caucasus/Asia)</title>
+            <link>https://travellers.wiki/en/asia/caucasus/georgia-country/samtskhe-javakheti/vardzia/</link>
+            <description>Plan your trip to Vardzia with this comprehensive tour guide that includes information on places to visit, hiking routes, where to stay, and more.</description>
+            <pubDate>2024-02-17T03:59:45+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
