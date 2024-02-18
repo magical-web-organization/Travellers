@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-18T03:24:10+03:00</pubDate>
-        <lastBuildDate>2024-02-18T03:24:10+03:00</lastBuildDate>
+        <pubDate>2024-02-18T03:57:54+03:00</pubDate>
+        <lastBuildDate>2024-02-18T03:57:54+03:00</lastBuildDate>
 
         <item>
-            <title>New Roads Travel Guide (River Parishes/Acadiana/Louisiana/South/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/river-parishes/new-roads/</link>
-            <description>Plan your trip to New Roads with this comprehensive guide. Discover the best attractions, activities, food, and accommodations in the heart of Louisiana.</description>
-            <pubDate>2024-02-18T03:24:10+03:00</pubDate>
+            <title>Jolo Travel Guide (Bangsamoro/Mindanao/Philippines/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/bangsamoro/jolo/</link>
+            <description>Discover the best places to visit, food to eat, and things to do in Jolo, the cultural heart of Mindanao in the Philippines.</description>
+            <pubDate>2024-02-18T03:57:54+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
