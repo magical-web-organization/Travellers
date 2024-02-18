@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-18T07:55:11+03:00</pubDate>
-        <lastBuildDate>2024-02-18T07:55:11+03:00</lastBuildDate>
+        <pubDate>2024-02-18T08:19:49+03:00</pubDate>
+        <lastBuildDate>2024-02-18T08:19:49+03:00</lastBuildDate>
 
         <item>
-            <title>Wells-Barkerville Travel Guide (Cariboo-Central Coast/British Columbia/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/british-columbia/cariboo-central-coast/wells-barkerville/</link>
-            <description>Discover the best things to do, places to stay, and restaurants to try in Wells-Barkerville. Learn about local culture, customs, and safety tips for your trip to this beautiful destination in British Columbia, Canada.</description>
-            <pubDate>2024-02-18T07:55:11+03:00</pubDate>
+            <title>Gstaad Travel Guide (Bernese Highlands/Switzerland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/switzerland/bernese-highlands/gstaad/</link>
+            <description>Explore the culturally significant attractions, natural wonders, best hiking/biking routes, delicious food, and accommodation options in Gstaad, Switzerland. Learn about local customs, safety tips, and transportation options.</description>
+            <pubDate>2024-02-18T08:19:49+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
