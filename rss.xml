@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-18T22:54:49+03:00</pubDate>
-        <lastBuildDate>2024-02-18T22:54:49+03:00</lastBuildDate>
+        <pubDate>2024-02-18T23:30:19+03:00</pubDate>
+        <lastBuildDate>2024-02-18T23:30:19+03:00</lastBuildDate>
 
         <item>
-            <title>Skövde Travel Guide (Västergötland/Götaland/Sweden/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/vastergotland/skovde/</link>
-            <description>Explore the culturally rich and naturally beautiful Skövde with our comprehensive travel guide. Find out the best places to visit, things to do, food to try, and accommodations to stay in.</description>
-            <pubDate>2024-02-18T22:54:49+03:00</pubDate>
+            <title>Bouvet Island Travel Guide (Subantarctic islands/Islands/Other destinations)</title>
+            <link>https://travellers.wiki/en/other-destinations/islands/subantarctic-islands/bouvet-island/</link>
+            <description>Discover the top things to do, places to visit, and cultural customs in Bouvet Island, the uninhabited Subantarctic island. Read on for a detailed travel guide to plan your adventure.</description>
+            <pubDate>2024-02-18T23:30:19+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
