@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-20T02:13:58+03:00</pubDate>
-        <lastBuildDate>2024-02-20T02:13:58+03:00</lastBuildDate>
+        <pubDate>2024-02-20T02:53:10+03:00</pubDate>
+        <lastBuildDate>2024-02-20T02:53:10+03:00</lastBuildDate>
 
         <item>
-            <title>Arnside and Silverdale Travel Guide (North West England/England/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/arnside-and-silverdale/</link>
-            <description>A comprehensive travel guide for Arnside and Silverdale, featuring outdoor adventures, natural attractions, cultural landmarks, local food and drinks, accommodations, and transportation options.</description>
-            <pubDate>2024-02-20T02:13:58+03:00</pubDate>
+            <title>Jerash Travel Guide (Northern Jordan/Jordan/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/jordan/northern-jordan/jerash/</link>
+            <description>Discover the best things to do, see, and eat in Jerash, learn about local culture and customs, and find out how to get there and get around in our comprehensive travel guide.</description>
+            <pubDate>2024-02-20T02:53:10+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
