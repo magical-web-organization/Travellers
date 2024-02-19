@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-19T06:52:53+03:00</pubDate>
-        <lastBuildDate>2024-02-19T06:52:53+03:00</lastBuildDate>
+        <pubDate>2024-02-19T07:28:56+03:00</pubDate>
+        <lastBuildDate>2024-02-19T07:28:56+03:00</lastBuildDate>
 
         <item>
-            <title>Ono Travel Guide (Fukui (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/chubu/fukui-prefecture/ono/</link>
-            <description>Plan your trip to Ono with this comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, local culture, safety and health tips, and more.</description>
-            <pubDate>2024-02-19T06:52:53+03:00</pubDate>
+            <title>Antwerp Travel Guide (Antwerp (province)/Flanders/Belgium/Benelux/Europe)</title>
+            <link>https://travellers.wiki/en/europe/benelux/belgium/flanders/antwerp-province/antwerp/</link>
+            <description>Plan your trip to Antwerp with our comprehensive travel guide featuring top attractions, food and drink scene, accommodations, transportation options, and more.</description>
+            <pubDate>2024-02-19T07:28:56+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
