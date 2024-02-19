@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-19T03:14:01+03:00</pubDate>
-        <lastBuildDate>2024-02-19T03:14:01+03:00</lastBuildDate>
+        <pubDate>2024-02-19T04:03:27+03:00</pubDate>
+        <lastBuildDate>2024-02-19T04:03:27+03:00</lastBuildDate>
 
         <item>
-            <title>Cheektowaga Travel Guide (Northtowns/Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/northtowns/cheektowaga/</link>
-            <description>Discover the best places to visit, see, eat, and stay in Cheektowaga. Plan your next trip with this comprehensive travel guide.</description>
-            <pubDate>2024-02-19T03:14:01+03:00</pubDate>
+            <title>Onjuku Travel Guide (Chiba (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/kanto/chiba-prefecture/onjuku/</link>
+            <description>Discover the best places to visit, things to do, food to try and where to stay in Onjuku, Japan.</description>
+            <pubDate>2024-02-19T04:03:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
