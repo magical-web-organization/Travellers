@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-19T18:51:41+03:00</pubDate>
-        <lastBuildDate>2024-02-19T18:51:41+03:00</lastBuildDate>
+        <pubDate>2024-02-19T19:03:48+03:00</pubDate>
+        <lastBuildDate>2024-02-19T19:03:48+03:00</lastBuildDate>
 
         <item>
-            <title>Dinas Mawddwy Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/dinas-mawddwy/</link>
-            <description>Discover the rich culture, stunning natural beauty, delicious food and drink, and exciting outdoor adventures of Dinas Mawddwy with our ultimate travel guide.</description>
-            <pubDate>2024-02-19T18:51:41+03:00</pubDate>
+            <title>Botany Bay Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/botany-bay/</link>
+            <description>Explore the natural beauty and rich history of Botany Bay with our comprehensive tour guide. Discover interesting places to visit, hiking and biking routes, top things to do, food and drink scene, where to stay, and much more.</description>
+            <pubDate>2024-02-19T19:03:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
