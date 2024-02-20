@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/vancouver/</loc>
+        <lastmod>2024-02-20T13:41:31+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/vancouver/gastown-chinatown/</loc>
+        <lastmod>2024-02-20T13:41:31+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/eastern-plains/la-junta/</loc>
         <lastmod>2024-02-20T13:30:25+03:00</lastmod>
     </url>
