@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-20T19:46:35+03:00</pubDate>
-        <lastBuildDate>2024-02-20T19:46:35+03:00</lastBuildDate>
+        <pubDate>2024-02-20T20:14:54+03:00</pubDate>
+        <lastBuildDate>2024-02-20T20:14:54+03:00</lastBuildDate>
 
         <item>
-            <title>Jämtland County Travel Guide (Norrland/Sweden/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/jamtland-county/</link>
-            <description>A comprehensive travel guide for Jämtland County, including information on places to visit, hiking and biking routes, accommodations, local customs and more.</description>
-            <pubDate>2024-02-20T19:46:35+03:00</pubDate>
+            <title>Pamirs Travel Guide (Tajikistan/Central Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/central-asia/tajikistan/pamirs/</link>
+            <description>Explore the natural and cultural attractions of Pamirs in Tajikistan with this ultimate travel guide. Plan your itinerary with our recommended places to visit, things to do, where to stay, and transportation tips.</description>
+            <pubDate>2024-02-20T20:14:54+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
