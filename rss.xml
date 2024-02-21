@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-21T22:28:05+03:00</pubDate>
-        <lastBuildDate>2024-02-21T22:28:05+03:00</lastBuildDate>
+        <pubDate>2024-02-21T22:46:01+03:00</pubDate>
+        <lastBuildDate>2024-02-21T22:46:01+03:00</lastBuildDate>
 
         <item>
-            <title>Savukoski Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/savukoski/</link>
-            <description>Discover what to do, where to stay, and how to get around in Savukoski. This comprehensive guide features a list of top attractions, hiking and biking routes, must-try dishes, local culture, and more.</description>
-            <pubDate>2024-02-21T22:28:05+03:00</pubDate>
+            <title>Diablo Range Travel Guide (California/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/diablo-range/</link>
+            <description>Plan a perfect trip to Diablo Range in California with our comprehensive travel guide. Find out the best places to visit, things to do, where to stay, and more!</description>
+            <pubDate>2024-02-21T22:46:01+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
