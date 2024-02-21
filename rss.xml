@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-21T09:57:05+03:00</pubDate>
-        <lastBuildDate>2024-02-21T09:57:05+03:00</lastBuildDate>
+        <pubDate>2024-02-21T10:12:17+03:00</pubDate>
+        <lastBuildDate>2024-02-21T10:12:17+03:00</lastBuildDate>
 
         <item>
-            <title>Samana Travel Guide (Malwa/Punjab/Plains/India/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/malwa/samana/</link>
-            <description>Discover the best attractions, things to do, where to stay, and more in Samana, India with our in-depth travel guide.</description>
-            <pubDate>2024-02-21T09:57:05+03:00</pubDate>
+            <title>Malczyce Travel Guide (Lower Silesian Voivodeship/Poland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/poland/lower-silesian-voivodeship/malczyce/</link>
+            <description>Discover the best places to visit, things to do, and local tips for Malczyce, Poland with this comprehensive travel guide.</description>
+            <pubDate>2024-02-21T10:12:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
