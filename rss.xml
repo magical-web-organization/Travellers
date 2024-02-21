@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-22T00:29:51+03:00</pubDate>
-        <lastBuildDate>2024-02-22T00:29:51+03:00</lastBuildDate>
+        <pubDate>2024-02-22T00:51:17+03:00</pubDate>
+        <lastBuildDate>2024-02-22T00:51:17+03:00</lastBuildDate>
 
         <item>
-            <title>La Serena Travel Guide (Northern Chile/Chile/South America)</title>
-            <link>https://travellers.wiki/en/south-america/chile/northern-chile/la-serena/</link>
-            <description>Your comprehensive guide to La Serena, covering the best places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-02-22T00:29:51+03:00</pubDate>
+            <title>Leverkusen Travel Guide (Cologne Lowland/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/cologne-lowland/leverkusen/</link>
+            <description>Discover the best of Leverkusen, Germany with our comprehensive travel guide. From natural wonders to cultural landmarks, hiking and biking routes to food and drink scenes, we've got you covered.</description>
+            <pubDate>2024-02-22T00:51:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
