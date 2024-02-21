@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-21T03:28:08+03:00</pubDate>
-        <lastBuildDate>2024-02-21T03:28:08+03:00</lastBuildDate>
+        <pubDate>2024-02-21T03:46:50+03:00</pubDate>
+        <lastBuildDate>2024-02-21T03:46:50+03:00</lastBuildDate>
 
         <item>
-            <title>Maidenhead Travel Guide (Berkshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/berkshire/maidenhead/</link>
-            <description>Plan your trip to Maidenhead with this comprehensive guide including where to stay, what to do, and how to get there.</description>
-            <pubDate>2024-02-21T03:28:08+03:00</pubDate>
+            <title>Damme Travel Guide (West Flanders/Flanders/Belgium/Benelux/Europe)</title>
+            <link>https://travellers.wiki/en/europe/benelux/belgium/flanders/west-flanders/damme/</link>
+            <description>Discover the best places to visit, eat, and stay in Damme, a charming town in West Flanders, Belgium. Learn about its hiking and biking routes, cultural attractions, natural wonders, and local customs.</description>
+            <pubDate>2024-02-21T03:46:50+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
