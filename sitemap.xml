@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/grand-est/neuf-brisach/</loc>
+        <lastmod>2024-02-22T13:14:16+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/tabasco/</loc>
         <lastmod>2024-02-22T12:36:21+03:00</lastmod>
     </url>
