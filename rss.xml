@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-22T21:18:35+03:00</pubDate>
-        <lastBuildDate>2024-02-22T21:18:35+03:00</lastBuildDate>
+        <pubDate>2024-02-22T21:56:08+03:00</pubDate>
+        <lastBuildDate>2024-02-22T21:56:08+03:00</lastBuildDate>
 
         <item>
-            <title>Keuruu Travel Guide (Central Finland/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/central-finland/keuruu/</link>
-            <description>Plan your trip to Keuruu, Finland with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-02-22T21:18:35+03:00</pubDate>
+            <title>Tryavna Travel Guide (Balkan Mountains/Bulgaria/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/bulgaria/balkan-mountains/tryavna/</link>
+            <description>Discover Tryavna, a beautiful town in the Balkan Mountains of Bulgaria with this comprehensive travel guide. From outdoor adventures to cultural and historical attractions, find everything you need to know here.</description>
+            <pubDate>2024-02-22T21:56:08+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
