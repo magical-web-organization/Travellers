@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-22T12:10:21+03:00</pubDate>
-        <lastBuildDate>2024-02-22T12:10:21+03:00</lastBuildDate>
+        <pubDate>2024-02-22T12:36:21+03:00</pubDate>
+        <lastBuildDate>2024-02-22T12:36:21+03:00</lastBuildDate>
 
         <item>
-            <title>Paramus Travel Guide (Bergen County/Gateway/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/gateway/bergen-county/paramus/</link>
-            <description>Discover the best tourist attractions, outdoor adventures, hotel options, local culture, and safety tips for travelers in Paramus through this comprehensive travel guide.</description>
-            <pubDate>2024-02-22T12:10:21+03:00</pubDate>
+            <title>Tabasco Travel Guide (Yucatán and the South/Mexico/North America)</title>
+            <link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/tabasco/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and local customs in Tabasco, Mexico with this comprehensive travel guide.</description>
+            <pubDate>2024-02-22T12:36:21+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
