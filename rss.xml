@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-22T07:25:52+03:00</pubDate>
-        <lastBuildDate>2024-02-22T07:25:52+03:00</lastBuildDate>
+        <pubDate>2024-02-22T07:58:28+03:00</pubDate>
+        <lastBuildDate>2024-02-22T07:58:28+03:00</lastBuildDate>
 
         <item>
-            <title>Belfast Travel Guide (Waldo County/Mid Coast/Maine/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/waldo-county/belfast/</link>
-            <description>Planning a trip to Belfast, Maine? Look no further! This travel guide covers everything from where to stay to the best things to do in Belfast. Read on for a comprehensive tour guide.</description>
-            <pubDate>2024-02-22T07:25:52+03:00</pubDate>
+            <title>Apache Junction Travel Guide (Greater Phoenix/Arizona/Southwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/greater-phoenix/apache-junction/</link>
+            <description>A long-form travel guide for Apache Junction, including a list of places to visit, hiking/biking routes, local culture, food and drink scene, safety and health, transportation options, and nearby destinations.</description>
+            <pubDate>2024-02-22T07:58:28+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
