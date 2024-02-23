@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-23T08:38:14+03:00</pubDate>
-        <lastBuildDate>2024-02-23T08:38:14+03:00</lastBuildDate>
+        <pubDate>2024-02-23T09:09:43+03:00</pubDate>
+        <lastBuildDate>2024-02-23T09:09:43+03:00</lastBuildDate>
 
         <item>
-            <title>Juupajoki Travel Guide (Pirkanmaa/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/pirkanmaa/juupajoki/</link>
-            <description>Discover the hidden gems of Juupajoki in Finnish Lakeland with our comprehensive tour guide. Explore the cultural and natural attractions, hiking/biking trails, food and drink scene, where to stay, local culture, and safety tips, among others.</description>
-            <pubDate>2024-02-23T08:38:14+03:00</pubDate>
+            <title>Porto de Galinhas Travel Guide (Grande Recife/Pernambuco/Northeast/Brazil/South America)</title>
+            <link>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/grande-recife/porto-de-galinhas/</link>
+            <description>Discover the culturally rich and naturally stunning Porto de Galinhas in Pernambuco, Brazil. Our comprehensive travel guide offers an overview of interesting attractions, best things to do, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
+            <pubDate>2024-02-23T09:09:43+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
