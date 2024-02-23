@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-23T09:55:42+03:00</pubDate>
-        <lastBuildDate>2024-02-23T09:55:42+03:00</lastBuildDate>
+        <pubDate>2024-02-23T10:26:10+03:00</pubDate>
+        <lastBuildDate>2024-02-23T10:26:10+03:00</lastBuildDate>
 
         <item>
-            <title>Exeter Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/exeter/</link>
-            <description>Visit Exeter and discover its natural and cultural treasures. Our travel guide provides you with a comprehensive list of places to visit, things to do, food and drink scene, and more.</description>
-            <pubDate>2024-02-23T09:55:42+03:00</pubDate>
+            <title>New Braunfels Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/new-braunfels/</link>
+            <description>Plan your trip to New Braunfels with this comprehensive travel guide featuring top attractions, activities, accommodations, and more.</description>
+            <pubDate>2024-02-23T10:26:10+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
