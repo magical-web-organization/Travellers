@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-23T18:30:19+03:00</pubDate>
-        <lastBuildDate>2024-02-23T18:30:19+03:00</lastBuildDate>
+        <pubDate>2024-02-23T18:38:59+03:00</pubDate>
+        <lastBuildDate>2024-02-23T18:38:59+03:00</lastBuildDate>
 
         <item>
-            <title>Semur-en-Auxois Travel Guide (Bourgogne-Franche-Comté/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/bourgogne-franche-comte/semur-en-auxois/</link>
-            <description>Plan your trip to Semur-en-Auxois with this comprehensive travel guide, including the best things to do, where to stay, and what to eat.</description>
-            <pubDate>2024-02-23T18:30:19+03:00</pubDate>
+            <title>Bowral Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/bowral/</link>
+            <description>Plan the perfect trip to Bowral, from the best places to visit, things to do, where to stay, what to buy, local culture, safety, and transportation options.</description>
+            <pubDate>2024-02-23T18:38:59+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
