@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-23T03:04:08+03:00</pubDate>
-        <lastBuildDate>2024-02-23T03:04:08+03:00</lastBuildDate>
+        <pubDate>2024-02-23T03:43:27+03:00</pubDate>
+        <lastBuildDate>2024-02-23T03:43:27+03:00</lastBuildDate>
 
         <item>
-            <title>Danbury Travel Guide (Litchfield Hills/Connecticut/New England/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/litchfield-hills/danbury/</link>
-            <description>Explore the best things to do in Danbury, Connecticut. Discover top-rated attractions and natural wonders, where to stay, eat, and how to get around.</description>
-            <pubDate>2024-02-23T03:04:08+03:00</pubDate>
+            <title>Anegada Travel Guide (British Virgin Islands/Lesser Antilles/Caribbean/North America)</title>
+            <link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/british-virgin-islands/anegada/</link>
+            <description>Discover the best places to visit, eat, stay, and things to do in Anegada, British Virgin Islands with this comprehensive travel guide.</description>
+            <pubDate>2024-02-23T03:43:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
