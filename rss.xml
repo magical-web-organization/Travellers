@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-23T07:04:26+03:00</pubDate>
-        <lastBuildDate>2024-02-23T07:04:26+03:00</lastBuildDate>
+        <pubDate>2024-02-23T07:35:59+03:00</pubDate>
+        <lastBuildDate>2024-02-23T07:35:59+03:00</lastBuildDate>
 
         <item>
-            <title>Yukon Travel Guide (Northern Canada/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/northern-canada/yukon/</link>
-            <description>Discover the best places to visit, outdoor adventures, cultural attractions, and local cuisines in Yukon, Canada. Plan your trip with this comprehensive guide.</description>
-            <pubDate>2024-02-23T07:04:26+03:00</pubDate>
+            <title>Hadsund Travel Guide (East Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/east-jutland/hadsund/</link>
+            <description>Read our comprehensive guide to Hadsund, Denmark - a beautiful city nestled in East Jutland in Denmark. Discover the best places to visit, where to stay, what to eat, and more.</description>
+            <pubDate>2024-02-23T07:35:59+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
