@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/canada/northern-canada/yukon/</loc>
+        <lastmod>2024-02-23T07:04:26+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/north-america/canada/northern-canada/yukon/tombstone-territorial-park/</loc>
+        <lastmod>2024-02-23T07:04:26+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/united-states-of-america/california/sacramento-valley/yolo-county/winters/</loc>
         <lastmod>2024-02-23T06:36:26+03:00</lastmod>
     </url>
