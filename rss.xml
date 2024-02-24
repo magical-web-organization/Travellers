@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-24T03:09:16+03:00</pubDate>
-        <lastBuildDate>2024-02-24T03:09:16+03:00</lastBuildDate>
+        <pubDate>2024-02-24T03:41:10+03:00</pubDate>
+        <lastBuildDate>2024-02-24T03:41:10+03:00</lastBuildDate>
 
         <item>
-            <title>Kohama Travel Guide (Yaeyama Islands/Okinawa/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/okinawa/yaeyama-islands/kohama/</link>
-            <description>Visit Kohama, a beautiful island in Yaeyama Islands, Okinawa, Japan. This comprehensive Kohama travel guide covers itinerary, places to visit, stay and eat, transport options and more.</description>
-            <pubDate>2024-02-24T03:09:16+03:00</pubDate>
+            <title>Courmayeur Travel Guide (Aosta Valley/Northwest Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/northwest-italy/aosta-valley/courmayeur/</link>
+            <description>Explore the stunning Italian Alps by visiting Courmayeur - a charming town in Aosta Valley. Check out our comprehensive travel guide for an ultimate experience.</description>
+            <pubDate>2024-02-24T03:41:10+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
