@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-24T20:18:26+03:00</pubDate>
-        <lastBuildDate>2024-02-24T20:18:26+03:00</lastBuildDate>
+        <pubDate>2024-02-24T20:40:26+03:00</pubDate>
+        <lastBuildDate>2024-02-24T20:40:26+03:00</lastBuildDate>
 
         <item>
-            <title>Gangtok Travel Guide (East Sikkim/Sikkim/Eastern India/India/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/sikkim/east-sikkim/gangtok/</link>
-            <description>A detailed guide to things to do, places to visit, food options, and travel logistics for exploring Gangtok, East Sikkim.</description>
-            <pubDate>2024-02-24T20:18:26+03:00</pubDate>
+            <title>Clarksville Travel Guide (River Valley/Arkansas/South/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/river-valley/clarksville/</link>
+            <description>Plan your trip to Clarksville with our comprehensive guide featuring top attractions, activities, accommodations, and travel tips to make your trip memorable.</description>
+            <pubDate>2024-02-24T20:40:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
