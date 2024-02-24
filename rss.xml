@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-25T02:06:17+03:00</pubDate>
-        <lastBuildDate>2024-02-25T02:06:17+03:00</lastBuildDate>
+        <pubDate>2024-02-25T02:49:42+03:00</pubDate>
+        <lastBuildDate>2024-02-25T02:49:42+03:00</lastBuildDate>
 
         <item>
-            <title>Fujinomiya Travel Guide (Shizuoka (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/fujinomiya/</link>
-            <description>Plan your trip to Fujinomiya, Japan with our comprehensive travel guide. Discover cultural and natural attractions, hiking and biking routes, local cuisines, and much more.</description>
-            <pubDate>2024-02-25T02:06:17+03:00</pubDate>
+            <title>Belogradchik Travel Guide (North Bulgaria/Bulgaria/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/bulgaria/north-bulgaria/belogradchik/</link>
+            <description>Plan your trip to Belogradchik, Bulgaria with this comprehensive travel guide. From cultural attractions to natural wonders, hiking routes to food scenes, this guide has everything you need to experience the best of this charming town.</description>
+            <pubDate>2024-02-25T02:49:42+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
