@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-24T11:57:20+03:00</pubDate>
-        <lastBuildDate>2024-02-24T11:57:20+03:00</lastBuildDate>
+        <pubDate>2024-02-24T12:27:26+03:00</pubDate>
+        <lastBuildDate>2024-02-24T12:27:26+03:00</lastBuildDate>
 
         <item>
-            <title>Arinsal Travel Guide (Andorra/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/andorra/arinsal/</link>
-            <description>Discover the beautiful town of Arinsal in Andorra, Europe with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking trails, delicious food, and more, this guide has everything you need to plan your trip to Arinsal.</description>
-            <pubDate>2024-02-24T11:57:20+03:00</pubDate>
+            <title>Otsuki Travel Guide (Yamanashi (prefecture)/Chubu/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/chubu/yamanashi-prefecture/otsuki/</link>
+            <description>Discover the best things to do, see, eat, and more in Otsuki, Japan.</description>
+            <pubDate>2024-02-24T12:27:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
