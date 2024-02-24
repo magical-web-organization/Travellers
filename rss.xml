@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-24T22:51:27+03:00</pubDate>
-        <lastBuildDate>2024-02-24T22:51:27+03:00</lastBuildDate>
+        <pubDate>2024-02-24T23:21:11+03:00</pubDate>
+        <lastBuildDate>2024-02-24T23:21:11+03:00</lastBuildDate>
 
         <item>
-            <title>Penglai Travel Guide (Shandong/North China/China/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/china/north-china/shandong/penglai/</link>
-            <description>Discover the top things to do, see, eat, and buy in Penglai, Shandong. Explore the cultural and natural attractions, learn about local customs, and plan your visit with our week-long itinerary, transportation options, and safety tips.</description>
-            <pubDate>2024-02-24T22:51:27+03:00</pubDate>
+            <title>Mesta Travel Guide (Chios/East Aegean Islands/Greek Islands/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/greek-islands/east-aegean-islands/chios/mesta/</link>
+            <description>Explore the cultural and natural attractions of Mesta in Greece, along with information about where to stay, what to buy, and how to get there.</description>
+            <pubDate>2024-02-24T23:21:11+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
