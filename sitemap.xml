@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/oceania/new-zealand/north-island/northland/far-far-north/</loc>
+        <lastmod>2024-02-25T15:07:47+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/oceania/new-zealand/north-island/northland/far-far-north/whangaroa/</loc>
+        <lastmod>2024-02-25T15:07:47+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/italy/central-italy/marche/macerata-province/recanati/</loc>
         <lastmod>2024-02-25T14:56:47+03:00</lastmod>
     </url>
