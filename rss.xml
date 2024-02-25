@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-25T19:57:09+03:00</pubDate>
-        <lastBuildDate>2024-02-25T19:57:09+03:00</lastBuildDate>
+        <pubDate>2024-02-25T20:08:32+03:00</pubDate>
+        <lastBuildDate>2024-02-25T20:08:32+03:00</lastBuildDate>
 
         <item>
-            <title>Suriname Travel Guide (South America)</title>
-            <link>https://travellers.wiki/en/south-america/suriname/</link>
-            <description>Plan your trip to Suriname with our comprehensive guide on places to visit, best things to do, local culture, transportation options, and more.</description>
-            <pubDate>2024-02-25T19:57:09+03:00</pubDate>
+            <title>Bolan Pass Travel Guide (Balochistan/Pakistan/South Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/south-asia/pakistan/balochistan/bolan-pass/</link>
+            <description>Plan the perfect trip to Bolan Pass with our comprehensive travel guide. Discover the best places to visit, food to try, where to stay, and how to get there safely.</description>
+            <pubDate>2024-02-25T20:08:32+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
