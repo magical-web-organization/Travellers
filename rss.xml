@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-25T18:32:25+03:00</pubDate>
-        <lastBuildDate>2024-02-25T18:32:25+03:00</lastBuildDate>
+        <pubDate>2024-02-25T18:36:34+03:00</pubDate>
+        <lastBuildDate>2024-02-25T18:36:34+03:00</lastBuildDate>
 
         <item>
-            <title>Appleton Travel Guide (Northeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northeast-wisconsin/appleton/</link>
-            <description>Plan your trip to Appleton, Wisconsin with this comprehensive travel guide. Discover the best things to do, places to visit, and where to stay in this charming city in Northeast Wisconsin.</description>
-            <pubDate>2024-02-25T18:32:25+03:00</pubDate>
+            <title>Carignan Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/carignan/</link>
+            <description>Discover the best places to visit, things to do, and food to try in Carignan, Quebec, with this comprehensive travel guide. Learn about the town's local culture, customs, and safety, as well as transportation options and nearby destinations.</description>
+            <pubDate>2024-02-25T18:36:34+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
