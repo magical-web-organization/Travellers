@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-26T16:16:20+03:00</pubDate>
-        <lastBuildDate>2024-02-26T16:16:20+03:00</lastBuildDate>
+        <pubDate>2024-02-26T16:58:49+03:00</pubDate>
+        <lastBuildDate>2024-02-26T16:58:49+03:00</lastBuildDate>
 
         <item>
-            <title>Viswema Travel Guide (Nagaland/North-Eastern India/India/South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/nagaland/viswema/</link>
-            <description>Discover the best of Viswema, a scenic village in Nagaland, India with our comprehensive travel guide. Explore museums, natural attractions, hiking/biking routes, local culture, food scene, and more.</description>
-            <pubDate>2024-02-26T16:16:20+03:00</pubDate>
+            <title>Great Barrier Reef Travel Guide (Queensland/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/queensland/great-barrier-reef/</link>
+            <description>Discover everything you need to know about Great Barrier Reef, including places to visit, where to stay, safety tips, and more.</description>
+            <pubDate>2024-02-26T16:58:49+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
