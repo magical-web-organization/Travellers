@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-26T04:42:53+03:00</pubDate>
-        <lastBuildDate>2024-02-26T04:42:53+03:00</lastBuildDate>
+        <pubDate>2024-02-26T05:13:14+03:00</pubDate>
+        <lastBuildDate>2024-02-26T05:13:14+03:00</lastBuildDate>
 
         <item>
-            <title>Leppävirta Travel Guide (North Savonia/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/north-savonia/leppavirta/</link>
-            <description>Discover the best places to visit, things to do, where to stay and eat, local culture and customs, safety tips and how to get to and around Leppävirta, Finland.</description>
-            <pubDate>2024-02-26T04:42:53+03:00</pubDate>
+            <title>Koh Rong Travel Guide (Cardamom and Elephant Mountains/Cambodia/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/cambodia/cardamom-and-elephant-mountains/koh-rong/</link>
+            <description>A comprehensive travel guide to Koh Rong, including its top tourist spots, culture and customs, transportation options, and more.</description>
+            <pubDate>2024-02-26T05:13:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
