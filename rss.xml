@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-26T12:11:45+03:00</pubDate>
-        <lastBuildDate>2024-02-26T12:11:45+03:00</lastBuildDate>
+        <pubDate>2024-02-26T12:41:00+03:00</pubDate>
+        <lastBuildDate>2024-02-26T12:41:00+03:00</lastBuildDate>
 
         <item>
-            <title>Kongsberg Travel Guide (Buskerud/East Norway/Norway/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/buskerud/kongsberg/</link>
-            <description>Discover the best places to visit, things to do, where to stay, and what to eat in Kongsberg, Norway.</description>
-            <pubDate>2024-02-26T12:11:45+03:00</pubDate>
+            <title>Banjar Travel Guide (East Parahyangan/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/east-parahyangan/banjar/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and local culture and customs in Banjar, Indonesia. Plan your trip with our comprehensive guide.</description>
+            <pubDate>2024-02-26T12:41:00+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
