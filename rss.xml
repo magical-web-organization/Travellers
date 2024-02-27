@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-27T22:19:49+03:00</pubDate>
-        <lastBuildDate>2024-02-27T22:19:49+03:00</lastBuildDate>
+        <pubDate>2024-02-27T22:45:23+03:00</pubDate>
+        <lastBuildDate>2024-02-27T22:45:23+03:00</lastBuildDate>
 
         <item>
-            <title>Dandenong Ranges Travel Guide (Yarra Valley/Victoria (state)/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/victoria-state/yarra-valley/dandenong-ranges/</link>
-            <description>Explore the best sites and attractions with our comprehensive travel guide to Dandenong Ranges.</description>
-            <pubDate>2024-02-27T22:19:49+03:00</pubDate>
+            <title>Prien am Chiemsee Travel Guide (Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/prien-am-chiemsee/</link>
+            <description>Discover the best things to do, places to visit, food and drink, hotels, transportation, and more in Prien am Chiemsee. Plan your perfect trip with our week-long itinerary and nearby excursions guide.</description>
+            <pubDate>2024-02-27T22:45:23+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
