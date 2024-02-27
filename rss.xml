@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-27T10:20:23+03:00</pubDate>
-        <lastBuildDate>2024-02-27T10:20:23+03:00</lastBuildDate>
+        <pubDate>2024-02-27T10:40:41+03:00</pubDate>
+        <lastBuildDate>2024-02-27T10:40:41+03:00</lastBuildDate>
 
         <item>
-            <title>Joshin'etsukogen National Park Travel Guide (Chubu/Japan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/japan/chubu/joshin-etsukogen-national-park/</link>
-            <description>Discover the stunning natural beauty, rich culture, and outdoor adventures of Joshin'etsukogen National Park in Chubu, Japan. Our comprehensive guide includes everything you need to plan your visit, from top attractions and hiking trails to accommodations and local cuisine.</description>
-            <pubDate>2024-02-27T10:20:23+03:00</pubDate>
+            <title>Brantôme Travel Guide (Dordogne/Nouvelle-Aquitaine/France/Europe)</title>
+            <link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/dordogne/brantome/</link>
+            <description>Read our guide to Brantôme, France, and discover the best attractions, things to do, where to stay, and more for an unforgettable vacation.</description>
+            <pubDate>2024-02-27T10:40:41+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
