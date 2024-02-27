@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-27T14:23:41+03:00</pubDate>
-        <lastBuildDate>2024-02-27T14:23:41+03:00</lastBuildDate>
+        <pubDate>2024-02-27T14:50:26+03:00</pubDate>
+        <lastBuildDate>2024-02-27T14:50:26+03:00</lastBuildDate>
 
         <item>
-            <title>Fogelsville Travel Guide (Lehigh Valley/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/lehigh-valley/fogelsville/</link>
-            <description>Discover the beautiful place of Fogelsville with this comprehensive tour guide. From natural attractions to cultural landmarks and food destinations, everything you need to know is here.</description>
-            <pubDate>2024-02-27T14:23:41+03:00</pubDate>
+            <title>North Shore Travel Guide (Northeastern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northeastern-minnesota/north-shore/</link>
+            <description>Discover all the must-see attractions, activities, and insider tips for exploring the North Shore, Minnesota.</description>
+            <pubDate>2024-02-27T14:50:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
