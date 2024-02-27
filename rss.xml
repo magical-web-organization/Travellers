@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-27T12:36:41+03:00</pubDate>
-        <lastBuildDate>2024-02-27T12:36:41+03:00</lastBuildDate>
+        <pubDate>2024-02-27T13:16:37+03:00</pubDate>
+        <lastBuildDate>2024-02-27T13:16:37+03:00</lastBuildDate>
 
         <item>
-            <title>Alexandria Travel Guide (Lower Egypt/Egypt/North Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/alexandria/</link>
-            <description>Discover Alexandria, Egypt with this comprehensive tour guide. Learn about the city's history, attractions, accommodations, food, culture, safety, logistics and nearby destinations.</description>
-            <pubDate>2024-02-27T12:36:41+03:00</pubDate>
+            <title>Paracuru Travel Guide (Ceará/Northeast/Brazil/South America)</title>
+            <link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/paracuru/</link>
+            <description>Paracuru is a beautiful beach town in Brazil's Ceará state, with scenic views, outdoor adventures, and cultural attractions. Discover the best things to do, where to stay, what to eat, and more in this comprehensive travel guide.</description>
+            <pubDate>2024-02-27T13:16:37+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
