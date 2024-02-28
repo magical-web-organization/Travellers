@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-29T00:27:15+03:00</pubDate>
-        <lastBuildDate>2024-02-29T00:27:15+03:00</lastBuildDate>
+        <pubDate>2024-02-29T00:44:27+03:00</pubDate>
+        <lastBuildDate>2024-02-29T00:44:27+03:00</lastBuildDate>
 
         <item>
-            <title>Ialysos Travel Guide (Rhodes/Dodecanese/Greek Islands/Greece/Europe)</title>
-            <link>https://travellers.wiki/en/europe/greece/greek-islands/dodecanese/rhodes/ialysos/</link>
-            <description>Discover the best places to visit, things to do, where to stay, and local culture in Ialysos, Rhodes through our comprehensive travel guide.</description>
-            <pubDate>2024-02-29T00:27:15+03:00</pubDate>
+            <title>Bologna Travel Guide (Emilia-Romagna/Northeast Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/bologna/</link>
+            <description>Plan your trip to Bologna with this comprehensive guide featuring the best things to see, do, eat, and more.</description>
+            <pubDate>2024-02-29T00:44:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
