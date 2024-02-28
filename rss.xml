@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-29T01:04:17+03:00</pubDate>
-        <lastBuildDate>2024-02-29T01:04:17+03:00</lastBuildDate>
+        <pubDate>2024-02-29T01:36:49+03:00</pubDate>
+        <lastBuildDate>2024-02-29T01:36:49+03:00</lastBuildDate>
 
         <item>
-            <title>Sanya Travel Guide (Hainan/South China/China/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/china/south-china/hainan/sanya/</link>
-            <description>Explore the best things to see, do, and eat in Sanya, China in this comprehensive travel guide.</description>
-            <pubDate>2024-02-29T01:04:17+03:00</pubDate>
+            <title>Ulsan Travel Guide (South Gyeongsang/South Korea/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/south-korea/south-gyeongsang/ulsan/</link>
+            <description>Discover the best things to do, places to stay, and local customs of Ulsan with this comprehensive travel guide. Explore the natural and cultural attractions, food and drink scene, and transportation options of this beautiful city.</description>
+            <pubDate>2024-02-29T01:36:49+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
