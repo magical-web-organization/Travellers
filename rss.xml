@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-28T12:28:50+03:00</pubDate>
-        <lastBuildDate>2024-02-28T12:28:50+03:00</lastBuildDate>
+        <pubDate>2024-02-28T12:44:17+03:00</pubDate>
+        <lastBuildDate>2024-02-28T12:44:17+03:00</lastBuildDate>
 
         <item>
-            <title>Trentino Travel Guide (Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
-            <link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/trentino/</link>
-            <description>Discover the best things to do, places to visit, and food to eat within Trentino. Plan your trip with our week-long itinerary and learn about the local culture and customs.</description>
-            <pubDate>2024-02-28T12:28:50+03:00</pubDate>
+            <title>Pigeon Forge Travel Guide (Eastern Tennessee/Tennessee/South/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/eastern-tennessee/pigeon-forge/</link>
+            <description>Plan your trip to Pigeon Forge with our comprehensive guide full of tips on where to stay, what to see, and what to do.</description>
+            <pubDate>2024-02-28T12:44:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
