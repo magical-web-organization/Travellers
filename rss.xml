@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-01T00:37:00+03:00</pubDate>
-        <lastBuildDate>2024-03-01T00:37:00+03:00</lastBuildDate>
+        <pubDate>2024-03-01T01:27:39+03:00</pubDate>
+        <lastBuildDate>2024-03-01T01:27:39+03:00</lastBuildDate>
 
         <item>
-            <title>Athabasca Travel Guide (North Central Alberta/Northern Alberta/Alberta/Prairies/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/prairies/alberta/northern-alberta/north-central-alberta/athabasca/</link>
-            <description>Discover the natural beauty and cultural attractions of Athabasca. Our extensive guide covers everything you need to know for your trip, including what to see, where to stay, and what to eat.</description>
-            <pubDate>2024-03-01T00:37:00+03:00</pubDate>
+            <title>Val di Elsa Travel Guide (Siena (province)/Tuscany/Central Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/val-di-elsa/</link>
+            <description>This Val di Elsa travel guide will help you discover the best attractions, food, accommodations, and activities in Tuscany.</description>
+            <pubDate>2024-03-01T01:27:39+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
