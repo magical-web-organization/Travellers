@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-29T15:40:08+03:00</pubDate>
-        <lastBuildDate>2024-02-29T15:40:08+03:00</lastBuildDate>
+        <pubDate>2024-02-29T16:24:19+03:00</pubDate>
+        <lastBuildDate>2024-02-29T16:24:19+03:00</lastBuildDate>
 
         <item>
-            <title>West End Travel Guide (Washington, D.C./Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/washington-d-c/west-end/</link>
-            <description>Discover the best things to do, see, eat, and experience during your trip to West End, Washington D.C. This comprehensive guide includes tips on transportation, lodging, safety, cultural attractions, and much more.</description>
-            <pubDate>2024-02-29T15:40:08+03:00</pubDate>
+            <title>County Fermanagh Travel Guide (Northern Ireland/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/northern-ireland/county-fermanagh/</link>
+            <description>Discover the best attractions, activities, food, and culture in County Fermanagh, with our comprehensive travel guide.</description>
+            <pubDate>2024-02-29T16:24:19+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
