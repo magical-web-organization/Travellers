@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-29T07:57:49+03:00</pubDate>
-        <lastBuildDate>2024-02-29T07:57:49+03:00</lastBuildDate>
+        <pubDate>2024-02-29T08:17:45+03:00</pubDate>
+        <lastBuildDate>2024-02-29T08:17:45+03:00</lastBuildDate>
 
         <item>
-            <title>Estremoz Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/estremoz/</link>
-            <description>Explore the charming town of Estremoz in Portugal with this comprehensive travel guide. Learn about the top things to do, places to stay, must-try dishes, and more!</description>
-            <pubDate>2024-02-29T07:57:49+03:00</pubDate>
+            <title>Rossford Travel Guide (Northwest Ohio/Ohio/Midwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northwest-ohio/rossford/</link>
+            <description>Discover the top attractions, best things to do, local food, and culture of Rossford, Ohio.</description>
+            <pubDate>2024-02-29T08:17:45+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
