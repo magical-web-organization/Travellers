@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-29T07:07:04+03:00</pubDate>
-        <lastBuildDate>2024-02-29T07:07:04+03:00</lastBuildDate>
+        <pubDate>2024-02-29T07:57:49+03:00</pubDate>
+        <lastBuildDate>2024-02-29T07:57:49+03:00</lastBuildDate>
 
         <item>
-            <title>Cap-Haïtien Travel Guide (Northern Haiti/Haiti/Caribbean/North America)</title>
-            <link>https://travellers.wiki/en/north-america/caribbean/haiti/northern-haiti/cap-haitien/</link>
-            <description>Explore the culturally rich and naturally stunning Cap-Haïtien with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-02-29T07:07:04+03:00</pubDate>
+            <title>Estremoz Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
+            <link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/estremoz/</link>
+            <description>Explore the charming town of Estremoz in Portugal with this comprehensive travel guide. Learn about the top things to do, places to stay, must-try dishes, and more!</description>
+            <pubDate>2024-02-29T07:57:49+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
