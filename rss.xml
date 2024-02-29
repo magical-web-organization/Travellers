@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-29T03:38:00+03:00</pubDate>
-        <lastBuildDate>2024-02-29T03:38:00+03:00</lastBuildDate>
+        <pubDate>2024-02-29T04:16:24+03:00</pubDate>
+        <lastBuildDate>2024-02-29T04:16:24+03:00</lastBuildDate>
 
         <item>
-            <title>Punta Gallinas Travel Guide (La Guajira/Costa Norte/Colombia/South America)</title>
-            <link>https://travellers.wiki/en/south-america/colombia/costa-norte/la-guajira/punta-gallinas/</link>
-            <description>Explore Punta Gallinas and discover the best activities, attractions, and places to stay. Our travel guide provides a comprehensive itinerary, culinary guide, and logistical tips.</description>
-            <pubDate>2024-02-29T03:38:00+03:00</pubDate>
+            <title>Luang Namtha Travel Guide (Northern Laos/Laos/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/laos/northern-laos/luang-namtha/</link>
+            <description>Discover the best things to do, places to visit, food and drink scene, where to stay, and more in Luang Namtha. Plan your trip with our week-long itinerary, transportation options, and safety tips.</description>
+            <pubDate>2024-02-29T04:16:24+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
