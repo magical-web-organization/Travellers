@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-02-29T17:12:48+03:00</pubDate>
-        <lastBuildDate>2024-02-29T17:12:48+03:00</lastBuildDate>
+        <pubDate>2024-02-29T17:57:17+03:00</pubDate>
+        <lastBuildDate>2024-02-29T17:57:17+03:00</lastBuildDate>
 
         <item>
-            <title>Forssa Travel Guide (Tavastia Proper/Southern Finland/Finland/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/tavastia-proper/forssa/</link>
-            <description>Planning a trip to Forssa? Read this comprehensive travel guide featuring top places to visit, hiking routes, food scenes, and more!</description>
-            <pubDate>2024-02-29T17:12:48+03:00</pubDate>
+            <title>Stevensville Travel Guide (Harbor Country/West Michigan/Michigan/Midwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/harbor-country/stevensville/</link>
+            <description>Discover the best places to visit, things to do, and where to stay in Stevensville, Michigan with our in-depth travel guide.</description>
+            <pubDate>2024-02-29T17:57:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
