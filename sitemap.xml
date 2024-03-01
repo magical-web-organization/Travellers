@@ -3,6 +3,18 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/south-asia/maldives/</loc>
+        <lastmod>2024-03-01T20:52:48+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/south-asia/maldives/ari/</loc>
+        <lastmod>2024-03-01T20:52:48+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/south-asia/maldives/ari/ukulhas/</loc>
+        <lastmod>2024-03-01T20:52:48+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/france/corsica/restonica-valley/</loc>
         <lastmod>2024-03-01T20:29:37+03:00</lastmod>
     </url>

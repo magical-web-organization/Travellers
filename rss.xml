@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-01T20:29:37+03:00</pubDate>
-        <lastBuildDate>2024-03-01T20:29:37+03:00</lastBuildDate>
+        <pubDate>2024-03-01T20:52:48+03:00</pubDate>
+        <lastBuildDate>2024-03-01T20:52:48+03:00</lastBuildDate>
 
         <item>
-            <title>Restonica Valley Travel Guide (Corsica/France/Europe)</title>
-            <link>https://travellers.wiki/en/europe/france/corsica/restonica-valley/</link>
-            <description>Plan your perfect trip to Restonica Valley in Corsica, France with our comprehensive travel guide covering everything from cultural attractions to outdoor adventures, food and drink scene, accommodations, local customs, safety, and transportation options.</description>
-            <pubDate>2024-03-01T20:29:37+03:00</pubDate>
+            <title>Maldives Travel Guide (South Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/south-asia/maldives/</link>
+            <description>Discover the best destinations, activities, food, and culture in Maldives with this comprehensive travel guide. Learn about transportation options, safety and health, and local customs to make the most of your trip.</description>
+            <pubDate>2024-03-01T20:52:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
