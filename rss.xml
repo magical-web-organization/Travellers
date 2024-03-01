@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-01T11:51:20+03:00</pubDate>
-        <lastBuildDate>2024-03-01T11:51:20+03:00</lastBuildDate>
+        <pubDate>2024-03-01T12:15:31+03:00</pubDate>
+        <lastBuildDate>2024-03-01T12:15:31+03:00</lastBuildDate>
 
         <item>
-            <title>Demre Travel Guide (Lycia/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/lycia/demre/</link>
-            <description>Discover the culturally rich and natural wonders of Demre, Turkey, through this comprehensive travel guide featuring places to visit, food and drink scene, where to stay, and transportation options.</description>
-            <pubDate>2024-03-01T11:51:20+03:00</pubDate>
+            <title>Enterprise Travel Guide (Eastern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/eastern-oregon/enterprise/</link>
+            <description>Discover the best of Enterprise, from natural attractions to cultural landmarks, hiking routes to local delicacies. Plan your unforgettable trip to this charming destination.</description>
+            <pubDate>2024-03-01T12:15:31+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
