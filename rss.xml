@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-01T13:45:25+03:00</pubDate>
-        <lastBuildDate>2024-03-01T13:45:25+03:00</lastBuildDate>
+        <pubDate>2024-03-01T14:04:03+03:00</pubDate>
+        <lastBuildDate>2024-03-01T14:04:03+03:00</lastBuildDate>
 
         <item>
-            <title>Fort Chipewyan Travel Guide (Wood Buffalo/Northern Alberta/Alberta/Prairies/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/prairies/alberta/northern-alberta/wood-buffalo/fort-chipewyan/</link>
-            <description>Discover the top things to do in Fort Chipewyan, Alberta: from culturally significant attractions, natural marvels, outdoor adventures, and the best food and drink options to where to stay, getting around, and do's and don'ts of the town.</description>
-            <pubDate>2024-03-01T13:45:25+03:00</pubDate>
+            <title>Charleston Travel Guide (West Coast/South Island/New Zealand/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/new-zealand/south-island/west-coast/charleston/</link>
+            <description>Explore Charleston, the culturally and naturally rich destination in New Zealand. Discover its must-visit places, hiking/biking trails, food & drink scene, local culture & customs, etc.</description>
+            <pubDate>2024-03-01T14:04:03+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
