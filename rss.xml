@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-01T20:52:48+03:00</pubDate>
-        <lastBuildDate>2024-03-01T20:52:48+03:00</lastBuildDate>
+        <pubDate>2024-03-01T21:10:08+03:00</pubDate>
+        <lastBuildDate>2024-03-01T21:10:08+03:00</lastBuildDate>
 
         <item>
-            <title>Maldives Travel Guide (South Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/south-asia/maldives/</link>
-            <description>Discover the best destinations, activities, food, and culture in Maldives with this comprehensive travel guide. Learn about transportation options, safety and health, and local customs to make the most of your trip.</description>
-            <pubDate>2024-03-01T20:52:48+03:00</pubDate>
+            <title>Slănic Travel Guide (Mountainous North/Muntenia/Romania/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/romania/muntenia/mountainous-north/slanic/</link>
+            <description>Discover the best things to do and places to visit in Slănic, Romania, from stunning natural attractions to rich cultural experiences!</description>
+            <pubDate>2024-03-01T21:10:08+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
