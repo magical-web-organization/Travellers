@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-03T00:24:07+03:00</pubDate>
-        <lastBuildDate>2024-03-03T00:24:07+03:00</lastBuildDate>
+        <pubDate>2024-03-03T00:34:51+03:00</pubDate>
+        <lastBuildDate>2024-03-03T00:34:51+03:00</lastBuildDate>
 
         <item>
-            <title>Yorkton Travel Guide (East Central Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/east-central-saskatchewan/yorkton/</link>
-            <description>Discover the best attractions, activities, and food in Yorkton with this comprehensive travel guide. Learn about the cultural and natural attractions, hiking and biking routes, local cuisine, and tips for safety and logistics.</description>
-            <pubDate>2024-03-03T00:24:07+03:00</pubDate>
+            <title>Iiyama Travel Guide (Nagano (prefecture)/Chubu/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/iiyama/</link>
+            <description>Plan your trip to Iiyama with our comprehensive travel guide. Discover the best sights, activities, food, and accommodations in this charming city in Nagano, Japan.</description>
+            <pubDate>2024-03-03T00:34:51+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
