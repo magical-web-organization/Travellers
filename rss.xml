@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-02T12:47:19+03:00</pubDate>
-        <lastBuildDate>2024-03-02T12:47:19+03:00</lastBuildDate>
+        <pubDate>2024-03-02T13:16:54+03:00</pubDate>
+        <lastBuildDate>2024-03-02T13:16:54+03:00</lastBuildDate>
 
         <item>
-            <title>Zippori Travel Guide (Lower Galilee/Israel/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/israel/lower-galilee/zippori/</link>
-            <description>Discover the rich cultural and natural attractions of Zippori, from historical landmarks and outdoor adventures to local cuisine and traditional customs.</description>
-            <pubDate>2024-03-02T12:47:19+03:00</pubDate>
+            <title>Tervola Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/tervola/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in Tervola, Finland. This comprehensive travel guide provides everything you need to plan your next trip to this beautiful destination in northern Finland.</description>
+            <pubDate>2024-03-02T13:16:54+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
