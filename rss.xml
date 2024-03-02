@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-02T08:09:32+03:00</pubDate>
-        <lastBuildDate>2024-03-02T08:09:32+03:00</lastBuildDate>
+        <pubDate>2024-03-02T08:54:17+03:00</pubDate>
+        <lastBuildDate>2024-03-02T08:54:17+03:00</lastBuildDate>
 
         <item>
-            <title>Montrose Travel Guide (Southwestern Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/southwestern-colorado/montrose/</link>
-            <description>Learn what to see and do in Montrose, Colorado, including cultural attractions, outdoor adventures, hiking/biking routes, food and drink scene, where to stay, and more.</description>
-            <pubDate>2024-03-02T08:09:32+03:00</pubDate>
+            <title>Lingao Travel Guide (Hainan/South China/China/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/china/south-china/hainan/lingao/</link>
+            <description>Plan your trip to Lingao, Hainan, China with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+            <pubDate>2024-03-02T08:54:17+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
