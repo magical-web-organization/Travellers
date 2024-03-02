@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-02T08:54:17+03:00</pubDate>
-        <lastBuildDate>2024-03-02T08:54:17+03:00</lastBuildDate>
+        <pubDate>2024-03-02T09:11:36+03:00</pubDate>
+        <lastBuildDate>2024-03-02T09:11:36+03:00</lastBuildDate>
 
         <item>
-            <title>Lingao Travel Guide (Hainan/South China/China/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/china/south-china/hainan/lingao/</link>
-            <description>Plan your trip to Lingao, Hainan, China with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-            <pubDate>2024-03-02T08:54:17+03:00</pubDate>
+            <title>Mithi Travel Guide (Southern Sindh/Sindh/Pakistan/South Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/south-asia/pakistan/sindh/southern-sindh/mithi/</link>
+            <description>Discover the best places to visit, things to do, and local culture of Mithi. Read on for hiking and biking routes, food and drink recommendations, and transportation options.</description>
+            <pubDate>2024-03-02T09:11:36+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
