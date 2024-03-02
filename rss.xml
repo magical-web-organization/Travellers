@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-02T16:46:20+03:00</pubDate>
-        <lastBuildDate>2024-03-02T16:46:20+03:00</lastBuildDate>
+        <pubDate>2024-03-02T17:14:48+03:00</pubDate>
+        <lastBuildDate>2024-03-02T17:14:48+03:00</lastBuildDate>
 
         <item>
-            <title>Bintangor Travel Guide (Sarawak/Malaysia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/bintangor/</link>
-            <description>Plan your trip to Bintangor with our comprehensive travel guide, including must-visit places, activities, local food, and cultural experiences.</description>
-            <pubDate>2024-03-02T16:46:20+03:00</pubDate>
+            <title>Wayne Travel Guide (Kennebec and Moose River Valleys/Maine/New England/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/kennebec-and-moose-river-valleys/wayne/</link>
+            <description>Explore the beauty of Wayne, Maine through our comprehensive travel guide that includes a list of places to visit, hiking/biking routes, best things to do, where to stay, and more!</description>
+            <pubDate>2024-03-02T17:14:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
