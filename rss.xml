@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-03T14:29:17+03:00</pubDate>
-        <lastBuildDate>2024-03-03T14:29:17+03:00</lastBuildDate>
+        <pubDate>2024-03-03T14:45:56+03:00</pubDate>
+        <lastBuildDate>2024-03-03T14:45:56+03:00</lastBuildDate>
 
         <item>
-            <title>Uşak Travel Guide (Central Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/central-aegean/usak/</link>
-            <description>Plan your trip to Uşak with our comprehensive travel guide that covers the best things to do, places to stay, and recommendations for food and drinks.</description>
-            <pubDate>2024-03-03T14:29:17+03:00</pubDate>
+            <title>Glen Ellen Travel Guide (Sonoma County/North Coast/California/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/sonoma-county/glen-ellen/</link>
+            <description>Discover the perfect Glen Ellen itinerary, the best things to do, where to eat and stay, and nearby destinations in North Coast, California.</description>
+            <pubDate>2024-03-03T14:45:56+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
