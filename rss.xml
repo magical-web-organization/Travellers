@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-03T11:42:35+03:00</pubDate>
-        <lastBuildDate>2024-03-03T11:42:35+03:00</lastBuildDate>
+        <pubDate>2024-03-03T12:18:12+03:00</pubDate>
+        <lastBuildDate>2024-03-03T12:18:12+03:00</lastBuildDate>
 
         <item>
-            <title>Dmitrov Travel Guide (North Moscow Oblast/Moscow Oblast/Central Russia/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/moscow-oblast/north-moscow-oblast/dmitrov/</link>
-            <description>Discover the best places to visit in Dmitrov, Russia, with this comprehensive travel guide, including hiking/biking routes, cultural attractions, food and drink scene, where to stay, and nearby destinations.</description>
-            <pubDate>2024-03-03T11:42:35+03:00</pubDate>
+            <title>Hwanghae Travel Guide (North Korea/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/north-korea/hwanghae/</link>
+            <description>Plan your next trip to Hwanghae with this comprehensive guide. Discover the best things to do, where to stay, what to eat, and more.</description>
+            <pubDate>2024-03-03T12:18:12+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
