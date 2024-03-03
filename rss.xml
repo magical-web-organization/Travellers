@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-04T01:02:54+03:00</pubDate>
-        <lastBuildDate>2024-03-04T01:02:54+03:00</lastBuildDate>
+        <pubDate>2024-03-04T01:16:47+03:00</pubDate>
+        <lastBuildDate>2024-03-04T01:16:47+03:00</lastBuildDate>
 
         <item>
-            <title>Aylsham Travel Guide (Norfolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/norfolk/aylsham/</link>
-            <description>A comprehensive travel guide for Aylsham, including cultural attractions, natural sites, biking routes, food and drink experiences, safety tips, and transportation logistics.</description>
-            <pubDate>2024-03-04T01:02:54+03:00</pubDate>
+            <title>Brienz Travel Guide (Bernese Highlands/Switzerland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/switzerland/bernese-highlands/brienz/</link>
+            <description>Explore the breathtaking beauty of Brienz, Switzerland, through our comprehensive travel guide featuring key attractions, accommodations, food, and culture.</description>
+            <pubDate>2024-03-04T01:16:47+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
