@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-04T01:16:47+03:00</pubDate>
-        <lastBuildDate>2024-03-04T01:16:47+03:00</lastBuildDate>
+        <pubDate>2024-03-04T01:54:20+03:00</pubDate>
+        <lastBuildDate>2024-03-04T01:54:20+03:00</lastBuildDate>
 
         <item>
-            <title>Brienz Travel Guide (Bernese Highlands/Switzerland/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/switzerland/bernese-highlands/brienz/</link>
-            <description>Explore the breathtaking beauty of Brienz, Switzerland, through our comprehensive travel guide featuring key attractions, accommodations, food, and culture.</description>
-            <pubDate>2024-03-04T01:16:47+03:00</pubDate>
+            <title>Gothenburg Travel Guide (Västergötland/Götaland/Sweden/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/vastergotland/gothenburg/</link>
+            <description>Discover the highlights of Gothenburg, Sweden with our comprehensive travel guide. Learn about the best places to visit, food & drink scene, transportation options, and more.</description>
+            <pubDate>2024-03-04T01:54:20+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
