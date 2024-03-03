@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-03T12:18:12+03:00</pubDate>
-        <lastBuildDate>2024-03-03T12:18:12+03:00</lastBuildDate>
+        <pubDate>2024-03-03T12:50:06+03:00</pubDate>
+        <lastBuildDate>2024-03-03T12:50:06+03:00</lastBuildDate>
 
         <item>
-            <title>Hwanghae Travel Guide (North Korea/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/north-korea/hwanghae/</link>
-            <description>Plan your next trip to Hwanghae with this comprehensive guide. Discover the best things to do, where to stay, what to eat, and more.</description>
-            <pubDate>2024-03-03T12:18:12+03:00</pubDate>
+            <title>Port Dickson Travel Guide (Negeri Sembilan/West Coast/Malaysia/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/negeri-sembilan/port-dickson/</link>
+            <description>Discover the best places to see, things to do, where to stay, and what to eat in beautiful Port Dickson, Malaysia. Plan your trip with our comprehensive guide.</description>
+            <pubDate>2024-03-03T12:50:06+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
