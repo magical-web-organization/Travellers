@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-03T16:35:23+03:00</pubDate>
-        <lastBuildDate>2024-03-03T16:35:23+03:00</lastBuildDate>
+        <pubDate>2024-03-03T17:22:05+03:00</pubDate>
+        <lastBuildDate>2024-03-03T17:22:05+03:00</lastBuildDate>
 
         <item>
-            <title>Smangus Travel Guide (Northern Taiwan/Taiwan/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/smangus/</link>
-            <description>Discover the best places to visit, things to do, where to stay, local culture and customs, safety and health, and more in Smangus, Taiwan.</description>
-            <pubDate>2024-03-03T16:35:23+03:00</pubDate>
+            <title>Cameron Travel Guide (Post Oak Savannah/Prairies and Lakes/Texas/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/post-oak-savannah/cameron/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and what to eat in Cameron, Texas. Plan your trip with this complete travel guide.</description>
+            <pubDate>2024-03-03T17:22:05+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
