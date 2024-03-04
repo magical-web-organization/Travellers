@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-04T13:13:28+03:00</pubDate>
-        <lastBuildDate>2024-03-04T13:13:28+03:00</lastBuildDate>
+        <pubDate>2024-03-04T13:55:53+03:00</pubDate>
+        <lastBuildDate>2024-03-04T13:55:53+03:00</lastBuildDate>
 
         <item>
-            <title>Vologda Oblast Travel Guide (Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/vologda-oblast/</link>
-            <description>Explore Vologda Oblast, Russia with our comprehensive travel guide. Discover the region's natural and cultural attractions, best things to do, where to stay, local cuisine, and more.</description>
-            <pubDate>2024-03-04T13:13:28+03:00</pubDate>
+            <title>Oltenia Travel Guide (Romania/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/romania/oltenia/</link>
+            <description>Discover the best things to do, places to visit, and local must-try foods in Oltenia, Romania. Plan your trip with our comprehensive travel guide.</description>
+            <pubDate>2024-03-04T13:55:53+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
