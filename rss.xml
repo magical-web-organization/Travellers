@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-04T03:20:24+03:00</pubDate>
-        <lastBuildDate>2024-03-04T03:20:24+03:00</lastBuildDate>
+        <pubDate>2024-03-04T03:59:40+03:00</pubDate>
+        <lastBuildDate>2024-03-04T03:59:40+03:00</lastBuildDate>
 
         <item>
-            <title>Dvabzu Travel Guide (Southwestern Georgia/Georgia (country)/Caucasus/Asia)</title>
-            <link>https://travellers.wiki/en/asia/caucasus/georgia-country/southwestern-georgia/dvabzu/</link>
-            <description>Discover the off-beaten path of Dvabzu, Georgia with our comprehensive travel guide. Explore the culturally important attractions, natural wonders, and delicious local cuisine. Learn about the local customs, best time to visit, transportation options, and nearby destinations.</description>
-            <pubDate>2024-03-04T03:20:24+03:00</pubDate>
+            <title>Mühlberg Travel Guide (Brandenburg/Germany/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/germany/brandenburg/muhlberg/</link>
+            <description>Discover Mühlberg, Germany with our comprehensive travel guide. From natural attractions to cultural landmarks, we've got you covered.</description>
+            <pubDate>2024-03-04T03:59:40+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
