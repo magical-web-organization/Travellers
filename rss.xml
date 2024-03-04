@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-04T05:53:42+03:00</pubDate>
-        <lastBuildDate>2024-03-04T05:53:42+03:00</lastBuildDate>
+        <pubDate>2024-03-04T06:22:45+03:00</pubDate>
+        <lastBuildDate>2024-03-04T06:22:45+03:00</lastBuildDate>
 
         <item>
-            <title>Sprague Travel Guide (Eastern Manitoba/Manitoba/Prairies/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/eastern-manitoba/sprague/</link>
-            <description>Explore the beauty of Sprague with this comprehensive tour guide featuring a list of places to visit, hiking/biking routes, food and drink scene, where to stay, and local customs.</description>
-            <pubDate>2024-03-04T05:53:42+03:00</pubDate>
+            <title>Pyrenees Travel Guide (Europe)</title>
+            <link>https://travellers.wiki/en/europe/pyrenees/</link>
+            <description>Discover the best natural and cultural attractions, food and drink scenes, lodging options, and insider tips in Pyrenees, Europe. Plan a week-long itinerary and explore the nearby destinations.</description>
+            <pubDate>2024-03-04T06:22:45+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
