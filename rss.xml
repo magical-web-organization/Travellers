@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-05T11:23:40+03:00</pubDate>
-        <lastBuildDate>2024-03-05T11:23:40+03:00</lastBuildDate>
+        <pubDate>2024-03-05T11:47:58+03:00</pubDate>
+        <lastBuildDate>2024-03-05T11:47:58+03:00</lastBuildDate>
 
         <item>
-            <title>Cocos (Keeling) Islands Travel Guide (Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/cocos-keeling-islands/</link>
-            <description>Explore the natural and cultural attractions of Cocos (Keeling) Islands with the best things to do, places to visit, hiking and biking routes, food and drink scene, and much more.</description>
-            <pubDate>2024-03-05T11:23:40+03:00</pubDate>
+            <title>Sonora Travel Guide (West/Hill Country/Texas/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/west/sonora/</link>
+            <description>Plan your perfect trip to Sonora with this comprehensive travel guide, filled with tips, recommendations, and must-visit destinations.</description>
+            <pubDate>2024-03-05T11:47:58+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
