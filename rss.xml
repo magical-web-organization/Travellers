@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-05T21:21:24+03:00</pubDate>
-        <lastBuildDate>2024-03-05T21:21:24+03:00</lastBuildDate>
+        <pubDate>2024-03-05T21:42:45+03:00</pubDate>
+        <lastBuildDate>2024-03-05T21:42:45+03:00</lastBuildDate>
 
         <item>
-            <title>Saint-Maurice Travel Guide (Les Chenaux/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/les-chenaux/saint-maurice/</link>
-            <description>Plan your trip to Saint-Maurice with our detailed tour guide, featuring top attractions, activities, food and drink, where to stay, and travel logistics.</description>
-            <pubDate>2024-03-05T21:21:24+03:00</pubDate>
+            <title>Flen Travel Guide (Södermanland County/Svealand/Sweden/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/sodermanland-county/flen/</link>
+            <description>Explore the rich cultural heritage, natural beauty, and outdoor adventures of Flen, Sweden. Plan your itinerary with our comprehensive travel guide.</description>
+            <pubDate>2024-03-05T21:42:45+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
