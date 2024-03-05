@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-05T14:44:59+03:00</pubDate>
-        <lastBuildDate>2024-03-05T14:44:59+03:00</lastBuildDate>
+        <pubDate>2024-03-05T15:17:21+03:00</pubDate>
+        <lastBuildDate>2024-03-05T15:17:21+03:00</lastBuildDate>
 
         <item>
-            <title>Gemlik Travel Guide (Southern Marmara/Marmara (region)/Turkey/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/southern-marmara/gemlik/</link>
-            <description>Discover the best places to visit, things to do, and where to stay in Gemlik. Learn about local culture, cuisine, and customs, and find transportation options and logistics to plan your trip.</description>
-            <pubDate>2024-03-05T14:44:59+03:00</pubDate>
+            <title>Hjørring Travel Guide (North Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/north-jutland/hjorring/</link>
+            <description>Plan your perfect trip to Hjørring with this comprehensive travel guide that includes attractions, outdoor adventures, food, culture, logistics, and more.</description>
+            <pubDate>2024-03-05T15:17:21+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
