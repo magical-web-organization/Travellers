@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-05T08:17:39+03:00</pubDate>
-        <lastBuildDate>2024-03-05T08:17:39+03:00</lastBuildDate>
+        <pubDate>2024-03-05T09:02:02+03:00</pubDate>
+        <lastBuildDate>2024-03-05T09:02:02+03:00</lastBuildDate>
 
         <item>
-            <title>Upper Zemplín Travel Guide (Eastern Slovakia/Slovakia/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/slovakia/eastern-slovakia/upper-zemplin/</link>
-            <description>Explore the best places to visit, things to do, and where to stay in Upper Zemplín. Discover the culture and customs, try the local food, and learn how to get around this stunning region in Eastern Slovakia.</description>
-            <pubDate>2024-03-05T08:17:39+03:00</pubDate>
+            <title>McCook Travel Guide (South Central Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/south-central-nebraska/mccook/</link>
+            <description>Plan a perfect trip to McCook with our comprehensive guide including the best places to visit, things to do, where to stay, and more.</description>
+            <pubDate>2024-03-05T09:02:02+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
