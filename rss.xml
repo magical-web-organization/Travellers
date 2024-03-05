@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-05T07:16:15+03:00</pubDate>
-        <lastBuildDate>2024-03-05T07:16:15+03:00</lastBuildDate>
+        <pubDate>2024-03-05T07:40:30+03:00</pubDate>
+        <lastBuildDate>2024-03-05T07:40:30+03:00</lastBuildDate>
 
         <item>
-            <title>Orkney Islands Travel Guide (Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/</link>
-            <description>Explore the breathtaking beauty of Orkney Islands with this comprehensive travel guide. Discover its cultural and natural attractions, food and drink scene, hiking/biking routes, and more.</description>
-            <pubDate>2024-03-05T07:16:15+03:00</pubDate>
+            <title>Capri Travel Guide (Metropolitan Naples/Campania/Southern Italy/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/southern-italy/campania/metropolitan-naples/capri/</link>
+            <description>Your ultimate travel guide to Capri, including information on the best places to visit, things to do, where to stay, and where to eat in this beautiful island in Southern Italy.</description>
+            <pubDate>2024-03-05T07:40:30+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
