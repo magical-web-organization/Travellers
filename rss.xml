@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-06T07:27:45+03:00</pubDate>
-        <lastBuildDate>2024-03-06T07:27:45+03:00</lastBuildDate>
+        <pubDate>2024-03-06T07:59:27+03:00</pubDate>
+        <lastBuildDate>2024-03-06T07:59:27+03:00</lastBuildDate>
 
         <item>
-            <title>Liptovska Mara Travel Guide (Liptov/Central Slovakia/Slovakia/Central Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/liptov/liptovska-mara/</link>
-            <description>Liptovska Mara, Slovakia is the perfect place for all nature lovers, adventure seekers, and history buffs. This comprehensive tourist guide will take you through every notable attraction of Liptovska Mara, offering a fun-filled itinerary.</description>
-            <pubDate>2024-03-06T07:27:45+03:00</pubDate>
+            <title>Notodden Travel Guide (Telemark/East Norway/Norway/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/telemark/notodden/</link>
+            <description>Plan your trip to Notodden, Norway with our comprehensive guide. Discover the best things to do, places to stay, food to try, and more!</description>
+            <pubDate>2024-03-06T07:59:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
