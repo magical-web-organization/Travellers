@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-06T03:59:53+03:00</pubDate>
-        <lastBuildDate>2024-03-06T03:59:53+03:00</lastBuildDate>
+        <pubDate>2024-03-06T04:20:47+03:00</pubDate>
+        <lastBuildDate>2024-03-06T04:20:47+03:00</lastBuildDate>
 
         <item>
-            <title>Grand Forks Travel Guide (West Kootenays/Kootenays/British Columbia/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/west-kootenays/grand-forks/</link>
-            <description>Discover the best places to visit, things to do, where to stay, and what to eat in Grand Forks, British Columbia. Plan your trip with this comprehensive travel guide.</description>
-            <pubDate>2024-03-06T03:59:53+03:00</pubDate>
+            <title>New Glasgow Travel Guide (Northumberland Shore/Nova Scotia/Atlantic Canada/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/atlantic-canada/nova-scotia/northumberland-shore/new-glasgow/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and more in New Glasgow. Enjoy scenic views, cultural attractions, and outdoor adventures in this Northumberland Shore paradise.</description>
+            <pubDate>2024-03-06T04:20:47+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
