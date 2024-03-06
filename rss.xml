@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-06T07:59:27+03:00</pubDate>
-        <lastBuildDate>2024-03-06T07:59:27+03:00</lastBuildDate>
+        <pubDate>2024-03-06T08:13:40+03:00</pubDate>
+        <lastBuildDate>2024-03-06T08:13:40+03:00</lastBuildDate>
 
         <item>
-            <title>Notodden Travel Guide (Telemark/East Norway/Norway/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/telemark/notodden/</link>
-            <description>Plan your trip to Notodden, Norway with our comprehensive guide. Discover the best things to do, places to stay, food to try, and more!</description>
-            <pubDate>2024-03-06T07:59:27+03:00</pubDate>
+            <title>Les Escoumins Travel Guide (Manicouagan/Quebec/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/quebec/manicouagan/les-escoumins/</link>
+            <description>Plan your trip to Les Escoumins with our comprehensive travel guide. Discover top attractions, hiking routes, delicious local cuisine, where to stay, and more.</description>
+            <pubDate>2024-03-06T08:13:40+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
