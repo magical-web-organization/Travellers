@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-06T05:23:26+03:00</pubDate>
-        <lastBuildDate>2024-03-06T05:23:26+03:00</lastBuildDate>
+        <pubDate>2024-03-06T05:38:36+03:00</pubDate>
+        <lastBuildDate>2024-03-06T05:38:36+03:00</lastBuildDate>
 
         <item>
-            <title>Hartland Travel Guide (Saint John River Valley/New Brunswick/Atlantic Canada/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/saint-john-river-valley/hartland/</link>
-            <description>Plan your next trip to Hartland, New Brunswick with our comprehensive travel guide. Discover must-see attractions, outdoor adventures, delicious local cuisine, where to stay, and more.</description>
-            <pubDate>2024-03-06T05:23:26+03:00</pubDate>
+            <title>Debarca Travel Guide (Western North Macedonia/North Macedonia/Balkans/Europe)</title>
+            <link>https://travellers.wiki/en/europe/balkans/north-macedonia/western-north-macedonia/debarca/</link>
+            <description>Plan your trip to Debarca with this comprehensive travel guide, including a list of places to visit, hiking and biking routes, food and drink scene, and cultural customs.</description>
+            <pubDate>2024-03-06T05:38:36+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
