@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-06T11:09:48+03:00</pubDate>
-        <lastBuildDate>2024-03-06T11:09:48+03:00</lastBuildDate>
+        <pubDate>2024-03-06T11:59:21+03:00</pubDate>
+        <lastBuildDate>2024-03-06T11:59:21+03:00</lastBuildDate>
 
         <item>
-            <title>Odesa Travel Guide (Southern Ukraine/Ukraine/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/ukraine/southern-ukraine/odesa/</link>
-            <description>Discover the best things to do, places to sightsee, and local culture in Odesa, Ukraine. Find out where to stay, what to eat and drink, and how to get around.</description>
-            <pubDate>2024-03-06T11:09:48+03:00</pubDate>
+            <title>Haeju Travel Guide (Hwanghae/North Korea/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/north-korea/hwanghae/haeju/</link>
+            <description>Discover the hidden gems of Haeju with our comprehensive guide! From cultural and natural attractions to food and local culture, everything you need to know about this North Korean city is here.</description>
+            <pubDate>2024-03-06T11:59:21+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
