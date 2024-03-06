@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-06T13:26:28+03:00</pubDate>
-        <lastBuildDate>2024-03-06T13:26:28+03:00</lastBuildDate>
+        <pubDate>2024-03-06T13:47:30+03:00</pubDate>
+        <lastBuildDate>2024-03-06T13:47:30+03:00</lastBuildDate>
 
         <item>
-            <title>Hamar Travel Guide (Hedmark/East Norway/Norway/Nordic countries/Europe)</title>
-            <link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/hedmark/hamar/</link>
-            <description>Plan your trip to Hamar with this comprehensive travel guide. Discover the best places to visit, food and drink scene, where to stay, and more.</description>
-            <pubDate>2024-03-06T13:26:28+03:00</pubDate>
+            <title>Uselu Travel Guide (Edo State/South South Nigeria/Nigeria/West Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/edo-state/uselu/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and what to buy in Uselu, Edo State, Nigeria. This travel guide covers natural and cultural attractions, local culture and customs, safety, and logistics.</description>
+            <pubDate>2024-03-06T13:47:30+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
