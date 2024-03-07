@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-07T16:37:55+03:00</pubDate>
-        <lastBuildDate>2024-03-07T16:37:55+03:00</lastBuildDate>
+        <pubDate>2024-03-07T17:03:36+03:00</pubDate>
+        <lastBuildDate>2024-03-07T17:03:36+03:00</lastBuildDate>
 
         <item>
-            <title>Laredo Travel Guide (South Texas Plains/Texas/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/texas/south-texas-plains/laredo/</link>
-            <description>Discover the best places to visit, local culture, food scene, and travel tips in Laredo, Texas.</description>
-            <pubDate>2024-03-07T16:37:55+03:00</pubDate>
+            <title>Kalmykia Travel Guide (Southern Russia/Russia/Eastern Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/kalmykia/</link>
+            <description>Discover Kalmykia, a little-known destination in Southern Russia, and explore its cultural and natural attractions, hiking and biking routes, local food and drink scene, accommodations, and more.</description>
+            <pubDate>2024-03-07T17:03:36+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
