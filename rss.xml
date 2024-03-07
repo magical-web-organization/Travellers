@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-08T00:00:12+03:00</pubDate>
-        <lastBuildDate>2024-03-08T00:00:12+03:00</lastBuildDate>
+        <pubDate>2024-03-08T00:03:29+03:00</pubDate>
+        <lastBuildDate>2024-03-08T00:03:29+03:00</lastBuildDate>
 
         <item>
-            <title>Miranda do Douro Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/miranda-do-douro/</link>
-            <description>Plan your trip to Miranda do Douro with our comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, local culture, and transportation options.</description>
-            <pubDate>2024-03-08T00:00:12+03:00</pubDate>
+            <title>Mafeteng Travel Guide (Lesotho/Southern Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/southern-africa/lesotho/mafeteng/</link>
+            <description>Discover the culturally important attractions, natural wonders, hiking and biking routes, top things to do, food and drink scene, accommodation options, and everything you need to know about Mafeteng in Lesotho.</description>
+            <pubDate>2024-03-08T00:03:29+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
