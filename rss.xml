@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-07T17:52:29+03:00</pubDate>
-        <lastBuildDate>2024-03-07T17:52:29+03:00</lastBuildDate>
+        <pubDate>2024-03-07T18:32:13+03:00</pubDate>
+        <lastBuildDate>2024-03-07T18:32:13+03:00</lastBuildDate>
 
         <item>
-            <title>Eurasia Travel Guide (Other destinations)</title>
-            <link>https://travellers.wiki/en/other-destinations/eurasia/</link>
-            <description>This guide covers the best cultural, natural, and adventure attractions in Eurasia, where to stay, what to eat, and tips for navigating this vast region.</description>
-            <pubDate>2024-03-07T17:52:29+03:00</pubDate>
+            <title>Liliw Travel Guide (Laguna/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/laguna/liliw/</link>
+            <description>Explore the rich culture, natural attractions, food and drink scene, and more in Liliw, Laguna, Philippines with this comprehensive travel guide.</description>
+            <pubDate>2024-03-07T18:32:13+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
