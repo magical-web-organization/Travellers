@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-08T00:03:29+03:00</pubDate>
-        <lastBuildDate>2024-03-08T00:03:29+03:00</lastBuildDate>
+        <pubDate>2024-03-08T00:50:14+03:00</pubDate>
+        <lastBuildDate>2024-03-08T00:50:14+03:00</lastBuildDate>
 
         <item>
-            <title>Mafeteng Travel Guide (Lesotho/Southern Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/southern-africa/lesotho/mafeteng/</link>
-            <description>Discover the culturally important attractions, natural wonders, hiking and biking routes, top things to do, food and drink scene, accommodation options, and everything you need to know about Mafeteng in Lesotho.</description>
-            <pubDate>2024-03-08T00:03:29+03:00</pubDate>
+            <title>Dexter Travel Guide (Highlands/Maine/New England/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/highlands/dexter/</link>
+            <description>Looking for a comprehensive tour guide for Dexter, Maine? Look no further! Explore the best things to do, where to stay, eat, and get around in Dexter.</description>
+            <pubDate>2024-03-08T00:50:14+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
