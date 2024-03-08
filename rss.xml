@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-08T14:21:19+03:00</pubDate>
-        <lastBuildDate>2024-03-08T14:21:19+03:00</lastBuildDate>
+        <pubDate>2024-03-08T14:56:08+03:00</pubDate>
+        <lastBuildDate>2024-03-08T14:56:08+03:00</lastBuildDate>
 
         <item>
-            <title>Udmurtia Travel Guide (Volga Region/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/udmurtia/</link>
-            <description>Explore the best of Udmurtia, Russia with our travel guide. Discover the top attractions, hiking and biking routes, food and drink scene, where to stay, and much more!</description>
-            <pubDate>2024-03-08T14:21:19+03:00</pubDate>
+            <title>Vrindavan Travel Guide (Doab/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/doab/vrindavan/</link>
+            <description>Plan your visit to Vrindavan with this comprehensive tour guide. Learn about the top things to do, where to stay, what to eat, and how to get around in this culturally-rich city in Uttar Pradesh, India.</description>
+            <pubDate>2024-03-08T14:56:08+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
