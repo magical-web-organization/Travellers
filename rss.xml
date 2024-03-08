@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-08T21:58:34+03:00</pubDate>
-        <lastBuildDate>2024-03-08T21:58:34+03:00</lastBuildDate>
+        <pubDate>2024-03-08T22:29:29+03:00</pubDate>
+        <lastBuildDate>2024-03-08T22:29:29+03:00</lastBuildDate>
 
         <item>
-            <title>Mackay Travel Guide (Central Queensland/Queensland/Australia/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/mackay/</link>
-            <description>Get ready for an unforgettable trip to Mackay, Queensland, Australia! Find out what to see, do, eat, and buy in this comprehensive travel guide.</description>
-            <pubDate>2024-03-08T21:58:34+03:00</pubDate>
+            <title>Limestone Coast Travel Guide (South Australia/Australia/Oceania)</title>
+            <link>https://travellers.wiki/en/oceania/australia/south-australia/limestone-coast/</link>
+            <description>Discover the breathtaking cultural and natural attractions of Limestone Coast in South Australia. Plan your itinerary with this comprehensive guide on where to go, what to see, and what to do during your visit.</description>
+            <pubDate>2024-03-08T22:29:29+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
