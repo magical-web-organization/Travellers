@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-08T17:52:54+03:00</pubDate>
-        <lastBuildDate>2024-03-08T17:52:54+03:00</lastBuildDate>
+        <pubDate>2024-03-08T18:08:45+03:00</pubDate>
+        <lastBuildDate>2024-03-08T18:08:45+03:00</lastBuildDate>
 
         <item>
-            <title>Chefchaouen Travel Guide (Mediterranean Morocco/Morocco/North Africa/Africa)</title>
-            <link>https://travellers.wiki/en/africa/north-africa/morocco/mediterranean-morocco/chefchaouen/</link>
-            <description>Discover the best places to visit, things to do, food and drink scene, where to stay, and more in Chefchaouen, Morocco.</description>
-            <pubDate>2024-03-08T17:52:54+03:00</pubDate>
+            <title>Pella Travel Guide (Northern Jordan/Jordan/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/jordan/northern-jordan/pella/</link>
+            <description>Explore the ancient city of Pella in Jordan with this comprehensive travel guide featuring top attractions, activities, accommodations, and more.</description>
+            <pubDate>2024-03-08T18:08:45+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
