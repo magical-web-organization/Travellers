@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-08T08:11:01+03:00</pubDate>
-        <lastBuildDate>2024-03-08T08:11:01+03:00</lastBuildDate>
+        <pubDate>2024-03-08T08:56:52+03:00</pubDate>
+        <lastBuildDate>2024-03-08T08:56:52+03:00</lastBuildDate>
 
         <item>
-            <title>Olkhon Travel Guide (Irkutsk Oblast/Eastern Siberia/Siberia/Russia/Eastern Europe/Europe)</title>
-            <link>https://travellers.wiki/en/europe/eastern-europe/russia/siberia/eastern-siberia/irkutsk-oblast/olkhon/</link>
-            <description>Discover the best places to visit, eat and stay in Olkhon in Siberia, Russia. Find insider tips, hiking routes, cultural attractions, transportation options and more.</description>
-            <pubDate>2024-03-08T08:11:01+03:00</pubDate>
+            <title>Aegadian Islands Travel Guide (Trapani (province)/Sicily/Italy/Europe)</title>
+            <link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/aegadian-islands/</link>
+            <description>Discover the best places to visit, things to do, where to stay, local culture and customs, and more in Aegadian Islands.</description>
+            <pubDate>2024-03-08T08:56:52+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
