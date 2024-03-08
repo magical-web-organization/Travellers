@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-09T00:17:50+03:00</pubDate>
-        <lastBuildDate>2024-03-09T00:17:50+03:00</lastBuildDate>
+        <pubDate>2024-03-09T00:41:30+03:00</pubDate>
+        <lastBuildDate>2024-03-09T00:41:30+03:00</lastBuildDate>
 
         <item>
-            <title>Arraiolos Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/arraiolos/</link>
-            <description>Arraiolos is a small town located in Alentejo, Portugal. Read our comprehensive travel guide to explore the town and its attractions.</description>
-            <pubDate>2024-03-09T00:17:50+03:00</pubDate>
+            <title>Washtenaw County Travel Guide (Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/washtenaw-county/</link>
+            <description>Uncover the best cultural, natural, and outdoor attractions of Washtenaw County in this comprehensive travel guide.</description>
+            <pubDate>2024-03-09T00:41:30+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
