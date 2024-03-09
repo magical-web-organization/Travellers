@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-09T21:02:51+03:00</pubDate>
-        <lastBuildDate>2024-03-09T21:02:51+03:00</lastBuildDate>
+        <pubDate>2024-03-09T21:24:59+03:00</pubDate>
+        <lastBuildDate>2024-03-09T21:24:59+03:00</lastBuildDate>
 
         <item>
-            <title>Córdoba (province, Spain) Travel Guide (Andalusia/Spain/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/spain/andalusia/cordoba-province-spain/</link>
-            <description>Discover the best cultural and natural attractions, amazing hiking and biking routes, authentic local food, and where to stay in Córdoba (province, Spain). Learn about the customs, traditions, safety tips, and logistics to plan your trip the right way!</description>
-            <pubDate>2024-03-09T21:02:51+03:00</pubDate>
+            <title>Arad Travel Guide (Negev/Israel/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/israel/negev/arad/</link>
+            <description>Discover the best things to do in Arad, Israel, including top tourist attractions, hiking and biking routes, food and drink scenes, where to stay, and how to travel.</description>
+            <pubDate>2024-03-09T21:24:59+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
