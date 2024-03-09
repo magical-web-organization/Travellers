@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-09T04:44:51+03:00</pubDate>
-        <lastBuildDate>2024-03-09T04:44:51+03:00</lastBuildDate>
+        <pubDate>2024-03-09T05:05:50+03:00</pubDate>
+        <lastBuildDate>2024-03-09T05:05:50+03:00</lastBuildDate>
 
         <item>
-            <title>Băile Herculane Travel Guide (Banat/Romania/Balkans/Europe)</title>
-            <link>https://travellers.wiki/en/europe/balkans/romania/banat/baile-herculane/</link>
-            <description>Plan your trip to Băile Herculane with this comprehensive travel guide. Discover natural attractions, outdoor adventures, cultural landmarks, and more.</description>
-            <pubDate>2024-03-09T04:44:51+03:00</pubDate>
+            <title>Tala Bay Travel Guide (Southern Desert/Jordan/Middle East/Asia)</title>
+            <link>https://travellers.wiki/en/asia/middle-east/jordan/southern-desert/tala-bay/</link>
+            <description>Tala Bay is a hidden gem located in the southern desert of Jordan, featuring beautiful beaches, outdoor adventures, scenic views, and rich history. Read the complete travel guide to plan a perfect getaway to Tala Bay.</description>
+            <pubDate>2024-03-09T05:05:50+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
