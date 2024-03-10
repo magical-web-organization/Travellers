@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-10T15:22:00+03:00</pubDate>
-        <lastBuildDate>2024-03-10T15:22:00+03:00</lastBuildDate>
+        <pubDate>2024-03-10T15:52:36+03:00</pubDate>
+        <lastBuildDate>2024-03-10T15:52:36+03:00</lastBuildDate>
 
         <item>
-            <title>Sliven Travel Guide (Upper Thracian Plain/Bulgaria/Balkans/Europe)</title>
-            <link>https://travellers.wiki/en/europe/balkans/bulgaria/upper-thracian-plain/sliven/</link>
-            <description>This travel guide to Sliven, Bulgaria will take you on a journey through the culturally rich, natural beauty of Sliven, including places to visit, food and drink scene, where to stay, and travel tips.</description>
-            <pubDate>2024-03-10T15:22:00+03:00</pubDate>
+            <title>Pentagon Travel Guide (Brussels/Belgium/Benelux/Europe)</title>
+            <link>https://travellers.wiki/en/europe/benelux/belgium/brussels/pentagon/</link>
+            <description>Plan your trip to Pentagon, Belgium with our comprehensive travel guide covering things to do, places to stay, what to eat, and more.</description>
+            <pubDate>2024-03-10T15:52:36+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
