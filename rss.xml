@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-10T12:18:52+03:00</pubDate>
-        <lastBuildDate>2024-03-10T12:18:52+03:00</lastBuildDate>
+        <pubDate>2024-03-10T12:48:28+03:00</pubDate>
+        <lastBuildDate>2024-03-10T12:48:28+03:00</lastBuildDate>
 
         <item>
-            <title>Teaneck Travel Guide (Bergen County/Gateway/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/gateway/bergen-county/teaneck/</link>
-            <description>Discover the best things to do in Teaneck, New Jersey with this comprehensive tour guide. From hiking and biking routes to cultural attractions and local customs, we've got you covered.</description>
-            <pubDate>2024-03-10T12:18:52+03:00</pubDate>
+            <title>Gjøvik Travel Guide (Oppland/East Norway/Norway/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/oppland/gjovik/</link>
+            <description>Discover the best places to visit in Gjøvik, Norway, including cultural attractions, natural wonders, food and drink scene, and more. Read our week-long itinerary, tips on where to stay, what to buy, and the best time to visit Gjøvik.</description>
+            <pubDate>2024-03-10T12:48:28+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
