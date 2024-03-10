@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-11T00:14:25+03:00</pubDate>
-        <lastBuildDate>2024-03-11T00:14:25+03:00</lastBuildDate>
+        <pubDate>2024-03-11T00:48:52+03:00</pubDate>
+        <lastBuildDate>2024-03-11T00:48:52+03:00</lastBuildDate>
 
         <item>
-            <title>Huizhou Travel Guide (Pearl River Delta/Guangdong/South China/China/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/pearl-river-delta/huizhou/</link>
-            <description>Discover all the important cultural and natural attractions, hiking/biking routes, best things to do, where to stay, what to buy and other helpful travel tips for Huizhou.</description>
-            <pubDate>2024-03-11T00:14:25+03:00</pubDate>
+            <title>Quadra Island Travel Guide (Discovery Islands/Vancouver Island/British Columbia/Canada/North America)</title>
+            <link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/discovery-islands/quadra-island/</link>
+            <description>Plan your next trip to Quadra Island with our helpful travel guide! Discover the best places to visit, things to do, where to stay, and more.</description>
+            <pubDate>2024-03-11T00:48:52+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
