@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-10T10:19:01+03:00</pubDate>
-        <lastBuildDate>2024-03-10T10:19:01+03:00</lastBuildDate>
+        <pubDate>2024-03-10T10:47:34+03:00</pubDate>
+        <lastBuildDate>2024-03-10T10:47:34+03:00</lastBuildDate>
 
         <item>
-            <title>San Marcos Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/san-marcos/</link>
-            <description>Explore the best outdoor adventures, cultural attractions, and food scene in San Marcos, Texas. Discover when to visit, where to stay, and how to get around in this comprehensive tour guide.</description>
-            <pubDate>2024-03-10T10:19:01+03:00</pubDate>
+            <title>Dusit Travel Guide (Bangkok/Chao Phraya Basin/Central Thailand/Thailand/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/chao-phraya-basin/bangkok/dusit/</link>
+            <description>Discover the beauty of Dusit through a comprehensive travel guide. From cultural attractions, natural attractions to food, accommodation, and transportation options.</description>
+            <pubDate>2024-03-10T10:47:34+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
