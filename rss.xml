@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-11T21:43:56+03:00</pubDate>
-        <lastBuildDate>2024-03-11T21:43:56+03:00</lastBuildDate>
+        <pubDate>2024-03-11T22:28:53+03:00</pubDate>
+        <lastBuildDate>2024-03-11T22:28:53+03:00</lastBuildDate>
 
         <item>
-            <title>West Travel Guide (Seoul/Gyeonggi/South Korea/East Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/seoul/west/</link>
-            <description>Plan the perfect trip to West with this comprehensive travel guide that covers all the must-see attractions and activities, best places to stay and eat, local customs and culture, safety and health, and transportation options.</description>
-            <pubDate>2024-03-11T21:43:56+03:00</pubDate>
+            <title>Yasothon Travel Guide (Central Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/central-isaan/yasothon/</link>
+            <description>Yasothon is a hidden gem in Central Isaan, Thailand, with plenty of cultural and natural attractions, hiking/biking routes, activities, and a vibrant food and drink scene. Read on for a comprehensive guide on what to see, do, and experience in Yasothon.</description>
+            <pubDate>2024-03-11T22:28:53+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
