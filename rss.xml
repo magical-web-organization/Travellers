@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-11T05:09:48+03:00</pubDate>
-        <lastBuildDate>2024-03-11T05:09:48+03:00</lastBuildDate>
+        <pubDate>2024-03-11T05:50:48+03:00</pubDate>
+        <lastBuildDate>2024-03-11T05:50:48+03:00</lastBuildDate>
 
         <item>
-            <title>Belitung Travel Guide (Bangka-Belitung/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/bangka-belitung/belitung/</link>
-            <description>Discover the best places to visit, things to do, the food and drink scene, where to stay, local culture and customs, and more in our travel guide to Belitung, Indonesia.</description>
-            <pubDate>2024-03-11T05:09:48+03:00</pubDate>
+            <title>Mutarara Travel Guide (Central Mozambique/Mozambique/Southern Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/southern-africa/mozambique/central-mozambique/mutarara/</link>
+            <description>Discover the stunning natural landscape, rich cultural heritage and exciting activities awaiting you in Mutarara, Mozambique.</description>
+            <pubDate>2024-03-11T05:50:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
