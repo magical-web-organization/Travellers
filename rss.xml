@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-11T11:34:27+03:00</pubDate>
-        <lastBuildDate>2024-03-11T11:34:27+03:00</lastBuildDate>
+        <pubDate>2024-03-11T12:29:48+03:00</pubDate>
+        <lastBuildDate>2024-03-11T12:29:48+03:00</lastBuildDate>
 
         <item>
-            <title>Tartu Travel Guide (South Estonia/Estonia/Baltic states/Europe)</title>
-            <link>https://travellers.wiki/en/europe/baltic-states/estonia/south-estonia/tartu/</link>
-            <description>Discover the best things to do, see, and eat in Tartu, Estonia's cultural capital. This article provides a week-long itinerary, a list of cultural and natural attractions, dining recommendations, and much more.</description>
-            <pubDate>2024-03-11T11:34:27+03:00</pubDate>
+            <title>Terschelling Travel Guide (West Frisian Islands/Northern Netherlands/Netherlands/Benelux/Europe)</title>
+            <link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/west-frisian-islands/terschelling/</link>
+            <description>Planning a trip to Terschelling? This comprehensive guide covers everything from the best places to visit, where to stay, what to eat, and more.</description>
+            <pubDate>2024-03-11T12:29:48+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
