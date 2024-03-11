@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-11T15:18:40+03:00</pubDate>
-        <lastBuildDate>2024-03-11T15:18:40+03:00</lastBuildDate>
+        <pubDate>2024-03-11T15:50:26+03:00</pubDate>
+        <lastBuildDate>2024-03-11T15:50:26+03:00</lastBuildDate>
 
         <item>
-            <title>Toledo Travel Guide (Central Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/central-oregon-coast/toledo/</link>
-            <description>Planning a trip to Toledo? Read our guide to discover the best things to do, where to stay, where to eat, and much more.</description>
-            <pubDate>2024-03-11T15:18:40+03:00</pubDate>
+            <title>Amorgos Travel Guide (Cyclades/Greek Islands/Greece/Europe)</title>
+            <link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/amorgos/</link>
+            <description>Explore the beautiful island of Amorgos in the Cyclades with this comprehensive travel guide, featuring a list of places to visit, hiking/biking routes, food and drink scene, where to stay, local customs and culture, and more.</description>
+            <pubDate>2024-03-11T15:50:26+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
