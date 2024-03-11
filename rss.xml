@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-11T18:30:19+03:00</pubDate>
-        <lastBuildDate>2024-03-11T18:30:19+03:00</lastBuildDate>
+        <pubDate>2024-03-11T18:35:35+03:00</pubDate>
+        <lastBuildDate>2024-03-11T18:35:35+03:00</lastBuildDate>
 
         <item>
-            <title>Rio Bonito Travel Guide (Grande Rio/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
-            <link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/grande-rio/rio-bonito/</link>
-            <description>Discover the best places to visit, things to do, and local culture of Rio Bonito, Brazil with this comprehensive travel guide.</description>
-            <pubDate>2024-03-11T18:30:19+03:00</pubDate>
+            <title>Swiss Alps Travel Guide (Switzerland/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/switzerland/swiss-alps/</link>
+            <description>Discover the best things to do, places to visit, and tips for a safe and enjoyable trip to Swiss Alps in this comprehensive travel guide.</description>
+            <pubDate>2024-03-11T18:35:35+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
