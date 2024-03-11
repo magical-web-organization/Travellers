@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-11T13:29:04+03:00</pubDate>
-        <lastBuildDate>2024-03-11T13:29:04+03:00</lastBuildDate>
+        <pubDate>2024-03-11T13:36:24+03:00</pubDate>
+        <lastBuildDate>2024-03-11T13:36:24+03:00</lastBuildDate>
 
         <item>
-            <title>San Pedro la Laguna Travel Guide (Lake Atitlán/Western Highlands/Guatemala/Central America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/central-america/guatemala/western-highlands/lake-atitlan/san-pedro-la-laguna/</link>
-            <description>Discover the beauty of San Pedro la Laguna with our comprehensive travel guide. From cultural attractions to outdoor adventures, we cover it all. Learn about the best places to stay, eat, and things to do. Plan your trip now!</description>
-            <pubDate>2024-03-11T13:29:04+03:00</pubDate>
+            <title>Hämeenkyrö Travel Guide (Pirkanmaa/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
+            <link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/pirkanmaa/hameenkyro/</link>
+            <description>Explore the natural beauty, rich culture, and local products of Hämeenkyrö with our comprehensive travel guide. Find the best attractions, hiking routes, food, and accommodations for your memorable visit.</description>
+            <pubDate>2024-03-11T13:36:24+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
