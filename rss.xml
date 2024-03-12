@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-12T07:06:31+03:00</pubDate>
-        <lastBuildDate>2024-03-12T07:06:31+03:00</lastBuildDate>
+        <pubDate>2024-03-12T07:56:59+03:00</pubDate>
+        <lastBuildDate>2024-03-12T07:56:59+03:00</lastBuildDate>
 
         <item>
-            <title>Somerville Travel Guide (Somerset County/Skylands/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/somerset-county/somerville/</link>
-            <description>Plan your trip to Somerville with our comprehensive guide, including a list of places to visit, hiking and biking routes, the best things to do, where to stay, and more!</description>
-            <pubDate>2024-03-12T07:06:31+03:00</pubDate>
+            <title>North (Rio de Janeiro) Travel Guide (Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
+            <link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/north-rio-de-janeiro/</link>
+            <description>Discover the best places to visit, things to do, where to stay, and how to get around in North (Rio de Janeiro), Brazil.</description>
+            <pubDate>2024-03-12T07:56:59+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
