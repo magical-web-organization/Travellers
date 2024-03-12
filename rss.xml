@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-12T12:23:20+03:00</pubDate>
-        <lastBuildDate>2024-03-12T12:23:20+03:00</lastBuildDate>
+        <pubDate>2024-03-12T12:50:23+03:00</pubDate>
+        <lastBuildDate>2024-03-12T12:50:23+03:00</lastBuildDate>
 
         <item>
-            <title>Opotiki Travel Guide (Bay of Plenty/North Island/New Zealand/Oceania)</title>
-            <link>https://travellers.wiki/en/oceania/new-zealand/north-island/bay-of-plenty/opotiki/</link>
-            <description>Discover Opotiki, a hidden gem of the Bay of Plenty region in New Zealand. From cultural attractions to natural wonders, our comprehensive guide will help you plan the ultimate trip.</description>
-            <pubDate>2024-03-12T12:23:20+03:00</pubDate>
+            <title>Oimachi Travel Guide (Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/oimachi/</link>
+            <description>Plan your trip to Oimachi with this comprehensive travel guide. Discover the must-visit places, the best activities, food and drink scene, and local culture.</description>
+            <pubDate>2024-03-12T12:50:23+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
