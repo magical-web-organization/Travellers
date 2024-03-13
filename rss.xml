@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-13T17:08:16+03:00</pubDate>
-        <lastBuildDate>2024-03-13T17:08:16+03:00</lastBuildDate>
+        <pubDate>2024-03-13T17:39:09+03:00</pubDate>
+        <lastBuildDate>2024-03-13T17:39:09+03:00</lastBuildDate>
 
         <item>
-            <title>Brajčino Travel Guide (Western North Macedonia/North Macedonia/Balkans/Europe)</title>
-            <link>https://travellers.wiki/en/europe/balkans/north-macedonia/western-north-macedonia/brajcino/</link>
-            <description>Discover Brajčino, a hidden gem in Western North Macedonia, with this comprehensive travel guide. From cultural and natural attractions to hiking and biking routes, this guide includes everything you need to plan your trip.</description>
-            <pubDate>2024-03-13T17:08:16+03:00</pubDate>
+            <title>Vác Travel Guide (Danube Bend/Central Hungary/Hungary/Central Europe/Europe)</title>
+            <link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/danube-bend/vac/</link>
+            <description>Discover the best things to do, places to stay, and local culture in Vác, Hungary. Find information on transportation options and logistics, safety & health, and nearby destinations.</description>
+            <pubDate>2024-03-13T17:39:09+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
