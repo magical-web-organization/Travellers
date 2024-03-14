@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-14T03:40:06+03:00</pubDate>
-        <lastBuildDate>2024-03-14T03:40:06+03:00</lastBuildDate>
+        <pubDate>2024-03-14T04:17:06+03:00</pubDate>
+        <lastBuildDate>2024-03-14T04:17:06+03:00</lastBuildDate>
 
         <item>
-            <title>Mocoa Travel Guide (Amazonia/Colombia/South America)</title>
-            <link>https://travellers.wiki/en/south-america/colombia/amazonia/mocoa/</link>
-            <description>Plan your trip to Mocoa with this comprehensive travel guide, featuring must-visit locations, outdoor adventures, food and drink scene, safety tips, and more.</description>
-            <pubDate>2024-03-14T03:40:06+03:00</pubDate>
+            <title>Juan de Nova Island Travel Guide (Islands of the Indian Ocean/Islands/Other destinations)</title>
+            <link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-indian-ocean/juan-de-nova-island/</link>
+            <description>Plan your trip to Juan de Nova Island with our comprehensive travel guide featuring top places to visit, activities, food, culture, safety tips, and transportation options.</description>
+            <pubDate>2024-03-14T04:17:06+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
