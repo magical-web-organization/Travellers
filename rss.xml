@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-14T18:34:46+03:00</pubDate>
-        <lastBuildDate>2024-03-14T18:34:46+03:00</lastBuildDate>
+        <pubDate>2024-03-14T19:11:00+03:00</pubDate>
+        <lastBuildDate>2024-03-14T19:11:00+03:00</lastBuildDate>
 
         <item>
-            <title>Tabqa Travel Guide (Rojava/Syria/Middle East/Asia)</title>
-            <link>https://travellers.wiki/en/asia/middle-east/syria/rojava/tabqa/</link>
-            <description>Travel to Tabqa, Syria and explore its beautiful cultural and natural attractions. Discover where to stay and what to do with our comprehensive travel guide.</description>
-            <pubDate>2024-03-14T18:34:46+03:00</pubDate>
+            <title>Mkhaya Game Reserve Travel Guide (Eswatini/Southern Africa/Africa)</title>
+            <link>https://travellers.wiki/en/africa/southern-africa/eswatini/mkhaya-game-reserve/</link>
+            <description>A comprehensive travel guide to Mkhaya Game Reserve, featuring natural and cultural attractions, hiking and biking routes, food, accommodation, shopping, local customs, safety, transportation and nearby destinations.</description>
+            <pubDate>2024-03-14T19:11:00+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
