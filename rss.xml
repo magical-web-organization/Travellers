@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-14T15:56:40+03:00</pubDate>
-        <lastBuildDate>2024-03-14T15:56:40+03:00</lastBuildDate>
+        <pubDate>2024-03-14T16:04:27+03:00</pubDate>
+        <lastBuildDate>2024-03-14T16:04:27+03:00</lastBuildDate>
 
         <item>
-            <title>Soria Travel Guide (Castile and Leon/Central Spain/Spain/Iberia/Europe)</title>
-            <link>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/soria/</link>
-            <description>Explore the culturally-rich and scenic city of Soria in Central Spain. Discover top-rated tourist attractions, adventure activities, accommodation, cuisine, local culture, and safety tips.</description>
-            <pubDate>2024-03-14T15:56:40+03:00</pubDate>
+            <title>Chikhaldara Travel Guide (Vidarbha/Maharashtra/Western India/India/South Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/vidarbha/chikhaldara/</link>
+            <description>Explore the history, culture, activities, food, and accommodations of Chikhaldara, Maharashtra - an offbeat gem in Western India.</description>
+            <pubDate>2024-03-14T16:04:27+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
