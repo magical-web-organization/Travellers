@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-15T15:43:01+03:00</pubDate>
-        <lastBuildDate>2024-03-15T15:43:01+03:00</lastBuildDate>
+        <pubDate>2024-03-15T16:15:37+03:00</pubDate>
+        <lastBuildDate>2024-03-15T16:15:37+03:00</lastBuildDate>
 
         <item>
-            <title>Hoi An Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
-            <link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/hoi-an/</link>
-            <description>Discover Hoi An, Vietnam with our comprehensive tour guide. Find out where to stay, what to do, what to eat, and everything else you need to know to plan your visit to beautiful Hoi An.</description>
-            <pubDate>2024-03-15T15:43:01+03:00</pubDate>
+            <title>Saratoga Travel Guide (South Bay/Bay Area/California/United States of America/North America)</title>
+            <link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/south-bay/saratoga/</link>
+            <description>Discover Saratoga, California with this comprehensive travel guide. Learn about the best attractions, things to do, where to stay, and more.</description>
+            <pubDate>2024-03-15T16:15:37+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
