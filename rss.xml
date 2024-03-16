@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-16T04:13:32+03:00</pubDate>
-        <lastBuildDate>2024-03-16T04:13:32+03:00</lastBuildDate>
+        <pubDate>2024-03-16T04:41:23+03:00</pubDate>
+        <lastBuildDate>2024-03-16T04:41:23+03:00</lastBuildDate>
 
         <item>
-            <title>Audubon Travel Guide (Montgomery County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-            <link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/montgomery-county/audubon/</link>
-            <description>Discover the must-visit places, activities, and local culture in Audubon, Pennsylvania with our comprehensive travel guide.</description>
-            <pubDate>2024-03-16T04:13:32+03:00</pubDate>
+            <title>Villers-la-Ville Travel Guide (Walloon Brabant/Wallonia/Belgium/Benelux/Europe)</title>
+            <link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/walloon-brabant/villers-la-ville/</link>
+            <description>Planning a trip to Villers-la-Ville, Belgium? This comprehensive guide covers everything you need to know, from where to stay to what to see and do.</description>
+            <pubDate>2024-03-16T04:41:23+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
