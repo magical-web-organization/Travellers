@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-17T16:33:41+03:00</pubDate>
-        <lastBuildDate>2024-03-17T16:33:41+03:00</lastBuildDate>
+        <pubDate>2024-03-17T17:07:52+03:00</pubDate>
+        <lastBuildDate>2024-03-17T17:07:52+03:00</lastBuildDate>
 
         <item>
-            <title>São Miguel dos Milagres Travel Guide (Alagoas/Northeast/Brazil/South America)</title>
-            <link>https://travellers.wiki/en/south-america/brazil/northeast/alagoas/sao-miguel-dos-milagres/</link>
-            <description>Discover the best places to visit, things to do, where to eat and stay, and more in the charming São Miguel dos Milagres in Alagoas, Brazil.</description>
-            <pubDate>2024-03-17T16:33:41+03:00</pubDate>
+            <title>Hachimantai Travel Guide (Iwate/Tohoku/Japan/East Asia/Asia)</title>
+            <link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/iwate/hachimantai/</link>
+            <description>Discover the hidden natural gems and rich cultural attractions of Hachimantai with our complete travel guide.</description>
+            <pubDate>2024-03-17T17:07:52+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
