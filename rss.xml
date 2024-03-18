@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-18T22:50:21+03:00</pubDate>
-        <lastBuildDate>2024-03-18T22:50:21+03:00</lastBuildDate>
+        <pubDate>2024-03-18T23:23:34+03:00</pubDate>
+        <lastBuildDate>2024-03-18T23:23:34+03:00</lastBuildDate>
 
         <item>
+	<title>West Afghanistan Travel Guide (Afghanistan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/afghanistan/west-afghanistan/</link>
+	<description>Discover the culturally rich and naturally stunning West Afghanistan with our comprehensive travel guide.</description>
+	<pubDate>2024-03-18T23:23:34+03:00</pubDate>
+</item><item>
 	<title>Sully Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/sully/</link>
 	<description>Explore the beauty of Sully in South Wales with our comprehensive travel guide. Discover the top attractions, best things to do, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/songjiang/</link>
 	<description>Discover the best places to visit, eat, stay, and experience in Songjiang, Shanghai. Plan your trip with this comprehensive tour guide.</description>
 	<pubDate>2024-03-18T18:41:30+03:00</pubDate>
-</item><item>
-	<title>Kyyjärvi Travel Guide (Central Finland/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/central-finland/kyyjarvi/</link>
-	<description>Explore the natural beauty and cultural attractions of Kyyjärvi in this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay in this idyllic Finnish Lakeland town.</description>
-	<pubDate>2024-03-18T18:05:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
