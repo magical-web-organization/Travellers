@@ -5,14 +5,14 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-18T03:28:46+03:00</pubDate>
-        <lastBuildDate>2024-03-18T03:28:46+03:00</lastBuildDate>
+        <pubDate>2024-03-18T03:52:23+03:00</pubDate>
+        <lastBuildDate>2024-03-18T03:52:23+03:00</lastBuildDate>
 
         <item>
-            <title>North Vancouver Travel Guide (North Shore/Lower Mainland/British Columbia/Canada/North America)</title>
-            <link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/north-shore/north-vancouver/</link>
-            <description>Explore the best attractions, activities, and natural wonders of North Vancouver. This comprehensive guide covers everything you need to know before visiting North Vancouver, including hiking trails, cultural attractions, local food scene, and transportation options.</description>
-            <pubDate>2024-03-18T03:28:46+03:00</pubDate>
+            <title>Rutland Travel Guide (East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
+            <link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/rutland/</link>
+            <description>This comprehensive Rutland travel guide provides a detailed list of places to visit, hiking and biking routes, where to stay, and what to eat and do, along with cultural insights and safety tips.</description>
+            <pubDate>2024-03-18T03:52:23+03:00</pubDate>
         </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
