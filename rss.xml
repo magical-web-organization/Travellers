@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-18T23:23:34+03:00</pubDate>
-        <lastBuildDate>2024-03-18T23:23:34+03:00</lastBuildDate>
+        <pubDate>2024-03-18T23:35:39+03:00</pubDate>
+        <lastBuildDate>2024-03-18T23:35:39+03:00</lastBuildDate>
 
         <item>
+	<title>Highland Lakes Travel Guide (Western Tasmania/Tasmania/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/tasmania/western-tasmania/highland-lakes/</link>
+	<description>Discover the best things to do, places to visit, hiking/biking routes, food scene, where to stay, and more in Highland Lakes, Tasmania.</description>
+	<pubDate>2024-03-18T23:35:39+03:00</pubDate>
+</item><item>
 	<title>West Afghanistan Travel Guide (Afghanistan/Central Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/central-asia/afghanistan/west-afghanistan/</link>
 	<description>Discover the culturally rich and naturally stunning West Afghanistan with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/west-kootenays/kaslo/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture in Kaslo, British Columbia with our comprehensive travel guide.</description>
 	<pubDate>2024-03-18T19:24:43+03:00</pubDate>
-</item><item>
-	<title>Songjiang Travel Guide (Shanghai/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/songjiang/</link>
-	<description>Discover the best places to visit, eat, stay, and experience in Songjiang, Shanghai. Plan your trip with this comprehensive tour guide.</description>
-	<pubDate>2024-03-18T18:41:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
