@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-18T22:09:11+03:00</pubDate>
-        <lastBuildDate>2024-03-18T22:09:11+03:00</lastBuildDate>
+        <pubDate>2024-03-18T22:50:21+03:00</pubDate>
+        <lastBuildDate>2024-03-18T22:50:21+03:00</lastBuildDate>
 
         <item>
+	<title>Sully Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/sully/</link>
+	<description>Explore the beauty of Sully in South Wales with our comprehensive travel guide. Discover the top attractions, best things to do, where to stay, and much more.</description>
+	<pubDate>2024-03-18T22:50:21+03:00</pubDate>
+</item><item>
 	<title>Sandnes Travel Guide (Rogaland/Western Norway/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/western-norway/rogaland/sandnes/</link>
 	<description>Plan your trip to Sandnes, Norway with our comprehensive travel guide. Explore the best places to visit, hiking and biking routes, food and drink scene, where to stay and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/central-finland/kyyjarvi/</link>
 	<description>Explore the natural beauty and cultural attractions of Kyyjärvi in this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay in this idyllic Finnish Lakeland town.</description>
 	<pubDate>2024-03-18T18:05:52+03:00</pubDate>
-</item><item>
-	<title>Polillo Island Travel Guide (Quezon (province)/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/quezon-province/polillo-island/</link>
-	<description>Discover the beauty of Polillo Island with our comprehensive guide. Learn where to go, what to do, where to stay, and more.</description>
-	<pubDate>2024-03-18T18:02:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
