@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-18T20:52:17+03:00</pubDate>
-        <lastBuildDate>2024-03-18T20:52:17+03:00</lastBuildDate>
+        <pubDate>2024-03-18T21:32:55+03:00</pubDate>
+        <lastBuildDate>2024-03-18T21:32:55+03:00</lastBuildDate>
 
         <item>
+	<title>Rangitoto Island Travel Guide (Auckland Region/North Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/auckland-region/rangitoto-island/</link>
+	<description>Plan your trip to Rangitoto Island, New Zealand with this comprehensive travel guide featuring top attractions, hiking routes, accommodations, local culture and customs, safety tips, transportation options, and more.</description>
+	<pubDate>2024-03-18T21:32:55+03:00</pubDate>
+</item><item>
 	<title>Clinton Travel Guide (Central Missouri/Missouri/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/central-missouri/clinton/</link>
 	<description>Discover the top attractions, food & drink scene, hiking & biking routes, where to stay, and more in Clinton, Missouri.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/merrimack-valley/tyngsborough/</link>
 	<description>Plan your trip to Tyngsborough with our in-depth guide. Discover the top things to do, places to visit, where to stay, and local culture and customs.</description>
 	<pubDate>2024-03-18T17:00:49+03:00</pubDate>
-</item><item>
-	<title>Harrisburg Travel Guide (Harrisburg area/Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/harrisburg-area/harrisburg/</link>
-	<description>Plan your trip to Harrisburg with our informative guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-03-18T16:31:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
