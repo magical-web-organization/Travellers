@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T00:48:32+03:00</pubDate>
-        <lastBuildDate>2024-03-19T00:48:32+03:00</lastBuildDate>
+        <pubDate>2024-03-19T01:21:40+03:00</pubDate>
+        <lastBuildDate>2024-03-19T01:21:40+03:00</lastBuildDate>
 
         <item>
+	<title>Silsila Travel Guide (Upper Egypt/Egypt/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/egypt/upper-egypt/silsila/</link>
+	<description>Discover the rich history, natural beauty, and unique culture of Silsila with this comprehensive travel guide. Explore must-visit attractions, hiking routes, best activities to do, local food and drinks, and much more.</description>
+	<pubDate>2024-03-19T01:21:40+03:00</pubDate>
+</item><item>
 	<title>Franklin Travel Guide (Huon and Far South/Southern Tasmania/Tasmania/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/huon-and-far-south/franklin/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Franklin, Tasmania. Learn about the local culture, cuisine, safety, and transportation options for your next adventure.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/central-missouri/clinton/</link>
 	<description>Discover the top attractions, food & drink scene, hiking & biking routes, where to stay, and more in Clinton, Missouri.</description>
 	<pubDate>2024-03-18T20:52:17+03:00</pubDate>
-</item><item>
-	<title>Yuli Travel Guide (Hualien County/Eastern Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/eastern-taiwan/hualien-county/yuli/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Yuli, Eastern Taiwan. Plan your trip with this comprehensive tour guide.</description>
-	<pubDate>2024-03-18T20:16:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
