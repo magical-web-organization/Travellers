@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T20:32:05+03:00</pubDate>
-        <lastBuildDate>2024-03-19T20:32:05+03:00</lastBuildDate>
+        <pubDate>2024-03-19T20:44:33+03:00</pubDate>
+        <lastBuildDate>2024-03-19T20:44:33+03:00</lastBuildDate>
 
         <item>
+	<title>Monkey Bay Travel Guide (Southern Malawi/Malawi/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/malawi/southern-malawi/monkey-bay/</link>
+	<description>Discover the best places to visit, eat, stay, and more with this comprehensive guide to Monkey Bay in Malawi.</description>
+	<pubDate>2024-03-19T20:44:33+03:00</pubDate>
+</item><item>
 	<title>Rot an der Rot Travel Guide (Bodensee Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/bodensee-region/rot-an-der-rot/</link>
 	<description>Discover the hidden gem of Rot an der Rot with our comprehensive travel guide, featuring top attractions, activities, food and drink, where to stay, safety tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/south-suburbs/midlothian/</link>
 	<description>Read this comprehensive travel guide for Midlothian, a suburb in Chicagoland, Illinois, to discover the best things to do, see, eat, and stay in this beautiful town.</description>
 	<pubDate>2024-03-19T16:16:30+03:00</pubDate>
-</item><item>
-	<title>Kaliningrad Travel Guide (Kaliningrad Oblast/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/kaliningrad-oblast/kaliningrad/</link>
-	<description>Plan your trip to Kaliningrad with this comprehensive travel guide. Discover the best things to do, places to visit, where to stay, where to eat, and more.</description>
-	<pubDate>2024-03-19T15:36:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
