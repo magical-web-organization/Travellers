@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T16:16:30+03:00</pubDate>
-        <lastBuildDate>2024-03-19T16:16:30+03:00</lastBuildDate>
+        <pubDate>2024-03-19T16:42:30+03:00</pubDate>
+        <lastBuildDate>2024-03-19T16:42:30+03:00</lastBuildDate>
 
         <item>
+	<title>Kinchega National Park Travel Guide (Far West/Outback New South Wales/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/far-west/kinchega-national-park/</link>
+	<description>Discover the natural and cultural beauty of Kinchega National Park through our comprehensive travel guide filled with useful information on what you can see, do, and experience during your visit.</description>
+	<pubDate>2024-03-19T16:42:30+03:00</pubDate>
+</item><item>
 	<title>Midlothian Travel Guide (South Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/south-suburbs/midlothian/</link>
 	<description>Read this comprehensive travel guide for Midlothian, a suburb in Chicagoland, Illinois, to discover the best things to do, see, eat, and stay in this beautiful town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/southern-pacific-coast/isla-de-ometepe/</link>
 	<description>Discover the best places to visit and things to do in Isla de Ometepe, Nicaragua, with this travel guide. Learn about the island's culture, food, accommodations, and transportation options.</description>
 	<pubDate>2024-03-19T12:07:08+03:00</pubDate>
-</item><item>
-	<title>Karelia Travel Guide (Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/karelia/</link>
-	<description>Karelia, located in Northwestern Russia, is a beautiful region filled with incredible natural beauty and rich cultural history. This comprehensive travel guide highlights the best things to do, see, and experience in Karelia.</description>
-	<pubDate>2024-03-19T11:51:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
