@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T08:54:00+03:00</pubDate>
-        <lastBuildDate>2024-03-19T08:54:00+03:00</lastBuildDate>
+        <pubDate>2024-03-19T09:31:16+03:00</pubDate>
+        <lastBuildDate>2024-03-19T09:31:16+03:00</lastBuildDate>
 
         <item>
+	<title>Kuressaare Travel Guide (West Estonia and Islands/Estonia/Baltic states/Europe)</title>
+	<link>https://travellers.wiki/en/europe/baltic-states/estonia/west-estonia-and-islands/kuressaare/</link>
+	<description>Plan your visit to Kuressaare with this comprehensive travel guide, including the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-03-19T09:31:16+03:00</pubDate>
+</item><item>
 	<title>Fox River Valley Travel Guide (Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/fox-river-valley/</link>
 	<description>Discover the best places to visit, eat, and stay in Fox River Valley, Illinois. This comprehensive travel guide covers everything from cultural attractions to outdoor adventures and local culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/sumas/</link>
 	<description>Explore the charming small town of Sumas in North Cascades region, its picturesque views, natural attractions, and cultural landmarks. Get a complete travel guide to Sumas with all the essential tips and information.</description>
 	<pubDate>2024-03-19T04:52:34+03:00</pubDate>
-</item><item>
-	<title>Yangoupokpi-Lokchao Wildlife Sanctuary Travel Guide (Manipur/North-Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/manipur/yangoupokpi-lokchao-wildlife-sanctuary/</link>
-	<description>Discover the culture, nature, and adventure the Yangoupokpi-Lokchao Wildlife Sanctuary has to offer in this comprehensive travel guide.</description>
-	<pubDate>2024-03-19T04:03:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
