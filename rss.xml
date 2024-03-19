@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T05:24:56+03:00</pubDate>
-        <lastBuildDate>2024-03-19T05:24:56+03:00</lastBuildDate>
+        <pubDate>2024-03-19T05:42:29+03:00</pubDate>
+        <lastBuildDate>2024-03-19T05:42:29+03:00</lastBuildDate>
 
         <item>
+	<title>Garden City Travel Guide (Western Kansas/Kansas/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/western-kansas/garden-city/</link>
+	<description>Discover the best things to do, places to visit, food and drink scenes, where to stay and more in Garden City, Kansas. Read our comprehensive guide to plan your trip!</description>
+	<pubDate>2024-03-19T05:42:29+03:00</pubDate>
+</item><item>
 	<title>Edirne Travel Guide (Eastern Thrace/Marmara (region)/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-thrace/edirne/</link>
 	<description>Edirne, a city located in Eastern Thrace region of Turkey, offers picturesque natural attractions, historical landmarks, delicious local cuisine, and rich traditions. Read our complete travel guide for Edirne.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/upper-egypt/silsila/</link>
 	<description>Discover the rich history, natural beauty, and unique culture of Silsila with this comprehensive travel guide. Explore must-visit attractions, hiking routes, best activities to do, local food and drinks, and much more.</description>
 	<pubDate>2024-03-19T01:21:40+03:00</pubDate>
-</item><item>
-	<title>Franklin Travel Guide (Huon and Far South/Southern Tasmania/Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/huon-and-far-south/franklin/</link>
-	<description>Discover the best things to do, places to visit, and where to stay in Franklin, Tasmania. Learn about the local culture, cuisine, safety, and transportation options for your next adventure.</description>
-	<pubDate>2024-03-19T00:48:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
