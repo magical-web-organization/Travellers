@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T05:42:29+03:00</pubDate>
-        <lastBuildDate>2024-03-19T05:42:29+03:00</lastBuildDate>
+        <pubDate>2024-03-19T06:14:30+03:00</pubDate>
+        <lastBuildDate>2024-03-19T06:14:30+03:00</lastBuildDate>
 
         <item>
+	<title>Ilgaz National Park Travel Guide (Western Karadeniz/Black Sea Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/black-sea-turkey/western-karadeniz/ilgaz-national-park/</link>
+	<description>Discover the must-visit places, outdoor activities, best time to visit, local culture, and more that await you in Ilgaz National Park in Turkey. Plan your next trip with our comprehensive travel guide.</description>
+	<pubDate>2024-03-19T06:14:30+03:00</pubDate>
+</item><item>
 	<title>Garden City Travel Guide (Western Kansas/Kansas/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/western-kansas/garden-city/</link>
 	<description>Discover the best things to do, places to visit, food and drink scenes, where to stay and more in Garden City, Kansas. Read our comprehensive guide to plan your trip!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/varmland/karlstad/</link>
 	<description>Plan your trip to Karlstad with this thorough travel guide featuring top attractions, accommodations, and local customs.</description>
 	<pubDate>2024-03-19T01:42:26+03:00</pubDate>
-</item><item>
-	<title>Silsila Travel Guide (Upper Egypt/Egypt/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/egypt/upper-egypt/silsila/</link>
-	<description>Discover the rich history, natural beauty, and unique culture of Silsila with this comprehensive travel guide. Explore must-visit attractions, hiking routes, best activities to do, local food and drinks, and much more.</description>
-	<pubDate>2024-03-19T01:21:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
