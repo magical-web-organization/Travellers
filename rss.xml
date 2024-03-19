@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T13:43:06+03:00</pubDate>
-        <lastBuildDate>2024-03-19T13:43:06+03:00</lastBuildDate>
+        <pubDate>2024-03-19T14:07:48+03:00</pubDate>
+        <lastBuildDate>2024-03-19T14:07:48+03:00</lastBuildDate>
 
         <item>
+	<title>Christianshavn Travel Guide (Copenhagen/Zealand/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/copenhagen/christianshavn/</link>
+	<description>Discover the best things to do in Christianshavn, including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety and health, transportation options, nearby destinations, and much more.</description>
+	<pubDate>2024-03-19T14:07:48+03:00</pubDate>
+</item><item>
 	<title>Sikasso (region) Travel Guide (Mali/Sahel/Africa)</title>
 	<link>https://travellers.wiki/en/africa/sahel/mali/sikasso-region/</link>
 	<description>Plan your trip to Sikasso (region) in Mali, Africa with our comprehensive travel guide. Discover must-visit places, hiking/biking routes, food, accommodations, culture, safety, health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-columbus/sunbury/</link>
 	<description>Explore Sunbury, Ohio with our comprehensive travel guide. From natural attractions to cultural landmarks, hiking trails to food and drink scene, hotels to local customs, discover everything you need to know for an unforgettable trip.</description>
 	<pubDate>2024-03-19T09:46:35+03:00</pubDate>
-</item><item>
-	<title>Kuressaare Travel Guide (West Estonia and Islands/Estonia/Baltic states/Europe)</title>
-	<link>https://travellers.wiki/en/europe/baltic-states/estonia/west-estonia-and-islands/kuressaare/</link>
-	<description>Plan your visit to Kuressaare with this comprehensive travel guide, including the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-03-19T09:31:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
