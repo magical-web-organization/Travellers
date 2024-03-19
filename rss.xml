@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T10:09:58+03:00</pubDate>
-        <lastBuildDate>2024-03-19T10:09:58+03:00</lastBuildDate>
+        <pubDate>2024-03-19T10:39:48+03:00</pubDate>
+        <lastBuildDate>2024-03-19T10:39:48+03:00</lastBuildDate>
 
         <item>
+	<title>Kanchanaburi Travel Guide (West of Bangkok/Central Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/west-of-bangkok/kanchanaburi/</link>
+	<description>Discover the best attractions, activities, food, and accommodations in Kanchanaburi with our comprehensive travel guide. Plan your trip now!</description>
+	<pubDate>2024-03-19T10:39:48+03:00</pubDate>
+</item><item>
 	<title>Turtle Mountains Travel Guide (North Dakota/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/turtle-mountains/</link>
 	<description>Explore the culturally rich and scenic Turtle Mountains with this comprehensive travel guide featuring top attractions, food, lodging, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/black-sea-turkey/western-karadeniz/ilgaz-national-park/</link>
 	<description>Discover the must-visit places, outdoor activities, best time to visit, local culture, and more that await you in Ilgaz National Park in Turkey. Plan your next trip with our comprehensive travel guide.</description>
 	<pubDate>2024-03-19T06:14:30+03:00</pubDate>
-</item><item>
-	<title>Garden City Travel Guide (Western Kansas/Kansas/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/western-kansas/garden-city/</link>
-	<description>Discover the best things to do, places to visit, food and drink scenes, where to stay and more in Garden City, Kansas. Read our comprehensive guide to plan your trip!</description>
-	<pubDate>2024-03-19T05:42:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
