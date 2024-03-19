@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T06:14:30+03:00</pubDate>
-        <lastBuildDate>2024-03-19T06:14:30+03:00</lastBuildDate>
+        <pubDate>2024-03-19T06:42:52+03:00</pubDate>
+        <lastBuildDate>2024-03-19T06:42:52+03:00</lastBuildDate>
 
         <item>
+	<title>Sierra de San Pedro Martir National Park Travel Guide (Baja California/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/baja-california/sierra-de-san-pedro-martir-national-park/</link>
+	<description>Explore the natural and cultural attractions of Sierra de San Pedro Martir National Park with this comprehensive tour guide.</description>
+	<pubDate>2024-03-19T06:42:52+03:00</pubDate>
+</item><item>
 	<title>Ilgaz National Park Travel Guide (Western Karadeniz/Black Sea Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/black-sea-turkey/western-karadeniz/ilgaz-national-park/</link>
 	<description>Discover the must-visit places, outdoor activities, best time to visit, local culture, and more that await you in Ilgaz National Park in Turkey. Plan your next trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/mpumalanga/badplaas/</link>
 	<description>Discover the hidden gems of Badplaas in Mpumalanga, South Africa. From cultural attractions to outdoor adventures, this guide covers everything you need to know to plan your perfect trip.</description>
 	<pubDate>2024-03-19T02:03:50+03:00</pubDate>
-</item><item>
-	<title>Karlstad Travel Guide (Värmland/Svealand/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/varmland/karlstad/</link>
-	<description>Plan your trip to Karlstad with this thorough travel guide featuring top attractions, accommodations, and local customs.</description>
-	<pubDate>2024-03-19T01:42:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
