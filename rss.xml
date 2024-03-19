@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T09:31:16+03:00</pubDate>
-        <lastBuildDate>2024-03-19T09:31:16+03:00</lastBuildDate>
+        <pubDate>2024-03-19T09:46:35+03:00</pubDate>
+        <lastBuildDate>2024-03-19T09:46:35+03:00</lastBuildDate>
 
         <item>
+	<title>Sunbury Travel Guide (Greater Columbus/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-columbus/sunbury/</link>
+	<description>Explore Sunbury, Ohio with our comprehensive travel guide. From natural attractions to cultural landmarks, hiking trails to food and drink scene, hotels to local customs, discover everything you need to know for an unforgettable trip.</description>
+	<pubDate>2024-03-19T09:46:35+03:00</pubDate>
+</item><item>
 	<title>Kuressaare Travel Guide (West Estonia and Islands/Estonia/Baltic states/Europe)</title>
 	<link>https://travellers.wiki/en/europe/baltic-states/estonia/west-estonia-and-islands/kuressaare/</link>
 	<description>Plan your visit to Kuressaare with this comprehensive travel guide, including the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-thrace/edirne/</link>
 	<description>Edirne, a city located in Eastern Thrace region of Turkey, offers picturesque natural attractions, historical landmarks, delicious local cuisine, and rich traditions. Read our complete travel guide for Edirne.</description>
 	<pubDate>2024-03-19T05:24:56+03:00</pubDate>
-</item><item>
-	<title>Sumas Travel Guide (North Cascades/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/sumas/</link>
-	<description>Explore the charming small town of Sumas in North Cascades region, its picturesque views, natural attractions, and cultural landmarks. Get a complete travel guide to Sumas with all the essential tips and information.</description>
-	<pubDate>2024-03-19T04:52:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
