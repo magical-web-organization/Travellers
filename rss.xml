@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T15:09:26+03:00</pubDate>
-        <lastBuildDate>2024-03-19T15:09:26+03:00</lastBuildDate>
+        <pubDate>2024-03-19T15:36:48+03:00</pubDate>
+        <lastBuildDate>2024-03-19T15:36:48+03:00</lastBuildDate>
 
         <item>
+	<title>Kaliningrad Travel Guide (Kaliningrad Oblast/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/kaliningrad-oblast/kaliningrad/</link>
+	<description>Plan your trip to Kaliningrad with this comprehensive travel guide. Discover the best things to do, places to visit, where to stay, where to eat, and more.</description>
+	<pubDate>2024-03-19T15:36:48+03:00</pubDate>
+</item><item>
 	<title>Ogallala Travel Guide (South Central Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/south-central-nebraska/ogallala/</link>
 	<description>Explore the best that Ogallala, Nebraska has to offer with this comprehensive travel guide. Learn about the top attractions, outdoor adventures, delicious food, accommodations, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/merseyside/heswall/</link>
 	<description>Discover things to see and do in Heswall, a charming town in Merseyside, North West England, along with tips on where to stay, what to eat, how to get around, and more.</description>
 	<pubDate>2024-03-19T11:31:01+03:00</pubDate>
-</item><item>
-	<title>Kanchanaburi Travel Guide (West of Bangkok/Central Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/west-of-bangkok/kanchanaburi/</link>
-	<description>Discover the best attractions, activities, food, and accommodations in Kanchanaburi with our comprehensive travel guide. Plan your trip now!</description>
-	<pubDate>2024-03-19T10:39:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
