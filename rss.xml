@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T09:46:35+03:00</pubDate>
-        <lastBuildDate>2024-03-19T09:46:35+03:00</lastBuildDate>
+        <pubDate>2024-03-19T10:09:58+03:00</pubDate>
+        <lastBuildDate>2024-03-19T10:09:58+03:00</lastBuildDate>
 
         <item>
+	<title>Turtle Mountains Travel Guide (North Dakota/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/turtle-mountains/</link>
+	<description>Explore the culturally rich and scenic Turtle Mountains with this comprehensive travel guide featuring top attractions, food, lodging, safety tips, and more.</description>
+	<pubDate>2024-03-19T10:09:58+03:00</pubDate>
+</item><item>
 	<title>Sunbury Travel Guide (Greater Columbus/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-columbus/sunbury/</link>
 	<description>Explore Sunbury, Ohio with our comprehensive travel guide. From natural attractions to cultural landmarks, hiking trails to food and drink scene, hotels to local customs, discover everything you need to know for an unforgettable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/western-kansas/garden-city/</link>
 	<description>Discover the best things to do, places to visit, food and drink scenes, where to stay and more in Garden City, Kansas. Read our comprehensive guide to plan your trip!</description>
 	<pubDate>2024-03-19T05:42:29+03:00</pubDate>
-</item><item>
-	<title>Edirne Travel Guide (Eastern Thrace/Marmara (region)/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-thrace/edirne/</link>
-	<description>Edirne, a city located in Eastern Thrace region of Turkey, offers picturesque natural attractions, historical landmarks, delicious local cuisine, and rich traditions. Read our complete travel guide for Edirne.</description>
-	<pubDate>2024-03-19T05:24:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
