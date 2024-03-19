@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T02:56:00+03:00</pubDate>
-        <lastBuildDate>2024-03-19T02:56:00+03:00</lastBuildDate>
+        <pubDate>2024-03-19T03:04:23+03:00</pubDate>
+        <lastBuildDate>2024-03-19T03:04:23+03:00</lastBuildDate>
 
         <item>
+	<title>Sing Buri Travel Guide (Chao Phraya Basin/Central Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/chao-phraya-basin/sing-buri/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and more in Sing Buri, Thailand. Read our thorough travel guide and plan the perfect trip to Sing Buri.</description>
+	<pubDate>2024-03-19T03:04:23+03:00</pubDate>
+</item><item>
 	<title>Tomah Travel Guide (Coulee Region/Southwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/coulee-region/tomah/</link>
 	<description>Tomah, located in Coulee Region in Southwest Wisconsin has many attractions. Read on to learn about the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/sully/</link>
 	<description>Explore the beauty of Sully in South Wales with our comprehensive travel guide. Discover the top attractions, best things to do, where to stay, and much more.</description>
 	<pubDate>2024-03-18T22:50:21+03:00</pubDate>
-</item><item>
-	<title>Sandnes Travel Guide (Rogaland/Western Norway/Norway/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/norway/western-norway/rogaland/sandnes/</link>
-	<description>Plan your trip to Sandnes, Norway with our comprehensive travel guide. Explore the best places to visit, hiking and biking routes, food and drink scene, where to stay and more.</description>
-	<pubDate>2024-03-18T22:09:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
