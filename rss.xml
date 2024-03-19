@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-19T22:19:23+03:00</pubDate>
-        <lastBuildDate>2024-03-19T22:19:23+03:00</lastBuildDate>
+        <pubDate>2024-03-19T22:43:04+03:00</pubDate>
+        <lastBuildDate>2024-03-19T22:43:04+03:00</lastBuildDate>
 
         <item>
+	<title>Bushnell's Basin Travel Guide (Rochester and Suburbs/Finger Lakes/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/rochester-and-suburbs/bushnell-s-basin/</link>
+	<description>Discover the best things to do, see, and eat in Bushnell's Basin, New York, with this comprehensive travel guide. Find out about top attractions, hiking and biking routes, food and drink scene, where to stay, safety and health, and more.</description>
+	<pubDate>2024-03-19T22:43:04+03:00</pubDate>
+</item><item>
 	<title>South Travel Guide (Santa Catarina/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/santa-catarina/south/</link>
 	<description>Get ready to explore the breathtaking beauty and rich culture of South in Santa Catarina. Discover the best places to visit, hike/bike trails, things to do, food and drink scene, where to stay, what to buy, local culture, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/narke/</link>
 	<description>Plan your trip to Närke, Sweden with this comprehensive travel guide featuring top attractions, activities, and logistics.</description>
 	<pubDate>2024-03-19T18:24:16+03:00</pubDate>
-</item><item>
-	<title>Siuntio Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/siuntio/</link>
-	<description>Check out our guide to Siuntio and explore the best places to visit, eat, stay and things to do, etc., including travel tips and safety guidelines.</description>
-	<pubDate>2024-03-19T17:37:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
