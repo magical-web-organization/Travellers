@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T03:55:55+03:00</pubDate>
-        <lastBuildDate>2024-03-20T03:55:55+03:00</lastBuildDate>
+        <pubDate>2024-03-20T04:15:54+03:00</pubDate>
+        <lastBuildDate>2024-03-20T04:15:54+03:00</lastBuildDate>
 
         <item>
+	<title>Blumenau Travel Guide (Itajaí Valley/Santa Catarina/South/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/south/santa-catarina/itajai-valley/blumenau/</link>
+	<description>Get to know all the best places to visit, hidden gems, and local customs in Blumenau. Find out how to get there, where to stay, and what to eat.</description>
+	<pubDate>2024-03-20T04:15:54+03:00</pubDate>
+</item><item>
 	<title>Tyumen Oblast Travel Guide (Urals/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/tyumen-oblast/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Tyumen Oblast, including important tips and travel information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/connecticut-river-valley/east-windsor/</link>
 	<description>Discover the top attractions, activities, food and drink, accommodations, local culture, safety and health, and transportation options for East Windsor, Connecticut.</description>
 	<pubDate>2024-03-19T23:58:32+03:00</pubDate>
-</item><item>
-	<title>Obubra Travel Guide (Cross River State/South South Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/cross-river-state/obubra/</link>
-	<description>Read this comprehensive travel guide to Obubra, Cross River State, Nigeria. Discover the best places to visit, things to do, food and drink scene, where to stay, how to get around and much more.</description>
-	<pubDate>2024-03-19T23:15:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
