@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T18:06:24+03:00</pubDate>
-        <lastBuildDate>2024-03-20T18:06:24+03:00</lastBuildDate>
+        <pubDate>2024-03-20T18:55:50+03:00</pubDate>
+        <lastBuildDate>2024-03-20T18:55:50+03:00</lastBuildDate>
 
         <item>
+	<title>Maidan Travel Guide (Kolkata/West Bengal/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/kolkata/maidan/</link>
+	<description>Maidan is the heart of Kolkata, located in West Bengal, Eastern India. This travel guide will provide a comprehensive tour of Maidan, including places to visit, hiking/biking routes, activities, food, accommodation, transport, and neighboring destinations.</description>
+	<pubDate>2024-03-20T18:55:50+03:00</pubDate>
+</item><item>
 	<title>Baffin Island Travel Guide (Nunavut/Northern Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/northern-canada/nunavut/baffin-island/</link>
 	<description>Discover the natural beauty, culture, and unique experiences of Baffin Island with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/central-ukraine/kyiv/</link>
 	<description>Get all the information you need for your visit to Kyiv, Ukraine, including where to go, what to see, where to stay, and more!</description>
 	<pubDate>2024-03-20T14:29:27+03:00</pubDate>
-</item><item>
-	<title>Murchison Travel Guide (Nelson Bays/South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/nelson-bays/murchison/</link>
-	<description>Plan your Murchison trip with our comprehensive travel guide. Discover the top things to do, places to visit, where to stay, and more.</description>
-	<pubDate>2024-03-20T13:50:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
