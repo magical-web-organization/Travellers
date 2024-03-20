@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T07:01:46+03:00</pubDate>
-        <lastBuildDate>2024-03-20T07:01:46+03:00</lastBuildDate>
+        <pubDate>2024-03-20T07:26:08+03:00</pubDate>
+        <lastBuildDate>2024-03-20T07:26:08+03:00</lastBuildDate>
 
         <item>
+	<title>Indianapolis Travel Guide (Nine-County Region/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/nine-county-region/indianapolis/</link>
+	<description>Discover the best places to visit, things to do, and how to get around in Indianapolis. Explore local culture, food and drink scene, and nearby destinations with this comprehensive travel guide.</description>
+	<pubDate>2024-03-20T07:26:08+03:00</pubDate>
+</item><item>
 	<title>Roßdorf Travel Guide (South Hesse/Hesse/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/south-hesse/rossdorf/</link>
 	<description>Explore the best of Roßdorf with our travel guide. Discover the top attractions, hiking and biking routes, food and drink scene, where to stay, and more in this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/central-bohemia/prague-east-district/</link>
 	<description>Discover the best places to visit, hike/bike routes, food scene, where to stay, and more in this comprehensive tour guide to Prague-East District in Czech Republic.</description>
 	<pubDate>2024-03-20T02:55:08+03:00</pubDate>
-</item><item>
-	<title>Piteå Travel Guide (Norrbotten County/Norrland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/norrbotten-county/pitea/</link>
-	<description>Discover the beauty of Piteå, Sweden with this comprehensive travel guide featuring top attractions, cultural and natural landmarks, hiking and bike routes, food and drink scene, and more.</description>
-	<pubDate>2024-03-20T02:27:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
