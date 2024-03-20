@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T16:58:06+03:00</pubDate>
-        <lastBuildDate>2024-03-20T16:58:06+03:00</lastBuildDate>
+        <pubDate>2024-03-20T17:17:22+03:00</pubDate>
+        <lastBuildDate>2024-03-20T17:17:22+03:00</lastBuildDate>
 
         <item>
+	<title>Lexington Travel Guide (Northwest Missouri/Missouri/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/northwest-missouri/lexington/</link>
+	<description>Plan your trip to Lexington, Missouri with this helpful travel guide. Discover the top attractions, things to do, where to stay, and more.</description>
+	<pubDate>2024-03-20T17:17:22+03:00</pubDate>
+</item><item>
 	<title>Centerville Travel Guide (Mid Cape/Cape Cod/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/mid-cape/centerville/</link>
 	<description>Our Centerville travel guide offers helpful and informative information on the town's attractions, activities, places to stay, and much more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/agder/kristiansand/</link>
 	<description>Plan your perfect trip to Kristiansand with our comprehensive travel guide featuring top-rated tourist attractions, activities, accommodations, local foods, culture and customs, and more.</description>
 	<pubDate>2024-03-20T13:03:24+03:00</pubDate>
-</item><item>
-	<title>Saint-Basile-le-Grand Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/saint-basile-le-grand/</link>
-	<description>Explore the culturally and naturally significant attractions, food and drink scene, places to stay, transportation options, and more in Saint-Basile-le-Grand with our ultimate travel guide.</description>
-	<pubDate>2024-03-20T12:29:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
