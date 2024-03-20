@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T13:50:43+03:00</pubDate>
-        <lastBuildDate>2024-03-20T13:50:43+03:00</lastBuildDate>
+        <pubDate>2024-03-20T14:29:27+03:00</pubDate>
+        <lastBuildDate>2024-03-20T14:29:27+03:00</lastBuildDate>
 
         <item>
+	<title>Kyiv Travel Guide (Central Ukraine/Ukraine/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/central-ukraine/kyiv/</link>
+	<description>Get all the information you need for your visit to Kyiv, Ukraine, including where to go, what to see, where to stay, and more!</description>
+	<pubDate>2024-03-20T14:29:27+03:00</pubDate>
+</item><item>
 	<title>Murchison Travel Guide (Nelson Bays/South Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/nelson-bays/murchison/</link>
 	<description>Plan your Murchison trip with our comprehensive travel guide. Discover the top things to do, places to visit, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/colombia/andino/antioquia/medellin/</link>
 	<description>Discover the best places to visit, where to stay, what to eat, and things to do in Medellín, Colombia with this comprehensive travel guide. Learn about the local culture, customs, safety, and health tips.</description>
 	<pubDate>2024-03-20T09:42:47+03:00</pubDate>
-</item><item>
-	<title>Mijas Travel Guide (Costa del Sol/Andalusia/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/costa-del-sol/mijas/</link>
-	<description>Explore the scenic beauty, rich cultural heritage, and vibrant food scene of Mijas, along with local customs, do's and don'ts, and logistics for transportation and lodging.</description>
-	<pubDate>2024-03-20T09:07:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
