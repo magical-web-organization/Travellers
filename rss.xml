@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T09:07:47+03:00</pubDate>
-        <lastBuildDate>2024-03-20T09:07:47+03:00</lastBuildDate>
+        <pubDate>2024-03-20T09:42:47+03:00</pubDate>
+        <lastBuildDate>2024-03-20T09:42:47+03:00</lastBuildDate>
 
         <item>
+	<title>Medellín Travel Guide (Antioquia/Andino/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/andino/antioquia/medellin/</link>
+	<description>Discover the best places to visit, where to stay, what to eat, and things to do in Medellín, Colombia with this comprehensive travel guide. Learn about the local culture, customs, safety, and health tips.</description>
+	<pubDate>2024-03-20T09:42:47+03:00</pubDate>
+</item><item>
 	<title>Mijas Travel Guide (Costa del Sol/Andalusia/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/costa-del-sol/mijas/</link>
 	<description>Explore the scenic beauty, rich cultural heritage, and vibrant food scene of Mijas, along with local customs, do's and don'ts, and logistics for transportation and lodging.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/piney-woods/central-piney-woods/longview/</link>
 	<description>Discover the best places to visit, eat, stay, and explore in Longview, Texas with this comprehensive travel guide.</description>
 	<pubDate>2024-03-20T05:03:55+03:00</pubDate>
-</item><item>
-	<title>Eastern Travel Guide (Honolulu/Oahu/Hawaii/Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/oahu/honolulu/eastern/</link>
-	<description>Planning a trip to Eastern Hawaii? This guide covers the best attractions, activities, accommodations, and more for a memorable vacation.</description>
-	<pubDate>2024-03-20T04:45:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
