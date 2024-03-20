@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T12:29:37+03:00</pubDate>
-        <lastBuildDate>2024-03-20T12:29:37+03:00</lastBuildDate>
+        <pubDate>2024-03-20T13:03:24+03:00</pubDate>
+        <lastBuildDate>2024-03-20T13:03:24+03:00</lastBuildDate>
 
         <item>
+	<title>Kristiansand Travel Guide (Agder/Norway/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/norway/agder/kristiansand/</link>
+	<description>Plan your perfect trip to Kristiansand with our comprehensive travel guide featuring top-rated tourist attractions, activities, accommodations, local foods, culture and customs, and more.</description>
+	<pubDate>2024-03-20T13:03:24+03:00</pubDate>
+</item><item>
 	<title>Saint-Basile-le-Grand Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/saint-basile-le-grand/</link>
 	<description>Explore the culturally and naturally significant attractions, food and drink scene, places to stay, transportation options, and more in Saint-Basile-le-Grand with our ultimate travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/santo-antonio-do-pinhal/</link>
 	<description>A comprehensive tour guide for Santo Antônio do Pinhal, including a list of places to visit, best times to go, safety and health concerns, and much more.</description>
 	<pubDate>2024-03-20T08:08:59+03:00</pubDate>
-</item><item>
-	<title>Soltau Travel Guide (Lüneburg Heath/Lower Saxony/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/luneburg-heath/soltau/</link>
-	<description>Explore the cultural and natural attractions of Soltau, discover hiking and biking routes, learn about local food and customs, find the best places to stay and things to buy, and plan your itinerary with our week-long guide.</description>
-	<pubDate>2024-03-20T07:42:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
