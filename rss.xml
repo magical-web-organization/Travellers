@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T06:15:40+03:00</pubDate>
-        <lastBuildDate>2024-03-20T06:15:40+03:00</lastBuildDate>
+        <pubDate>2024-03-20T07:01:46+03:00</pubDate>
+        <lastBuildDate>2024-03-20T07:01:46+03:00</lastBuildDate>
 
         <item>
+	<title>Roßdorf Travel Guide (South Hesse/Hesse/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/south-hesse/rossdorf/</link>
+	<description>Explore the best of Roßdorf with our travel guide. Discover the top attractions, hiking and biking routes, food and drink scene, where to stay, and more in this comprehensive guide.</description>
+	<pubDate>2024-03-20T07:01:46+03:00</pubDate>
+</item><item>
 	<title>Tepic Travel Guide (Nayarit/Pacific Coast/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/nayarit/tepic/</link>
 	<description>Discover Tepic, Mexico's hidden gem with this complete guide. From natural wonders to cultural landmarks, find out what to do, see, and eat in this vibrant city.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/norrbotten-county/pitea/</link>
 	<description>Discover the beauty of Piteå, Sweden with this comprehensive travel guide featuring top attractions, cultural and natural landmarks, hiking and bike routes, food and drink scene, and more.</description>
 	<pubDate>2024-03-20T02:27:01+03:00</pubDate>
-</item><item>
-	<title>Šiauliai Travel Guide (Samogitia/Lithuania/Baltic states/Europe)</title>
-	<link>https://travellers.wiki/en/europe/baltic-states/lithuania/samogitia/siauliai/</link>
-	<description>Explore the best of Šiauliai, Lithuania with our comprehensive travel guide. Find the top attractions, the best things to do, where to stay, and more.</description>
-	<pubDate>2024-03-20T02:01:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
