@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T19:48:38+03:00</pubDate>
-        <lastBuildDate>2024-03-20T19:48:38+03:00</lastBuildDate>
+        <pubDate>2024-03-20T20:20:49+03:00</pubDate>
+        <lastBuildDate>2024-03-20T20:20:49+03:00</lastBuildDate>
 
         <item>
+	<title>Tingha Travel Guide (Western New England/New England/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/western-new-england/tingha/</link>
+	<description>Plan your visit to Tingha with this thorough guide that covers everything from must-see attractions to local customs and local products to bring home.</description>
+	<pubDate>2024-03-20T20:20:49+03:00</pubDate>
+</item><item>
 	<title>Potiskum Travel Guide (Yobe State/North East Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/yobe-state/potiskum/</link>
 	<description>A comprehensive travel guide to Potiskum, Nigeria that covers the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/hainan/qionghai/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Qionghai, China, with our comprehensive travel guide.</description>
 	<pubDate>2024-03-20T15:48:12+03:00</pubDate>
-</item><item>
-	<title>Shikinejima Travel Guide (Izu Islands/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/izu-islands/shikinejima/</link>
-	<description>Discover Shikinejima with our comprehensive travel guide featuring must-see attractions, hiking and biking routes, local culture, safety tips, transportation options, and more.</description>
-	<pubDate>2024-03-20T15:26:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
