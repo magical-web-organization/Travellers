@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T20:58:48+03:00</pubDate>
-        <lastBuildDate>2024-03-20T20:58:48+03:00</lastBuildDate>
+        <pubDate>2024-03-20T21:05:34+03:00</pubDate>
+        <lastBuildDate>2024-03-20T21:05:34+03:00</lastBuildDate>
 
         <item>
+	<title>Haida Gwaii Travel Guide (Northern British Columbia/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/haida-gwaii/</link>
+	<description>Plan your trip to Haida Gwaii with our comprehensive travel guide and explore the culturally important attractions, natural wonders, hiking/biking routes, best things to do, must-try dishes, and more.</description>
+	<pubDate>2024-03-20T21:05:34+03:00</pubDate>
+</item><item>
 	<title>Seberang Jaya Travel Guide (Penang/West Coast/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/penang/seberang-jaya/</link>
 	<description>Discover the best things to do, places to visit, where to stay, what to buy, and more in Seberang Jaya, Penang, Malaysia. Plan your trip with our travel guide today.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/mid-cape/centerville/</link>
 	<description>Our Centerville travel guide offers helpful and informative information on the town's attractions, activities, places to stay, and much more!</description>
 	<pubDate>2024-03-20T16:58:06+03:00</pubDate>
-</item><item>
-	<title>Parnamirim Travel Guide (Rio Grande do Norte/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/rio-grande-do-norte/parnamirim/</link>
-	<description>Discover the best places to visit, eat, stay, and things to do in Parnamirim with our comprehensive travel guide. Plan your trip and explore this breathtaking city in Brazil.</description>
-	<pubDate>2024-03-20T16:07:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
