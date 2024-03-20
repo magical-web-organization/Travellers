@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T05:49:43+03:00</pubDate>
-        <lastBuildDate>2024-03-20T05:49:43+03:00</lastBuildDate>
+        <pubDate>2024-03-20T06:15:40+03:00</pubDate>
+        <lastBuildDate>2024-03-20T06:15:40+03:00</lastBuildDate>
 
         <item>
+	<title>Tepic Travel Guide (Nayarit/Pacific Coast/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/nayarit/tepic/</link>
+	<description>Discover Tepic, Mexico's hidden gem with this complete guide. From natural wonders to cultural landmarks, find out what to do, see, and eat in this vibrant city.</description>
+	<pubDate>2024-03-20T06:15:40+03:00</pubDate>
+</item><item>
 	<title>Idanre Travel Guide (Ondo State/South West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ondo-state/idanre/</link>
 	<description>Idanre is a town with cultural and natural attractions that will appeal to any traveler passing through. Whether you want to hike, explore museums, or see the stunning landscape, this guide has everything you need.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/baltic-states/lithuania/samogitia/siauliai/</link>
 	<description>Explore the best of Šiauliai, Lithuania with our comprehensive travel guide. Find the top attractions, the best things to do, where to stay, and more.</description>
 	<pubDate>2024-03-20T02:01:02+03:00</pubDate>
-</item><item>
-	<title>Poon Hill Travel Guide (Annapurna/Himalayas/Nepal/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/nepal/himalayas/annapurna/poon-hill/</link>
-	<description>Plan your trip to Poon Hill with this comprehensive tour guide, complete with information on places to visit, hiking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-03-20T01:33:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
