@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T02:04:23+03:00</pubDate>
-        <lastBuildDate>2024-03-21T02:04:23+03:00</lastBuildDate>
+        <pubDate>2024-03-21T02:36:52+03:00</pubDate>
+        <lastBuildDate>2024-03-21T02:36:52+03:00</lastBuildDate>
 
         <item>
+	<title>Amedi Travel Guide (Dohuk Governorate/Iraqi Kurdistan/Iraq/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/dohuk-governorate/amedi/</link>
+	<description>Amedi is a beautiful historic town located in the Dohuk Governorate of Iraqi Kurdistan, and this comprehensive travel guide will help you plan your visit.</description>
+	<pubDate>2024-03-21T02:36:52+03:00</pubDate>
+</item><item>
 	<title>Greater Christchurch Travel Guide (Canterbury/South Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/canterbury/greater-christchurch/</link>
 	<description>Explore the culturally rich and scenically stunning Greater Christchurch with our comprehensive tour guide. Discover natural attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture, safety tips, transportation options, nearby destinations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/tamil-nadu-north-coast/chennai/</link>
 	<description>Find everything you need to know for your trip to Chennai, India - from top attractions to where to stay, what to eat, and more. Discover the best of South India with our ultimate Chennai travel guide.</description>
 	<pubDate>2024-03-20T22:25:21+03:00</pubDate>
-</item><item>
-	<title>Ikara-Flinders Ranges National Park Travel Guide (Outback/South Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/south-australia/outback/ikara-flinders-ranges-national-park/</link>
-	<description>Discover the cultural and natural attractions of Ikara-Flinders Ranges National Park in South Australia. Learn about the best places to visit, activities to do, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-03-20T21:47:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
