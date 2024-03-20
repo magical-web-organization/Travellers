@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T04:45:38+03:00</pubDate>
-        <lastBuildDate>2024-03-20T04:45:38+03:00</lastBuildDate>
+        <pubDate>2024-03-20T05:03:55+03:00</pubDate>
+        <lastBuildDate>2024-03-20T05:03:55+03:00</lastBuildDate>
 
         <item>
+	<title>Longview Travel Guide (Central Piney Woods/Piney Woods/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/piney-woods/central-piney-woods/longview/</link>
+	<description>Discover the best places to visit, eat, stay, and explore in Longview, Texas with this comprehensive travel guide.</description>
+	<pubDate>2024-03-20T05:03:55+03:00</pubDate>
+</item><item>
 	<title>Eastern Travel Guide (Honolulu/Oahu/Hawaii/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/oahu/honolulu/eastern/</link>
 	<description>Planning a trip to Eastern Hawaii? This guide covers the best attractions, activities, accommodations, and more for a memorable vacation.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/cumbria/eskdale-green/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Eskdale Green, a charming village in Cumbria, North West England, with our comprehensive travel guide.</description>
 	<pubDate>2024-03-20T00:42:47+03:00</pubDate>
-</item><item>
-	<title>Bloemhof Travel Guide (North West Province/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/north-west-province/bloemhof/</link>
-	<description>Planning a trip to Bloemhof, South Africa? Check out our comprehensive travel guide that covers everything from top attractions, best things to do, where to stay, and more.</description>
-	<pubDate>2024-03-20T00:03:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
