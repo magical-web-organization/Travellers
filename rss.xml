@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-20T22:53:45+03:00</pubDate>
-        <lastBuildDate>2024-03-20T22:53:45+03:00</lastBuildDate>
+        <pubDate>2024-03-20T23:07:48+03:00</pubDate>
+        <lastBuildDate>2024-03-20T23:07:48+03:00</lastBuildDate>
 
         <item>
+	<title>Maryville Travel Guide (Eastern Tennessee/Tennessee/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/eastern-tennessee/maryville/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local tips for your trip to Maryville, Tennessee. Read on to plan your perfect itinerary!</description>
+	<pubDate>2024-03-20T23:07:48+03:00</pubDate>
+</item><item>
 	<title>Sendai Travel Guide (Miyagi/Tohoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/miyagi/sendai/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and more in Sendai, Japan. Plan your trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/kolkata/maidan/</link>
 	<description>Maidan is the heart of Kolkata, located in West Bengal, Eastern India. This travel guide will provide a comprehensive tour of Maidan, including places to visit, hiking/biking routes, activities, food, accommodation, transport, and neighboring destinations.</description>
 	<pubDate>2024-03-20T18:55:50+03:00</pubDate>
-</item><item>
-	<title>Baffin Island Travel Guide (Nunavut/Northern Canada/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/northern-canada/nunavut/baffin-island/</link>
-	<description>Discover the natural beauty, culture, and unique experiences of Baffin Island with our comprehensive travel guide.</description>
-	<pubDate>2024-03-20T18:06:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
