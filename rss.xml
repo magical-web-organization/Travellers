@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T12:33:54+03:00</pubDate>
-        <lastBuildDate>2024-03-21T12:33:54+03:00</lastBuildDate>
+        <pubDate>2024-03-21T13:11:30+03:00</pubDate>
+        <lastBuildDate>2024-03-21T13:11:30+03:00</lastBuildDate>
 
         <item>
+	<title>Castellón Travel Guide (Castellón (province)/Valencian Community/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/castellon-province/castellon/</link>
+	<description>Plan your trip to Castellón with this comprehensive travel guide, including a list of places to visit, best things to do, where to eat and stay, local culture, and transportation options.</description>
+	<pubDate>2024-03-21T13:11:30+03:00</pubDate>
+</item><item>
 	<title>Haute Guinee Travel Guide (Guinea/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/guinea/haute-guinee/</link>
 	<description>Get ready to explore the hidden gems of Haute Guinee with this comprehensive travel guide. Discover the best places to visit, things to do, local culture and customs, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-kildare/kildare/</link>
 	<description>Discover the best things to do, places to visit, where to stay, what to eat, and more with our comprehensive travel guide to Kildare, Ireland.</description>
 	<pubDate>2024-03-21T08:40:01+03:00</pubDate>
-</item><item>
-	<title>St. George Travel Guide (Greater Charleston/South Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/greater-charleston/st-george/</link>
-	<description>Discover the charming town of St. George, South Carolina with this comprehensive travel guide. Find all the information you need about the best places to visit, where to stay, what to eat, and how to get there in this article.</description>
-	<pubDate>2024-03-21T08:25:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
