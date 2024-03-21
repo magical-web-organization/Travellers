@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T19:52:24+03:00</pubDate>
-        <lastBuildDate>2024-03-21T19:52:24+03:00</lastBuildDate>
+        <pubDate>2024-03-21T20:22:23+03:00</pubDate>
+        <lastBuildDate>2024-03-21T20:22:23+03:00</lastBuildDate>
 
         <item>
+	<title>Songkhla Travel Guide (Southern Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/songkhla/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Songkhla with this comprehensive travel guide.</description>
+	<pubDate>2024-03-21T20:22:23+03:00</pubDate>
+</item><item>
 	<title>Alcobaça Travel Guide (Oeste/Estremadura/Tagus Valley/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/estremadura/oeste/alcobaca/</link>
 	<description>Plan your trip to Alcobaça with our comprehensive travel guide featuring top attractions, activities, hiking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/west-central-ohio/bellville/</link>
 	<description>Discover all the must-visit places, best things to do, where to stay and eat, and everything else you need to know to plan your trip to Bellville, Ohio.</description>
 	<pubDate>2024-03-21T15:41:34+03:00</pubDate>
-</item><item>
-	<title>Bluffton Travel Guide (Golden Corner/South Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/golden-corner/bluffton/</link>
-	<description>Bluffton, South Carolina is a small town packed with culture, nature, and adventure. Read our comprehensive travel guide to explore this hidden gem of South Carolina and plan your next vacation.</description>
-	<pubDate>2024-03-21T15:18:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
