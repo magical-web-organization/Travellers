@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T18:06:25+03:00</pubDate>
-        <lastBuildDate>2024-03-21T18:06:25+03:00</lastBuildDate>
+        <pubDate>2024-03-21T18:45:49+03:00</pubDate>
+        <lastBuildDate>2024-03-21T18:45:49+03:00</lastBuildDate>
 
         <item>
+	<title>Navan Travel Guide (County Meath/East Coast and Midlands/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-meath/navan/</link>
+	<description>Explore the best places to visit, things to do, and where to stay in Navan, Ireland. Get tips on local culture, transportation, and nearby destinations for your next trip!</description>
+	<pubDate>2024-03-21T18:45:49+03:00</pubDate>
+</item><item>
 	<title>Beni Hasan Travel Guide (Middle Egypt/Egypt/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/middle-egypt/beni-hasan/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Beni Hasan, Egypt. Plan your trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/ngari-prefecture/</link>
 	<description>Discover Ngari (Prefecture), Tibet, with our comprehensive travel guide. Find out about the best things to do, where to stay, and how to get around Ngari.</description>
 	<pubDate>2024-03-21T14:11:47+03:00</pubDate>
-</item><item>
-	<title>Mazara del Vallo Travel Guide (Trapani (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/mazara-del-vallo/</link>
-	<description>Discover the best things to do, places to visit, and where to stay in Mazara del Vallo, along with tips for safety, transportation options, and nearby destinations.</description>
-	<pubDate>2024-03-21T14:01:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
