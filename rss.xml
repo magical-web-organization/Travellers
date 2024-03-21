@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T23:16:17+03:00</pubDate>
-        <lastBuildDate>2024-03-21T23:16:17+03:00</lastBuildDate>
+        <pubDate>2024-03-21T23:50:58+03:00</pubDate>
+        <lastBuildDate>2024-03-21T23:50:58+03:00</lastBuildDate>
 
         <item>
+	<title>Viljandi Travel Guide (South Estonia/Estonia/Baltic states/Europe)</title>
+	<link>https://travellers.wiki/en/europe/baltic-states/estonia/south-estonia/viljandi/</link>
+	<description>A complete travel guide to Viljandi, including its best attractions, hiking routes, food, accommodations, local customs, safety tips, and transportation options.</description>
+	<pubDate>2024-03-21T23:50:58+03:00</pubDate>
+</item><item>
 	<title>Scottsboro Travel Guide (Mountains/Alabama/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/scottsboro/</link>
 	<description>Explore the best of Scottsboro, Alabama with this comprehensive tour guide. Discover must-visit attractions, outdoor adventures, the food and drink scene, where to stay, and everything else you need to plan the perfect trip to Scottsboro.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/charlevoix/clermont/</link>
 	<description>Explore the best things to do, places to visit, food to try, where to stay, and cultural customs of Clermont. Plan your trip with our detailed itinerary and transportation guide.</description>
 	<pubDate>2024-03-21T19:32:14+03:00</pubDate>
-</item><item>
-	<title>Navan Travel Guide (County Meath/East Coast and Midlands/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-meath/navan/</link>
-	<description>Explore the best places to visit, things to do, and where to stay in Navan, Ireland. Get tips on local culture, transportation, and nearby destinations for your next trip!</description>
-	<pubDate>2024-03-21T18:45:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
