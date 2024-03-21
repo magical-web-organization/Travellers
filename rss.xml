@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T00:39:44+03:00</pubDate>
-        <lastBuildDate>2024-03-22T00:39:44+03:00</lastBuildDate>
+        <pubDate>2024-03-22T01:30:54+03:00</pubDate>
+        <lastBuildDate>2024-03-22T01:30:54+03:00</lastBuildDate>
 
         <item>
+	<title>Belek Travel Guide (Pamphylia/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/pamphylia/belek/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to Belek, Turkey.</description>
+	<pubDate>2024-03-22T01:30:54+03:00</pubDate>
+</item><item>
 	<title>Sanyo-Onoda Travel Guide (Yamaguchi (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/yamaguchi-prefecture/sanyo-onoda/</link>
 	<description>Discover the charms of Sanyo-Onoda, Japan with this comprehensive travel guide. Explore cultural and natural attractions, find the best things to do, where to stay, what to eat, and essential travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/algeria/northeast-algeria/constantine/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture and customs in Constantine, Algeria.</description>
 	<pubDate>2024-03-21T20:53:58+03:00</pubDate>
-</item><item>
-	<title>Songkhla Travel Guide (Southern Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/songkhla/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Songkhla with this comprehensive travel guide.</description>
-	<pubDate>2024-03-21T20:22:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
