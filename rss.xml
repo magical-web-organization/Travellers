@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T05:07:46+03:00</pubDate>
-        <lastBuildDate>2024-03-21T05:07:46+03:00</lastBuildDate>
+        <pubDate>2024-03-21T05:42:15+03:00</pubDate>
+        <lastBuildDate>2024-03-21T05:42:15+03:00</lastBuildDate>
 
         <item>
+	<title>Queens Travel Guide (New York City/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/new-york-city/queens/</link>
+	<description>Discover the best things to do, see, and eat in Queens, New York City with this comprehensive travel guide.</description>
+	<pubDate>2024-03-21T05:42:15+03:00</pubDate>
+</item><item>
 	<title>Three Rivers Travel Guide (Tulare County/San Joaquin Valley/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/tulare-county/three-rivers/</link>
 	<description>Read our travel guide to Three Rivers, California, featuring a list of places to visit, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/argentina/pampas/buenos-aires-province/medanos/</link>
 	<description>Plan your next trip to Medanos in Buenos Aires, Argentina, with our comprehensive travel guide. Discover the cultural attractions, natural wonders, outdoor adventures, hospitality options, and more.</description>
 	<pubDate>2024-03-21T01:10:38+03:00</pubDate>
-</item><item>
-	<title>New Albany Travel Guide (Southern Indiana/Indiana/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southern-indiana/new-albany/</link>
-	<description>Discover the best places to visit, eat, stay, and more with this comprehensive travel guide to New Albany, Indiana.</description>
-	<pubDate>2024-03-21T00:55:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
