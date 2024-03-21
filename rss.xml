@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T11:42:04+03:00</pubDate>
-        <lastBuildDate>2024-03-21T11:42:04+03:00</lastBuildDate>
+        <pubDate>2024-03-21T12:16:06+03:00</pubDate>
+        <lastBuildDate>2024-03-21T12:16:06+03:00</lastBuildDate>
 
         <item>
+	<title>Malvern Travel Guide (Chester County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/chester-county/malvern/</link>
+	<description>Discover the best places to visit, activities, and delicious dishes to try in Malvern, Pennsylvania, with this helpful travel guide. Learn everything from local culture to transportation options.</description>
+	<pubDate>2024-03-21T12:16:06+03:00</pubDate>
+</item><item>
 	<title>Modoc County Travel Guide (Shasta Cascades/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/modoc-county/</link>
 	<description>Discover the best places to visit, things to do, and tips for traveling in Modoc County, California.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/assam/lower-assam/manas-national-park/</link>
 	<description>Discover Manas National Park in India with our comprehensive guide. From natural attractions and outdoor adventures to culturally significant museums and historical places, we cover it all.</description>
 	<pubDate>2024-03-21T07:40:02+03:00</pubDate>
-</item><item>
-	<title>Stykkishólmur Travel Guide (West Iceland/Iceland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/west-iceland/stykkisholmur/</link>
-	<description>Discover the cultural and natural attractions, outdoor adventures, local foods, and safety measures of Stykkishólmur in West Iceland with our comprehensive travel guide.</description>
-	<pubDate>2024-03-21T07:17:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
