@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-21T06:43:56+03:00</pubDate>
-        <lastBuildDate>2024-03-21T06:43:56+03:00</lastBuildDate>
+        <pubDate>2024-03-21T07:17:18+03:00</pubDate>
+        <lastBuildDate>2024-03-21T07:17:18+03:00</lastBuildDate>
 
         <item>
+	<title>Stykkishólmur Travel Guide (West Iceland/Iceland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/west-iceland/stykkisholmur/</link>
+	<description>Discover the cultural and natural attractions, outdoor adventures, local foods, and safety measures of Stykkishólmur in West Iceland with our comprehensive travel guide.</description>
+	<pubDate>2024-03-21T07:17:18+03:00</pubDate>
+</item><item>
 	<title>Guaymas Travel Guide (Sonora/Northern Mexico/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/sonora/guaymas/</link>
 	<description>Discover the beauty of Guaymas, Mexico, with our comprehensive travel guide highlighting top attractions, activities, places to stay, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/dohuk-governorate/amedi/</link>
 	<description>Amedi is a beautiful historic town located in the Dohuk Governorate of Iraqi Kurdistan, and this comprehensive travel guide will help you plan your visit.</description>
 	<pubDate>2024-03-21T02:36:52+03:00</pubDate>
-</item><item>
-	<title>Greater Christchurch Travel Guide (Canterbury/South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/canterbury/greater-christchurch/</link>
-	<description>Explore the culturally rich and scenically stunning Greater Christchurch with our comprehensive tour guide. Discover natural attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture, safety tips, transportation options, nearby destinations, and more.</description>
-	<pubDate>2024-03-21T02:04:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
