@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T01:30:54+03:00</pubDate>
-        <lastBuildDate>2024-03-22T01:30:54+03:00</lastBuildDate>
+        <pubDate>2024-03-22T02:01:43+03:00</pubDate>
+        <lastBuildDate>2024-03-22T02:01:43+03:00</lastBuildDate>
 
         <item>
+	<title>Ledgeview Travel Guide (Northeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northeast-wisconsin/ledgeview/</link>
+	<description>Plan your trip to Ledgeview with this comprehensive travel guide. Discover the best places to visit, things to do, and where to eat, stay, and shop in Ledgeview.</description>
+	<pubDate>2024-03-22T02:01:43+03:00</pubDate>
+</item><item>
 	<title>Belek Travel Guide (Pamphylia/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/pamphylia/belek/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to Belek, Turkey.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/drama/</link>
 	<description>Discover the rich cultural and natural attractions of Drama in Northern Greece with our comprehensive tour guide.</description>
 	<pubDate>2024-03-21T21:18:04+03:00</pubDate>
-</item><item>
-	<title>Constantine Travel Guide (Northeast Algeria/Algeria/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/algeria/northeast-algeria/constantine/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and local culture and customs in Constantine, Algeria.</description>
-	<pubDate>2024-03-21T20:53:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
