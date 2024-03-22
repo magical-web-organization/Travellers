@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T22:42:39+03:00</pubDate>
-        <lastBuildDate>2024-03-22T22:42:39+03:00</lastBuildDate>
+        <pubDate>2024-03-22T23:25:47+03:00</pubDate>
+        <lastBuildDate>2024-03-22T23:25:47+03:00</lastBuildDate>
 
         <item>
+	<title>Tuku Travel Guide (Yunlin County/Southern Taiwan/Taiwan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/taiwan/southern-taiwan/yunlin-county/tuku/</link>
+	<description>Get ready for an unforgettable adventure because Tuku offers an incredible array of attractions and experiences. Our comprehensive guide has all the info you need to plan your trip!</description>
+	<pubDate>2024-03-22T23:25:47+03:00</pubDate>
+</item><item>
 	<title>Kumai Travel Guide (Central Kalimantan/Kalimantan/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/central-kalimantan/kumai/</link>
 	<description>Discover the best things to do, see, and eat in Kumai with our comprehensive travel guide. Plan your perfect trip with our itinerary suggestions and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/lakes-and-mountains/oxford-county/oakland/</link>
 	<description>Explore the natural and cultural attractions of Oakland in Maine. Get insider tips on local food and drink, accommodations, transportation options, safety and health, and nearby destinations.</description>
 	<pubDate>2024-03-22T18:40:34+03:00</pubDate>
-</item><item>
-	<title>Waynesboro Travel Guide (Shenandoah Valley/Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/shenandoah-valley/waynesboro/</link>
-	<description>Plan your visit to Waynesboro with our comprehensive travel guide. Explore natural attractions, hiking and biking routes, cultural landmarks, food and drink scene, accommodations, local culture and customs, and more.</description>
-	<pubDate>2024-03-22T18:12:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
