@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T20:51:59+03:00</pubDate>
-        <lastBuildDate>2024-03-22T20:51:59+03:00</lastBuildDate>
+        <pubDate>2024-03-22T21:25:45+03:00</pubDate>
+        <lastBuildDate>2024-03-22T21:25:45+03:00</lastBuildDate>
 
         <item>
+	<title>Stourbridge Travel Guide (West Midlands (county)/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/west-midlands-county/stourbridge/</link>
+	<description>Discover the best attractions, outdoor adventures, food and drink scene, and cultural highlights of Stourbridge. Follow our week-long itinerary to explore the scenic views, hike on picturesque trails, and indulge in local cuisine.</description>
+	<pubDate>2024-03-22T21:25:45+03:00</pubDate>
+</item><item>
 	<title>Callahan Travel Guide (Siskiyou County/Shasta Cascades/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/siskiyou-county/callahan/</link>
 	<description>Discover the best places to visit and things to do in Callahan, California. Get an insight into local culture, food, and customs, and plan your trip with our comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/kern-county/tehachapi/</link>
 	<description>Plan your perfect trip to Tehachapi with this comprehensive travel guide, featuring must-visit attractions, hiking and biking routes, food and drink recommendations, and much more.</description>
 	<pubDate>2024-03-22T16:39:43+03:00</pubDate>
-</item><item>
-	<title>Sai Travel Guide (Shimokita Peninsula/Aomori (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/aomori-prefecture/shimokita-peninsula/sai/</link>
-	<description>Discover the best things to see and do, where to stay, eat and more in Sai, the hidden gem of Shimokita Peninsula in Aomori, Japan!</description>
-	<pubDate>2024-03-22T16:09:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
