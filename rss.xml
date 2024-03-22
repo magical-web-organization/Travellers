@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T11:02:39+03:00</pubDate>
-        <lastBuildDate>2024-03-22T11:02:39+03:00</lastBuildDate>
+        <pubDate>2024-03-22T11:31:04+03:00</pubDate>
+        <lastBuildDate>2024-03-22T11:31:04+03:00</lastBuildDate>
 
         <item>
+	<title>Forsyth Travel Guide (Custer Country/Montana/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/custer-country/forsyth/</link>
+	<description>Plan a perfect trip with our comprehensive guide to Forsyth. Discover the best places to visit, things to do, and local culture and customs.</description>
+	<pubDate>2024-03-22T11:31:04+03:00</pubDate>
+</item><item>
 	<title>Fukuroi Travel Guide (Shizuoka (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/fukuroi/</link>
 	<description>Discover the rich culture, natural beauty, hiking trails, famous dishes, and transportation options in Fukuroi, Japan. Find the best places to visit, things to do, and where to stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/chianciano-terme/</link>
 	<description>Discover the best things to do, places to visit, food to try, and more in Chianciano Terme, Tuscany - the perfect destination for a relaxing vacation in Italy.</description>
 	<pubDate>2024-03-22T06:53:20+03:00</pubDate>
-</item><item>
-	<title>Hanoi Travel Guide (Northern Vietnam/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/northern-vietnam/hanoi/</link>
-	<description>Plan your trip to Hanoi with this comprehensive travel guide featuring a list of must-visit places, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, nearby destinations, and more.</description>
-	<pubDate>2024-03-22T06:10:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
