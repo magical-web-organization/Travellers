@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T12:11:54+03:00</pubDate>
-        <lastBuildDate>2024-03-22T12:11:54+03:00</lastBuildDate>
+        <pubDate>2024-03-22T12:38:44+03:00</pubDate>
+        <lastBuildDate>2024-03-22T12:38:44+03:00</lastBuildDate>
 
         <item>
+	<title>Fair Isle Travel Guide (Shetland Islands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/shetland-islands/fair-isle/</link>
+	<description>Discover the stunning Fair Isle in Scotland, filled with breathtaking natural attractions, rich cultural heritage, and delectable local cuisine. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-03-22T12:38:44+03:00</pubDate>
+</item><item>
 	<title>Machico Travel Guide (Madeira/Islands of the Atlantic Ocean/Islands/Other destinations)</title>
 	<link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-atlantic-ocean/madeira/machico/</link>
 	<description>Discover the best things to do, where to stay, and what to eat in Machico. Our comprehensive travel guide has everything you need for the perfect Madeira vacation.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/uruguay/central-interior/melo/</link>
 	<description>Discover the top places to visit, things to do, where to stay, and how to get around in Melo, Uruguay. Learn about the local culture, cuisine, and customs, and find out about nearby excursions and transportation options in this comprehensive travel guide.</description>
 	<pubDate>2024-03-22T08:22:08+03:00</pubDate>
-</item><item>
-	<title>Port-Cartier Travel Guide (North Shore/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/port-cartier/</link>
-	<description>Discover the culturally and naturally rich Port-Cartier in Quebec, Canada. Get an insider's view of the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-03-22T07:49:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
