@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T11:50:22+03:00</pubDate>
-        <lastBuildDate>2024-03-22T11:50:22+03:00</lastBuildDate>
+        <pubDate>2024-03-22T12:11:54+03:00</pubDate>
+        <lastBuildDate>2024-03-22T12:11:54+03:00</lastBuildDate>
 
         <item>
+	<title>Machico Travel Guide (Madeira/Islands of the Atlantic Ocean/Islands/Other destinations)</title>
+	<link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-atlantic-ocean/madeira/machico/</link>
+	<description>Discover the best things to do, where to stay, and what to eat in Machico. Our comprehensive travel guide has everything you need for the perfect Madeira vacation.</description>
+	<pubDate>2024-03-22T12:11:54+03:00</pubDate>
+</item><item>
 	<title>Washington Travel Guide (North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/washington/</link>
 	<description>Plan your trip to Washington with our helpful and informative travel guide. Discover the best places to visit, things to do, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/port-cartier/</link>
 	<description>Discover the culturally and naturally rich Port-Cartier in Quebec, Canada. Get an insider's view of the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-03-22T07:49:34+03:00</pubDate>
-</item><item>
-	<title>Sheldon Travel Guide (Western Iowa/Iowa/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/western-iowa/sheldon/</link>
-	<description>Plan your trip to Sheldon, Iowa with this comprehensive travel guide. Explore the culturally rich attractions, outdoor adventures, and local food scene of Sheldon.</description>
-	<pubDate>2024-03-22T07:22:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
