@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T17:20:28+03:00</pubDate>
-        <lastBuildDate>2024-03-22T17:20:28+03:00</lastBuildDate>
+        <pubDate>2024-03-22T17:50:10+03:00</pubDate>
+        <lastBuildDate>2024-03-22T17:50:10+03:00</lastBuildDate>
 
         <item>
+	<title>Morgantown Travel Guide (Caves and Lakes/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/caves-and-lakes/morgantown/</link>
+	<description>Plan your trip to Morgantown, Kentucky with this comprehensive travel guide including places to visit, things to do, where to stay, and more!</description>
+	<pubDate>2024-03-22T17:50:10+03:00</pubDate>
+</item><item>
 	<title>Elviria Travel Guide (Costa del Sol/Andalusia/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/costa-del-sol/elviria/</link>
 	<description>All you need to know to plan your trip to Elviria, Andalusia, Spain - from where to stay and best things to do, to safety and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/burley/</link>
 	<description>Discover the culturally important attractions, natural wonders, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, how to get there, and nearby destinations of Burley in Hampshire, UK.</description>
 	<pubDate>2024-03-22T13:21:13+03:00</pubDate>
-</item><item>
-	<title>Fair Isle Travel Guide (Shetland Islands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/shetland-islands/fair-isle/</link>
-	<description>Discover the stunning Fair Isle in Scotland, filled with breathtaking natural attractions, rich cultural heritage, and delectable local cuisine. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-03-22T12:38:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
