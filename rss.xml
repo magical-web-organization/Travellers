@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-22T03:50:15+03:00</pubDate>
-        <lastBuildDate>2024-03-22T03:50:15+03:00</lastBuildDate>
+        <pubDate>2024-03-22T04:24:20+03:00</pubDate>
+        <lastBuildDate>2024-03-22T04:24:20+03:00</lastBuildDate>
 
         <item>
+	<title>Trebisacce Travel Guide (Calabria/Southern Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/southern-italy/calabria/trebisacce/</link>
+	<description>Discover the hidden treasures of Trebisacce in Southern Italy with our comprehensive travel guide. Explore its stunning natural beauty, cultural attractions, local cuisines, and traditions.</description>
+	<pubDate>2024-03-22T04:24:20+03:00</pubDate>
+</item><item>
 	<title>Ahmednagar Travel Guide (North Maharashtra/Maharashtra/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-maharashtra/ahmednagar/</link>
 	<description>A detailed travel guide to Ahmednagar, India, covering everything from the best places to visit, local culture and customs to do's and don'ts, safety and health, transportation options, and nearby destinations to plan your trip efficiently.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/scottsboro/</link>
 	<description>Explore the best of Scottsboro, Alabama with this comprehensive tour guide. Discover must-visit attractions, outdoor adventures, the food and drink scene, where to stay, and everything else you need to plan the perfect trip to Scottsboro.</description>
 	<pubDate>2024-03-21T23:16:17+03:00</pubDate>
-</item><item>
-	<title>Dublin Travel Guide (Alameda County/East Bay/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/alameda-county/dublin/</link>
-	<description>Plan your trip to Dublin with our comprehensive travel guide. Explore the culturally rich museums and historical places, natural attractions, hiking/biking routes, best things to do, food and drink scene, local culture and customs, safety and health, and transportation options.</description>
-	<pubDate>2024-03-21T22:57:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
