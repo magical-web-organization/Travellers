@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T19:27:53+03:00</pubDate>
-        <lastBuildDate>2024-03-23T19:27:53+03:00</lastBuildDate>
+        <pubDate>2024-03-23T19:50:14+03:00</pubDate>
+        <lastBuildDate>2024-03-23T19:50:14+03:00</lastBuildDate>
 
         <item>
+	<title>As-Suwayda Travel Guide (Hauran/Syria/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/syria/hauran/as-suwayda/</link>
+	<description>Plan your trip to As-Suwayda with this comprehensive travel guide featuring top attractions, restaurants, lodging, and more.</description>
+	<pubDate>2024-03-23T19:50:14+03:00</pubDate>
+</item><item>
 	<title>Milwaukee Travel Guide (Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/milwaukee/</link>
 	<description>Discover the best places to visit in Milwaukee, including its cultural and natural attractions, best food and drink spots, where to stay, local customs, safety and health tips, how to get around, and nearby destinations to explore.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/central-ontario/kawarthas/lindsay/</link>
 	<description>Explore Lindsay, Kawartha Lakes, Central Ontario, Canada with our comprehensive travel guide with a list of places to visit, things to do, and tips.</description>
 	<pubDate>2024-03-23T15:24:21+03:00</pubDate>
-</item><item>
-	<title>Casablanca Travel Guide (North Atlantic Coast/Morocco/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/morocco/north-atlantic-coast/casablanca/</link>
-	<description>Plan your visit to Casablanca, Morocco with this comprehensive travel guide featuring must-see attractions, hiking/biking routes, food and drink recommendations, accommodations, and more.</description>
-	<pubDate>2024-03-23T14:51:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
