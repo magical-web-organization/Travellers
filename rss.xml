@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T23:12:13+03:00</pubDate>
-        <lastBuildDate>2024-03-23T23:12:13+03:00</lastBuildDate>
+        <pubDate>2024-03-23T23:56:27+03:00</pubDate>
+        <lastBuildDate>2024-03-23T23:56:27+03:00</lastBuildDate>
 
         <item>
+	<title>Pooncarie Travel Guide (Lower Darling/Outback New South Wales/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/lower-darling/pooncarie/</link>
+	<description>Plan your trip to Pooncarie with our comprehensive travel guide featuring top attractions, activities, places to stay, and local culture.</description>
+	<pubDate>2024-03-23T23:56:27+03:00</pubDate>
+</item><item>
 	<title>Rochester Travel Guide (Oakland County/Metro Detroit/Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/oakland-county/rochester/</link>
 	<description>Plan your trip to Rochester with this comprehensive guide, featuring top attractions, hiking and biking routes, activities, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/milwaukee/</link>
 	<description>Discover the best places to visit in Milwaukee, including its cultural and natural attractions, best food and drink spots, where to stay, local customs, safety and health tips, how to get around, and nearby destinations to explore.</description>
 	<pubDate>2024-03-23T19:27:53+03:00</pubDate>
-</item><item>
-	<title>Calatagan Travel Guide (Western Batangas/Batangas/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/western-batangas/calatagan/</link>
-	<description>Discover the natural and cultural beauty of Calatagan with this complete travel guide. Learn about the best things to do, places to visit, where to stay, food to try, and more.</description>
-	<pubDate>2024-03-23T18:56:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
