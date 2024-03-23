@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T07:20:19+03:00</pubDate>
-        <lastBuildDate>2024-03-23T07:20:19+03:00</lastBuildDate>
+        <pubDate>2024-03-23T07:52:53+03:00</pubDate>
+        <lastBuildDate>2024-03-23T07:52:53+03:00</lastBuildDate>
 
         <item>
+	<title>Pichanaki Travel Guide (Southern Sierra/Peru/South America)</title>
+	<link>https://travellers.wiki/en/south-america/peru/southern-sierra/pichanaki/</link>
+	<description>Explore the best of Pichanaki with this comprehensive travel guide. Discover must-see attractions, outdoor adventures, local cuisine, accommodations, and more!</description>
+	<pubDate>2024-03-23T07:52:53+03:00</pubDate>
+</item><item>
 	<title>Worcester Hills Travel Guide (Central Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/central-massachusetts/worcester-hills/</link>
 	<description>Discover the best things to do and see in Worcester Hills, Massachusetts. From cultural attractions to outdoor adventures, this comprehensive travel guide has everything you need to plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/northern-isaan/nong-khai/</link>
 	<description>Discover the best attractions, food, accommodation, and transportation options in Nong Khai, Thailand with this comprehensive travel guide.</description>
 	<pubDate>2024-03-23T03:11:13+03:00</pubDate>
-</item><item>
-	<title>Buhl Travel Guide (South Central Idaho/Idaho/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/south-central-idaho/buhl/</link>
-	<description>A comprehensive travel guide for Buhl, Idaho including places to visit, hiking routes, activities and tours, food and drink scene, where to stay and tips for a safe and enjoyable trip.</description>
-	<pubDate>2024-03-23T02:36:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
