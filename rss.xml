@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T18:17:23+03:00</pubDate>
-        <lastBuildDate>2024-03-23T18:17:23+03:00</lastBuildDate>
+        <pubDate>2024-03-23T18:56:05+03:00</pubDate>
+        <lastBuildDate>2024-03-23T18:56:05+03:00</lastBuildDate>
 
         <item>
+	<title>Calatagan Travel Guide (Western Batangas/Batangas/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/western-batangas/calatagan/</link>
+	<description>Discover the natural and cultural beauty of Calatagan with this complete travel guide. Learn about the best things to do, places to visit, where to stay, food to try, and more.</description>
+	<pubDate>2024-03-23T18:56:05+03:00</pubDate>
+</item><item>
 	<title>Malampuzha Travel Guide (Palakkad District/Malabar/Kerala/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/palakkad-district/malampuzha/</link>
 	<description>This guide to Malampuzha covers everything from the best places to visit to the local culture and customs, as well as transportation options and logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/monmouth-county/long-branch/</link>
 	<description>Plan your Long Branch trip with this comprehensive travel guide that covers everything from must-see attractions to local customs and transportation options.</description>
 	<pubDate>2024-03-23T14:06:04+03:00</pubDate>
-</item><item>
-	<title>Orange City-Alton Travel Guide (Western Iowa/Iowa/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/western-iowa/orange-city-alton/</link>
-	<description>Plan your trip to Orange City-Alton, Iowa with this comprehensive guide. Discover the best places to visit, things to do, where to eat and stay, and more.</description>
-	<pubDate>2024-03-23T13:57:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
