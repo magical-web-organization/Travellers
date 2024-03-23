@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T21:48:54+03:00</pubDate>
-        <lastBuildDate>2024-03-23T21:48:54+03:00</lastBuildDate>
+        <pubDate>2024-03-23T22:18:56+03:00</pubDate>
+        <lastBuildDate>2024-03-23T22:18:56+03:00</lastBuildDate>
 
         <item>
+	<title>Setomaa Travel Guide (South Estonia/Estonia/Baltic states/Europe)</title>
+	<link>https://travellers.wiki/en/europe/baltic-states/estonia/south-estonia/setomaa/</link>
+	<description>Setomaa is a place for individuals looking for an off beaten path destination with plenty of history and culture to explore. Discover the top places to visit, the best things to do, where to eat and stay, and how to get there in our comprehensive Setomaa travel guide.</description>
+	<pubDate>2024-03-23T22:18:56+03:00</pubDate>
+</item><item>
 	<title>Long Hill Travel Guide (Morris County/Skylands/New Jersey/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/morris-county/long-hill/</link>
 	<description>Discover the must-visit attractions, best activities, accommodation options, local food scene, safety tips, and transportation options to Long Hill, NJ.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/ostfold/sarpsborg/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Sarpsborg, Norway. Experience the rich culture and natural beauty of this charming town in East Norway.</description>
 	<pubDate>2024-03-23T17:51:09+03:00</pubDate>
-</item><item>
-	<title>Walcheren Travel Guide (Zeeland/Southern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/zeeland/walcheren/</link>
-	<description>Plan your perfect trip to Walcheren with this comprehensive guide highlighting the best attractions, activities, accommodations, and local culture.</description>
-	<pubDate>2024-03-23T17:26:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
