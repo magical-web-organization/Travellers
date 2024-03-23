@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T17:26:43+03:00</pubDate>
-        <lastBuildDate>2024-03-23T17:26:43+03:00</lastBuildDate>
+        <pubDate>2024-03-23T17:51:09+03:00</pubDate>
+        <lastBuildDate>2024-03-23T17:51:09+03:00</lastBuildDate>
 
         <item>
+	<title>Sarpsborg Travel Guide (Østfold/East Norway/Norway/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/ostfold/sarpsborg/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Sarpsborg, Norway. Experience the rich culture and natural beauty of this charming town in East Norway.</description>
+	<pubDate>2024-03-23T17:51:09+03:00</pubDate>
+</item><item>
 	<title>Walcheren Travel Guide (Zeeland/Southern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/zeeland/walcheren/</link>
 	<description>Plan your perfect trip to Walcheren with this comprehensive guide highlighting the best attractions, activities, accommodations, and local culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/gifu-prefecture/gifu/</link>
 	<description>Plan your trip to Gifu with our comprehensive travel guide, including must-visit attractions, outdoor adventures, cultural experiences, where to stay, and more.</description>
 	<pubDate>2024-03-23T13:31:40+03:00</pubDate>
-</item><item>
-	<title>Letchworth Garden City Travel Guide (Hertfordshire/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/hertfordshire/letchworth-garden-city/</link>
-	<description>Plan your trip to Letchworth Garden City with this comprehensive travel guide. Find information on places to visit, hiking/biking routes, food and drink scene, local culture and customs, safety and health, and transportation options.</description>
-	<pubDate>2024-03-23T12:48:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
