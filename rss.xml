@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T00:39:42+03:00</pubDate>
-        <lastBuildDate>2024-03-24T00:39:42+03:00</lastBuildDate>
+        <pubDate>2024-03-24T01:26:27+03:00</pubDate>
+        <lastBuildDate>2024-03-24T01:26:27+03:00</lastBuildDate>
 
         <item>
+	<title>Saratov Oblast Travel Guide (Volga Region/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/saratov-oblast/</link>
+	<description>Explore the best things to do, see and eat in the beautiful Saratov Oblast, Russia. A complete guide to travel logistics, safety and cultural etiquette.</description>
+	<pubDate>2024-03-24T01:26:27+03:00</pubDate>
+</item><item>
 	<title>Similkameen Travel Guide (Thompson-Okanagan/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/similkameen/</link>
 	<description>Plan your trip to Similkameen with this comprehensive travel guide. Discover the top places to visit, activities and tours, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/fox-island/</link>
 	<description>Discover the most popular places to visit, things to do, and local culture of Fox Island, Washington. Learn how to get there and where to stay, eat, and shop to make the most out of your trip.</description>
 	<pubDate>2024-03-23T20:56:05+03:00</pubDate>
-</item><item>
-	<title>Chester Travel Guide (Delaware County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/delaware-county/chester/</link>
-	<description>Explore the rich culture, natural beauty, and exciting activities that Chester, Pennsylvania has to offer with our comprehensive travel guide.</description>
-	<pubDate>2024-03-23T20:18:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
