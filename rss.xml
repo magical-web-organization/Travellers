@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T04:33:02+03:00</pubDate>
-        <lastBuildDate>2024-03-23T04:33:02+03:00</lastBuildDate>
+        <pubDate>2024-03-23T04:56:17+03:00</pubDate>
+        <lastBuildDate>2024-03-23T04:56:17+03:00</lastBuildDate>
 
         <item>
+	<title>Brevard Travel Guide (North Carolina Mountains/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-mountains/brevard/</link>
+	<description>Discover the best things to do in Brevard, North Carolina. From outdoor adventures to cultural experiences, this comprehensive guide will help you plan your trip to Brevard.</description>
+	<pubDate>2024-03-23T04:56:17+03:00</pubDate>
+</item><item>
 	<title>Great Lakes Travel Guide (North America)</title>
 	<link>https://travellers.wiki/en/north-america/great-lakes/</link>
 	<description>Read this comprehensive travel guide for Great Lakes and learn about the best places to visit, food and drinks to try, accommodation options, and safety and health tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/grand-est/verdun/</link>
 	<description>Discover the cultural and natural attractions, food and drink scene, where to stay, safety and health, and transportation options in Verdun with our travel guide.</description>
 	<pubDate>2024-03-23T00:27:32+03:00</pubDate>
-</item><item>
-	<title>Atlantic Seaboard Travel Guide (Cape Peninsula/Western Cape/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/atlantic-seaboard/</link>
-	<description>Discover the best things to do, places to visit, and where to eat, sleep and buy souvenirs in Atlantic Seaboard, Cape Peninsula with our comprehensive travel guide.</description>
-	<pubDate>2024-03-22T23:40:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
