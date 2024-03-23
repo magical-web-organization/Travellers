@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T20:56:05+03:00</pubDate>
-        <lastBuildDate>2024-03-23T20:56:05+03:00</lastBuildDate>
+        <pubDate>2024-03-23T21:23:21+03:00</pubDate>
+        <lastBuildDate>2024-03-23T21:23:21+03:00</lastBuildDate>
 
         <item>
+	<title>Alton Towers Travel Guide (Staffordshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/staffordshire/alton-towers/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Alton Towers. Learn about the local culture, customs, and safety concerns. Find out how to get to Alton Towers and explore nearby attractions.</description>
+	<pubDate>2024-03-23T21:23:21+03:00</pubDate>
+</item><item>
 	<title>Fox Island Travel Guide (Kitsap Peninsula/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/fox-island/</link>
 	<description>Discover the most popular places to visit, things to do, and local culture of Fox Island, Washington. Learn how to get there and where to stay, eat, and shop to make the most out of your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/cleveland-national-forest/</link>
 	<description>Plan your adventure in Cleveland National Forest with this helpful and informative long-form travel guide. Discover must-visit attractions, hiking/biking routes, food and drink recommendations, and more.</description>
 	<pubDate>2024-03-23T16:59:07+03:00</pubDate>
-</item><item>
-	<title>Bayous Travel Guide (Gulf Coast/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/gulf-coast/bayous/</link>
-	<description>Discover the best attractions, activities, dining options, and more with our comprehensive guide to Bayous in Gulf Coast, Texas.</description>
-	<pubDate>2024-03-23T16:25:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
