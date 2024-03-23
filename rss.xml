@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T00:27:27+03:00</pubDate>
-        <lastBuildDate>2024-03-24T00:27:27+03:00</lastBuildDate>
+        <pubDate>2024-03-24T00:39:42+03:00</pubDate>
+        <lastBuildDate>2024-03-24T00:39:42+03:00</lastBuildDate>
 
         <item>
+	<title>Similkameen Travel Guide (Thompson-Okanagan/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/similkameen/</link>
+	<description>Plan your trip to Similkameen with this comprehensive travel guide. Discover the top places to visit, activities and tours, hiking and biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-03-24T00:39:42+03:00</pubDate>
+</item><item>
 	<title>Santiago de Cuba Travel Guide (Eastern Cuba/Cuba/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/cuba/eastern-cuba/santiago-de-cuba/</link>
 	<description>Plan your trip to Santiago de Cuba with our comprehensive travel guide. Learn about top attractions, hiking/biking routes, food and drink scene, where to stay, local culture, safety, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/delaware-county/chester/</link>
 	<description>Explore the rich culture, natural beauty, and exciting activities that Chester, Pennsylvania has to offer with our comprehensive travel guide.</description>
 	<pubDate>2024-03-23T20:18:57+03:00</pubDate>
-</item><item>
-	<title>As-Suwayda Travel Guide (Hauran/Syria/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/syria/hauran/as-suwayda/</link>
-	<description>Plan your trip to As-Suwayda with this comprehensive travel guide featuring top attractions, restaurants, lodging, and more.</description>
-	<pubDate>2024-03-23T19:50:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
