@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T05:29:27+03:00</pubDate>
-        <lastBuildDate>2024-03-23T05:29:27+03:00</lastBuildDate>
+        <pubDate>2024-03-23T05:44:45+03:00</pubDate>
+        <lastBuildDate>2024-03-23T05:44:45+03:00</lastBuildDate>
 
         <item>
+	<title>Sykesville Travel Guide (Central Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/central-maryland/sykesville/</link>
+	<description>Discover the best places to visit, dine, and stay in Sykesville, Maryland. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-03-23T05:44:45+03:00</pubDate>
+</item><item>
 	<title>Downtown Travel Guide (Seattle/King County/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/king-county/seattle/downtown/</link>
 	<description>Discover the must-visit places, food and drink scene, itinerary, and transportation options in Downtown Seattle. Learn local culture and customs, health and safety precautions, and nearby destinations to visit.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/sodermanland-county/nykoping/</link>
 	<description>Discover the best of Nyköping with this comprehensive travel guide. From cultural attractions and outdoor adventures to local cuisine and transportation options, we've got you covered.</description>
 	<pubDate>2024-03-23T01:11:54+03:00</pubDate>
-</item><item>
-	<title>Pontal do Paraná Travel Guide (Coast/Paraná/South/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/south/parana/coast/pontal-do-parana/</link>
-	<description>Explore the culturally important attractions, natural wonders, best hiking and biking routes, food and drink scene, where to stay and more in Pontal do Paraná, Brazil. Plan the perfect vacation with our week-long itinerary and tips on local customs, safety, and health.</description>
-	<pubDate>2024-03-23T00:45:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
