@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-23T12:31:25+03:00</pubDate>
-        <lastBuildDate>2024-03-23T12:31:25+03:00</lastBuildDate>
+        <pubDate>2024-03-23T12:48:04+03:00</pubDate>
+        <lastBuildDate>2024-03-23T12:48:04+03:00</lastBuildDate>
 
         <item>
+	<title>Letchworth Garden City Travel Guide (Hertfordshire/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/hertfordshire/letchworth-garden-city/</link>
+	<description>Plan your trip to Letchworth Garden City with this comprehensive travel guide. Find information on places to visit, hiking/biking routes, food and drink scene, local culture and customs, safety and health, and transportation options.</description>
+	<pubDate>2024-03-23T12:48:04+03:00</pubDate>
+</item><item>
 	<title>Schaan Travel Guide (Liechtenstein/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/liechtenstein/schaan/</link>
 	<description>Explore the best of Schaan with our comprehensive travel guide, featuring top things to do, places to visit, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/northern-louisiana/coushatta/</link>
 	<description>Discover the best places to visit, the must-try food, and local customs of Coushatta, Louisiana. Learn how to get around, where to stay, and nearby destinations to explore in this comprehensive travel guide.</description>
 	<pubDate>2024-03-23T08:23:37+03:00</pubDate>
-</item><item>
-	<title>Pichanaki Travel Guide (Southern Sierra/Peru/South America)</title>
-	<link>https://travellers.wiki/en/south-america/peru/southern-sierra/pichanaki/</link>
-	<description>Explore the best of Pichanaki with this comprehensive travel guide. Discover must-see attractions, outdoor adventures, local cuisine, accommodations, and more!</description>
-	<pubDate>2024-03-23T07:52:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
