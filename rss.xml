@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T22:17:54+03:00</pubDate>
-        <lastBuildDate>2024-03-24T22:17:54+03:00</lastBuildDate>
+        <pubDate>2024-03-24T22:54:54+03:00</pubDate>
+        <lastBuildDate>2024-03-24T22:54:54+03:00</lastBuildDate>
 
         <item>
+	<title>Corowa Travel Guide (Riverina/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/riverina/corowa/</link>
+	<description>Plan your trip to Corowa, New South Wales, Oceania with this comprehensive guide featuring must-visit places, attractions, food, accommodations, safety tips, cultural insights, and transportation options. Create unforgettable experiences in Corowa that will last a lifetime!</description>
+	<pubDate>2024-03-24T22:54:54+03:00</pubDate>
+</item><item>
 	<title>Saint-Étienne-des-Grès Travel Guide (Maskinongé Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/maskinonge-region/saint-etienne-des-gres/</link>
 	<description>Plan your visit to Saint-Étienne-des-Grès, a beautiful town situated in the heart of Quebec, Canada. Discover its cultural and natural attractions, hiking and biking routes, food and drink scene, places to stay and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/vastergotland/boras/</link>
 	<description>Plan your trip to Borås with our comprehensive travel guide featuring top tourist attractions, restaurants, hotels, local culture and customs, transportation options, and more.</description>
 	<pubDate>2024-03-24T18:14:35+03:00</pubDate>
-</item><item>
-	<title>Banda Besar Travel Guide (Banda Islands/Maluku/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/maluku/banda-islands/banda-besar/</link>
-	<description>Explore the hidden gem of Banda Besar in Maluku, Indonesia. Discover its rich cultural and natural attractions, hiking/biking routes, food and drink scene, accommodations, and transportation options.</description>
-	<pubDate>2024-03-24T17:35:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
