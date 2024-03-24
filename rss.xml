@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T23:36:07+03:00</pubDate>
-        <lastBuildDate>2024-03-24T23:36:07+03:00</lastBuildDate>
+        <pubDate>2024-03-25T00:19:52+03:00</pubDate>
+        <lastBuildDate>2024-03-25T00:19:52+03:00</lastBuildDate>
 
         <item>
+	<title>Taganga Travel Guide (Magdalena Department/Costa Norte/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/costa-norte/magdalena-department/taganga/</link>
+	<description>Plan your trip to Taganga, Magdalena Department, Colombia with our comprehensive travel guide. Discover the top attractions, hiking/biking routes, activities, where to stay, what to buy, local culture and customs, safety, and logistics.</description>
+	<pubDate>2024-03-25T00:19:52+03:00</pubDate>
+</item><item>
 	<title>Yaoundé Travel Guide (South Cameroon Plateau/Cameroon/Central Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/central-africa/cameroon/south-cameroon-plateau/yaounde/</link>
 	<description>Explore the rich heritage of Cameroon, from cultural attractions to scenic views and outdoor activities in Yaoundé, the capital city of Cameroon. Learn everything you need to know for your next trip, including food, accommodations, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/riverina/urana/</link>
 	<description>Discover the best things to do, see, and eat in Urana with our ultimate travel guide. From cultural attractions to outdoor adventures, plan your perfect trip to this charming Australian town.</description>
 	<pubDate>2024-03-24T19:37:43+03:00</pubDate>
-</item><item>
-	<title>Caburé Travel Guide (Northern Maranhão/Maranhão/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/maranhao/northern-maranhao/cabure/</link>
-	<description>Discover the best places to visit, recommended activities, food to try, places to stay and more in Caburé, Maranhão, Brazil. Plan your next trip with our detailed guide.</description>
-	<pubDate>2024-03-24T19:21:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
