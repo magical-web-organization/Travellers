@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T12:15:02+03:00</pubDate>
-        <lastBuildDate>2024-03-24T12:15:02+03:00</lastBuildDate>
+        <pubDate>2024-03-24T12:44:43+03:00</pubDate>
+        <lastBuildDate>2024-03-24T12:44:43+03:00</lastBuildDate>
 
         <item>
+	<title>Riva del Garda Travel Guide (Trentino/Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/trentino/riva-del-garda/</link>
+	<description>Discover the best places to visit, stay and eat in Riva del Garda, a picturesque town located near the stunning Lake Garda in Italy.</description>
+	<pubDate>2024-03-24T12:44:43+03:00</pubDate>
+</item><item>
 	<title>Mayfield Travel Guide (Central Utah/Utah/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/central-utah/mayfield/</link>
 	<description>Discover the best places to visit, things to do, and local culture and customs of Mayfield. Find out the best time to visit, how to get there, and what to buy as souvenirs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southeast-ireland/county-carlow/tullow/</link>
 	<description>Discover the wonderful attractions, activities, and culture of Tullow, County Carlow in Southeast Ireland with this comprehensive travel guide.</description>
 	<pubDate>2024-03-24T08:06:51+03:00</pubDate>
-</item><item>
-	<title>Moraga Travel Guide (Contra Costa County/East Bay/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/contra-costa-county/moraga/</link>
-	<description>Discover all the top attractions, activities, accommodations, and travel tips in Moraga, California with our comprehensive travel guide.</description>
-	<pubDate>2024-03-24T07:50:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
