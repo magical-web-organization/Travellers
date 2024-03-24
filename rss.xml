@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T10:30:23+03:00</pubDate>
-        <lastBuildDate>2024-03-24T10:30:23+03:00</lastBuildDate>
+        <pubDate>2024-03-24T10:45:37+03:00</pubDate>
+        <lastBuildDate>2024-03-24T10:45:37+03:00</lastBuildDate>
 
         <item>
+	<title>Livingstone Travel Guide (Zambezi Basin/Zambia/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/zambia/zambezi-basin/livingstone/</link>
+	<description>This comprehensive tour guide for Livingstone, Zambia covers everything you need to know before traveling to the cultural treasure trove of Zambia, from top places to visit, must-try dishes, and where to stay.</description>
+	<pubDate>2024-03-24T10:45:37+03:00</pubDate>
+</item><item>
 	<title>Rietvlei Nature Reserve Travel Guide (Tshwane/Gauteng/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/gauteng/tshwane/rietvlei-nature-reserve/</link>
 	<description>Discover the culturally and naturally significant places to visit, hikes/biking routes, best things to do, local food scene, where to stay, and do's and don'ts in Rietvlei Nature Reserve.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/viseu/</link>
 	<description>A comprehensive travel guide featuring the best things to do, see, and experience in Viseu, Portugal, including recommendations on where to stay, what to eat, and how to get around.</description>
 	<pubDate>2024-03-24T06:31:35+03:00</pubDate>
-</item><item>
-	<title>Rosignano Marittimo Travel Guide (Livorno (province)/Tuscany/Central Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/livorno-province/rosignano-marittimo/</link>
-	<description>Plan your trip to Rosignano Marittimo, Tuscany, with this comprehensive travel guide. Discover the best things to do, places to stay, and local culture of Rosignano Marittimo.</description>
-	<pubDate>2024-03-24T05:34:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
