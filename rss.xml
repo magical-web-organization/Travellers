@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T05:34:21+03:00</pubDate>
-        <lastBuildDate>2024-03-24T05:34:21+03:00</lastBuildDate>
+        <pubDate>2024-03-24T06:31:35+03:00</pubDate>
+        <lastBuildDate>2024-03-24T06:31:35+03:00</lastBuildDate>
 
         <item>
+	<title>Viseu Travel Guide (Beira Alta/Beiras/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/viseu/</link>
+	<description>A comprehensive travel guide featuring the best things to do, see, and experience in Viseu, Portugal, including recommendations on where to stay, what to eat, and how to get around.</description>
+	<pubDate>2024-03-24T06:31:35+03:00</pubDate>
+</item><item>
 	<title>Rosignano Marittimo Travel Guide (Livorno (province)/Tuscany/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/livorno-province/rosignano-marittimo/</link>
 	<description>Plan your trip to Rosignano Marittimo, Tuscany, with this comprehensive travel guide. Discover the best things to do, places to stay, and local culture of Rosignano Marittimo.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/east-bali/amed/</link>
 	<description>Discover the best places to visit, things to do, food scene and local culture in Amed, Bali. Read our travel guide now and plan your trip to Amed.</description>
 	<pubDate>2024-03-24T01:49:46+03:00</pubDate>
-</item><item>
-	<title>Saratov Oblast Travel Guide (Volga Region/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/saratov-oblast/</link>
-	<description>Explore the best things to do, see and eat in the beautiful Saratov Oblast, Russia. A complete guide to travel logistics, safety and cultural etiquette.</description>
-	<pubDate>2024-03-24T01:26:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
