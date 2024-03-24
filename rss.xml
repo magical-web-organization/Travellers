@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T10:45:37+03:00</pubDate>
-        <lastBuildDate>2024-03-24T10:45:37+03:00</lastBuildDate>
+        <pubDate>2024-03-24T11:32:07+03:00</pubDate>
+        <lastBuildDate>2024-03-24T11:32:07+03:00</lastBuildDate>
 
         <item>
+	<title>Kanata Travel Guide (Ottawa-Rideau/Eastern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/ottawa-rideau/kanata/</link>
+	<description>Discover the best things to do, places to visit, food and drink scene, where to stay, local culture, and customs of Kanata in Eastern Ontario.</description>
+	<pubDate>2024-03-24T11:32:07+03:00</pubDate>
+</item><item>
 	<title>Livingstone Travel Guide (Zambezi Basin/Zambia/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/zambia/zambezi-basin/livingstone/</link>
 	<description>This comprehensive tour guide for Livingstone, Zambia covers everything you need to know before traveling to the cultural treasure trove of Zambia, from top places to visit, must-try dishes, and where to stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/connecticut-river-valley/south-windsor/</link>
 	<description>A comprehensive guide to South Windsor, including places to visit, hiking and biking routes, food and drink scene, where to stay and buy souvenirs, and more.</description>
 	<pubDate>2024-03-24T06:51:52+03:00</pubDate>
-</item><item>
-	<title>Viseu Travel Guide (Beira Alta/Beiras/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/viseu/</link>
-	<description>A comprehensive travel guide featuring the best things to do, see, and experience in Viseu, Portugal, including recommendations on where to stay, what to eat, and how to get around.</description>
-	<pubDate>2024-03-24T06:31:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
