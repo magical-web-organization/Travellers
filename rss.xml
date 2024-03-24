@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T03:38:11+03:00</pubDate>
-        <lastBuildDate>2024-03-24T03:38:11+03:00</lastBuildDate>
+        <pubDate>2024-03-24T04:29:01+03:00</pubDate>
+        <lastBuildDate>2024-03-24T04:29:01+03:00</lastBuildDate>
 
         <item>
+	<title>Thaidene Nene National Park Reserve Travel Guide (Northwest Territories/Northern Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/northern-canada/northwest-territories/thaidene-nene-national-park-reserve/</link>
+	<description>Get all the information you need to plan a trip to Thaidene Nene National Park Reserve in Northwest Territories, Canada, including attractions, hiking routes, food, accommodations, local customs, safety, logistics, and nearby destinations.</description>
+	<pubDate>2024-03-24T04:29:01+03:00</pubDate>
+</item><item>
 	<title>Alor Archipelago Travel Guide (Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/alor-archipelago/</link>
 	<description>A travel guide to Alor Archipelago, including places to visit, activities, hiking/biking routes, food and drink scene, accommodations, local culture, safety and health, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/lower-darling/pooncarie/</link>
 	<description>Plan your trip to Pooncarie with our comprehensive travel guide featuring top attractions, activities, places to stay, and local culture.</description>
 	<pubDate>2024-03-23T23:56:27+03:00</pubDate>
-</item><item>
-	<title>Rochester Travel Guide (Oakland County/Metro Detroit/Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/oakland-county/rochester/</link>
-	<description>Plan your trip to Rochester with this comprehensive guide, featuring top attractions, hiking and biking routes, activities, and more.</description>
-	<pubDate>2024-03-23T23:12:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
