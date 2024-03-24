@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T11:32:07+03:00</pubDate>
-        <lastBuildDate>2024-03-24T11:32:07+03:00</lastBuildDate>
+        <pubDate>2024-03-24T11:53:49+03:00</pubDate>
+        <lastBuildDate>2024-03-24T11:53:49+03:00</lastBuildDate>
 
         <item>
+	<title>Yamba Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/yamba/</link>
+	<description>Plan your trip to Yamba with this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay in Yamba, Australia, with insider tips and recommendations.</description>
+	<pubDate>2024-03-24T11:53:49+03:00</pubDate>
+</item><item>
 	<title>Kanata Travel Guide (Ottawa-Rideau/Eastern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/ottawa-rideau/kanata/</link>
 	<description>Discover the best things to do, places to visit, food and drink scene, where to stay, local culture, and customs of Kanata in Eastern Ontario.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/chalkidiki/kassandra/chaniotis/</link>
 	<description>Discover the best places to visit, things to do, food to try, and more in Chaniotis, Greece with our comprehensive travel guide.</description>
 	<pubDate>2024-03-24T07:13:55+03:00</pubDate>
-</item><item>
-	<title>South Windsor Travel Guide (Connecticut River Valley/Connecticut/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/connecticut-river-valley/south-windsor/</link>
-	<description>A comprehensive guide to South Windsor, including places to visit, hiking and biking routes, food and drink scene, where to stay and buy souvenirs, and more.</description>
-	<pubDate>2024-03-24T06:51:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
