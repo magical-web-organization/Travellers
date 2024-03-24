@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T06:31:35+03:00</pubDate>
-        <lastBuildDate>2024-03-24T06:31:35+03:00</lastBuildDate>
+        <pubDate>2024-03-24T06:51:52+03:00</pubDate>
+        <lastBuildDate>2024-03-24T06:51:52+03:00</lastBuildDate>
 
         <item>
+	<title>South Windsor Travel Guide (Connecticut River Valley/Connecticut/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/connecticut-river-valley/south-windsor/</link>
+	<description>A comprehensive guide to South Windsor, including places to visit, hiking and biking routes, food and drink scene, where to stay and buy souvenirs, and more.</description>
+	<pubDate>2024-03-24T06:51:52+03:00</pubDate>
+</item><item>
 	<title>Viseu Travel Guide (Beira Alta/Beiras/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/viseu/</link>
 	<description>A comprehensive travel guide featuring the best things to do, see, and experience in Viseu, Portugal, including recommendations on where to stay, what to eat, and how to get around.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/alberta-rockies/banff-national-park/</link>
 	<description>A comprehensive tour guide for Banff National Park, including places to visit, activities to do, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, nearby destinations and much more.</description>
 	<pubDate>2024-03-24T02:20:38+03:00</pubDate>
-</item><item>
-	<title>Amed Travel Guide (East Bali/Bali/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/east-bali/amed/</link>
-	<description>Discover the best places to visit, things to do, food scene and local culture in Amed, Bali. Read our travel guide now and plan your trip to Amed.</description>
-	<pubDate>2024-03-24T01:49:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
