@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T09:24:30+03:00</pubDate>
-        <lastBuildDate>2024-03-24T09:24:30+03:00</lastBuildDate>
+        <pubDate>2024-03-24T09:58:04+03:00</pubDate>
+        <lastBuildDate>2024-03-24T09:58:04+03:00</lastBuildDate>
 
         <item>
+	<title>Muscat Travel Guide (Northern Oman/Oman/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/oman/northern-oman/muscat/</link>
+	<description>Discover the top places to visit, food and drink scene, cultural attractions, safety tips and more in our comprehensive Muscat Travel Guide.</description>
+	<pubDate>2024-03-24T09:58:04+03:00</pubDate>
+</item><item>
 	<title>Leh Travel Guide (Ladakh/Himalayan North/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/ladakh/leh/</link>
 	<description>Plan your trip to Leh, India with this comprehensive tour guide covering things to do, places to visit, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-great-plain/lake-tisza/kunhegyes/</link>
 	<description>Kunhegyes is a hidden gem in Hungary, offering an array of cultural and natural attractions. Plan your trip with our ultimate travel guide which includes information on places to visit, food, activities, and more!</description>
 	<pubDate>2024-03-24T05:31:49+03:00</pubDate>
-</item><item>
-	<title>Laguna Miramar Travel Guide (Chiapas/Yucatán and the South/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/chiapas/laguna-miramar/</link>
-	<description>Plan your trip to the beautiful Laguna Miramar in Mexico with our comprehensive travel guide. From natural attractions to cultural landmarks and more, we've got you covered.</description>
-	<pubDate>2024-03-24T04:45:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
