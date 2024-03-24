@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T20:30:37+03:00</pubDate>
-        <lastBuildDate>2024-03-24T20:30:37+03:00</lastBuildDate>
+        <pubDate>2024-03-24T21:02:35+03:00</pubDate>
+        <lastBuildDate>2024-03-24T21:02:35+03:00</lastBuildDate>
 
         <item>
+	<title>Tafresh Travel Guide (Central Western Iran/Western Iran/Iran/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iran/western-iran/central-western-iran/tafresh/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local culture and customs in Tafresh, Iran.</description>
+	<pubDate>2024-03-24T21:02:35+03:00</pubDate>
+</item><item>
 	<title>Santa Cruz de Tenerife Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/santa-cruz-de-tenerife/</link>
 	<description>Discover the best places to visit, food to try, where to stay, and what to do in Santa Cruz de Tenerife.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/cumberland-gap-national-historical-park/</link>
 	<description>Discover the wonders of Cumberland Gap National Historical Park with our comprehensive travel guide, featuring information on must-see attractions, hiking and biking routes, best things to do, where to stay and eat, safety and health tips, and much more.</description>
 	<pubDate>2024-03-24T16:11:40+03:00</pubDate>
-</item><item>
-	<title>Pisew Falls Provincial Park Travel Guide (North of 53/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/north-of-53/pisew-falls-provincial-park/</link>
-	<description>Get to know the cultural and natural attractions of Pisew Falls Provincial Park. Enjoy a perfect 7-day itinerary, know about the food and drink scene, and learn tips for safety and health before visiting the park.</description>
-	<pubDate>2024-03-24T15:39:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
