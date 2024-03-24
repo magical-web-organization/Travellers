@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T19:37:43+03:00</pubDate>
-        <lastBuildDate>2024-03-24T19:37:43+03:00</lastBuildDate>
+        <pubDate>2024-03-24T20:30:37+03:00</pubDate>
+        <lastBuildDate>2024-03-24T20:30:37+03:00</lastBuildDate>
 
         <item>
+	<title>Santa Cruz de Tenerife Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/santa-cruz-de-tenerife/</link>
+	<description>Discover the best places to visit, food to try, where to stay, and what to do in Santa Cruz de Tenerife.</description>
+	<pubDate>2024-03-24T20:30:37+03:00</pubDate>
+</item><item>
 	<title>Urana Travel Guide (Riverina/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/riverina/urana/</link>
 	<description>Discover the best things to do, see, and eat in Urana with our ultimate travel guide. From cultural attractions to outdoor adventures, plan your perfect trip to this charming Australian town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/north-of-53/pisew-falls-provincial-park/</link>
 	<description>Get to know the cultural and natural attractions of Pisew Falls Provincial Park. Enjoy a perfect 7-day itinerary, know about the food and drink scene, and learn tips for safety and health before visiting the park.</description>
 	<pubDate>2024-03-24T15:39:09+03:00</pubDate>
-</item><item>
-	<title>Des Moines Travel Guide (Central Iowa/Iowa/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/central-iowa/des-moines/</link>
-	<description>Discover the top attractions, food and drink scene, cultural customs, safety and health tips, and transportation options in Des Moines with this comprehensive travel guide.</description>
-	<pubDate>2024-03-24T15:13:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
