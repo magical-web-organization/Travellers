@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-24T14:43:27+03:00</pubDate>
-        <lastBuildDate>2024-03-24T14:43:27+03:00</lastBuildDate>
+        <pubDate>2024-03-24T15:13:09+03:00</pubDate>
+        <lastBuildDate>2024-03-24T15:13:09+03:00</lastBuildDate>
 
         <item>
+	<title>Des Moines Travel Guide (Central Iowa/Iowa/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/central-iowa/des-moines/</link>
+	<description>Discover the top attractions, food and drink scene, cultural customs, safety and health tips, and transportation options in Des Moines with this comprehensive travel guide.</description>
+	<pubDate>2024-03-24T15:13:09+03:00</pubDate>
+</item><item>
 	<title>Schulenburg Travel Guide (Post Oak Savannah/Prairies and Lakes/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/post-oak-savannah/schulenburg/</link>
 	<description>Plan your visit to Schulenburg, Texas with this comprehensive tour guide. Discover the best attractions, activities, food, and accommodations, and learn about the local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/zambia/zambezi-basin/livingstone/</link>
 	<description>This comprehensive tour guide for Livingstone, Zambia covers everything you need to know before traveling to the cultural treasure trove of Zambia, from top places to visit, must-try dishes, and where to stay.</description>
 	<pubDate>2024-03-24T10:45:37+03:00</pubDate>
-</item><item>
-	<title>Rietvlei Nature Reserve Travel Guide (Tshwane/Gauteng/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/gauteng/tshwane/rietvlei-nature-reserve/</link>
-	<description>Discover the culturally and naturally significant places to visit, hikes/biking routes, best things to do, local food scene, where to stay, and do's and don'ts in Rietvlei Nature Reserve.</description>
-	<pubDate>2024-03-24T10:30:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
