@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-25T04:43:21+03:00</pubDate>
-        <lastBuildDate>2024-03-25T04:43:21+03:00</lastBuildDate>
+        <pubDate>2024-03-25T05:09:47+03:00</pubDate>
+        <lastBuildDate>2024-03-25T05:09:47+03:00</lastBuildDate>
 
         <item>
+	<title>Magodo Travel Guide (Lagos State/South West Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/lagos-state/magodo/</link>
+	<description>Discover the best things to do, places to visit, local culture, and what to expect when visiting Magodo, Lagos, Nigeria.</description>
+	<pubDate>2024-03-25T05:09:47+03:00</pubDate>
+</item><item>
 	<title>Mayagüez Travel Guide (Porta del Sol/Puerto Rico/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/porta-del-sol/mayaguez/</link>
 	<description>Plan your trip to Mayagüez with our comprehensive travel guide, featuring top attractions, hiking routes, food and drink scenes, accommodation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/gambia/brufut/</link>
 	<description>Discover the beauty of Brufut with this complete travel guide. From cultural attractions to natural wonders, food and drink, and where to stay, we'll cover everything you need to know to make the most of your trip.</description>
 	<pubDate>2024-03-25T00:53:12+03:00</pubDate>
-</item><item>
-	<title>Taganga Travel Guide (Magdalena Department/Costa Norte/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/costa-norte/magdalena-department/taganga/</link>
-	<description>Plan your trip to Taganga, Magdalena Department, Colombia with our comprehensive travel guide. Discover the top attractions, hiking/biking routes, activities, where to stay, what to buy, local culture and customs, safety, and logistics.</description>
-	<pubDate>2024-03-25T00:19:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
