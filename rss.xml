@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T01:52:48+03:00</pubDate>
-        <lastBuildDate>2024-03-26T01:52:48+03:00</lastBuildDate>
+        <pubDate>2024-03-26T02:15:16+03:00</pubDate>
+        <lastBuildDate>2024-03-26T02:15:16+03:00</lastBuildDate>
 
         <item>
+	<title>Banbury Travel Guide (Oxfordshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/oxfordshire/banbury/</link>
+	<description>Discover the best places to visit, where to stay, what to eat, and how to get around in Banbury with this comprehensive travel guide.</description>
+	<pubDate>2024-03-26T02:15:16+03:00</pubDate>
+</item><item>
 	<title>Valle San Giovanni Travel Guide (Teramo (province)/Abruzzo/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/teramo-province/valle-san-giovanni/</link>
 	<description>Discover the cultural and natural attractions of Valle San Giovanni in Abruzzo, Italy. Find out where to stay, what to do, and what to buy in this charming village.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-chungcheong/suanbo/</link>
 	<description>Get ready to explore the culturally rich and naturally diverse destination of Suanbo in South Korea. Discover the best places to visit, where to stay, what to eat, must-try activities, and more.</description>
 	<pubDate>2024-03-25T21:50:30+03:00</pubDate>
-</item><item>
-	<title>Toyota Travel Guide (Aichi/Chubu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/aichi/toyota/</link>
-	<description>Explore the best of Toyota with this comprehensive travel guide. From cultural attractions to outdoor adventures, food and drink scene, where to stay, and transportation options, we've got you covered!</description>
-	<pubDate>2024-03-25T21:33:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
