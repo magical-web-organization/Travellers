@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T00:42:07+03:00</pubDate>
-        <lastBuildDate>2024-03-26T00:42:07+03:00</lastBuildDate>
+        <pubDate>2024-03-26T01:13:18+03:00</pubDate>
+        <lastBuildDate>2024-03-26T01:13:18+03:00</lastBuildDate>
 
         <item>
+	<title>Shymkent Travel Guide (Kazakh Desert/Kazakhstan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/kazakhstan/kazakh-desert/shymkent/</link>
+	<description>Plan your trip to Shymkent with our comprehensive guide featuring top attractions, hiking and biking routes, food and drink scene, safety and health information, transportation options, and more.</description>
+	<pubDate>2024-03-26T01:13:18+03:00</pubDate>
+</item><item>
 	<title>Lofoten Travel Guide (Nordland/Northern Norway/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/northern-norway/nordland/lofoten/</link>
 	<description>Explore Norway's stunning Lofoten Islands with our comprehensive travel guide. Discover the best things to do, places to stay, food & drink scene, and local culture of Lofoten.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/nelson-bays/abel-tasman-national-park/</link>
 	<description>Plan your Abel Tasman National Park trip with this comprehensive tour guide covering places to visit, hiking/biking routes, activities and tours, food and drink scene, where to stay, local culture and more.</description>
 	<pubDate>2024-03-25T20:39:42+03:00</pubDate>
-</item><item>
-	<title>Järvenpää Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/jarvenpaa/</link>
-	<description>Discover the best places to visit, eat, and stay in Järvenpää, Finland. Plan your trip with our extensive guide to this charming destination.</description>
-	<pubDate>2024-03-25T20:10:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
