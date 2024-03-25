@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-25T13:34:38+03:00</pubDate>
-        <lastBuildDate>2024-03-25T13:34:38+03:00</lastBuildDate>
+        <pubDate>2024-03-25T14:26:55+03:00</pubDate>
+        <lastBuildDate>2024-03-25T14:26:55+03:00</lastBuildDate>
 
         <item>
+	<title>Great Barrier Island Travel Guide (Auckland Region/North Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/auckland-region/great-barrier-island/</link>
+	<description>Discover the natural beauty, cultural attractions, and unique experiences of Great Barrier Island in New Zealand with this comprehensive travel guide. Find out where to stay, what to do, and how to get there.</description>
+	<pubDate>2024-03-25T14:26:55+03:00</pubDate>
+</item><item>
 	<title>Wolkberg Wilderness Area Travel Guide (Limpopo/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/limpopo/wolkberg-wilderness-area/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with our comprehensive guide to Wolkberg Wilderness Area in South Africa.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-jeolla/</link>
 	<description>Explore North Jeolla, South Korea with this comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-03-25T09:38:27+03:00</pubDate>
-</item><item>
-	<title>Cullman Travel Guide (Mountains/Alabama/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/cullman/</link>
-	<description>Explore the culturally rich and naturally beautiful city of Cullman, Alabama. Our travel guide provides everything you need to know including places to visit, must-try dishes, and transportation options.</description>
-	<pubDate>2024-03-25T09:26:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
