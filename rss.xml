@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-25T20:10:16+03:00</pubDate>
-        <lastBuildDate>2024-03-25T20:10:16+03:00</lastBuildDate>
+        <pubDate>2024-03-25T20:39:42+03:00</pubDate>
+        <lastBuildDate>2024-03-25T20:39:42+03:00</lastBuildDate>
 
         <item>
+	<title>Abel Tasman National Park Travel Guide (Nelson Bays/South Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/nelson-bays/abel-tasman-national-park/</link>
+	<description>Plan your Abel Tasman National Park trip with this comprehensive tour guide covering places to visit, hiking/biking routes, activities and tours, food and drink scene, where to stay, local culture and more.</description>
+	<pubDate>2024-03-25T20:39:42+03:00</pubDate>
+</item><item>
 	<title>Järvenpää Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/jarvenpaa/</link>
 	<description>Discover the best places to visit, eat, and stay in Järvenpää, Finland. Plan your trip with our extensive guide to this charming destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/central-virginia/petersburg/</link>
 	<description>Plan your trip to Petersburg, Virginia with our expert travel guide featuring top attractions, hiking and biking routes, local food and drink, accommodations, and more.</description>
 	<pubDate>2024-03-25T16:30:19+03:00</pubDate>
-</item><item>
-	<title>Thames Ditton Travel Guide (Surrey/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/thames-ditton/</link>
-	<description>Explore the hidden gem of Thames Ditton in Surrey, England with this comprehensive travel guide that details the top attractions, hiking routes, food scene, and culture of the area. Find out the best time to visit and how to get around while staying safe and healthy.</description>
-	<pubDate>2024-03-25T15:39:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
