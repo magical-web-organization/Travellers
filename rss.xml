@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-25T06:06:20+03:00</pubDate>
-        <lastBuildDate>2024-03-25T06:06:20+03:00</lastBuildDate>
+        <pubDate>2024-03-25T07:02:21+03:00</pubDate>
+        <lastBuildDate>2024-03-25T07:02:21+03:00</lastBuildDate>
 
         <item>
+	<title>Tirta Gangga Travel Guide (East Bali/Bali/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/east-bali/tirta-gangga/</link>
+	<description>Plan your trip to Tirta Gangga with our comprehensive travel guide. Discover the top things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-03-25T07:02:21+03:00</pubDate>
+</item><item>
 	<title>Sonian Forest Travel Guide (Brussels/Belgium/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/belgium/brussels/sonian-forest/</link>
 	<description>Discover the beauty and culture of Sonian Forest in Belgium with our informative guide. Learn about the best places to visit, hiking/biking routes, local food and drink, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/gustrow/</link>
 	<description>Discover everything you need to know about Güstrow including information on places to visit, outdoor adventures, local culture, safety and health, and transportation logistics.</description>
 	<pubDate>2024-03-25T02:21:45+03:00</pubDate>
-</item><item>
-	<title>Russell Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/russell/</link>
-	<description>Discover the hidden gems of Russell, Manitoba with this comprehensive travel guide. From outdoor adventures to cultural landmarks, this guide covers everything you need to know to plan your trip to Russell.</description>
-	<pubDate>2024-03-25T01:56:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
