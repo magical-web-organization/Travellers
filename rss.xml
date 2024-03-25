@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-25T08:41:23+03:00</pubDate>
-        <lastBuildDate>2024-03-25T08:41:23+03:00</lastBuildDate>
+        <pubDate>2024-03-25T09:26:03+03:00</pubDate>
+        <lastBuildDate>2024-03-25T09:26:03+03:00</lastBuildDate>
 
         <item>
+	<title>Cullman Travel Guide (Mountains/Alabama/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/cullman/</link>
+	<description>Explore the culturally rich and naturally beautiful city of Cullman, Alabama. Our travel guide provides everything you need to know including places to visit, must-try dishes, and transportation options.</description>
+	<pubDate>2024-03-25T09:26:03+03:00</pubDate>
+</item><item>
 	<title>Kermanshah Travel Guide (Central Western Iran/Western Iran/Iran/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/iran/western-iran/central-western-iran/kermanshah/</link>
 	<description>Are you planning your next travel adventure in Kermanshah? This comprehensive travel guide will help you explore the attractions, culture, food, and more of Kermanshah, Iran.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/porta-del-sol/mayaguez/</link>
 	<description>Plan your trip to Mayagüez with our comprehensive travel guide, featuring top attractions, hiking routes, food and drink scenes, accommodation options, and more.</description>
 	<pubDate>2024-03-25T04:43:21+03:00</pubDate>
-</item><item>
-	<title>Gonikoppal Travel Guide (Kodagu/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/kodagu/gonikoppal/</link>
-	<description>Plan your trip to Gonikoppal with this comprehensive travel guide, featuring a list of places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-03-25T04:09:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
