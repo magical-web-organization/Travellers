@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-25T19:34:24+03:00</pubDate>
-        <lastBuildDate>2024-03-25T19:34:24+03:00</lastBuildDate>
+        <pubDate>2024-03-25T20:10:16+03:00</pubDate>
+        <lastBuildDate>2024-03-25T20:10:16+03:00</lastBuildDate>
 
         <item>
+	<title>Järvenpää Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/jarvenpaa/</link>
+	<description>Discover the best places to visit, eat, and stay in Järvenpää, Finland. Plan your trip with our extensive guide to this charming destination.</description>
+	<pubDate>2024-03-25T20:10:16+03:00</pubDate>
+</item><item>
 	<title>Higashiyama Travel Guide (Kyoto/Kyoto (prefecture)/Kansai/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/kyoto-prefecture/kyoto/higashiyama/</link>
 	<description>Discover the best things to do, see, and eat in Higashiyama, Kyoto with our travel guide. Plan your trip with our recommendations for accommodations, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/thames-ditton/</link>
 	<description>Explore the hidden gem of Thames Ditton in Surrey, England with this comprehensive travel guide that details the top attractions, hiking routes, food scene, and culture of the area. Find out the best time to visit and how to get around while staying safe and healthy.</description>
 	<pubDate>2024-03-25T15:39:51+03:00</pubDate>
-</item><item>
-	<title>Lusaka Travel Guide (Central Zambia/Zambia/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/zambia/central-zambia/lusaka/</link>
-	<description>A comprehensive travel guide to Lusaka, Zambia, including information on attractions, accommodations, food, culture, safety, logistics, and nearby destinations.</description>
-	<pubDate>2024-03-25T15:08:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
