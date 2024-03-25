@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-25T10:25:33+03:00</pubDate>
-        <lastBuildDate>2024-03-25T10:25:33+03:00</lastBuildDate>
+        <pubDate>2024-03-25T10:50:08+03:00</pubDate>
+        <lastBuildDate>2024-03-25T10:50:08+03:00</lastBuildDate>
 
         <item>
+	<title>Iguape Travel Guide (Santos and South Coast/São Paulo (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/santos-and-south-coast/iguape/</link>
+	<description>Discover the best places to visit, hiking and biking routes, activities and tours, food and drink scene, and local culture and customs of Iguape, Brazil in this comprehensive travel guide.</description>
+	<pubDate>2024-03-25T10:50:08+03:00</pubDate>
+</item><item>
 	<title>Ely Travel Guide (Cambridgeshire/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/cambridgeshire/ely/</link>
 	<description>Plan your perfect trip to Ely, England with this comprehensive guide featuring top attractions, accommodations, dining, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/belgium/brussels/sonian-forest/</link>
 	<description>Discover the beauty and culture of Sonian Forest in Belgium with our informative guide. Learn about the best places to visit, hiking/biking routes, local food and drink, accommodations, and more.</description>
 	<pubDate>2024-03-25T06:06:20+03:00</pubDate>
-</item><item>
-	<title>Redwood National Park Travel Guide (North Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/redwood-national-park/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and how to stay safe in Redwood National Park with this comprehensive guide.</description>
-	<pubDate>2024-03-25T05:41:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
