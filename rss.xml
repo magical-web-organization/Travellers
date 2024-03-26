@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T13:47:22+03:00</pubDate>
-        <lastBuildDate>2024-03-26T13:47:22+03:00</lastBuildDate>
+        <pubDate>2024-03-26T14:19:00+03:00</pubDate>
+        <lastBuildDate>2024-03-26T14:19:00+03:00</lastBuildDate>
 
         <item>
+	<title>Wellfleet Travel Guide (South Central Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/south-central-nebraska/wellfleet/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Wellfleet. Learn about the local culture, food scene, and transportation options in this South Central Nebraska destination.</description>
+	<pubDate>2024-03-26T14:19:00+03:00</pubDate>
+</item><item>
 	<title>Ostrobothnia Travel Guide (West Coast/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/ostrobothnia/</link>
 	<description>Planning a trip to Ostrobothnia, Finland? This comprehensive travel guide covers everything from the best places to visit, top things to do, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/</link>
 	<description>Explore Southern Aegean, Turkey using our comprehensive travel guide featuring major attractions, local customs, and itinerary suggestions.</description>
 	<pubDate>2024-03-26T09:49:54+03:00</pubDate>
-</item><item>
-	<title>Shijak Travel Guide (Coastal Albania/Albania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/albania/coastal-albania/shijak/</link>
-	<description>Plan your trip to Shijak, Albania with this ultimate travel guide. Discover top attractions, best places to stay, when to visit, local culture, health and safety, transportation options, and more.</description>
-	<pubDate>2024-03-26T09:07:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
