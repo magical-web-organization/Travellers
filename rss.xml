@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T04:50:52+03:00</pubDate>
-        <lastBuildDate>2024-03-26T04:50:52+03:00</lastBuildDate>
+        <pubDate>2024-03-26T05:29:43+03:00</pubDate>
+        <lastBuildDate>2024-03-26T05:29:43+03:00</lastBuildDate>
 
         <item>
+	<title>Gliwice Travel Guide (Silesian Voivodeship/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/gliwice/</link>
+	<description>Gliwice Travel Guide - A complete itinerary with the best travel tips and recommendations for Gliwice in Poland, including top things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-03-26T05:29:43+03:00</pubDate>
+</item><item>
 	<title>Loma Plata Travel Guide (Gran Chaco/Paraguay/South America)</title>
 	<link>https://travellers.wiki/en/south-america/paraguay/gran-chaco/loma-plata/</link>
 	<description>Learn about the culturally and naturally rich Loma Plata in Paraguay, enjoy outdoor adventures and scenic views on hiking/biking routes, tour museums and historical places, taste local delicacies, and explore nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/northern-norway/nordland/lofoten/</link>
 	<description>Explore Norway's stunning Lofoten Islands with our comprehensive travel guide. Discover the best things to do, places to stay, food & drink scene, and local culture of Lofoten.</description>
 	<pubDate>2024-03-26T00:42:07+03:00</pubDate>
-</item><item>
-	<title>Haidian Travel Guide (Beijing/North China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/beijing/haidian/</link>
-	<description>Discover the best things to do, places to visit, hiking routes, where to stay, and what to buy in Haidian. Learn about local culture and customs and get useful travel tips.</description>
-	<pubDate>2024-03-26T00:26:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
