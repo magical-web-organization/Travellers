@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T14:51:08+03:00</pubDate>
-        <lastBuildDate>2024-03-26T14:51:08+03:00</lastBuildDate>
+        <pubDate>2024-03-26T15:24:34+03:00</pubDate>
+        <lastBuildDate>2024-03-26T15:24:34+03:00</lastBuildDate>
 
         <item>
+	<title>Umeå Travel Guide (Västerbotten County/Norrland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/vasterbotten-county/umea/</link>
+	<description>Explore Umeå, Sweden with our comprehensive travel guide. Discover the best things to do, where to stay, and where to eat. Read on for more information!</description>
+	<pubDate>2024-03-26T15:24:34+03:00</pubDate>
+</item><item>
 	<title>State College Travel Guide (Pennsylvania Wilds/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-wilds/state-college/</link>
 	<description>Discover the culturally rich and naturally beautiful State College in Pennsylvania with this comprehensive travel guide. Plan your trip with our list of must-visit places, hiking and biking routes, and local dishes to try.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/nara-prefecture/yoshino/</link>
 	<description>Plan your trip to the beautiful town of Yoshino in Nara, Japan with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-03-26T10:54:44+03:00</pubDate>
-</item><item>
-	<title>Hogeland Travel Guide (Groningen (province)/Northern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/groningen-province/hogeland/</link>
-	<description>Discover the beauty of Hogeland, Netherlands with our comprehensive travel guide featuring top attractions, food, accommodation, and more.</description>
-	<pubDate>2024-03-26T10:33:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
