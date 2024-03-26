@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T03:49:31+03:00</pubDate>
-        <lastBuildDate>2024-03-26T03:49:31+03:00</lastBuildDate>
+        <pubDate>2024-03-26T04:05:34+03:00</pubDate>
+        <lastBuildDate>2024-03-26T04:05:34+03:00</lastBuildDate>
 
         <item>
+	<title>Brändö Travel Guide (Åland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/aland/brando/</link>
+	<description>Discover the top attractions, best things to do, must-try dishes, and transportation options in Brändö, Finland with this comprehensive travel guide.</description>
+	<pubDate>2024-03-26T04:05:34+03:00</pubDate>
+</item><item>
 	<title>Holguín Travel Guide (Eastern Cuba/Cuba/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/cuba/eastern-cuba/holguin/</link>
 	<description>Discover the best things to do, places to visit, and local tips for your trip to Holguín, Cuba. Plan your itinerary with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/baltic-states/latvia/riga-region/riga/outer-east-bank/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get to Outer East Bank in Riga, Latvia. Learn about the local culture, food, and customs while staying safe and healthy on your trip.</description>
 	<pubDate>2024-03-25T23:51:23+03:00</pubDate>
-</item><item>
-	<title>Jászberény Travel Guide (Jász-Nagykun-Szolnok County/Northern Great Plain/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-great-plain/jasz-nagykun-szolnok-county/jaszbereny/</link>
-	<description>Jászberény is a beautiful city in Hungary that offers a perfect mix of culture, nature, and outdoor activities. In this travel guide, you will find all the information you need to plan a memorable trip to Jászberény.</description>
-	<pubDate>2024-03-25T23:16:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
