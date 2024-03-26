@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T09:49:54+03:00</pubDate>
-        <lastBuildDate>2024-03-26T09:49:54+03:00</lastBuildDate>
+        <pubDate>2024-03-26T10:33:26+03:00</pubDate>
+        <lastBuildDate>2024-03-26T10:33:26+03:00</lastBuildDate>
 
         <item>
+	<title>Hogeland Travel Guide (Groningen (province)/Northern Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/groningen-province/hogeland/</link>
+	<description>Discover the beauty of Hogeland, Netherlands with our comprehensive travel guide featuring top attractions, food, accommodation, and more.</description>
+	<pubDate>2024-03-26T10:33:26+03:00</pubDate>
+</item><item>
 	<title>Southern Aegean Travel Guide (Aegean Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/</link>
 	<description>Explore Southern Aegean, Turkey using our comprehensive travel guide featuring major attractions, local customs, and itinerary suggestions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/edmonton-capital-region/stony-plain/</link>
 	<description>Discover the best places to visit, stay, and eat in Stony Plain with our comprehensive travel guide. Plan your Canadian vacation in this beautiful town today!</description>
 	<pubDate>2024-03-26T05:39:35+03:00</pubDate>
-</item><item>
-	<title>Gliwice Travel Guide (Silesian Voivodeship/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/gliwice/</link>
-	<description>Gliwice Travel Guide - A complete itinerary with the best travel tips and recommendations for Gliwice in Poland, including top things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-03-26T05:29:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
