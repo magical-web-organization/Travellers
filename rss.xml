@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T15:24:34+03:00</pubDate>
-        <lastBuildDate>2024-03-26T15:24:34+03:00</lastBuildDate>
+        <pubDate>2024-03-26T15:38:28+03:00</pubDate>
+        <lastBuildDate>2024-03-26T15:38:28+03:00</lastBuildDate>
 
         <item>
+	<title>Jayuya Travel Guide (La Montaña/Puerto Rico/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/la-montana/jayuya/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and where to go next in Jayuya, Puerto Rico, in this comprehensive travel guide.</description>
+	<pubDate>2024-03-26T15:38:28+03:00</pubDate>
+</item><item>
 	<title>Umeå Travel Guide (Västerbotten County/Norrland/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/vasterbotten-county/umea/</link>
 	<description>Explore Umeå, Sweden with our comprehensive travel guide. Discover the best things to do, where to stay, and where to eat. Read on for more information!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/pearl-river-delta/guangzhou/haizhu/</link>
 	<description>Explore the hidden gems of Haizhu, Guangzhou with our comprehensive travel guide. Discover the best places to visit, outdoor activities, must-try local dishes, and more.</description>
 	<pubDate>2024-03-26T11:28:53+03:00</pubDate>
-</item><item>
-	<title>Yoshino Travel Guide (Nara (prefecture)/Kansai/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/nara-prefecture/yoshino/</link>
-	<description>Plan your trip to the beautiful town of Yoshino in Nara, Japan with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-03-26T10:54:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
