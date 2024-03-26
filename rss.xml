@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T19:16:17+03:00</pubDate>
-        <lastBuildDate>2024-03-26T19:16:17+03:00</lastBuildDate>
+        <pubDate>2024-03-26T20:02:12+03:00</pubDate>
+        <lastBuildDate>2024-03-26T20:02:12+03:00</lastBuildDate>
 
         <item>
+	<title>Maijishan National Park Travel Guide (Gansu/Northwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/maijishan-national-park/</link>
+	<description>Discover the natural and cultural wonders of Maijishan National Park in Gansu, China with our comprehensive travel guide featuring top attractions, activities, food, and more.</description>
+	<pubDate>2024-03-26T20:02:12+03:00</pubDate>
+</item><item>
 	<title>Berowra Valley National Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/berowra-valley-national-park/</link>
 	<description>Discover the natural and cultural attractions, food, accommodations, safety tips, and transportation options for a memorable trip to Berowra Valley National Park in Sydney, Australia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/vasterbotten-county/umea/</link>
 	<description>Explore Umeå, Sweden with our comprehensive travel guide. Discover the best things to do, where to stay, and where to eat. Read on for more information!</description>
 	<pubDate>2024-03-26T15:24:34+03:00</pubDate>
-</item><item>
-	<title>State College Travel Guide (Pennsylvania Wilds/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-wilds/state-college/</link>
-	<description>Discover the culturally rich and naturally beautiful State College in Pennsylvania with this comprehensive travel guide. Plan your trip with our list of must-visit places, hiking and biking routes, and local dishes to try.</description>
-	<pubDate>2024-03-26T14:51:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
