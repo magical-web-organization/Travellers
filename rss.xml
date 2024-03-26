@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-26T16:51:30+03:00</pubDate>
-        <lastBuildDate>2024-03-26T16:51:30+03:00</lastBuildDate>
+        <pubDate>2024-03-26T17:27:55+03:00</pubDate>
+        <lastBuildDate>2024-03-26T17:27:55+03:00</lastBuildDate>
 
         <item>
+	<title>Settler Country Travel Guide (Eastern Cape/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/settler-country/</link>
+	<description>A comprehensive travel guide to Settler Country in South Africa featuring cultural attractions, natural wonders, hiking trails, food and drink scene, local culture, transportation options, and more.</description>
+	<pubDate>2024-03-26T17:27:55+03:00</pubDate>
+</item><item>
 	<title>Pilanesberg National Park Travel Guide (North West Province/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/north-west-province/pilanesberg-national-park/</link>
 	<description>Discover the beauty and adventure of Pilanesberg National Park with our comprehensive travel guide. Explore its natural and cultural attractions, find the best things to do, where to stay, what to buy, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/argentina/mesopotamia/misiones/</link>
 	<description>Explore Misiones, Argentina with our comprehensive travel guide. Discover the best things to do, places to stay, and food to eat in this breathtaking location.</description>
 	<pubDate>2024-03-26T12:54:52+03:00</pubDate>
-</item><item>
-	<title>Al Khor Travel Guide (Qatar/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/qatar/al-khor/</link>
-	<description>Discover the best places to visit, things to do, where to stay, eat, and shop in Al Khor, Qatar with our comprehensive travel guide.</description>
-	<pubDate>2024-03-26T12:33:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
