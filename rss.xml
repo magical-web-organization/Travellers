@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T21:54:14+03:00</pubDate>
-        <lastBuildDate>2024-03-27T21:54:14+03:00</lastBuildDate>
+        <pubDate>2024-03-27T22:07:28+03:00</pubDate>
+        <lastBuildDate>2024-03-27T22:07:28+03:00</lastBuildDate>
 
         <item>
+	<title>Remoulins Travel Guide (Gard/Occitanie/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/occitanie/gard/remoulins/</link>
+	<description>Planning a trip to Remoulins? Find out about top things to do, places to visit, hotels, food, and local culture in this comprehensive travel guide!</description>
+	<pubDate>2024-03-27T22:07:28+03:00</pubDate>
+</item><item>
 	<title>Imouzzer Travel Guide (South Atlantic Coast/Morocco/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/south-atlantic-coast/imouzzer/</link>
 	<description>Planning a trip to Imouzzer? This comprehensive guide covers everything you need to know about Imouzzer, Morocco, from must-visit places, cultural attractions, natural landscapes, hiking/biking routes, food, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/south-central-nebraska/wallace/</link>
 	<description>Plan your trip to Wallace, Nebraska with this comprehensive travel guide featuring top places to visit, hiking and biking routes, itinerary, food and drink scene, local culture, safety and health information, transportation options, and nearby destinations.</description>
 	<pubDate>2024-03-27T18:01:54+03:00</pubDate>
-</item><item>
-	<title>Sanford Travel Guide (Southern Coast/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/southern-coast/sanford/</link>
-	<description>Plan your trip to Sanford, Maine with this comprehensive tour guide featuring top attractions, hiking/biking routes, best things to do and more.</description>
-	<pubDate>2024-03-27T17:32:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
