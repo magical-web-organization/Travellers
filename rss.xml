@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T19:32:38+03:00</pubDate>
-        <lastBuildDate>2024-03-27T19:32:38+03:00</lastBuildDate>
+        <pubDate>2024-03-27T19:44:11+03:00</pubDate>
+        <lastBuildDate>2024-03-27T19:44:11+03:00</lastBuildDate>
 
         <item>
+	<title>Providence Travel Guide (Providence County/Rhode Island/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/providence-county/providence/</link>
+	<description>Read this comprehensive travel guide to learn about the best places to visit, delicious foods to try, and important safety tips in Providence, Rhode Island.</description>
+	<pubDate>2024-03-27T19:44:11+03:00</pubDate>
+</item><item>
 	<title>Regina Travel Guide (Southeastern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/southeastern-saskatchewan/regina/</link>
 	<description>Plan your trip to Regina with this comprehensive travel guide featuring top attractions, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/suriname/paramaribo/</link>
 	<description>Plan your trip to Paramaribo, Suriname with our comprehensive travel guide featuring top attractions, best things to do, where to stay, and more.</description>
 	<pubDate>2024-03-27T15:13:23+03:00</pubDate>
-</item><item>
-	<title>South Hadley Travel Guide (Pioneer Valley/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/south-hadley/</link>
-	<description>Discover the hidden gems of South Hadley, from scenic views to must-try dishes, and learn about the local culture and customs you should know before you visit this charming town in Massachusetts.</description>
-	<pubDate>2024-03-27T14:38:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
