@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T03:07:47+03:00</pubDate>
-        <lastBuildDate>2024-03-27T03:07:47+03:00</lastBuildDate>
+        <pubDate>2024-03-27T03:58:24+03:00</pubDate>
+        <lastBuildDate>2024-03-27T03:58:24+03:00</lastBuildDate>
 
         <item>
+	<title>Valldemossa Travel Guide (Serra de Tramuntana/Mallorca/Balearic Islands/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/mallorca/serra-de-tramuntana/valldemossa/</link>
+	<description>Discover the best things to do, see, and eat in Valldemossa, Mallorca. Plan your trip with our comprehensive travel guide featuring transportation options, cultural attractions, outdoor adventures, and more.</description>
+	<pubDate>2024-03-27T03:58:24+03:00</pubDate>
+</item><item>
 	<title>Tynaarlo Travel Guide (Drenthe/Northern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/drenthe/tynaarlo/</link>
 	<description>Discover the best places to visit, food to try, things to do, where to stay, and how to get around in Tynaarlo, a charming town in Northern Netherlands, with a rich cultural heritage and stunning natural beauty.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/central-africa/republic-of-the-congo/congolese-plateau/</link>
 	<description>Discover the beauty and adventure of Congolese Plateau in Central Africa with our detailed travel guide. Get insider tips for places to visit, activities to do, where to stay, and more.</description>
 	<pubDate>2024-03-26T22:43:34+03:00</pubDate>
-</item><item>
-	<title>Levi Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/levi/</link>
-	<description>Discover the best sights, activities, accommodations, and travel logistics for a memorable trip to Levi, Northern Finland's winter wonderland.</description>
-	<pubDate>2024-03-26T22:13:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
