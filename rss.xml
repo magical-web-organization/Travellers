@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T12:41:04+03:00</pubDate>
-        <lastBuildDate>2024-03-27T12:41:04+03:00</lastBuildDate>
+        <pubDate>2024-03-27T13:19:46+03:00</pubDate>
+        <lastBuildDate>2024-03-27T13:19:46+03:00</lastBuildDate>
 
         <item>
+	<title>Medicine Bow Travel Guide (Southeast Wyoming/Wyoming/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/wyoming/southeast-wyoming/medicine-bow/</link>
+	<description>Discover all the information you need to plan your trip to Medicine Bow, Wyoming, including the best attractions, where to stay, what to eat, and more. Read on to learn more.</description>
+	<pubDate>2024-03-27T13:19:46+03:00</pubDate>
+</item><item>
 	<title>Zap Travel Guide (Western North Dakota/North Dakota/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/western-north-dakota/zap/</link>
 	<description>Discover the best things to do, places to stay, and local culture of Zap, North Dakota with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/aceh/banyak-islands/</link>
 	<description>Discover the natural beauty and cultural heritage of Banyak Islands in Aceh, Sumatra, Indonesia with our comprehensive travel guide. Plan your itinerary, find the best places to stay, and explore the unique cuisine, customs, and attractions of this enchanting destination.</description>
 	<pubDate>2024-03-27T08:37:43+03:00</pubDate>
-</item><item>
-	<title>Ashland Travel Guide (Eastern Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/eastern-nebraska/ashland/</link>
-	<description>Discover the best things to do, see, eat, and experience in Ashland, Nebraska with this comprehensive travel guide.</description>
-	<pubDate>2024-03-27T08:31:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
