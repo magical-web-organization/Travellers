@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-28T00:43:25+03:00</pubDate>
-        <lastBuildDate>2024-03-28T00:43:25+03:00</lastBuildDate>
+        <pubDate>2024-03-28T01:05:05+03:00</pubDate>
+        <lastBuildDate>2024-03-28T01:05:05+03:00</lastBuildDate>
 
         <item>
+	<title>Flic en Flac Travel Guide (Mauritius/East African Islands/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-african-islands/mauritius/flic-en-flac/</link>
+	<description>Discover the top things to do, places to visit, and food to try in Flic en Flac, Mauritius. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-03-28T01:05:05+03:00</pubDate>
+</item><item>
 	<title>Fairmont Hot Springs Travel Guide (East Kootenays/Kootenays/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/east-kootenays/fairmont-hot-springs/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Fairmont Hot Springs with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/caraga/tandag/</link>
 	<description>Plan your trip to Tandag, discover its natural attractions, hiking routes, local culture, food scene, and more. Find travel tips, top places to visit and to stay, and how to get there.</description>
 	<pubDate>2024-03-27T21:00:58+03:00</pubDate>
-</item><item>
-	<title>Golden Travel Guide (Columbia-Rockies/Kootenays/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/columbia-rockies/golden/</link>
-	<description>Explore the scenic beauty, thrilling outdoor activities, cultural and historical attractions of Golden, British Columbia with our comprehensive travel guide.</description>
-	<pubDate>2024-03-27T20:15:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
