@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T08:31:51+03:00</pubDate>
-        <lastBuildDate>2024-03-27T08:31:51+03:00</lastBuildDate>
+        <pubDate>2024-03-27T08:37:43+03:00</pubDate>
+        <lastBuildDate>2024-03-27T08:37:43+03:00</lastBuildDate>
 
         <item>
+	<title>Banyak Islands Travel Guide (Aceh/Sumatra/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/aceh/banyak-islands/</link>
+	<description>Discover the natural beauty and cultural heritage of Banyak Islands in Aceh, Sumatra, Indonesia with our comprehensive travel guide. Plan your itinerary, find the best places to stay, and explore the unique cuisine, customs, and attractions of this enchanting destination.</description>
+	<pubDate>2024-03-27T08:37:43+03:00</pubDate>
+</item><item>
 	<title>Ashland Travel Guide (Eastern Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/eastern-nebraska/ashland/</link>
 	<description>Discover the best things to do, see, eat, and experience in Ashland, Nebraska with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/mallorca/serra-de-tramuntana/valldemossa/</link>
 	<description>Discover the best things to do, see, and eat in Valldemossa, Mallorca. Plan your trip with our comprehensive travel guide featuring transportation options, cultural attractions, outdoor adventures, and more.</description>
 	<pubDate>2024-03-27T03:58:24+03:00</pubDate>
-</item><item>
-	<title>Tynaarlo Travel Guide (Drenthe/Northern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/drenthe/tynaarlo/</link>
-	<description>Discover the best places to visit, food to try, things to do, where to stay, and how to get around in Tynaarlo, a charming town in Northern Netherlands, with a rich cultural heritage and stunning natural beauty.</description>
-	<pubDate>2024-03-27T03:07:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
