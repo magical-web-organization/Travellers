@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T15:53:24+03:00</pubDate>
-        <lastBuildDate>2024-03-27T15:53:24+03:00</lastBuildDate>
+        <pubDate>2024-03-27T16:23:35+03:00</pubDate>
+        <lastBuildDate>2024-03-27T16:23:35+03:00</lastBuildDate>
 
         <item>
+	<title>Idanha-a-Nova Travel Guide (Beira Baixa/Beiras/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-baixa/idanha-a-nova/</link>
+	<description>Plan your trip to Idanha-a-Nova, Portugal with this comprehensive travel guide featuring top attractions, things to do, where to stay, and how to get there.</description>
+	<pubDate>2024-03-27T16:23:35+03:00</pubDate>
+</item><item>
 	<title>Nassfeld Travel Guide (Carinthia/Austria/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/austria/carinthia/nassfeld/</link>
 	<description>Plan your trip to Nassfeld in Carinthia with our comprehensive travel guide featuring top attractions, where to stay, what to eat, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/sikkim/north-sikkim/</link>
 	<description>Discover the best places to visit, things to do, hiking and biking routes, where to stay, local food and drink, culture and customs, safety, and transportation options in North Sikkim.</description>
 	<pubDate>2024-03-27T11:42:26+03:00</pubDate>
-</item><item>
-	<title>Zlatoust Travel Guide (Chelyabinsk Oblast/Urals/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/chelyabinsk-oblast/zlatoust/</link>
-	<description>Discover the best things to do, see, and eat in Zlatoust, Russia, with this comprehensive travel guide.</description>
-	<pubDate>2024-03-27T11:13:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
