@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T22:07:28+03:00</pubDate>
-        <lastBuildDate>2024-03-27T22:07:28+03:00</lastBuildDate>
+        <pubDate>2024-03-27T22:52:33+03:00</pubDate>
+        <lastBuildDate>2024-03-27T22:52:33+03:00</lastBuildDate>
 
         <item>
+	<title>Laconia Travel Guide (Peloponnese/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/peloponnese/laconia/</link>
+	<description>Plan your next vacation to Laconia, Greece with our comprehensive travel guide. Discover the best things to do, see, eat and where to stay in Laconia.</description>
+	<pubDate>2024-03-27T22:52:33+03:00</pubDate>
+</item><item>
 	<title>Remoulins Travel Guide (Gard/Occitanie/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/occitanie/gard/remoulins/</link>
 	<description>Planning a trip to Remoulins? Find out about top things to do, places to visit, hotels, food, and local culture in this comprehensive travel guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/cilician-mountains/</link>
 	<description>Discover the beauty and adventure in Cilician Mountains. Know the best places to visit, things to do, where to stay, local culture and customs, safety and health tips, and more in this comprehensive travel guide.</description>
 	<pubDate>2024-03-27T18:05:44+03:00</pubDate>
-</item><item>
-	<title>Wallace Travel Guide (South Central Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/south-central-nebraska/wallace/</link>
-	<description>Plan your trip to Wallace, Nebraska with this comprehensive travel guide featuring top places to visit, hiking and biking routes, itinerary, food and drink scene, local culture, safety and health information, transportation options, and nearby destinations.</description>
-	<pubDate>2024-03-27T18:01:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
