@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T04:33:29+03:00</pubDate>
-        <lastBuildDate>2024-03-27T04:33:29+03:00</lastBuildDate>
+        <pubDate>2024-03-27T05:20:41+03:00</pubDate>
+        <lastBuildDate>2024-03-27T05:20:41+03:00</lastBuildDate>
 
         <item>
+	<title>El Tunco Travel Guide (Western El Salvador/El Salvador/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/el-salvador/western-el-salvador/el-tunco/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around in El Tunco, El Salvador. Get tips on local culture, food, safety, and nearby destinations.</description>
+	<pubDate>2024-03-27T05:20:41+03:00</pubDate>
+</item><item>
 	<title>Notre-Dame-de-Lourdes Travel Guide (Central Manitoba/Manitoba/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/central-manitoba/notre-dame-de-lourdes/</link>
 	<description>Plan your trip to Notre-Dame-de-Lourdes with this comprehensive travel guide. Discover cultural attractions, outdoor adventures, accommodations, food and drink scenes, local customs, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/okanagan/silver-star/</link>
 	<description>Explore the natural beauty, culture and adventure of Silver Star, British Columbia with our comprehensive travel guide. From hiking trails to historical museums, food and drink scene to accommodation options – we have got it all covered.</description>
 	<pubDate>2024-03-26T23:37:32+03:00</pubDate>
-</item><item>
-	<title>Gümüşlük Travel Guide (Southern Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/gumusluk/</link>
-	<description>Discover Gümüşlük, a charming town located in Southern Aegean, Turkey. Explore ancient Greek ruins, secluded beaches, and scenic landscapes.</description>
-	<pubDate>2024-03-26T23:26:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
