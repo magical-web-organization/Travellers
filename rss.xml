@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T03:58:24+03:00</pubDate>
-        <lastBuildDate>2024-03-27T03:58:24+03:00</lastBuildDate>
+        <pubDate>2024-03-27T04:33:29+03:00</pubDate>
+        <lastBuildDate>2024-03-27T04:33:29+03:00</lastBuildDate>
 
         <item>
+	<title>Notre-Dame-de-Lourdes Travel Guide (Central Manitoba/Manitoba/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/central-manitoba/notre-dame-de-lourdes/</link>
+	<description>Plan your trip to Notre-Dame-de-Lourdes with this comprehensive travel guide. Discover cultural attractions, outdoor adventures, accommodations, food and drink scenes, local customs, transportation options, and nearby destinations.</description>
+	<pubDate>2024-03-27T04:33:29+03:00</pubDate>
+</item><item>
 	<title>Valldemossa Travel Guide (Serra de Tramuntana/Mallorca/Balearic Islands/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/mallorca/serra-de-tramuntana/valldemossa/</link>
 	<description>Discover the best things to do, see, and eat in Valldemossa, Mallorca. Plan your trip with our comprehensive travel guide featuring transportation options, cultural attractions, outdoor adventures, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/gumusluk/</link>
 	<description>Discover Gümüşlük, a charming town located in Southern Aegean, Turkey. Explore ancient Greek ruins, secluded beaches, and scenic landscapes.</description>
 	<pubDate>2024-03-26T23:26:24+03:00</pubDate>
-</item><item>
-	<title>Congolese Plateau Travel Guide (Republic of the Congo/Central Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/central-africa/republic-of-the-congo/congolese-plateau/</link>
-	<description>Discover the beauty and adventure of Congolese Plateau in Central Africa with our detailed travel guide. Get insider tips for places to visit, activities to do, where to stay, and more.</description>
-	<pubDate>2024-03-26T22:43:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
