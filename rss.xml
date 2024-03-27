@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T06:43:21+03:00</pubDate>
-        <lastBuildDate>2024-03-27T06:43:21+03:00</lastBuildDate>
+        <pubDate>2024-03-27T07:24:29+03:00</pubDate>
+        <lastBuildDate>2024-03-27T07:24:29+03:00</lastBuildDate>
 
         <item>
+	<title>Saquarema Travel Guide (Lakes Region (Rio de Janeiro)/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/lakes-region-rio-de-janeiro/saquarema/</link>
+	<description>Plan your trip to Saquarema with our comprehensive guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-03-27T07:24:29+03:00</pubDate>
+</item><item>
 	<title>Bastrop Travel Guide (Prairies and Lakes/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/bastrop/</link>
 	<description>Explore the best of Bastrop, Texas through a comprehensive travel guide including must-visit places, things to do, food, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/bahamas/long-island/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Long Island, Bahamas with our comprehensive travel guide.</description>
 	<pubDate>2024-03-27T01:50:41+03:00</pubDate>
-</item><item>
-	<title>Ocean Park Travel Guide (Southwest Washington/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/ocean-park/</link>
-	<description>Ocean Park is a hidden gem in Southwest Washington. This guide covers everything you need to know to plan your trip, including the best places to visit, hiking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-03-27T01:19:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
