@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-27T07:40:09+03:00</pubDate>
-        <lastBuildDate>2024-03-27T07:40:09+03:00</lastBuildDate>
+        <pubDate>2024-03-27T08:31:51+03:00</pubDate>
+        <lastBuildDate>2024-03-27T08:31:51+03:00</lastBuildDate>
 
         <item>
+	<title>Ashland Travel Guide (Eastern Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/eastern-nebraska/ashland/</link>
+	<description>Discover the best things to do, see, eat, and experience in Ashland, Nebraska with this comprehensive travel guide.</description>
+	<pubDate>2024-03-27T08:31:51+03:00</pubDate>
+</item><item>
 	<title>Kangding Travel Guide (Ganzi (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/kangding/</link>
 	<description>Plan your visit to Kangding with this comprehensive travel guide featuring top attractions, hiking routes, local food, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/drenthe/tynaarlo/</link>
 	<description>Discover the best places to visit, food to try, things to do, where to stay, and how to get around in Tynaarlo, a charming town in Northern Netherlands, with a rich cultural heritage and stunning natural beauty.</description>
 	<pubDate>2024-03-27T03:07:47+03:00</pubDate>
-</item><item>
-	<title>Dixfield Travel Guide (Oxford County/Lakes and Mountains/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/lakes-and-mountains/oxford-county/dixfield/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Dixfield, Maine. This comprehensive tour guide includes itineraries, transportation options, and local culture insights.</description>
-	<pubDate>2024-03-27T02:55:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
