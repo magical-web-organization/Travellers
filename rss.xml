@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-28T09:54:48+03:00</pubDate>
-        <lastBuildDate>2024-03-28T09:54:48+03:00</lastBuildDate>
+        <pubDate>2024-03-28T10:20:09+03:00</pubDate>
+        <lastBuildDate>2024-03-28T10:20:09+03:00</lastBuildDate>
 
         <item>
+	<title>Adamaoua Travel Guide (Cameroon/Central Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/central-africa/cameroon/adamaoua/</link>
+	<description>A comprehensive travel guide for Adamaoua, Cameroon, featuring natural attractions, cultural heritage, food and drink, accommodations, transportation, and local customs.</description>
+	<pubDate>2024-03-28T10:20:09+03:00</pubDate>
+</item><item>
 	<title>Jazira Canton Travel Guide (Rojava/Syria/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/syria/rojava/jazira-canton/</link>
 	<description>Discover the natural beauty, rich culture, and unique charm of Jazira Canton with this comprehensive travel guide. Learn about the top attractions, best things to do, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/puerto-morelos/</link>
 	<description>Explore the cultural and natural attractions of Puerto Morelos with our comprehensive travel guide. Discover the best things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-03-28T05:51:31+03:00</pubDate>
-</item><item>
-	<title>Thiruvambady Travel Guide (Kozhikode District/Malabar/Kerala/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kozhikode-district/thiruvambady/</link>
-	<description>Thiruvambady is a culturally rich destination in Kerala, known for its natural attractions and scenic views. Discover the must-see places to visit, best things to do, and insider tips in this comprehensive guide.</description>
-	<pubDate>2024-03-28T05:13:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
