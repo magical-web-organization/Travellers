@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-28T18:05:44+03:00</pubDate>
-        <lastBuildDate>2024-03-28T18:05:44+03:00</lastBuildDate>
+        <pubDate>2024-03-28T18:46:51+03:00</pubDate>
+        <lastBuildDate>2024-03-28T18:46:51+03:00</lastBuildDate>
 
         <item>
+	<title>Deep Creek National Park Travel Guide (Fleurieu Peninsula/South Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/south-australia/fleurieu-peninsula/deep-creek-national-park/</link>
+	<description>Discover the best things to do and see in Deep Creek National Park, South Australia. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-03-28T18:46:51+03:00</pubDate>
+</item><item>
 	<title>Legzira Travel Guide (Anti Atlas/Morocco/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/anti-atlas/legzira/</link>
 	<description>Your complete guide to Legzira, Morocco. Discover the best places to visit, foods to try, activities to do, and more in this comprehensive travel guide for Legzira.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/prince-george-s-county/hyattsville/</link>
 	<description>Discover the best things to do and places to visit in Hyattsville, Maryland with this comprehensive travel guide. From outdoor adventures to local culture, find everything you need to plan your visit.</description>
 	<pubDate>2024-03-28T14:24:11+03:00</pubDate>
-</item><item>
-	<title>Oravița Travel Guide (Banat/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/banat/oravita/</link>
-	<description>Discover the hidden gem of Banat with our comprehensive tour guide to Oravița. Learn about the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-03-28T13:37:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
