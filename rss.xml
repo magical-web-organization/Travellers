@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T01:48:34+03:00</pubDate>
-        <lastBuildDate>2024-03-29T01:48:34+03:00</lastBuildDate>
+        <pubDate>2024-03-29T02:33:02+03:00</pubDate>
+        <lastBuildDate>2024-03-29T02:33:02+03:00</lastBuildDate>
 
         <item>
+	<title>Isojoki Travel Guide (Southern Ostrobothnia/West Coast/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/southern-ostrobothnia/isojoki/</link>
+	<description>Explore the rich culture, breathtaking beauty, and exciting activities that Isojoki, Finland has to offer. Discover the best places to visit, eat, and stay, as well as tips for safety, health, and transportation.</description>
+	<pubDate>2024-03-29T02:33:02+03:00</pubDate>
+</item><item>
 	<title>Bokin Travel Guide (North Burkina Faso/Burkina Faso/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/burkina-faso/north-burkina-faso/bokin/</link>
 	<description>Discover the top things to do, places to visit, where to stay, what to eat, and more in Bokin, Burkina Faso.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/west-frisian-islands/texel/</link>
 	<description>Plan a perfect trip to Texel with this comprehensive guide. Discover the best things to do, see, eat, and where to stay in Texel.</description>
 	<pubDate>2024-03-28T21:43:55+03:00</pubDate>
-</item><item>
-	<title>Montreuil Travel Guide (Hauts-de-France/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/hauts-de-france/montreuil/</link>
-	<description>Explore the attractions, activities, food scene, transportation options, and cultural customs of Montreuil, France with this comprehensive tour guide.</description>
-	<pubDate>2024-03-28T21:14:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
