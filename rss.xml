@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-28T17:27:36+03:00</pubDate>
-        <lastBuildDate>2024-03-28T17:27:36+03:00</lastBuildDate>
+        <pubDate>2024-03-28T17:52:08+03:00</pubDate>
+        <lastBuildDate>2024-03-28T17:52:08+03:00</lastBuildDate>
 
         <item>
+	<title>Haslemere Travel Guide (Surrey/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/haslemere/</link>
+	<description>Discover the best places to visit, things to do, and local culture and customs of Haslemere. Plan your trip with our helpful travel guide.</description>
+	<pubDate>2024-03-28T17:52:08+03:00</pubDate>
+</item><item>
 	<title>Cambridge Travel Guide (Waikato/North Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/waikato/cambridge/</link>
 	<description>Discover the best things to do, places to visit, local culture, food, and safety tips in Cambridge, New Zealand. This comprehensive travel guide offers insider tips for exploring the North Island gem of New Zealand.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/southeast-bengal/bibhutibhushan-wildlife-sanctuary/</link>
 	<description>Plan your trip to Bibhutibhushan Wildlife Sanctuary with this comprehensive guide. Explore attractions, outdoor adventures, food, and culture.</description>
 	<pubDate>2024-03-28T13:04:06+03:00</pubDate>
-</item><item>
-	<title>Brest Oblast Travel Guide (Belarus/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/brest-oblast/</link>
-	<description>Get ready for an adventure in Eastern Europe with this comprehensive guide to Brest Oblast in Belarus. Discover the best places to visit, things to do, food to try, and more!</description>
-	<pubDate>2024-03-28T12:48:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
