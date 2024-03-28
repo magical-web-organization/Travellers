@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-28T15:49:49+03:00</pubDate>
-        <lastBuildDate>2024-03-28T15:49:49+03:00</lastBuildDate>
+        <pubDate>2024-03-28T16:26:12+03:00</pubDate>
+        <lastBuildDate>2024-03-28T16:26:12+03:00</lastBuildDate>
 
         <item>
+	<title>Toyonaka Travel Guide (Osaka/Osaka (prefecture)/Kansai/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/osaka-prefecture/osaka/toyonaka/</link>
+	<description>Discover the best things to do, where to stay, what to eat, and other useful information for your trip to Toyonaka, Osaka.</description>
+	<pubDate>2024-03-28T16:26:12+03:00</pubDate>
+</item><item>
 	<title>Tivat Travel Guide (Bay of Kotor/Montenegro/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/montenegro/bay-of-kotor/tivat/</link>
 	<description>Plan your trip to Tivat with this comprehensive tour guide that covers everything you need to know about the culturally rich city nestled in the Bay of Kotor, Montenegro.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/croatia/dalmatia/northern-dalmatia/dugi-otok/</link>
 	<description>Plan your trip to Dugi Otok, Croatia with this comprehensive travel guide. Discover the best things to see and do, where to stay, what to eat, and how to get around this stunning Croatian island.</description>
 	<pubDate>2024-03-28T11:51:53+03:00</pubDate>
-</item><item>
-	<title>Urbino Travel Guide (Pesaro and Urbino (province)/Marche/Central Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/central-italy/marche/pesaro-and-urbino-province/urbino/</link>
-	<description>Plan your trip to Urbino, Italy with our extensive guide. Discover the best attractions, hiking and biking routes, where to stay, what to buy, and more.</description>
-	<pubDate>2024-03-28T11:16:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
