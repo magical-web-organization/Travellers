@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T12:27:45+03:00</pubDate>
-        <lastBuildDate>2024-03-29T12:27:45+03:00</lastBuildDate>
+        <pubDate>2024-03-29T12:37:51+03:00</pubDate>
+        <lastBuildDate>2024-03-29T12:37:51+03:00</lastBuildDate>
 
         <item>
+	<title>Wieliczka Travel Guide (Małopolskie/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/wieliczka/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local culture and customs in Wieliczka, Poland with our comprehensive travel guide.</description>
+	<pubDate>2024-03-29T12:37:51+03:00</pubDate>
+</item><item>
 	<title>Enshi Travel Guide (Hubei/South-central China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/hubei/enshi/</link>
 	<description>Discover the beautiful city of Enshi with this comprehensive travel guide. From culturally important attractions to outdoor adventures, where to stay, what to eat, and how to get around, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/west-iceland/hellissandur/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Hellissandur, Iceland. Explore its stunning natural wonders, adventurous hiking routes, and must-try local cuisines.</description>
 	<pubDate>2024-03-29T08:29:58+03:00</pubDate>
-</item><item>
-	<title>Mission Travel Guide (South Texas Plains/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/south-texas-plains/mission/</link>
-	<description>Embark on a journey to Mission with this comprehensive travel guide that covers the top attractions, outdoor adventures, food scene, local culture, and logistics.</description>
-	<pubDate>2024-03-29T07:51:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
