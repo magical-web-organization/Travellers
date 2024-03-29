@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T19:47:27+03:00</pubDate>
-        <lastBuildDate>2024-03-29T19:47:27+03:00</lastBuildDate>
+        <pubDate>2024-03-29T20:26:02+03:00</pubDate>
+        <lastBuildDate>2024-03-29T20:26:02+03:00</lastBuildDate>
 
         <item>
+	<title>Concepción Travel Guide (Northern Paraneña/Paraguay/South America)</title>
+	<link>https://travellers.wiki/en/south-america/paraguay/northern-paranena/concepcion/</link>
+	<description>Explore the culturally-rich Concepción in Paraguay with this detailed travel guide. Discover the best places to visit, eat, stay, and more.</description>
+	<pubDate>2024-03-29T20:26:02+03:00</pubDate>
+</item><item>
 	<title>Richmond Travel Guide (Sagadahoc County/Mid Coast/Maine/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/sagadahoc-county/richmond/</link>
 	<description>Plan your perfect trip to Richmond, Maine with this comprehensive tour guide featuring must-see attractions, outdoor adventures, local food and drink, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/papa-westray/</link>
 	<description>Plan the perfect trip to Papa Westray with this guide, including places to visit, hiking routes, activities, food and drink scene, accommodation options, local customs, and more.</description>
 	<pubDate>2024-03-29T15:50:44+03:00</pubDate>
-</item><item>
-	<title>Duque de Caxias Travel Guide (Grande Rio/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/grande-rio/duque-de-caxias/</link>
-	<description>Planning a trip to Duque de Caxias, Rio de Janeiro? Learn about the top attractions, best things to do, where to eat and stay, and other important travel tips with our guide.</description>
-	<pubDate>2024-03-29T15:14:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
