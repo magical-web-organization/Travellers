@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T09:23:15+03:00</pubDate>
-        <lastBuildDate>2024-03-29T09:23:15+03:00</lastBuildDate>
+        <pubDate>2024-03-29T09:54:09+03:00</pubDate>
+        <lastBuildDate>2024-03-29T09:54:09+03:00</lastBuildDate>
 
         <item>
+	<title>Bruneck Travel Guide (South Tyrol/Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/south-tyrol/bruneck/</link>
+	<description>Looking for an adventure in Northeast Italy? Check out our comprehensive guide to Bruneck, including tips on where to go, what to do, where to stay, and more!</description>
+	<pubDate>2024-03-29T09:54:09+03:00</pubDate>
+</item><item>
 	<title>Winter Park Travel Guide (Greater Orlando/Inland Florida/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/greater-orlando/winter-park/</link>
 	<description>Plan your trip to Winter Park in Greater Orlando, Florida, with our comprehensive travel guide. It includes must-visit attractions, hiking/biking routes, food and drink scene, accommodations, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/mozambique/central-mozambique/songo/</link>
 	<description>Everything you need to know to plan your trip to Songo, Mozambique, including top attractions, food and drink scene, where to stay, and transportation options.</description>
 	<pubDate>2024-03-29T05:22:19+03:00</pubDate>
-</item><item>
-	<title>Ragusa Travel Guide (Ragusa (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/ragusa-province/ragusa/</link>
-	<description>Explore the beautiful town of Ragusa with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-03-29T04:39:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
