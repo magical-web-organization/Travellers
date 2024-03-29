@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T18:35:55+03:00</pubDate>
-        <lastBuildDate>2024-03-29T18:35:55+03:00</lastBuildDate>
+        <pubDate>2024-03-29T19:24:25+03:00</pubDate>
+        <lastBuildDate>2024-03-29T19:24:25+03:00</lastBuildDate>
 
         <item>
+	<title>Alytus Travel Guide (Dzūkija/Lithuania/Baltic states/Europe)</title>
+	<link>https://travellers.wiki/en/europe/baltic-states/lithuania/dzukija/alytus/</link>
+	<description>Discover the hidden gems of Alytus, Lithuania with this comprehensive travel guide. Learn about the top attractions, best hiking and biking routes, where to stay, what to eat, and much more.</description>
+	<pubDate>2024-03-29T19:24:25+03:00</pubDate>
+</item><item>
 	<title>Xaghra Travel Guide (Gozo/Malta/Europe)</title>
 	<link>https://travellers.wiki/en/europe/malta/gozo/xaghra/</link>
 	<description>Get a comprehensive guide to Xaghra in Gozo island, Malta, including the best places to visit, things to do, where to stay, what to buy, safety and health tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/north-korea/pyongan/pyongyang/</link>
 	<description>Plan your trip to Pyongyang with our comprehensive guide featuring top attractions, hiking/biking routes, food and drink scene, where to stay and more.</description>
 	<pubDate>2024-03-29T14:43:53+03:00</pubDate>
-</item><item>
-	<title>Airlie Beach Travel Guide (Central Queensland/Queensland/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/airlie-beach/</link>
-	<description>Plan your trip to Airlie Beach with our comprehensive tour guide covering all the must-visit places, food and drink scene, hiking/biking routes, activities, accommodations, and more.</description>
-	<pubDate>2024-03-29T14:15:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
