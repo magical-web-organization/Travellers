@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T02:33:02+03:00</pubDate>
-        <lastBuildDate>2024-03-29T02:33:02+03:00</lastBuildDate>
+        <pubDate>2024-03-29T03:01:36+03:00</pubDate>
+        <lastBuildDate>2024-03-29T03:01:36+03:00</lastBuildDate>
 
         <item>
+	<title>Tsumago Travel Guide (Nagano (prefecture)/Chubu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/tsumago/</link>
+	<description>Discover what to see, do, and eat in Tsumago, Japan. Plan your trip with our comprehensive guide that covers top attractions, hiking/biking routes, accommodations, and more.</description>
+	<pubDate>2024-03-29T03:01:36+03:00</pubDate>
+</item><item>
 	<title>Isojoki Travel Guide (Southern Ostrobothnia/West Coast/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/southern-ostrobothnia/isojoki/</link>
 	<description>Explore the rich culture, breathtaking beauty, and exciting activities that Isojoki, Finland has to offer. Discover the best places to visit, eat, and stay, as well as tips for safety, health, and transportation.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/baja-california/constitution-1857-national-park/</link>
 	<description>Discover the best hiking trails, cultural attractions, food scene, and transportation options of Constitution 1857 National Park in Baja California, Mexico.</description>
 	<pubDate>2024-03-28T22:14:41+03:00</pubDate>
-</item><item>
-	<title>Texel Travel Guide (West Frisian Islands/Northern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/west-frisian-islands/texel/</link>
-	<description>Plan a perfect trip to Texel with this comprehensive guide. Discover the best things to do, see, eat, and where to stay in Texel.</description>
-	<pubDate>2024-03-28T21:43:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
