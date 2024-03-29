@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T21:40:07+03:00</pubDate>
-        <lastBuildDate>2024-03-29T21:40:07+03:00</lastBuildDate>
+        <pubDate>2024-03-29T22:12:11+03:00</pubDate>
+        <lastBuildDate>2024-03-29T22:12:11+03:00</lastBuildDate>
 
         <item>
+	<title>Nogales Travel Guide (North America)</title>
+	<link>https://travellers.wiki/en/north-america/nogales/</link>
+	<description>Discover all the culturally and naturally rich places to visit in Nogales, along with the best hiking and biking routes, food and drink scene, and safety and health in our comprehensive Nogales travel guide.</description>
+	<pubDate>2024-03-29T22:12:11+03:00</pubDate>
+</item><item>
 	<title>Ludwigsburg Travel Guide (Stuttgart Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/stuttgart-region/ludwigsburg/</link>
 	<description>Get ready for a journey to one of the most beautiful towns in Germany. Our Ludwigsburg travel guide offers insights into the history, culture, and scenic views of this charming piece of Central Europe.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/north-goa/panaji/</link>
 	<description>Discover the best attractions, food, lodging, and transportation options in Panaji, India, with our comprehensive travel guide.</description>
 	<pubDate>2024-03-29T17:40:23+03:00</pubDate>
-</item><item>
-	<title>Sibiu County Travel Guide (Transylvania/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/sibiu-county/</link>
-	<description>Discover the cultural and natural attractions, hiking/biking routes, food and drink scene, accommodations, and local culture and customs of Sibiu County, Transylvania.</description>
-	<pubDate>2024-03-29T17:17:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
