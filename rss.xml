@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T07:06:04+03:00</pubDate>
-        <lastBuildDate>2024-03-29T07:06:04+03:00</lastBuildDate>
+        <pubDate>2024-03-29T07:51:27+03:00</pubDate>
+        <lastBuildDate>2024-03-29T07:51:27+03:00</lastBuildDate>
 
         <item>
+	<title>Mission Travel Guide (South Texas Plains/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/south-texas-plains/mission/</link>
+	<description>Embark on a journey to Mission with this comprehensive travel guide that covers the top attractions, outdoor adventures, food scene, local culture, and logistics.</description>
+	<pubDate>2024-03-29T07:51:27+03:00</pubDate>
+</item><item>
 	<title>Czechoslovakia Travel Guide (Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/czechoslovakia/</link>
 	<description>Plan your trip to Czechoslovakia with this comprehensive travel guide, featuring the best attractions, activities, food and drink, accommodations, culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/northern-punjab/islamabad/</link>
 	<description>Plan your trip to Islamabad with this comprehensive travel guide, featuring top places to visit, food and drink recommendations, and tips for transportation and safety.</description>
 	<pubDate>2024-03-29T03:03:54+03:00</pubDate>
-</item><item>
-	<title>Tsumago Travel Guide (Nagano (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/tsumago/</link>
-	<description>Discover what to see, do, and eat in Tsumago, Japan. Plan your trip with our comprehensive guide that covers top attractions, hiking/biking routes, accommodations, and more.</description>
-	<pubDate>2024-03-29T03:01:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
