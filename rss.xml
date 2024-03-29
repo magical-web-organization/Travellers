@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T10:16:05+03:00</pubDate>
-        <lastBuildDate>2024-03-29T10:16:05+03:00</lastBuildDate>
+        <pubDate>2024-03-29T10:34:52+03:00</pubDate>
+        <lastBuildDate>2024-03-29T10:34:52+03:00</lastBuildDate>
 
         <item>
+	<title>Kozara Travel Guide (Bosanska Krajina/Bosnia and Herzegovina/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/bosanska-krajina/kozara/</link>
+	<description>Discover the hidden gem of Kozara in Bosnia and Herzegovina with this comprehensive travel guide that covers the best places to visit, things to do, where to stay, and more!</description>
+	<pubDate>2024-03-29T10:34:52+03:00</pubDate>
+</item><item>
 	<title>College Park Travel Guide (Prince George's County/Capital Region/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/prince-george-s-county/college-park/</link>
 	<description>A detailed travel guide to College Park, covering all the important aspects of the city including its historical places, natural attractions, food scene, transportation details, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/eastern-taiwan/yilan-county/suao/</link>
 	<description>Discover the natural attractions, cultural hotspots, and local customs of Suao, Taiwan with our comprehensive travel guide. Learn all you need to know about the best places to visit, the best things to see and do, and much more.</description>
 	<pubDate>2024-03-29T06:33:16+03:00</pubDate>
-</item><item>
-	<title>Myjava Travel Guide (Považie/Western Slovakia/Slovakia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovakia/western-slovakia/povazie/myjava/</link>
-	<description>Plan your trip to Myjava, Western Slovakia with our comprehensive travel guide. Learn about the best places to visit, outdoor adventures, food and drink scene, local culture and customs, transportation options and more.</description>
-	<pubDate>2024-03-29T05:48:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
