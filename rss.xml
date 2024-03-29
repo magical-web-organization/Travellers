@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T10:34:52+03:00</pubDate>
-        <lastBuildDate>2024-03-29T10:34:52+03:00</lastBuildDate>
+        <pubDate>2024-03-29T11:24:47+03:00</pubDate>
+        <lastBuildDate>2024-03-29T11:24:47+03:00</lastBuildDate>
 
         <item>
+	<title>Borgarnes Travel Guide (West Iceland/Iceland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/west-iceland/borgarnes/</link>
+	<description>Plan your trip to Borgarnes in West Iceland with our comprehensive travel guide featuring top attractions, hiking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-03-29T11:24:47+03:00</pubDate>
+</item><item>
 	<title>Kozara Travel Guide (Bosanska Krajina/Bosnia and Herzegovina/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/bosanska-krajina/kozara/</link>
 	<description>Discover the hidden gem of Kozara in Bosnia and Herzegovina with this comprehensive travel guide that covers the best places to visit, things to do, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-jeolla/muju/</link>
 	<description>Discover the best things to do, places to stay, local cuisine, and safety tips in Muju, South Korea</description>
 	<pubDate>2024-03-29T06:56:30+03:00</pubDate>
-</item><item>
-	<title>Suao Travel Guide (Yilan County/Eastern Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/eastern-taiwan/yilan-county/suao/</link>
-	<description>Discover the natural attractions, cultural hotspots, and local customs of Suao, Taiwan with our comprehensive travel guide. Learn all you need to know about the best places to visit, the best things to see and do, and much more.</description>
-	<pubDate>2024-03-29T06:33:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
