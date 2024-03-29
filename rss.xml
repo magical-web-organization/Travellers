@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-29T14:43:53+03:00</pubDate>
-        <lastBuildDate>2024-03-29T14:43:53+03:00</lastBuildDate>
+        <pubDate>2024-03-29T15:14:29+03:00</pubDate>
+        <lastBuildDate>2024-03-29T15:14:29+03:00</lastBuildDate>
 
         <item>
+	<title>Duque de Caxias Travel Guide (Grande Rio/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/grande-rio/duque-de-caxias/</link>
+	<description>Planning a trip to Duque de Caxias, Rio de Janeiro? Learn about the top attractions, best things to do, where to eat and stay, and other important travel tips with our guide.</description>
+	<pubDate>2024-03-29T15:14:29+03:00</pubDate>
+</item><item>
 	<title>Pyongyang Travel Guide (Pyongan/North Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/north-korea/pyongan/pyongyang/</link>
 	<description>Plan your trip to Pyongyang with our comprehensive guide featuring top attractions, hiking/biking routes, food and drink scene, where to stay and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/bosanska-krajina/kozara/</link>
 	<description>Discover the hidden gem of Kozara in Bosnia and Herzegovina with this comprehensive travel guide that covers the best places to visit, things to do, where to stay, and more!</description>
 	<pubDate>2024-03-29T10:34:52+03:00</pubDate>
-</item><item>
-	<title>College Park Travel Guide (Prince George's County/Capital Region/Maryland/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/prince-george-s-county/college-park/</link>
-	<description>A detailed travel guide to College Park, covering all the important aspects of the city including its historical places, natural attractions, food scene, transportation details, and more.</description>
-	<pubDate>2024-03-29T10:16:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
