@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T00:44:03+03:00</pubDate>
-        <lastBuildDate>2024-03-31T00:44:03+03:00</lastBuildDate>
+        <pubDate>2024-03-31T01:28:17+03:00</pubDate>
+        <lastBuildDate>2024-03-31T01:28:17+03:00</lastBuildDate>
 
         <item>
+	<title>Tigaon Travel Guide (Camarines Sur/Bicol/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/bicol/camarines-sur/tigaon/</link>
+	<description>Discover the rich cultural and natural attractions that Tigaon has to offer. Read our comprehensive travel guide for tips on places to visit, activities, food, accommodation, and more.</description>
+	<pubDate>2024-03-31T01:28:17+03:00</pubDate>
+</item><item>
 	<title>Grand Marais Travel Guide (North Shore/Northeastern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northeastern-minnesota/north-shore/grand-marais/</link>
 	<description>Plan your trip to Grand Marais with this comprehensive travel guide featuring natural attractions, hiking/biking routes, local culture, safety tips, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/south/santa-catarina/south/ararangua/</link>
 	<description>Plan your trip to Araranguá with our comprehensive travel guide. From must-see attractions to local culture and customs, we've got you covered.</description>
 	<pubDate>2024-03-30T20:48:30+03:00</pubDate>
-</item><item>
-	<title>Elkhorn Travel Guide (Walworth County/Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/walworth-county/elkhorn/</link>
-	<description>Discover the best places to visit, food to try, things to do, and where to stay in Elkhorn, Wisconsin. Read our guide now!</description>
-	<pubDate>2024-03-30T20:05:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
