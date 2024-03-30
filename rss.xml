@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T07:48:49+03:00</pubDate>
-        <lastBuildDate>2024-03-30T07:48:49+03:00</lastBuildDate>
+        <pubDate>2024-03-30T08:30:00+03:00</pubDate>
+        <lastBuildDate>2024-03-30T08:30:00+03:00</lastBuildDate>
 
         <item>
+	<title>Bruck an der Mur Travel Guide (Styria/Austria/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/austria/styria/bruck-an-der-mur/</link>
+	<description>Plan your trip to Bruck an der Mur with this comprehensive travel guide, complete with a list of places to visit, hiking and biking routes, food and drink scene, local culture, safety tips, and more.</description>
+	<pubDate>2024-03-30T08:30:00+03:00</pubDate>
+</item><item>
 	<title>Hay River Travel Guide (Northwest Territories/Northern Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/northern-canada/northwest-territories/hay-river/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Hay River, Northwest Territories, Canada.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/lleida-province/la-seu-d-urgell/</link>
 	<description>Find out everything you need to know about La Seu d'Urgell, a charming town in Eastern Spain. Explore its rich culture, history, natural wonders, food and drink scene, accommodations, and nearby destinations.</description>
 	<pubDate>2024-03-30T03:48:44+03:00</pubDate>
-</item><item>
-	<title>Wayne National Forest Travel Guide (Southeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/southeast-ohio/wayne-national-forest/</link>
-	<description>Explore the cultural and natural attractions, best things to do, safety measures, and transportation options in Wayne National Forest with this comprehensive travel guide.</description>
-	<pubDate>2024-03-30T03:15:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
