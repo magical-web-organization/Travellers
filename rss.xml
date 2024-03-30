@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T08:36:23+03:00</pubDate>
-        <lastBuildDate>2024-03-30T08:36:23+03:00</lastBuildDate>
+        <pubDate>2024-03-30T09:09:29+03:00</pubDate>
+        <lastBuildDate>2024-03-30T09:09:29+03:00</lastBuildDate>
 
         <item>
+	<title>Asuke Travel Guide (Aichi/Chubu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/aichi/asuke/</link>
+	<description>Discover the hidden gem of Asuke, Aichi in Japan with this comprehensive travel guide. Learn about the culturally rich attractions, natural wonders, hiking and biking trails, food scene, accommodations, local customs, safety and health tips, and more.</description>
+	<pubDate>2024-03-30T09:09:29+03:00</pubDate>
+</item><item>
 	<title>Valka Travel Guide (Vidzeme/Latvia/Baltic states/Europe)</title>
 	<link>https://travellers.wiki/en/europe/baltic-states/latvia/vidzeme/valka/</link>
 	<description>A comprehensive travel guide for the town of Valka located in the Vidzeme region of Latvia, covering its culture, food, places to stay, safety, health, and transportation logistics, among others.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/outer-banks/carova/</link>
 	<description>Discover the best things to do, places to stay, and how to get around in Carova, North Carolina. Learn about its rich culture and customs, safety tips, and nearby excursions.</description>
 	<pubDate>2024-03-30T04:47:22+03:00</pubDate>
-</item><item>
-	<title>Paricutin Travel Guide (Michoacan/Pacific Coast/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/michoacan/paricutin/</link>
-	<description>Explore the cultural and natural attractions of Paricutin, along with recommendations for food, accommodation, transportation, and more.</description>
-	<pubDate>2024-03-30T04:18:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
