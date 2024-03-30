@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T11:13:22+03:00</pubDate>
-        <lastBuildDate>2024-03-30T11:13:22+03:00</lastBuildDate>
+        <pubDate>2024-03-30T11:58:03+03:00</pubDate>
+        <lastBuildDate>2024-03-30T11:58:03+03:00</lastBuildDate>
 
         <item>
+	<title>Auschwitz-Birkenau Travel Guide (Małopolskie/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/auschwitz-birkenau/</link>
+	<description>Plan the perfect trip to Auschwitz-Birkenau, with this comprehensive tour guide featuring places to visit, activities, accommodation, safety tips, and more.</description>
+	<pubDate>2024-03-30T11:58:03+03:00</pubDate>
+</item><item>
 	<title>Gustavus Travel Guide (Southeastern Alaska/Alaska/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southeastern-alaska/gustavus/</link>
 	<description>A comprehensive travel guide to Gustavus, Alaska, with information on places to visit, activities to do, food and drink scene, where to stay, local culture, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sabah/sandakan/</link>
 	<description>Plan your trip to Sandakan with our comprehensive travel guide. Discover the top attractions, hiking and biking routes, food and drink scene, local culture, and more.</description>
 	<pubDate>2024-03-30T07:22:41+03:00</pubDate>
-</item><item>
-	<title>Kampot Travel Guide (Cardamom and Elephant Mountains/Cambodia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/cambodia/cardamom-and-elephant-mountains/kampot/</link>
-	<description>Plan your trip to Kampot, Cambodia with our comprehensive guide. Find the best things to do, places to stay, and where to eat in Kampot.</description>
-	<pubDate>2024-03-30T06:52:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
