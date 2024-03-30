@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T06:09:05+03:00</pubDate>
-        <lastBuildDate>2024-03-30T06:09:05+03:00</lastBuildDate>
+        <pubDate>2024-03-30T06:52:23+03:00</pubDate>
+        <lastBuildDate>2024-03-30T06:52:23+03:00</lastBuildDate>
 
         <item>
+	<title>Kampot Travel Guide (Cardamom and Elephant Mountains/Cambodia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/cambodia/cardamom-and-elephant-mountains/kampot/</link>
+	<description>Plan your trip to Kampot, Cambodia with our comprehensive guide. Find the best things to do, places to stay, and where to eat in Kampot.</description>
+	<pubDate>2024-03-30T06:52:23+03:00</pubDate>
+</item><item>
 	<title>Ketep Travel Guide (Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/ketep/</link>
 	<description>Discover Ketep, a charming destination in Central Java, Indonesia. Explore the best things to do, places to visit, food scene, and more with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/maranhao/eastern-maranhao/</link>
 	<description>Explore the culturally significant attractions, natural wonders, hiking and biking routes, cuisine, accommodation options and local customs of Eastern Maranhão through our comprehensive travel guide.</description>
 	<pubDate>2024-03-30T02:25:36+03:00</pubDate>
-</item><item>
-	<title>Saintes Travel Guide (Charente-Maritime/Nouvelle-Aquitaine/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/charente-maritime/saintes/</link>
-	<description>Discover Saintes, a charming town in Charente-Maritime, France, with this guide to the best places to visit, things to see, do, buy and eat.</description>
-	<pubDate>2024-03-30T01:47:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
