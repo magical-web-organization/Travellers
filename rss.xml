@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T09:09:29+03:00</pubDate>
-        <lastBuildDate>2024-03-30T09:09:29+03:00</lastBuildDate>
+        <pubDate>2024-03-30T09:57:24+03:00</pubDate>
+        <lastBuildDate>2024-03-30T09:57:24+03:00</lastBuildDate>
 
         <item>
+	<title>Alagoinhas Travel Guide (Northeast/Bahia/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/northeast/alagoinhas/</link>
+	<description>Discover the culturally rich and naturally stunning Alagoinhas in Bahia with our extensive travel guide. From places to visit to the best food and drink scene, we have got you covered.</description>
+	<pubDate>2024-03-30T09:57:24+03:00</pubDate>
+</item><item>
 	<title>Asuke Travel Guide (Aichi/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/aichi/asuke/</link>
 	<description>Discover the hidden gem of Asuke, Aichi in Japan with this comprehensive travel guide. Learn about the culturally rich attractions, natural wonders, hiking and biking trails, food scene, accommodations, local customs, safety and health tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/kennebec-and-moose-river-valleys/jackman/</link>
 	<description>Explore the hidden gem of Jackman with our complete travel guide. Discover its natural wonders, local culture, best things to do, hiking and biking routes, where to stay, and much more. Plan your perfect adventure today!</description>
 	<pubDate>2024-03-30T05:32:37+03:00</pubDate>
-</item><item>
-	<title>Carova Travel Guide (Outer Banks/North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/outer-banks/carova/</link>
-	<description>Discover the best things to do, places to stay, and how to get around in Carova, North Carolina. Learn about its rich culture and customs, safety tips, and nearby excursions.</description>
-	<pubDate>2024-03-30T04:47:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
