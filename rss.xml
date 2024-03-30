@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T16:47:16+03:00</pubDate>
-        <lastBuildDate>2024-03-30T16:47:16+03:00</lastBuildDate>
+        <pubDate>2024-03-30T17:16:34+03:00</pubDate>
+        <lastBuildDate>2024-03-30T17:16:34+03:00</lastBuildDate>
 
         <item>
+	<title>Sharjah (emirate) Travel Guide (United Arab Emirates/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/united-arab-emirates/sharjah-emirate/</link>
+	<description>Plan your trip to Sharjah (Emirate) with our comprehensive travel guide, complete with recommendations on places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-03-30T17:16:34+03:00</pubDate>
+</item><item>
 	<title>Arnhem Land Travel Guide (Top End/Northern Territory/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/northern-territory/top-end/arnhem-land/</link>
 	<description>Discover the top cultural and natural attractions, best activities and tours, food and drink scene, where to stay, local culture and customs, and safety tips for your visit to Arnhem Land.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/guizhou/guiyang/</link>
 	<description>Explore Guiyang, China with this comprehensive tourist guide. Discover tourist attractions, cultural landmarks, outdoor activities, food scene, local customs, transportation options and more.</description>
 	<pubDate>2024-03-30T12:57:06+03:00</pubDate>
-</item><item>
-	<title>Zrenjanin Travel Guide (Vojvodina/Serbia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/serbia/vojvodina/zrenjanin/</link>
-	<description>Discover Zrenjanin's must-see cultural attractions, best places to eat and drink, and outdoor adventures. Plan your travel itinerary with our comprehensive guide.</description>
-	<pubDate>2024-03-30T12:31:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
