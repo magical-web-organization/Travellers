@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T22:44:37+03:00</pubDate>
-        <lastBuildDate>2024-03-30T22:44:37+03:00</lastBuildDate>
+        <pubDate>2024-03-30T23:21:04+03:00</pubDate>
+        <lastBuildDate>2024-03-30T23:21:04+03:00</lastBuildDate>
 
         <item>
+	<title>Damyang Travel Guide (South Jeolla/South Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-jeolla/damyang/</link>
+	<description>Explore the culturally and naturally rich Damyang in South Korea with our comprehensive travel guide. Discover traditional dishes, hiking trails, and local customs of this stunning destination.</description>
+	<pubDate>2024-03-30T23:21:04+03:00</pubDate>
+</item><item>
 	<title>Zona Norte Travel Guide (Rio de Janeiro/Grande Rio/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/grande-rio/rio-de-janeiro/zona-norte/</link>
 	<description>Plan your trip to Zona Norte, Rio de Janeiro with our comprehensive travel guide featuring must-go attractions, hiking routes, accommodations, local food, and safety information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/anaheim-hills/</link>
 	<description>Explore the natural attractions, outdoor adventures, hiking/biking routes, food and drink scene, cultural attractions, best things to do, safety and health, transportation options, and nearby destinations of Anaheim Hills in this comprehensive tour guide.</description>
 	<pubDate>2024-03-30T18:36:15+03:00</pubDate>
-</item><item>
-	<title>Jekabpils Travel Guide (Zemgale/Latvia/Baltic states/Europe)</title>
-	<link>https://travellers.wiki/en/europe/baltic-states/latvia/zemgale/jekabpils/</link>
-	<description>Explore the best tourist attractions, food scene, accommodations, and travel tips in Jekabpils, Latvia with this comprehensive guide.</description>
-	<pubDate>2024-03-30T18:23:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
