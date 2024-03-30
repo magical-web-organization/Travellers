@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T19:04:51+03:00</pubDate>
-        <lastBuildDate>2024-03-30T19:04:51+03:00</lastBuildDate>
+        <pubDate>2024-03-30T19:58:44+03:00</pubDate>
+        <lastBuildDate>2024-03-30T19:58:44+03:00</lastBuildDate>
 
         <item>
+	<title>Marieville Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/marieville/</link>
+	<description>Discover the hidden gems of Marieville, Quebec with this comprehensive travel guide. From cultural attractions to outdoor adventures, this guide has everything you need to plan your perfect trip.</description>
+	<pubDate>2024-03-30T19:58:44+03:00</pubDate>
+</item><item>
 	<title>Trearddur Bay Travel Guide (Anglesey/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/anglesey/trearddur-bay/</link>
 	<description>Plan your trip to Trearddur Bay, North Wales, with this comprehensive travel guide featuring top attractions, outdoor adventures, gastronomy, accommodations, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/upper-egypt/luxor/</link>
 	<description>Planning a trip to Luxor? Read our comprehensive travel guide for tips on things to do, places to visit, where to stay, and more.</description>
 	<pubDate>2024-03-30T15:07:36+03:00</pubDate>
-</item><item>
-	<title>Mallacoota Travel Guide (East Gippsland/Gippsland/Victoria (state)/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/victoria-state/gippsland/east-gippsland/mallacoota/</link>
-	<description>Discover the best places to visit in Mallacoota, activities to enjoy, where to stay, what to eat and drink, and how to stay safe while exploring this beautiful coastal town in Victoria, Australia.</description>
-	<pubDate>2024-03-30T14:39:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
