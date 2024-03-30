@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T17:43:13+03:00</pubDate>
-        <lastBuildDate>2024-03-30T17:43:13+03:00</lastBuildDate>
+        <pubDate>2024-03-30T18:23:05+03:00</pubDate>
+        <lastBuildDate>2024-03-30T18:23:05+03:00</lastBuildDate>
 
         <item>
+	<title>Jekabpils Travel Guide (Zemgale/Latvia/Baltic states/Europe)</title>
+	<link>https://travellers.wiki/en/europe/baltic-states/latvia/zemgale/jekabpils/</link>
+	<description>Explore the best tourist attractions, food scene, accommodations, and travel tips in Jekabpils, Latvia with this comprehensive guide.</description>
+	<pubDate>2024-03-30T18:23:05+03:00</pubDate>
+</item><item>
 	<title>Brejo da Madre de Deus Travel Guide (Agreste/Pernambuco/Northeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/agreste/brejo-da-madre-de-deus/</link>
 	<description>A comprehensive travel guide for Brejo da Madre de Deus, including information on places to visit, activities, food and drink scene, where to stay, local culture and customs, safety and health, transportation, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/viterbo-province/sutri/</link>
 	<description>Plan your trip to Sutri, Italy with this comprehensive tour guide. Discover the must-visit places, outdoor adventures, local food, and culture of this charming town in Lazio, Central Italy.</description>
 	<pubDate>2024-03-30T13:55:00+03:00</pubDate>
-</item><item>
-	<title>Alpes-de-Haute-Provence Travel Guide (Provence-Alpes-Côte d'Azur/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-de-haute-provence/</link>
-	<description>Discover the cultural, natural attractions and activities, food and drink scene, and logistics of Alpes-de-Haute-Provence in this comprehensive travel guide.</description>
-	<pubDate>2024-03-30T13:31:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
