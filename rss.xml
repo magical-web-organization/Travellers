@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T14:27:57+03:00</pubDate>
-        <lastBuildDate>2024-03-30T14:27:57+03:00</lastBuildDate>
+        <pubDate>2024-03-30T14:39:42+03:00</pubDate>
+        <lastBuildDate>2024-03-30T14:39:42+03:00</lastBuildDate>
 
         <item>
+	<title>Mallacoota Travel Guide (East Gippsland/Gippsland/Victoria (state)/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/victoria-state/gippsland/east-gippsland/mallacoota/</link>
+	<description>Discover the best places to visit in Mallacoota, activities to enjoy, where to stay, what to eat and drink, and how to stay safe while exploring this beautiful coastal town in Victoria, Australia.</description>
+	<pubDate>2024-03-30T14:39:42+03:00</pubDate>
+</item><item>
 	<title>Scanno Travel Guide (L'Aquila (province)/Abruzzo/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/l-aquila-province/scanno/</link>
 	<description>Explore Scanno, Italy with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay and what to eat in this picturesque town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southwestern-alaska/aleutian-islands/</link>
 	<description>Plan your trip to Aleutian Islands with our comprehensive travel guide, highlighting the best places to visit, things to do, and cultural experiences.</description>
 	<pubDate>2024-03-30T10:22:44+03:00</pubDate>
-</item><item>
-	<title>Alagoinhas Travel Guide (Northeast/Bahia/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/northeast/alagoinhas/</link>
-	<description>Discover the culturally rich and naturally stunning Alagoinhas in Bahia with our extensive travel guide. From places to visit to the best food and drink scene, we have got you covered.</description>
-	<pubDate>2024-03-30T09:57:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
