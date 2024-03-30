@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-30T17:16:34+03:00</pubDate>
-        <lastBuildDate>2024-03-30T17:16:34+03:00</lastBuildDate>
+        <pubDate>2024-03-30T17:43:13+03:00</pubDate>
+        <lastBuildDate>2024-03-30T17:43:13+03:00</lastBuildDate>
 
         <item>
+	<title>Brejo da Madre de Deus Travel Guide (Agreste/Pernambuco/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/agreste/brejo-da-madre-de-deus/</link>
+	<description>A comprehensive travel guide for Brejo da Madre de Deus, including information on places to visit, activities, food and drink scene, where to stay, local culture and customs, safety and health, transportation, and nearby destinations.</description>
+	<pubDate>2024-03-30T17:43:13+03:00</pubDate>
+</item><item>
 	<title>Sharjah (emirate) Travel Guide (United Arab Emirates/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/united-arab-emirates/sharjah-emirate/</link>
 	<description>Plan your trip to Sharjah (Emirate) with our comprehensive travel guide, complete with recommendations on places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-de-haute-provence/</link>
 	<description>Discover the cultural, natural attractions and activities, food and drink scene, and logistics of Alpes-de-Haute-Provence in this comprehensive travel guide.</description>
 	<pubDate>2024-03-30T13:31:41+03:00</pubDate>
-</item><item>
-	<title>Guiyang Travel Guide (Guizhou/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/guizhou/guiyang/</link>
-	<description>Explore Guiyang, China with this comprehensive tourist guide. Discover tourist attractions, cultural landmarks, outdoor activities, food scene, local customs, transportation options and more.</description>
-	<pubDate>2024-03-30T12:57:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
