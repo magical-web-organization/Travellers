@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T11:56:30+03:00</pubDate>
-        <lastBuildDate>2024-03-31T11:56:30+03:00</lastBuildDate>
+        <pubDate>2024-03-31T12:15:26+03:00</pubDate>
+        <lastBuildDate>2024-03-31T12:15:26+03:00</lastBuildDate>
 
         <item>
+	<title>ZEC de la Bessonne Travel Guide (La Tuque Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/zec-de-la-bessonne/</link>
+	<description>Plan your trip to ZEC de la Bessonne, the hidden gem of Quebec, with our comprehensive travel guide. Discover the best outdoor adventures, cultural attractions, food and drink scene, and where to stay.</description>
+	<pubDate>2024-03-31T12:15:26+03:00</pubDate>
+</item><item>
 	<title>Herculaneum Travel Guide (Metropolitan Naples/Campania/Southern Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/metropolitan-naples/herculaneum/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Herculaneum. Our travel guide will help you plan your trip to this beautiful Italian destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/sarajevo-region/sarajevo/</link>
 	<description>Discover the best activities, attractions, food, accommodations and more with this ultimate guide to Sarajevo - the stunning city in Bosnia and Herzegovina!</description>
 	<pubDate>2024-03-31T07:40:12+03:00</pubDate>
-</item><item>
-	<title>Kangerlussuaq Travel Guide (Western Greenland/Greenland/North America)</title>
-	<link>https://travellers.wiki/en/north-america/greenland/western-greenland/kangerlussuaq/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Kangerlussuaq, along with tips on local culture and customs, safety and health, and transportation options.</description>
-	<pubDate>2024-03-31T07:17:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
