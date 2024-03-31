@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T22:12:06+03:00</pubDate>
-        <lastBuildDate>2024-03-31T22:12:06+03:00</lastBuildDate>
+        <pubDate>2024-03-31T22:43:26+03:00</pubDate>
+        <lastBuildDate>2024-03-31T22:43:26+03:00</lastBuildDate>
 
         <item>
+	<title>Klek Travel Guide (Dubrovnik-Neretva/Dalmatia/Croatia/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/croatia/dalmatia/dubrovnik-neretva/klek/</link>
+	<description>Discover the picturesque village of Klek in Croatia with its natural wonders, cultural attractions, outdoor adventures, and delicious cuisine. Plan your trip with our comprehensive travel guide and itinerary.</description>
+	<pubDate>2024-03-31T22:43:26+03:00</pubDate>
+</item><item>
 	<title>Lake Erie Shore Travel Guide (Southwestern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/lake-erie-shore/</link>
 	<description>Plan your trip to Lake Erie Shore with our comprehensive travel guide. Find information about the best places to visit, things to do, where to eat and stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/central-maryland/baltimore-county/pikesville/</link>
 	<description>Explore the best things to do in Pikesville, Maryland, including hiking/biking routes, culture and customs, food and drink scene, safety measures, transportation options, and nearby excursions.</description>
 	<pubDate>2024-03-31T18:04:59+03:00</pubDate>
-</item><item>
-	<title>Hurricane Travel Guide (Utah's Dixie/Utah/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/utah-s-dixie/hurricane/</link>
-	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and cultural customs of Hurricane, Utah in this comprehensive travel guide.</description>
-	<pubDate>2024-03-31T17:41:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
