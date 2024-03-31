@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T18:04:59+03:00</pubDate>
-        <lastBuildDate>2024-03-31T18:04:59+03:00</lastBuildDate>
+        <pubDate>2024-03-31T18:55:14+03:00</pubDate>
+        <lastBuildDate>2024-03-31T18:55:14+03:00</lastBuildDate>
 
         <item>
+	<title>Lot Travel Guide (Occitanie/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/occitanie/lot/</link>
+	<description>Plan your perfect trip to Lot, Occitanie, France with this comprehensive travel guide featuring places to visit, things to do, and practical information.</description>
+	<pubDate>2024-03-31T18:55:14+03:00</pubDate>
+</item><item>
 	<title>Pikesville Travel Guide (Baltimore County/Central Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/central-maryland/baltimore-county/pikesville/</link>
 	<description>Explore the best things to do in Pikesville, Maryland, including hiking/biking routes, culture and customs, food and drink scene, safety measures, transportation options, and nearby excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/swietokrzyskie/busko-zdroj/</link>
 	<description>Discover the best attractions, food, accommodations, and travel tips for your trip to Busko-Zdrój, Poland.</description>
 	<pubDate>2024-03-31T14:15:50+03:00</pubDate>
-</item><item>
-	<title>Myakka River State Park Travel Guide (Southwest Florida/Florida West Coast/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-west-coast/southwest-florida/myakka-river-state-park/</link>
-	<description>Discover the beauty of Myakka River State Park with our comprehensive travel guide, including top attractions, hiking routes, accommodation options, and more.</description>
-	<pubDate>2024-03-31T13:50:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
