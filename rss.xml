@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T09:11:32+03:00</pubDate>
-        <lastBuildDate>2024-03-31T09:11:32+03:00</lastBuildDate>
+        <pubDate>2024-03-31T09:41:56+03:00</pubDate>
+        <lastBuildDate>2024-03-31T09:41:56+03:00</lastBuildDate>
 
         <item>
+	<title>Somerset Travel Guide (Southern Lakes/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/southern-lakes/somerset/</link>
+	<description>Discover the best places to visit, things to do, food and drink, and where to stay in Somerset, Kentucky. Plan your trip and explore the most culturally important attractions, natural wonders, hiking, biking trails, and more.</description>
+	<pubDate>2024-03-31T09:41:56+03:00</pubDate>
+</item><item>
 	<title>Pargas Travel Guide (Archipelago Sea/Finland Proper/West Coast/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/archipelago-sea/pargas/</link>
 	<description>Discover the charming town of Pargas in Finland through this comprehensive travel guide, including a list of top places to visit, hiking and biking routes, things to do, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/san-gabriel-valley/pasadena/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Pasadena, California. Find out the local culture, customs, and safety tips.</description>
 	<pubDate>2024-03-31T05:33:17+03:00</pubDate>
-</item><item>
-	<title>Archangelos Travel Guide (Rhodes/Dodecanese/Greek Islands/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/greek-islands/dodecanese/rhodes/archangelos/</link>
-	<description>Discover the hidden gems of Archangelos in Rhodes, Greece. Explore its rich culture, scenic views, and outdoor adventures with this comprehensive travel guide.</description>
-	<pubDate>2024-03-31T04:44:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
