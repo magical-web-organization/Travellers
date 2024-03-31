@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T19:43:30+03:00</pubDate>
-        <lastBuildDate>2024-03-31T19:43:30+03:00</lastBuildDate>
+        <pubDate>2024-03-31T20:14:26+03:00</pubDate>
+        <lastBuildDate>2024-03-31T20:14:26+03:00</lastBuildDate>
 
         <item>
+	<title>Huatulco Travel Guide (Oaxaca (state)/Pacific Coast/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/oaxaca-state/huatulco/</link>
+	<description>Plan your trip to Huatulco with our comprehensive travel guide. Discover the best things to do, places to stay, and local cuisine to try.</description>
+	<pubDate>2024-03-31T20:14:26+03:00</pubDate>
+</item><item>
 	<title>Salem Travel Guide (North Shore/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/north-shore/salem/</link>
 	<description>Plan the perfect trip to Salem, Massachusetts with this comprehensive tour guide featuring top attractions, best places to stay, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/cape-verde/sal/</link>
 	<description>Discover the highlights of Sal, Cape Verde with this comprehensive travel guide including places to visit, activities, food and drink, where to stay, and more.</description>
 	<pubDate>2024-03-31T15:52:16+03:00</pubDate>
-</item><item>
-	<title>Saint Martins Island Travel Guide (Chittagong Division/Bangladesh/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/chittagong-division/saint-martins-island/</link>
-	<description>Plan your trip to Saint Martins Island with this comprehensive travel guide, featuring top attractions, things to do, where to stay, and more!</description>
-	<pubDate>2024-03-31T15:11:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
