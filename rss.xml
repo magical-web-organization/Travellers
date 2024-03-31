@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T02:16:23+03:00</pubDate>
-        <lastBuildDate>2024-04-01T02:16:23+03:00</lastBuildDate>
+        <pubDate>2024-04-01T02:36:49+03:00</pubDate>
+        <lastBuildDate>2024-04-01T02:36:49+03:00</lastBuildDate>
 
         <item>
+	<title>Shaw Travel Guide (Washington, D.C./Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/washington-d-c/shaw/</link>
+	<description>Explore Shaw with our comprehensive travel guide featuring the best places to visit, things to do, food and drink scene, where to stay, local culture, safety and health, transportation options, and nearby destinations to visit.</description>
+	<pubDate>2024-04-01T02:36:49+03:00</pubDate>
+</item><item>
 	<title>Maunabo Travel Guide (Eastern Coast/Puerto Rico/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/eastern-coast/maunabo/</link>
 	<description>Find out what to do, where to stay, and what not to miss in this hidden gem in Puerto Rico. This comprehensive travel guide covers everything you need to know before heading to Maunabo.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/lake-erie-shore/</link>
 	<description>Plan your trip to Lake Erie Shore with our comprehensive travel guide. Find information about the best places to visit, things to do, where to eat and stay, and much more.</description>
 	<pubDate>2024-03-31T22:12:06+03:00</pubDate>
-</item><item>
-	<title>Dayton (Washington) Travel Guide (Palouse (Washington)/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/palouse-washington/dayton-washington/</link>
-	<description>Discover the ultimate travel guide to Dayton, including must-visit attractions, best things to do, where to eat, stay and buy souvenirs, culture, safety, how to get around, and nearby destinations.</description>
-	<pubDate>2024-03-31T21:34:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
