@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T04:44:40+03:00</pubDate>
-        <lastBuildDate>2024-03-31T04:44:40+03:00</lastBuildDate>
+        <pubDate>2024-03-31T05:33:17+03:00</pubDate>
+        <lastBuildDate>2024-03-31T05:33:17+03:00</lastBuildDate>
 
         <item>
+	<title>Pasadena Travel Guide (San Gabriel Valley/Los Angeles/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/san-gabriel-valley/pasadena/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Pasadena, California. Find out the local culture, customs, and safety tips.</description>
+	<pubDate>2024-03-31T05:33:17+03:00</pubDate>
+</item><item>
 	<title>Archangelos Travel Guide (Rhodes/Dodecanese/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/dodecanese/rhodes/archangelos/</link>
 	<description>Discover the hidden gems of Archangelos in Rhodes, Greece. Explore its rich culture, scenic views, and outdoor adventures with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northeastern-minnesota/north-shore/grand-marais/</link>
 	<description>Plan your trip to Grand Marais with this comprehensive travel guide featuring natural attractions, hiking/biking routes, local culture, safety tips, where to stay, and more.</description>
 	<pubDate>2024-03-31T00:44:03+03:00</pubDate>
-</item><item>
-	<title>Cajun Prairie Travel Guide (Acadiana/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/cajun-prairie/</link>
-	<description>Plan your Cajun Prairie adventure with our guide, including places to visit, activities to do, where to stay, and more.</description>
-	<pubDate>2024-03-31T00:16:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
