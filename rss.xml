@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T23:43:11+03:00</pubDate>
-        <lastBuildDate>2024-03-31T23:43:11+03:00</lastBuildDate>
+        <pubDate>2024-04-01T00:22:25+03:00</pubDate>
+        <lastBuildDate>2024-04-01T00:22:25+03:00</lastBuildDate>
 
         <item>
+	<title>Washington County Travel Guide (Western Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/western-maryland/washington-county/</link>
+	<description>Explore the cultural attractions, natural wonders, adventurous activities, food and drink, shopping, and local customs of Washington County, Maryland with this comprehensive travel guide.</description>
+	<pubDate>2024-04-01T00:22:25+03:00</pubDate>
+</item><item>
 	<title>Beavercreek Travel Guide (Miami - Scioto basins/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/miami-scioto-basins/beavercreek/</link>
 	<description>Plan your trip to Beavercreek with this comprehensive travel guide. Explore the top attractions, hiking/biking routes, dining options, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/north-shore/salem/</link>
 	<description>Plan the perfect trip to Salem, Massachusetts with this comprehensive tour guide featuring top attractions, best places to stay, local culture, and more.</description>
 	<pubDate>2024-03-31T19:43:30+03:00</pubDate>
-</item><item>
-	<title>Traralgon Travel Guide (Central Gippsland/Gippsland/Victoria (state)/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/victoria-state/gippsland/central-gippsland/traralgon/</link>
-	<description>Discover the top attractions, activities, accommodations, and local secrets of Traralgon, the charming town located in Central Gippsland, Victoria.</description>
-	<pubDate>2024-03-31T19:05:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
