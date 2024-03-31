@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T07:17:30+03:00</pubDate>
-        <lastBuildDate>2024-03-31T07:17:30+03:00</lastBuildDate>
+        <pubDate>2024-03-31T07:40:12+03:00</pubDate>
+        <lastBuildDate>2024-03-31T07:40:12+03:00</lastBuildDate>
 
         <item>
+	<title>Sarajevo Travel Guide (Sarajevo Region/Bosnia and Herzegovina/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/sarajevo-region/sarajevo/</link>
+	<description>Discover the best activities, attractions, food, accommodations and more with this ultimate guide to Sarajevo - the stunning city in Bosnia and Herzegovina!</description>
+	<pubDate>2024-03-31T07:40:12+03:00</pubDate>
+</item><item>
 	<title>Kangerlussuaq Travel Guide (Western Greenland/Greenland/North America)</title>
 	<link>https://travellers.wiki/en/north-america/greenland/western-greenland/kangerlussuaq/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Kangerlussuaq, along with tips on local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-african-islands/seychelles/mahe/victoria/</link>
 	<description>Discover the beautiful city of Victoria in Seychelles with our comprehensive travel guide including must-see attractions, where to stay, local cuisine, and more.</description>
 	<pubDate>2024-03-31T03:26:20+03:00</pubDate>
-</item><item>
-	<title>Tatarstan Travel Guide (Volga Region/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/tatarstan/</link>
-	<description>Discover the best places to visit, things to do, and local culture of Tatarstan with our comprehensive travel guide. Explore the beautiful Volga region of Russia and enjoy its natural beauty, delicious cuisine, and unique customs.</description>
-	<pubDate>2024-03-31T02:48:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
