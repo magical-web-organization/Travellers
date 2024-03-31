@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-03-31T03:26:20+03:00</pubDate>
-        <lastBuildDate>2024-03-31T03:26:20+03:00</lastBuildDate>
+        <pubDate>2024-03-31T03:45:18+03:00</pubDate>
+        <lastBuildDate>2024-03-31T03:45:18+03:00</lastBuildDate>
 
         <item>
+	<title>Puerto Williams Travel Guide (Patagonia/Chile/South America)</title>
+	<link>https://travellers.wiki/en/south-america/chile/patagonia/puerto-williams/</link>
+	<description>Discover the best things to do, see, eat, and stay in Puerto Williams, Chile's southernmost city, with this comprehensive travel guide.</description>
+	<pubDate>2024-03-31T03:45:18+03:00</pubDate>
+</item><item>
 	<title>Victoria Travel Guide (Mahé/Seychelles/East African Islands/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-african-islands/seychelles/mahe/victoria/</link>
 	<description>Discover the beautiful city of Victoria in Seychelles with our comprehensive travel guide including must-see attractions, where to stay, local cuisine, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-jeolla/damyang/</link>
 	<description>Explore the culturally and naturally rich Damyang in South Korea with our comprehensive travel guide. Discover traditional dishes, hiking trails, and local customs of this stunning destination.</description>
 	<pubDate>2024-03-30T23:21:04+03:00</pubDate>
-</item><item>
-	<title>Zona Norte Travel Guide (Rio de Janeiro/Grande Rio/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/grande-rio/rio-de-janeiro/zona-norte/</link>
-	<description>Plan your trip to Zona Norte, Rio de Janeiro with our comprehensive travel guide featuring must-go attractions, hiking routes, accommodations, local food, and safety information.</description>
-	<pubDate>2024-03-30T22:44:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
