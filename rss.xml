@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T22:02:42+03:00</pubDate>
-        <lastBuildDate>2024-04-01T22:02:42+03:00</lastBuildDate>
+        <pubDate>2024-04-01T22:11:09+03:00</pubDate>
+        <lastBuildDate>2024-04-01T22:11:09+03:00</lastBuildDate>
 
         <item>
+	<title>Mount Ishizuchi Travel Guide (Ehime/Shikoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/ehime/mount-ishizuchi/</link>
+	<description>Mount Ishizuchi is a popular hiking destination in Japan. Learn about the cultural and natural attractions, outdoor adventures, food, accommodations, and more with our comprehensive travel guide.</description>
+	<pubDate>2024-04-01T22:11:09+03:00</pubDate>
+</item><item>
 	<title>Bahariyya Travel Guide (Western Desert/Egypt/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/western-desert/bahariyya/</link>
 	<description>Plan your trip to Bahariyya with this extensive guide featuring cultural attractions, natural wonders, hiking/biking routes, must-try food and drink, where to stay and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/alameda-county/hayward/</link>
 	<description>Explore Hayward, California with our comprehensive travel guide. Discover the best places to visit, food to try, and tips for staying safe and healthy in Hayward.</description>
 	<pubDate>2024-04-01T17:36:19+03:00</pubDate>
-</item><item>
-	<title>Anstruther Travel Guide (Fife/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/anstruther/</link>
-	<description>Plan your trip to Anstruther, Scotland with this comprehensive tour guide, featuring a list of attractions, hiking/biking routes, where to stay, what to buy, local culture, and more.</description>
-	<pubDate>2024-04-01T17:10:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
