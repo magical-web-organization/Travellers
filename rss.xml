@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T05:36:06+03:00</pubDate>
-        <lastBuildDate>2024-04-01T05:36:06+03:00</lastBuildDate>
+        <pubDate>2024-04-01T06:21:04+03:00</pubDate>
+        <lastBuildDate>2024-04-01T06:21:04+03:00</lastBuildDate>
 
         <item>
+	<title>Tweedsmuir Provincial Park Travel Guide (Cariboo-Central Coast/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/cariboo-central-coast/tweedsmuir-provincial-park/</link>
+	<description>Discover the beauty of Tweedsmuir Provincial Park in Canada through this comprehensive travel guide, from must-see attractions to safety tips and logistics.</description>
+	<pubDate>2024-04-01T06:21:04+03:00</pubDate>
+</item><item>
 	<title>Columbus Travel Guide (Greater Columbus/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-columbus/columbus/</link>
 	<description>Explore the best of Columbus, Ohio with our comprehensive travel guide featuring top attractions, restaurants, accommodations, and insider tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/far-southern-tamil-nadu/tiruchendur/</link>
 	<description>Plan your trip to Tiruchendur with our comprehensive travel guide covering the top attractions, best things to do, where to stay, and more.</description>
 	<pubDate>2024-04-01T01:34:16+03:00</pubDate>
-</item><item>
-	<title>Szerencs Travel Guide (Borsod-Abaúj-Zemplén County/Northern Hungary/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/borsod-abauj-zemplen-county/szerencs/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Szerencs, Hungary. Explore the rich cultural attractions, natural wonders, and delicious local food of this charming town in Borsod-Abaúj-Zemplén County.</description>
-	<pubDate>2024-04-01T01:24:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
