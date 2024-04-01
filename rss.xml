@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T05:14:03+03:00</pubDate>
-        <lastBuildDate>2024-04-01T05:14:03+03:00</lastBuildDate>
+        <pubDate>2024-04-01T05:36:06+03:00</pubDate>
+        <lastBuildDate>2024-04-01T05:36:06+03:00</lastBuildDate>
 
         <item>
+	<title>Columbus Travel Guide (Greater Columbus/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-columbus/columbus/</link>
+	<description>Explore the best of Columbus, Ohio with our comprehensive travel guide featuring top attractions, restaurants, accommodations, and insider tips.</description>
+	<pubDate>2024-04-01T05:36:06+03:00</pubDate>
+</item><item>
 	<title>Centro Travel Guide (Monterrey/Nuevo León/Northern Mexico/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/nuevo-leon/monterrey/centro/</link>
 	<description>Discover the best places to visit, things to do, where to eat, where to stay, and how to get around in Centro with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/borsod-abauj-zemplen-county/szerencs/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Szerencs, Hungary. Explore the rich cultural attractions, natural wonders, and delicious local food of this charming town in Borsod-Abaúj-Zemplén County.</description>
 	<pubDate>2024-04-01T01:24:55+03:00</pubDate>
-</item><item>
-	<title>Pirenópolis Travel Guide (Goiás/Central West/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/central-west/goias/pirenopolis/</link>
-	<description>Discover the best places to visit, things to do, and cultural information for your trip to Pirenópolis, Brazil.</description>
-	<pubDate>2024-04-01T00:34:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
