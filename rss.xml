@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T16:44:50+03:00</pubDate>
-        <lastBuildDate>2024-04-01T16:44:50+03:00</lastBuildDate>
+        <pubDate>2024-04-01T17:10:21+03:00</pubDate>
+        <lastBuildDate>2024-04-01T17:10:21+03:00</lastBuildDate>
 
         <item>
+	<title>Anstruther Travel Guide (Fife/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/anstruther/</link>
+	<description>Plan your trip to Anstruther, Scotland with this comprehensive tour guide, featuring a list of attractions, hiking/biking routes, where to stay, what to buy, local culture, and more.</description>
+	<pubDate>2024-04-01T17:10:21+03:00</pubDate>
+</item><item>
 	<title>Rocky Mountains Travel Guide (North America)</title>
 	<link>https://travellers.wiki/en/north-america/rocky-mountains/</link>
 	<description>Discover the natural and cultural attractions of the Rocky Mountains in this comprehensive tour guide that includes information on travel logistics, lodging and dining options, and must-visit destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/pest-county/nagykoros/</link>
 	<description>Planning a trip to Nagykőrös? This comprehensive travel guide provides all the information you need to make the most of your visit, including top attractions, outdoor adventures, hiking and biking routes, food and drink scene, accommodations, local culture, and transportation options.</description>
 	<pubDate>2024-04-01T12:53:31+03:00</pubDate>
-</item><item>
-	<title>Orangeville Travel Guide (Wellington and Dufferin Counties/Southwestern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/wellington-and-dufferin-counties/orangeville/</link>
-	<description>Plan your trip to Orangeville, Ontario, Canada with this comprehensive travel guide. Discover the best things to do, places to visit, where to stay, and more.</description>
-	<pubDate>2024-04-01T12:03:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
