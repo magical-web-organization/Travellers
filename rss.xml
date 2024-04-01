@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T04:57:19+03:00</pubDate>
-        <lastBuildDate>2024-04-01T04:57:19+03:00</lastBuildDate>
+        <pubDate>2024-04-01T05:14:03+03:00</pubDate>
+        <lastBuildDate>2024-04-01T05:14:03+03:00</lastBuildDate>
 
         <item>
+	<title>Centro Travel Guide (Monterrey/Nuevo León/Northern Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/nuevo-leon/monterrey/centro/</link>
+	<description>Discover the best places to visit, things to do, where to eat, where to stay, and how to get around in Centro with this comprehensive travel guide.</description>
+	<pubDate>2024-04-01T05:14:03+03:00</pubDate>
+</item><item>
 	<title>Cahir Travel Guide (County Tipperary/Shannon Region/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/shannon-region/county-tipperary/cahir/</link>
 	<description>Discover the best places, activities, food, and culture in Cahir, County Tipperary, in Ireland. Plan your trip now with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/central-west/goias/pirenopolis/</link>
 	<description>Discover the best places to visit, things to do, and cultural information for your trip to Pirenópolis, Brazil.</description>
 	<pubDate>2024-04-01T00:34:16+03:00</pubDate>
-</item><item>
-	<title>Washington County Travel Guide (Western Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/western-maryland/washington-county/</link>
-	<description>Explore the cultural attractions, natural wonders, adventurous activities, food and drink, shopping, and local customs of Washington County, Maryland with this comprehensive travel guide.</description>
-	<pubDate>2024-04-01T00:22:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
