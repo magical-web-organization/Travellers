@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T13:19:42+03:00</pubDate>
-        <lastBuildDate>2024-04-01T13:19:42+03:00</lastBuildDate>
+        <pubDate>2024-04-01T13:39:42+03:00</pubDate>
+        <lastBuildDate>2024-04-01T13:39:42+03:00</lastBuildDate>
 
         <item>
+	<title>Mürren Travel Guide (Bernese Highlands/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/bernese-highlands/murren/</link>
+	<description>Plan your trip to Mürren with our comprehensive travel guide, including top attractions, hiking routes, food scene, accommodation options, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-04-01T13:39:42+03:00</pubDate>
+</item><item>
 	<title>Salisbury, Playford and Tea Tree Gully Travel Guide (Adelaide/Adelaide Region/South Australia/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/south-australia/adelaide-region/adelaide/salisbury-playford-and-tea-tree-gully/</link>
 	<description>Discover the top attractions, things to do, accommodations, local culture, and transportation options in Salisbury, Playford and Tea Tree Gully.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/varese-province/busto-arsizio/</link>
 	<description>Our comprehensive travel guide to Busto Arsizio provides all the information you need to plan your visit, including a list of places to visit, where to stay, and the best things to do.</description>
 	<pubDate>2024-04-01T09:20:54+03:00</pubDate>
-</item><item>
-	<title>Murchison Falls National Park Travel Guide (Northern Uganda/Uganda/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/uganda/northern-uganda/murchison-falls-national-park/</link>
-	<description>Discover the natural and cultural wonders of Murchison Falls National Park in Northern Uganda with this informative and SEO-optimized travel guide.</description>
-	<pubDate>2024-04-01T09:03:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
