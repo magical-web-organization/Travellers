@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T10:55:29+03:00</pubDate>
-        <lastBuildDate>2024-04-01T10:55:29+03:00</lastBuildDate>
+        <pubDate>2024-04-01T11:11:20+03:00</pubDate>
+        <lastBuildDate>2024-04-01T11:11:20+03:00</lastBuildDate>
 
         <item>
+	<title>Slinger Travel Guide (Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/slinger/</link>
+	<description>Plan your trip to Slinger, Wisconsin with our comprehensive travel guide. Explore top attractions, food & drink scene, accommodations, transportation options, and more.</description>
+	<pubDate>2024-04-01T11:11:20+03:00</pubDate>
+</item><item>
 	<title>Meadow Lake Travel Guide (Northern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/northern-saskatchewan/meadow-lake/</link>
 	<description>Plan your dream trip to Meadow Lake with this comprehensive travel guide. Find top attractions, activities, accommodations, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/brest-oblast/pinsk/</link>
 	<description>Discover Pinsk with this in-depth travel guide, including top attractions, hiking/biking routes, food scenes, cultural customs, safety tips, transportation options, and nearby destinations.</description>
 	<pubDate>2024-04-01T06:53:35+03:00</pubDate>
-</item><item>
-	<title>Tweedsmuir Provincial Park Travel Guide (Cariboo-Central Coast/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/cariboo-central-coast/tweedsmuir-provincial-park/</link>
-	<description>Discover the beauty of Tweedsmuir Provincial Park in Canada through this comprehensive travel guide, from must-see attractions to safety tips and logistics.</description>
-	<pubDate>2024-04-01T06:21:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
