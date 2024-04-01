@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T15:54:39+03:00</pubDate>
-        <lastBuildDate>2024-04-01T15:54:39+03:00</lastBuildDate>
+        <pubDate>2024-04-01T16:22:14+03:00</pubDate>
+        <lastBuildDate>2024-04-01T16:22:14+03:00</lastBuildDate>
 
         <item>
+	<title>Porto Torres Travel Guide (Sassari (province)/Sardinia/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/sardinia/sassari-province/porto-torres/</link>
+	<description>Discover the best things to see and do in Porto Torres, where to stay, eat, and shop, the local customs, and more in this comprehensive travel guide.</description>
+	<pubDate>2024-04-01T16:22:14+03:00</pubDate>
+</item><item>
 	<title>Wood Dale Travel Guide (Northwest Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/northwest-suburbs/wood-dale/</link>
 	<description>Discover the best things to do, see, eat, and stay in Wood Dale, a charming suburb in the Chicagoland area of Illinois. Get information on transportation, nearby destinations, and local culture and customs in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/sonoma-county/petaluma/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and how to get around in Petaluma, California with our comprehensive travel guide.</description>
 	<pubDate>2024-04-01T11:39:24+03:00</pubDate>
-</item><item>
-	<title>Slinger Travel Guide (Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/slinger/</link>
-	<description>Plan your trip to Slinger, Wisconsin with our comprehensive travel guide. Explore top attractions, food & drink scene, accommodations, transportation options, and more.</description>
-	<pubDate>2024-04-01T11:11:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
