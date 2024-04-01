@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T12:53:31+03:00</pubDate>
-        <lastBuildDate>2024-04-01T12:53:31+03:00</lastBuildDate>
+        <pubDate>2024-04-01T13:19:42+03:00</pubDate>
+        <lastBuildDate>2024-04-01T13:19:42+03:00</lastBuildDate>
 
         <item>
+	<title>Salisbury, Playford and Tea Tree Gully Travel Guide (Adelaide/Adelaide Region/South Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/south-australia/adelaide-region/adelaide/salisbury-playford-and-tea-tree-gully/</link>
+	<description>Discover the top attractions, things to do, accommodations, local culture, and transportation options in Salisbury, Playford and Tea Tree Gully.</description>
+	<pubDate>2024-04-01T13:19:42+03:00</pubDate>
+</item><item>
 	<title>Nagykőrös Travel Guide (Pest County/Central Hungary/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/pest-county/nagykoros/</link>
 	<description>Planning a trip to Nagykőrös? This comprehensive travel guide provides all the information you need to make the most of your visit, including top attractions, outdoor adventures, hiking and biking routes, food and drink scene, accommodations, local culture, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/uganda/northern-uganda/murchison-falls-national-park/</link>
 	<description>Discover the natural and cultural wonders of Murchison Falls National Park in Northern Uganda with this informative and SEO-optimized travel guide.</description>
 	<pubDate>2024-04-01T09:03:22+03:00</pubDate>
-</item><item>
-	<title>La Quinta Travel Guide (Riverside County/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/riverside-county/la-quinta/</link>
-	<description>Plan your dream trip to La Quinta with this comprehensive guide. Discover the best things to do in La Quinta, where to eat and stay, and much more.</description>
-	<pubDate>2024-04-01T08:10:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
