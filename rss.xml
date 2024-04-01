@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T11:11:20+03:00</pubDate>
-        <lastBuildDate>2024-04-01T11:11:20+03:00</lastBuildDate>
+        <pubDate>2024-04-01T11:39:24+03:00</pubDate>
+        <lastBuildDate>2024-04-01T11:39:24+03:00</lastBuildDate>
 
         <item>
+	<title>Petaluma Travel Guide (Sonoma County/North Coast/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/sonoma-county/petaluma/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to eat, and how to get around in Petaluma, California with our comprehensive travel guide.</description>
+	<pubDate>2024-04-01T11:39:24+03:00</pubDate>
+</item><item>
 	<title>Slinger Travel Guide (Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/slinger/</link>
 	<description>Plan your trip to Slinger, Wisconsin with our comprehensive travel guide. Explore top attractions, food & drink scene, accommodations, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/northern-ireland/county-antrim/antrim-town/</link>
 	<description>Explore the best things to do, places to stay, and where to eat in Antrim (town), Northern Ireland. Plan your perfect vacation with our comprehensive travel guide!</description>
 	<pubDate>2024-04-01T07:17:35+03:00</pubDate>
-</item><item>
-	<title>Pinsk Travel Guide (Brest Oblast/Belarus/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/brest-oblast/pinsk/</link>
-	<description>Discover Pinsk with this in-depth travel guide, including top attractions, hiking/biking routes, food scenes, cultural customs, safety tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-04-01T06:53:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
