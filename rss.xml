@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-01T20:39:22+03:00</pubDate>
-        <lastBuildDate>2024-04-01T20:39:22+03:00</lastBuildDate>
+        <pubDate>2024-04-01T21:11:31+03:00</pubDate>
+        <lastBuildDate>2024-04-01T21:11:31+03:00</lastBuildDate>
 
         <item>
+	<title>Newbury and Thatcham Travel Guide (Berkshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/berkshire/newbury-and-thatcham/</link>
+	<description>Discover the cultural and natural attractions, food and drink scene, where to stay, and more in this detailed travel guide to Newbury and Thatcham in South East England.</description>
+	<pubDate>2024-04-01T21:11:31+03:00</pubDate>
+</item><item>
 	<title>Napa Travel Guide (Napa Valley/North Bay/Bay Area/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/north-bay/napa-valley/napa/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, and safety tips for your trip to Napa Valley, California.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/rocky-mountains/</link>
 	<description>Discover the natural and cultural attractions of the Rocky Mountains in this comprehensive tour guide that includes information on travel logistics, lodging and dining options, and must-visit destinations.</description>
 	<pubDate>2024-04-01T16:44:50+03:00</pubDate>
-</item><item>
-	<title>Porto Torres Travel Guide (Sassari (province)/Sardinia/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sardinia/sassari-province/porto-torres/</link>
-	<description>Discover the best things to see and do in Porto Torres, where to stay, eat, and shop, the local customs, and more in this comprehensive travel guide.</description>
-	<pubDate>2024-04-01T16:22:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
