@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T17:13:26+03:00</pubDate>
-        <lastBuildDate>2024-04-02T17:13:26+03:00</lastBuildDate>
+        <pubDate>2024-04-02T17:52:32+03:00</pubDate>
+        <lastBuildDate>2024-04-02T17:52:32+03:00</lastBuildDate>
 
         <item>
+	<title>Bridgeport Travel Guide (Fairfield County/Connecticut/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/fairfield-county/bridgeport/</link>
+	<description>Plan your trip to Bridgeport, Connecticut with our comprehensive tour guide featuring the best things to do, places to visit, food and drink scene, local culture and customs, safety and health tips, and transportation options.</description>
+	<pubDate>2024-04-02T17:52:32+03:00</pubDate>
+</item><item>
 	<title>Kittilä Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/kittila/</link>
 	<description>Read our comprehensive travel guide for Kittilä, Finland. Learn about sights to see, things to do, where to stay, and more. Plan your trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/central-circuit/shakotan/</link>
 	<description>This comprehensive travel guide to Shakotan provides all the information you need to plan your perfect visit to this scenic destination, from a list of places to visit to the best things to do and eat.</description>
 	<pubDate>2024-04-02T13:16:58+03:00</pubDate>
-</item><item>
-	<title>Chàm Islands Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/cham-islands/</link>
-	<description>Explore the best attractions, food and drink scene, accommodation options, local culture, and safety tips in Chàm Islands, Vietnam.</description>
-	<pubDate>2024-04-02T12:38:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
