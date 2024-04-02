@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T16:59:51+03:00</pubDate>
-        <lastBuildDate>2024-04-02T16:59:51+03:00</lastBuildDate>
+        <pubDate>2024-04-02T17:13:26+03:00</pubDate>
+        <lastBuildDate>2024-04-02T17:13:26+03:00</lastBuildDate>
 
         <item>
+	<title>Kittilä Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/kittila/</link>
+	<description>Read our comprehensive travel guide for Kittilä, Finland. Learn about sights to see, things to do, where to stay, and more. Plan your trip now!</description>
+	<pubDate>2024-04-02T17:13:26+03:00</pubDate>
+</item><item>
 	<title>Lagunas de Montebello National Park Travel Guide (Chiapas/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/chiapas/lagunas-de-montebello-national-park/</link>
 	<description>Plan your visit to Lagunas de Montebello National Park with our comprehensive travel guide, featuring recommendations on attractions, activities, food, and accommodations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/cham-islands/</link>
 	<description>Explore the best attractions, food and drink scene, accommodation options, local culture, and safety tips in Chàm Islands, Vietnam.</description>
 	<pubDate>2024-04-02T12:38:01+03:00</pubDate>
-</item><item>
-	<title>Puerto Cayo Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
-	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/puerto-cayo/</link>
-	<description>Plan your trip to Puerto Cayo with our comprehensive travel guide. Discover the best places to visit, where to eat and stay, and how to get around safely.</description>
-	<pubDate>2024-04-02T12:06:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
