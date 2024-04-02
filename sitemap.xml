@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/</loc>
+        <lastmod>2024-04-02T07:14:51+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/malindi/</loc>
+        <lastmod>2024-04-02T07:14:51+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/central-europe/austria/tyrol/lower-inn-valley/innsbruck/</loc>
         <lastmod>2024-04-02T06:41:51+03:00</lastmod>
     </url>
