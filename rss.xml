@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T02:27:47+03:00</pubDate>
-        <lastBuildDate>2024-04-02T02:27:47+03:00</lastBuildDate>
+        <pubDate>2024-04-02T03:00:57+03:00</pubDate>
+        <lastBuildDate>2024-04-02T03:00:57+03:00</lastBuildDate>
 
         <item>
+	<title>Eupen Travel Guide (Liège (province)/Wallonia/Belgium/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/liege-province/eupen/</link>
+	<description>Explore the cultural and natural attractions of Eupen through this comprehensive travel guide. Learn about the best things to do, where to stay, and where to go next.</description>
+	<pubDate>2024-04-02T03:00:57+03:00</pubDate>
+</item><item>
 	<title>Thompson Travel Guide (North of 53/Manitoba/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/north-of-53/thompson/</link>
 	<description>Discover the best places to visit, activities to try, food and drink scene, where to stay, and more in Thompson, Canada with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/ehime/mount-ishizuchi/</link>
 	<description>Mount Ishizuchi is a popular hiking destination in Japan. Learn about the cultural and natural attractions, outdoor adventures, food, accommodations, and more with our comprehensive travel guide.</description>
 	<pubDate>2024-04-01T22:11:09+03:00</pubDate>
-</item><item>
-	<title>Bahariyya Travel Guide (Western Desert/Egypt/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/egypt/western-desert/bahariyya/</link>
-	<description>Plan your trip to Bahariyya with this extensive guide featuring cultural attractions, natural wonders, hiking/biking routes, must-try food and drink, where to stay and more.</description>
-	<pubDate>2024-04-01T22:02:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
