@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T03:00:57+03:00</pubDate>
-        <lastBuildDate>2024-04-02T03:00:57+03:00</lastBuildDate>
+        <pubDate>2024-04-02T03:21:00+03:00</pubDate>
+        <lastBuildDate>2024-04-02T03:21:00+03:00</lastBuildDate>
 
         <item>
+	<title>Bethuadahari Wildlife Sanctuary Travel Guide (Murshidabad and Nadia/West Bengal/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/murshidabad-and-nadia/bethuadahari-wildlife-sanctuary/</link>
+	<description>Discover the natural beauty and cultural heritage of Bethuadahari Wildlife Sanctuary with our comprehensive tour guide. Learn about the top attractions, outdoor activities, hiking and biking routes, local food and drink scene, accommodations, souvenirs, and more.</description>
+	<pubDate>2024-04-02T03:21:00+03:00</pubDate>
+</item><item>
 	<title>Eupen Travel Guide (Liège (province)/Wallonia/Belgium/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/liege-province/eupen/</link>
 	<description>Explore the cultural and natural attractions of Eupen through this comprehensive travel guide. Learn about the best things to do, where to stay, and where to go next.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/metropolitan-naples/afragola/</link>
 	<description>Plan your trip to Afragola with this detailed travel guide, highlighting the natural and cultural attractions, food and drink scene, accommodations, and transportation options.</description>
 	<pubDate>2024-04-01T23:00:54+03:00</pubDate>
-</item><item>
-	<title>Mount Ishizuchi Travel Guide (Ehime/Shikoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/ehime/mount-ishizuchi/</link>
-	<description>Mount Ishizuchi is a popular hiking destination in Japan. Learn about the cultural and natural attractions, outdoor adventures, food, accommodations, and more with our comprehensive travel guide.</description>
-	<pubDate>2024-04-01T22:11:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
