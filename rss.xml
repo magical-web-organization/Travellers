@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T01:14:28+03:00</pubDate>
-        <lastBuildDate>2024-04-03T01:14:28+03:00</lastBuildDate>
+        <pubDate>2024-04-03T01:46:27+03:00</pubDate>
+        <lastBuildDate>2024-04-03T01:46:27+03:00</lastBuildDate>
 
         <item>
+	<title>Hopkinsville Travel Guide (Western Waterlands/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-waterlands/hopkinsville/</link>
+	<description>Discover Hopkinsville in Kentucky with our comprehensive travel guide. Explore the natural attractions, historical sites, and delicious food and drinks of this charming town.</description>
+	<pubDate>2024-04-03T01:46:27+03:00</pubDate>
+</item><item>
 	<title>Slonim Travel Guide (Grodno Oblast/Belarus/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/grodno-oblast/slonim/</link>
 	<description>Plan a trip to Slonim with this comprehensive travel guide, including information on the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/gunma/fujioka/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and tips for traveling to Fujioka, Japan.</description>
 	<pubDate>2024-04-02T21:24:13+03:00</pubDate>
-</item><item>
-	<title>Parañaque Travel Guide (Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/paranaque/</link>
-	<description>Discover the best places to visit, food to try, and things to do in Parañaque, with tips for safety, culture, and transportation logistics for your trip to this beautiful city in the Philippines.</description>
-	<pubDate>2024-04-02T20:52:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
