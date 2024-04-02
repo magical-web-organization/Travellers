@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T10:53:37+03:00</pubDate>
-        <lastBuildDate>2024-04-02T10:53:37+03:00</lastBuildDate>
+        <pubDate>2024-04-02T11:20:50+03:00</pubDate>
+        <lastBuildDate>2024-04-02T11:20:50+03:00</lastBuildDate>
 
         <item>
+	<title>Brasilito Travel Guide (Guanacaste/Costa Rica/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/guanacaste/brasilito/</link>
+	<description>Explore the cultural, natural, and adventure attractions of Brasilito, Costa Rica, and discover the best things to do, eat, drink, and buy. Get the tips on transportation, safety, and health for a memorable trip to this charming town.</description>
+	<pubDate>2024-04-02T11:20:50+03:00</pubDate>
+</item><item>
 	<title>Białowieża National Park Travel Guide (Podlaskie/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/podlaskie/bialowieza-national-park/</link>
 	<description>Discover the cultural and natural attractions, outdoor activities, food and drink scene, lodging options, and transportation logistics for the Białowieża National Park.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/lower-inn-valley/innsbruck/</link>
 	<description>Discover the best of Innsbruck with our comprehensive travel guide. From breathtaking natural attractions to culturally important museums, explore the best of Tyrol in Austria.</description>
 	<pubDate>2024-04-02T06:41:51+03:00</pubDate>
-</item><item>
-	<title>Serra da Bocaina National Park Travel Guide (Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/serra-da-bocaina-national-park/</link>
-	<description>Discover the breathtaking beauty and hidden gems of Serra da Bocaina National Park. Get insider information on the best activities, hiking routes, cultural attractions, food and drink scene, where to stay, and more with our comprehensive travel guide.</description>
-	<pubDate>2024-04-02T06:08:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
