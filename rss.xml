@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T19:22:28+03:00</pubDate>
-        <lastBuildDate>2024-04-02T19:22:28+03:00</lastBuildDate>
+        <pubDate>2024-04-02T19:48:07+03:00</pubDate>
+        <lastBuildDate>2024-04-02T19:48:07+03:00</lastBuildDate>
 
         <item>
+	<title>Majha Travel Guide (Punjab/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/majha/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, and local culture of Majha, Punjab in this comprehensive travel guide.</description>
+	<pubDate>2024-04-02T19:48:07+03:00</pubDate>
+</item><item>
 	<title>Orange Walk Town Travel Guide (Northern Belize/Belize/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/belize/northern-belize/orange-walk-town/</link>
 	<description>Discover the best places to visit, food to try, accommodations, transportation, and safety precautions in Orange Walk Town, Belize.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/ukhahlamba-drakensberg/rugged-glen-nature-reserve/</link>
 	<description>Discover the natural beauty and cultural significance of Rugged Glen Nature Reserve in South Africa. Explore the best things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-04-02T15:16:22+03:00</pubDate>
-</item><item>
-	<title>Hepu Travel Guide (Lhasa (prefecture)/Tibet/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/lhasa-prefecture/hepu/</link>
-	<description>Discover the culturally significant attractions, natural outdoor adventures, hiking/biking routes, food, and drink scene, where to stay, what to buy, the best time to visit, transportation options, and nearby destinations and excursions for your trip to Hepu, Tibet.</description>
-	<pubDate>2024-04-02T14:43:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
