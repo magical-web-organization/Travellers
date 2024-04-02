@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T12:06:05+03:00</pubDate>
-        <lastBuildDate>2024-04-02T12:06:05+03:00</lastBuildDate>
+        <pubDate>2024-04-02T12:38:01+03:00</pubDate>
+        <lastBuildDate>2024-04-02T12:38:01+03:00</lastBuildDate>
 
         <item>
+	<title>Chàm Islands Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/cham-islands/</link>
+	<description>Explore the best attractions, food and drink scene, accommodation options, local culture, and safety tips in Chàm Islands, Vietnam.</description>
+	<pubDate>2024-04-02T12:38:01+03:00</pubDate>
+</item><item>
 	<title>Puerto Cayo Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
 	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/puerto-cayo/</link>
 	<description>Plan your trip to Puerto Cayo with our comprehensive travel guide. Discover the best places to visit, where to eat and stay, and how to get around safely.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/bondla-wildlife-sanctuary/</link>
 	<description>Plan your trip to Bondla Wildlife Sanctuary in Goa, India with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-04-02T08:15:35+03:00</pubDate>
-</item><item>
-	<title>Morjim Travel Guide (North Goa/Goa/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/north-goa/morjim/</link>
-	<description>Morjim is a charming village located in North Goa. This comprehensive guide will provide you with all the information you need to make the most of your visit to Morjim, including places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-02T07:42:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
