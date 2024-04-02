@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T07:14:51+03:00</pubDate>
-        <lastBuildDate>2024-04-02T07:14:51+03:00</lastBuildDate>
+        <pubDate>2024-04-02T07:42:56+03:00</pubDate>
+        <lastBuildDate>2024-04-02T07:42:56+03:00</lastBuildDate>
 
         <item>
+	<title>Morjim Travel Guide (North Goa/Goa/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/north-goa/morjim/</link>
+	<description>Morjim is a charming village located in North Goa. This comprehensive guide will provide you with all the information you need to make the most of your visit to Morjim, including places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-04-02T07:42:56+03:00</pubDate>
+</item><item>
 	<title>Coastal Kenya Travel Guide (Kenya/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture, and much more in Coastal Kenya.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/murshidabad-and-nadia/bethuadahari-wildlife-sanctuary/</link>
 	<description>Discover the natural beauty and cultural heritage of Bethuadahari Wildlife Sanctuary with our comprehensive tour guide. Learn about the top attractions, outdoor activities, hiking and biking routes, local food and drink scene, accommodations, souvenirs, and more.</description>
 	<pubDate>2024-04-02T03:21:00+03:00</pubDate>
-</item><item>
-	<title>Eupen Travel Guide (Liège (province)/Wallonia/Belgium/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/liege-province/eupen/</link>
-	<description>Explore the cultural and natural attractions of Eupen through this comprehensive travel guide. Learn about the best things to do, where to stay, and where to go next.</description>
-	<pubDate>2024-04-02T03:00:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
