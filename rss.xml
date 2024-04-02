@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T20:52:53+03:00</pubDate>
-        <lastBuildDate>2024-04-02T20:52:53+03:00</lastBuildDate>
+        <pubDate>2024-04-02T21:24:13+03:00</pubDate>
+        <lastBuildDate>2024-04-02T21:24:13+03:00</lastBuildDate>
 
         <item>
+	<title>Fujioka Travel Guide (Gunma/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/gunma/fujioka/</link>
+	<description>Discover the best places to visit, activities to do, food to try, and tips for traveling to Fujioka, Japan.</description>
+	<pubDate>2024-04-02T21:24:13+03:00</pubDate>
+</item><item>
 	<title>Parañaque Travel Guide (Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/paranaque/</link>
 	<description>Discover the best places to visit, food to try, and things to do in Parañaque, with tips for safety, culture, and transportation logistics for your trip to this beautiful city in the Philippines.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/chiapas/lagunas-de-montebello-national-park/</link>
 	<description>Plan your visit to Lagunas de Montebello National Park with our comprehensive travel guide, featuring recommendations on attractions, activities, food, and accommodations.</description>
 	<pubDate>2024-04-02T16:59:51+03:00</pubDate>
-</item><item>
-	<title>Altstadt Travel Guide (Munich/Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/munich/altstadt/</link>
-	<description>Get a comprehensive tour guide on Altstadt in Munich, including information on places to visit, hiking, biking, food and drink scene, where to stay, local culture, safety, transportation options, and nearby destinations and excursions.</description>
-	<pubDate>2024-04-02T16:17:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
