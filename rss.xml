@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T09:41:28+03:00</pubDate>
-        <lastBuildDate>2024-04-02T09:41:28+03:00</lastBuildDate>
+        <pubDate>2024-04-02T10:15:51+03:00</pubDate>
+        <lastBuildDate>2024-04-02T10:15:51+03:00</lastBuildDate>
 
         <item>
+	<title>Putnam County (New York) Travel Guide (Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/putnam-county-new-york/</link>
+	<description>Explore the natural beauty and rich history of Putnam County (New York) with this comprehensive travel guide. Discover the best places to visit, stay, eat, and explore, and learn about local customs and health and safety tips.</description>
+	<pubDate>2024-04-02T10:15:51+03:00</pubDate>
+</item><item>
 	<title>Ullal Travel Guide (Dakshina Kannada/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/dakshina-kannada/ullal/</link>
 	<description>Plan your trip to Ullal with this comprehensive travel guide, featuring information about the best places to visit, food and drink scene, cultural attractions, safety tips, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/pahang/jerantut/</link>
 	<description>Discover the best attractions, activities, food, accommodation, and transportation options in Jerantut, a hidden gem in Malaysia's Pahang region, where natural beauty and cultural heritage meet.</description>
 	<pubDate>2024-04-02T05:50:39+03:00</pubDate>
-</item><item>
-	<title>Barmouth Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/barmouth/</link>
-	<description>Explore the culturally rich and naturally endowed Barmouth in North Wales with our comprehensive tour guide. Discover the best things to do, eat, and see in Barmouth. Plan your itinerary, find transportation details, and more.</description>
-	<pubDate>2024-04-02T05:17:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
