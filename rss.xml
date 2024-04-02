@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T03:34:16+03:00</pubDate>
-        <lastBuildDate>2024-04-02T03:34:16+03:00</lastBuildDate>
+        <pubDate>2024-04-02T04:30:02+03:00</pubDate>
+        <lastBuildDate>2024-04-02T04:30:02+03:00</lastBuildDate>
 
         <item>
+	<title>Ephrata Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/ephrata/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Ephrata, Washington. Explore the beauty of the Pacific Northwest and Columbia River Plateau with our comprehensive travel guide.</description>
+	<pubDate>2024-04-02T04:30:02+03:00</pubDate>
+</item><item>
 	<title>Plentywood Travel Guide (Missouri River Country/Montana/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/missouri-river-country/plentywood/</link>
 	<description>Explore the beauty of Plentywood, Montana with our comprehensive travel guide. Find the best places to visit, things to do, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/krabi-province/had-yao/</link>
 	<description>Discover the best things to do, places to visit, where to stay and eat, and how to get around while exploring Had Yao, Krabi Province, Thailand.</description>
 	<pubDate>2024-04-01T23:37:56+03:00</pubDate>
-</item><item>
-	<title>Zhangjiagang Travel Guide (Jiangsu/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/jiangsu/zhangjiagang/</link>
-	<description>Plan your trip to Zhangjiagang with this comprehensive travel guide featuring top attractions, food, accommodation, culture and customs, safety, transportation options and logistics, and more.</description>
-	<pubDate>2024-04-01T23:14:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
