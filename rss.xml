@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T08:45:58+03:00</pubDate>
-        <lastBuildDate>2024-04-02T08:45:58+03:00</lastBuildDate>
+        <pubDate>2024-04-02T09:15:39+03:00</pubDate>
+        <lastBuildDate>2024-04-02T09:15:39+03:00</lastBuildDate>
 
         <item>
+	<title>Eastern Guatemala Travel Guide (Guatemala/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/guatemala/eastern-guatemala/</link>
+	<description>Plan your perfect trip to Eastern Guatemala with our comprehensive tour guide, including a list of places to visit, hiking/biking routes, food and drink scene, and local culture.</description>
+	<pubDate>2024-04-02T09:15:39+03:00</pubDate>
+</item><item>
 	<title>El Dorado Travel Guide (Flint Hills/Kansas/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/flint-hills/el-dorado/</link>
 	<description>Discover the hidden gem of Flint Hills, Kansas with our comprehensive El Dorado travel guide featuring the best attractions, outdoor activities, hiking/biking routes, things to do, food and drink scene, where to stay, local culture and customs, safety and health tips, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/marlborough/</link>
 	<description>Explore Marlborough, Massachusetts with our comprehensive travel guide featuring the best places to visit, things to do, where to stay, local culture, and more.</description>
 	<pubDate>2024-04-02T04:56:43+03:00</pubDate>
-</item><item>
-	<title>Ephrata Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/ephrata/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Ephrata, Washington. Explore the beauty of the Pacific Northwest and Columbia River Plateau with our comprehensive travel guide.</description>
-	<pubDate>2024-04-02T04:30:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
