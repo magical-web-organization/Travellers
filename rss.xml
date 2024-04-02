@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T01:46:27+03:00</pubDate>
-        <lastBuildDate>2024-04-03T01:46:27+03:00</lastBuildDate>
+        <pubDate>2024-04-03T02:19:56+03:00</pubDate>
+        <lastBuildDate>2024-04-03T02:19:56+03:00</lastBuildDate>
 
         <item>
+	<title>Köthen Travel Guide (Saxony-Anhalt/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony-anhalt/kothen/</link>
+	<description>Read our comprehensive guide to Köthen, Germany, which includes information on the best things to do, places to visit, where to stay, and local customs!</description>
+	<pubDate>2024-04-03T02:19:56+03:00</pubDate>
+</item><item>
 	<title>Hopkinsville Travel Guide (Western Waterlands/Kentucky/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-waterlands/hopkinsville/</link>
 	<description>Discover Hopkinsville in Kentucky with our comprehensive travel guide. Explore the natural attractions, historical sites, and delicious food and drinks of this charming town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/kartli/mtskheta/</link>
 	<description>Discover the best things to do, where to stay, and what to eat in Mtskheta, Georgia with this travel guide.</description>
 	<pubDate>2024-04-02T21:46:09+03:00</pubDate>
-</item><item>
-	<title>Fujioka Travel Guide (Gunma/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/gunma/fujioka/</link>
-	<description>Discover the best places to visit, activities to do, food to try, and tips for traveling to Fujioka, Japan.</description>
-	<pubDate>2024-04-02T21:24:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
