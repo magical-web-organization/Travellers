@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T16:17:28+03:00</pubDate>
-        <lastBuildDate>2024-04-02T16:17:28+03:00</lastBuildDate>
+        <pubDate>2024-04-02T16:59:51+03:00</pubDate>
+        <lastBuildDate>2024-04-02T16:59:51+03:00</lastBuildDate>
 
         <item>
+	<title>Lagunas de Montebello National Park Travel Guide (Chiapas/Yucatán and the South/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/chiapas/lagunas-de-montebello-national-park/</link>
+	<description>Plan your visit to Lagunas de Montebello National Park with our comprehensive travel guide, featuring recommendations on attractions, activities, food, and accommodations.</description>
+	<pubDate>2024-04-02T16:59:51+03:00</pubDate>
+</item><item>
 	<title>Altstadt Travel Guide (Munich/Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/munich/altstadt/</link>
 	<description>Get a comprehensive tour guide on Altstadt in Munich, including information on places to visit, hiking, biking, food and drink scene, where to stay, local culture, safety, transportation options, and nearby destinations and excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/puerto-cayo/</link>
 	<description>Plan your trip to Puerto Cayo with our comprehensive travel guide. Discover the best places to visit, where to eat and stay, and how to get around safely.</description>
 	<pubDate>2024-04-02T12:06:05+03:00</pubDate>
-</item><item>
-	<title>Nuweiba Travel Guide (Sinai/Egypt/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/egypt/sinai/nuweiba/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Nuweiba. Learn about its culture, customs, and safety tips. Find out how to get there and where to go next from this gem in Sinai, Egypt.</description>
-	<pubDate>2024-04-02T11:45:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
