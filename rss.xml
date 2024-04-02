@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T21:24:13+03:00</pubDate>
-        <lastBuildDate>2024-04-02T21:24:13+03:00</lastBuildDate>
+        <pubDate>2024-04-02T21:46:09+03:00</pubDate>
+        <lastBuildDate>2024-04-02T21:46:09+03:00</lastBuildDate>
 
         <item>
+	<title>Mtskheta Travel Guide (Kartli/Georgia (country)/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/kartli/mtskheta/</link>
+	<description>Discover the best things to do, where to stay, and what to eat in Mtskheta, Georgia with this travel guide.</description>
+	<pubDate>2024-04-02T21:46:09+03:00</pubDate>
+</item><item>
 	<title>Fujioka Travel Guide (Gunma/Kanto/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/gunma/fujioka/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and tips for traveling to Fujioka, Japan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/kittila/</link>
 	<description>Read our comprehensive travel guide for Kittilä, Finland. Learn about sights to see, things to do, where to stay, and more. Plan your trip now!</description>
 	<pubDate>2024-04-02T17:13:26+03:00</pubDate>
-</item><item>
-	<title>Lagunas de Montebello National Park Travel Guide (Chiapas/Yucatán and the South/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/chiapas/lagunas-de-montebello-national-park/</link>
-	<description>Plan your visit to Lagunas de Montebello National Park with our comprehensive travel guide, featuring recommendations on attractions, activities, food, and accommodations.</description>
-	<pubDate>2024-04-02T16:59:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
