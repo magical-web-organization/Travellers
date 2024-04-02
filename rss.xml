@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T04:56:43+03:00</pubDate>
-        <lastBuildDate>2024-04-02T04:56:43+03:00</lastBuildDate>
+        <pubDate>2024-04-02T05:17:55+03:00</pubDate>
+        <lastBuildDate>2024-04-02T05:17:55+03:00</lastBuildDate>
 
         <item>
+	<title>Barmouth Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/barmouth/</link>
+	<description>Explore the culturally rich and naturally endowed Barmouth in North Wales with our comprehensive tour guide. Discover the best things to do, eat, and see in Barmouth. Plan your itinerary, find transportation details, and more.</description>
+	<pubDate>2024-04-02T05:17:55+03:00</pubDate>
+</item><item>
 	<title>Marlborough Travel Guide (MetroWest/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/marlborough/</link>
 	<description>Explore Marlborough, Massachusetts with our comprehensive travel guide featuring the best places to visit, things to do, where to stay, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/marquette/</link>
 	<description>Plan your trip to Marquette, Michigan with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-04-02T00:57:50+03:00</pubDate>
-</item><item>
-	<title>Aba (prefecture) Travel Guide (Sichuan/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/</link>
-	<description>Explore the natural beauty and rich cultural heritage of Aba (Prefecture) in China with this comprehensive travel guide. Learn about top attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and more.</description>
-	<pubDate>2024-04-02T00:29:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
