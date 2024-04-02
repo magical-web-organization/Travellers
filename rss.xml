@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-02T04:30:02+03:00</pubDate>
-        <lastBuildDate>2024-04-02T04:30:02+03:00</lastBuildDate>
+        <pubDate>2024-04-02T04:56:43+03:00</pubDate>
+        <lastBuildDate>2024-04-02T04:56:43+03:00</lastBuildDate>
 
         <item>
+	<title>Marlborough Travel Guide (MetroWest/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/marlborough/</link>
+	<description>Explore Marlborough, Massachusetts with our comprehensive travel guide featuring the best places to visit, things to do, where to stay, local culture, and more.</description>
+	<pubDate>2024-04-02T04:56:43+03:00</pubDate>
+</item><item>
 	<title>Ephrata Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/ephrata/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Ephrata, Washington. Explore the beauty of the Pacific Northwest and Columbia River Plateau with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/</link>
 	<description>Explore the natural beauty and rich cultural heritage of Aba (Prefecture) in China with this comprehensive travel guide. Learn about top attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and more.</description>
 	<pubDate>2024-04-02T00:29:34+03:00</pubDate>
-</item><item>
-	<title>Had Yao Travel Guide (Krabi Province/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/krabi-province/had-yao/</link>
-	<description>Discover the best things to do, places to visit, where to stay and eat, and how to get around while exploring Had Yao, Krabi Province, Thailand.</description>
-	<pubDate>2024-04-01T23:37:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
