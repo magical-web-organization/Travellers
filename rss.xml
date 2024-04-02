@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T00:48:29+03:00</pubDate>
-        <lastBuildDate>2024-04-03T00:48:29+03:00</lastBuildDate>
+        <pubDate>2024-04-03T01:14:28+03:00</pubDate>
+        <lastBuildDate>2024-04-03T01:14:28+03:00</lastBuildDate>
 
         <item>
+	<title>Slonim Travel Guide (Grodno Oblast/Belarus/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/grodno-oblast/slonim/</link>
+	<description>Plan a trip to Slonim with this comprehensive travel guide, including information on the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-04-03T01:14:28+03:00</pubDate>
+</item><item>
 	<title>Tongdao Dong Autonomous County Travel Guide (Hunan/South-central China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/hunan/tongdao-dong-autonomous-county/</link>
 	<description>Explore the cultural and natural attractions, food and drink scene, and travel logistics of Tongdao Dong Autonomous County with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/paranaque/</link>
 	<description>Discover the best places to visit, food to try, and things to do in Parañaque, with tips for safety, culture, and transportation logistics for your trip to this beautiful city in the Philippines.</description>
 	<pubDate>2024-04-02T20:52:53+03:00</pubDate>
-</item><item>
-	<title>Lincoln Boyhood National Memorial Travel Guide (Southwestern Indiana/Indiana/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southwestern-indiana/lincoln-boyhood-national-memorial/</link>
-	<description>Plan your visit to Lincoln Boyhood National Memorial with this comprehensive travel guide, including a list of places to visit, hiking/biking routes, accommodation options, food scene, local culture and customs, and safety tips.</description>
-	<pubDate>2024-04-02T20:08:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
