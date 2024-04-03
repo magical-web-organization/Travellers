@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T00:42:15+03:00</pubDate>
-        <lastBuildDate>2024-04-04T00:42:15+03:00</lastBuildDate>
+        <pubDate>2024-04-04T01:23:05+03:00</pubDate>
+        <lastBuildDate>2024-04-04T01:23:05+03:00</lastBuildDate>
 
         <item>
+	<title>Biñan Travel Guide (Laguna/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/laguna/binan/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Biñan, Laguna, Philippines.</description>
+	<pubDate>2024-04-04T01:23:05+03:00</pubDate>
+</item><item>
 	<title>Goring and Streatley Travel Guide (Berkshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/berkshire/goring-and-streatley/</link>
 	<description>Discover the best things to do, places to visit, and food to try in Goring and Streatley. Plan your trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/maranhao/northern-maranhao/mandacaru/</link>
 	<description>Discover the best places to visit, hike, eat, stay, and more in Mandacaru, Brazil. Read our comprehensive travel guide for all the insights!</description>
 	<pubDate>2024-04-03T20:56:44+03:00</pubDate>
-</item><item>
-	<title>Riberac Travel Guide (Dordogne/Nouvelle-Aquitaine/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/dordogne/riberac/</link>
-	<description>Explore the beautiful town of Riberac in Dordogne, France with our comprehensive travel guide. Discover the best things to do, places to visit, food to try, and much more.</description>
-	<pubDate>2024-04-03T20:25:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
