@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T18:56:11+03:00</pubDate>
-        <lastBuildDate>2024-04-03T18:56:11+03:00</lastBuildDate>
+        <pubDate>2024-04-03T19:09:25+03:00</pubDate>
+        <lastBuildDate>2024-04-03T19:09:25+03:00</lastBuildDate>
 
         <item>
+	<title>Siófok Travel Guide (Lake Balaton/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/siofok/</link>
+	<description>Discover the rich culture, scenic views, and mouth-watering cuisine of Siófok in Hungary. This comprehensive travel guide includes everything you need to know about visiting Siófok, including best places to visit, things to do, and local customs.</description>
+	<pubDate>2024-04-03T19:09:25+03:00</pubDate>
+</item><item>
 	<title>Saint Rose Travel Guide (River Parishes/Acadiana/Louisiana/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/river-parishes/saint-rose/</link>
 	<description>Discover the best places to visit, things to do, eat, and stay in Saint Rose, Louisiana. Plan your trip with our comprehensive guide filled with tips and recommendations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/south-karelia/suomenniemi/</link>
 	<description>This comprehensive guide provides everything you need to know about visiting Suomenniemi, from exploring cultural attractions, natural beauty, outdoor activities to transportation options for your trip. Plan your journey to this beautiful destination today.</description>
 	<pubDate>2024-04-03T14:51:36+03:00</pubDate>
-</item><item>
-	<title>Southerndown Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/southerndown/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more with our comprehensive travel guide to Southerndown, in South Wales.</description>
-	<pubDate>2024-04-03T14:20:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
