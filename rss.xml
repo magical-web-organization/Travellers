@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T18:13:36+03:00</pubDate>
-        <lastBuildDate>2024-04-03T18:13:36+03:00</lastBuildDate>
+        <pubDate>2024-04-03T18:56:11+03:00</pubDate>
+        <lastBuildDate>2024-04-03T18:56:11+03:00</lastBuildDate>
 
         <item>
+	<title>Saint Rose Travel Guide (River Parishes/Acadiana/Louisiana/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/river-parishes/saint-rose/</link>
+	<description>Discover the best places to visit, things to do, eat, and stay in Saint Rose, Louisiana. Plan your trip with our comprehensive guide filled with tips and recommendations.</description>
+	<pubDate>2024-04-03T18:56:11+03:00</pubDate>
+</item><item>
 	<title>Southern Dobruja Travel Guide (Bulgaria/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/bulgaria/southern-dobruja/</link>
 	<description>Discover Southern Dobruja, a hidden treasure in Bulgaria. Explore its rich history, natural beauty, tasty cuisine, and vibrant culture. Plan your itinerary with this complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/southerndown/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with our comprehensive travel guide to Southerndown, in South Wales.</description>
 	<pubDate>2024-04-03T14:20:14+03:00</pubDate>
-</item><item>
-	<title>Bennington Travel Guide (Southern Vermont/Vermont/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/bennington/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Bennington, Vermont, in this comprehensive tour guide.</description>
-	<pubDate>2024-04-03T13:34:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
