@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T23:17:43+03:00</pubDate>
-        <lastBuildDate>2024-04-03T23:17:43+03:00</lastBuildDate>
+        <pubDate>2024-04-03T23:57:30+03:00</pubDate>
+        <lastBuildDate>2024-04-03T23:57:30+03:00</lastBuildDate>
 
         <item>
+	<title>Banning Travel Guide (Riverside County/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/riverside-county/banning/</link>
+	<description>Discover everything you need to know about Banning, California - a charming destination in Southern California that boasts of rich history, stunning landscapes, and outdoor adventures.</description>
+	<pubDate>2024-04-03T23:57:30+03:00</pubDate>
+</item><item>
 	<title>Zorritos Travel Guide (Northern Coast/Peru/South America)</title>
 	<link>https://travellers.wiki/en/south-america/peru/northern-coast/zorritos/</link>
 	<description>Discover the best things to do, places to visit, where to stay, eat, and buy souvenirs in Zorritos, Peru. Learn about the local culture, customs, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/siofok/</link>
 	<description>Discover the rich culture, scenic views, and mouth-watering cuisine of Siófok in Hungary. This comprehensive travel guide includes everything you need to know about visiting Siófok, including best places to visit, things to do, and local customs.</description>
 	<pubDate>2024-04-03T19:09:25+03:00</pubDate>
-</item><item>
-	<title>Saint Rose Travel Guide (River Parishes/Acadiana/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/river-parishes/saint-rose/</link>
-	<description>Discover the best places to visit, things to do, eat, and stay in Saint Rose, Louisiana. Plan your trip with our comprehensive guide filled with tips and recommendations.</description>
-	<pubDate>2024-04-03T18:56:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
