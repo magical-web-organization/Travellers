@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T09:29:23+03:00</pubDate>
-        <lastBuildDate>2024-04-03T09:29:23+03:00</lastBuildDate>
+        <pubDate>2024-04-03T09:50:05+03:00</pubDate>
+        <lastBuildDate>2024-04-03T09:50:05+03:00</lastBuildDate>
 
         <item>
+	<title>Sangay National Park Travel Guide (Andean Highlands/Ecuador/South America)</title>
+	<link>https://travellers.wiki/en/south-america/ecuador/andean-highlands/sangay-national-park/</link>
+	<description>Plan your trip to Sangay National Park with our comprehensive guide! Discover the best places to visit, activities to do, food to eat, where to stay, and more!</description>
+	<pubDate>2024-04-03T09:50:05+03:00</pubDate>
+</item><item>
 	<title>Barra Travel Guide (Outer Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/outer-hebrides/barra/</link>
 	<description>Discover the best things to do, places to visit, food and drink scene, accommodation options, and important information about Barra, Outer Hebrides in Scotland, United Kingdom.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/danube-bend/retsag/</link>
 	<description>Discover the best things to do in Rétság, Hungary with this comprehensive travel guide. From outdoor adventures to cultural landmarks, this guide covers all the must-see attractions, hiking routes, food and drink scene, and local customs of Rétság.</description>
 	<pubDate>2024-04-03T05:22:05+03:00</pubDate>
-</item><item>
-	<title>Hornepayne Travel Guide (Northeastern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northeastern-ontario/hornepayne/</link>
-	<description>Discover the natural attractions, outdoor adventures, cultural landmarks, and must-try foods of Hornepayne, Ontario. Plan your perfect itinerary with our travel guide.</description>
-	<pubDate>2024-04-03T04:48:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
