@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T04:08:08+03:00</pubDate>
-        <lastBuildDate>2024-04-03T04:08:08+03:00</lastBuildDate>
+        <pubDate>2024-04-03T04:48:23+03:00</pubDate>
+        <lastBuildDate>2024-04-03T04:48:23+03:00</lastBuildDate>
 
         <item>
+	<title>Hornepayne Travel Guide (Northeastern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northeastern-ontario/hornepayne/</link>
+	<description>Discover the natural attractions, outdoor adventures, cultural landmarks, and must-try foods of Hornepayne, Ontario. Plan your perfect itinerary with our travel guide.</description>
+	<pubDate>2024-04-03T04:48:23+03:00</pubDate>
+</item><item>
 	<title>Chiang Rai Travel Guide (Chiang Rai Province/Northern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/chiang-rai-province/chiang-rai/</link>
 	<description>Discover the best places to visit, eat, stay, and do in Chiang Rai. Learn about the local culture, customs, safety measures, and transportation options in this Northern Thai gem!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/podkarpackie/krosno/</link>
 	<description>Discover the best museums, natural attractions, hiking routes, activities, food and drink spots, and cultural traditions in Krosno, and get tips for transportation, safety, and health.</description>
 	<pubDate>2024-04-03T00:13:53+03:00</pubDate>
-</item><item>
-	<title>Chard Travel Guide (Somerset/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/somerset/chard/</link>
-	<description>Discover the best things to do, see, and eat in Chard. Our comprehensive guide includes top attractions, recommendations for food and drink, and tips on the best times to visit and how to get around.</description>
-	<pubDate>2024-04-02T23:59:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
