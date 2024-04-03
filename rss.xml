@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T15:43:31+03:00</pubDate>
-        <lastBuildDate>2024-04-03T15:43:31+03:00</lastBuildDate>
+        <pubDate>2024-04-03T16:09:06+03:00</pubDate>
+        <lastBuildDate>2024-04-03T16:09:06+03:00</lastBuildDate>
 
         <item>
+	<title>Chernivtsi Travel Guide (Western Ukraine/Ukraine/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/western-ukraine/chernivtsi/</link>
+	<description>Discover the best things to do, where to stay, what to eat, and more in this comprehensive travel guide for Chernivtsi, Ukraine.</description>
+	<pubDate>2024-04-03T16:09:06+03:00</pubDate>
+</item><item>
 	<title>Angola Travel Guide (Northern Indiana/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northern-indiana/angola/</link>
 	<description>Plan your trip to Angola with this helpful guide including places to visit, hiking and biking routes, things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/cornwall/falmouth/</link>
 	<description>A comprehensive tour guide for Falmouth in Cornwall, including places to visit, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-04-03T11:57:24+03:00</pubDate>
-</item><item>
-	<title>Puerto López Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
-	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/puerto-lopez/</link>
-	<description>Discover the natural and cultural attractions, outdoor adventures, and must-try dishes in Puerto López, Ecuador. Plan your trip with this comprehensive tour guide.</description>
-	<pubDate>2024-04-03T11:09:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
