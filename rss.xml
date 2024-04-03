@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T03:22:54+03:00</pubDate>
-        <lastBuildDate>2024-04-03T03:22:54+03:00</lastBuildDate>
+        <pubDate>2024-04-03T03:50:34+03:00</pubDate>
+        <lastBuildDate>2024-04-03T03:50:34+03:00</lastBuildDate>
 
         <item>
+	<title>Caçapava Travel Guide (North Coast (São Paulo)/São Paulo (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/cacapava/</link>
+	<description>Plan your trip to Caçapava with our comprehensive travel guide filled with information on things to do, places to stay, and what to see.</description>
+	<pubDate>2024-04-03T03:50:34+03:00</pubDate>
+</item><item>
 	<title>Suleja Travel Guide (Niger State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/niger-state/suleja/</link>
 	<description>Discover the beauty of Suleja, Nigeria with this comprehensive travel guide. Explore the attractions, outdoor adventures, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/tamil-nadu-north-coast/poompuhar/</link>
 	<description>Discover the culturally rich and naturally stunning town of Poompuhar in the Tamil Nadu North Coast. Find out where to stay, what to eat, and what to see in this comprehensive travel guide.</description>
 	<pubDate>2024-04-02T23:05:01+03:00</pubDate>
-</item><item>
-	<title>Budoni Travel Guide (Sassari (province)/Sardinia/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sardinia/sassari-province/budoni/</link>
-	<description>Plan your trip to Budoni with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-02T22:51:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
