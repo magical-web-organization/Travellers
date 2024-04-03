@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T03:50:34+03:00</pubDate>
-        <lastBuildDate>2024-04-03T03:50:34+03:00</lastBuildDate>
+        <pubDate>2024-04-03T04:08:08+03:00</pubDate>
+        <lastBuildDate>2024-04-03T04:08:08+03:00</lastBuildDate>
 
         <item>
+	<title>Chiang Rai Travel Guide (Chiang Rai Province/Northern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/chiang-rai-province/chiang-rai/</link>
+	<description>Discover the best places to visit, eat, stay, and do in Chiang Rai. Learn about the local culture, customs, safety measures, and transportation options in this Northern Thai gem!</description>
+	<pubDate>2024-04-03T04:08:08+03:00</pubDate>
+</item><item>
 	<title>Caçapava Travel Guide (North Coast (São Paulo)/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/cacapava/</link>
 	<description>Plan your trip to Caçapava with our comprehensive travel guide filled with information on things to do, places to stay, and what to see.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/somerset/chard/</link>
 	<description>Discover the best things to do, see, and eat in Chard. Our comprehensive guide includes top attractions, recommendations for food and drink, and tips on the best times to visit and how to get around.</description>
 	<pubDate>2024-04-02T23:59:15+03:00</pubDate>
-</item><item>
-	<title>Poompuhar Travel Guide (Tamil Nadu North Coast/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/tamil-nadu-north-coast/poompuhar/</link>
-	<description>Discover the culturally rich and naturally stunning town of Poompuhar in the Tamil Nadu North Coast. Find out where to stay, what to eat, and what to see in this comprehensive travel guide.</description>
-	<pubDate>2024-04-02T23:05:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
