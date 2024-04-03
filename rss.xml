@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T05:34:46+03:00</pubDate>
-        <lastBuildDate>2024-04-03T05:34:46+03:00</lastBuildDate>
+        <pubDate>2024-04-03T06:10:21+03:00</pubDate>
+        <lastBuildDate>2024-04-03T06:10:21+03:00</lastBuildDate>
 
         <item>
+	<title>Solvang Travel Guide (Santa Barbara County/Central Coast/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/santa-barbara-county/solvang/</link>
+	<description>Discover the cultural, natural, and culinary gems of Solvang with this comprehensive travel guide. Find out where to go, what to do, and what to eat in this charming Danish village.</description>
+	<pubDate>2024-04-03T06:10:21+03:00</pubDate>
+</item><item>
 	<title>Redford Travel Guide (Wayne County/Metro Detroit/Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/wayne-county/redford/</link>
 	<description>Discover the best attractions, activities, accommodations, and more with our comprehensive travel guide to Redford, Michigan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-waterlands/hopkinsville/</link>
 	<description>Discover Hopkinsville in Kentucky with our comprehensive travel guide. Explore the natural attractions, historical sites, and delicious food and drinks of this charming town.</description>
 	<pubDate>2024-04-03T01:46:27+03:00</pubDate>
-</item><item>
-	<title>Slonim Travel Guide (Grodno Oblast/Belarus/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/grodno-oblast/slonim/</link>
-	<description>Plan a trip to Slonim with this comprehensive travel guide, including information on the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-03T01:14:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
