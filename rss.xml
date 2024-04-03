@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T22:24:14+03:00</pubDate>
-        <lastBuildDate>2024-04-03T22:24:14+03:00</lastBuildDate>
+        <pubDate>2024-04-03T22:59:28+03:00</pubDate>
+        <lastBuildDate>2024-04-03T22:59:28+03:00</lastBuildDate>
 
         <item>
+	<title>Sejong City Travel Guide (South Chungcheong/South Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/sejong-city/</link>
+	<description>Sejong City is a hidden gem in South Korea, offering a blend of history, culture, nature and adventure. This guide covers everything you need to know about visiting Sejong City, including its top attractions, best things to do, where to stay, what to eat, local customs and safety tips.</description>
+	<pubDate>2024-04-03T22:59:28+03:00</pubDate>
+</item><item>
 	<title>Saxon Ore Mountains Travel Guide (Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-ore-mountains/</link>
 	<description>This guide provides a detailed itinerary for visiting Saxon Ore Mountains, Germany, including must-see cultural and natural attractions, hiking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/bulgaria/southern-dobruja/</link>
 	<description>Discover Southern Dobruja, a hidden treasure in Bulgaria. Explore its rich history, natural beauty, tasty cuisine, and vibrant culture. Plan your itinerary with this complete travel guide.</description>
 	<pubDate>2024-04-03T18:13:36+03:00</pubDate>
-</item><item>
-	<title>Dingwall Travel Guide (Ross and Cromarty/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/ross-and-cromarty/dingwall/</link>
-	<description>Discover the best places to visit, things to see and do, where to stay, what to eat and drink, and much more in Dingwall, Scotland.</description>
-	<pubDate>2024-04-03T17:38:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
