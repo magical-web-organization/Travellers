@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T09:02:45+03:00</pubDate>
-        <lastBuildDate>2024-04-03T09:02:45+03:00</lastBuildDate>
+        <pubDate>2024-04-03T09:29:23+03:00</pubDate>
+        <lastBuildDate>2024-04-03T09:29:23+03:00</lastBuildDate>
 
         <item>
+	<title>Barra Travel Guide (Outer Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/outer-hebrides/barra/</link>
+	<description>Discover the best things to do, places to visit, food and drink scene, accommodation options, and important information about Barra, Outer Hebrides in Scotland, United Kingdom.</description>
+	<pubDate>2024-04-03T09:29:23+03:00</pubDate>
+</item><item>
 	<title>Herzogenaurach Travel Guide (Middle Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/herzogenaurach/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Herzogenaurach, Bavaria, Germany. Plan your trip by following our week-long itinerary and exploring the natural and cultural attractions of the city.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northeastern-ontario/hornepayne/</link>
 	<description>Discover the natural attractions, outdoor adventures, cultural landmarks, and must-try foods of Hornepayne, Ontario. Plan your perfect itinerary with our travel guide.</description>
 	<pubDate>2024-04-03T04:48:23+03:00</pubDate>
-</item><item>
-	<title>Chiang Rai Travel Guide (Chiang Rai Province/Northern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/chiang-rai-province/chiang-rai/</link>
-	<description>Discover the best places to visit, eat, stay, and do in Chiang Rai. Learn about the local culture, customs, safety measures, and transportation options in this Northern Thai gem!</description>
-	<pubDate>2024-04-03T04:08:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
