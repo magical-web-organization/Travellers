@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-03T10:46:12+03:00</pubDate>
-        <lastBuildDate>2024-04-03T10:46:12+03:00</lastBuildDate>
+        <pubDate>2024-04-03T11:09:44+03:00</pubDate>
+        <lastBuildDate>2024-04-03T11:09:44+03:00</lastBuildDate>
 
         <item>
+	<title>Puerto López Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
+	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/puerto-lopez/</link>
+	<description>Discover the natural and cultural attractions, outdoor adventures, and must-try dishes in Puerto López, Ecuador. Plan your trip with this comprehensive tour guide.</description>
+	<pubDate>2024-04-03T11:09:44+03:00</pubDate>
+</item><item>
 	<title>Prince Albert National Park Travel Guide (Northern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/northern-saskatchewan/prince-albert-national-park/</link>
 	<description>A comprehensive guide to travel to Prince Albert National Park in Northern Saskatchewan, Canada which includes the best places to visit, food scene, best things to do, where to stay, local culture, safety measures, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/bicol/camarines-norte/</link>
 	<description>Discover the best places to visit, things to do, and culture to experience in Camarines Norte, Philippines. This comprehensive travel guide includes details on food, accommodations, transportation, safety, and health.</description>
 	<pubDate>2024-04-03T06:41:28+03:00</pubDate>
-</item><item>
-	<title>Solvang Travel Guide (Santa Barbara County/Central Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/santa-barbara-county/solvang/</link>
-	<description>Discover the cultural, natural, and culinary gems of Solvang with this comprehensive travel guide. Find out where to go, what to do, and what to eat in this charming Danish village.</description>
-	<pubDate>2024-04-03T06:10:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
