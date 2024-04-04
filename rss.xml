@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T07:32:13+03:00</pubDate>
-        <lastBuildDate>2024-04-04T07:32:13+03:00</lastBuildDate>
+        <pubDate>2024-04-04T07:45:33+03:00</pubDate>
+        <lastBuildDate>2024-04-04T07:45:33+03:00</lastBuildDate>
 
         <item>
+	<title>Stronsay Travel Guide (Orkney Islands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/stronsay/</link>
+	<description>Plan your trip to Stronsay, Orkney Islands, Scotland with our comprehensive travel guide featuring top attractions, activities, accommodations, and more!</description>
+	<pubDate>2024-04-04T07:45:33+03:00</pubDate>
+</item><item>
 	<title>Canindé Travel Guide (Ceará/Northeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/caninde/</link>
 	<description>Discover the culturally rich and naturally stunning city of Canindé, Brazil with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/spooner/</link>
 	<description>Discover the best places to visit, activities to do, and local culture in Spooner, Wisconsin. Read on for a comprehensive travel guide including tips on where to stay, what to eat, and how to get around.</description>
 	<pubDate>2024-04-04T03:05:54+03:00</pubDate>
-</item><item>
-	<title>Wolverhampton Travel Guide (West Midlands (county)/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/west-midlands-county/wolverhampton/</link>
-	<description>Explore Wolverhampton, a city with rich history, culture, natural beauty, and delicious cuisine. Here's your ultimate travel guide to Wolverhampton, including top-notch attractions, activities, accommodations, and travel tips.</description>
-	<pubDate>2024-04-04T02:44:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
