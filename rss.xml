@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T14:04:02+03:00</pubDate>
-        <lastBuildDate>2024-04-04T14:04:02+03:00</lastBuildDate>
+        <pubDate>2024-04-04T15:00:34+03:00</pubDate>
+        <lastBuildDate>2024-04-04T15:00:34+03:00</lastBuildDate>
 
         <item>
+	<title>Świdwie Travel Guide (Zachodniopomorskie/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/zachodniopomorskie/swidwie/</link>
+	<description>Plan your trip to Świdwie in Poland with our comprehensive travel guide featuring information on places to visit, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-04T15:00:34+03:00</pubDate>
+</item><item>
 	<title>Clinton Travel Guide (Eastern Iowa/Iowa/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/eastern-iowa/clinton/</link>
 	<description>Explore the culturally rich and naturally diverse Clinton, Iowa with our ultimate travel guide. Discover its must-see attractions, local food and drink scene, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/occitanie/herault/olargues/</link>
 	<description>Plan your visit to Olargues with this comprehensive travel guide featuring top attractions, outdoor adventures, food and drink scene, where to stay, and transportation options.</description>
 	<pubDate>2024-04-04T10:22:55+03:00</pubDate>
-</item><item>
-	<title>Poland Travel Guide (Androscoggin County/Lakes and Mountains/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/lakes-and-mountains/androscoggin-county/poland/</link>
-	<description>Discover the best places to visit, things to do, and cultural customs of Poland through this comprehensive travel guide. Learn more here.</description>
-	<pubDate>2024-04-04T09:40:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
