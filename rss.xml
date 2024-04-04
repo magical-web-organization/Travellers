@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T02:44:48+03:00</pubDate>
-        <lastBuildDate>2024-04-04T02:44:48+03:00</lastBuildDate>
+        <pubDate>2024-04-04T03:05:54+03:00</pubDate>
+        <lastBuildDate>2024-04-04T03:05:54+03:00</lastBuildDate>
 
         <item>
+	<title>Spooner Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/spooner/</link>
+	<description>Discover the best places to visit, activities to do, and local culture in Spooner, Wisconsin. Read on for a comprehensive travel guide including tips on where to stay, what to eat, and how to get around.</description>
+	<pubDate>2024-04-04T03:05:54+03:00</pubDate>
+</item><item>
 	<title>Wolverhampton Travel Guide (West Midlands (county)/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/west-midlands-county/wolverhampton/</link>
 	<description>Explore Wolverhampton, a city with rich history, culture, natural beauty, and delicious cuisine. Here's your ultimate travel guide to Wolverhampton, including top-notch attractions, activities, accommodations, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/sejong-city/</link>
 	<description>Sejong City is a hidden gem in South Korea, offering a blend of history, culture, nature and adventure. This guide covers everything you need to know about visiting Sejong City, including its top attractions, best things to do, where to stay, what to eat, local customs and safety tips.</description>
 	<pubDate>2024-04-03T22:59:28+03:00</pubDate>
-</item><item>
-	<title>Saxon Ore Mountains Travel Guide (Saxony/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-ore-mountains/</link>
-	<description>This guide provides a detailed itinerary for visiting Saxon Ore Mountains, Germany, including must-see cultural and natural attractions, hiking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-04-03T22:24:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
