@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T17:59:27+03:00</pubDate>
-        <lastBuildDate>2024-04-04T17:59:27+03:00</lastBuildDate>
+        <pubDate>2024-04-04T18:06:37+03:00</pubDate>
+        <lastBuildDate>2024-04-04T18:06:37+03:00</lastBuildDate>
 
         <item>
+	<title>Hatillo Travel Guide (Northern Coast/Puerto Rico/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/northern-coast/hatillo/</link>
+	<description>Plan your vacation with our comprehensive travel guide to Hatillo, including attractions, accommodations, and local customs.</description>
+	<pubDate>2024-04-04T18:06:37+03:00</pubDate>
+</item><item>
 	<title>Holašovice Travel Guide (South Bohemia/Czech Republic/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/south-bohemia/holasovice/</link>
 	<description>Explore the rich history, stunning natural beauty, and unique culture of Holašovice with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/peru/northern-sierra/cordillera-blanca/huaraz/</link>
 	<description>Discover the best things to do in Huaraz, Peru with our comprehensive guide. From cultural attractions to outdoor adventures, food scene, and transportation options.</description>
 	<pubDate>2024-04-04T13:53:33+03:00</pubDate>
-</item><item>
-	<title>Amidon Travel Guide (Badlands/North Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/badlands/amidon/</link>
-	<description>A complete travel guide for Amidon, North Dakota, United States including the best places to visit, things to do, where to stay, how to get there and what to see in this typical Great Plains town.</description>
-	<pubDate>2024-04-04T13:06:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
