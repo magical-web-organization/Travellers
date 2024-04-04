@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T13:06:18+03:00</pubDate>
-        <lastBuildDate>2024-04-04T13:06:18+03:00</lastBuildDate>
+        <pubDate>2024-04-04T13:53:33+03:00</pubDate>
+        <lastBuildDate>2024-04-04T13:53:33+03:00</lastBuildDate>
 
         <item>
+	<title>Huaraz Travel Guide (Cordillera Blanca/Northern Sierra/Peru/South America)</title>
+	<link>https://travellers.wiki/en/south-america/peru/northern-sierra/cordillera-blanca/huaraz/</link>
+	<description>Discover the best things to do in Huaraz, Peru with our comprehensive guide. From cultural attractions to outdoor adventures, food scene, and transportation options.</description>
+	<pubDate>2024-04-04T13:53:33+03:00</pubDate>
+</item><item>
 	<title>Amidon Travel Guide (Badlands/North Dakota/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/badlands/amidon/</link>
 	<description>A complete travel guide for Amidon, North Dakota, United States including the best places to visit, things to do, where to stay, how to get there and what to see in this typical Great Plains town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/eastern-tasmania/scamander/</link>
 	<description>Discover the best things to do, where to stay, and how to get around in Scamander, Tasmania. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-04-04T09:27:22+03:00</pubDate>
-</item><item>
-	<title>Owls Head Travel Guide (Knox County/Mid Coast/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/knox-county/owls-head/</link>
-	<description>Discover the best places to visit, dine, stay, hike, and shop in Owls Head, Maine. Learn about local culture and customs, and transportation options to make the most out of your trip.</description>
-	<pubDate>2024-04-04T08:46:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
