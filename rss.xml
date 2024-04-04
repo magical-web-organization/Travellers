@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-05T02:15:36+03:00</pubDate>
-        <lastBuildDate>2024-04-05T02:15:36+03:00</lastBuildDate>
+        <pubDate>2024-04-05T02:59:26+03:00</pubDate>
+        <lastBuildDate>2024-04-05T02:59:26+03:00</lastBuildDate>
 
         <item>
+	<title>Chust Travel Guide (Ferghana Valley/Uzbekistan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/uzbekistan/ferghana-valley/chust/</link>
+	<description>Plan your trip to Chust with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-05T02:59:26+03:00</pubDate>
+</item><item>
 	<title>Rapperswil Travel Guide (Eastern Switzerland/Switzerland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/eastern-switzerland/rapperswil/</link>
 	<description>A detailed guide to Rapperswil including places to visit, things to do, where to stay, local culture, safety tips, getting there and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangxi/north-guangxi/hechi/</link>
 	<description>Discover the best places to visit, food to eat, things to do, and local culture of Hechi, China with this comprehensive travel guide. Plan your trip to this stunning city in North Guangxi with our week-long itinerary and helpful tips on transportation, safety, and health.</description>
 	<pubDate>2024-04-04T22:10:30+03:00</pubDate>
-</item><item>
-	<title>Birštonas Travel Guide (Sūduva/Lithuania/Baltic states/Europe)</title>
-	<link>https://travellers.wiki/en/europe/baltic-states/lithuania/suduva/birstonas/</link>
-	<description>Discover the natural and cultural attractions in Birštonas. Learn about the best things to do, local culture and customs, and travel tips with our comprehensive guide.</description>
-	<pubDate>2024-04-04T21:42:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
