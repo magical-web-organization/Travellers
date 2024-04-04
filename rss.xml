@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T04:12:55+03:00</pubDate>
-        <lastBuildDate>2024-04-04T04:12:55+03:00</lastBuildDate>
+        <pubDate>2024-04-04T04:44:38+03:00</pubDate>
+        <lastBuildDate>2024-04-04T04:44:38+03:00</lastBuildDate>
 
         <item>
+	<title>Khuldabad Travel Guide (Marathwada/Maharashtra/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/marathwada/khuldabad/</link>
+	<description>Discover the breathtaking beauty and culture of Khuldabad with our ultimate travel guide. Find out the best places to visit, things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-04T04:44:38+03:00</pubDate>
+</item><item>
 	<title>Puszczykowo Travel Guide (Wielkopolskie/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/wielkopolskie/puszczykowo/</link>
 	<description>Explore Puszczykowo with this comprehensive travel guide. Plan your itinerary, discover the best places to visit, where to stay, and what to eat.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/kap-arkona/</link>
 	<description>Plan your visit to Kap Arkona with this comprehensive guide that includes insider tips on where to stay, what to eat, what to see, and how to get there.</description>
 	<pubDate>2024-04-04T00:06:33+03:00</pubDate>
-</item><item>
-	<title>Banning Travel Guide (Riverside County/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/riverside-county/banning/</link>
-	<description>Discover everything you need to know about Banning, California - a charming destination in Southern California that boasts of rich history, stunning landscapes, and outdoor adventures.</description>
-	<pubDate>2024-04-03T23:57:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
