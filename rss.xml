@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-04T23:51:53+03:00</pubDate>
-        <lastBuildDate>2024-04-04T23:51:53+03:00</lastBuildDate>
+        <pubDate>2024-04-05T00:16:29+03:00</pubDate>
+        <lastBuildDate>2024-04-05T00:16:29+03:00</lastBuildDate>
 
         <item>
+	<title>Salem County Travel Guide (Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/salem-county/</link>
+	<description>Explore the best things to do, places to stay, eat, and visit in Salem County with our comprehensive travel guide. Discover the natural attractions, hiking/biking routes, cultural landmarks, and local customs of this hidden gem in the Delaware River Region.</description>
+	<pubDate>2024-04-05T00:16:29+03:00</pubDate>
+</item><item>
 	<title>Ferencváros Travel Guide (Budapest/Central Hungary/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/budapest/ferencvaros/</link>
 	<description>Discover the best things to do, see and experience in Ferencváros, Budapest. From cultural attractions to natural adventures, this guide provides comprehensive information to plan your trip to Ferencváros.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/west-yorkshire/leeds/north-east/</link>
 	<description>Explore the best of North East in Leeds, West Yorkshire with our comprehensive travel guide. Discover the top places to visit, hiking/biking routes, food and drink scene, local culture and customs, and more.</description>
 	<pubDate>2024-04-04T19:34:13+03:00</pubDate>
-</item><item>
-	<title>Owens Valley Travel Guide (Eastern Sierra/Sierra Nevada/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sierra-nevada/eastern-sierra/owens-valley/</link>
-	<description>Plan your trip to Owens Valley with this comprehensive tour guide that covers everything from must-visit places and activities, to food, accommodations, safety tips, and more!</description>
-	<pubDate>2024-04-04T19:31:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
