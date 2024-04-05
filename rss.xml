@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-05T18:13:31+03:00</pubDate>
-        <lastBuildDate>2024-04-05T18:13:31+03:00</lastBuildDate>
+        <pubDate>2024-04-05T18:45:11+03:00</pubDate>
+        <lastBuildDate>2024-04-05T18:45:11+03:00</lastBuildDate>
 
         <item>
+	<title>Jasper Travel Guide (Southwestern Indiana/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southwestern-indiana/jasper/</link>
+	<description>Plan your trip to Jasper, Indiana with our comprehensive travel guide. Discover the top places to visit, must-see attractions, hiking and biking routes, best things to do, food and drink scene, and more.</description>
+	<pubDate>2024-04-05T18:45:11+03:00</pubDate>
+</item><item>
 	<title>Kawit Travel Guide (Cavite/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/cavite/kawit/</link>
 	<description>Find out what you can do in Kawit, Cavite, from outdoor adventures, cultural landmarks, and local cuisine to transportation options and logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/stirlingshire-and-clackmannanshire/drymen/</link>
 	<description>Discover the best places to visit, things to do, and tips for traveling to Drymen, Scotland. Explore the rich culture, breathtaking scenery, and vibrant food scene of this charming village in Central Belt.</description>
 	<pubDate>2024-04-05T14:09:41+03:00</pubDate>
-</item><item>
-	<title>Florida City Travel Guide (Miami-Dade County/Greater Miami/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/miami-dade-county/florida-city/</link>
-	<description>Experience the best of Florida City with our comprehensive travel guide. Discover top-rated attractions, food, lodging, safety tips, and more!</description>
-	<pubDate>2024-04-05T13:46:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
