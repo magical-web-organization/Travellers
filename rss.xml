@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-05T12:06:53+03:00</pubDate>
-        <lastBuildDate>2024-04-05T12:06:53+03:00</lastBuildDate>
+        <pubDate>2024-04-05T12:40:01+03:00</pubDate>
+        <lastBuildDate>2024-04-05T12:40:01+03:00</lastBuildDate>
 
         <item>
+	<title>Corozal Town Travel Guide (Northern Belize/Belize/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/belize/northern-belize/corozal-town/</link>
+	<description>Plan your trip to Corozal Town with our comprehensive guide. Discover top attractions, hiking/biking routes, where to stay, and more!</description>
+	<pubDate>2024-04-05T12:40:01+03:00</pubDate>
+</item><item>
 	<title>Ellicottville Travel Guide (Cattaraugus County/Southern Tier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/southern-tier/cattaraugus-county/ellicottville/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Ellicottville, New York. Find out about local food and culture, safety and health, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/weybridge/</link>
 	<description>Discover the top attractions, activities, and dining options in Weybridge, Surrey, United Kingdom with this comprehensive travel guide.</description>
 	<pubDate>2024-04-05T08:19:41+03:00</pubDate>
-</item><item>
-	<title>Maliana Travel Guide (Timorese North Coast/East Timor/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/east-timor/timorese-north-coast/maliana/</link>
-	<description>Planning a trip to Maliana in East Timor? Check out our comprehensive travel guide with tips on places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-05T07:39:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
