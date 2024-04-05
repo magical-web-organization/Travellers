@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-05T10:33:26+03:00</pubDate>
-        <lastBuildDate>2024-04-05T10:33:26+03:00</lastBuildDate>
+        <pubDate>2024-04-05T11:03:10+03:00</pubDate>
+        <lastBuildDate>2024-04-05T11:03:10+03:00</lastBuildDate>
 
         <item>
+	<title>College Hill Travel Guide (Providence/Providence County/Rhode Island/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/providence-county/providence/college-hill/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in College Hill, Providence, Rhode Island, with this comprehensive travel guide.</description>
+	<pubDate>2024-04-05T11:03:10+03:00</pubDate>
+</item><item>
 	<title>Samobor Travel Guide (Central Croatia/Croatia/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/croatia/central-croatia/samobor/</link>
 	<description>Discover the best things to do, see, and eat in Samobor, Central Croatia, with our comprehensive travel guide. From cultural attractions to nature adventures, hiking and biking routes, accommodation options, and more, we have you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/queensland/south-east-queensland/gold-coast/southport/</link>
 	<description>Explore Southport, a beautiful destination in Gold Coast, Queensland, Australia. Discover its best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-04-05T06:07:33+03:00</pubDate>
-</item><item>
-	<title>Pattaya Travel Guide (Eastern Gulf Coast/Eastern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/eastern-thailand/eastern-gulf-coast/pattaya/</link>
-	<description>Discover the top things to do and see, where to stay, what to eat, and more in Pattaya with this comprehensive travel guide.</description>
-	<pubDate>2024-04-05T05:44:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
