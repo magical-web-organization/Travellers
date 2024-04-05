@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-05T11:19:35+03:00</pubDate>
-        <lastBuildDate>2024-04-05T11:19:35+03:00</lastBuildDate>
+        <pubDate>2024-04-05T11:49:31+03:00</pubDate>
+        <lastBuildDate>2024-04-05T11:49:31+03:00</lastBuildDate>
 
         <item>
+	<title>Vils in Tirol Travel Guide (Tyrol/Austria/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/vils-in-tirol/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in Vils in Tirol with this comprehensive travel guide. Learn about the local culture and customs, safety and health, transportation options, and more.</description>
+	<pubDate>2024-04-05T11:49:31+03:00</pubDate>
+</item><item>
 	<title>Örebro County Travel Guide (Svealand/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/orebro-county/</link>
 	<description>Explore the rich cultural heritage and breathtaking natural beauty of Örebro County with our comprehensive travel guide. Discover the best places to visit, stay, dine, and indulge in outdoor adventures.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/east-java/panarukan/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Panarukan with our comprehensive travel guide. Learn about the local culture, customs, and safety tips before planning your trip.</description>
 	<pubDate>2024-04-05T07:04:53+03:00</pubDate>
-</item><item>
-	<title>Yurihama Travel Guide (Tottori (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/tottori-prefecture/yurihama/</link>
-	<description>Discover the best attractions, activities, food, and more in Yurihama, Japan with this comprehensive travel guide.</description>
-	<pubDate>2024-04-05T06:51:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
