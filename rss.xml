@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T01:01:01+03:00</pubDate>
-        <lastBuildDate>2024-04-06T01:01:01+03:00</lastBuildDate>
+        <pubDate>2024-04-06T01:24:26+03:00</pubDate>
+        <lastBuildDate>2024-04-06T01:24:26+03:00</lastBuildDate>
 
         <item>
+	<title>Anda Travel Guide (Bohol/Visayas/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/bohol/anda/</link>
+	<description>Plan your trip to Anda, Philippines with this comprehensive travel guide featuring a variety of attractions, activities, accommodations, and practical tips.</description>
+	<pubDate>2024-04-06T01:24:26+03:00</pubDate>
+</item><item>
 	<title>Allendale Travel Guide (Grand Rapids Area/West Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/grand-rapids-area/allendale/</link>
 	<description>Discover the best places to visit, eat, stay, and do in Allendale, MI. Find out about natural and cultural attractions, local customs, transportation, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sacramento-valley/colusa-county/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and more in Colusa County, California. Plan your next adventure now.</description>
 	<pubDate>2024-04-05T20:10:08+03:00</pubDate>
-</item><item>
-	<title>Växjö Travel Guide (Småland/Götaland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/smaland/vaxjo/</link>
-	<description>Discover the hidden gems of Växjö, Sweden with this detailed travel guide. Explore the culturally rich museums and historical places, breathtaking natural attractions, thrilling hiking/biking routes, food and drink scene, where to stay, and so much more.</description>
-	<pubDate>2024-04-05T19:50:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
