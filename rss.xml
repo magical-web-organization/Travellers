@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T02:02:47+03:00</pubDate>
-        <lastBuildDate>2024-04-06T02:02:47+03:00</lastBuildDate>
+        <pubDate>2024-04-06T02:17:33+03:00</pubDate>
+        <lastBuildDate>2024-04-06T02:17:33+03:00</lastBuildDate>
 
         <item>
+	<title>Quezon Travel Guide (Palawan/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/palawan/quezon/</link>
+	<description>Explore Quezon's cultural attractions, natural wonders, hiking/biking routes, local cuisines, accommodations, transportation options, safety measures, and nearby places to visit.</description>
+	<pubDate>2024-04-06T02:17:33+03:00</pubDate>
+</item><item>
 	<title>Center City East Travel Guide (Philadelphia/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/philadelphia/center-city-east/</link>
 	<description>Discover the best things to see and do in Center City East, Philadelphia with our comprehensive travel guide. From historic museums to hiking trails, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/taipei/neihu/</link>
 	<description>Discover the best places to visit, things to do, food to eat, and culture to experience in Neihu, Taipei – a vibrant district brimming with natural attractions, cultural landmarks, and outdoor adventures.</description>
 	<pubDate>2024-04-05T21:48:32+03:00</pubDate>
-</item><item>
-	<title>Church Point Travel Guide (Cajun Prairie/Acadiana/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/cajun-prairie/church-point/</link>
-	<description>Explore the culturally rich and natural attractions of Church Point. This guide contains everything you need to know about the food, lodging, and transportation options in the area.</description>
-	<pubDate>2024-04-05T21:33:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
