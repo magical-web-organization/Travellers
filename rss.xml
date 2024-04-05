@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T02:17:33+03:00</pubDate>
-        <lastBuildDate>2024-04-06T02:17:33+03:00</lastBuildDate>
+        <pubDate>2024-04-06T02:43:21+03:00</pubDate>
+        <lastBuildDate>2024-04-06T02:43:21+03:00</lastBuildDate>
 
         <item>
+	<title>Dalsland Travel Guide (Götaland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/dalsland/</link>
+	<description>Discover the best places to visit, food and drink scene, local culture and customs, and more in Dalsland, Sweden, with this comprehensive travel guide.</description>
+	<pubDate>2024-04-06T02:43:21+03:00</pubDate>
+</item><item>
 	<title>Quezon Travel Guide (Palawan/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/palawan/quezon/</link>
 	<description>Explore Quezon's cultural attractions, natural wonders, hiking/biking routes, local cuisines, accommodations, transportation options, safety measures, and nearby places to visit.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/chalkidiki/northern-chalkidiki/ouranoupoli/</link>
 	<description>Get ready for your trip to Northern Chalkidiki by reading this comprehensive travel guide to Ouranoupoli. Discover the best places to visit, things to do, food and drink scene, where to stay, local culture, safety, and more.</description>
 	<pubDate>2024-04-05T22:28:49+03:00</pubDate>
-</item><item>
-	<title>Neihu Travel Guide (Taipei/Northern Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/taipei/neihu/</link>
-	<description>Discover the best places to visit, things to do, food to eat, and culture to experience in Neihu, Taipei – a vibrant district brimming with natural attractions, cultural landmarks, and outdoor adventures.</description>
-	<pubDate>2024-04-05T21:48:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
