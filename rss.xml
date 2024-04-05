@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-05T05:00:25+03:00</pubDate>
-        <lastBuildDate>2024-04-05T05:00:25+03:00</lastBuildDate>
+        <pubDate>2024-04-05T05:20:35+03:00</pubDate>
+        <lastBuildDate>2024-04-05T05:20:35+03:00</lastBuildDate>
 
         <item>
+	<title>São Francisco Valley Travel Guide (Bahia/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/sao-francisco-valley/</link>
+	<description>Planning a trip to São Francisco Valley? Read this guide for everything you need to know about this beautiful region in Bahia, Brazil.</description>
+	<pubDate>2024-04-05T05:20:35+03:00</pubDate>
+</item><item>
 	<title>Aosta Travel Guide (Aosta Valley/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/aosta-valley/aosta/</link>
 	<description>Visit Aosta for its scenic views, outdoor adventures, museums & historical places, and local cuisine. Plan your trip with our comprehensive travel guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/crimea/alupka/</link>
 	<description>Plan a perfect trip to Alupka, Southern Russia with our comprehensive travel guide featuring must-visit attractions, best things to do, where to stay, where to eat, and more.</description>
 	<pubDate>2024-04-05T00:45:13+03:00</pubDate>
-</item><item>
-	<title>Salem County Travel Guide (Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/salem-county/</link>
-	<description>Explore the best things to do, places to stay, eat, and visit in Salem County with our comprehensive travel guide. Discover the natural attractions, hiking/biking routes, cultural landmarks, and local customs of this hidden gem in the Delaware River Region.</description>
-	<pubDate>2024-04-05T00:16:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
