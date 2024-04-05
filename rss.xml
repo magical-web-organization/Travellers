@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-05T12:40:01+03:00</pubDate>
-        <lastBuildDate>2024-04-05T12:40:01+03:00</lastBuildDate>
+        <pubDate>2024-04-05T13:08:45+03:00</pubDate>
+        <lastBuildDate>2024-04-05T13:08:45+03:00</lastBuildDate>
 
         <item>
+	<title>Mokpo Travel Guide (South Jeolla/South Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-jeolla/mokpo/</link>
+	<description>Discover the best tourist spots, food scene, accommodations, transportation options and local culture in Mokpo with this comprehensive travel guide.</description>
+	<pubDate>2024-04-05T13:08:45+03:00</pubDate>
+</item><item>
 	<title>Corozal Town Travel Guide (Northern Belize/Belize/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/belize/northern-belize/corozal-town/</link>
 	<description>Plan your trip to Corozal Town with our comprehensive guide. Discover top attractions, hiking/biking routes, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/southern-oregon/cave-junction/</link>
 	<description>Explore Cave Junction, a scenic small town in Southern Oregon, with this comprehensive travel guide. Discover the best places to visit, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-04-05T08:44:23+03:00</pubDate>
-</item><item>
-	<title>Weybridge Travel Guide (Surrey/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/weybridge/</link>
-	<description>Discover the top attractions, activities, and dining options in Weybridge, Surrey, United Kingdom with this comprehensive travel guide.</description>
-	<pubDate>2024-04-05T08:19:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
