@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T03:33:28+03:00</pubDate>
-        <lastBuildDate>2024-04-06T03:33:28+03:00</lastBuildDate>
+        <pubDate>2024-04-06T03:42:19+03:00</pubDate>
+        <lastBuildDate>2024-04-06T03:42:19+03:00</lastBuildDate>
 
         <item>
+	<title>Cappadocia Travel Guide (Central Anatolia/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/central-anatolia/cappadocia/</link>
+	<description>Our comprehensive travel guide to Cappadocia provides everything you need to plan your trip. Discover the best things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-06T03:42:19+03:00</pubDate>
+</item><item>
 	<title>Corrientes Travel Guide (Mesopotamia/Argentina/South America)</title>
 	<link>https://travellers.wiki/en/south-america/argentina/mesopotamia/corrientes/</link>
 	<description>Plan an unforgettable trip with our comprehensive travel guide to Corrientes. Discover the best places to visit, things to do, food to try, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/central-asia/afghanistan/south-afghanistan/</link>
 	<description>Explore the culturally and naturally rich South Afghanistan. Check out our travel guide to make the most out of your trip.</description>
 	<pubDate>2024-04-05T23:07:25+03:00</pubDate>
-</item><item>
-	<title>Veracruz Travel Guide (Veracruz (state)/Central Mexico/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/veracruz-state/veracruz/</link>
-	<description>Discover the best places to visit, things to do, and tips for traveling to Veracruz, Mexico with this comprehensive travel guide.</description>
-	<pubDate>2024-04-05T22:43:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
