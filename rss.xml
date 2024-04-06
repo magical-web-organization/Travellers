@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T16:44:02+03:00</pubDate>
-        <lastBuildDate>2024-04-06T16:44:02+03:00</lastBuildDate>
+        <pubDate>2024-04-06T17:21:31+03:00</pubDate>
+        <lastBuildDate>2024-04-06T17:21:31+03:00</lastBuildDate>
 
         <item>
+	<title>Yerakini Travel Guide (Northern Chalkidiki/Chalkidiki/Macedonia/Northern Greece/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/chalkidiki/northern-chalkidiki/yerakini/</link>
+	<description>Discover the best places to stay, eat, and visit in Yerakini with our comprehensive guide. From outdoor adventures to cultural attractions and local customs, we've got you covered.</description>
+	<pubDate>2024-04-06T17:21:31+03:00</pubDate>
+</item><item>
 	<title>Magnetic Island Travel Guide (Central Queensland/Queensland/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/magnetic-island/</link>
 	<description>Magnetic Island is a beautiful Island located in Central Queensland, Australia. This comprehensive travel guide will provide you with everything you need to know before visiting Magnetic Island.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/dodecanese/rhodes/theologos/</link>
 	<description>Explore the cultural, natural and outdoor attractions of Theologos, Rhodes. Learn about the best things to do, where to stay, local customs, and how to get there.</description>
 	<pubDate>2024-04-06T12:42:33+03:00</pubDate>
-</item><item>
-	<title>Kingston Travel Guide (South Shore/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/south-shore/kingston/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and how to get around Kingston, Massachusetts. Explore the culture, food, nature, and outdoor adventure opportunities of this charming New England town.</description>
-	<pubDate>2024-04-06T12:17:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
