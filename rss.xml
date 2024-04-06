@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T11:14:40+03:00</pubDate>
-        <lastBuildDate>2024-04-06T11:14:40+03:00</lastBuildDate>
+        <pubDate>2024-04-06T11:45:02+03:00</pubDate>
+        <lastBuildDate>2024-04-06T11:45:02+03:00</lastBuildDate>
 
         <item>
+	<title>Boryeong Travel Guide (South Chungcheong/South Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/boryeong/</link>
+	<description>Discover the best places to visit, eat, stay, and play in Boryeong, South Korea. This comprehensive travel guide includes a list of top attractions, hiking and biking routes, local cuisine, safety tips, transportation logistics, and nearby excursions.</description>
+	<pubDate>2024-04-06T11:45:02+03:00</pubDate>
+</item><item>
 	<title>National Harbor Travel Guide (Prince George's County/Capital Region/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/prince-george-s-county/national-harbor/</link>
 	<description>Discover the best places to visit, food scene, cultural attractions, safety tips, and transportation options in National Harbor, Maryland. Plan your itinerary today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/mount-merapi/</link>
 	<description>Mount Merapi is a famous active volcano situated in Central Java, Indonesia. This comprehensive travel guide will provide everything you need to plan your visit.</description>
 	<pubDate>2024-04-06T07:10:53+03:00</pubDate>
-</item><item>
-	<title>Portmeirion Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/portmeirion/</link>
-	<description>Plan your perfect trip to Portmeirion with this helpful, informative travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-04-06T06:37:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
