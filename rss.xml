@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T13:08:39+03:00</pubDate>
-        <lastBuildDate>2024-04-06T13:08:39+03:00</lastBuildDate>
+        <pubDate>2024-04-06T14:01:23+03:00</pubDate>
+        <lastBuildDate>2024-04-06T14:01:23+03:00</lastBuildDate>
 
         <item>
+	<title>Marree Travel Guide (Outback/South Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/south-australia/outback/marree/</link>
+	<description>Explore the fascinating Outback town of Marree, South Australia with our comprehensive travel guide featuring cultural and natural attractions, hiking/biking routes, must-try food and drinks, accommodations, and more.</description>
+	<pubDate>2024-04-06T14:01:23+03:00</pubDate>
+</item><item>
 	<title>Dadra and Nagar Haveli Travel Guide (South Gujarat/Gujarat/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/gujarat/south-gujarat/dadra-and-nagar-haveli/</link>
 	<description>Plan your trip to Dadra and Nagar Haveli with our comprehensive travel guide. Discover things to do, places to visit, hiking/biking routes, where to stay, local culture, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/somerset-county/bernardsville/</link>
 	<description>Plan your perfect trip to Bernardsville with this comprehensive travel guide! Check out the best places to visit, where to stay, what to do, and more!</description>
 	<pubDate>2024-04-06T09:28:58+03:00</pubDate>
-</item><item>
-	<title>Asago Travel Guide (Hyogo/Kansai/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/hyogo/asago/</link>
-	<description>A comprehensive travel guide to Asago, Japan, including places to visit, hiking and biking routes, where to stay, what to buy, local culture and customs, safety and health, and transportation options.</description>
-	<pubDate>2024-04-06T08:41:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
