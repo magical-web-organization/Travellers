@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T09:40:07+03:00</pubDate>
-        <lastBuildDate>2024-04-06T09:40:07+03:00</lastBuildDate>
+        <pubDate>2024-04-06T10:12:57+03:00</pubDate>
+        <lastBuildDate>2024-04-06T10:12:57+03:00</lastBuildDate>
 
         <item>
+	<title>Central Yunnan Travel Guide (Yunnan/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/central-yunnan/</link>
+	<description>Plan a perfect trip to Central Yunnan with our detailed guide on must-visit places, top things to do, where to stay, what to buy, local culture, safety, transport, and more.</description>
+	<pubDate>2024-04-06T10:12:57+03:00</pubDate>
+</item><item>
 	<title>Cuyahoga County Travel Guide (Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/</link>
 	<description>Plan an unforgettable trip to Cuyahoga County and explore the culturally important attractions, scenic natural views, outdoor adventures, and the food and drink scene, along with relevant travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/primorsky-krai/khasan/</link>
 	<description>Explore the culturally and naturally rich area of Khasan in Russia with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and much more.</description>
 	<pubDate>2024-04-06T06:01:59+03:00</pubDate>
-</item><item>
-	<title>Antelope County Travel Guide (Eastern Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/eastern-nebraska/antelope-county/</link>
-	<description>Antelope County travel guide with tips on things to do, where to stay, and transportation options.</description>
-	<pubDate>2024-04-06T05:03:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
