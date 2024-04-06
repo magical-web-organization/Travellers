@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T01:44:17+03:00</pubDate>
-        <lastBuildDate>2024-04-07T01:44:17+03:00</lastBuildDate>
+        <pubDate>2024-04-07T02:10:51+03:00</pubDate>
+        <lastBuildDate>2024-04-07T02:10:51+03:00</lastBuildDate>
 
         <item>
+	<title>Storrs Travel Guide (Mystic-Eastern/Connecticut/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/mystic-eastern/storrs/</link>
+	<description>Plan your trip to Storrs with our comprehensive guide, including top places to visit, hiking routes, food and drink scene, where to stay and much more.</description>
+	<pubDate>2024-04-07T02:10:51+03:00</pubDate>
+</item><item>
 	<title>Salamanca Travel Guide (Guanajuato (state)/Bajío/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/guanajuato-state/salamanca/</link>
 	<description>Explore the culturally rich city of Salamanca, Mexico with our comprehensive travel guide. Plan your trip to Salamanca with our list of things to do, food and drink scene, accommodation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/mpumalanga/machadodorp/</link>
 	<description>Discover Machadodorp in Mpumalanga, South Africa with our comprehensive travel guide. From natural attractions to cultural landmarks, food to accommodation, everything you need to know for an unforgettable vacation is here.</description>
 	<pubDate>2024-04-06T21:55:52+03:00</pubDate>
-</item><item>
-	<title>Veliki Preslav Travel Guide (Southern Dobruja/Bulgaria/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/bulgaria/southern-dobruja/veliki-preslav/</link>
-	<description>Get a comprehensive guide for visiting Veliki Preslav, Bulgaria including places to visit, things to do, where to stay, transportation options, and local culture.</description>
-	<pubDate>2024-04-06T21:12:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
