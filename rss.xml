@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T06:37:16+03:00</pubDate>
-        <lastBuildDate>2024-04-06T06:37:16+03:00</lastBuildDate>
+        <pubDate>2024-04-06T07:10:53+03:00</pubDate>
+        <lastBuildDate>2024-04-06T07:10:53+03:00</lastBuildDate>
 
         <item>
+	<title>Mount Merapi Travel Guide (Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/mount-merapi/</link>
+	<description>Mount Merapi is a famous active volcano situated in Central Java, Indonesia. This comprehensive travel guide will provide everything you need to plan your visit.</description>
+	<pubDate>2024-04-06T07:10:53+03:00</pubDate>
+</item><item>
 	<title>Portmeirion Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/portmeirion/</link>
 	<description>Plan your perfect trip to Portmeirion with this helpful, informative travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/dalsland/</link>
 	<description>Discover the best places to visit, food and drink scene, local culture and customs, and more in Dalsland, Sweden, with this comprehensive travel guide.</description>
 	<pubDate>2024-04-06T02:43:21+03:00</pubDate>
-</item><item>
-	<title>Quezon Travel Guide (Palawan/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/palawan/quezon/</link>
-	<description>Explore Quezon's cultural attractions, natural wonders, hiking/biking routes, local cuisines, accommodations, transportation options, safety measures, and nearby places to visit.</description>
-	<pubDate>2024-04-06T02:17:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
