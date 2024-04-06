@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-06T02:43:21+03:00</pubDate>
-        <lastBuildDate>2024-04-06T02:43:21+03:00</lastBuildDate>
+        <pubDate>2024-04-06T03:33:28+03:00</pubDate>
+        <lastBuildDate>2024-04-06T03:33:28+03:00</lastBuildDate>
 
         <item>
+	<title>Corrientes Travel Guide (Mesopotamia/Argentina/South America)</title>
+	<link>https://travellers.wiki/en/south-america/argentina/mesopotamia/corrientes/</link>
+	<description>Plan an unforgettable trip with our comprehensive travel guide to Corrientes. Discover the best places to visit, things to do, food to try, and much more.</description>
+	<pubDate>2024-04-06T03:33:28+03:00</pubDate>
+</item><item>
 	<title>Dalsland Travel Guide (Götaland/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/dalsland/</link>
 	<description>Discover the best places to visit, food and drink scene, local culture and customs, and more in Dalsland, Sweden, with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/veracruz-state/veracruz/</link>
 	<description>Discover the best places to visit, things to do, and tips for traveling to Veracruz, Mexico with this comprehensive travel guide.</description>
 	<pubDate>2024-04-05T22:43:07+03:00</pubDate>
-</item><item>
-	<title>Ouranoupoli Travel Guide (Northern Chalkidiki/Chalkidiki/Macedonia/Northern Greece/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/chalkidiki/northern-chalkidiki/ouranoupoli/</link>
-	<description>Get ready for your trip to Northern Chalkidiki by reading this comprehensive travel guide to Ouranoupoli. Discover the best places to visit, things to do, food and drink scene, where to stay, local culture, safety, and more.</description>
-	<pubDate>2024-04-05T22:28:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
