@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T05:48:20+03:00</pubDate>
-        <lastBuildDate>2024-04-07T05:48:20+03:00</lastBuildDate>
+        <pubDate>2024-04-07T06:18:43+03:00</pubDate>
+        <lastBuildDate>2024-04-07T06:18:43+03:00</lastBuildDate>
 
         <item>
+	<title>Moselle Valley Travel Guide (Luxembourg/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/luxembourg/moselle-valley/</link>
+	<description>Discover the best places to visit, food and drink scene, hiking/biking routes, local culture and customs, safety and health tips, and transportation options of Moselle Valley in Luxembourg.</description>
+	<pubDate>2024-04-07T06:18:43+03:00</pubDate>
+</item><item>
 	<title>Hangzhou Travel Guide (Zhejiang/East China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/hangzhou/</link>
 	<description>A comprehensive tour guide for Hangzhou, including lists of places to visit, hiking/biking routes, food and drink scene, where to stay, local culture and customs, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/guanajuato-state/salamanca/</link>
 	<description>Explore the culturally rich city of Salamanca, Mexico with our comprehensive travel guide. Plan your trip to Salamanca with our list of things to do, food and drink scene, accommodation options, and more.</description>
 	<pubDate>2024-04-07T01:44:17+03:00</pubDate>
-</item><item>
-	<title>Gary Travel Guide (Lake County/Northwestern Indiana/Indiana/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northwestern-indiana/lake-county/gary/</link>
-	<description>Planning a trip to Gary, Indiana? This in-depth travel guide covers everything you need to know about the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-07T01:21:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
