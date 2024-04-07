@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T18:44:32+03:00</pubDate>
-        <lastBuildDate>2024-04-07T18:44:32+03:00</lastBuildDate>
+        <pubDate>2024-04-07T19:13:46+03:00</pubDate>
+        <lastBuildDate>2024-04-07T19:13:46+03:00</lastBuildDate>
 
         <item>
+	<title>Prora Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/prora/</link>
+	<description>Explore Prora, Germany with our ultimate travel guide. Discover culturally important museums, outdoor adventures, delicious local cuisine, accommodations, and more.</description>
+	<pubDate>2024-04-07T19:13:46+03:00</pubDate>
+</item><item>
 	<title>Marquette Travel Guide (Northeast Iowa/Iowa/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/northeast-iowa/marquette/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Marquette, Iowa with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/west-midlands-county/meriden/</link>
 	<description>Discover the top things to do in Meriden, a charming village in West Midlands, UK. Explore its cultural and natural attractions, hiking/biking routes, food and drink scene, accommodations, local culture and customs, and safety and health information.</description>
 	<pubDate>2024-04-07T14:47:12+03:00</pubDate>
-</item><item>
-	<title>Greensburg Travel Guide (Laurel Highlands/Pittsburgh Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/laurel-highlands/greensburg/</link>
-	<description>Plan a perfect trip to Greensburg with this comprehensive tour guide. Discover the best places to visit, things to do, where to eat and stay, local culture, and more.</description>
-	<pubDate>2024-04-07T14:13:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
