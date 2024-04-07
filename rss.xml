@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T22:33:38+03:00</pubDate>
-        <lastBuildDate>2024-04-07T22:33:38+03:00</lastBuildDate>
+        <pubDate>2024-04-07T23:11:13+03:00</pubDate>
+        <lastBuildDate>2024-04-07T23:11:13+03:00</lastBuildDate>
 
         <item>
+	<title>Szamotuły Travel Guide (Wielkopolskie/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/wielkopolskie/szamotuly/</link>
+	<description>Explore the culturally rich and naturally beautiful town of Szamotuły in Poland. This comprehensive travel guide includes a list of places to visit, things to do, and must-try dishes.</description>
+	<pubDate>2024-04-07T23:11:13+03:00</pubDate>
+</item><item>
 	<title>Bluff Travel Guide (Southland/South Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/southland/bluff/</link>
 	<description>Plan an unforgettable trip to Bluff with this comprehensive travel guide! Discover the best things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/northeast-iowa/marquette/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Marquette, Iowa with this comprehensive travel guide.</description>
 	<pubDate>2024-04-07T18:44:32+03:00</pubDate>
-</item><item>
-	<title>Grand Beach Provincial Park Travel Guide (Eastern Manitoba/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/eastern-manitoba/grand-beach-provincial-park/</link>
-	<description>Discover the best places to visit, activities to do, where to stay, what to eat, and how to get to Grand Beach Provincial Park in Manitoba, Canada.</description>
-	<pubDate>2024-04-07T18:17:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
