@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T00:05:25+03:00</pubDate>
-        <lastBuildDate>2024-04-08T00:05:25+03:00</lastBuildDate>
+        <pubDate>2024-04-08T00:45:09+03:00</pubDate>
+        <lastBuildDate>2024-04-08T00:45:09+03:00</lastBuildDate>
 
         <item>
+	<title>Childersburg Travel Guide (Metropolitan Alabama/Alabama/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/metropolitan-alabama/childersburg/</link>
+	<description>A comprehensive tour guide for Childersburg, including places to visit, hiking and biking routes, activities, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
+	<pubDate>2024-04-08T00:45:09+03:00</pubDate>
+</item><item>
 	<title>Moultrie Travel Guide (Plantation Midlands/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/plantation-midlands/moultrie/</link>
 	<description>Our travel guide to Moultrie, Georgia covers everything you need to know about this charming southern town, including top things to do, where to stay, and local culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/space-coast/canaveral-national-seashore/</link>
 	<description>Experience the breathtaking views and rich cultural history of Canaveral National Seashore with our comprehensive travel guide.</description>
 	<pubDate>2024-04-07T20:28:28+03:00</pubDate>
-</item><item>
-	<title>Rosebud Travel Guide (Badlands and Black Hills/South Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/south-dakota/badlands-and-black-hills/rosebud/</link>
-	<description>Discover the best things to see, do, and experience in Rosebud, South Dakota, a unique destination in the Great Plains region of the United States. Plan your trip with our comprehensive guide.</description>
-	<pubDate>2024-04-07T19:58:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
