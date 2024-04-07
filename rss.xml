@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T04:39:49+03:00</pubDate>
-        <lastBuildDate>2024-04-07T04:39:49+03:00</lastBuildDate>
+        <pubDate>2024-04-07T05:09:37+03:00</pubDate>
+        <lastBuildDate>2024-04-07T05:09:37+03:00</lastBuildDate>
 
         <item>
+	<title>Jieyang Travel Guide (Chaoshan/Guangdong/South China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/chaoshan/jieyang/</link>
+	<description>Planning a trip to Jieyang? Check out our comprehensive travel guide feat. must-visit attractions, local food & drink, and important travel tips.</description>
+	<pubDate>2024-04-07T05:09:37+03:00</pubDate>
+</item><item>
 	<title>Amrum Travel Guide (North Frisian Islands/North Sea Coast/Schleswig-Holstein/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/north-sea-coast/north-frisian-islands/amrum/</link>
 	<description>Discover the best things to do and see in Amrum with this comprehensive travel guide. Explore natural attractions, cultural landmarks, and more in this beautiful North Frisian Island.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/oman/dhofar/thumrait/</link>
 	<description>Thumrait travel guide provides a comprehensive tour of the culturally rich and stunning natural attractions coupled with hiking and biking routes, adventurous activities, and other useful information.</description>
 	<pubDate>2024-04-07T00:56:25+03:00</pubDate>
-</item><item>
-	<title>TriBeCa Travel Guide (Manhattan/New York City/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/new-york-city/manhattan/tribeca/</link>
-	<description>This TriBeCa travel guide will help you plan your trip with a list of places to visit, best things to do, hiking/biking routes, where to stay, and more.</description>
-	<pubDate>2024-04-07T00:08:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
