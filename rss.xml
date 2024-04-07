@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T08:08:42+03:00</pubDate>
-        <lastBuildDate>2024-04-07T08:08:42+03:00</lastBuildDate>
+        <pubDate>2024-04-07T08:42:44+03:00</pubDate>
+        <lastBuildDate>2024-04-07T08:42:44+03:00</lastBuildDate>
 
         <item>
+	<title>Castle Combe Travel Guide (Wiltshire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/wiltshire/castle-combe/</link>
+	<description>Plan your perfect trip to Castle Combe with our comprehensive travel guide. Discover the best attractions, activities, accommodations, and more.</description>
+	<pubDate>2024-04-07T08:42:44+03:00</pubDate>
+</item><item>
 	<title>Grande-Terre Travel Guide (Guadeloupe/Lesser Antilles/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/guadeloupe/grande-terre/</link>
 	<description>Explore the beauty of Grande-Terre in Guadeloupe with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat and buy, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/eastern-tasmania/ross/</link>
 	<description>Plan your trip to Ross, Tasmania with this comprehensive travel guide including places to visit, things to do, hiking/biking routes, food and drinks, where to stay, and more.</description>
 	<pubDate>2024-04-07T04:30:29+03:00</pubDate>
-</item><item>
-	<title>Bergen auf Rügen Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/bergen-auf-rugen/</link>
-	<description>Discover the hidden gems of the charming town of Bergen auf Rügen with this comprehensive travel guide that includes information on the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-07T03:43:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
