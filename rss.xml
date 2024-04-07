@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T17:36:45+03:00</pubDate>
-        <lastBuildDate>2024-04-07T17:36:45+03:00</lastBuildDate>
+        <pubDate>2024-04-07T18:17:12+03:00</pubDate>
+        <lastBuildDate>2024-04-07T18:17:12+03:00</lastBuildDate>
 
         <item>
+	<title>Grand Beach Provincial Park Travel Guide (Eastern Manitoba/Manitoba/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/eastern-manitoba/grand-beach-provincial-park/</link>
+	<description>Discover the best places to visit, activities to do, where to stay, what to eat, and how to get to Grand Beach Provincial Park in Manitoba, Canada.</description>
+	<pubDate>2024-04-07T18:17:12+03:00</pubDate>
+</item><item>
 	<title>Saldanha Travel Guide (West Coast/Western Cape/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/west-coast/saldanha/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture and customs in the charming town of Saldanha, Western Cape, South Africa.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/padova-province/</link>
 	<description>Discover all the best things to do, see, and experience in Padova (Province) with our ultimate travel guide. From must-see sights to hidden gems, find everything you need to plan your trip</description>
 	<pubDate>2024-04-07T13:34:15+03:00</pubDate>
-</item><item>
-	<title>Okotoks Travel Guide (Calgary Region/Alberta/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/calgary-region/okotoks/</link>
-	<description>Explore the best places to visit in Okotoks, Alberta with this comprehensive tour guide, including natural and cultural attractions, hiking and biking routes, top things to do, where to stay, eat, and shop, as well as safety and health tips, transportation options, and nearby destinations and excursions.</description>
-	<pubDate>2024-04-07T13:25:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
