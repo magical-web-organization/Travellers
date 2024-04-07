@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T03:32:32+03:00</pubDate>
-        <lastBuildDate>2024-04-07T03:32:32+03:00</lastBuildDate>
+        <pubDate>2024-04-07T03:43:31+03:00</pubDate>
+        <lastBuildDate>2024-04-07T03:43:31+03:00</lastBuildDate>
 
         <item>
+	<title>Bergen auf Rügen Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/bergen-auf-rugen/</link>
+	<description>Discover the hidden gems of the charming town of Bergen auf Rügen with this comprehensive travel guide that includes information on the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-04-07T03:43:31+03:00</pubDate>
+</item><item>
 	<title>Inland of Finland Proper Travel Guide (Finland Proper/West Coast/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/inland-of-finland-proper/</link>
 	<description>Your ultimate travel guide to Inland of Finland Proper - discover natural and cultural attractions, best activities and tours, local food and drink scene, where to stay and how to get around.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/ile-de-france/paris/8th-arrondissement/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in 8th arrondissement, Paris, France.</description>
 	<pubDate>2024-04-06T23:32:17+03:00</pubDate>
-</item><item>
-	<title>Geneva Travel Guide (Fox River Valley/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/fox-river-valley/geneva/</link>
-	<description>Explore the culturally rich city of Geneva, Illinois with this comprehensive travel guide. Find out the best places to visit, stay, eat, and more.</description>
-	<pubDate>2024-04-06T22:58:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
