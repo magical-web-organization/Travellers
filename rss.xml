@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T21:15:25+03:00</pubDate>
-        <lastBuildDate>2024-04-07T21:15:25+03:00</lastBuildDate>
+        <pubDate>2024-04-07T21:54:53+03:00</pubDate>
+        <lastBuildDate>2024-04-07T21:54:53+03:00</lastBuildDate>
 
         <item>
+	<title>O Grove Travel Guide (Galicia/Green Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/galicia/o-grove/</link>
+	<description>Plan your perfect trip to O Grove, Galicia, Spain with our comprehensive travel guide. Explore the best attractions, activities, food, and more in this beautiful coastal town of Green Spain.</description>
+	<pubDate>2024-04-07T21:54:53+03:00</pubDate>
+</item><item>
 	<title>Lochem Travel Guide (Achterhoek/Gelderland/Eastern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/gelderland/achterhoek/lochem/</link>
 	<description>Explore the culturally rich and natural attractions of Lochem with the help of our comprehensive travel guide. Discover the best things to do, where to stay, what to eat, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/northern-spain/basque-country/getaria/</link>
 	<description>Read our comprehensive Getaria travel guide to discover the best places to visit, activities to do, where to stay, what to eat, and more!</description>
 	<pubDate>2024-04-07T17:27:08+03:00</pubDate>
-</item><item>
-	<title>Brattleboro Travel Guide (Southern Vermont/Vermont/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/brattleboro/</link>
-	<description>Explore the attractions, hiking trails, food scene, accommodations, and local culture in Brattleboro and plan your trip with this travel guide.</description>
-	<pubDate>2024-04-07T16:56:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
