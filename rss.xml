@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T23:38:31+03:00</pubDate>
-        <lastBuildDate>2024-04-07T23:38:31+03:00</lastBuildDate>
+        <pubDate>2024-04-08T00:05:25+03:00</pubDate>
+        <lastBuildDate>2024-04-08T00:05:25+03:00</lastBuildDate>
 
         <item>
+	<title>Moultrie Travel Guide (Plantation Midlands/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/plantation-midlands/moultrie/</link>
+	<description>Our travel guide to Moultrie, Georgia covers everything you need to know about this charming southern town, including top things to do, where to stay, and local culture.</description>
+	<pubDate>2024-04-08T00:05:25+03:00</pubDate>
+</item><item>
 	<title>Pteleos Travel Guide (Magnesia/Thessaly/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/pteleos/</link>
 	<description>Discover the best things to do, places to visit, and authentic experiences in Pteleos, Thessaly. From cultural attractions to natural wonders, hiking and biking routes to food and drink scene, this comprehensive travel guide has got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/south-dakota/badlands-and-black-hills/rosebud/</link>
 	<description>Discover the best things to see, do, and experience in Rosebud, South Dakota, a unique destination in the Great Plains region of the United States. Plan your trip with our comprehensive guide.</description>
 	<pubDate>2024-04-07T19:58:02+03:00</pubDate>
-</item><item>
-	<title>Prora Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/prora/</link>
-	<description>Explore Prora, Germany with our ultimate travel guide. Discover culturally important museums, outdoor adventures, delicious local cuisine, accommodations, and more.</description>
-	<pubDate>2024-04-07T19:13:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
