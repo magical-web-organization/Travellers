@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-07T14:47:12+03:00</pubDate>
-        <lastBuildDate>2024-04-07T14:47:12+03:00</lastBuildDate>
+        <pubDate>2024-04-07T15:24:13+03:00</pubDate>
+        <lastBuildDate>2024-04-07T15:24:13+03:00</lastBuildDate>
 
         <item>
+	<title>Maha Sarakham Travel Guide (Central Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/central-isaan/maha-sarakham/</link>
+	<description>Discover the best cultural and natural attractions, things to do, hikes and biking routes, food and drink scene, accommodations, shopping, local customs, safety tips, and transportation options in Maha Sarakham, Thailand.</description>
+	<pubDate>2024-04-07T15:24:13+03:00</pubDate>
+</item><item>
 	<title>Meriden Travel Guide (West Midlands (county)/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/west-midlands-county/meriden/</link>
 	<description>Discover the top things to do in Meriden, a charming village in West Midlands, UK. Explore its cultural and natural attractions, hiking/biking routes, food and drink scene, accommodations, local culture and customs, and safety and health information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/eastern-finger-lakes/seneca-falls/</link>
 	<description>Explore the culturally rich and naturally beautiful Seneca Falls with this comprehensive travel guide featuring a list of places to visit, hiking/biking routes, must-try dishes, safety tips, and more.</description>
 	<pubDate>2024-04-07T10:43:48+03:00</pubDate>
-</item><item>
-	<title>Playa del Rey Travel Guide (Westside (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/westside-los-angeles-county/playa-del-rey/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Playa del Rey, California. Read our comprehensive travel guide for the ultimate experience.</description>
-	<pubDate>2024-04-07T10:32:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
