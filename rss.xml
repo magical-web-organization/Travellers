@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T17:47:08+03:00</pubDate>
-        <lastBuildDate>2024-04-08T17:47:08+03:00</lastBuildDate>
+        <pubDate>2024-04-08T18:07:18+03:00</pubDate>
+        <lastBuildDate>2024-04-08T18:07:18+03:00</lastBuildDate>
 
         <item>
+	<title>Al Wakrah Travel Guide (Qatar/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/qatar/al-wakrah/</link>
+	<description>Plan your trip to Al Wakrah with our comprehensive travel guide, from where to stay and what to do, to the best hiking routes and cultural attractions.</description>
+	<pubDate>2024-04-08T18:07:18+03:00</pubDate>
+</item><item>
 	<title>Dahuk Travel Guide (Dohuk Governorate/Iraqi Kurdistan/Iraq/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/dohuk-governorate/dahuk/</link>
 	<description>Discover the magical city of Dahuk in Iraqi Kurdistan with our comprehensive travel guide. Explore natural attractions, cultural landmarks, trekking paths, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/sahel/chad/sahelian-chad/mao/</link>
 	<description>Explore Mao, Chad with this travel guide! Discover culturally important attractions, natural wonders, hiking and biking routes, food and drink, where to stay, and more.</description>
 	<pubDate>2024-04-08T13:46:59+03:00</pubDate>
-</item><item>
-	<title>Retiro-Paseo del Arte Travel Guide (Madrid/Community of Madrid/Central Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/community-of-madrid/madrid/retiro-paseo-del-arte/</link>
-	<description>Explore the cultural and natural attractions, hiking/biking routes, food, accommodations, local culture, safety, and logistics of Retiro-Paseo del Arte in Madrid, Spain, in this comprehensive travel guide.</description>
-	<pubDate>2024-04-08T13:14:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
