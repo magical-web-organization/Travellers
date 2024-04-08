@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T00:40:54+03:00</pubDate>
-        <lastBuildDate>2024-04-09T00:40:54+03:00</lastBuildDate>
+        <pubDate>2024-04-09T01:28:01+03:00</pubDate>
+        <lastBuildDate>2024-04-09T01:28:01+03:00</lastBuildDate>
 
         <item>
+	<title>Parque Nacional Ciénaga de Zapata Travel Guide (Western Cuba/Cuba/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/cuba/western-cuba/parque-nacional-cienaga-de-zapata/</link>
+	<description>A comprehensive travel guide for Parque Nacional Ciénaga de Zapata including natural and cultural attractions, hiking/biking routes, food and drink scene, safety and logistics and nearby destinations.</description>
+	<pubDate>2024-04-09T01:28:01+03:00</pubDate>
+</item><item>
 	<title>Paju Travel Guide (Gyeonggi/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/paju/</link>
 	<description>Plan your trip to Paju, South Korea with this comprehensive travel guide that includes the best places to visit, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/okanagan/big-white/</link>
 	<description>Explore Big White, a winter wonderland in the Thompson-Okanagan region of British Columbia, Canada. Discover top attractions, outdoor adventures, dining, accommodations, and more in this comprehensive travel guide.</description>
 	<pubDate>2024-04-08T21:00:22+03:00</pubDate>
-</item><item>
-	<title>Robe Travel Guide (Limestone Coast/South Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/south-australia/limestone-coast/robe/</link>
-	<description>Discover the charming town of Robe in South Australia with this comprehensive travel guide. Explore the top things to do, places to see, where to stay, and more.</description>
-	<pubDate>2024-04-08T20:26:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
