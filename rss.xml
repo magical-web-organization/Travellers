@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T06:19:32+03:00</pubDate>
-        <lastBuildDate>2024-04-08T06:19:32+03:00</lastBuildDate>
+        <pubDate>2024-04-08T06:42:01+03:00</pubDate>
+        <lastBuildDate>2024-04-08T06:42:01+03:00</lastBuildDate>
 
         <item>
+	<title>Kosrae Travel Guide (Federated States of Micronesia/Micronesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/micronesia/federated-states-of-micronesia/kosrae/</link>
+	<description>This comprehensive travel guide covers all you need to know about visiting Kosrae in Federated States of Micronesia, including best places to visit, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety, and transportation options.</description>
+	<pubDate>2024-04-08T06:42:01+03:00</pubDate>
+</item><item>
 	<title>Abor Travel Guide (South East Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/abor/</link>
 	<description>Get ready to explore the best of Abor! Discover the top places to visit, things to do, and where to stay in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southern-indiana/salem/</link>
 	<description>Discover the best places to visit, things to do, local customs, and more in Salem, Indiana. Plan your trip with our week-long itinerary and explore the rich cultural and natural attractions of this Southern Indiana gem.</description>
 	<pubDate>2024-04-08T02:07:45+03:00</pubDate>
-</item><item>
-	<title>Ribnica Travel Guide (Southeastern Slovenia/Slovenia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovenia/southeastern-slovenia/ribnica/</link>
-	<description>Get to know the hidden gem of Slovenia with our complete Ribnica travel guide. Discover the must-visit places, hiking and biking routes, local cuisine, culture and customs, safety and logistics, and nearby destinations to explore.</description>
-	<pubDate>2024-04-08T01:38:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
