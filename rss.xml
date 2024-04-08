@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T10:17:12+03:00</pubDate>
-        <lastBuildDate>2024-04-08T10:17:12+03:00</lastBuildDate>
+        <pubDate>2024-04-08T10:41:16+03:00</pubDate>
+        <lastBuildDate>2024-04-08T10:41:16+03:00</lastBuildDate>
 
         <item>
+	<title>Coolah Tops National Park Travel Guide (Central West/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/coolah-tops-national-park/</link>
+	<description>Discover the best places to visit, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations at Coolah Tops National Park in New South Wales, Australia.</description>
+	<pubDate>2024-04-08T10:41:16+03:00</pubDate>
+</item><item>
 	<title>Punta Allen Travel Guide (Quintana Roo/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/punta-allen/</link>
 	<description>Discover the best places to visit, restaurants, accommodations, and more in Punta Allen, Mexico in this ultimate travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/abor/</link>
 	<description>Get ready to explore the best of Abor! Discover the top places to visit, things to do, and where to stay in this comprehensive travel guide.</description>
 	<pubDate>2024-04-08T06:19:32+03:00</pubDate>
-</item><item>
-	<title>Maerdy Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/maerdy/</link>
-	<description>Discover the best things to do in Maerdy, South Wales with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking and biking routes, food and drink scene, accommodation options, and more.</description>
-	<pubDate>2024-04-08T05:49:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
