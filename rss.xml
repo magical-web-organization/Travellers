@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T14:07:00+03:00</pubDate>
-        <lastBuildDate>2024-04-08T14:07:00+03:00</lastBuildDate>
+        <pubDate>2024-04-08T14:41:13+03:00</pubDate>
+        <lastBuildDate>2024-04-08T14:41:13+03:00</lastBuildDate>
 
         <item>
+	<title>Tskaltubo Travel Guide (Rioni Region/Georgia (country)/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/rioni-region/tskaltubo/</link>
+	<description>Explore the best of Tskaltubo, Georgia with our travel guide, featuring information on top destinations, cultural attractions, outdoor activities, accommodations, local cuisine, and more.</description>
+	<pubDate>2024-04-08T14:41:13+03:00</pubDate>
+</item><item>
 	<title>Western Highlands Travel Guide (Liaoning/Northeast China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/liaoning/western-highlands/</link>
 	<description>Discover the culturally and naturally rich Western Highlands in Liaoning, China. Explore hiking and biking routes, must-visit places, local cuisine, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/punta-allen/</link>
 	<description>Discover the best places to visit, restaurants, accommodations, and more in Punta Allen, Mexico in this ultimate travel guide.</description>
 	<pubDate>2024-04-08T10:17:12+03:00</pubDate>
-</item><item>
-	<title>Yamalia Travel Guide (Urals/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/yamalia/</link>
-	<description>Explore Yamalia, Russia with our comprehensive travel guide featuring top attractions, hiking/biking routes, food and drink scene, where to stay, local culture, safety, health, transportation options, and more.</description>
-	<pubDate>2024-04-08T09:53:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
