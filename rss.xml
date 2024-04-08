@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T09:03:03+03:00</pubDate>
-        <lastBuildDate>2024-04-08T09:03:03+03:00</lastBuildDate>
+        <pubDate>2024-04-08T09:28:58+03:00</pubDate>
+        <lastBuildDate>2024-04-08T09:28:58+03:00</lastBuildDate>
 
         <item>
+	<title>Sandusky Travel Guide (Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/sandusky/</link>
+	<description>Explore the best things to do, places to visit, and local tips in Sandusky, Michigan with this comprehensive travel guide.</description>
+	<pubDate>2024-04-08T09:28:58+03:00</pubDate>
+</item><item>
 	<title>Hilmar Travel Guide (Merced County/San Joaquin Valley/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/merced-county/hilmar/</link>
 	<description>Discover the culturally rich, natural wonders of Hilmar, along with must-try food dishes, where to stay, and transportation options in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/belize/belize-district/st-george-s-caye/</link>
 	<description>Plan your trip to St. George's Caye in Belize with this comprehensive travel guide featuring must-visit attractions, best time to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-04-08T04:45:04+03:00</pubDate>
-</item><item>
-	<title>Grimma Travel Guide (Leipzig Lowlands-Central Hills/Saxony/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/leipzig-lowlands-central-hills/grimma/</link>
-	<description>Read our comprehensive travel guide to Grimma, Germany, and discover the best places to visit, things to do, where to stay, and how to get around, with tips on culture, safety, and health.</description>
-	<pubDate>2024-04-08T04:29:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
