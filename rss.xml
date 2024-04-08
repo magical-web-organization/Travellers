@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T13:14:42+03:00</pubDate>
-        <lastBuildDate>2024-04-08T13:14:42+03:00</lastBuildDate>
+        <pubDate>2024-04-08T13:46:59+03:00</pubDate>
+        <lastBuildDate>2024-04-08T13:46:59+03:00</lastBuildDate>
 
         <item>
+	<title>Mao Travel Guide (Sahelian Chad/Chad/Sahel/Africa)</title>
+	<link>https://travellers.wiki/en/africa/sahel/chad/sahelian-chad/mao/</link>
+	<description>Explore Mao, Chad with this travel guide! Discover culturally important attractions, natural wonders, hiking and biking routes, food and drink, where to stay, and more.</description>
+	<pubDate>2024-04-08T13:46:59+03:00</pubDate>
+</item><item>
 	<title>Retiro-Paseo del Arte Travel Guide (Madrid/Community of Madrid/Central Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/community-of-madrid/madrid/retiro-paseo-del-arte/</link>
 	<description>Explore the cultural and natural attractions, hiking/biking routes, food, accommodations, local culture, safety, and logistics of Retiro-Paseo del Arte in Madrid, Spain, in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/sandusky/</link>
 	<description>Explore the best things to do, places to visit, and local tips in Sandusky, Michigan with this comprehensive travel guide.</description>
 	<pubDate>2024-04-08T09:28:58+03:00</pubDate>
-</item><item>
-	<title>Hilmar Travel Guide (Merced County/San Joaquin Valley/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/merced-county/hilmar/</link>
-	<description>Discover the culturally rich, natural wonders of Hilmar, along with must-try food dishes, where to stay, and transportation options in this comprehensive travel guide.</description>
-	<pubDate>2024-04-08T09:03:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
