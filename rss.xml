@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T05:27:02+03:00</pubDate>
-        <lastBuildDate>2024-04-08T05:27:02+03:00</lastBuildDate>
+        <pubDate>2024-04-08T05:49:47+03:00</pubDate>
+        <lastBuildDate>2024-04-08T05:49:47+03:00</lastBuildDate>
 
         <item>
+	<title>Maerdy Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/maerdy/</link>
+	<description>Discover the best things to do in Maerdy, South Wales with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking and biking routes, food and drink scene, accommodation options, and more.</description>
+	<pubDate>2024-04-08T05:49:47+03:00</pubDate>
+</item><item>
 	<title>Hoofddorp Travel Guide (Amstelland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/amstelland/hoofddorp/</link>
 	<description>Discover the best places to visit, things to do, and food to try in Hoofddorp, Netherlands, with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/ethiopia/southern-ethiopia/ziway/</link>
 	<description>Discover the culturally rich and naturally beautiful destination of Ziway in Southern Ethiopia with our comprehensive travel guide. Find out the best places to visit, activities to do, where to stay, and more!</description>
 	<pubDate>2024-04-08T01:12:40+03:00</pubDate>
-</item><item>
-	<title>Childersburg Travel Guide (Metropolitan Alabama/Alabama/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/metropolitan-alabama/childersburg/</link>
-	<description>A comprehensive tour guide for Childersburg, including places to visit, hiking and biking routes, activities, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
-	<pubDate>2024-04-08T00:45:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
