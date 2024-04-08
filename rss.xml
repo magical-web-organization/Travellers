@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T06:42:01+03:00</pubDate>
-        <lastBuildDate>2024-04-08T06:42:01+03:00</lastBuildDate>
+        <pubDate>2024-04-08T07:26:00+03:00</pubDate>
+        <lastBuildDate>2024-04-08T07:26:00+03:00</lastBuildDate>
 
         <item>
+	<title>Lassen County Travel Guide (Shasta Cascades/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/lassen-county/</link>
+	<description>Explore the cultural attractions, natural wonders, hiking/biking routes, food, accommodations, and more in California's Lassen County with our ultimate travel guide.</description>
+	<pubDate>2024-04-08T07:26:00+03:00</pubDate>
+</item><item>
 	<title>Kosrae Travel Guide (Federated States of Micronesia/Micronesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/micronesia/federated-states-of-micronesia/kosrae/</link>
 	<description>This comprehensive travel guide covers all you need to know about visiting Kosrae in Federated States of Micronesia, including best places to visit, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/zimbabwe/lake-kariba-lower-zambezi/</link>
 	<description>Plan your trip to Lake Kariba-Lower Zambezi with our comprehensive guide, including top attractions, hiking/biking routes, itinerary suggestions, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-04-08T02:50:32+03:00</pubDate>
-</item><item>
-	<title>Salem Travel Guide (Southern Indiana/Indiana/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southern-indiana/salem/</link>
-	<description>Discover the best places to visit, things to do, local customs, and more in Salem, Indiana. Plan your trip with our week-long itinerary and explore the rich cultural and natural attractions of this Southern Indiana gem.</description>
-	<pubDate>2024-04-08T02:07:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
