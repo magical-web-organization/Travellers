@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T21:23:02+03:00</pubDate>
-        <lastBuildDate>2024-04-08T21:23:02+03:00</lastBuildDate>
+        <pubDate>2024-04-08T21:56:08+03:00</pubDate>
+        <lastBuildDate>2024-04-08T21:56:08+03:00</lastBuildDate>
 
         <item>
+	<title>Heze Travel Guide (Shandong/North China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/shandong/heze/</link>
+	<description>Plan your trip to Heze, China with our comprehensive travel guide featuring top attractions, food, culture, and safety tips.</description>
+	<pubDate>2024-04-08T21:56:08+03:00</pubDate>
+</item><item>
 	<title>Krefeld Travel Guide (Lower Rhine/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/lower-rhine/krefeld/</link>
 	<description>Plan your trip to Krefeld with this comprehensive travel guide featuring top attractions, activities, and accommodations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/malacca-state/ayer-keroh/</link>
 	<description>Plan your trip to Ayer Keroh, Malaysia with this comprehensive tour guide that covers everything you need to know, including top places to visit, hiking/biking routes, local food scene, where to stay, and more.</description>
 	<pubDate>2024-04-08T17:25:17+03:00</pubDate>
-</item><item>
-	<title>Sztynort Travel Guide (Warmia-Masuria/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/warmia-masuria/sztynort/</link>
-	<description>Plan your perfect trip to Sztynort with this comprehensive travel guide. Discover the best things to do, see, eat, and stay in the charming town of Sztynort.</description>
-	<pubDate>2024-04-08T16:52:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
