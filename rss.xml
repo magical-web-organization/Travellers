@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T19:41:18+03:00</pubDate>
-        <lastBuildDate>2024-04-08T19:41:18+03:00</lastBuildDate>
+        <pubDate>2024-04-08T20:26:49+03:00</pubDate>
+        <lastBuildDate>2024-04-08T20:26:49+03:00</lastBuildDate>
 
         <item>
+	<title>Robe Travel Guide (Limestone Coast/South Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/south-australia/limestone-coast/robe/</link>
+	<description>Discover the charming town of Robe in South Australia with this comprehensive travel guide. Explore the top things to do, places to see, where to stay, and more.</description>
+	<pubDate>2024-04-08T20:26:49+03:00</pubDate>
+</item><item>
 	<title>Deux-Sèvres Travel Guide (Nouvelle-Aquitaine/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/deux-sevres/</link>
 	<description>A comprehensive guide for travelers to explore Deux-Sèvres, France including the best places to visit, things to do, where to stay, food and drink scene, local customs, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ogun-state/ijebu-igbo/</link>
 	<description>Discover the beauty of Ijebu Igbo with our detailed travel guide. Explore the best places to visit, things to do, local culture, and where to stay, eat, and shop!</description>
 	<pubDate>2024-04-08T15:56:51+03:00</pubDate>
-</item><item>
-	<title>Rosyth Travel Guide (Fife/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/rosyth/</link>
-	<description>Plan your visit to Rosyth with this comprehensive travel guide. Discover top attractions, best hiking/biking routes, must-try dishes, accommodations, and more.</description>
-	<pubDate>2024-04-08T15:05:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
