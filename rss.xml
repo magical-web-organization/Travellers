@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T02:19:37+03:00</pubDate>
-        <lastBuildDate>2024-04-09T02:19:37+03:00</lastBuildDate>
+        <pubDate>2024-04-09T02:41:59+03:00</pubDate>
+        <lastBuildDate>2024-04-09T02:41:59+03:00</lastBuildDate>
 
         <item>
+	<title>Kamsack Travel Guide (East Central Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/east-central-saskatchewan/kamsack/</link>
+	<description>Discover the best places to visit, things to do, and local customs in Kamsack, Saskatchewan. Read on for a comprehensive guide to this charming town in East Central Saskatchewan.</description>
+	<pubDate>2024-04-09T02:41:59+03:00</pubDate>
+</item><item>
 	<title>Bran Travel Guide (Brașov County/Transylvania/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/brasov-county/bran/</link>
 	<description>Planning a trip to Bran, Transylvania? This comprehensive travel guide covers everything you need to know about the region, including tourist attractions, cultural customs, transportation, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/central-taiwan/taichung/</link>
 	<description>Explore and discover the natural beauty, culture, and must-visit places in Taichung, Taiwan, through this comprehensive travel guide.</description>
 	<pubDate>2024-04-08T22:17:57+03:00</pubDate>
-</item><item>
-	<title>Heze Travel Guide (Shandong/North China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/shandong/heze/</link>
-	<description>Plan your trip to Heze, China with our comprehensive travel guide featuring top attractions, food, culture, and safety tips.</description>
-	<pubDate>2024-04-08T21:56:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
