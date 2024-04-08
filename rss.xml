@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T17:25:17+03:00</pubDate>
-        <lastBuildDate>2024-04-08T17:25:17+03:00</lastBuildDate>
+        <pubDate>2024-04-08T17:47:08+03:00</pubDate>
+        <lastBuildDate>2024-04-08T17:47:08+03:00</lastBuildDate>
 
         <item>
+	<title>Dahuk Travel Guide (Dohuk Governorate/Iraqi Kurdistan/Iraq/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/dohuk-governorate/dahuk/</link>
+	<description>Discover the magical city of Dahuk in Iraqi Kurdistan with our comprehensive travel guide. Explore natural attractions, cultural landmarks, trekking paths, and more.</description>
+	<pubDate>2024-04-08T17:47:08+03:00</pubDate>
+</item><item>
 	<title>Ayer Keroh Travel Guide (Malacca (state)/West Coast/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/malacca-state/ayer-keroh/</link>
 	<description>Plan your trip to Ayer Keroh, Malaysia with this comprehensive tour guide that covers everything you need to know, including top places to visit, hiking/biking routes, local food scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/community-of-madrid/madrid/retiro-paseo-del-arte/</link>
 	<description>Explore the cultural and natural attractions, hiking/biking routes, food, accommodations, local culture, safety, and logistics of Retiro-Paseo del Arte in Madrid, Spain, in this comprehensive travel guide.</description>
 	<pubDate>2024-04-08T13:14:42+03:00</pubDate>
-</item><item>
-	<title>Nirmal Travel Guide (Telangana/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/telangana/nirmal/</link>
-	<description>Explore Nirmal, Telangana, India with this comprehensive travel guide featuring places to visit, things to do, where to eat, where to stay, and more.</description>
-	<pubDate>2024-04-08T13:01:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
