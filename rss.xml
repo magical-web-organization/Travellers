@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T12:20:56+03:00</pubDate>
-        <lastBuildDate>2024-04-08T12:20:56+03:00</lastBuildDate>
+        <pubDate>2024-04-08T13:01:10+03:00</pubDate>
+        <lastBuildDate>2024-04-08T13:01:10+03:00</lastBuildDate>
 
         <item>
+	<title>Nirmal Travel Guide (Telangana/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/telangana/nirmal/</link>
+	<description>Explore Nirmal, Telangana, India with this comprehensive travel guide featuring places to visit, things to do, where to eat, where to stay, and more.</description>
+	<pubDate>2024-04-08T13:01:10+03:00</pubDate>
+</item><item>
 	<title>Jaldapara National Park Travel Guide (Northern Plains/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/northern-plains/jaldapara-national-park/</link>
 	<description>Discover the natural and cultural attractions of Jaldapara National Park, an exciting destination in Eastern India. Read about the best places to visit, things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/american-samoa/ta-u/</link>
 	<description>Explore the natural beauty, cultural landmarks, and local cuisine of Ta'u in American Samoa with our comprehensive travel guide. Discover the best places to visit, stay, eat, and shop while learning about the local culture and customs.</description>
 	<pubDate>2024-04-08T08:26:04+03:00</pubDate>
-</item><item>
-	<title>Nong Khiaw Travel Guide (Northern Laos/Laos/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/laos/northern-laos/nong-khiaw/</link>
-	<description>Plan your trip to Nong Khiaw with this comprehensive travel guide, including information on attractions, activities, accommodations, local customs, and transportation options.</description>
-	<pubDate>2024-04-08T07:59:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
