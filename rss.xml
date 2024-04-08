@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-08T22:17:57+03:00</pubDate>
-        <lastBuildDate>2024-04-08T22:17:57+03:00</lastBuildDate>
+        <pubDate>2024-04-08T22:55:45+03:00</pubDate>
+        <lastBuildDate>2024-04-08T22:55:45+03:00</lastBuildDate>
 
         <item>
+	<title>Playa Santo Domingo Travel Guide (Southern Pacific Coast/Nicaragua/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/southern-pacific-coast/playa-santo-domingo/</link>
+	<description>A complete travel guide for Playa Santo Domingo featuring natural attractions, cultural landmarks, food and drinks, best things to do, where to stay, local culture and customs, safety and health, and transportation options and logistics.</description>
+	<pubDate>2024-04-08T22:55:45+03:00</pubDate>
+</item><item>
 	<title>Taichung Travel Guide (Central Taiwan/Taiwan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/central-taiwan/taichung/</link>
 	<description>Explore and discover the natural beauty, culture, and must-visit places in Taichung, Taiwan, through this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/qatar/al-wakrah/</link>
 	<description>Plan your trip to Al Wakrah with our comprehensive travel guide, from where to stay and what to do, to the best hiking routes and cultural attractions.</description>
 	<pubDate>2024-04-08T18:07:18+03:00</pubDate>
-</item><item>
-	<title>Dahuk Travel Guide (Dohuk Governorate/Iraqi Kurdistan/Iraq/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/dohuk-governorate/dahuk/</link>
-	<description>Discover the magical city of Dahuk in Iraqi Kurdistan with our comprehensive travel guide. Explore natural attractions, cultural landmarks, trekking paths, and more.</description>
-	<pubDate>2024-04-08T17:47:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
