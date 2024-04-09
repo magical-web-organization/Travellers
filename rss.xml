@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T23:08:26+03:00</pubDate>
-        <lastBuildDate>2024-04-09T23:08:26+03:00</lastBuildDate>
+        <pubDate>2024-04-09T23:38:17+03:00</pubDate>
+        <lastBuildDate>2024-04-09T23:38:17+03:00</lastBuildDate>
 
         <item>
+	<title>El Remate Travel Guide (Northern Lowlands/Guatemala/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/guatemala/northern-lowlands/el-remate/</link>
+	<description>Get an in-depth guide to El Remate, including top attractions, where to stay, best time to visit, local culture, safety, and transport options.</description>
+	<pubDate>2024-04-09T23:38:17+03:00</pubDate>
+</item><item>
 	<title>St. Augustine Travel Guide (First Coast/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/first-coast/st-augustine/</link>
 	<description>Explore the cultural and natural attractions of St. Augustine, find the best things to do, where to stay and eat, and how to stay safe while visiting.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/nonsan/</link>
 	<description>Explore the culturally rich city of Nonsan with this comprehensive tour guide. Discover the best things to do, see, eat, and stay in Nonsan.</description>
 	<pubDate>2024-04-09T19:13:57+03:00</pubDate>
-</item><item>
-	<title>Takikawa Travel Guide (Central Circuit/Hokkaido/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/central-circuit/takikawa/</link>
-	<description>Plan your trip to Takikawa, Hokkaido with our comprehensive travel guide and discover the top things to see and do in this serene Japanese town.</description>
-	<pubDate>2024-04-09T18:57:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
