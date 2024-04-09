@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T05:54:06+03:00</pubDate>
-        <lastBuildDate>2024-04-09T05:54:06+03:00</lastBuildDate>
+        <pubDate>2024-04-09T06:28:32+03:00</pubDate>
+        <lastBuildDate>2024-04-09T06:28:32+03:00</lastBuildDate>
 
         <item>
+	<title>Rye Brook Travel Guide (Westchester County/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/westchester-county/rye-brook/</link>
+	<description>A comprehensive guide to Rye Brook, NY, including a list of places to visit, where to stay, what to eat, local culture, safety tips, and transportation options.</description>
+	<pubDate>2024-04-09T06:28:32+03:00</pubDate>
+</item><item>
 	<title>Ciudad del Carmen Travel Guide (Campeche (state)/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/campeche-state/ciudad-del-carmen/</link>
 	<description>Discover everything you need to know about visiting Ciudad del Carmen, from the best places to stay to the top things to do and see in this beautiful destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/gulf-coast/north-barrier-coast/baytown/</link>
 	<description>Discover the best places to visit, hikes/bikes routes, where to stay, local culture, and transportation options in Baytown, Texas.</description>
 	<pubDate>2024-04-09T01:41:30+03:00</pubDate>
-</item><item>
-	<title>Parque Nacional Ciénaga de Zapata Travel Guide (Western Cuba/Cuba/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/cuba/western-cuba/parque-nacional-cienaga-de-zapata/</link>
-	<description>A comprehensive travel guide for Parque Nacional Ciénaga de Zapata including natural and cultural attractions, hiking/biking routes, food and drink scene, safety and logistics and nearby destinations.</description>
-	<pubDate>2024-04-09T01:28:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
