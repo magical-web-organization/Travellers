@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T15:50:56+03:00</pubDate>
-        <lastBuildDate>2024-04-09T15:50:56+03:00</lastBuildDate>
+        <pubDate>2024-04-09T16:30:21+03:00</pubDate>
+        <lastBuildDate>2024-04-09T16:30:21+03:00</lastBuildDate>
 
         <item>
+	<title>Shani Shingnapur Travel Guide (North Maharashtra/Maharashtra/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-maharashtra/shani-shingnapur/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Shani Shingnapur, home to the famous Shani temple.</description>
+	<pubDate>2024-04-09T16:30:21+03:00</pubDate>
+</item><item>
 	<title>Wengen Travel Guide (Bernese Highlands/Switzerland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/bernese-highlands/wengen/</link>
 	<description>Plan your perfect trip to Wengen with this comprehensive travel guide. From cultural attractions to outdoor adventures, find everything you need to know for a memorable vacation in this scenic Swiss village.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/kentucky-derby-region/bardstown/</link>
 	<description>Bardstown, a picturesque town in Kentucky Derby Region, welcomes you with its rich culture, scenic beauty, and mouth-watering delights. Explore all the exciting things to do in Bardstown, where to stay, transport, and more to make your trip memorable!</description>
 	<pubDate>2024-04-09T11:33:30+03:00</pubDate>
-</item><item>
-	<title>Jamestown Travel Guide (Tuolumne County/Gold Country/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/gold-country/tuolumne-county/jamestown/</link>
-	<description>Your ultimate guide to Jamestown, including must-visit places, best things to do, local culture and customs, safety and health tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-04-09T11:32:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
