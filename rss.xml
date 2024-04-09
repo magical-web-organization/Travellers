@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T00:24:02+03:00</pubDate>
-        <lastBuildDate>2024-04-10T00:24:02+03:00</lastBuildDate>
+        <pubDate>2024-04-10T00:52:22+03:00</pubDate>
+        <lastBuildDate>2024-04-10T00:52:22+03:00</lastBuildDate>
 
         <item>
+	<title>Egg Harbor City Travel Guide (Atlantic County/Jersey Shore/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/atlantic-county/egg-harbor-city/</link>
+	<description>Discover the best attractions, lodging, food and drink options, and transportation tips for Egg Harbor City, a historic town located in Jersey Shore.</description>
+	<pubDate>2024-04-10T00:52:22+03:00</pubDate>
+</item><item>
 	<title>Matabari Travel Guide (Tripura/North-Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/tripura/matabari/</link>
 	<description>Discover the rich culture and natural wonders of Matabari with this comprehensive travel guide. From historical sites and scenic views to delicious food and where to stay, plan your perfect trip to this hidden gem in North-Eastern India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/western-sahara/guelta-zemmur/</link>
 	<description>Discover Guelta Zemmur, a hidden gem nestled in the deserts of Western Sahara. From natural attractions to cultural landmarks, our comprehensive travel guide has everything you need to plan your trip.</description>
 	<pubDate>2024-04-09T20:30:02+03:00</pubDate>
-</item><item>
-	<title>Thaba Bosiu Travel Guide (Lesotho/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/lesotho/thaba-bosiu/</link>
-	<description>Discover the best places to visit, things to do, where to stay and eat, and local culture and customs of Thaba Bosiu, Lesotho in this comprehensive travel guide.</description>
-	<pubDate>2024-04-09T20:01:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
