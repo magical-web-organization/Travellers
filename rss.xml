@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T20:30:02+03:00</pubDate>
-        <lastBuildDate>2024-04-09T20:30:02+03:00</lastBuildDate>
+        <pubDate>2024-04-09T20:56:38+03:00</pubDate>
+        <lastBuildDate>2024-04-09T20:56:38+03:00</lastBuildDate>
 
         <item>
+	<title>Tsambagarav National Park Travel Guide (Western Mongolia/Mongolia/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/mongolia/western-mongolia/tsambagarav-national-park/</link>
+	<description>Discover the best things to do, see, eat, and experience in Tsambagarav National Park, a haven for outdoor adventurers, history buffs, and culture seekers.</description>
+	<pubDate>2024-04-09T20:56:38+03:00</pubDate>
+</item><item>
 	<title>Guelta Zemmur Travel Guide (Western Sahara/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/western-sahara/guelta-zemmur/</link>
 	<description>Discover Guelta Zemmur, a hidden gem nestled in the deserts of Western Sahara. From natural attractions to cultural landmarks, our comprehensive travel guide has everything you need to plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-maharashtra/shani-shingnapur/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Shani Shingnapur, home to the famous Shani temple.</description>
 	<pubDate>2024-04-09T16:30:21+03:00</pubDate>
-</item><item>
-	<title>Wengen Travel Guide (Bernese Highlands/Switzerland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/switzerland/bernese-highlands/wengen/</link>
-	<description>Plan your perfect trip to Wengen with this comprehensive travel guide. From cultural attractions to outdoor adventures, find everything you need to know for a memorable vacation in this scenic Swiss village.</description>
-	<pubDate>2024-04-09T15:50:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
