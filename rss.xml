@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T13:30:36+03:00</pubDate>
-        <lastBuildDate>2024-04-09T13:30:36+03:00</lastBuildDate>
+        <pubDate>2024-04-09T14:00:27+03:00</pubDate>
+        <lastBuildDate>2024-04-09T14:00:27+03:00</lastBuildDate>
 
         <item>
+	<title>Gwarinpa Travel Guide (Abuja/Federal Capital Territory/North Central Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/federal-capital-territory/abuja/gwarinpa/</link>
+	<description>Discover the top attractions, things to do and see, where to stay, and how to get around Gwarinpa in this comprehensive guide for travellers.</description>
+	<pubDate>2024-04-09T14:00:27+03:00</pubDate>
+</item><item>
 	<title>Wazirabad Travel Guide (Punjab/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/wazirabad/</link>
 	<description>Discover the best things to do, see and eat in Wazirabad, Pakistan. From cultural attractions and outdoor adventures to local food and accommodations, this travel guide has it all.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/grosseto-province/porto-santo-stefano/</link>
 	<description>Plan your perfect trip to Porto Santo Stefano with our informative travel guide. Discover the best things to do, eat, and see in this picturesque town in Tuscany, Italy.</description>
 	<pubDate>2024-04-09T09:33:17+03:00</pubDate>
-</item><item>
-	<title>Fairfield Travel Guide (Southeast Iowa/Iowa/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/southeast-iowa/fairfield/</link>
-	<description>Read this comprehensive travel guide to the city of Fairfield located in Southeast Iowa. Find out where to stay, what to do, where to eat, and more.</description>
-	<pubDate>2024-04-09T08:47:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
