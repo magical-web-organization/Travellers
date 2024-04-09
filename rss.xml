@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T04:22:03+03:00</pubDate>
-        <lastBuildDate>2024-04-09T04:22:03+03:00</lastBuildDate>
+        <pubDate>2024-04-09T04:57:02+03:00</pubDate>
+        <lastBuildDate>2024-04-09T04:57:02+03:00</lastBuildDate>
 
         <item>
+	<title>Le Lavandou Travel Guide (Var/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/var/le-lavandou/</link>
+	<description>Plan your trip to Le Lavandou, France with this helpful travel guide. Explore the best places to visit, things to do, and where to stay in Le Lavandou.</description>
+	<pubDate>2024-04-09T04:57:02+03:00</pubDate>
+</item><item>
 	<title>Sibiloi National Park Travel Guide (Northern Rift Valley/Kenya/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/kenya/northern-rift-valley/sibiloi-national-park/</link>
 	<description>Discover the natural and cultural wonders of Sibiloi National Park. Explore museums, historical sites, outdoor adventures, and local cuisines in Northern Rift Valley, Kenya.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/vancouver/city-centre/</link>
 	<description>Discover the best things to do, places to stay, where to eat, and how to get around in City Centre, Vancouver. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-04-09T00:06:52+03:00</pubDate>
-</item><item>
-	<title>Ismailli Travel Guide (Sheki Region/Azerbaijan/Caucasus/Asia)</title>
-	<link>https://travellers.wiki/en/asia/caucasus/azerbaijan/sheki-region/ismailli/</link>
-	<description>Discover everything you need to know about Ismailli, Azerbaijan, from top attractions and activities to local customs and safety tips.</description>
-	<pubDate>2024-04-08T23:43:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
