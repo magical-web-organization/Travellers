@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T02:41:59+03:00</pubDate>
-        <lastBuildDate>2024-04-09T02:41:59+03:00</lastBuildDate>
+        <pubDate>2024-04-09T03:07:25+03:00</pubDate>
+        <lastBuildDate>2024-04-09T03:07:25+03:00</lastBuildDate>
 
         <item>
+	<title>Ijora Travel Guide (Lagos State/South West Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/lagos-state/ijora/</link>
+	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, local culture and customs, safety and health, transportation and logistics, and nearby destinations of Ijora, Lagos, Nigeria.</description>
+	<pubDate>2024-04-09T03:07:25+03:00</pubDate>
+</item><item>
 	<title>Kamsack Travel Guide (East Central Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/east-central-saskatchewan/kamsack/</link>
 	<description>Discover the best places to visit, things to do, and local customs in Kamsack, Saskatchewan. Read on for a comprehensive guide to this charming town in East Central Saskatchewan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/southern-pacific-coast/playa-santo-domingo/</link>
 	<description>A complete travel guide for Playa Santo Domingo featuring natural attractions, cultural landmarks, food and drinks, best things to do, where to stay, local culture and customs, safety and health, and transportation options and logistics.</description>
 	<pubDate>2024-04-08T22:55:45+03:00</pubDate>
-</item><item>
-	<title>Taichung Travel Guide (Central Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/central-taiwan/taichung/</link>
-	<description>Explore and discover the natural beauty, culture, and must-visit places in Taichung, Taiwan, through this comprehensive travel guide.</description>
-	<pubDate>2024-04-08T22:17:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
