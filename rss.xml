@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T07:35:03+03:00</pubDate>
-        <lastBuildDate>2024-04-09T07:35:03+03:00</lastBuildDate>
+        <pubDate>2024-04-09T08:20:36+03:00</pubDate>
+        <lastBuildDate>2024-04-09T08:20:36+03:00</lastBuildDate>
 
         <item>
+	<title>Rhinebeck Travel Guide (Dutchess County/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/dutchess-county/rhinebeck/</link>
+	<description>Rhinebeck is a charming town located in Dutchess County, in the Mid-Hudson and Catskills regions of New York, offering a variety of historical, natural, and cultural attractions for visitors. This guide provides tips on what to do, where to go, and where to stay in Rhinebeck, making it an ideal destination for your next trip.</description>
+	<pubDate>2024-04-09T08:20:36+03:00</pubDate>
+</item><item>
 	<title>Clermont-Ferrand Travel Guide (Auvergne/Auvergne-Rhône-Alpes/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/auvergne/clermont-ferrand/</link>
 	<description>Plan your trip to Clermont-Ferrand with this comprehensive travel guide featuring a list of places to visit, where to stay, what to eat, things to do, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/chester-county/west-chester/</link>
 	<description>Plan your trip to the charming and historic town of West Chester, Pennsylvania with this comprehensive travel guide, featuring top attractions, hiking and biking routes, recommendations for food and drink, where to stay, cultural insights, safety and health information, and transportation logistics.</description>
 	<pubDate>2024-04-09T03:42:54+03:00</pubDate>
-</item><item>
-	<title>Ijora Travel Guide (Lagos State/South West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/lagos-state/ijora/</link>
-	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, local culture and customs, safety and health, transportation and logistics, and nearby destinations of Ijora, Lagos, Nigeria.</description>
-	<pubDate>2024-04-09T03:07:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
