@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T01:55:20+03:00</pubDate>
-        <lastBuildDate>2024-04-10T01:55:20+03:00</lastBuildDate>
+        <pubDate>2024-04-10T02:11:24+03:00</pubDate>
+        <lastBuildDate>2024-04-10T02:11:24+03:00</lastBuildDate>
 
         <item>
+	<title>Gundlupet Travel Guide (Chamarajanagar (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/chamarajanagar-district/gundlupet/</link>
+	<description>Plan your trip to Gundlupet with this comprehensive travel guide featuring natural and cultural attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-04-10T02:11:24+03:00</pubDate>
+</item><item>
 	<title>Chaves Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/chaves/</link>
 	<description>Discover the best things to do in Chaves, a historic town in Northern Portugal. From sightseeing to outdoor adventures, find out how to make the most of your visit.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/northern-karnataka/raichur/</link>
 	<description>Discover the hidden gems of Raichur in Karnataka, India. Explore the culturally rich attractions, natural wonders, hiking/biking routes, food and drink scene, and more. Plan your trip now with our comprehensive travel guide.</description>
 	<pubDate>2024-04-09T21:46:56+03:00</pubDate>
-</item><item>
-	<title>Assateague Island Travel Guide (Eastern Shore/Maryland/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/eastern-shore/assateague-island/</link>
-	<description>Planning a trip to Assateague Island? Read this comprehensive guide to learn about the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-09T21:13:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
