@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T12:46:15+03:00</pubDate>
-        <lastBuildDate>2024-04-09T12:46:15+03:00</lastBuildDate>
+        <pubDate>2024-04-09T13:30:36+03:00</pubDate>
+        <lastBuildDate>2024-04-09T13:30:36+03:00</lastBuildDate>
 
         <item>
+	<title>Wazirabad Travel Guide (Punjab/Pakistan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/wazirabad/</link>
+	<description>Discover the best things to do, see and eat in Wazirabad, Pakistan. From cultural attractions and outdoor adventures to local food and accommodations, this travel guide has it all.</description>
+	<pubDate>2024-04-09T13:30:36+03:00</pubDate>
+</item><item>
 	<title>Gävleborg County Travel Guide (Norrland/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/gavleborg-county/</link>
 	<description>Discover the hidden gems of Gävleborg County in Northern Sweden, including cultural attractions, natural wonders, hiking routes, food scene, accommodations, local customs, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/southeast-iowa/fairfield/</link>
 	<description>Read this comprehensive travel guide to the city of Fairfield located in Southeast Iowa. Find out where to stay, what to do, where to eat, and more.</description>
 	<pubDate>2024-04-09T08:47:35+03:00</pubDate>
-</item><item>
-	<title>Rhinebeck Travel Guide (Dutchess County/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/dutchess-county/rhinebeck/</link>
-	<description>Rhinebeck is a charming town located in Dutchess County, in the Mid-Hudson and Catskills regions of New York, offering a variety of historical, natural, and cultural attractions for visitors. This guide provides tips on what to do, where to go, and where to stay in Rhinebeck, making it an ideal destination for your next trip.</description>
-	<pubDate>2024-04-09T08:20:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
