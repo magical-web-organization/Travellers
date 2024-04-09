@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-09T19:13:57+03:00</pubDate>
-        <lastBuildDate>2024-04-09T19:13:57+03:00</lastBuildDate>
+        <pubDate>2024-04-09T20:01:27+03:00</pubDate>
+        <lastBuildDate>2024-04-09T20:01:27+03:00</lastBuildDate>
 
         <item>
+	<title>Thaba Bosiu Travel Guide (Lesotho/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/lesotho/thaba-bosiu/</link>
+	<description>Discover the best places to visit, things to do, where to stay and eat, and local culture and customs of Thaba Bosiu, Lesotho in this comprehensive travel guide.</description>
+	<pubDate>2024-04-09T20:01:27+03:00</pubDate>
+</item><item>
 	<title>Nonsan Travel Guide (South Chungcheong/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/nonsan/</link>
 	<description>Explore the culturally rich city of Nonsan with this comprehensive tour guide. Discover the best things to do, see, eat, and stay in Nonsan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/central-ostrobothnia/</link>
 	<description>Explore the culturally and naturally rich Central Ostrobothnia region in Finland. Discover the best places to visit, things to do, local food, and customs, and plan your trip smart.</description>
 	<pubDate>2024-04-09T15:32:19+03:00</pubDate>
-</item><item>
-	<title>Campo Maior Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/campo-maior/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Campo Maior, Portugal. Explore this hidden gem in Alentejo with our week-long itinerary, hiking/biking routes, and cultural insights.</description>
-	<pubDate>2024-04-09T14:48:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
