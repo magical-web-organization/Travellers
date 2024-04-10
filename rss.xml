@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T13:09:45+03:00</pubDate>
-        <lastBuildDate>2024-04-10T13:09:45+03:00</lastBuildDate>
+        <pubDate>2024-04-10T13:56:17+03:00</pubDate>
+        <lastBuildDate>2024-04-10T13:56:17+03:00</lastBuildDate>
 
         <item>
+	<title>Terni Travel Guide (Umbria/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/umbria/terni/</link>
+	<description>Read this ultimate travel guide to Terni, a hidden gem in Umbria, Italy. Discover the top places to visit, activities, food and drink, where to stay, and much more.</description>
+	<pubDate>2024-04-10T13:56:17+03:00</pubDate>
+</item><item>
 	<title>Calanques National Park Travel Guide (Bouches-du-Rhône/Provence-Alpes-Côte d'Azur/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/bouches-du-rhone/calanques-national-park/</link>
 	<description>Discover the breathtaking scenery of Calanques National Park with this comprehensive travel guide. Find out everything you need to know about the culturally important attractions, natural wonders, hiking/biking routes, and local cuisine. Learn about the customs of the locals, safety concerns, logistics, and nearby destinations to explore for an unforgettable adventure.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/guinea-bissau/bafata/</link>
 	<description>Discover the best places to visit, things to do, local culture, and travel tips for Bafatá in West Africa, in Africa.</description>
 	<pubDate>2024-04-10T09:08:17+03:00</pubDate>
-</item><item>
-	<title>Norton Travel Guide (Akron Metropolitan Area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/akron-metropolitan-area/norton/</link>
-	<description>Discover the best things to do, places to visit, and local culture and customs in Norton, Ohio. Plan your travel itinerary with this comprehensive guide.</description>
-	<pubDate>2024-04-10T08:51:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
