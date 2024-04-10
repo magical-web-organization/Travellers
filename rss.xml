@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T13:56:17+03:00</pubDate>
-        <lastBuildDate>2024-04-10T13:56:17+03:00</lastBuildDate>
+        <pubDate>2024-04-10T14:07:50+03:00</pubDate>
+        <lastBuildDate>2024-04-10T14:07:50+03:00</lastBuildDate>
 
         <item>
+	<title>Brunswick Travel Guide (Frederick County/Capital Region/Maryland/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/frederick-county/brunswick/</link>
+	<description>Explore Brunswick, Maryland with this informative travel guide. Discover the best places to visit, eat, and stay, and learn about local customs and tips for a safe and enjoyable trip.</description>
+	<pubDate>2024-04-10T14:07:50+03:00</pubDate>
+</item><item>
 	<title>Terni Travel Guide (Umbria/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/umbria/terni/</link>
 	<description>Read this ultimate travel guide to Terni, a hidden gem in Umbria, Italy. Discover the top places to visit, activities, food and drink, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/kemijarvi/</link>
 	<description>Want to explore the beauty of Finnish Lapland? Read our comprehensive travel guide to Kemijärvi, and discover amazing places to visit, things to do, where to stay, and how to get around in this magical destination.</description>
 	<pubDate>2024-04-10T09:58:57+03:00</pubDate>
-</item><item>
-	<title>Bafatá Travel Guide (Guinea-Bissau/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/guinea-bissau/bafata/</link>
-	<description>Discover the best places to visit, things to do, local culture, and travel tips for Bafatá in West Africa, in Africa.</description>
-	<pubDate>2024-04-10T09:08:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
