@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T06:12:59+03:00</pubDate>
-        <lastBuildDate>2024-04-10T06:12:59+03:00</lastBuildDate>
+        <pubDate>2024-04-10T06:54:40+03:00</pubDate>
+        <lastBuildDate>2024-04-10T06:54:40+03:00</lastBuildDate>
 
         <item>
+	<title>Ebino Travel Guide (Miyazaki (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/miyazaki-prefecture/ebino/</link>
+	<description>Discover stunning natural attractions, cultural landmarks, and gastronomic treats in Ebino, Miyazaki, with our comprehensive travel guide.</description>
+	<pubDate>2024-04-10T06:54:40+03:00</pubDate>
+</item><item>
 	<title>Guaratinguetá Travel Guide (North Coast (São Paulo)/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/guaratingueta/</link>
 	<description>Discover a hidden gem in Brazil with our complete guide to Guaratinguetá, featuring top attractions, local cuisine, accommodations, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/chamarajanagar-district/gundlupet/</link>
 	<description>Plan your trip to Gundlupet with this comprehensive travel guide featuring natural and cultural attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-04-10T02:11:24+03:00</pubDate>
-</item><item>
-	<title>Chaves Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/chaves/</link>
-	<description>Discover the best things to do in Chaves, a historic town in Northern Portugal. From sightseeing to outdoor adventures, find out how to make the most of your visit.</description>
-	<pubDate>2024-04-10T01:55:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
