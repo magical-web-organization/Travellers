@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T14:45:39+03:00</pubDate>
-        <lastBuildDate>2024-04-10T14:45:39+03:00</lastBuildDate>
+        <pubDate>2024-04-10T15:04:35+03:00</pubDate>
+        <lastBuildDate>2024-04-10T15:04:35+03:00</lastBuildDate>
 
         <item>
+	<title>Topeka Travel Guide (Eastern Kansas/Kansas/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/eastern-kansas/topeka/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Topeka, Kansas with our travel guide. Explore the city's attractions, cuisine, culture, and more.</description>
+	<pubDate>2024-04-10T15:04:35+03:00</pubDate>
+</item><item>
 	<title>Koringberg Travel Guide (Swartland/West Coast/Western Cape/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/west-coast/swartland/koringberg/</link>
 	<description>Discover the best places to visit, things to do, where to stay, eat, and shop in Koringberg, a charming town located in the heart of Swartland, Western Cape, South Africa.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-west-coast/big-bend-coast/brooksville/</link>
 	<description>Discover the best attractions, activities, and local culture in Brooksville, Florida with our in-depth travel guide. Plan your trip with our recommendations on where to stay, what to eat, and how to get around.</description>
 	<pubDate>2024-04-10T10:37:46+03:00</pubDate>
-</item><item>
-	<title>Coevorden Travel Guide (Drenthe/Northern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/drenthe/coevorden/</link>
-	<description>Discover the best places to visit in Coevorden, Netherlands and get insider tips on the top cultural attractions, natural wonders, outdoor adventures, biking routes, activities, tours, must-try dishes, local beverages, where to stay, what to buy, local culture and customs, best time to go, safety and health, transportation options, and nearby destinations to explore.</description>
-	<pubDate>2024-04-10T10:23:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
