@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T04:08:38+03:00</pubDate>
-        <lastBuildDate>2024-04-10T04:08:38+03:00</lastBuildDate>
+        <pubDate>2024-04-10T05:01:19+03:00</pubDate>
+        <lastBuildDate>2024-04-10T05:01:19+03:00</lastBuildDate>
 
         <item>
+	<title>Hopelchén Travel Guide (Campeche (state)/Yucatán and the South/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/campeche-state/hopelchen/</link>
+	<description>Planning a trip to Hopelchén? Discover the best places to visit, things to do, food to try, and more. Read our comprehensive travel guide now!</description>
+	<pubDate>2024-04-10T05:01:19+03:00</pubDate>
+</item><item>
 	<title>Weehawken Travel Guide (Hudson County/Gateway/New Jersey/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/gateway/hudson-county/weehawken/</link>
 	<description>Planning to visit Weehawken? Read our comprehensive travel guide with a list of places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/tripura/matabari/</link>
 	<description>Discover the rich culture and natural wonders of Matabari with this comprehensive travel guide. From historical sites and scenic views to delicious food and where to stay, plan your perfect trip to this hidden gem in North-Eastern India.</description>
 	<pubDate>2024-04-10T00:24:02+03:00</pubDate>
-</item><item>
-	<title>El Remate Travel Guide (Northern Lowlands/Guatemala/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/guatemala/northern-lowlands/el-remate/</link>
-	<description>Get an in-depth guide to El Remate, including top attractions, where to stay, best time to visit, local culture, safety, and transport options.</description>
-	<pubDate>2024-04-09T23:38:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
