@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T19:29:11+03:00</pubDate>
-        <lastBuildDate>2024-04-10T19:29:11+03:00</lastBuildDate>
+        <pubDate>2024-04-10T19:37:57+03:00</pubDate>
+        <lastBuildDate>2024-04-10T19:37:57+03:00</lastBuildDate>
 
         <item>
+	<title>La Tremblade Travel Guide (Charente-Maritime/Nouvelle-Aquitaine/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/charente-maritime/la-tremblade/</link>
+	<description>Discover the best of La Tremblade in Charente-Maritime, France, from cultural and natural attractions to hiking and biking routes. Learn about local cuisine, accommodation options, transportation, and safety tips.</description>
+	<pubDate>2024-04-10T19:37:57+03:00</pubDate>
+</item><item>
 	<title>Oia Travel Guide (Santorini/Cyclades/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/santorini/oia/</link>
 	<description>Plan your trip to Oia, Santorini with this comprehensive guide featuring must-see attractions, outdoor adventures, food and drink scene, cultural customs, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/eastern-kansas/topeka/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Topeka, Kansas with our travel guide. Explore the city's attractions, cuisine, culture, and more.</description>
 	<pubDate>2024-04-10T15:04:35+03:00</pubDate>
-</item><item>
-	<title>Koringberg Travel Guide (Swartland/West Coast/Western Cape/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/west-coast/swartland/koringberg/</link>
-	<description>Discover the best places to visit, things to do, where to stay, eat, and shop in Koringberg, a charming town located in the heart of Swartland, Western Cape, South Africa.</description>
-	<pubDate>2024-04-10T14:45:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
