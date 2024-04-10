@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T02:04:06+03:00</pubDate>
-        <lastBuildDate>2024-04-11T02:04:06+03:00</lastBuildDate>
+        <pubDate>2024-04-11T02:41:08+03:00</pubDate>
+        <lastBuildDate>2024-04-11T02:41:08+03:00</lastBuildDate>
 
         <item>
+	<title>Paducah Travel Guide (Western Waterlands/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-waterlands/paducah/</link>
+	<description>Traveller's Wiki is a comprehensive online resource for travel enthusiasts seeking information on destinations, accommodations, activities, transportation, and more. The wiki is user-generated and provides a platform for travelers to share their experiences, recommendations, and tips with others. The site is constantly updated to ensure that the information is current and accurate, making it a valuable tool for anyone planning a trip.</description>
+	<pubDate>2024-04-11T02:41:08+03:00</pubDate>
+</item><item>
 	<title>Bronzeville Travel Guide (Chicago/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/chicago/bronzeville/</link>
 	<description>Plan your visit to Bronzeville with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more. Read now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/southern-tier/allegany-county-new-york/</link>
 	<description>Plan a trip to Allegany County (New York) with this comprehensive travel guide featuring top attractions, hiking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-04-10T22:06:38+03:00</pubDate>
-</item><item>
-	<title>Chehalis Travel Guide (Southwest Washington/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/chehalis/</link>
-	<description>Discover the rich history, natural beauty, and local culture of Chehalis, Washington with this comprehensive travel guide featuring a week-long itinerary and tips for transportation and accommodations.</description>
-	<pubDate>2024-04-10T22:01:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
