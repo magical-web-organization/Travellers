@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T09:58:57+03:00</pubDate>
-        <lastBuildDate>2024-04-10T09:58:57+03:00</lastBuildDate>
+        <pubDate>2024-04-10T10:23:16+03:00</pubDate>
+        <lastBuildDate>2024-04-10T10:23:16+03:00</lastBuildDate>
 
         <item>
+	<title>Coevorden Travel Guide (Drenthe/Northern Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/drenthe/coevorden/</link>
+	<description>Discover the best places to visit in Coevorden, Netherlands and get insider tips on the top cultural attractions, natural wonders, outdoor adventures, biking routes, activities, tours, must-try dishes, local beverages, where to stay, what to buy, local culture and customs, best time to go, safety and health, transportation options, and nearby destinations to explore.</description>
+	<pubDate>2024-04-10T10:23:16+03:00</pubDate>
+</item><item>
 	<title>Kemijärvi Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/kemijarvi/</link>
 	<description>Want to explore the beauty of Finnish Lapland? Read our comprehensive travel guide to Kemijärvi, and discover amazing places to visit, things to do, where to stay, and how to get around in this magical destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/amstelland/amsterdam/oost/</link>
 	<description>Discover the best places to visit, food and drink scene, hiking and biking routes, local culture and customs, safety, transportation options, and nearby destinations in Oost, Amsterdam.</description>
 	<pubDate>2024-04-10T05:36:06+03:00</pubDate>
-</item><item>
-	<title>Baltimore Travel Guide (County Cork/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/baltimore/</link>
-	<description>Discover the best places to visit, things to do, food and drink scene, and local culture and customs of Baltimore in this comprehensive travel guide.</description>
-	<pubDate>2024-04-10T05:17:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
