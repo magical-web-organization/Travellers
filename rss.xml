@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T12:47:06+03:00</pubDate>
-        <lastBuildDate>2024-04-10T12:47:06+03:00</lastBuildDate>
+        <pubDate>2024-04-10T13:09:45+03:00</pubDate>
+        <lastBuildDate>2024-04-10T13:09:45+03:00</lastBuildDate>
 
         <item>
+	<title>Calanques National Park Travel Guide (Bouches-du-Rhône/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/bouches-du-rhone/calanques-national-park/</link>
+	<description>Discover the breathtaking scenery of Calanques National Park with this comprehensive travel guide. Find out everything you need to know about the culturally important attractions, natural wonders, hiking/biking routes, and local cuisine. Learn about the customs of the locals, safety concerns, logistics, and nearby destinations to explore for an unforgettable adventure.</description>
+	<pubDate>2024-04-10T13:09:45+03:00</pubDate>
+</item><item>
 	<title>Jeffreys Bay Travel Guide (Sunshine Coast/Eastern Cape/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/sunshine-coast/jeffreys-bay/</link>
 	<description>Discover the best attractions, food, and accommodation options in Jeffreys Bay, Eastern Cape, South Africa, with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/akron-metropolitan-area/norton/</link>
 	<description>Discover the best things to do, places to visit, and local culture and customs in Norton, Ohio. Plan your travel itinerary with this comprehensive guide.</description>
 	<pubDate>2024-04-10T08:51:19+03:00</pubDate>
-</item><item>
-	<title>Sterling Travel Guide (Central Utah/Utah/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/central-utah/sterling/</link>
-	<description>Discover the best places to visit, things to do, hiking/biking routes, food and drink scene, where to stay, and more in Sterling, Utah.</description>
-	<pubDate>2024-04-10T08:08:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
