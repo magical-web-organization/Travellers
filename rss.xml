@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T10:23:16+03:00</pubDate>
-        <lastBuildDate>2024-04-10T10:23:16+03:00</lastBuildDate>
+        <pubDate>2024-04-10T10:37:46+03:00</pubDate>
+        <lastBuildDate>2024-04-10T10:37:46+03:00</lastBuildDate>
 
         <item>
+	<title>Brooksville Travel Guide (Big Bend Coast/Florida West Coast/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-west-coast/big-bend-coast/brooksville/</link>
+	<description>Discover the best attractions, activities, and local culture in Brooksville, Florida with our in-depth travel guide. Plan your trip with our recommendations on where to stay, what to eat, and how to get around.</description>
+	<pubDate>2024-04-10T10:37:46+03:00</pubDate>
+</item><item>
 	<title>Coevorden Travel Guide (Drenthe/Northern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/drenthe/coevorden/</link>
 	<description>Discover the best places to visit in Coevorden, Netherlands and get insider tips on the top cultural attractions, natural wonders, outdoor adventures, biking routes, activities, tours, must-try dishes, local beverages, where to stay, what to buy, local culture and customs, best time to go, safety and health, transportation options, and nearby destinations to explore.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/guaratingueta/</link>
 	<description>Discover a hidden gem in Brazil with our complete guide to Guaratinguetá, featuring top attractions, local cuisine, accommodations, and travel tips.</description>
 	<pubDate>2024-04-10T06:12:59+03:00</pubDate>
-</item><item>
-	<title>Oost Travel Guide (Amsterdam/Amstelland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/amstelland/amsterdam/oost/</link>
-	<description>Discover the best places to visit, food and drink scene, hiking and biking routes, local culture and customs, safety, transportation options, and nearby destinations in Oost, Amsterdam.</description>
-	<pubDate>2024-04-10T05:36:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
