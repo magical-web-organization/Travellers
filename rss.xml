@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T01:04:24+03:00</pubDate>
-        <lastBuildDate>2024-04-11T01:04:24+03:00</lastBuildDate>
+        <pubDate>2024-04-11T01:39:25+03:00</pubDate>
+        <lastBuildDate>2024-04-11T01:39:25+03:00</lastBuildDate>
 
         <item>
+	<title>Dumas Travel Guide (Delta/Arkansas/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/delta/dumas/</link>
+	<description>Discover the best places to visit, things to do, where to stay and eat in Dumas, Arkansas. Plan your perfect trip with this comprehensive guide.</description>
+	<pubDate>2024-04-11T01:39:25+03:00</pubDate>
+</item><item>
 	<title>Zenica Travel Guide (Central Bosnia/Bosnia and Herzegovina/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/central-bosnia/zenica/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Zenica, Bosnia and Herzegovina with our complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/colombia/amazonia/san-vicente-del-caguan/</link>
 	<description>Plan your trip to San Vicente del Caguán with this comprehensive travel guide that covers everything from the best things to do, places to visit, where to stay, and more.</description>
 	<pubDate>2024-04-10T21:03:38+03:00</pubDate>
-</item><item>
-	<title>Morecambe Travel Guide (Lancashire/North West England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/lancashire/morecambe/</link>
-	<description>Plan your next vacation to Morecambe, Lancashire with ease using this comprehensive travel guide. From cultural attractions to outdoor adventures, find everything you need to know about Morecambe here.</description>
-	<pubDate>2024-04-10T20:55:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
