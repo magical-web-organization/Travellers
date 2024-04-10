@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T18:04:54+03:00</pubDate>
-        <lastBuildDate>2024-04-10T18:04:54+03:00</lastBuildDate>
+        <pubDate>2024-04-10T18:42:44+03:00</pubDate>
+        <lastBuildDate>2024-04-10T18:42:44+03:00</lastBuildDate>
 
         <item>
+	<title>Charente Travel Guide (Nouvelle-Aquitaine/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/charente/</link>
+	<description>Plan your trip to Charente with this comprehensive travel guide, including top places to visit, things to do, where to stay, local culture, and more.</description>
+	<pubDate>2024-04-10T18:42:44+03:00</pubDate>
+</item><item>
 	<title>Oke Onigbin Travel Guide (North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/oke-onigbin/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Oke Onigbin with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/frederick-county/brunswick/</link>
 	<description>Explore Brunswick, Maryland with this informative travel guide. Discover the best places to visit, eat, and stay, and learn about local customs and tips for a safe and enjoyable trip.</description>
 	<pubDate>2024-04-10T14:07:50+03:00</pubDate>
-</item><item>
-	<title>Terni Travel Guide (Umbria/Central Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/central-italy/umbria/terni/</link>
-	<description>Read this ultimate travel guide to Terni, a hidden gem in Umbria, Italy. Discover the top places to visit, activities, food and drink, where to stay, and much more.</description>
-	<pubDate>2024-04-10T13:56:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
