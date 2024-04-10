@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-10T23:12:41+03:00</pubDate>
-        <lastBuildDate>2024-04-10T23:12:41+03:00</lastBuildDate>
+        <pubDate>2024-04-10T23:43:31+03:00</pubDate>
+        <lastBuildDate>2024-04-10T23:43:31+03:00</lastBuildDate>
 
         <item>
+	<title>Mercia Travel Guide (England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/mercia/</link>
+	<description>Discover the best things to do in Mercia, including where to stay, what to eat, and must-see attractions. Explore Mercia's rich cultural, natural, and historical sites in this comprehensive travel guide.</description>
+	<pubDate>2024-04-10T23:43:31+03:00</pubDate>
+</item><item>
 	<title>Baker Travel Guide (San Bernardino County/Desert/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/san-bernardino-county/baker/</link>
 	<description>Discover the best things to do, places to visit, where to stay, local culture, and more in Baker, California.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/santorini/oia/</link>
 	<description>Plan your trip to Oia, Santorini with this comprehensive guide featuring must-see attractions, outdoor adventures, food and drink scene, cultural customs, safety and health tips, and transportation options.</description>
 	<pubDate>2024-04-10T19:29:11+03:00</pubDate>
-</item><item>
-	<title>Charente Travel Guide (Nouvelle-Aquitaine/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/charente/</link>
-	<description>Plan your trip to Charente with this comprehensive travel guide, including top places to visit, things to do, where to stay, local culture, and more.</description>
-	<pubDate>2024-04-10T18:42:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
