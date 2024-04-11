@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T23:06:09+03:00</pubDate>
-        <lastBuildDate>2024-04-11T23:06:09+03:00</lastBuildDate>
+        <pubDate>2024-04-12T00:00:52+03:00</pubDate>
+        <lastBuildDate>2024-04-12T00:00:52+03:00</lastBuildDate>
 
         <item>
+	<title>Pyhäjärvi Travel Guide (Southern Oulu region/Northern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/southern-oulu-region/pyhajarvi/</link>
+	<description>Discover the beauty and culture of Pyhäjärvi, Finland with our comprehensive travel guide featuring must-visit destinations, activities, food and drink scene, and more.</description>
+	<pubDate>2024-04-12T00:00:52+03:00</pubDate>
+</item><item>
 	<title>Didim Travel Guide (Southern Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/didim/</link>
 	<description>This travel guide for Didim, Turkey includes everything you need to know to explore the city, including the best things to do, places to visit, hiking and biking routes, food and drink scene, where to stay, what to buy, local culture and customs, safety and health, transportation options, nearby destinations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/garden-route/knysna/</link>
 	<description>Explore Knysna, a beautiful town in South Africa's Western Cape region, known for its stunning natural attractions, outdoor adventures, and cultural landmarks with our informative guide.</description>
 	<pubDate>2024-04-11T19:14:18+03:00</pubDate>
-</item><item>
-	<title>Mountlake Terrace Travel Guide (North Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/north-sound/mountlake-terrace/</link>
-	<description>Plan your trip to Mountlake Terrace with this comprehensive travel guide featuring a list of must-see attractions, best activities, food and drink scene, where to stay, and more!</description>
-	<pubDate>2024-04-11T18:36:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
