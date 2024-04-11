@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T05:40:46+03:00</pubDate>
-        <lastBuildDate>2024-04-11T05:40:46+03:00</lastBuildDate>
+        <pubDate>2024-04-11T06:13:31+03:00</pubDate>
+        <lastBuildDate>2024-04-11T06:13:31+03:00</lastBuildDate>
 
         <item>
+	<title>Tuktut Nogait National Park Travel Guide (Northwest Territories/Northern Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/northern-canada/northwest-territories/tuktut-nogait-national-park/</link>
+	<description>A comprehensive tour guide for Tuktut Nogait National Park including places to visit, hiking/biking routes, the best things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-04-11T06:13:31+03:00</pubDate>
+</item><item>
 	<title>Myrtle Point Travel Guide (Southern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/southern-oregon-coast/myrtle-point/</link>
 	<description>Explore the beauty and richness of Myrtle Point with our comprehensive travel guide, which includes must-visit attractions, local culture, safety and health tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/delta/dumas/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat in Dumas, Arkansas. Plan your perfect trip with this comprehensive guide.</description>
 	<pubDate>2024-04-11T01:39:25+03:00</pubDate>
-</item><item>
-	<title>Zenica Travel Guide (Central Bosnia/Bosnia and Herzegovina/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/central-bosnia/zenica/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Zenica, Bosnia and Herzegovina with our complete travel guide.</description>
-	<pubDate>2024-04-11T01:04:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
