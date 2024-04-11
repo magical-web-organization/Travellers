@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T11:36:43+03:00</pubDate>
-        <lastBuildDate>2024-04-11T11:36:43+03:00</lastBuildDate>
+        <pubDate>2024-04-11T12:25:47+03:00</pubDate>
+        <lastBuildDate>2024-04-11T12:25:47+03:00</lastBuildDate>
 
         <item>
+	<title>Swat Travel Guide (Khyber Pakhtunkhwa/Pakistan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/swat/</link>
+	<description>Discover the best things to do in Swat, Pakistan, from visiting museums to outdoor adventures to trying local cuisine. Learn about the culture, customs, and logistics of visiting this beautiful region.</description>
+	<pubDate>2024-04-11T12:25:47+03:00</pubDate>
+</item><item>
 	<title>Sorrento Travel Guide (Metropolitan Naples/Campania/Southern Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/metropolitan-naples/sorrento/</link>
 	<description>Your comprehensive guide to Sorrento, Italy including the best things to do, attractions, where to stay, when to visit, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/woking/</link>
 	<description>Discover the best places to visit, where to stay, and what to eat in Woking. Dive into Surrey's culture, history, and natural beauty in this comprehensive long-form travel guide.</description>
 	<pubDate>2024-04-11T07:17:45+03:00</pubDate>
-</item><item>
-	<title>Orem Travel Guide (Wasatch Range/Utah/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/wasatch-range/orem/</link>
-	<description>Explore the best of Orem with our comprehensive travel guide. From cultural attractions to outdoor adventures, find everything you need to plan your trip.</description>
-	<pubDate>2024-04-11T06:47:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
