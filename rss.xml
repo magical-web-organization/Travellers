@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T22:13:43+03:00</pubDate>
-        <lastBuildDate>2024-04-11T22:13:43+03:00</lastBuildDate>
+        <pubDate>2024-04-11T22:51:48+03:00</pubDate>
+        <lastBuildDate>2024-04-11T22:51:48+03:00</lastBuildDate>
 
         <item>
+	<title>Torrent Travel Guide (Valencia (province)/Valencian Community/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/valencia-province/torrent/</link>
+	<description>Discover the best things to do, where to stay, what to buy, and more in Torrent, Valencia, Spain. Plan your trip with this comprehensive tour guide.</description>
+	<pubDate>2024-04-11T22:51:48+03:00</pubDate>
+</item><item>
 	<title>Clervaux Travel Guide (Éislek/Luxembourg/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/luxembourg/eislek/clervaux/</link>
 	<description>Discover the best things to do, places to visit, and where to eat and stay in Clervaux, Luxembourg. Plan your trip with our comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/grande-porto-alegre/camaqua/</link>
 	<description>Read our comprehensive guide to Camaquã, a hidden gem in Rio Grande do Sul, Brazil. Discover its cultural and natural attractions, food scene, and more!</description>
 	<pubDate>2024-04-11T18:14:30+03:00</pubDate>
-</item><item>
-	<title>Wonju Travel Guide (Gangwon/South Korea/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gangwon/wonju/</link>
-	<description>Plan your trip to Wonju with our comprehensive travel guide, featuring tips on where to stay, what to do, and how to get around this stunning city in South Korea</description>
-	<pubDate>2024-04-11T17:34:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
