@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T17:18:47+03:00</pubDate>
-        <lastBuildDate>2024-04-11T17:18:47+03:00</lastBuildDate>
+        <pubDate>2024-04-11T17:34:40+03:00</pubDate>
+        <lastBuildDate>2024-04-11T17:34:40+03:00</lastBuildDate>
 
         <item>
+	<title>Wonju Travel Guide (Gangwon/South Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gangwon/wonju/</link>
+	<description>Plan your trip to Wonju with our comprehensive travel guide, featuring tips on where to stay, what to do, and how to get around this stunning city in South Korea</description>
+	<pubDate>2024-04-11T17:34:40+03:00</pubDate>
+</item><item>
 	<title>Northeast Pelion Travel Guide (Mount Pelion/Magnesia/Thessaly/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/mount-pelion/northeast-pelion/</link>
 	<description>Discover the best things to do, see, eat, and stay in Northeast Pelion, Greece with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/lakes-region/barnstead/</link>
 	<description>Plan your visit to Barnstead, NH with this comprehensive travel guide featuring top places to visit, outdoor adventures, food and drink scene, where to stay, and more!</description>
 	<pubDate>2024-04-11T13:10:25+03:00</pubDate>
-</item><item>
-	<title>Redondo Beach Travel Guide (South Bay (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/south-bay-los-angeles-county/redondo-beach/</link>
-	<description>A detailed travel guide for Redondo Beach including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety tips, getting there and more.</description>
-	<pubDate>2024-04-11T12:39:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
