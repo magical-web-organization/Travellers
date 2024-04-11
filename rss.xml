@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T04:16:43+03:00</pubDate>
-        <lastBuildDate>2024-04-11T04:16:43+03:00</lastBuildDate>
+        <pubDate>2024-04-11T04:39:59+03:00</pubDate>
+        <lastBuildDate>2024-04-11T04:39:59+03:00</lastBuildDate>
 
         <item>
+	<title>Oldenzaal Travel Guide (Overijssel/Eastern Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/overijssel/oldenzaal/</link>
+	<description>Oldenzaal is a hidden gem in the Eastern Netherlands, boasting rich cultural and natural attractions. Read on to discover the best places to visit, things to do, and where to stay in Oldenzaal.</description>
+	<pubDate>2024-04-11T04:39:59+03:00</pubDate>
+</item><item>
 	<title>Green County Travel Guide (Southwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/green-county/</link>
 	<description>Plan your perfect trip to the picturesque Green County in Wisconsin, USA with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/seaway-region/kingston/</link>
 	<description>Plan your trip to Kingston, Ontario, Canada with our comprehensive travel guide. Discover top things to do, places to stay, local culture and customs, safety and health, and transportation options in Kingston.</description>
 	<pubDate>2024-04-11T00:05:21+03:00</pubDate>
-</item><item>
-	<title>Mercia Travel Guide (England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/mercia/</link>
-	<description>Discover the best things to do in Mercia, including where to stay, what to eat, and must-see attractions. Explore Mercia's rich cultural, natural, and historical sites in this comprehensive travel guide.</description>
-	<pubDate>2024-04-10T23:43:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
