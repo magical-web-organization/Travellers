@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T04:39:59+03:00</pubDate>
-        <lastBuildDate>2024-04-11T04:39:59+03:00</lastBuildDate>
+        <pubDate>2024-04-11T05:25:19+03:00</pubDate>
+        <lastBuildDate>2024-04-11T05:25:19+03:00</lastBuildDate>
 
         <item>
+	<title>Deo Travel Guide (Magadha/Bihar/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/deo/</link>
+	<description>Discover the top things to do, see, and eat in Deo, Bihar. Explore this hidden gem of India with our comprehensive travel guide, including hiking routes, cultural attractions, and more.</description>
+	<pubDate>2024-04-11T05:25:19+03:00</pubDate>
+</item><item>
 	<title>Oldenzaal Travel Guide (Overijssel/Eastern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/overijssel/oldenzaal/</link>
 	<description>Oldenzaal is a hidden gem in the Eastern Netherlands, boasting rich cultural and natural attractions. Read on to discover the best places to visit, things to do, and where to stay in Oldenzaal.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/east-frisia/east-frisian-islands/</link>
 	<description>Discover the hidden treasures of East Frisian Islands with our travel guide featuring top natural and cultural attractions, hiking and biking routes, food and drink options, safety tips, and logistics.</description>
 	<pubDate>2024-04-11T00:57:26+03:00</pubDate>
-</item><item>
-	<title>Kingston Travel Guide (Seaway Region/Eastern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/seaway-region/kingston/</link>
-	<description>Plan your trip to Kingston, Ontario, Canada with our comprehensive travel guide. Discover top things to do, places to stay, local culture and customs, safety and health, and transportation options in Kingston.</description>
-	<pubDate>2024-04-11T00:05:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
