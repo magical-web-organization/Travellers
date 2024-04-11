@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T08:57:49+03:00</pubDate>
-        <lastBuildDate>2024-04-11T08:57:49+03:00</lastBuildDate>
+        <pubDate>2024-04-11T09:19:28+03:00</pubDate>
+        <lastBuildDate>2024-04-11T09:19:28+03:00</lastBuildDate>
 
         <item>
+	<title>Nunatsiavut Travel Guide (Labrador/Newfoundland and Labrador/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/labrador/nunatsiavut/</link>
+	<description>Explore the culture, attractions, food, and logistics of Nunatsiavut, Labrador, with our comprehensive travel guide for tourists and adventurers.</description>
+	<pubDate>2024-04-11T09:19:28+03:00</pubDate>
+</item><item>
 	<title>Shiojiri Travel Guide (Nagano (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/shiojiri/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, and more in Shiojiri, Nagano in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/green-county/</link>
 	<description>Plan your perfect trip to the picturesque Green County in Wisconsin, USA with our comprehensive travel guide.</description>
 	<pubDate>2024-04-11T04:16:43+03:00</pubDate>
-</item><item>
-	<title>Mt. Lebanon Travel Guide (Allegheny County/Pittsburgh Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/allegheny-county/mt-lebanon/</link>
-	<description>Discover the culturally-rich and breathtakingly beautiful Mt. Lebanon, Pennsylvania with our comprehensive tour guide.</description>
-	<pubDate>2024-04-11T03:43:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
