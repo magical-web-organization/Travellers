@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T20:43:19+03:00</pubDate>
-        <lastBuildDate>2024-04-11T20:43:19+03:00</lastBuildDate>
+        <pubDate>2024-04-11T21:09:18+03:00</pubDate>
+        <lastBuildDate>2024-04-11T21:09:18+03:00</lastBuildDate>
 
         <item>
+	<title>Davos Travel Guide (Graubünden/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/graubunden/davos/</link>
+	<description>Plan your itinerary in Davos, Switzerland with this detailed guide. Discover the top attractions, hiking/biking routes, food and drink scene, where to stay, and tips for safety and health.</description>
+	<pubDate>2024-04-11T21:09:18+03:00</pubDate>
+</item><item>
 	<title>Plumas County Travel Guide (Shasta Cascades/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/plumas-county/</link>
 	<description>Discover the best of Plumas County in California with our comprehensive travel guide. From outdoor adventures to cultural attractions, we'll show you the top things to do, places to stay, and where to eat and drink.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/central-bohemia/melnik/</link>
 	<description>Explore the breathtaking Mělník with our comprehensive tour guide. Discover the best things to do, places to visit, where to stay, and more!</description>
 	<pubDate>2024-04-11T16:37:20+03:00</pubDate>
-</item><item>
-	<title>Eastsound Travel Guide (Orcas/San Juan Islands/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/san-juan-islands/orcas/eastsound/</link>
-	<description>Discover the best places to visit, activities to do, food to try, and tips to know in Eastsound, Washington – an adventure-packed city in the heart of the Pacific Northwest.</description>
-	<pubDate>2024-04-11T16:29:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
