@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T14:22:39+03:00</pubDate>
-        <lastBuildDate>2024-04-11T14:22:39+03:00</lastBuildDate>
+        <pubDate>2024-04-11T14:48:50+03:00</pubDate>
+        <lastBuildDate>2024-04-11T14:48:50+03:00</lastBuildDate>
 
         <item>
+	<title>Chambly Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/chambly/</link>
+	<description>A detailed travel guide highlighting the best places to visit, eat, stay, and explore in Chambly, Quebec.</description>
+	<pubDate>2024-04-11T14:48:50+03:00</pubDate>
+</item><item>
 	<title>Northumberland National Park Travel Guide (Northumberland/North East England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-east-england/northumberland/northumberland-national-park/</link>
 	<description>Plan your perfect trip with this comprehensive tour guide for Northumberland National Park. Explore culturally important sites, natural attractions, hiking and biking routes, local food and drink scene, accommodation options, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/providence-county/providence/federal-hill/</link>
 	<description>Explore the culturally rich, breathtakingly beautiful, and gastronomically delightful Federal Hill with our comprehensive travel guide.</description>
 	<pubDate>2024-04-11T10:24:02+03:00</pubDate>
-</item><item>
-	<title>Caruaru Travel Guide (Agreste/Pernambuco/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/agreste/caruaru/</link>
-	<description>Discover the beautiful city of Caruaru in Pernambuco, Brazil. This comprehensive travel guide covers everything you need to know from attractions, food, accommodations, safety, and transportation.</description>
-	<pubDate>2024-04-11T09:35:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
