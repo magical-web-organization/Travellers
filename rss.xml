@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T12:39:44+03:00</pubDate>
-        <lastBuildDate>2024-04-11T12:39:44+03:00</lastBuildDate>
+        <pubDate>2024-04-11T13:10:25+03:00</pubDate>
+        <lastBuildDate>2024-04-11T13:10:25+03:00</lastBuildDate>
 
         <item>
+	<title>Barnstead Travel Guide (Lakes Region/New Hampshire/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/lakes-region/barnstead/</link>
+	<description>Plan your visit to Barnstead, NH with this comprehensive travel guide featuring top places to visit, outdoor adventures, food and drink scene, where to stay, and more!</description>
+	<pubDate>2024-04-11T13:10:25+03:00</pubDate>
+</item><item>
 	<title>Redondo Beach Travel Guide (South Bay (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/south-bay-los-angeles-county/redondo-beach/</link>
 	<description>A detailed travel guide for Redondo Beach including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety tips, getting there and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/shiojiri/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, and more in Shiojiri, Nagano in this comprehensive travel guide.</description>
 	<pubDate>2024-04-11T08:57:49+03:00</pubDate>
-</item><item>
-	<title>Zhalong National Nature Reserve Travel Guide (Heilongjiang/Northeast China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/zhalong-national-nature-reserve/</link>
-	<description>Plan your trip to Zhalong National Nature Reserve with this comprehensive travel guide, including places to visit, hiking and biking routes, tips for local culture and customs, and more.</description>
-	<pubDate>2024-04-11T07:36:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
