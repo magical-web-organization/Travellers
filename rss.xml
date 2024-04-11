@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-11T16:29:10+03:00</pubDate>
-        <lastBuildDate>2024-04-11T16:29:10+03:00</lastBuildDate>
+        <pubDate>2024-04-11T16:37:20+03:00</pubDate>
+        <lastBuildDate>2024-04-11T16:37:20+03:00</lastBuildDate>
 
         <item>
+	<title>Mělník Travel Guide (Central Bohemia/Czech Republic/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/central-bohemia/melnik/</link>
+	<description>Explore the breathtaking Mělník with our comprehensive tour guide. Discover the best things to do, places to visit, where to stay, and more!</description>
+	<pubDate>2024-04-11T16:37:20+03:00</pubDate>
+</item><item>
 	<title>Eastsound Travel Guide (Orcas/San Juan Islands/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/san-juan-islands/orcas/eastsound/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and tips to know in Eastsound, Washington – an adventure-packed city in the heart of the Pacific Northwest.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/swat/</link>
 	<description>Discover the best things to do in Swat, Pakistan, from visiting museums to outdoor adventures to trying local cuisine. Learn about the culture, customs, and logistics of visiting this beautiful region.</description>
 	<pubDate>2024-04-11T12:25:47+03:00</pubDate>
-</item><item>
-	<title>Sorrento Travel Guide (Metropolitan Naples/Campania/Southern Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/metropolitan-naples/sorrento/</link>
-	<description>Your comprehensive guide to Sorrento, Italy including the best things to do, attractions, where to stay, when to visit, and more.</description>
-	<pubDate>2024-04-11T11:36:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
