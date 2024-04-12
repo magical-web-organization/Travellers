@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T05:56:49+03:00</pubDate>
-        <lastBuildDate>2024-04-12T05:56:49+03:00</lastBuildDate>
+        <pubDate>2024-04-12T06:25:10+03:00</pubDate>
+        <lastBuildDate>2024-04-12T06:25:10+03:00</lastBuildDate>
 
         <item>
+	<title>Seaside Travel Guide (Northern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/northern-oregon-coast/seaside/</link>
+	<description>Explore Seaside, Oregon through its cultural and natural attractions, outdoor adventures, hiking and biking routes, food and drinks, accommodations, local culture, safety and health, and nearby destinations.</description>
+	<pubDate>2024-04-12T06:25:10+03:00</pubDate>
+</item><item>
 	<title>Maquiné Travel Guide (Grande Porto Alegre/Rio Grande do Sul/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/grande-porto-alegre/maquine/</link>
 	<description>Discover the best things to see and do in Maquiné, Brazil with this comprehensive travel guide. From natural attractions and hiking routes to local cuisine and cultural sites, plan your perfect trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/bashkortostan/</link>
 	<description>Discover the best of Bashkortostan with this comprehensive travel guide. Learn about the top attractions, outdoor adventures, cultural experiences, and more.</description>
 	<pubDate>2024-04-12T01:32:25+03:00</pubDate>
-</item><item>
-	<title>Pascagoula Travel Guide (Gulf Coast/Mississippi/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/gulf-coast/pascagoula/</link>
-	<description>Explore the best of Pascagoula with our comprehensive travel guide, featuring top-rated attractions, must-try dishes, recommended hotels, and safety tips.</description>
-	<pubDate>2024-04-12T00:44:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
