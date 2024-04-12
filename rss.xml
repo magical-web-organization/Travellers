@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T16:08:48+03:00</pubDate>
-        <lastBuildDate>2024-04-12T16:08:48+03:00</lastBuildDate>
+        <pubDate>2024-04-12T16:48:41+03:00</pubDate>
+        <lastBuildDate>2024-04-12T16:48:41+03:00</lastBuildDate>
 
         <item>
+	<title>Pleasantville Travel Guide (Atlantic County/Jersey Shore/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/atlantic-county/pleasantville/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Pleasantville, New Jersey with our comprehensive travel guide.</description>
+	<pubDate>2024-04-12T16:48:41+03:00</pubDate>
+</item><item>
 	<title>Cape Elizabeth Travel Guide (Greater Portland/Maine/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/greater-portland/cape-elizabeth/</link>
 	<description>Explore the culturally and naturally rich town of Cape Elizabeth with our travel guide. Read about the best places to visit, things to do, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/hanover-region/hildesheim/</link>
 	<description>Explore the culturally rich city of Hildesheim with this comprehensive travel guide. Discover the best things to see, do, eat, and experience in this hidden gem of Germany.</description>
 	<pubDate>2024-04-12T12:14:37+03:00</pubDate>
-</item><item>
-	<title>Trebinje Travel Guide (Herzegovina/Bosnia and Herzegovina/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/herzegovina/trebinje/</link>
-	<description>Discover the timeless beauty of Trebinje, from its historical landmarks, natural attractions, local culture, and delicious cuisine. This travel guide covers everything you need to know to make the most of your trip to this picturesque town in Bosnia and Herzegovina.</description>
-	<pubDate>2024-04-12T11:53:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
