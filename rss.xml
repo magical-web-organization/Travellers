@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T03:20:39+03:00</pubDate>
-        <lastBuildDate>2024-04-12T03:20:39+03:00</lastBuildDate>
+        <pubDate>2024-04-12T03:45:21+03:00</pubDate>
+        <lastBuildDate>2024-04-12T03:45:21+03:00</lastBuildDate>
 
         <item>
+	<title>Heathcote Travel Guide (Goldfields/Victoria (state)/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/victoria-state/goldfields/heathcote/</link>
+	<description>Explore the best of Heathcote, Victoria with our comprehensive travel guide, covering the list of places to visit, hiking and biking, food and drink scene, local culture, safety measures, transportation options and much more.</description>
+	<pubDate>2024-04-12T03:45:21+03:00</pubDate>
+</item><item>
 	<title>Luxembourg Travel Guide (Wallonia/Belgium/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/luxembourg/</link>
 	<description>Explore the culturally and naturally rich country of Luxembourg with this comprehensive tour guide featuring places to visit, things to do, local culture and customs, safety and health, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/valencia-province/torrent/</link>
 	<description>Discover the best things to do, where to stay, what to buy, and more in Torrent, Valencia, Spain. Plan your trip with this comprehensive tour guide.</description>
 	<pubDate>2024-04-11T22:51:48+03:00</pubDate>
-</item><item>
-	<title>Clervaux Travel Guide (Éislek/Luxembourg/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/luxembourg/eislek/clervaux/</link>
-	<description>Discover the best things to do, places to visit, and where to eat and stay in Clervaux, Luxembourg. Plan your trip with our comprehensive tour guide.</description>
-	<pubDate>2024-04-11T22:13:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
