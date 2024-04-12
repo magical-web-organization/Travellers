@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T07:07:23+03:00</pubDate>
-        <lastBuildDate>2024-04-12T07:07:23+03:00</lastBuildDate>
+        <pubDate>2024-04-12T07:52:00+03:00</pubDate>
+        <lastBuildDate>2024-04-12T07:52:00+03:00</lastBuildDate>
 
         <item>
+	<title>San Gwann Travel Guide (Malta Island/Malta/Europe)</title>
+	<link>https://travellers.wiki/en/europe/malta/malta-island/san-gwann/</link>
+	<description>Discover the top attractions, activities, food scene, and lodging options in San Gwann, Malta with our comprehensive travel guide. Plan your visit now!</description>
+	<pubDate>2024-04-12T07:52:00+03:00</pubDate>
+</item><item>
 	<title>Chikballapur Travel Guide (Southeastern Karnataka/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/southeastern-karnataka/chikballapur/</link>
 	<description>Plan your trip to Chikballapur with our comprehensive travel guide that includes a list of places to visit, hiking/biking routes, food and drink scene, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/luxembourg/</link>
 	<description>Explore the culturally and naturally rich country of Luxembourg with this comprehensive tour guide featuring places to visit, things to do, local culture and customs, safety and health, transportation options, and more.</description>
 	<pubDate>2024-04-12T03:20:39+03:00</pubDate>
-</item><item>
-	<title>Collingwood Travel Guide (Golden Bay/Nelson Bays/South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/nelson-bays/golden-bay/collingwood/</link>
-	<description>Discover the best things to do, see, and eat in Collingwood, New Zealand. Our guide covers all the must-visit attractions, hiking routes, accommodation, and more!</description>
-	<pubDate>2024-04-12T02:28:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
