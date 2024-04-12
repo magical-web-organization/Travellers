@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T06:25:10+03:00</pubDate>
-        <lastBuildDate>2024-04-12T06:25:10+03:00</lastBuildDate>
+        <pubDate>2024-04-12T07:00:06+03:00</pubDate>
+        <lastBuildDate>2024-04-12T07:00:06+03:00</lastBuildDate>
 
         <item>
+	<title>Robinson Township Travel Guide (Allegheny County/Pittsburgh Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/allegheny-county/robinson-township/</link>
+	<description>Your ultimate guide to Robinson Township: things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-12T07:00:06+03:00</pubDate>
+</item><item>
 	<title>Seaside Travel Guide (Northern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/northern-oregon-coast/seaside/</link>
 	<description>Explore Seaside, Oregon through its cultural and natural attractions, outdoor adventures, hiking and biking routes, food and drinks, accommodations, local culture, safety and health, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/washington-d-c/brookland-petworth-takoma/</link>
 	<description>Looking for a comprehensive guide to Brookland-Petworth-Takoma in Washington D.C.? Discover the best places to visit, things to do, where to eat, and more in this travel guide.</description>
 	<pubDate>2024-04-12T01:42:32+03:00</pubDate>
-</item><item>
-	<title>Bashkortostan Travel Guide (Urals/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/bashkortostan/</link>
-	<description>Discover the best of Bashkortostan with this comprehensive travel guide. Learn about the top attractions, outdoor adventures, cultural experiences, and more.</description>
-	<pubDate>2024-04-12T01:32:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
