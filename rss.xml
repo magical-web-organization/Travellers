@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T23:20:47+03:00</pubDate>
-        <lastBuildDate>2024-04-12T23:20:47+03:00</lastBuildDate>
+        <pubDate>2024-04-12T23:45:27+03:00</pubDate>
+        <lastBuildDate>2024-04-12T23:45:27+03:00</lastBuildDate>
 
         <item>
+	<title>Bocholt Travel Guide (Münsterland/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/munsterland/bocholt/</link>
+	<description>Plan your trip to Bocholt, Germany with this comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and how to get around.</description>
+	<pubDate>2024-04-12T23:45:27+03:00</pubDate>
+</item><item>
 	<title>Bradford Travel Guide (Central Vermont/Vermont/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/central-vermont/bradford/</link>
 	<description>Discover the culturally important attractions, natural wonders, outdoor adventures, food and drink scene, accommodations, and more in Bradford, Vermont.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/hautes-alpes/queyras/</link>
 	<description>Discover the hidden beauty and charm of Queyras in Hautes-Alpes with our comprehensive travel guide. From natural wonders to cultural landmarks, hiking and biking routes to local cuisine, we've got everything covered to help plan your next adventure.</description>
 	<pubDate>2024-04-12T19:22:47+03:00</pubDate>
-</item><item>
-	<title>Narrabri Travel Guide (Western New England/New England/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/western-new-england/narrabri/</link>
-	<description>Discover Narrabri, a hidden gem in Western New England, with our comprehensive travel guide. Explore top natural and cultural attractions, hiking and biking routes, food and drink scene, and more.</description>
-	<pubDate>2024-04-12T18:36:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
