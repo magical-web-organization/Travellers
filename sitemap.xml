@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/benelux/belgium/wallonia/luxembourg/</loc>
+        <lastmod>2024-04-12T03:20:39+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/europe/benelux/belgium/wallonia/luxembourg/bouillon/</loc>
+        <lastmod>2024-04-12T03:20:39+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/oceania/new-zealand/south-island/nelson-bays/golden-bay/collingwood/</loc>
         <lastmod>2024-04-12T02:28:59+03:00</lastmod>
     </url>
