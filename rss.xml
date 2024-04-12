@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T21:46:18+03:00</pubDate>
-        <lastBuildDate>2024-04-12T21:46:18+03:00</lastBuildDate>
+        <pubDate>2024-04-12T22:23:05+03:00</pubDate>
+        <lastBuildDate>2024-04-12T22:23:05+03:00</lastBuildDate>
 
         <item>
+	<title>Oregon Caves National Monument Travel Guide (Southern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/southern-oregon/oregon-caves-national-monument/</link>
+	<description>Everything you need to know about visiting the Oregon Caves National Monument, including places to visit, hiking trails, food and drink, where to stay, and more. Plan your trip with this ultimate travel guide.</description>
+	<pubDate>2024-04-12T22:23:05+03:00</pubDate>
+</item><item>
 	<title>Vratsa Travel Guide (North Bulgaria/Bulgaria/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/bulgaria/north-bulgaria/vratsa/</link>
 	<description>Discover the best things to do, places to visit, accommodations, food, and more in Vratsa, Bulgaria in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/north-bay/marin-county/san-rafael/</link>
 	<description>Discover the best places to visit, things to do, food to try, and tips to know in San Rafael, California. Plan your trip now and make the most of your stay!</description>
 	<pubDate>2024-04-12T17:49:58+03:00</pubDate>
-</item><item>
-	<title>Edithburgh Travel Guide (Yorke Peninsula/South Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/south-australia/yorke-peninsula/edithburgh/</link>
-	<description>Plan your trip to Edithburgh, Yorke Peninsula, South Australia with this comprehensive travel guide, including top things to do, where to stay, and more.</description>
-	<pubDate>2024-04-12T17:04:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
