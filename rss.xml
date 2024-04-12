@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T10:43:08+03:00</pubDate>
-        <lastBuildDate>2024-04-12T10:43:08+03:00</lastBuildDate>
+        <pubDate>2024-04-12T11:15:34+03:00</pubDate>
+        <lastBuildDate>2024-04-12T11:15:34+03:00</lastBuildDate>
 
         <item>
+	<title>M'Hamid Travel Guide (Saharan Morocco/Morocco/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/morocco/saharan-morocco/m-hamid/</link>
+	<description>Explore the vibrant culture, stunning natural landscapes, and exciting outdoor adventures of M'Hamid, Morocco with our comprehensive travel guide.</description>
+	<pubDate>2024-04-12T11:15:34+03:00</pubDate>
+</item><item>
 	<title>Mersin Travel Guide (Cilician Plains/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/cilician-plains/mersin/</link>
 	<description>Explore the hidden gems of Mersin, Turkey with our comprehensive travel guide. From outdoor adventures, scenic views, and cultural attractions, discover everything this fascinating city has to offer.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/allegheny-county/robinson-township/</link>
 	<description>Your ultimate guide to Robinson Township: things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-04-12T07:00:06+03:00</pubDate>
-</item><item>
-	<title>Seaside Travel Guide (Northern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/northern-oregon-coast/seaside/</link>
-	<description>Explore Seaside, Oregon through its cultural and natural attractions, outdoor adventures, hiking and biking routes, food and drinks, accommodations, local culture, safety and health, and nearby destinations.</description>
-	<pubDate>2024-04-12T06:25:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
