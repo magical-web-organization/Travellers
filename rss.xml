@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T08:03:36+03:00</pubDate>
-        <lastBuildDate>2024-04-12T08:03:36+03:00</lastBuildDate>
+        <pubDate>2024-04-12T09:01:34+03:00</pubDate>
+        <lastBuildDate>2024-04-12T09:01:34+03:00</lastBuildDate>
 
         <item>
+	<title>Itayanagi Travel Guide (Aomori (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/aomori-prefecture/itayanagi/</link>
+	<description>Discover the best things to do, places to visit, and local culture of Itayanagi, Japan with this comprehensive travel guide.</description>
+	<pubDate>2024-04-12T09:01:34+03:00</pubDate>
+</item><item>
 	<title>Lowestoft Travel Guide (Suffolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/lowestoft/</link>
 	<description>Plan your visit to Lowestoft with this comprehensive tour guide covering places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety and health, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/north-bay/solano-county/fairfield/</link>
 	<description>Discover the best places to visit, food and drink scene, local culture, and safety tips in Fairfield, California. Plan your next trip with our week-long itinerary and transportation options.</description>
 	<pubDate>2024-04-12T04:18:56+03:00</pubDate>
-</item><item>
-	<title>Heathcote Travel Guide (Goldfields/Victoria (state)/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/victoria-state/goldfields/heathcote/</link>
-	<description>Explore the best of Heathcote, Victoria with our comprehensive travel guide, covering the list of places to visit, hiking and biking, food and drink scene, local culture, safety measures, transportation options and much more.</description>
-	<pubDate>2024-04-12T03:45:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
