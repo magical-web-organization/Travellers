@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-12T12:14:37+03:00</pubDate>
-        <lastBuildDate>2024-04-12T12:14:37+03:00</lastBuildDate>
+        <pubDate>2024-04-12T12:33:43+03:00</pubDate>
+        <lastBuildDate>2024-04-12T12:33:43+03:00</lastBuildDate>
 
         <item>
+	<title>Chapala Travel Guide (Jalisco/Pacific Coast/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/jalisco/chapala/</link>
+	<description>Discover the beauty of Chapala, Mexico with this ultimate travel guide. From must-visit attractions to local culture and customs, this guide has got you covered.</description>
+	<pubDate>2024-04-12T12:33:43+03:00</pubDate>
+</item><item>
 	<title>Hildesheim Travel Guide (Hanover Region/Lower Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/hanover-region/hildesheim/</link>
 	<description>Explore the culturally rich city of Hildesheim with this comprehensive travel guide. Discover the best things to see, do, eat, and experience in this hidden gem of Germany.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/lowestoft/</link>
 	<description>Plan your visit to Lowestoft with this comprehensive tour guide covering places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety and health, and nearby destinations.</description>
 	<pubDate>2024-04-12T08:03:36+03:00</pubDate>
-</item><item>
-	<title>San Gwann Travel Guide (Malta Island/Malta/Europe)</title>
-	<link>https://travellers.wiki/en/europe/malta/malta-island/san-gwann/</link>
-	<description>Discover the top attractions, activities, food scene, and lodging options in San Gwann, Malta with our comprehensive travel guide. Plan your visit now!</description>
-	<pubDate>2024-04-12T07:52:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
