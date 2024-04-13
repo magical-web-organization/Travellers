@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T19:21:35+03:00</pubDate>
-        <lastBuildDate>2024-04-13T19:21:35+03:00</lastBuildDate>
+        <pubDate>2024-04-13T19:35:45+03:00</pubDate>
+        <lastBuildDate>2024-04-13T19:35:45+03:00</lastBuildDate>
 
         <item>
+	<title>Curecanti National Recreation Area Travel Guide (Southwestern Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/southwestern-colorado/curecanti-national-recreation-area/</link>
+	<description>Plan your trip to Curecanti National Recreation Area with our comprehensive travel guide. Learn about the best places to visit, outdoor adventures, hiking/biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-04-13T19:35:45+03:00</pubDate>
+</item><item>
 	<title>São João da Pesqueira Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/sao-joao-da-pesqueira/</link>
 	<description>Discover the cultural and natural attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations of São João da Pesqueira in Northern Portugal.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/gelderland/nijmegen/</link>
 	<description>Find out all you need to know about Nijmegen, Netherlands with this comprehensive travel guide, including the best things to do, see, eat, and more.</description>
 	<pubDate>2024-04-13T15:12:12+03:00</pubDate>
-</item><item>
-	<title>Wuwei Travel Guide (Gansu/Northwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/wuwei/</link>
-	<description>Discover the best places to visit, top things to do, where to eat, stay and shop, along with cultural practices and customs in Wuwei, China.</description>
-	<pubDate>2024-04-13T14:38:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
