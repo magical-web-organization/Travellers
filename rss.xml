@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T21:43:49+03:00</pubDate>
-        <lastBuildDate>2024-04-13T21:43:49+03:00</lastBuildDate>
+        <pubDate>2024-04-13T22:06:14+03:00</pubDate>
+        <lastBuildDate>2024-04-13T22:06:14+03:00</lastBuildDate>
 
         <item>
+	<title>Tintern Travel Guide (Monmouthshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/monmouthshire/tintern/</link>
+	<description>Explore the culturally important attractions, natural destinations, hiking routes, food and drink scene, local culture, safety and health, and transportation options in Tintern, Wales.</description>
+	<pubDate>2024-04-13T22:06:14+03:00</pubDate>
+</item><item>
 	<title>Williams Bay Travel Guide (Walworth County/Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/walworth-county/williams-bay/</link>
 	<description>Discover the outdoor adventures, cultural attractions, food and drink scene, where to stay, and more in Williams Bay, Wisconsin.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/denizli/</link>
 	<description>Whether you're interested in history, culture, nature, or just looking for a relaxing vacation spot, Denizli is a city that has something for everyone. This comprehensive guide will help you plan your trip to this beautiful city in Turkey's southern Aegean region.</description>
 	<pubDate>2024-04-13T17:54:46+03:00</pubDate>
-</item><item>
-	<title>Isa Town Travel Guide (Bahrain/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/bahrain/isa-town/</link>
-	<description>Discover the culturally rich and picturesque Isa Town in Bahrain. Explore top attractions, local food and drink, accommodation, transportation options, and more - all in this travel guide.</description>
-	<pubDate>2024-04-13T17:05:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
