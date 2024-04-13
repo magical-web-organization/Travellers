@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T21:21:30+03:00</pubDate>
-        <lastBuildDate>2024-04-13T21:21:30+03:00</lastBuildDate>
+        <pubDate>2024-04-13T21:43:49+03:00</pubDate>
+        <lastBuildDate>2024-04-13T21:43:49+03:00</lastBuildDate>
 
         <item>
+	<title>Williams Bay Travel Guide (Walworth County/Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/walworth-county/williams-bay/</link>
+	<description>Discover the outdoor adventures, cultural attractions, food and drink scene, where to stay, and more in Williams Bay, Wisconsin.</description>
+	<pubDate>2024-04-13T21:43:49+03:00</pubDate>
+</item><item>
 	<title>Ko Phayam Travel Guide (Northern Andaman Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/northern-andaman-coast/ko-phayam/</link>
 	<description>Plan your trip to Ko Phayam, a beautiful island in Southern Thailand with this travel guide. Discover the best things to do, places to stay, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/bahrain/isa-town/</link>
 	<description>Discover the culturally rich and picturesque Isa Town in Bahrain. Explore top attractions, local food and drink, accommodation, transportation options, and more - all in this travel guide.</description>
 	<pubDate>2024-04-13T17:05:28+03:00</pubDate>
-</item><item>
-	<title>San Gil Travel Guide (Eastern Andino/Andino/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/andino/eastern-andino/san-gil/</link>
-	<description>Planning a trip to San Gil, Colombia? Read this comprehensive tour guide to make the most out of your visit, including a list of places to visit, things to do, where to stay and more.</description>
-	<pubDate>2024-04-13T16:44:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
