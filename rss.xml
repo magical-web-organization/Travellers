@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-14T01:05:48+03:00</pubDate>
-        <lastBuildDate>2024-04-14T01:05:48+03:00</lastBuildDate>
+        <pubDate>2024-04-14T01:51:26+03:00</pubDate>
+        <lastBuildDate>2024-04-14T01:51:26+03:00</lastBuildDate>
 
         <item>
+	<title>Playas de Rosarito Travel Guide (Baja California (state)/Baja California/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-state/playas-de-rosarito/</link>
+	<description>Discover everything you need to know about Playas de Rosarito in Baja California, Mexico. From cultural and natural attractions to food, lodging, and transportation, this guide has it all.</description>
+	<pubDate>2024-04-14T01:51:26+03:00</pubDate>
+</item><item>
 	<title>Jaipur Travel Guide (Jaipur Division/Rajasthan/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/rajasthan/jaipur-division/jaipur/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more in Jaipur with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/northern-andaman-coast/ko-phayam/</link>
 	<description>Plan your trip to Ko Phayam, a beautiful island in Southern Thailand with this travel guide. Discover the best things to do, places to stay, local culture, and more.</description>
 	<pubDate>2024-04-13T21:21:30+03:00</pubDate>
-</item><item>
-	<title>Madison Travel Guide (Southern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/madison/</link>
-	<description>Plan your trip to Madison with our comprehensive guide featuring everything from cultural and natural attractions to food and drink scene, transportation options and logistics, safety and health, and nearby destinations and excursions.</description>
-	<pubDate>2024-04-13T20:38:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
