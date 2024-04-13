@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T16:03:26+03:00</pubDate>
-        <lastBuildDate>2024-04-13T16:03:26+03:00</lastBuildDate>
+        <pubDate>2024-04-13T16:05:52+03:00</pubDate>
+        <lastBuildDate>2024-04-13T16:05:52+03:00</lastBuildDate>
 
         <item>
+	<title>Manistique Travel Guide (Upper Peninsula/Michigan/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/manistique/</link>
+	<description>Discover the best of Manistique, home to stunning natural attractions, outdoor adventures, and rich culture and history. Our comprehensive tour guide includes a list of places to visit, must-try dishes, where to stay, and more.</description>
+	<pubDate>2024-04-13T16:05:52+03:00</pubDate>
+</item><item>
 	<title>Muang Khua Travel Guide (Northern Laos/Laos/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/laos/northern-laos/muang-khua/</link>
 	<description>Discover the best things to do, see, and eat in Muang Khua, Northern Laos. Our comprehensive guide will help you plan your trip to this beautiful region in Southeast Asia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/essex/clacton/</link>
 	<description>Explore the wonderful town of Clacton with our comprehensive travel guide that includes a list of places to visit, a week-long itinerary, what to eat, where to stay, and more.</description>
 	<pubDate>2024-04-13T11:34:25+03:00</pubDate>
-</item><item>
-	<title>Gunwi County Travel Guide (North Gyeongsang/South Korea/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-gyeongsang/gunwi-county/</link>
-	<description>Discover the hidden gem of South Korea with our comprehensive Gunwi County travel guide. Explore the county's natural beauty, rich culture, delicious food, and much more. Plan your trip today!</description>
-	<pubDate>2024-04-13T11:12:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
