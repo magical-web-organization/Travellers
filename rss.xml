@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T11:12:53+03:00</pubDate>
-        <lastBuildDate>2024-04-13T11:12:53+03:00</lastBuildDate>
+        <pubDate>2024-04-13T11:34:25+03:00</pubDate>
+        <lastBuildDate>2024-04-13T11:34:25+03:00</lastBuildDate>
 
         <item>
+	<title>Clacton Travel Guide (Essex/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/essex/clacton/</link>
+	<description>Explore the wonderful town of Clacton with our comprehensive travel guide that includes a list of places to visit, a week-long itinerary, what to eat, where to stay, and more.</description>
+	<pubDate>2024-04-13T11:34:25+03:00</pubDate>
+</item><item>
 	<title>Gunwi County Travel Guide (North Gyeongsang/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-gyeongsang/gunwi-county/</link>
 	<description>Discover the hidden gem of South Korea with our comprehensive Gunwi County travel guide. Explore the county's natural beauty, rich culture, delicious food, and much more. Plan your trip today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/mid-north-coast/urunga/</link>
 	<description>Explore the breathtaking beauty of Urunga, from natural attractions and outdoor adventures to culturally important museums and historical places. Discover unforgettable experiences, mouth-watering cuisine, and where to stay in Urunga.</description>
 	<pubDate>2024-04-13T07:04:20+03:00</pubDate>
-</item><item>
-	<title>Pian Camuno Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/pian-camuno/</link>
-	<description>Looking for an adventure in Lombardy, Italy? Check out our comprehensive travel guide to Pian Camuno for insider tips, must-see sights, and local cuisine recommendations.</description>
-	<pubDate>2024-04-13T06:55:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
