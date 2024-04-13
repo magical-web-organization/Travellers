@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T19:35:45+03:00</pubDate>
-        <lastBuildDate>2024-04-13T19:35:45+03:00</lastBuildDate>
+        <pubDate>2024-04-13T20:04:32+03:00</pubDate>
+        <lastBuildDate>2024-04-13T20:04:32+03:00</lastBuildDate>
 
         <item>
+	<title>North Central Plains Travel Guide (Texas Panhandle/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/north-central-plains/</link>
+	<description>Plan your next adventure with our comprehensive travel guide to North Central Plains in Texas Panhandle. Discover the cultural and natural attractions, hiking and biking routes, must-try dishes, local culture and customs, safety and health, transportation options, nearby destinations, and more.</description>
+	<pubDate>2024-04-13T20:04:32+03:00</pubDate>
+</item><item>
 	<title>Curecanti National Recreation Area Travel Guide (Southwestern Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/southwestern-colorado/curecanti-national-recreation-area/</link>
 	<description>Plan your trip to Curecanti National Recreation Area with our comprehensive travel guide. Learn about the best places to visit, outdoor adventures, hiking/biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/laos/northern-laos/muang-khua/</link>
 	<description>Discover the best things to do, see, and eat in Muang Khua, Northern Laos. Our comprehensive guide will help you plan your trip to this beautiful region in Southeast Asia.</description>
 	<pubDate>2024-04-13T16:03:26+03:00</pubDate>
-</item><item>
-	<title>Nijmegen Travel Guide (Gelderland/Eastern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/gelderland/nijmegen/</link>
-	<description>Find out all you need to know about Nijmegen, Netherlands with this comprehensive travel guide, including the best things to do, see, eat, and more.</description>
-	<pubDate>2024-04-13T15:12:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
