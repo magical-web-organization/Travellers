@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T18:45:18+03:00</pubDate>
-        <lastBuildDate>2024-04-13T18:45:18+03:00</lastBuildDate>
+        <pubDate>2024-04-13T19:21:35+03:00</pubDate>
+        <lastBuildDate>2024-04-13T19:21:35+03:00</lastBuildDate>
 
         <item>
+	<title>São João da Pesqueira Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/sao-joao-da-pesqueira/</link>
+	<description>Discover the cultural and natural attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations of São João da Pesqueira in Northern Portugal.</description>
+	<pubDate>2024-04-13T19:21:35+03:00</pubDate>
+</item><item>
 	<title>Tumkur Travel Guide (Tumkur (district)/Central Karnataka/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/central-karnataka/tumkur-district/tumkur/</link>
 	<description>Plan your trip to Tumkur with our comprehensive travel guide, including a list of places to visit, food and drink options, cultural customs, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/wuwei/</link>
 	<description>Discover the best places to visit, top things to do, where to eat, stay and shop, along with cultural practices and customs in Wuwei, China.</description>
 	<pubDate>2024-04-13T14:38:23+03:00</pubDate>
-</item><item>
-	<title>Lugo Travel Guide (Galicia/Green Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/galicia/lugo/</link>
-	<description>Discover the cultural and natural attractions, food and drink scene, hiking/biking routes, accommodation options, local culture and customs, safety and health, transportation options and logistics, and nearby destinations of Lugo, Galicia.</description>
-	<pubDate>2024-04-13T14:15:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
