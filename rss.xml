@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T05:17:06+03:00</pubDate>
-        <lastBuildDate>2024-04-13T05:17:06+03:00</lastBuildDate>
+        <pubDate>2024-04-13T05:42:04+03:00</pubDate>
+        <lastBuildDate>2024-04-13T05:42:04+03:00</lastBuildDate>
 
         <item>
+	<title>Port Adelaide, Enfield, Prospect and Outer Harbor Travel Guide (Adelaide/Adelaide Region/South Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/south-australia/adelaide-region/adelaide/port-adelaide-enfield-prospect-and-outer-harbor/</link>
+	<description>Discover the best attractions, outdoor adventures, local culture and customs, transportation options, and more in Port Adelaide, Enfield, Prospect and Outer Harbor.</description>
+	<pubDate>2024-04-13T05:42:04+03:00</pubDate>
+</item><item>
 	<title>Lead Travel Guide (Badlands and Black Hills/South Dakota/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/south-dakota/badlands-and-black-hills/lead/</link>
 	<description>A comprehensive travel guide to Lead, South Dakota, covering attractions, activities, accommodations, food, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/hebei/zhengding-county/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture and customs, and transportation options in Zhengding County, China.</description>
 	<pubDate>2024-04-13T01:06:38+03:00</pubDate>
-</item><item>
-	<title>Tabaco Travel Guide (Albay/Bicol/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/bicol/albay/tabaco/</link>
-	<description>Discover Tabaco, the gateway to the picturesque landscapes of Albay, Philippines, and immerse yourself in the rich cultural and natural treasures of this pristine travel destination. From hiking and biking routes to must-see historical museums, this comprehensive guide has everything you need to plan your trip.</description>
-	<pubDate>2024-04-13T00:46:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
