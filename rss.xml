@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T06:55:05+03:00</pubDate>
-        <lastBuildDate>2024-04-13T06:55:05+03:00</lastBuildDate>
+        <pubDate>2024-04-13T07:04:20+03:00</pubDate>
+        <lastBuildDate>2024-04-13T07:04:20+03:00</lastBuildDate>
 
         <item>
+	<title>Urunga Travel Guide (Mid-North Coast/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/mid-north-coast/urunga/</link>
+	<description>Explore the breathtaking beauty of Urunga, from natural attractions and outdoor adventures to culturally important museums and historical places. Discover unforgettable experiences, mouth-watering cuisine, and where to stay in Urunga.</description>
+	<pubDate>2024-04-13T07:04:20+03:00</pubDate>
+</item><item>
 	<title>Pian Camuno Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/pian-camuno/</link>
 	<description>Looking for an adventure in Lombardy, Italy? Check out our comprehensive travel guide to Pian Camuno for insider tips, must-see sights, and local cuisine recommendations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/salamanca/</link>
 	<description>Discover the best places to visit, hike and bike, things to do, where to stay, and what to eat in Salamanca. Learn about its culture, customs, and the best time to visit. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-04-13T02:35:30+03:00</pubDate>
-</item><item>
-	<title>Sarahan Travel Guide (Southern Himachal Pradesh/Himachal Pradesh/Himalayan North/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/southern-himachal-pradesh/sarahan/</link>
-	<description>Explore the stunning beauty of Sarahan through this comprehensive travel guide. Discover the best places to visit, hiking and biking trails, local culture, must-try food and beverages, and more!</description>
-	<pubDate>2024-04-13T02:21:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
