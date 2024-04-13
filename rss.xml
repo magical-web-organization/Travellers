@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T16:05:52+03:00</pubDate>
-        <lastBuildDate>2024-04-13T16:05:52+03:00</lastBuildDate>
+        <pubDate>2024-04-13T16:44:32+03:00</pubDate>
+        <lastBuildDate>2024-04-13T16:44:32+03:00</lastBuildDate>
 
         <item>
+	<title>San Gil Travel Guide (Eastern Andino/Andino/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/andino/eastern-andino/san-gil/</link>
+	<description>Planning a trip to San Gil, Colombia? Read this comprehensive tour guide to make the most out of your visit, including a list of places to visit, things to do, where to stay and more.</description>
+	<pubDate>2024-04-13T16:44:32+03:00</pubDate>
+</item><item>
 	<title>Manistique Travel Guide (Upper Peninsula/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/manistique/</link>
 	<description>Discover the best of Manistique, home to stunning natural attractions, outdoor adventures, and rich culture and history. Our comprehensive tour guide includes a list of places to visit, must-try dishes, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/central-missouri/warsaw/</link>
 	<description>Explore the best of Warsaw, Missouri with our ultimate travel guide featuring top attractions, hiking and biking routes, must-try foods, and useful travel tips.</description>
 	<pubDate>2024-04-13T12:22:18+03:00</pubDate>
-</item><item>
-	<title>Clacton Travel Guide (Essex/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/essex/clacton/</link>
-	<description>Explore the wonderful town of Clacton with our comprehensive travel guide that includes a list of places to visit, a week-long itinerary, what to eat, where to stay, and more.</description>
-	<pubDate>2024-04-13T11:34:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
