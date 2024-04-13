@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-13T06:06:01+03:00</pubDate>
-        <lastBuildDate>2024-04-13T06:06:01+03:00</lastBuildDate>
+        <pubDate>2024-04-13T06:55:05+03:00</pubDate>
+        <lastBuildDate>2024-04-13T06:55:05+03:00</lastBuildDate>
 
         <item>
+	<title>Pian Camuno Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/pian-camuno/</link>
+	<description>Looking for an adventure in Lombardy, Italy? Check out our comprehensive travel guide to Pian Camuno for insider tips, must-see sights, and local cuisine recommendations.</description>
+	<pubDate>2024-04-13T06:55:05+03:00</pubDate>
+</item><item>
 	<title>Bugnara Travel Guide (L'Aquila (province)/Abruzzo/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/l-aquila-province/bugnara/</link>
 	<description>Discover the cultural and natural attractions of Bugnara, Italy with this comprehensive travel guide. Explore outdoor adventures, food and drink, accommodation, transportation, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/southern-himachal-pradesh/sarahan/</link>
 	<description>Explore the stunning beauty of Sarahan through this comprehensive travel guide. Discover the best places to visit, hiking and biking trails, local culture, must-try food and beverages, and more!</description>
 	<pubDate>2024-04-13T02:21:40+03:00</pubDate>
-</item><item>
-	<title>West End Travel Guide (Richmond/Central Virginia/Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/central-virginia/richmond/west-end/</link>
-	<description>Discover the best places to visit, eat, stay, and explore in West End, Virginia with this comprehensive travel guide.</description>
-	<pubDate>2024-04-13T01:45:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
