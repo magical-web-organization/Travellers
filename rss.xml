@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-14T10:16:44+03:00</pubDate>
-        <lastBuildDate>2024-04-14T10:16:44+03:00</lastBuildDate>
+        <pubDate>2024-04-14T10:49:47+03:00</pubDate>
+        <lastBuildDate>2024-04-14T10:49:47+03:00</lastBuildDate>
 
         <item>
+	<title>Concord Travel Guide (Merrimack Valley/New Hampshire/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/merrimack-valley/concord/</link>
+	<description>Discover the history and culture of Concord, New Hampshire with our comprehensive travel guide. Explore the best places to visit, eat, stay, and make the most of your trip to this charming city.</description>
+	<pubDate>2024-04-14T10:49:47+03:00</pubDate>
+</item><item>
 	<title>Sabaragamuwa Travel Guide (Sri Lanka/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/sabaragamuwa/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Sabaragamuwa, Sri Lanka with our comprehensive travel guide. Plan your next adventure today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/west/ozona/</link>
 	<description>Discover the wonders of Ozona, Texas with this comprehensive travel guide featuring the best places to visit, things to do, where to stay, and so much more.</description>
 	<pubDate>2024-04-14T06:17:23+03:00</pubDate>
-</item><item>
-	<title>Cedar Park Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/cedar-park/</link>
-	<description>Discover the best places to visit, food and drink scene, hiking and biking routes, and local customs of Cedar Park in this comprehensive travel guide.</description>
-	<pubDate>2024-04-14T05:50:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
