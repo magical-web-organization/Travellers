@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-14T19:55:24+03:00</pubDate>
-        <lastBuildDate>2024-04-14T19:55:24+03:00</lastBuildDate>
+        <pubDate>2024-04-14T20:33:22+03:00</pubDate>
+        <lastBuildDate>2024-04-14T20:33:22+03:00</lastBuildDate>
 
         <item>
+	<title>Russell Cave National Monument Travel Guide (Mountains/Alabama/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/russell-cave-national-monument/</link>
+	<description>Plan your trip to Russell Cave National Monument with this comprehensive travel guide that includes everything you need to know about attractions, activities, accommodation, food, transportation, and more.</description>
+	<pubDate>2024-04-14T20:33:22+03:00</pubDate>
+</item><item>
 	<title>Erving Travel Guide (Pioneer Valley/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/erving/</link>
 	<description>Discover the best places to visit and things to do in Erving, MA. From cultural attractions to outdoor adventures, this guide has it all.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/riverside-county/riverside/</link>
 	<description>Plan your perfect trip to Riverside with this comprehensive travel guide including top attractions, hiking routes, must-try dishes, lodging options, and more.</description>
 	<pubDate>2024-04-14T15:47:29+03:00</pubDate>
-</item><item>
-	<title>Sri Antu Travel Guide (Eastern Tarai/Nepal/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/nepal/eastern-tarai/sri-antu/</link>
-	<description>Discover top attractions, hiking routes, best things to do, food and drink scenes, where to stay and local culture of Sri Antu. Read more for a complete travel guide.</description>
-	<pubDate>2024-04-14T15:25:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
