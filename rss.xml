@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-14T03:18:09+03:00</pubDate>
-        <lastBuildDate>2024-04-14T03:18:09+03:00</lastBuildDate>
+        <pubDate>2024-04-14T04:01:30+03:00</pubDate>
+        <lastBuildDate>2024-04-14T04:01:30+03:00</lastBuildDate>
 
         <item>
+	<title>Vanadzor Travel Guide (Northern Armenia/Armenia/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/armenia/northern-armenia/vanadzor/</link>
+	<description>Explore the culturally important attractions, natural wonders, and more with our in-depth travel guide to Vanadzor, Armenia.</description>
+	<pubDate>2024-04-14T04:01:30+03:00</pubDate>
+</item><item>
 	<title>Karshi Travel Guide (Abuja/Federal Capital Territory/North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/federal-capital-territory/abuja/karshi/</link>
 	<description>Discover the best places to visit, things to do, and travel tips for Karshi in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/greater-portland/casco-bay/long-island/</link>
 	<description>Discover the best places to visit, cuisines, accommodations, local culture, safety tips and transportation options to Long Island, Maine, USA.</description>
 	<pubDate>2024-04-13T23:21:12+03:00</pubDate>
-</item><item>
-	<title>Clifton Travel Guide (Blackland Prairie/Prairies and Lakes/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/blackland-prairie/clifton/</link>
-	<description>Discover the best places to visit, the best things to do, and the best food and drink options in Clifton, Texas with our comprehensive travel guide.</description>
-	<pubDate>2024-04-13T22:50:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
