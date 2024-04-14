@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-14T09:21:15+03:00</pubDate>
-        <lastBuildDate>2024-04-14T09:21:15+03:00</lastBuildDate>
+        <pubDate>2024-04-14T09:48:06+03:00</pubDate>
+        <lastBuildDate>2024-04-14T09:48:06+03:00</lastBuildDate>
 
         <item>
+	<title>El Mirage Travel Guide (Greater Phoenix/Arizona/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/greater-phoenix/el-mirage/</link>
+	<description>This travel guide will provide you with all the information you need for a memorable trip to El Mirage, Arizona including places to visit, things to do, food, accommodation, and transportation options.</description>
+	<pubDate>2024-04-14T09:48:06+03:00</pubDate>
+</item><item>
 	<title>Sandton Travel Guide (Johannesburg/Gauteng/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/gauteng/johannesburg/sandton/</link>
 	<description>Plan your visit to Sandton, Johannesburg with our comprehensive travel guide. Explore cultural attractions, natural wonders, hiking and biking trails, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/valley-view/</link>
 	<description>Discover Valley View, Ohio, its culture, natural beauty, and must-see destinations with our comprehensive travel guide. Plan your trip today!</description>
 	<pubDate>2024-04-14T05:26:08+03:00</pubDate>
-</item><item>
-	<title>Majuli Travel Guide (Upper Assam/Assam/North-Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/assam/upper-assam/majuli/</link>
-	<description>Visit Majuli, India's largest river island. This comprehensive travel guide offers a list of places to visit, what to do in Majuli, food and drinks, where to stay, and more.</description>
-	<pubDate>2024-04-14T04:44:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
