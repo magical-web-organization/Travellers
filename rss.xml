@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T00:57:08+03:00</pubDate>
-        <lastBuildDate>2024-04-16T00:57:08+03:00</lastBuildDate>
+        <pubDate>2024-04-16T01:44:52+03:00</pubDate>
+        <lastBuildDate>2024-04-16T01:44:52+03:00</lastBuildDate>
 
         <item>
+	<title>West Bohemia Travel Guide (Czech Republic/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/west-bohemia/</link>
+	<description>Explore the top attractions, outdoor adventures, food scenes, cultural customs, and much more with this comprehensive guide to West Bohemia in the Czech Republic.</description>
+	<pubDate>2024-04-16T01:44:52+03:00</pubDate>
+</item><item>
 	<title>Orini Nafpaktia Travel Guide (Aetolia-Acarnania/Central Greece/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/central-greece/aetolia-acarnania/orini-nafpaktia/</link>
 	<description>A comprehensive travel guide to Orini Nafpaktia including places to visit, outdoor adventures, food and drink scene, where to stay, local culture, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/berkshires/new-ashford/</link>
 	<description>Explore the historical and natural attractions of New Ashford, Massachusetts. This comprehensive travel guide contains hiking/biking routes, must-try foods, transportation options, safety and health tips, and more.</description>
 	<pubDate>2024-04-15T20:37:25+03:00</pubDate>
-</item><item>
-	<title>Toucheng Travel Guide (Yilan County/Eastern Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/eastern-taiwan/yilan-county/toucheng/</link>
-	<description>Explore the rich culture, beautiful outdoor attractions, delicious foods, and fascinating history of Toucheng with this comprehensive guide.</description>
-	<pubDate>2024-04-15T20:27:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
