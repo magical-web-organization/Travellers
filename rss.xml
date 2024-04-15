@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-15T15:29:16+03:00</pubDate>
-        <lastBuildDate>2024-04-15T15:29:16+03:00</lastBuildDate>
+        <pubDate>2024-04-15T15:45:48+03:00</pubDate>
+        <lastBuildDate>2024-04-15T15:45:48+03:00</lastBuildDate>
 
         <item>
+	<title>Kibbutz Geva Travel Guide (Jezreel Valley/Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/jezreel-valley/kibbutz-geva/</link>
+	<description>Discover the culturally and naturally rich Kibbutz Geva through this comprehensive travel guide.</description>
+	<pubDate>2024-04-15T15:45:48+03:00</pubDate>
+</item><item>
 	<title>Ullapool Travel Guide (Ross and Cromarty/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/ross-and-cromarty/ullapool/</link>
 	<description>Plan your trip to Ullapool with our comprehensive travel guide. Discover the best places to visit, things to do, food and drink, where to stay, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/red-river-valley/casselton/</link>
 	<description>A comprehensive travel guide to Casselton, North Dakota, including must-visit attractions, hiking and biking routes, where to stay, local culture, safety, transportation, and nearby destinations.</description>
 	<pubDate>2024-04-15T11:06:42+03:00</pubDate>
-</item><item>
-	<title>Positano Travel Guide (Amalfi Coast/Salerno (province)/Campania/Southern Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/salerno-province/amalfi-coast/positano/</link>
-	<description>Positano is a charming village on the Amalfi Coast that offers visitors rewarding experiences. Explore its museums, landmarks, and landmarks; hike and bike in its natural wonders; or indulge in its delicious cuisine. Read this guide to know everything about Positano, including places to visit, food and drink scene, cultural practices, safety and health, transportation, and more.</description>
-	<pubDate>2024-04-15T10:52:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
