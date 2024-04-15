@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-15T05:41:35+03:00</pubDate>
-        <lastBuildDate>2024-04-15T05:41:35+03:00</lastBuildDate>
+        <pubDate>2024-04-15T06:14:45+03:00</pubDate>
+        <lastBuildDate>2024-04-15T06:14:45+03:00</lastBuildDate>
 
         <item>
+	<title>Fanø Travel Guide (South Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/south-jutland/fano/</link>
+	<description>Discover the best things to do and see, where to stay, and how to get to Fanø, Denmark. Learn about the local culture, customs and food scene of this charming destination.</description>
+	<pubDate>2024-04-15T06:14:45+03:00</pubDate>
+</item><item>
 	<title>Mediaș Travel Guide (Sibiu County/Transylvania/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/sibiu-county/medias/</link>
 	<description>Explore Mediaș, Romania with this detailed travel guide complete with places to visit, hiking/biking routes, activities, food and drink scene, accommodations, local culture and customs, safety, how to get there, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/nassau-county/hempstead/rockville-centre/</link>
 	<description>Discover the best of Rockville Centre, from natural attractions to cultural landmarks. Explore the food scene, find the perfect place to stay, and plan your next adventure with our helpful guide.</description>
 	<pubDate>2024-04-15T01:38:19+03:00</pubDate>
-</item><item>
-	<title>Greifswald Travel Guide (Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/greifswald/</link>
-	<description>Plan your perfect trip to Greifswald with our comprehensive travel guide. Find out all about the best things to do, where to stay, and what to eat in Greifswald.</description>
-	<pubDate>2024-04-15T01:25:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
