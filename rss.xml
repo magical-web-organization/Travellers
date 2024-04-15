@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-15T14:43:30+03:00</pubDate>
-        <lastBuildDate>2024-04-15T14:43:30+03:00</lastBuildDate>
+        <pubDate>2024-04-15T15:29:16+03:00</pubDate>
+        <lastBuildDate>2024-04-15T15:29:16+03:00</lastBuildDate>
 
         <item>
+	<title>Ullapool Travel Guide (Ross and Cromarty/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/ross-and-cromarty/ullapool/</link>
+	<description>Plan your trip to Ullapool with our comprehensive travel guide. Discover the best places to visit, things to do, food and drink, where to stay, and transportation options.</description>
+	<pubDate>2024-04-15T15:29:16+03:00</pubDate>
+</item><item>
 	<title>Monticello Travel Guide (Northern Indiana/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northern-indiana/monticello/</link>
 	<description>Plan your trip to Monticello, Indiana with our comprehensive travel guide featuring attractions, activities, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/salerno-province/amalfi-coast/positano/</link>
 	<description>Positano is a charming village on the Amalfi Coast that offers visitors rewarding experiences. Explore its museums, landmarks, and landmarks; hike and bike in its natural wonders; or indulge in its delicious cuisine. Read this guide to know everything about Positano, including places to visit, food and drink scene, cultural practices, safety and health, transportation, and more.</description>
 	<pubDate>2024-04-15T10:52:49+03:00</pubDate>
-</item><item>
-	<title>Aizawl Travel Guide (Mizoram/North-Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/mizoram/aizawl/</link>
-	<description>Discover the top attractions, best things to do, where to stay, and more with our complete travel guide to Aizawl, Mizoram's charming capital city in Northeastern India.</description>
-	<pubDate>2024-04-15T10:11:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
