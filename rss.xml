@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-15T17:08:38+03:00</pubDate>
-        <lastBuildDate>2024-04-15T17:08:38+03:00</lastBuildDate>
+        <pubDate>2024-04-15T17:53:22+03:00</pubDate>
+        <lastBuildDate>2024-04-15T17:53:22+03:00</lastBuildDate>
 
         <item>
+	<title>Jesenice Travel Guide (Julian Alps/Slovenia/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/slovenia/julian-alps/jesenice/</link>
+	<description>Discover the natural attractions, adventurous outdoor activities, delicious local food scene, and fascinating history of Jesenice with this comprehensive travel guide.</description>
+	<pubDate>2024-04-15T17:53:22+03:00</pubDate>
+</item><item>
 	<title>East Coulee Travel Guide (Southern Alberta/Alberta/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/southern-alberta/east-coulee/</link>
 	<description>Discover the best things to do and see in East Coulee, Alberta with this comprehensive travel guide, including cultural and natural attractions, hiking and biking routes, local food and drink, where to stay, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/alleghenies-and-susquehanna-valley/lewisburg/</link>
 	<description>Explore the natural beauty, cultural heritage, exciting activities, and delicious food scene of Lewisburg, Pennsylvania with our comprehensive travel guide. Learn more about must-visit attractions, hiking and biking routes, best places to stay, local culture and customs, safety, and logistics.</description>
 	<pubDate>2024-04-15T13:07:37+03:00</pubDate>
-</item><item>
-	<title>Ocotepeque Travel Guide (Honduran Highlands/Honduras/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/honduras/honduran-highlands/ocotepeque/</link>
-	<description>Discover the best places to visit, activities to enjoy, and things to do in the highlands of Honduras. Read on to plan your trip to Ocotepeque today!</description>
-	<pubDate>2024-04-15T12:55:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
