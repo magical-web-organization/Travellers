@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-15T20:27:24+03:00</pubDate>
-        <lastBuildDate>2024-04-15T20:27:24+03:00</lastBuildDate>
+        <pubDate>2024-04-15T20:37:25+03:00</pubDate>
+        <lastBuildDate>2024-04-15T20:37:25+03:00</lastBuildDate>
 
         <item>
+	<title>New Ashford Travel Guide (Berkshires/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/berkshires/new-ashford/</link>
+	<description>Explore the historical and natural attractions of New Ashford, Massachusetts. This comprehensive travel guide contains hiking/biking routes, must-try foods, transportation options, safety and health tips, and more.</description>
+	<pubDate>2024-04-15T20:37:25+03:00</pubDate>
+</item><item>
 	<title>Toucheng Travel Guide (Yilan County/Eastern Taiwan/Taiwan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/eastern-taiwan/yilan-county/toucheng/</link>
 	<description>Explore the rich culture, beautiful outdoor attractions, delicious foods, and fascinating history of Toucheng with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/eastern-finger-lakes/geneva-new-york/</link>
 	<description>Plan the perfect trip to Geneva, New York with this comprehensive travel guide that includes information on things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-04-15T16:16:59+03:00</pubDate>
-</item><item>
-	<title>Kibbutz Geva Travel Guide (Jezreel Valley/Israel/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/israel/jezreel-valley/kibbutz-geva/</link>
-	<description>Discover the culturally and naturally rich Kibbutz Geva through this comprehensive travel guide.</description>
-	<pubDate>2024-04-15T15:45:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
