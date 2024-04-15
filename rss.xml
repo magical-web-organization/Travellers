@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-15T04:35:56+03:00</pubDate>
-        <lastBuildDate>2024-04-15T04:35:56+03:00</lastBuildDate>
+        <pubDate>2024-04-15T05:18:13+03:00</pubDate>
+        <lastBuildDate>2024-04-15T05:18:13+03:00</lastBuildDate>
 
         <item>
+	<title>Angeles Travel Guide (Pampanga/Central Luzon/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/central-luzon/pampanga/angeles/</link>
+	<description>Discover the best things to do, see, and eat in Angeles, and get insider tips on local culture, customs, and safety in this comprehensive travel guide. Plan your next trip to this beautiful destination today!</description>
+	<pubDate>2024-04-15T05:18:13+03:00</pubDate>
+</item><item>
 	<title>Grafton Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/grafton/</link>
 	<description>Discover Grafton, a charming town in Northern Rivers, New South Wales, a perfect getaway for outdoor adventures, cultural and historical experiences, and food exploration.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/darjeeling-hills/loleygaon/</link>
 	<description>Discover the best places to visit in Loleygaon, things to do, where to stay, and transportation options with our comprehensive travel guide.</description>
 	<pubDate>2024-04-15T00:47:20+03:00</pubDate>
-</item><item>
-	<title>Angel Fire Travel Guide (North Central New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/north-central-new-mexico/angel-fire/</link>
-	<description>Discover the cultural and natural attractions, hiking/biking routes, activities, food, accommodations, local culture, transportation, and nearby destinations of Angel Fire, New Mexico, in this comprehensive travel guide.</description>
-	<pubDate>2024-04-15T00:10:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
