@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T17:32:54+03:00</pubDate>
-        <lastBuildDate>2024-04-16T17:32:54+03:00</lastBuildDate>
+        <pubDate>2024-04-16T17:46:49+03:00</pubDate>
+        <lastBuildDate>2024-04-16T17:46:49+03:00</lastBuildDate>
 
         <item>
+	<title>Konark Travel Guide (Coastal Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/coastal-odisha/konark/</link>
+	<description>Discover the cultural and natural attractions of Konark, explore the food and drink scene, learn about local culture and customs, and more.</description>
+	<pubDate>2024-04-16T17:46:49+03:00</pubDate>
+</item><item>
 	<title>Jiuzhaigou Nature Reserve Travel Guide (Aba (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/jiuzhaigou-nature-reserve/</link>
 	<description>Plan your trip to Jiuzhaigou Nature Reserve with this comprehensive travel guide, including where to go, what to see, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/chiba-prefecture/tokyo-disney-resort/</link>
 	<description>Discover everything you need to know to explore Tokyo Disney Resort, from must-visit attractions and outdoor adventures to food and drink and cultural customs.</description>
 	<pubDate>2024-04-16T13:24:53+03:00</pubDate>
-</item><item>
-	<title>Tehri Travel Guide (Garhwal/Uttarakhand/Himalayan North/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/tehri/</link>
-	<description>Explore the best tourist attractions, food, culture, and adventure activities in Tehri. Plan your itinerary with our comprehensive travel guide.</description>
-	<pubDate>2024-04-16T12:57:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
