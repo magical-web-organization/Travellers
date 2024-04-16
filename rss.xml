@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T04:18:04+03:00</pubDate>
-        <lastBuildDate>2024-04-16T04:18:04+03:00</lastBuildDate>
+        <pubDate>2024-04-16T05:00:23+03:00</pubDate>
+        <lastBuildDate>2024-04-16T05:00:23+03:00</lastBuildDate>
 
         <item>
+	<title>Tiverton Travel Guide (Newport County/Rhode Island/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/newport-county/tiverton/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Tiverton, RI with this comprehensive tour guide.</description>
+	<pubDate>2024-04-16T05:00:23+03:00</pubDate>
+</item><item>
 	<title>Okota Travel Guide (Lagos City/Lagos State/South West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/lagos-state/lagos-city/okota/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and insider tips for Okota in Lagos City, Nigeria.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/zacatecas-state/guadalupe-zacatecas/</link>
 	<description>Discover the best things to do, where to stay, what to eat, and how to get around in Guadalupe (Zacatecas) – your ultimate travel guide.</description>
 	<pubDate>2024-04-15T23:39:29+03:00</pubDate>
-</item><item>
-	<title>Dalkey Travel Guide (County Dublin/East Coast and Midlands/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-dublin/dalkey/</link>
-	<description>Explore the beautiful town of Dalkey, Ireland with our comprehensive travel guide, including must-visit places, activities, accommodations and more. Discover the best things to do, eat, buy and see in Dalkey. Plan your trip today!</description>
-	<pubDate>2024-04-15T23:16:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
