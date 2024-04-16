@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T07:00:21+03:00</pubDate>
-        <lastBuildDate>2024-04-16T07:00:21+03:00</lastBuildDate>
+        <pubDate>2024-04-16T07:08:19+03:00</pubDate>
+        <lastBuildDate>2024-04-16T07:08:19+03:00</lastBuildDate>
 
         <item>
+	<title>Kupang Travel Guide (West Timor/Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/west-timor/kupang/</link>
+	<description>Plan your perfect trip to Kupang, Indonesia with our comprehensive travel guide. Learn about the best things to do, see, eat, and stay in Kupang and nearby areas.</description>
+	<pubDate>2024-04-16T07:08:19+03:00</pubDate>
+</item><item>
 	<title>Ocala Travel Guide (North Central Florida/Inland Florida/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/north-central-florida/ocala/</link>
 	<description>Plan your trip to Ocala, Florida with our comprehensive travel guide. Discover the best places to visit, activities to do, food to try and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/honduras/caribbean-honduras/el-progreso/</link>
 	<description>Discover the beauty and adventure of El Progreso with this comprehensive travel guide. Find out all about the best places to see, things to do, where to eat and stay, and much more!</description>
 	<pubDate>2024-04-16T02:39:12+03:00</pubDate>
-</item><item>
-	<title>Monor Travel Guide (Pest County/Central Hungary/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/pest-county/monor/</link>
-	<description>Plan your trip to Monor, Hungary with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-16T02:32:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
