@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T19:38:53+03:00</pubDate>
-        <lastBuildDate>2024-04-16T19:38:53+03:00</lastBuildDate>
+        <pubDate>2024-04-16T20:30:13+03:00</pubDate>
+        <lastBuildDate>2024-04-16T20:30:13+03:00</lastBuildDate>
 
         <item>
+	<title>Oroville Travel Guide (Butte County/Shasta Cascades/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/butte-county/oroville/</link>
+	<description>Plan your trip to Oroville with this informative travel guide that covers the best things to do, where to stay, what to eat, and more!</description>
+	<pubDate>2024-04-16T20:30:13+03:00</pubDate>
+</item><item>
 	<title>Central Eritrea Travel Guide (Eritrea/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/eritrea/central-eritrea/</link>
 	<description>Plan your trip to Central Eritrea with this comprehensive travel guide. Discover the culturally important museums and historical places, scenic natural attractions, hiking and biking routes, food and drink scene, where to stay, local customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/south-pacific-costa-rica/chirripo-national-park/</link>
 	<description>Plan your perfect adventure to Chirripo National Park with our comprehensive travel guide. Discover the best things to do, places to visit, and where to stay in this natural paradise of South Pacific Costa Rica.</description>
 	<pubDate>2024-04-16T15:51:03+03:00</pubDate>
-</item><item>
-	<title>Zeehan Travel Guide (Western Tasmania/Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/western-tasmania/zeehan/</link>
-	<description>Discover and explore Zeehan with our comprehensive travel guide. From its natural wonders to its rich cultural heritage, this article will help you plan your Zeehan adventure.</description>
-	<pubDate>2024-04-16T15:10:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
