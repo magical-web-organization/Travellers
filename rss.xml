@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T00:07:32+03:00</pubDate>
-        <lastBuildDate>2024-04-17T00:07:32+03:00</lastBuildDate>
+        <pubDate>2024-04-17T00:59:05+03:00</pubDate>
+        <lastBuildDate>2024-04-17T00:59:05+03:00</lastBuildDate>
 
         <item>
+	<title>Essen Travel Guide (Ruhr/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/ruhr/essen/</link>
+	<description>Discover the best places to visit, things to do, and local tips in Essen, Germany. Our comprehensive travel guide includes hiking and biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-04-17T00:59:05+03:00</pubDate>
+</item><item>
 	<title>Markham Travel Guide (York Region/Greater Toronto Area/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/york-region/markham/</link>
 	<description>Discover the best places to visit, food to try, and things to do in Markham with our ultimate tour guide. Plan your trip today and explore Markham's rich culture, history, and scenic views.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/butte-county/oroville/</link>
 	<description>Plan your trip to Oroville with this informative travel guide that covers the best things to do, where to stay, what to eat, and more!</description>
 	<pubDate>2024-04-16T20:30:13+03:00</pubDate>
-</item><item>
-	<title>Central Eritrea Travel Guide (Eritrea/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/eritrea/central-eritrea/</link>
-	<description>Plan your trip to Central Eritrea with this comprehensive travel guide. Discover the culturally important museums and historical places, scenic natural attractions, hiking and biking routes, food and drink scene, where to stay, local customs, safety and health, and transportation options.</description>
-	<pubDate>2024-04-16T19:38:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
