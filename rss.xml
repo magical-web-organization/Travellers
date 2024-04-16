@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T10:16:40+03:00</pubDate>
-        <lastBuildDate>2024-04-16T10:16:40+03:00</lastBuildDate>
+        <pubDate>2024-04-16T11:02:16+03:00</pubDate>
+        <lastBuildDate>2024-04-16T11:02:16+03:00</lastBuildDate>
 
         <item>
+	<title>Ilam Travel Guide (Central Western Iran/Western Iran/Iran/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iran/western-iran/central-western-iran/ilam/</link>
+	<description>Planning a trip to Ilam, Iran? Don't miss out on these natural, cultural, and historical attractions. Find out everything you need to know from where to stay, what to see, and how to get around in this guide.</description>
+	<pubDate>2024-04-16T11:02:16+03:00</pubDate>
+</item><item>
 	<title>Meridian Travel Guide (Mississippi Pines/Mississippi/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/mississippi-pines/meridian/</link>
 	<description>A complete travel guide for Meridian, Mississippi including places to visit, hiking/biking routes, best things to do, where to stay, what to buy, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andaman-and-nicobar-islands/south-andaman/wandoor/</link>
 	<description>Discover the best places to visit, activities, food, and accommodations in Wandoor, Andaman and Nicobar Islands, India. Get insider tips about local culture, safety, and logistics.</description>
 	<pubDate>2024-04-16T06:30:08+03:00</pubDate>
-</item><item>
-	<title>Coruche Travel Guide (Ribatejo/Tagus Valley/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/ribatejo/coruche/</link>
-	<description>Plan your visit to Coruche, Portugal with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more!</description>
-	<pubDate>2024-04-16T05:47:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
