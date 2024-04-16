@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T21:24:39+03:00</pubDate>
-        <lastBuildDate>2024-04-16T21:24:39+03:00</lastBuildDate>
+        <pubDate>2024-04-16T21:38:42+03:00</pubDate>
+        <lastBuildDate>2024-04-16T21:38:42+03:00</lastBuildDate>
 
         <item>
+	<title>Birmingham Travel Guide (Metropolitan Alabama/Alabama/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/metropolitan-alabama/birmingham/</link>
+	<description>Plan your trip to Birmingham with this in-depth guide, covering the best places to see, things to do, and where to stay.</description>
+	<pubDate>2024-04-16T21:38:42+03:00</pubDate>
+</item><item>
 	<title>Munster Travel Guide (Lake County/Northwestern Indiana/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northwestern-indiana/lake-county/munster/</link>
 	<description>Get to know everything about Munster, Indiana. Know the best tourist destinations, outdoor activities, food, culture, safety and health, transportation, among others. Plan your trip to Munster effectively with this complete guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/jiuzhaigou-nature-reserve/</link>
 	<description>Plan your trip to Jiuzhaigou Nature Reserve with this comprehensive travel guide, including where to go, what to see, where to stay, and more.</description>
 	<pubDate>2024-04-16T17:32:54+03:00</pubDate>
-</item><item>
-	<title>Phocis Travel Guide (Central Greece/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/central-greece/phocis/</link>
-	<description>Discover the best cultural attractions, natural wonders, hiking trails, food and drink spots, and more with our ultimate travel guide to Phocis, Greece.</description>
-	<pubDate>2024-04-16T16:34:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
