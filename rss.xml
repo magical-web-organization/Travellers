@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-16T22:25:31+03:00</pubDate>
-        <lastBuildDate>2024-04-16T22:25:31+03:00</lastBuildDate>
+        <pubDate>2024-04-16T22:42:08+03:00</pubDate>
+        <lastBuildDate>2024-04-16T22:42:08+03:00</lastBuildDate>
 
         <item>
+	<title>Mexicali Travel Guide (Baja California (state)/Baja California/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-state/mexicali/</link>
+	<description>Find out where to go, what to do, where to stay, what to eat, and much more with this informative travel guide to Mexicali.</description>
+	<pubDate>2024-04-16T22:42:08+03:00</pubDate>
+</item><item>
 	<title>Southeast Travel Guide (São Paulo/Grande São Paulo/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/grande-sao-paulo/sao-paulo/southeast/</link>
 	<description>Planning a trip to Southeast, São Paulo? Look no further! This travel guide covers everything from places to visit, hiking routes, food, and local customs, to transportation options and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/kern-county/mckittrick/</link>
 	<description>Explore the best attractions of McKittrick, California with this comprehensive travel guide. Find out everything you need to know from where to stay and what to do to safety tips and transportation options.</description>
 	<pubDate>2024-04-16T18:04:48+03:00</pubDate>
-</item><item>
-	<title>Konark Travel Guide (Coastal Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/coastal-odisha/konark/</link>
-	<description>Discover the cultural and natural attractions of Konark, explore the food and drink scene, learn about local culture and customs, and more.</description>
-	<pubDate>2024-04-16T17:46:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
