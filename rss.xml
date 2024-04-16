@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T00:59:05+03:00</pubDate>
-        <lastBuildDate>2024-04-17T00:59:05+03:00</lastBuildDate>
+        <pubDate>2024-04-17T01:22:51+03:00</pubDate>
+        <lastBuildDate>2024-04-17T01:22:51+03:00</lastBuildDate>
 
         <item>
+	<title>Richards Bay Travel Guide (KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/richards-bay/</link>
+	<description>Explore Richards Bay, South Africa with our comprehensive travel guide featuring the best places to visit, what to do, where to stay, and how to get there.</description>
+	<pubDate>2024-04-17T01:22:51+03:00</pubDate>
+</item><item>
 	<title>Essen Travel Guide (Ruhr/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/ruhr/essen/</link>
 	<description>Discover the best places to visit, things to do, and local tips in Essen, Germany. Our comprehensive travel guide includes hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/gold-west-country/nevada-city/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and tips for your trip to Nevada City in Montana, USA.</description>
 	<pubDate>2024-04-16T20:37:21+03:00</pubDate>
-</item><item>
-	<title>Oroville Travel Guide (Butte County/Shasta Cascades/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/butte-county/oroville/</link>
-	<description>Plan your trip to Oroville with this informative travel guide that covers the best things to do, where to stay, what to eat, and more!</description>
-	<pubDate>2024-04-16T20:30:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
