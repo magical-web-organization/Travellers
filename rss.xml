@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T06:49:46+03:00</pubDate>
-        <lastBuildDate>2024-04-17T06:49:46+03:00</lastBuildDate>
+        <pubDate>2024-04-17T07:08:24+03:00</pubDate>
+        <lastBuildDate>2024-04-17T07:08:24+03:00</lastBuildDate>
 
         <item>
+	<title>Nanjangud Travel Guide (Mysore (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/mysore-district/nanjangud/</link>
+	<description>Explore Nanjangud, a small town in Karnataka known for its ancient temple complexes, scenic views, and outdoor adventures. This travel guide covers everything, from the best things to do and see to where to stay and what to eat, for a perfect trip to Nanjangud.</description>
+	<pubDate>2024-04-17T07:08:24+03:00</pubDate>
+</item><item>
 	<title>French Guiana Travel Guide (South America)</title>
 	<link>https://travellers.wiki/en/south-america/french-guiana/</link>
 	<description>Discover everything you need to know about French Guiana including where to stay, what to do, and when to go. Read on to plan your perfect trip to this fascinating South American destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/minas-gerais/south/</link>
 	<description>Planning a trip to South, Brazil? Read our comprehensive travel guide for information on top attractions, local culture, food and drink scenes, and more!</description>
 	<pubDate>2024-04-17T02:43:37+03:00</pubDate>
-</item><item>
-	<title>Wulai Travel Guide (New Taipei/Northern Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/new-taipei/wulai/</link>
-	<description>Explore Wulai, Taiwan with our comprehensive travel guide. From cultural attractions to outdoor adventures, we've got you covered!</description>
-	<pubDate>2024-04-17T02:08:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
