@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T23:22:20+03:00</pubDate>
-        <lastBuildDate>2024-04-17T23:22:20+03:00</lastBuildDate>
+        <pubDate>2024-04-17T23:49:02+03:00</pubDate>
+        <lastBuildDate>2024-04-17T23:49:02+03:00</lastBuildDate>
 
         <item>
+	<title>Riding Mountain National Park Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/riding-mountain-national-park/</link>
+	<description>Discover the stunning beauty and adventure that awaits in Riding Mountain National Park. This tour guide includes everything you need to know before embarking on your journey, from the best trails to the local cuisine.</description>
+	<pubDate>2024-04-17T23:49:02+03:00</pubDate>
+</item><item>
 	<title>Wauwatosa Travel Guide (Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/wauwatosa/</link>
 	<description>Explore the best things to do, eat, and see in Wauwatosa, Wisconsin with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/ko-samui/lamai/</link>
 	<description>Plan your dream vacation to Lamai with our comprehensive travel guide. Explore the beautiful beaches, cultural landmarks, outdoor adventures, and local cuisine of this charming town in Ko Samui.</description>
 	<pubDate>2024-04-17T19:14:54+03:00</pubDate>
-</item><item>
-	<title>Jindabyne Travel Guide (Snowy Mountains/Southeastern New South Wales/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southeastern-new-south-wales/snowy-mountains/jindabyne/</link>
-	<description>Discover the culturally rich and naturally beautiful town of Jindabyne in Snowy Mountains, New South Wales, Australia. Follow this comprehensive guide for the best things to do, see, and experience in Jindabyne.</description>
-	<pubDate>2024-04-17T18:47:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
