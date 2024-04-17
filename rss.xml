@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T08:14:51+03:00</pubDate>
-        <lastBuildDate>2024-04-17T08:14:51+03:00</lastBuildDate>
+        <pubDate>2024-04-17T08:54:26+03:00</pubDate>
+        <lastBuildDate>2024-04-17T08:54:26+03:00</lastBuildDate>
 
         <item>
+	<title>Tahoe City Travel Guide (Lake Tahoe/Sierra Nevada/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sierra-nevada/lake-tahoe/tahoe-city/</link>
+	<description>Discover the best things to do, where to stay, and more in Tahoe City with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
+	<pubDate>2024-04-17T08:54:26+03:00</pubDate>
+</item><item>
 	<title>Kanker Travel Guide (Chhattisgarh/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/chhattisgarh/kanker/</link>
 	<description>Explore the culturally rich and scenic beauty of Kanker, Chhattisgarh with our comprehensive travel guide. From must-visit places to try local food, we have it all covered!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/litchfield-hills/norfolk/</link>
 	<description>Discover the best places to visit, dine, sleep, hike, and explore in Norfolk, Connecticut with our comprehensive travel guide.</description>
 	<pubDate>2024-04-17T04:24:47+03:00</pubDate>
-</item><item>
-	<title>Carter Caves State Resort Park Travel Guide (Kentucky Appalachians/Kentucky/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/kentucky-appalachians/carter-caves-state-resort-park/</link>
-	<description>Explore the cultural and natural attractions of Carter Caves State Resort Park and discover the best things to do, where to stay, what to buy, local culture and customs, safety and health, transportation options, and where to go next.</description>
-	<pubDate>2024-04-17T03:50:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
