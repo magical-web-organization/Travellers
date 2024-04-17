@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T17:39:42+03:00</pubDate>
-        <lastBuildDate>2024-04-17T17:39:42+03:00</lastBuildDate>
+        <pubDate>2024-04-17T18:28:43+03:00</pubDate>
+        <lastBuildDate>2024-04-17T18:28:43+03:00</lastBuildDate>
 
         <item>
+	<title>East Chicago Travel Guide (Lake County/Northwestern Indiana/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northwestern-indiana/lake-county/east-chicago/</link>
+	<description>Plan your next vacation to East Chicago with our comprehensive travel guide! Explore the best activities, attractions, and places to stay in the city.</description>
+	<pubDate>2024-04-17T18:28:43+03:00</pubDate>
+</item><item>
 	<title>Girona Travel Guide (Girona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/girona-province/girona/</link>
 	<description>Discover the top attractions, outdoor adventures, and cultural experiences in Girona, Spain, with our comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/northern-punjab/hafizabad/</link>
 	<description>Discover the rich culture, natural beauty, and delicious cuisine of Hafizabad, Pakistan with this comprehensive travel guide.</description>
 	<pubDate>2024-04-17T13:46:37+03:00</pubDate>
-</item><item>
-	<title>Buffalo Travel Guide (Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/buffalo/</link>
-	<description>Explore Buffalo's natural and cultural attractions, food scene, safety, transportation, and nearby destinations with this comprehensive travel guide.</description>
-	<pubDate>2024-04-17T13:09:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
