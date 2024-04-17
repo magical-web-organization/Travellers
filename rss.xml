@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T17:17:36+03:00</pubDate>
-        <lastBuildDate>2024-04-17T17:17:36+03:00</lastBuildDate>
+        <pubDate>2024-04-17T17:39:42+03:00</pubDate>
+        <lastBuildDate>2024-04-17T17:39:42+03:00</lastBuildDate>
 
         <item>
+	<title>Girona Travel Guide (Girona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/girona-province/girona/</link>
+	<description>Discover the top attractions, outdoor adventures, and cultural experiences in Girona, Spain, with our comprehensive guide.</description>
+	<pubDate>2024-04-17T17:39:42+03:00</pubDate>
+</item><item>
 	<title>Graciosa Travel Guide (Canary Islands/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/graciosa/</link>
 	<description>Read our comprehensive travel guide to Graciosa, Canary Islands before you plan your next vacation to explore the beautiful museums, natural attractions and scenic views, hiking/biking routes, amazing food and drink scene, hotels, transport options, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/buffalo/</link>
 	<description>Explore Buffalo's natural and cultural attractions, food scene, safety, transportation, and nearby destinations with this comprehensive travel guide.</description>
 	<pubDate>2024-04-17T13:09:31+03:00</pubDate>
-</item><item>
-	<title>Mercedes Travel Guide (Rio de la Plata/Uruguay/South America)</title>
-	<link>https://travellers.wiki/en/south-america/uruguay/rio-de-la-plata/mercedes/</link>
-	<description>Discover the culturally rich and naturally beautiful city of Mercedes in Uruguay with this comprehensive guide that covers everything from attractions, outdoor adventures, food and drink, lodging, culture, safety, transportation and more.</description>
-	<pubDate>2024-04-17T11:18:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
