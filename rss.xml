@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T01:43:53+03:00</pubDate>
-        <lastBuildDate>2024-04-18T01:43:53+03:00</lastBuildDate>
+        <pubDate>2024-04-18T02:22:32+03:00</pubDate>
+        <lastBuildDate>2024-04-18T02:22:32+03:00</lastBuildDate>
 
         <item>
+	<title>Ko Chang Travel Guide (Trat Province/Eastern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/eastern-thailand/trat-province/ko-chang/</link>
+	<description>Plan your trip to Ko Chang with this comprehensive travel guide. Discover the best things to do, places to see, and experiences to have in Thailand's hidden paradise.</description>
+	<pubDate>2024-04-18T02:22:32+03:00</pubDate>
+</item><item>
 	<title>Hradec Králové Travel Guide (East Bohemia/Czech Republic/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/east-bohemia/hradec-kralove/</link>
 	<description>Discover the best places to visit, stay, eat, learn about local culture and customs, get around, and much more in Hradec Králové, Czech Republic.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/south-central-colorado/poncha-springs/</link>
 	<description>Plan your trip to Poncha Springs, Colorado and discover the best natural attractions, outdoor adventures, cultural landmarks, food and drink scene, accommodations, and more.</description>
 	<pubDate>2024-04-17T21:53:11+03:00</pubDate>
-</item><item>
-	<title>Foster Travel Guide (Providence County/Rhode Island/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/providence-county/foster/</link>
-	<description>Plan your visit to Foster, Rhode Island with our comprehensive travel guide. Discover the best things to do, places to stay, where to eat, and more!</description>
-	<pubDate>2024-04-17T21:06:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
