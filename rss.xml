@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T17:02:04+03:00</pubDate>
-        <lastBuildDate>2024-04-17T17:02:04+03:00</lastBuildDate>
+        <pubDate>2024-04-17T17:17:36+03:00</pubDate>
+        <lastBuildDate>2024-04-17T17:17:36+03:00</lastBuildDate>
 
         <item>
+	<title>Graciosa Travel Guide (Canary Islands/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/graciosa/</link>
+	<description>Read our comprehensive travel guide to Graciosa, Canary Islands before you plan your next vacation to explore the beautiful museums, natural attractions and scenic views, hiking/biking routes, amazing food and drink scene, hotels, transport options, and much more.</description>
+	<pubDate>2024-04-17T17:17:36+03:00</pubDate>
+</item><item>
 	<title>Trikala (region) Travel Guide (Thessaly/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/thessaly/trikala-region/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Trikala (region) with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/uruguay/rio-de-la-plata/mercedes/</link>
 	<description>Discover the culturally rich and naturally beautiful city of Mercedes in Uruguay with this comprehensive guide that covers everything from attractions, outdoor adventures, food and drink, lodging, culture, safety, transportation and more.</description>
 	<pubDate>2024-04-17T11:18:24+03:00</pubDate>
-</item><item>
-	<title>Macuto Travel Guide (Vargas/Central/Venezuela/South America)</title>
-	<link>https://travellers.wiki/en/south-america/venezuela/central/vargas/macuto/</link>
-	<description>Explore the culturally rich and naturally scenic city of Macuto, Venezuela by following this comprehensive travel guide that lists all the must-visit attractions, hiking routes, food scene, and cultural customs.</description>
-	<pubDate>2024-04-17T10:41:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
