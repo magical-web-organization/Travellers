@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T09:52:28+03:00</pubDate>
-        <lastBuildDate>2024-04-17T09:52:28+03:00</lastBuildDate>
+        <pubDate>2024-04-17T10:16:39+03:00</pubDate>
+        <lastBuildDate>2024-04-17T10:16:39+03:00</lastBuildDate>
 
         <item>
+	<title>Kanzaki Travel Guide (Saga (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/saga-prefecture/kanzaki/</link>
+	<description>Plan your trip to Kanzaki in Saga, Japan with our comprehensive travel guide. Find out the best things to do and see, where to stay, what to eat and drink, and how to get around in Kanzaki.</description>
+	<pubDate>2024-04-17T10:16:39+03:00</pubDate>
+</item><item>
 	<title>Trikeri Travel Guide (South Pelion/Mount Pelion/Magnesia/Thessaly/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/mount-pelion/south-pelion/trikeri/</link>
 	<description>Planning to visit Trikeri in Greece? Check our guide for cultural and natural attractions, hiking and biking routes, food and drink, where to stay, safety, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/peru/southern-sierra/sacred-valley-of-the-incas/yucay/</link>
 	<description>Explore Yucay, a beautiful town in the Sacred Valley of the Incas. Discover its rich history, natural wonders, and cultural attractions. This comprehensive travel guide covers everything you need to know to plan your trip to Yucay, Peru.</description>
 	<pubDate>2024-04-17T05:47:40+03:00</pubDate>
-</item><item>
-	<title>Syracuse (New York) Travel Guide (Central New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/central-new-york/syracuse-new-york/</link>
-	<description>Plan your trip to Syracuse (New York) with this comprehensive travel guide. Discover the best things to do, where to stay, places to visit, and local culture.</description>
-	<pubDate>2024-04-17T05:25:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
