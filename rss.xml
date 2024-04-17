@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T23:49:02+03:00</pubDate>
-        <lastBuildDate>2024-04-17T23:49:02+03:00</lastBuildDate>
+        <pubDate>2024-04-18T00:18:36+03:00</pubDate>
+        <lastBuildDate>2024-04-18T00:18:36+03:00</lastBuildDate>
 
         <item>
+	<title>Sariwon Travel Guide (Hwanghae/North Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/north-korea/hwanghae/sariwon/</link>
+	<description>Discover the best things to do, see, eat, and explore in Sariwon, North Korea. Follow our week-long itinerary, learn about the local culture and customs, and find out how to get there.</description>
+	<pubDate>2024-04-18T00:18:36+03:00</pubDate>
+</item><item>
 	<title>Riding Mountain National Park Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/riding-mountain-national-park/</link>
 	<description>Discover the stunning beauty and adventure that awaits in Riding Mountain National Park. This tour guide includes everything you need to know before embarking on your journey, from the best trails to the local cuisine.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/contra-costa-county/lafayette/</link>
 	<description>Discover all the top attractions, activities, and travel tips in Lafayette, California with this comprehensive travel guide.</description>
 	<pubDate>2024-04-17T19:52:04+03:00</pubDate>
-</item><item>
-	<title>Lamai Travel Guide (Ko Samui/Central Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/ko-samui/lamai/</link>
-	<description>Plan your dream vacation to Lamai with our comprehensive travel guide. Explore the beautiful beaches, cultural landmarks, outdoor adventures, and local cuisine of this charming town in Ko Samui.</description>
-	<pubDate>2024-04-17T19:14:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
