@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T14:58:23+03:00</pubDate>
-        <lastBuildDate>2024-04-17T14:58:23+03:00</lastBuildDate>
+        <pubDate>2024-04-17T15:19:48+03:00</pubDate>
+        <lastBuildDate>2024-04-17T15:19:48+03:00</lastBuildDate>
 
         <item>
+	<title>Snohomish Travel Guide (North Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/north-sound/snohomish/</link>
+	<description>Plan your trip to Snohomish with our comprehensive travel guide. Explore the culturally important museums and historical places, natural attractions, hiking and biking routes, best things to do, food scene, and where to stay.</description>
+	<pubDate>2024-04-17T15:19:48+03:00</pubDate>
+</item><item>
 	<title>Satsumasendai Travel Guide (Kagoshima (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/kagoshima-prefecture/satsumasendai/</link>
 	<description>Discover the highlights of Satsumasendai, Japan with our comprehensive travel guide. Learn about its cultural and natural attractions, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/king-county/redmond-washington/</link>
 	<description>Explore the best places to visit, things to do, and tips for a perfect trip to Redmond, Washington.</description>
 	<pubDate>2024-04-17T09:17:05+03:00</pubDate>
-</item><item>
-	<title>Tahoe City Travel Guide (Lake Tahoe/Sierra Nevada/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sierra-nevada/lake-tahoe/tahoe-city/</link>
-	<description>Discover the best things to do, where to stay, and more in Tahoe City with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
-	<pubDate>2024-04-17T08:54:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
