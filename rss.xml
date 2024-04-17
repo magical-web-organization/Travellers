@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T03:21:11+03:00</pubDate>
-        <lastBuildDate>2024-04-17T03:21:11+03:00</lastBuildDate>
+        <pubDate>2024-04-17T03:50:14+03:00</pubDate>
+        <lastBuildDate>2024-04-17T03:50:14+03:00</lastBuildDate>
 
         <item>
+	<title>Carter Caves State Resort Park Travel Guide (Kentucky Appalachians/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/kentucky-appalachians/carter-caves-state-resort-park/</link>
+	<description>Explore the cultural and natural attractions of Carter Caves State Resort Park and discover the best things to do, where to stay, what to buy, local culture and customs, safety and health, transportation options, and where to go next.</description>
+	<pubDate>2024-04-17T03:50:14+03:00</pubDate>
+</item><item>
 	<title>Thonburi Travel Guide (Bangkok/Chao Phraya Basin/Central Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/chao-phraya-basin/bangkok/thonburi/</link>
 	<description>Discover the best things to do, see and eat in Thonburi, Bangkok. Plan your trip with our comprehensive guide featuring top attractions, hiking trails, dining spots, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/salamanca-province/</link>
 	<description>A comprehensive travel guide to Salamanca province in Spain, including tourist attractions, activities, food, accommodation, and transportation options.</description>
 	<pubDate>2024-04-16T23:21:03+03:00</pubDate>
-</item><item>
-	<title>Mexicali Travel Guide (Baja California (state)/Baja California/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-state/mexicali/</link>
-	<description>Find out where to go, what to do, where to stay, what to eat, and much more with this informative travel guide to Mexicali.</description>
-	<pubDate>2024-04-16T22:42:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
