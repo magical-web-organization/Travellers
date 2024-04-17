@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T13:46:37+03:00</pubDate>
-        <lastBuildDate>2024-04-17T13:46:37+03:00</lastBuildDate>
+        <pubDate>2024-04-17T14:19:56+03:00</pubDate>
+        <lastBuildDate>2024-04-17T14:19:56+03:00</lastBuildDate>
 
         <item>
+	<title>Black Mountain Travel Guide (North Carolina Mountains/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-mountains/black-mountain/</link>
+	<description>Plan the perfect trip to Black Mountain with our comprehensive guide that covers everything from must-see attractions to safety tips.</description>
+	<pubDate>2024-04-17T14:19:56+03:00</pubDate>
+</item><item>
 	<title>Hafizabad Travel Guide (Northern Punjab/Punjab/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/northern-punjab/hafizabad/</link>
 	<description>Discover the rich culture, natural beauty, and delicious cuisine of Hafizabad, Pakistan with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/chhattisgarh/kanker/</link>
 	<description>Explore the culturally rich and scenic beauty of Kanker, Chhattisgarh with our comprehensive travel guide. From must-visit places to try local food, we have it all covered!</description>
 	<pubDate>2024-04-17T08:14:51+03:00</pubDate>
-</item><item>
-	<title>Taolagnaro Travel Guide (Toliara Province/Madagascar/East African Islands/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/toliara-province/taolagnaro/</link>
-	<description>Discover Taolagnaro in Madagascar, a hidden gem with cultural attractions, natural wonders, hikes, biking routes, and delicious food.</description>
-	<pubDate>2024-04-17T07:37:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
