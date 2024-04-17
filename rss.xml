@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T08:54:26+03:00</pubDate>
-        <lastBuildDate>2024-04-17T08:54:26+03:00</lastBuildDate>
+        <pubDate>2024-04-17T09:17:05+03:00</pubDate>
+        <lastBuildDate>2024-04-17T09:17:05+03:00</lastBuildDate>
 
         <item>
+	<title>Redmond (Washington) Travel Guide (King County/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/king-county/redmond-washington/</link>
+	<description>Explore the best places to visit, things to do, and tips for a perfect trip to Redmond, Washington.</description>
+	<pubDate>2024-04-17T09:17:05+03:00</pubDate>
+</item><item>
 	<title>Tahoe City Travel Guide (Lake Tahoe/Sierra Nevada/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sierra-nevada/lake-tahoe/tahoe-city/</link>
 	<description>Discover the best things to do, where to stay, and more in Tahoe City with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/polynesia/tonga/eua/</link>
 	<description>Read on for a detailed guide to the culturally and naturally rich ʻEua island in Tonga, including the best places to visit, things to do, where to stay, and more!</description>
 	<pubDate>2024-04-17T04:46:20+03:00</pubDate>
-</item><item>
-	<title>Norfolk Travel Guide (Litchfield Hills/Connecticut/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/litchfield-hills/norfolk/</link>
-	<description>Discover the best places to visit, dine, sleep, hike, and explore in Norfolk, Connecticut with our comprehensive travel guide.</description>
-	<pubDate>2024-04-17T04:24:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
