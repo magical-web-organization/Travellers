@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T11:18:24+03:00</pubDate>
-        <lastBuildDate>2024-04-17T11:18:24+03:00</lastBuildDate>
+        <pubDate>2024-04-17T13:09:31+03:00</pubDate>
+        <lastBuildDate>2024-04-17T13:09:31+03:00</lastBuildDate>
 
         <item>
+	<title>Buffalo Travel Guide (Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/buffalo/</link>
+	<description>Explore Buffalo's natural and cultural attractions, food scene, safety, transportation, and nearby destinations with this comprehensive travel guide.</description>
+	<pubDate>2024-04-17T13:09:31+03:00</pubDate>
+</item><item>
 	<title>Mercedes Travel Guide (Rio de la Plata/Uruguay/South America)</title>
 	<link>https://travellers.wiki/en/south-america/uruguay/rio-de-la-plata/mercedes/</link>
 	<description>Discover the culturally rich and naturally beautiful city of Mercedes in Uruguay with this comprehensive guide that covers everything from attractions, outdoor adventures, food and drink, lodging, culture, safety, transportation and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/mysore-district/nanjangud/</link>
 	<description>Explore Nanjangud, a small town in Karnataka known for its ancient temple complexes, scenic views, and outdoor adventures. This travel guide covers everything, from the best things to do and see to where to stay and what to eat, for a perfect trip to Nanjangud.</description>
 	<pubDate>2024-04-17T07:08:24+03:00</pubDate>
-</item><item>
-	<title>French Guiana Travel Guide (South America)</title>
-	<link>https://travellers.wiki/en/south-america/french-guiana/</link>
-	<description>Discover everything you need to know about French Guiana including where to stay, what to do, and when to go. Read on to plan your perfect trip to this fascinating South American destination.</description>
-	<pubDate>2024-04-17T06:49:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
