@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-17T10:41:44+03:00</pubDate>
-        <lastBuildDate>2024-04-17T10:41:44+03:00</lastBuildDate>
+        <pubDate>2024-04-17T11:18:24+03:00</pubDate>
+        <lastBuildDate>2024-04-17T11:18:24+03:00</lastBuildDate>
 
         <item>
+	<title>Mercedes Travel Guide (Rio de la Plata/Uruguay/South America)</title>
+	<link>https://travellers.wiki/en/south-america/uruguay/rio-de-la-plata/mercedes/</link>
+	<description>Discover the culturally rich and naturally beautiful city of Mercedes in Uruguay with this comprehensive guide that covers everything from attractions, outdoor adventures, food and drink, lodging, culture, safety, transportation and more.</description>
+	<pubDate>2024-04-17T11:18:24+03:00</pubDate>
+</item><item>
 	<title>Macuto Travel Guide (Vargas/Central/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/central/vargas/macuto/</link>
 	<description>Explore the culturally rich and naturally scenic city of Macuto, Venezuela by following this comprehensive travel guide that lists all the must-visit attractions, hiking routes, food scene, and cultural customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/french-guiana/</link>
 	<description>Discover everything you need to know about French Guiana including where to stay, what to do, and when to go. Read on to plan your perfect trip to this fascinating South American destination.</description>
 	<pubDate>2024-04-17T06:49:46+03:00</pubDate>
-</item><item>
-	<title>Shrewsbury Travel Guide (Shropshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/shropshire/shrewsbury/</link>
-	<description>Discover the best things to do in Shrewsbury, from scenic hiking and biking routes to cultural and historical attractions. Explore the food and drink scene, learn about local customs, and plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-04-17T06:12:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
