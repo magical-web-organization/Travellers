@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T06:08:28+03:00</pubDate>
-        <lastBuildDate>2024-04-18T06:08:28+03:00</lastBuildDate>
+        <pubDate>2024-04-18T06:49:08+03:00</pubDate>
+        <lastBuildDate>2024-04-18T06:49:08+03:00</lastBuildDate>
 
         <item>
+	<title>Cortes Island Travel Guide (Discovery Islands/Vancouver Island/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/discovery-islands/cortes-island/</link>
+	<description>Planning a trip to Cortes Island? This comprehensive travel guide covers where to stay, what to do, and how to get around in this beautiful island destination. Read on for a detailed itinerary, hiking and bike routes, food and drink scene, cultural attractions, safety tips, and more.</description>
+	<pubDate>2024-04-18T06:49:08+03:00</pubDate>
+</item><item>
 	<title>New Hazelton Travel Guide (North Coast-Nechako/Northern British Columbia/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/north-coast-nechako/new-hazelton/</link>
 	<description>Explore the culturally-rich and scenic town of New Hazelton in Northern British Columbia, Canada with this comprehensive travel guide. Discover its natural attractions, hiking and biking routes, local culture and customs, food scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/eastern-thailand/trat-province/ko-chang/</link>
 	<description>Plan your trip to Ko Chang with this comprehensive travel guide. Discover the best things to do, places to see, and experiences to have in Thailand's hidden paradise.</description>
 	<pubDate>2024-04-18T02:22:32+03:00</pubDate>
-</item><item>
-	<title>Hradec Králové Travel Guide (East Bohemia/Czech Republic/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/east-bohemia/hradec-kralove/</link>
-	<description>Discover the best places to visit, stay, eat, learn about local culture and customs, get around, and much more in Hradec Králové, Czech Republic.</description>
-	<pubDate>2024-04-18T01:43:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
