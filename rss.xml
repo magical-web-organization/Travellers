@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T10:31:44+03:00</pubDate>
-        <lastBuildDate>2024-04-18T10:31:44+03:00</lastBuildDate>
+        <pubDate>2024-04-18T11:02:10+03:00</pubDate>
+        <lastBuildDate>2024-04-18T11:02:10+03:00</lastBuildDate>
 
         <item>
+	<title>Dong Ha Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/dong-ha/</link>
+	<description>Explore the cultural and natural attractions of Dong Ha, Vietnam. Plan your trip with this helpful guide, featuring places to visit, hiking and biking routes, best things to do, local food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-04-18T11:02:10+03:00</pubDate>
+</item><item>
 	<title>Salalah Travel Guide (Dhofar/Oman/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/oman/dhofar/salalah/</link>
 	<description>Explore the natural beauty, rich culture, and adventurous activities of Salalah, Oman with our complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/north-coast-nechako/new-hazelton/</link>
 	<description>Explore the culturally-rich and scenic town of New Hazelton in Northern British Columbia, Canada with this comprehensive travel guide. Discover its natural attractions, hiking and biking routes, local culture and customs, food scene, and more.</description>
 	<pubDate>2024-04-18T06:08:28+03:00</pubDate>
-</item><item>
-	<title>Korea Travel Guide (East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/korea/</link>
-	<description>Discover the best places to visit in Korea, from culturally important historical sites to natural attractions and more. This guide offers tips on hiking and biking routes, must-try local dishes, places to stay, and the best time to visit.</description>
-	<pubDate>2024-04-18T05:41:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
