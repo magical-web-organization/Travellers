@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T22:32:18+03:00</pubDate>
-        <lastBuildDate>2024-04-18T22:32:18+03:00</lastBuildDate>
+        <pubDate>2024-04-18T22:44:10+03:00</pubDate>
+        <lastBuildDate>2024-04-18T22:44:10+03:00</lastBuildDate>
 
         <item>
+	<title>Carrizo Springs Travel Guide (South Texas Plains/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/south-texas-plains/carrizo-springs/</link>
+	<description>Explore the beauty and culture of Carrizo Springs, Texas with our comprehensive travel guide. Discover the best places to visit, things to do, food and drink scene, where to stay, and more!</description>
+	<pubDate>2024-04-18T22:44:10+03:00</pubDate>
+</item><item>
 	<title>Mackworth Island Travel Guide (Greater Portland/Maine/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/greater-portland/mackworth-island/</link>
 	<description>Discover outdoor adventures, local culture, and must-see attractions in Mackworth Island. Plan your trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/mongolia/western-mongolia/ulaagchinii-khar-nuur-national-park/</link>
 	<description>Explore the breathtaking beauty of Ulaagchinii Khar Nuur National Park, enjoy outdoor adventures & scenic views, learn about local culture, and taste delicious Mongolian cuisine.</description>
 	<pubDate>2024-04-18T18:09:32+03:00</pubDate>
-</item><item>
-	<title>Deerfield Travel Guide (Northwest Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/northwest-suburbs/deerfield/</link>
-	<description>Discover the culturally rich and natural attractions of Deerfield, Illinois, and plan your perfect itinerary with our ultimate tour guide.</description>
-	<pubDate>2024-04-18T18:01:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
