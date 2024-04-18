@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T13:25:26+03:00</pubDate>
-        <lastBuildDate>2024-04-18T13:25:26+03:00</lastBuildDate>
+        <pubDate>2024-04-18T13:34:40+03:00</pubDate>
+        <lastBuildDate>2024-04-18T13:34:40+03:00</lastBuildDate>
 
         <item>
+	<title>Darfur Travel Guide (Sudan/Sahel/Africa)</title>
+	<link>https://travellers.wiki/en/africa/sahel/sudan/darfur/</link>
+	<description>Embark on a journey to explore the hidden gem of Africa with our comprehensive travel guide to Darfur, Sudan. From cultural hotspots to scenic views, this guide provides an overview of everything you need to know before planning your adventure.</description>
+	<pubDate>2024-04-18T13:34:40+03:00</pubDate>
+</item><item>
 	<title>Sunyani Travel Guide (Ashanti-Kwahu/Ghana/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/ghana/ashanti-kwahu/sunyani/</link>
 	<description>Plan your trip to Sunyani, Ghana with our comprehensive travel guide including a list of places to visit, things to do, where to stay, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ogun-state/magboro/</link>
 	<description>Explore the culturally rich and naturally beautiful town of Magboro with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-04-18T09:26:32+03:00</pubDate>
-</item><item>
-	<title>Ikeda (Osaka) Travel Guide (Osaka (prefecture)/Kansai/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/osaka-prefecture/ikeda-osaka/</link>
-	<description>Plan a trip to Ikeda (Osaka), Japan with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, local culture, safety tips, and more.</description>
-	<pubDate>2024-04-18T08:37:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
