@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T03:24:07+03:00</pubDate>
-        <lastBuildDate>2024-04-18T03:24:07+03:00</lastBuildDate>
+        <pubDate>2024-04-18T03:37:14+03:00</pubDate>
+        <lastBuildDate>2024-04-18T03:37:14+03:00</lastBuildDate>
 
         <item>
+	<title>Highland Park Travel Guide (Middlesex County/Gateway/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/gateway/middlesex-county/highland-park/</link>
+	<description>Discover the best places to visit, dine, and stay in Highland Park. Learn about the town's cultural and natural attractions, activities, and tours, and read important travel information before your next adventure.</description>
+	<pubDate>2024-04-18T03:37:14+03:00</pubDate>
+</item><item>
 	<title>Lunigiana Travel Guide (Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/lunigiana/</link>
 	<description>Discover the best things to do and places to visit in Lunigiana, Italy. Find out about local culture, food, transportation, and more in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/wauwatosa/</link>
 	<description>Explore the best things to do, eat, and see in Wauwatosa, Wisconsin with our comprehensive travel guide.</description>
 	<pubDate>2024-04-17T23:22:20+03:00</pubDate>
-</item><item>
-	<title>St. Mary's City Travel Guide (Southern Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/southern-maryland/st-mary-s-city/</link>
-	<description>Plan a trip to St. Mary's City with our comprehensive guide. Discover the best things to do, see, and eat, and learn about the history and culture of this charming Southern Maryland town.</description>
-	<pubDate>2024-04-17T22:35:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
