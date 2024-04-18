@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T20:51:24+03:00</pubDate>
-        <lastBuildDate>2024-04-18T20:51:24+03:00</lastBuildDate>
+        <pubDate>2024-04-18T21:19:06+03:00</pubDate>
+        <lastBuildDate>2024-04-18T21:19:06+03:00</lastBuildDate>
 
         <item>
+	<title>Shcholkine Travel Guide (Crimea/Southern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/crimea/shcholkine/</link>
+	<description>Visit Shcholkine, Crimea with our comprehensive tour guide. Discover the best places to visit, hike, bike, and more. Learn about the local culture, food, and customs.</description>
+	<pubDate>2024-04-18T21:19:06+03:00</pubDate>
+</item><item>
 	<title>Brentwood Travel Guide (Essex/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/essex/brentwood/</link>
 	<description>Explore the top natural and cultural attractions in Brentwood, learn where to stay, eat, and shop, and follow our week-long itinerary to make the most of your visit. Find out how to travel to and around Brentwood, and what local customs and foods to try.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/qatar/al-shahaniyah/</link>
 	<description>Discover the best places to visit, eat, stay, and more in Al Shahaniyah, Qatar with this comprehensive travel guide.</description>
 	<pubDate>2024-04-18T16:33:59+03:00</pubDate>
-</item><item>
-	<title>Heerenveen Travel Guide (Friesland/Northern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/friesland/heerenveen/</link>
-	<description>Planning a trip to Heerenveen? Read our complete travel guide for information on attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-04-18T16:23:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
