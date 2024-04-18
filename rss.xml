@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T02:09:40+03:00</pubDate>
-        <lastBuildDate>2024-04-19T02:09:40+03:00</lastBuildDate>
+        <pubDate>2024-04-19T02:53:05+03:00</pubDate>
+        <lastBuildDate>2024-04-19T02:53:05+03:00</lastBuildDate>
 
         <item>
+	<title>Binz Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/binz/</link>
+	<description>Discover the best sights, activities, and local culture of Binz, Germany with our comprehensive travel guide. Learn about the top attractions, where to stay, what to eat, and more!</description>
+	<pubDate>2024-04-19T02:53:05+03:00</pubDate>
+</item><item>
 	<title>Kratovo Travel Guide (Eastern North Macedonia/North Macedonia/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/eastern-north-macedonia/kratovo/</link>
 	<description>Discover the top things to do, see, eat, and explore in Kratovo, along with practical tips for transportation, safety, and accommodation. Plan your perfect itinerary today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/greater-portland/mackworth-island/</link>
 	<description>Discover outdoor adventures, local culture, and must-see attractions in Mackworth Island. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-04-18T22:32:18+03:00</pubDate>
-</item><item>
-	<title>Bedford Travel Guide (MetroWest/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/bedford/</link>
-	<description>Explore the culturally rich and outdoor adventure-packed town of Bedford, Massachusetts with this comprehensive tour guide. Discover the top things to do, where to stay, what to eat, and much more.</description>
-	<pubDate>2024-04-18T21:55:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
