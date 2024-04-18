@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T19:37:06+03:00</pubDate>
-        <lastBuildDate>2024-04-18T19:37:06+03:00</lastBuildDate>
+        <pubDate>2024-04-18T20:18:23+03:00</pubDate>
+        <lastBuildDate>2024-04-18T20:18:23+03:00</lastBuildDate>
 
         <item>
+	<title>College Park (Georgia) Travel Guide (Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/college-park-georgia/</link>
+	<description>Discover the best places to visit, things to do, and local culture to experience in College Park (Georgia) with our comprehensive travel guide.</description>
+	<pubDate>2024-04-18T20:18:23+03:00</pubDate>
+</item><item>
 	<title>Parikia Travel Guide (Paros/Cyclades/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/paros/parikia/</link>
 	<description>Parikia is the largest settlement in Paros, Greece. This comprehensive travel guide covers everything from places to visit in Parikia to where to stay, and what to buy.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/riau-islands/batam/nongsa/</link>
 	<description>A comprehensive travel guide for Nongsa featuring a list of places to visit, hiking & biking routes, best things to do, food, accommodations, cultural insights, do's and don'ts, and more.</description>
 	<pubDate>2024-04-18T16:02:08+03:00</pubDate>
-</item><item>
-	<title>Lawrence Travel Guide (Eastern Kansas/Kansas/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/eastern-kansas/lawrence/</link>
-	<description>Explore the culturally rich and scenic Lawrence with our detailed tour guide covering places to visit, food and drink scene, local culture, safety and health, and nearby destinations.</description>
-	<pubDate>2024-04-18T15:03:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
