@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T14:13:49+03:00</pubDate>
-        <lastBuildDate>2024-04-18T14:13:49+03:00</lastBuildDate>
+        <pubDate>2024-04-18T14:52:49+03:00</pubDate>
+        <lastBuildDate>2024-04-18T14:52:49+03:00</lastBuildDate>
 
         <item>
+	<title>Kuortane Travel Guide (Southern Ostrobothnia/West Coast/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/southern-ostrobothnia/kuortane/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in Kuortane, Finland. Find out the local culture, customs, safety tips, and transportation options to make the most of your trip.</description>
+	<pubDate>2024-04-18T14:52:49+03:00</pubDate>
+</item><item>
 	<title>San Miguel de Allende Travel Guide (Guanajuato (state)/Bajío/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/guanajuato-state/san-miguel-de-allende/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more in San Miguel de Allende, Mexico with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/oman/dhofar/salalah/</link>
 	<description>Explore the natural beauty, rich culture, and adventurous activities of Salalah, Oman with our complete travel guide.</description>
 	<pubDate>2024-04-18T10:31:44+03:00</pubDate>
-</item><item>
-	<title>Bushkill Falls Travel Guide (Pocono Mountains/Northeastern Pennsylvania/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/pocono-mountains/bushkill-falls/</link>
-	<description>Plan your trip to Bushkill Falls with our helpful guide that includes recommendations on places to visit, hiking and biking routes, activities and tours, food and drinks, where to stay, local culture, safety, transportation options and more.</description>
-	<pubDate>2024-04-18T09:58:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
