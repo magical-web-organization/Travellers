@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T18:01:25+03:00</pubDate>
-        <lastBuildDate>2024-04-18T18:01:25+03:00</lastBuildDate>
+        <pubDate>2024-04-18T18:09:32+03:00</pubDate>
+        <lastBuildDate>2024-04-18T18:09:32+03:00</lastBuildDate>
 
         <item>
+	<title>Ulaagchinii Khar Nuur National Park Travel Guide (Western Mongolia/Mongolia/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/mongolia/western-mongolia/ulaagchinii-khar-nuur-national-park/</link>
+	<description>Explore the breathtaking beauty of Ulaagchinii Khar Nuur National Park, enjoy outdoor adventures & scenic views, learn about local culture, and taste delicious Mongolian cuisine.</description>
+	<pubDate>2024-04-18T18:09:32+03:00</pubDate>
+</item><item>
 	<title>Deerfield Travel Guide (Northwest Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/northwest-suburbs/deerfield/</link>
 	<description>Discover the culturally rich and natural attractions of Deerfield, Illinois, and plan your perfect itinerary with our ultimate tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/sahel/sudan/darfur/</link>
 	<description>Embark on a journey to explore the hidden gem of Africa with our comprehensive travel guide to Darfur, Sudan. From cultural hotspots to scenic views, this guide provides an overview of everything you need to know before planning your adventure.</description>
 	<pubDate>2024-04-18T13:34:40+03:00</pubDate>
-</item><item>
-	<title>Sunyani Travel Guide (Ashanti-Kwahu/Ghana/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/ghana/ashanti-kwahu/sunyani/</link>
-	<description>Plan your trip to Sunyani, Ghana with our comprehensive travel guide including a list of places to visit, things to do, where to stay, transportation options, and more.</description>
-	<pubDate>2024-04-18T13:25:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
