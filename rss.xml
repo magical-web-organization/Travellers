@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T04:09:23+03:00</pubDate>
-        <lastBuildDate>2024-04-18T04:09:23+03:00</lastBuildDate>
+        <pubDate>2024-04-18T04:43:38+03:00</pubDate>
+        <lastBuildDate>2024-04-18T04:43:38+03:00</lastBuildDate>
 
         <item>
+	<title>Loppi Travel Guide (Tavastia Proper/Southern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/tavastia-proper/loppi/</link>
+	<description>Plan your trip to Loppi, Southern Finland with this helpful travel guide. Explore outdoor adventures, cultural attractions, local cuisine, and more.</description>
+	<pubDate>2024-04-18T04:43:38+03:00</pubDate>
+</item><item>
 	<title>Koravangala Travel Guide (Hassan (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/hassan-district/koravangala/</link>
 	<description>Discover the best cultural and natural attractions, food and drink scene, where to stay, what to buy, safety and health, how to get around, and nearby destinations and excursions in Koravangala.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/north-korea/hwanghae/sariwon/</link>
 	<description>Discover the best things to do, see, eat, and explore in Sariwon, North Korea. Follow our week-long itinerary, learn about the local culture and customs, and find out how to get there.</description>
 	<pubDate>2024-04-18T00:18:36+03:00</pubDate>
-</item><item>
-	<title>Riding Mountain National Park Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/riding-mountain-national-park/</link>
-	<description>Discover the stunning beauty and adventure that awaits in Riding Mountain National Park. This tour guide includes everything you need to know before embarking on your journey, from the best trails to the local cuisine.</description>
-	<pubDate>2024-04-17T23:49:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
