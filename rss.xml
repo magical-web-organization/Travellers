@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T20:18:23+03:00</pubDate>
-        <lastBuildDate>2024-04-18T20:18:23+03:00</lastBuildDate>
+        <pubDate>2024-04-18T20:51:24+03:00</pubDate>
+        <lastBuildDate>2024-04-18T20:51:24+03:00</lastBuildDate>
 
         <item>
+	<title>Brentwood Travel Guide (Essex/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/essex/brentwood/</link>
+	<description>Explore the top natural and cultural attractions in Brentwood, learn where to stay, eat, and shop, and follow our week-long itinerary to make the most of your visit. Find out how to travel to and around Brentwood, and what local customs and foods to try.</description>
+	<pubDate>2024-04-18T20:51:24+03:00</pubDate>
+</item><item>
 	<title>College Park (Georgia) Travel Guide (Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/college-park-georgia/</link>
 	<description>Discover the best places to visit, things to do, and local culture to experience in College Park (Georgia) with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/friesland/heerenveen/</link>
 	<description>Planning a trip to Heerenveen? Read our complete travel guide for information on attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-04-18T16:23:08+03:00</pubDate>
-</item><item>
-	<title>Nongsa Travel Guide (Batam/Riau Islands/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/riau-islands/batam/nongsa/</link>
-	<description>A comprehensive travel guide for Nongsa featuring a list of places to visit, hiking & biking routes, best things to do, food, accommodations, cultural insights, do's and don'ts, and more.</description>
-	<pubDate>2024-04-18T16:02:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
