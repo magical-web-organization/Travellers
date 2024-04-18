@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-18T11:41:51+03:00</pubDate>
-        <lastBuildDate>2024-04-18T11:41:51+03:00</lastBuildDate>
+        <pubDate>2024-04-18T12:33:17+03:00</pubDate>
+        <lastBuildDate>2024-04-18T12:33:17+03:00</lastBuildDate>
 
         <item>
+	<title>Sragen Travel Guide (Surakarta/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/surakarta/sragen/</link>
+	<description>Discover the best things to do in Sragen, Central Java, from cultural attractions and outdoor adventures to delicious food and unique souvenirs. Read our comprehensive travel guide to plan your next trip to Sragen.</description>
+	<pubDate>2024-04-18T12:33:17+03:00</pubDate>
+</item><item>
 	<title>Kamaishi Travel Guide (Iwate/Tohoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/iwate/kamaishi/</link>
 	<description>Plan your Kamaishi trip with our comprehensive travel guide, packed with information about things to do, places to visit, accommodations, and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/siberia/krasnoyarsk-krai/taymyria/</link>
 	<description>Plan a trip to Taymyria, Siberia using this comprehensive travel guide that includes information on where to go, what to do, and how to get around in this remote region of Russia.</description>
 	<pubDate>2024-04-18T07:57:54+03:00</pubDate>
-</item><item>
-	<title>Trapani Travel Guide (Trapani (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/trapani/</link>
-	<description>Discover the best places to visit, food and drink scene, where to stay, cultural customs, and transport options in Trapani, Sicily.</description>
-	<pubDate>2024-04-18T07:30:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
