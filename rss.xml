@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T02:53:05+03:00</pubDate>
-        <lastBuildDate>2024-04-19T02:53:05+03:00</lastBuildDate>
+        <pubDate>2024-04-19T03:23:52+03:00</pubDate>
+        <lastBuildDate>2024-04-19T03:23:52+03:00</lastBuildDate>
 
         <item>
+	<title>Dalhousie Travel Guide (Acadian Coast/New Brunswick/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/acadian-coast/dalhousie/</link>
+	<description>Discover the best places to visit, food to try, where to stay, and many more in Dalhousie, New Brunswick with our comprehensive travel guide.</description>
+	<pubDate>2024-04-19T03:23:52+03:00</pubDate>
+</item><item>
 	<title>Binz Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/binz/</link>
 	<description>Discover the best sights, activities, and local culture of Binz, Germany with our comprehensive travel guide. Learn about the top attractions, where to stay, what to eat, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/south-texas-plains/carrizo-springs/</link>
 	<description>Explore the beauty and culture of Carrizo Springs, Texas with our comprehensive travel guide. Discover the best places to visit, things to do, food and drink scene, where to stay, and more!</description>
 	<pubDate>2024-04-18T22:44:10+03:00</pubDate>
-</item><item>
-	<title>Mackworth Island Travel Guide (Greater Portland/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/greater-portland/mackworth-island/</link>
-	<description>Discover outdoor adventures, local culture, and must-see attractions in Mackworth Island. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-04-18T22:32:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
