@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T20:40:17+03:00</pubDate>
-        <lastBuildDate>2024-04-19T20:40:17+03:00</lastBuildDate>
+        <pubDate>2024-04-19T21:11:30+03:00</pubDate>
+        <lastBuildDate>2024-04-19T21:11:30+03:00</lastBuildDate>
 
         <item>
+	<title>New Lebanon (New York) Travel Guide (Columbia County (New York)/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/columbia-county-new-york/new-lebanon-new-york/</link>
+	<description>Discover the best cultural and natural attractions, outdoor adventures, hiking routes, food scene, and local culture and customs in New Lebanon (New York).</description>
+	<pubDate>2024-04-19T21:11:30+03:00</pubDate>
+</item><item>
 	<title>West Baltimore Travel Guide (Baltimore/Baltimore County/Central Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/central-maryland/baltimore-county/baltimore/west-baltimore/</link>
 	<description>Read this comprehensive guide to West Baltimore and discover the best things to do, see, eat, and experience in this culturally rich and historically significant destination in Maryland, USA.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/terengganu/marang/</link>
 	<description>Discover the beautiful town of Marang in Terengganu, Malaysia through this 10,000-word guide that features places to visit, outdoor activities, food and drink scene, accommodations, local culture and customs, safety and health, getting to and around Marang, and nearby destinations to explore.</description>
 	<pubDate>2024-04-19T16:36:47+03:00</pubDate>
-</item><item>
-	<title>Trelew Travel Guide (Patagonia/Argentina/South America)</title>
-	<link>https://travellers.wiki/en/south-america/argentina/patagonia/trelew/</link>
-	<description>Discover the hidden gems of Trelew, Argentina with our ultimate travel guide. Explore museums, natural beauties, delicious food, and cultural customs.</description>
-	<pubDate>2024-04-19T16:05:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
