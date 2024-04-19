@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T06:37:23+03:00</pubDate>
-        <lastBuildDate>2024-04-19T06:37:23+03:00</lastBuildDate>
+        <pubDate>2024-04-19T07:16:13+03:00</pubDate>
+        <lastBuildDate>2024-04-19T07:16:13+03:00</lastBuildDate>
 
         <item>
+	<title>Malvar Travel Guide (Batangas/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/malvar/</link>
+	<description>Explore Malvar, a beautiful town located in the province of Batangas, Philippines. Discover the best things to do, places to visit, food to try, and where to stay in Malvar.</description>
+	<pubDate>2024-04-19T07:16:13+03:00</pubDate>
+</item><item>
 	<title>Fulton Travel Guide (South Barrier Coast/Gulf Coast/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/gulf-coast/south-barrier-coast/fulton/</link>
 	<description>Plan your perfect trip to Fulton, Texas with our comprehensive guide. Read on for a list of places to visit, best things to do, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/binz/</link>
 	<description>Discover the best sights, activities, and local culture of Binz, Germany with our comprehensive travel guide. Learn about the top attractions, where to stay, what to eat, and more!</description>
 	<pubDate>2024-04-19T02:53:05+03:00</pubDate>
-</item><item>
-	<title>Kratovo Travel Guide (Eastern North Macedonia/North Macedonia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/eastern-north-macedonia/kratovo/</link>
-	<description>Discover the top things to do, see, eat, and explore in Kratovo, along with practical tips for transportation, safety, and accommodation. Plan your perfect itinerary today!</description>
-	<pubDate>2024-04-19T02:09:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
