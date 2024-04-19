@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T22:51:31+03:00</pubDate>
-        <lastBuildDate>2024-04-19T22:51:31+03:00</lastBuildDate>
+        <pubDate>2024-04-19T23:20:23+03:00</pubDate>
+        <lastBuildDate>2024-04-19T23:20:23+03:00</lastBuildDate>
 
         <item>
+	<title>Calilegua National Park Travel Guide (Jujuy/Andean Northwest/Argentina/South America)</title>
+	<link>https://travellers.wiki/en/south-america/argentina/andean-northwest/jujuy/calilegua-national-park/</link>
+	<description>Plan your trip to Calilegua National Park in Argentina with our comprehensive travel guide, featuring must-visit places, outdoor adventures, hiking/biking routes, local cuisine, accommodations, cultural insights, and safety tips.</description>
+	<pubDate>2024-04-19T23:20:23+03:00</pubDate>
+</item><item>
 	<title>Muvattupuzha Travel Guide (Northern Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/northern-travancore/muvattupuzha/</link>
 	<description>Discover the best things to do, places to visit, food and drink, hiking and cycling routes, and local culture and customs of Muvattupuzha, Kerala in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/adamawa-state/jimeta/</link>
 	<description>Explore the best Jimeta has to offer with our comprehensive travel guide. From cultural attractions to natural wonders, this guide has it all.</description>
 	<pubDate>2024-04-19T18:39:19+03:00</pubDate>
-</item><item>
-	<title>Winter Garden Travel Guide (Greater Orlando/Inland Florida/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/greater-orlando/winter-garden/</link>
-	<description>Explore the best places to visit, things to do, and local culture in Winter Garden, Florida with our comprehensive guide.</description>
-	<pubDate>2024-04-19T18:30:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
