@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T13:09:31+03:00</pubDate>
-        <lastBuildDate>2024-04-19T13:09:31+03:00</lastBuildDate>
+        <pubDate>2024-04-19T13:49:53+03:00</pubDate>
+        <lastBuildDate>2024-04-19T13:49:53+03:00</lastBuildDate>
 
         <item>
+	<title>Sifnos Travel Guide (Cyclades/Greek Islands/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/sifnos/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and where to eat in Sifnos, Greece. Plan your next adventure with our comprehensive guide.</description>
+	<pubDate>2024-04-19T13:49:53+03:00</pubDate>
+</item><item>
 	<title>Prejmer Travel Guide (Brașov County/Transylvania/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/brasov-county/prejmer/</link>
 	<description>Discover the best things to do in Prejmer, Romania including cultural landmarks, natural wonders, food, and accommodations. Find out how to get there and navigate around the town with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/pays-de-la-loire/lhomme/</link>
 	<description>Discover the best things to do and see in Lhomme, including hiking and biking routes, cultural attractions, natural wonders, and local cuisine. Learn about where to stay, what to buy, and how to get around this charming town in Pays de la Loire, France.</description>
 	<pubDate>2024-04-19T09:26:51+03:00</pubDate>
-</item><item>
-	<title>Chilaw Travel Guide (North Western Province/Sri Lanka/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/north-western-province/chilaw/</link>
-	<description>Explore the culturally rich and naturally scenic city of Chilaw, Sri Lanka with this comprehensive travel guide. Discover the must-see attractions, outdoor adventures, local cuisine, and more.</description>
-	<pubDate>2024-04-19T08:53:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
