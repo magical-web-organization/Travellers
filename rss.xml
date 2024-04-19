@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T23:20:23+03:00</pubDate>
-        <lastBuildDate>2024-04-19T23:20:23+03:00</lastBuildDate>
+        <pubDate>2024-04-19T23:55:13+03:00</pubDate>
+        <lastBuildDate>2024-04-19T23:55:13+03:00</lastBuildDate>
 
         <item>
+	<title>Val Mesolcina Travel Guide (Graubünden/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/graubunden/val-mesolcina/</link>
+	<description>A comprehensive travel guide for Val Mesolcina, Switzerland including places to visit, activities, hiking routes, food options, cultural attractions, safety tips, transportation, and nearby destinations.</description>
+	<pubDate>2024-04-19T23:55:13+03:00</pubDate>
+</item><item>
 	<title>Calilegua National Park Travel Guide (Jujuy/Andean Northwest/Argentina/South America)</title>
 	<link>https://travellers.wiki/en/south-america/argentina/andean-northwest/jujuy/calilegua-national-park/</link>
 	<description>Plan your trip to Calilegua National Park in Argentina with our comprehensive travel guide, featuring must-visit places, outdoor adventures, hiking/biking routes, local cuisine, accommodations, cultural insights, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/northern-vietnam/dong-dang/</link>
 	<description>Discover the best things to do, see, and eat in Dong Dang, Vietnam - a hidden gem in Northern Vietnam. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-04-19T19:30:13+03:00</pubDate>
-</item><item>
-	<title>Jimeta Travel Guide (Adamawa State/North East Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/adamawa-state/jimeta/</link>
-	<description>Explore the best Jimeta has to offer with our comprehensive travel guide. From cultural attractions to natural wonders, this guide has it all.</description>
-	<pubDate>2024-04-19T18:39:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
