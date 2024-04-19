@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T23:55:13+03:00</pubDate>
-        <lastBuildDate>2024-04-19T23:55:13+03:00</lastBuildDate>
+        <pubDate>2024-04-20T00:28:00+03:00</pubDate>
+        <lastBuildDate>2024-04-20T00:28:00+03:00</lastBuildDate>
 
         <item>
+	<title>Adler Travel Guide (Krasnodar Krai/Southern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/krasnodar-krai/adler/</link>
+	<description>Plan your dream vacation in Adler, Russia with our comprehensive travel guide. Discover must-see attractions, outdoor adventures, local food and drink scene, transportation options, and more.</description>
+	<pubDate>2024-04-20T00:28:00+03:00</pubDate>
+</item><item>
 	<title>Val Mesolcina Travel Guide (Graubünden/Switzerland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/graubunden/val-mesolcina/</link>
 	<description>A comprehensive travel guide for Val Mesolcina, Switzerland including places to visit, activities, hiking routes, food options, cultural attractions, safety tips, transportation, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/tatarstan/kazan/</link>
 	<description>Get ready to explore Kazan, one of the most vibrant cities in Russia. From scenic views, hiking trails, and mouth-watering cuisine, discover everything this incredible destination has to offer.</description>
 	<pubDate>2024-04-19T19:51:10+03:00</pubDate>
-</item><item>
-	<title>Dong Dang Travel Guide (Northern Vietnam/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/northern-vietnam/dong-dang/</link>
-	<description>Discover the best things to do, see, and eat in Dong Dang, Vietnam - a hidden gem in Northern Vietnam. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-04-19T19:30:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
