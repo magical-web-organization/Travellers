@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T11:54:42+03:00</pubDate>
-        <lastBuildDate>2024-04-19T11:54:42+03:00</lastBuildDate>
+        <pubDate>2024-04-19T12:04:56+03:00</pubDate>
+        <lastBuildDate>2024-04-19T12:04:56+03:00</lastBuildDate>
 
         <item>
+	<title>Tumanyan Travel Guide (Northern Armenia/Armenia/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/armenia/northern-armenia/tumanyan/</link>
+	<description>Plan your adventure to Tumanyan, Armenia with this comprehensive travel guide which includes information about attractions, activities, culture, local customs, safety, transportation, and more.</description>
+	<pubDate>2024-04-19T12:04:56+03:00</pubDate>
+</item><item>
 	<title>Juan Fernández Islands Travel Guide (Central Chile/Chile/South America)</title>
 	<link>https://travellers.wiki/en/south-america/chile/central-chile/juan-fernandez-islands/</link>
 	<description>Discover the best places to visit, food to try, and activities to do in Juan Fernández Islands with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/saint-amable/</link>
 	<description>Discover the best things to do in Saint-Amable, Quebec, including natural attractions, cultural hotspots, and more. Read on for a comprehensive travel guide to Saint-Amable.</description>
 	<pubDate>2024-04-19T07:35:28+03:00</pubDate>
-</item><item>
-	<title>Malvar Travel Guide (Batangas/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/malvar/</link>
-	<description>Explore Malvar, a beautiful town located in the province of Batangas, Philippines. Discover the best things to do, places to visit, food to try, and where to stay in Malvar.</description>
-	<pubDate>2024-04-19T07:16:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
