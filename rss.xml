@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T17:46:04+03:00</pubDate>
-        <lastBuildDate>2024-04-19T17:46:04+03:00</lastBuildDate>
+        <pubDate>2024-04-19T18:30:59+03:00</pubDate>
+        <lastBuildDate>2024-04-19T18:30:59+03:00</lastBuildDate>
 
         <item>
+	<title>Winter Garden Travel Guide (Greater Orlando/Inland Florida/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/greater-orlando/winter-garden/</link>
+	<description>Explore the best places to visit, things to do, and local culture in Winter Garden, Florida with our comprehensive guide.</description>
+	<pubDate>2024-04-19T18:30:59+03:00</pubDate>
+</item><item>
 	<title>Tanji Travel Guide (Gambia/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/gambia/tanji/</link>
 	<description>Plan your trip to Tanji with our detailed guide that includes places to visit, hiking routes, food and drink scene, where to stay, local customs, safety, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/sifnos/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and where to eat in Sifnos, Greece. Plan your next adventure with our comprehensive guide.</description>
 	<pubDate>2024-04-19T13:49:53+03:00</pubDate>
-</item><item>
-	<title>Prejmer Travel Guide (Brașov County/Transylvania/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/brasov-county/prejmer/</link>
-	<description>Discover the best things to do in Prejmer, Romania including cultural landmarks, natural wonders, food, and accommodations. Find out how to get there and navigate around the town with ease.</description>
-	<pubDate>2024-04-19T13:09:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
