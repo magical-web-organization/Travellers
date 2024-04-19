@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T09:26:51+03:00</pubDate>
-        <lastBuildDate>2024-04-19T09:26:51+03:00</lastBuildDate>
+        <pubDate>2024-04-19T09:37:14+03:00</pubDate>
+        <lastBuildDate>2024-04-19T09:37:14+03:00</lastBuildDate>
 
         <item>
+	<title>Beskids Travel Guide (Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/beskids/</link>
+	<description>Explore the best of Beskids with our travel guide! Discover cultural attractions, outdoor adventures, best hikes, food and drink scene, local customs, safety tips, and logistics to plan your perfect trip.</description>
+	<pubDate>2024-04-19T09:37:14+03:00</pubDate>
+</item><item>
 	<title>Lhomme Travel Guide (Pays de la Loire/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/pays-de-la-loire/lhomme/</link>
 	<description>Discover the best things to do and see in Lhomme, including hiking and biking routes, cultural attractions, natural wonders, and local cuisine. Learn about where to stay, what to buy, and how to get around this charming town in Pays de la Loire, France.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northern-indiana/auburn/</link>
 	<description>Discover Auburn, Indiana, with our comprehensive travel guide. Explore cultural and natural attractions, hiking and biking routes, food and drink scenes, and learn about local culture and customs.</description>
 	<pubDate>2024-04-19T05:08:57+03:00</pubDate>
-</item><item>
-	<title>Tillsonburg Travel Guide (Western Ontario/Southwestern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/western-ontario/tillsonburg/</link>
-	<description>Plan your dream vacation in Tillsonburg, Ontario with our comprehensive travel guide. Discover the best things to see and do, where to stay, eat and shop, and how to get around safely and comfortably.</description>
-	<pubDate>2024-04-19T04:35:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
