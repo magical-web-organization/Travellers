@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T00:52:42+03:00</pubDate>
-        <lastBuildDate>2024-04-20T00:52:42+03:00</lastBuildDate>
+        <pubDate>2024-04-20T01:30:39+03:00</pubDate>
+        <lastBuildDate>2024-04-20T01:30:39+03:00</lastBuildDate>
 
         <item>
+	<title>Southern Shore Travel Guide (New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/southern-shore/</link>
+	<description>Discover the best places to visit, eat, stay, and explore in Southern Shore, New Jersey with this comprehensive tour guide. Plan your trip with our week-long itinerary and transportation options guide.</description>
+	<pubDate>2024-04-20T01:30:39+03:00</pubDate>
+</item><item>
 	<title>Simpang Ampat Travel Guide (Penang/West Coast/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/penang/simpang-ampat/</link>
 	<description>Discover the cultural, natural, and adventure attractions of Simpang Ampat, Penang, Malaysia. Find the best places to visit, things to do, where to stay, and what to eat in our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/central-maryland/baltimore-county/baltimore/west-baltimore/</link>
 	<description>Read this comprehensive guide to West Baltimore and discover the best things to do, see, eat, and experience in this culturally rich and historically significant destination in Maryland, USA.</description>
 	<pubDate>2024-04-19T20:40:17+03:00</pubDate>
-</item><item>
-	<title>Nathdwara Travel Guide (Udaipur Division/Rajasthan/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/rajasthan/udaipur-division/nathdwara/</link>
-	<description>Read about the culturally important and natural attractions, hiking/biking routes, food and drink scene, where to stay, transportation options, and nearby destinations of Nathdwara, a city in Rajasthan, India.</description>
-	<pubDate>2024-04-19T20:07:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
