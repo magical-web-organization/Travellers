@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T14:31:21+03:00</pubDate>
-        <lastBuildDate>2024-04-19T14:31:21+03:00</lastBuildDate>
+        <pubDate>2024-04-19T14:54:05+03:00</pubDate>
+        <lastBuildDate>2024-04-19T14:54:05+03:00</lastBuildDate>
 
         <item>
+	<title>Santa Fe Springs Travel Guide (Gateway Cities (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/gateway-cities-los-angeles-county/santa-fe-springs/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Santa Fe Springs, California. Plan your perfect trip with our comprehensive travel guide.</description>
+	<pubDate>2024-04-19T14:54:05+03:00</pubDate>
+</item><item>
 	<title>Grande Curitiba Travel Guide (Paraná/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/parana/grande-curitiba/</link>
 	<description>A comprehensive travel guide to Grande Curitiba, including its must-see places and things to do.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/kainuu-and-eastern-oulu-region/pudasjarvi/</link>
 	<description>Discover the best places to visit, food and drink scene, accommodation options, and more in Pudasjärvi, Northern Finland.</description>
 	<pubDate>2024-04-19T10:24:43+03:00</pubDate>
-</item><item>
-	<title>Beskids Travel Guide (Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/beskids/</link>
-	<description>Explore the best of Beskids with our travel guide! Discover cultural attractions, outdoor adventures, best hikes, food and drink scene, local customs, safety tips, and logistics to plan your perfect trip.</description>
-	<pubDate>2024-04-19T09:37:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
