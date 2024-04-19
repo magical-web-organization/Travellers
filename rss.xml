@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-19T04:10:59+03:00</pubDate>
-        <lastBuildDate>2024-04-19T04:10:59+03:00</lastBuildDate>
+        <pubDate>2024-04-19T04:35:17+03:00</pubDate>
+        <lastBuildDate>2024-04-19T04:35:17+03:00</lastBuildDate>
 
         <item>
+	<title>Tillsonburg Travel Guide (Western Ontario/Southwestern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/western-ontario/tillsonburg/</link>
+	<description>Plan your dream vacation in Tillsonburg, Ontario with our comprehensive travel guide. Discover the best things to see and do, where to stay, eat and shop, and how to get around safely and comfortably.</description>
+	<pubDate>2024-04-19T04:35:17+03:00</pubDate>
+</item><item>
 	<title>Swansea Travel Guide (SouthCoast/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/southcoast/swansea/</link>
 	<description>Plan your trip to Swansea with this comprehensive travel guide featuring top attractions, activities, accommodations, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/viterbo-province/vetralla/</link>
 	<description>Discover the best places to visit, where to stay, what to eat, and what to do in Vetralla, Italy.</description>
 	<pubDate>2024-04-19T00:31:01+03:00</pubDate>
-</item><item>
-	<title>Similan Islands Travel Guide (Northern Andaman Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/northern-andaman-coast/similan-islands/</link>
-	<description>Discover the beauty of Similan Islands with our comprehensive travel guide. From natural attractions to hiking and biking routes to the food and drink scene, we've got you covered.</description>
-	<pubDate>2024-04-18T23:43:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
