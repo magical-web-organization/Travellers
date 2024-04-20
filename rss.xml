@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T07:22:51+03:00</pubDate>
-        <lastBuildDate>2024-04-20T07:22:51+03:00</lastBuildDate>
+        <pubDate>2024-04-20T08:03:18+03:00</pubDate>
+        <lastBuildDate>2024-04-20T08:03:18+03:00</lastBuildDate>
 
         <item>
+	<title>Lignano Travel Guide (Friuli-Venezia Giulia/Northeast Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northeast-italy/friuli-venezia-giulia/lignano/</link>
+	<description>Discover the beauty of Lignano with this comprehensive travel guide. From places to visit and things to do, to food, culture, and safety tips, this guide has everything you need to plan your trip.</description>
+	<pubDate>2024-04-20T08:03:18+03:00</pubDate>
+</item><item>
 	<title>Mons Travel Guide (Hainaut/Wallonia/Belgium/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/hainaut/mons/</link>
 	<description>Explore the charming city of Mons in Belgium with our detailed guide. Discover the top attractions, must-try dishes, best accommodations, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/the-lothians/edinburgh/west/</link>
 	<description>Discover the best things to do, places to stay, and how to get around in West, Edinburgh with this comprehensive travel guide. Find natural attractions, hiking/biking routes, local culture and customs, and more.</description>
 	<pubDate>2024-04-20T03:06:24+03:00</pubDate>
-</item><item>
-	<title>Roscoff Travel Guide (Brittany/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/brittany/roscoff/</link>
-	<description>Explore the best of Roscoff with this comprehensive tour guide that covers everything from must-visit places to stay, eat, and buy souvenirs, to local culture and customs, safety tips, and transportation options.</description>
-	<pubDate>2024-04-20T02:51:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
