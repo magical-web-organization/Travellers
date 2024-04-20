@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T13:34:54+03:00</pubDate>
-        <lastBuildDate>2024-04-20T13:34:54+03:00</lastBuildDate>
+        <pubDate>2024-04-20T14:10:31+03:00</pubDate>
+        <lastBuildDate>2024-04-20T14:10:31+03:00</lastBuildDate>
 
         <item>
+	<title>Rosslyn–Ballston Corridor Travel Guide (Arlington/Fairfax County/Northern Virginia/Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/northern-virginia/fairfax-county/arlington/rosslyn-ballston-corridor/</link>
+	<description>Discover the best places to visit and things to do in Rosslyn-Ballston Corridor with our comprehensive travel guide. From outdoor adventures to cultural attractions and local cuisine, we've got you covered.</description>
+	<pubDate>2024-04-20T14:10:31+03:00</pubDate>
+</item><item>
 	<title>Trinidad Travel Guide (Beni/Bolivia/South America)</title>
 	<link>https://travellers.wiki/en/south-america/bolivia/beni/trinidad/</link>
 	<description>Discover the best places to visit, hike, eat, and stay in Trinidad, Bolivia, with our comprehensive travel guide. Learn about local customs, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/chao-phraya-basin/nonthaburi/</link>
 	<description>Explore the best tourist attractions, activities, local culture, food, and more with this comprehensive travel guide to Nonthaburi, Thailand.</description>
 	<pubDate>2024-04-20T09:25:35+03:00</pubDate>
-</item><item>
-	<title>Afton Travel Guide (Southwest Wyoming/Wyoming/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/wyoming/southwest-wyoming/afton/</link>
-	<description>Discover the natural, cultural, and culinary wonders of Afton, Wyoming with our comprehensive travel guide. Plan your trip with our itinerary suggestions, learn about local customs and culture, and find tips on transportation and safety.</description>
-	<pubDate>2024-04-20T08:42:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
