@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T19:05:18+03:00</pubDate>
-        <lastBuildDate>2024-04-20T19:05:18+03:00</lastBuildDate>
+        <pubDate>2024-04-20T19:37:24+03:00</pubDate>
+        <lastBuildDate>2024-04-20T19:37:24+03:00</lastBuildDate>
 
         <item>
+	<title>Clovis Travel Guide (Southeast New Mexico/New Mexico/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southeast-new-mexico/clovis/</link>
+	<description>Plan your trip to Clovis with our comprehensive tour guide including recommendations on places to visit, things to do, where to eat and stay, and cultural customs.</description>
+	<pubDate>2024-04-20T19:37:24+03:00</pubDate>
+</item><item>
 	<title>Ansan Travel Guide (Gyeonggi/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/ansan/</link>
 	<description>Plan the perfect trip to Ansan with our comprehensive travel guide. Explore the top things to do, see, eat, and buy in this fascinating city of Gyeonggi, South Korea.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/el-medano/</link>
 	<description>Plan your trip to El Médano with this thorough guide, featuring lists of places to visit, outdoor adventures, hiking/biking routes, food and drink scene, safety and health tips, and more.</description>
 	<pubDate>2024-04-20T15:31:16+03:00</pubDate>
-</item><item>
-	<title>Sabang Travel Guide (Mindoro/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/mindoro/sabang/</link>
-	<description>Planning a trip to Sabang? This comprehensive guide covers everything you need to know including top things to do, where to stay, and when to visit.</description>
-	<pubDate>2024-04-20T14:40:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
