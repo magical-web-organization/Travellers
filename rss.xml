@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T21:52:22+03:00</pubDate>
-        <lastBuildDate>2024-04-20T21:52:22+03:00</lastBuildDate>
+        <pubDate>2024-04-20T22:29:45+03:00</pubDate>
+        <lastBuildDate>2024-04-20T22:29:45+03:00</lastBuildDate>
 
         <item>
+	<title>Bay Islands Travel Guide (Caribbean Honduras/Honduras/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/honduras/caribbean-honduras/bay-islands/</link>
+	<description>Plan the perfect trip to Bay Islands, Honduras with this comprehensive travel guide that includes everything from where to stay and what to see to tips for staying safe and healthy.</description>
+	<pubDate>2024-04-20T22:29:45+03:00</pubDate>
+</item><item>
 	<title>Framura Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/framura/</link>
 	<description>Discover the best things to see and do in Framura, Italy, including cultural attractions, natural wonders, hiking/biking routes, food and drink scenes, and more. Plan your trip with this comprehensive travel guide to Framura.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/caves-and-lakes/lewisburg/</link>
 	<description>Explore the beautiful gems of Lewisburg, Kentucky with our comprehensive travel guide. Discover the best outdoor adventures, cultural attractions, hiking trails, hotels, food, and more!</description>
 	<pubDate>2024-04-20T17:38:47+03:00</pubDate>
-</item><item>
-	<title>Batan Travel Guide (Aklan/Panay/Visayas/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/panay/aklan/batan/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Batan, Aklan. Learn about its culture, customs, safety, and transportation options. Find out the must-try food and drinks and the best time to visit Batan!</description>
-	<pubDate>2024-04-20T17:26:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
