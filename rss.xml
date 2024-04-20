@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T17:26:46+03:00</pubDate>
-        <lastBuildDate>2024-04-20T17:26:46+03:00</lastBuildDate>
+        <pubDate>2024-04-20T17:38:47+03:00</pubDate>
+        <lastBuildDate>2024-04-20T17:38:47+03:00</lastBuildDate>
 
         <item>
+	<title>Lewisburg Travel Guide (Caves and Lakes/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/caves-and-lakes/lewisburg/</link>
+	<description>Explore the beautiful gems of Lewisburg, Kentucky with our comprehensive travel guide. Discover the best outdoor adventures, cultural attractions, hiking trails, hotels, food, and more!</description>
+	<pubDate>2024-04-20T17:38:47+03:00</pubDate>
+</item><item>
 	<title>Batan Travel Guide (Aklan/Panay/Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/panay/aklan/batan/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Batan, Aklan. Learn about its culture, customs, safety, and transportation options. Find out the must-try food and drinks and the best time to visit Batan!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/central-myanmar/mount-popa/</link>
 	<description>Planning a trip to Mount Popa? Here's a complete guide to help you explore this stunning destination in Myanmar.</description>
 	<pubDate>2024-04-20T13:18:34+03:00</pubDate>
-</item><item>
-	<title>Hamtramck-Highland Park Travel Guide (Detroit/Wayne County/Metro Detroit/Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/wayne-county/detroit/hamtramck-highland-park/</link>
-	<description>Explore the rich culture and stunning natural beauty of Hamtramck-Highland Park with our comprehensive travel guide. Discover the best places to visit, dine, stay, and experience in this charming city in Metro Detroit.</description>
-	<pubDate>2024-04-20T12:39:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
