@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T21:08:22+03:00</pubDate>
-        <lastBuildDate>2024-04-20T21:08:22+03:00</lastBuildDate>
+        <pubDate>2024-04-20T21:52:22+03:00</pubDate>
+        <lastBuildDate>2024-04-20T21:52:22+03:00</lastBuildDate>
 
         <item>
+	<title>Framura Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/framura/</link>
+	<description>Discover the best things to see and do in Framura, Italy, including cultural attractions, natural wonders, hiking/biking routes, food and drink scenes, and more. Plan your trip with this comprehensive travel guide to Framura.</description>
+	<pubDate>2024-04-20T21:52:22+03:00</pubDate>
+</item><item>
 	<title>Krabi Town Travel Guide (Krabi Province/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/krabi-province/krabi-town/</link>
 	<description>Discover the best things to do, see, eat, and where to stay in Krabi Town, Thailand. Learn the culture and customs, and how to stay safe while enjoying the breathtaking natural attractions and outdoor adventures.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/panay/aklan/batan/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Batan, Aklan. Learn about its culture, customs, safety, and transportation options. Find out the must-try food and drinks and the best time to visit Batan!</description>
 	<pubDate>2024-04-20T17:26:46+03:00</pubDate>
-</item><item>
-	<title>Zhili Travel Guide (North China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/zhili/</link>
-	<description>Discover the best of Zhili with our complete guide – explore the top attractions, must-try foods, best places to stay, and more.</description>
-	<pubDate>2024-04-20T16:55:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
