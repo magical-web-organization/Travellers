@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T02:21:15+03:00</pubDate>
-        <lastBuildDate>2024-04-21T02:21:15+03:00</lastBuildDate>
+        <pubDate>2024-04-21T02:45:03+03:00</pubDate>
+        <lastBuildDate>2024-04-21T02:45:03+03:00</lastBuildDate>
 
         <item>
+	<title>Trang Travel Guide (Southern Andaman Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-andaman-coast/trang/</link>
+	<description>Planning a trip to Trang, Thailand? Our comprehensive travel guide has got you covered with insights on the best places to visit, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-21T02:45:03+03:00</pubDate>
+</item><item>
 	<title>Ko Samet Travel Guide (Eastern Gulf Coast/Eastern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/eastern-thailand/eastern-gulf-coast/ko-samet/</link>
 	<description>Discover the best of Ko Samet with our travel guide featuring top attractions, activities, accommodation, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/honduras/caribbean-honduras/bay-islands/</link>
 	<description>Plan the perfect trip to Bay Islands, Honduras with this comprehensive travel guide that includes everything from where to stay and what to see to tips for staying safe and healthy.</description>
 	<pubDate>2024-04-20T22:29:45+03:00</pubDate>
-</item><item>
-	<title>Framura Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/framura/</link>
-	<description>Discover the best things to see and do in Framura, Italy, including cultural attractions, natural wonders, hiking/biking routes, food and drink scenes, and more. Plan your trip with this comprehensive travel guide to Framura.</description>
-	<pubDate>2024-04-20T21:52:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
