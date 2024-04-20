@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T20:40:12+03:00</pubDate>
-        <lastBuildDate>2024-04-20T20:40:12+03:00</lastBuildDate>
+        <pubDate>2024-04-20T21:08:22+03:00</pubDate>
+        <lastBuildDate>2024-04-20T21:08:22+03:00</lastBuildDate>
 
         <item>
+	<title>Krabi Town Travel Guide (Krabi Province/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/krabi-province/krabi-town/</link>
+	<description>Discover the best things to do, see, eat, and where to stay in Krabi Town, Thailand. Learn the culture and customs, and how to stay safe while enjoying the breathtaking natural attractions and outdoor adventures.</description>
+	<pubDate>2024-04-20T21:08:22+03:00</pubDate>
+</item><item>
 	<title>Nalanda Travel Guide (Magadha/Bihar/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/nalanda/</link>
 	<description>Plan your trip to Nalanda with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/zhili/</link>
 	<description>Discover the best of Zhili with our complete guide – explore the top attractions, must-try foods, best places to stay, and more.</description>
 	<pubDate>2024-04-20T16:55:47+03:00</pubDate>
-</item><item>
-	<title>Hofors Travel Guide (Gävleborg County/Norrland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/gavleborg-county/hofors/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Hofors. Explore the town's rich culture, outdoor adventures, and local cuisine with our week-long itinerary and do's and don'ts guide.</description>
-	<pubDate>2024-04-20T16:22:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
