@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T00:05:49+03:00</pubDate>
-        <lastBuildDate>2024-04-21T00:05:49+03:00</lastBuildDate>
+        <pubDate>2024-04-21T00:46:10+03:00</pubDate>
+        <lastBuildDate>2024-04-21T00:46:10+03:00</lastBuildDate>
 
         <item>
+	<title>Iconha Travel Guide (Central Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/central-espirito-santo/iconha/</link>
+	<description>Discover the top places to visit, things to do, where to stay, what to eat, and more in Iconha, Brazil.</description>
+	<pubDate>2024-04-21T00:46:10+03:00</pubDate>
+</item><item>
 	<title>Helsinki Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/helsinki/</link>
 	<description>Your ultimate guide to Helsinki, Finland with information on where to stay, what to do, local culture, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/central-asia/turkmenistan/mary-province/gonur-depe/</link>
 	<description>A comprehensive tour guide for Gonur Depe, including places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture, safety and health, transportation options and logistics, and nearby destinations and excursions.</description>
 	<pubDate>2024-04-20T20:10:18+03:00</pubDate>
-</item><item>
-	<title>Clovis Travel Guide (Southeast New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southeast-new-mexico/clovis/</link>
-	<description>Plan your trip to Clovis with our comprehensive tour guide including recommendations on places to visit, things to do, where to eat and stay, and cultural customs.</description>
-	<pubDate>2024-04-20T19:37:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
