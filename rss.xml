@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T03:58:45+03:00</pubDate>
-        <lastBuildDate>2024-04-20T03:58:45+03:00</lastBuildDate>
+        <pubDate>2024-04-20T04:27:53+03:00</pubDate>
+        <lastBuildDate>2024-04-20T04:27:53+03:00</lastBuildDate>
 
         <item>
+	<title>Biase Travel Guide (Cross River State/South South Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/cross-river-state/biase/</link>
+	<description>Plan your trip to Biase, Nigeria with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and more!</description>
+	<pubDate>2024-04-20T04:27:53+03:00</pubDate>
+</item><item>
 	<title>Madre de Dios Travel Guide (Peru/South America)</title>
 	<link>https://travellers.wiki/en/south-america/peru/madre-de-dios/</link>
 	<description>A comprehensive tour guide for Madre de Dios, Peru with information on places to visit, where to stay, what to do, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/graubunden/val-mesolcina/</link>
 	<description>A comprehensive travel guide for Val Mesolcina, Switzerland including places to visit, activities, hiking routes, food options, cultural attractions, safety tips, transportation, and nearby destinations.</description>
 	<pubDate>2024-04-19T23:55:13+03:00</pubDate>
-</item><item>
-	<title>Calilegua National Park Travel Guide (Jujuy/Andean Northwest/Argentina/South America)</title>
-	<link>https://travellers.wiki/en/south-america/argentina/andean-northwest/jujuy/calilegua-national-park/</link>
-	<description>Plan your trip to Calilegua National Park in Argentina with our comprehensive travel guide, featuring must-visit places, outdoor adventures, hiking/biking routes, local cuisine, accommodations, cultural insights, and safety tips.</description>
-	<pubDate>2024-04-19T23:20:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
