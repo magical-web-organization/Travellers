@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T04:42:09+03:00</pubDate>
-        <lastBuildDate>2024-04-20T04:42:09+03:00</lastBuildDate>
+        <pubDate>2024-04-20T05:21:04+03:00</pubDate>
+        <lastBuildDate>2024-04-20T05:21:04+03:00</lastBuildDate>
 
         <item>
+	<title>Ladenburg Travel Guide (Rhine-Neckar/Baden-Württemberg/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/rhine-neckar/ladenburg/</link>
+	<description>Discover the top things to do in Ladenburg, Germany, from fascinating museums and historical landmarks to scenic hiking and biking routes. Learn about local culture, food, and customs, and find out the best time to visit and how to get there.</description>
+	<pubDate>2024-04-20T05:21:04+03:00</pubDate>
+</item><item>
 	<title>Ifo Travel Guide (Ogun State/South West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ogun-state/ifo/</link>
 	<description>Discover the best places to visit, food to try, activities to do, and tips for a safe and enjoyable trip to Ifo, Nigeria.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/penang/simpang-ampat/</link>
 	<description>Discover the cultural, natural, and adventure attractions of Simpang Ampat, Penang, Malaysia. Find the best places to visit, things to do, where to stay, and what to eat in our comprehensive travel guide.</description>
 	<pubDate>2024-04-20T00:52:42+03:00</pubDate>
-</item><item>
-	<title>Adler Travel Guide (Krasnodar Krai/Southern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/krasnodar-krai/adler/</link>
-	<description>Plan your dream vacation in Adler, Russia with our comprehensive travel guide. Discover must-see attractions, outdoor adventures, local food and drink scene, transportation options, and more.</description>
-	<pubDate>2024-04-20T00:28:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
