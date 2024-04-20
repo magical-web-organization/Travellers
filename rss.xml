@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T23:04:29+03:00</pubDate>
-        <lastBuildDate>2024-04-20T23:04:29+03:00</lastBuildDate>
+        <pubDate>2024-04-20T23:58:09+03:00</pubDate>
+        <lastBuildDate>2024-04-20T23:58:09+03:00</lastBuildDate>
 
         <item>
+	<title>Kanyakumari Travel Guide (Far Southern Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/far-southern-tamil-nadu/kanyakumari/</link>
+	<description>Discover the top things to do, places to visit, where to stay, what to eat, and how to get around in Kanyakumari, India.</description>
+	<pubDate>2024-04-20T23:58:09+03:00</pubDate>
+</item><item>
 	<title>West Memphis Travel Guide (Delta/Arkansas/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/delta/west-memphis/</link>
 	<description>Explore the culturally rich and naturally diverse West Memphis with our comprehensive travel guide. Find out the best places to visit, activities to do, food to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/ansan/</link>
 	<description>Plan the perfect trip to Ansan with our comprehensive travel guide. Explore the top things to do, see, eat, and buy in this fascinating city of Gyeonggi, South Korea.</description>
 	<pubDate>2024-04-20T19:05:18+03:00</pubDate>
-</item><item>
-	<title>Socotra Travel Guide (Yemen/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/yemen/socotra/</link>
-	<description>Discover the best cultural attractions, natural wonders, hiking and biking routes, food and drink scene, accommodations, and logistics for your unforgettable journey to Socotra, Yemen in the Middle East.</description>
-	<pubDate>2024-04-20T18:58:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
