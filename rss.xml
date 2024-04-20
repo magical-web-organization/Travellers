@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T14:40:22+03:00</pubDate>
-        <lastBuildDate>2024-04-20T14:40:22+03:00</lastBuildDate>
+        <pubDate>2024-04-20T15:31:16+03:00</pubDate>
+        <lastBuildDate>2024-04-20T15:31:16+03:00</lastBuildDate>
 
         <item>
+	<title>El Médano Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/el-medano/</link>
+	<description>Plan your trip to El Médano with this thorough guide, featuring lists of places to visit, outdoor adventures, hiking/biking routes, food and drink scene, safety and health tips, and more.</description>
+	<pubDate>2024-04-20T15:31:16+03:00</pubDate>
+</item><item>
 	<title>Sabang Travel Guide (Mindoro/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/mindoro/sabang/</link>
 	<description>Planning a trip to Sabang? This comprehensive guide covers everything you need to know including top things to do, where to stay, and when to visit.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/northwest-suburbs/rosemont/</link>
 	<description>Discover the best attractions, activities, food scene, accommodations, and more in Rosemont, Illinois. This travel guide provides comprehensive details and tips to help you plan your visit.</description>
 	<pubDate>2024-04-20T10:25:22+03:00</pubDate>
-</item><item>
-	<title>Blake Island Travel Guide (Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/blake-island/</link>
-	<description>Discover the beauty of Blake Island with our comprehensive travel guide. From culturally important attractions to outdoor adventures, this guide covers everything you need to know to plan your trip.</description>
-	<pubDate>2024-04-20T10:02:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
