@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T11:13:26+03:00</pubDate>
-        <lastBuildDate>2024-04-20T11:13:26+03:00</lastBuildDate>
+        <pubDate>2024-04-20T11:56:34+03:00</pubDate>
+        <lastBuildDate>2024-04-20T11:56:34+03:00</lastBuildDate>
 
         <item>
+	<title>Xiyu Travel Guide (Penghu/Taiwan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/taiwan/penghu/xiyu/</link>
+	<description>Plan your trip to Xiyu, Taiwan with our comprehensive travel guide. Discover the best places to visit, food, activities, accommodation, and transportation options.</description>
+	<pubDate>2024-04-20T11:56:34+03:00</pubDate>
+</item><item>
 	<title>Rahimyar Khan Travel Guide (Southern Punjab/Punjab/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/southern-punjab/rahimyar-khan/</link>
 	<description>Read our detailed travel guide to Rahimyar Khan, featuring the best places to visit, things to do, where to stay, and what to eat in this vibrant city in South Asia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/northwestern-new-south-wales/gundabooka-national-park/</link>
 	<description>Discover the culturally important attractions, natural wonders, food and drink scene, local culture, safety tips, transportation options, and nearby destinations of Gundabooka National Park in this comprehensive travel guide.</description>
 	<pubDate>2024-04-20T06:36:43+03:00</pubDate>
-</item><item>
-	<title>Monnickendam Travel Guide (Zaanstreek-Waterland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/zaanstreek-waterland/monnickendam/</link>
-	<description>Explore Monnickendam's cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, and local customs with our comprehensive travel guide.</description>
-	<pubDate>2024-04-20T06:23:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
