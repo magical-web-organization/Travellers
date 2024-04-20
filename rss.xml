@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-20T06:23:22+03:00</pubDate>
-        <lastBuildDate>2024-04-20T06:23:22+03:00</lastBuildDate>
+        <pubDate>2024-04-20T06:36:43+03:00</pubDate>
+        <lastBuildDate>2024-04-20T06:36:43+03:00</lastBuildDate>
 
         <item>
+	<title>Gundabooka National Park Travel Guide (Northwestern New South Wales/Outback New South Wales/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/northwestern-new-south-wales/gundabooka-national-park/</link>
+	<description>Discover the culturally important attractions, natural wonders, food and drink scene, local culture, safety tips, transportation options, and nearby destinations of Gundabooka National Park in this comprehensive travel guide.</description>
+	<pubDate>2024-04-20T06:36:43+03:00</pubDate>
+</item><item>
 	<title>Monnickendam Travel Guide (Zaanstreek-Waterland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/zaanstreek-waterland/monnickendam/</link>
 	<description>Explore Monnickendam's cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, and local customs with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/nuevo-leon/monterrey/outer-monterrey/</link>
 	<description>Plan your trip to Outer Monterrey, Mexico with our comprehensive travel guide. Discover the best attractions, food, accommodations, and tips for a memorable visit.</description>
 	<pubDate>2024-04-20T02:18:14+03:00</pubDate>
-</item><item>
-	<title>Gebze Travel Guide (Eastern Marmara/Marmara (region)/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-marmara/gebze/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Gebze, Turkey. Learn about the local culture, food scene, and must-try dishes.</description>
-	<pubDate>2024-04-20T01:40:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
