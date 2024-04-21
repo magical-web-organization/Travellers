@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T04:17:22+03:00</pubDate>
-        <lastBuildDate>2024-04-21T04:17:22+03:00</lastBuildDate>
+        <pubDate>2024-04-21T04:55:55+03:00</pubDate>
+        <lastBuildDate>2024-04-21T04:55:55+03:00</lastBuildDate>
 
         <item>
+	<title>Orsa Travel Guide (Siljansbygden/Dalarna/Svealand/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/dalarna/siljansbygden/orsa/</link>
+	<description>Plan your trip to Orsa with this complete guide including places to visit, outdoor adventures, food and drink scene, where to stay, transportation options, and nearby excursions.</description>
+	<pubDate>2024-04-21T04:55:55+03:00</pubDate>
+</item><item>
 	<title>Kinderhook Travel Guide (Columbia County (New York)/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/columbia-county-new-york/kinderhook/</link>
 	<description>Discover the best places to visit, things to do, and food to try in Kinderhook, New York with this comprehensive travel guide. Explore the town's rich cultural and natural attractions, hiking and biking routes, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/helsinki/</link>
 	<description>Your ultimate guide to Helsinki, Finland with information on where to stay, what to do, local culture, and transportation options.</description>
 	<pubDate>2024-04-21T00:05:49+03:00</pubDate>
-</item><item>
-	<title>Kanyakumari Travel Guide (Far Southern Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/far-southern-tamil-nadu/kanyakumari/</link>
-	<description>Discover the top things to do, places to visit, where to stay, what to eat, and how to get around in Kanyakumari, India.</description>
-	<pubDate>2024-04-20T23:58:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
