@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T02:15:07+03:00</pubDate>
-        <lastBuildDate>2024-04-22T02:15:07+03:00</lastBuildDate>
+        <pubDate>2024-04-22T02:56:52+03:00</pubDate>
+        <lastBuildDate>2024-04-22T02:56:52+03:00</lastBuildDate>
 
         <item>
+	<title>Glenview Travel Guide (North Shore/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/north-shore/glenview/</link>
+	<description>Plan an unforgettable trip to Glenview, Illinois with our comprehensive tour guide featuring cultural attractions, natural wonders, hiking/biking routes, best things to do, local food scene, where to stay, and much more.</description>
+	<pubDate>2024-04-22T02:56:52+03:00</pubDate>
+</item><item>
 	<title>Clusane Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/clusane/</link>
 	<description>Plan your next vacation to Clusane with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/changning/</link>
 	<description>Explore the culture, food, and attractions of Changning, Shanghai with our comprehensive travel guide. Plan your trip with our detailed itinerary and tips on getting around, where to stay, and what to do.</description>
 	<pubDate>2024-04-21T22:17:15+03:00</pubDate>
-</item><item>
-	<title>Tempelhof and Neukölln Travel Guide (Berlin/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/berlin/tempelhof-and-neukolln/</link>
-	<description>Discover the rich culture, natural beauty, and must-visit attractions of Tempelhof and Neukölln in Berlin, along with food, lodging and transportation information.</description>
-	<pubDate>2024-04-21T21:36:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
