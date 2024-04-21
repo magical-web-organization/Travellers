@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T10:51:44+03:00</pubDate>
-        <lastBuildDate>2024-04-21T10:51:44+03:00</lastBuildDate>
+        <pubDate>2024-04-21T11:16:07+03:00</pubDate>
+        <lastBuildDate>2024-04-21T11:16:07+03:00</lastBuildDate>
 
         <item>
+	<title>Dalaman Travel Guide (Lycia/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/lycia/dalaman/</link>
+	<description>Discover the best places to visit, things to do, and local customs in Dalaman. Learn about transportation options and nearby destinations to make the most out of your trip.</description>
+	<pubDate>2024-04-21T11:16:07+03:00</pubDate>
+</item><item>
 	<title>Ontario Travel Guide (San Bernardino County/Desert/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/san-bernardino-county/ontario/</link>
 	<description>Read on for an in-depth travel guide to Ontario in California, including the top places to visit, hiking and biking routes, things to do, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/telangana/nelakondapally/</link>
 	<description>Plan your trip to Nelakondapally, Telangana with our comprehensive travel guide. Learn about the best places to visit, food and drink scene, and local customs.</description>
 	<pubDate>2024-04-21T06:38:09+03:00</pubDate>
-</item><item>
-	<title>Keszthely Travel Guide (Lake Balaton/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/keszthely/</link>
-	<description>Discover the culturally rich and naturally stunning Keszthely through this comprehensive travel guide. Get information on places to visit, things to do, food and drink scene, where to stay, local customs, safety, transportation, and more.</description>
-	<pubDate>2024-04-21T06:30:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
