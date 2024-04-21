@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T15:03:14+03:00</pubDate>
-        <lastBuildDate>2024-04-21T15:03:14+03:00</lastBuildDate>
+        <pubDate>2024-04-21T15:19:07+03:00</pubDate>
+        <lastBuildDate>2024-04-21T15:19:07+03:00</lastBuildDate>
 
         <item>
+	<title>Bragg Creek Travel Guide (Calgary Region/Alberta/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/calgary-region/bragg-creek/</link>
+	<description>Plan your perfect trip to Bragg Creek, Alberta with this comprehensive travel guide that includes information about attractions, activities, accommodations, cuisine, and more.</description>
+	<pubDate>2024-04-21T15:19:07+03:00</pubDate>
+</item><item>
 	<title>La Tuque Travel Guide (La Tuque Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/la-tuque/</link>
 	<description>Plan your trip to La Tuque with this comprehensive travel guide featuring information on attractions, activities, food, accommodations, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/san-bernardino-county/ontario/</link>
 	<description>Read on for an in-depth travel guide to Ontario in California, including the top places to visit, hiking and biking routes, things to do, and local culture and customs.</description>
 	<pubDate>2024-04-21T10:51:44+03:00</pubDate>
-</item><item>
-	<title>Zoar Travel Guide (Southeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/southeast-ohio/zoar/</link>
-	<description>Explore the rich culture, outdoor activities, food scene, and more in Zoar, Ohio with our comprehensive travel guide.</description>
-	<pubDate>2024-04-21T10:14:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
