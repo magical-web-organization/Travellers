@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T11:37:41+03:00</pubDate>
-        <lastBuildDate>2024-04-21T11:37:41+03:00</lastBuildDate>
+        <pubDate>2024-04-21T12:03:37+03:00</pubDate>
+        <lastBuildDate>2024-04-21T12:03:37+03:00</lastBuildDate>
 
         <item>
+	<title>Adams County Travel Guide (Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/adams-county/</link>
+	<description>Adams County is a charming destination in Pennsylvania Dutch Country, offering various attractions for history buffs, nature enthusiasts, foodies, and adventure seekers.</description>
+	<pubDate>2024-04-21T12:03:37+03:00</pubDate>
+</item><item>
 	<title>Lae Travel Guide (Madang-Morobe/Papua New Guinea/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/papua-new-guinea/madang-morobe/lae/</link>
 	<description>Discover the best of Lae in Papua New Guinea with our comprehensive travel guide. From cultural attractions to outdoor adventures, hiking routes, shopping, and food, this guide has it all. Plan your trip and make the most of Lae.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/selangor/kuala-selangor/</link>
 	<description>Discover Kuala Selangor, its natural beauty, rich culture and history, its food and drink, where to stay, and how to get there. Explore the best activities, tours, and destinations to visit.</description>
 	<pubDate>2024-04-21T07:50:30+03:00</pubDate>
-</item><item>
-	<title>Malcesine Travel Guide (Verona (province)/Veneto/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/verona-province/malcesine/</link>
-	<description>Explore the culturally and naturally rich Malcesine town of Italy with this comprehensive travel guide and its list of places, things to do, food and drinks to try, safety tips, and more.</description>
-	<pubDate>2024-04-21T07:10:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
