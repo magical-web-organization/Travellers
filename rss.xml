@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T19:31:41+03:00</pubDate>
-        <lastBuildDate>2024-04-21T19:31:41+03:00</lastBuildDate>
+        <pubDate>2024-04-21T19:53:39+03:00</pubDate>
+        <lastBuildDate>2024-04-21T19:53:39+03:00</lastBuildDate>
 
         <item>
+	<title>Weimar Travel Guide (Post Oak Savannah/Prairies and Lakes/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/post-oak-savannah/weimar/</link>
+	<description>Plan your trip to Weimar, Texas with our comprehensive travel guide. From outdoor adventures to cultural experiences, we've got you covered.</description>
+	<pubDate>2024-04-21T19:53:39+03:00</pubDate>
+</item><item>
 	<title>Douliu Travel Guide (Yunlin County/Southern Taiwan/Taiwan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/southern-taiwan/yunlin-county/douliu/</link>
 	<description>Explore the culturally rich and naturally beautiful city of Douliu in Taiwan with this comprehensive travel guide. Learn about the must-visit attractions, food and drink scene, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/calgary-region/bragg-creek/</link>
 	<description>Plan your perfect trip to Bragg Creek, Alberta with this comprehensive travel guide that includes information about attractions, activities, accommodations, cuisine, and more.</description>
 	<pubDate>2024-04-21T15:19:07+03:00</pubDate>
-</item><item>
-	<title>La Tuque Travel Guide (La Tuque Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/la-tuque/</link>
-	<description>Plan your trip to La Tuque with this comprehensive travel guide featuring information on attractions, activities, food, accommodations, transportation, and more.</description>
-	<pubDate>2024-04-21T15:03:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
