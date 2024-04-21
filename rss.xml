@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T16:18:11+03:00</pubDate>
-        <lastBuildDate>2024-04-21T16:18:11+03:00</lastBuildDate>
+        <pubDate>2024-04-21T16:41:14+03:00</pubDate>
+        <lastBuildDate>2024-04-21T16:41:14+03:00</lastBuildDate>
 
         <item>
+	<title>Gaud Travel Guide (Rajshahi Division/Bangladesh/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/rajshahi-division/gaud/</link>
+	<description>Discover the best places to visit, things to do, where to eat and stay, and transportation options in Gaud, Bangladesh with our comprehensive travel guide.</description>
+	<pubDate>2024-04-21T16:41:14+03:00</pubDate>
+</item><item>
 	<title>Bitetto Travel Guide (Bari (province)/Apulia/Southern Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/bari-province/bitetto/</link>
 	<description>Discover the best places to visit, things to do, and where to eat and stay in Bitetto, Italy, with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/adams-county/</link>
 	<description>Adams County is a charming destination in Pennsylvania Dutch Country, offering various attractions for history buffs, nature enthusiasts, foodies, and adventure seekers.</description>
 	<pubDate>2024-04-21T12:03:37+03:00</pubDate>
-</item><item>
-	<title>Lae Travel Guide (Madang-Morobe/Papua New Guinea/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/papua-new-guinea/madang-morobe/lae/</link>
-	<description>Discover the best of Lae in Papua New Guinea with our comprehensive travel guide. From cultural attractions to outdoor adventures, hiking routes, shopping, and food, this guide has it all. Plan your trip and make the most of Lae.</description>
-	<pubDate>2024-04-21T11:37:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
