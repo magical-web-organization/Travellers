@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T10:14:16+03:00</pubDate>
-        <lastBuildDate>2024-04-21T10:14:16+03:00</lastBuildDate>
+        <pubDate>2024-04-21T10:51:44+03:00</pubDate>
+        <lastBuildDate>2024-04-21T10:51:44+03:00</lastBuildDate>
 
         <item>
+	<title>Ontario Travel Guide (San Bernardino County/Desert/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/san-bernardino-county/ontario/</link>
+	<description>Read on for an in-depth travel guide to Ontario in California, including the top places to visit, hiking and biking routes, things to do, and local culture and customs.</description>
+	<pubDate>2024-04-21T10:51:44+03:00</pubDate>
+</item><item>
 	<title>Zoar Travel Guide (Southeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/southeast-ohio/zoar/</link>
 	<description>Explore the rich culture, outdoor activities, food scene, and more in Zoar, Ohio with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/keszthely/</link>
 	<description>Discover the culturally rich and naturally stunning Keszthely through this comprehensive travel guide. Get information on places to visit, things to do, food and drink scene, where to stay, local customs, safety, transportation, and more.</description>
 	<pubDate>2024-04-21T06:30:51+03:00</pubDate>
-</item><item>
-	<title>Shrewsbury Travel Guide (Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/shrewsbury/</link>
-	<description>Plan a perfect trip to Shrewsbury with this comprehensive travel guide featuring top attractions, food scene, hiking/biking routes, hotels, and more.</description>
-	<pubDate>2024-04-21T05:46:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
