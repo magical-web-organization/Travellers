@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T23:09:24+03:00</pubDate>
-        <lastBuildDate>2024-04-21T23:09:24+03:00</lastBuildDate>
+        <pubDate>2024-04-21T23:49:02+03:00</pubDate>
+        <lastBuildDate>2024-04-21T23:49:02+03:00</lastBuildDate>
 
         <item>
+	<title>Sandane Travel Guide (Sogn og Fjordane/Western Norway/Norway/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/norway/western-norway/sogn-og-fjordane/sandane/</link>
+	<description>Discover the beauty of Sandane, Norway with this comprehensive travel guide that includes a list of places to visit, hiking/biking routes, best things to do, where to stay, what to buy, and more.</description>
+	<pubDate>2024-04-21T23:49:02+03:00</pubDate>
+</item><item>
 	<title>Oakland Travel Guide (Garrett County/Western Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/western-maryland/garrett-county/oakland/</link>
 	<description>Plan your next trip to Oakland, Maryland with this comprehensive travel guide including attractions, activities, local culture, safety tips, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/southern-taiwan/yunlin-county/douliu/</link>
 	<description>Explore the culturally rich and naturally beautiful city of Douliu in Taiwan with this comprehensive travel guide. Learn about the must-visit attractions, food and drink scene, transportation options, and more.</description>
 	<pubDate>2024-04-21T19:31:41+03:00</pubDate>
-</item><item>
-	<title>Beaumaris Travel Guide (Anglesey/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/anglesey/beaumaris/</link>
-	<description>Discover everything you need to know about visiting Beaumaris, North Wales including the best things to do, where to stay, where to eat, and more. Plan your perfect trip today!</description>
-	<pubDate>2024-04-21T18:59:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
