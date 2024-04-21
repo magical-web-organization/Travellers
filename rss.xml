@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T05:24:39+03:00</pubDate>
-        <lastBuildDate>2024-04-21T05:24:39+03:00</lastBuildDate>
+        <pubDate>2024-04-21T05:46:40+03:00</pubDate>
+        <lastBuildDate>2024-04-21T05:46:40+03:00</lastBuildDate>
 
         <item>
+	<title>Shrewsbury Travel Guide (Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/shrewsbury/</link>
+	<description>Plan a perfect trip to Shrewsbury with this comprehensive travel guide featuring top attractions, food scene, hiking/biking routes, hotels, and more.</description>
+	<pubDate>2024-04-21T05:46:40+03:00</pubDate>
+</item><item>
 	<title>Tesso Nilo National Park Travel Guide (Riau/Sumatra/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/riau/tesso-nilo-national-park/</link>
 	<description>Discover Tesso Nilo National Park in Indonesia with our comprehensive travel guide, including activities, places to visit, accommodation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/nebraska-panhandle/kimball/</link>
 	<description>Plan your trip to Kimball, Nebraska with this comprehensive travel guide featuring must-visit attractions, hiking/biking routes, activities, food and drink scene, transportation options, and more.</description>
 	<pubDate>2024-04-21T01:06:09+03:00</pubDate>
-</item><item>
-	<title>Iconha Travel Guide (Central Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/central-espirito-santo/iconha/</link>
-	<description>Discover the top places to visit, things to do, where to stay, what to eat, and more in Iconha, Brazil.</description>
-	<pubDate>2024-04-21T00:46:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
