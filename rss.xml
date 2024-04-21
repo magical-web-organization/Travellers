@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-21T05:46:40+03:00</pubDate>
-        <lastBuildDate>2024-04-21T05:46:40+03:00</lastBuildDate>
+        <pubDate>2024-04-21T06:30:51+03:00</pubDate>
+        <lastBuildDate>2024-04-21T06:30:51+03:00</lastBuildDate>
 
         <item>
+	<title>Keszthely Travel Guide (Lake Balaton/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/keszthely/</link>
+	<description>Discover the culturally rich and naturally stunning Keszthely through this comprehensive travel guide. Get information on places to visit, things to do, food and drink scene, where to stay, local customs, safety, transportation, and more.</description>
+	<pubDate>2024-04-21T06:30:51+03:00</pubDate>
+</item><item>
 	<title>Shrewsbury Travel Guide (Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/shrewsbury/</link>
 	<description>Plan a perfect trip to Shrewsbury with this comprehensive travel guide featuring top attractions, food scene, hiking/biking routes, hotels, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/merrimack-valley/tewksbury/</link>
 	<description>Explore the best of Tewksbury with this comprehensive travel guide. Discover top attractions, must-try dishes, best places to stay, and more.</description>
 	<pubDate>2024-04-21T01:43:32+03:00</pubDate>
-</item><item>
-	<title>Kimball Travel Guide (Nebraska Panhandle/Nebraska/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/nebraska-panhandle/kimball/</link>
-	<description>Plan your trip to Kimball, Nebraska with this comprehensive travel guide featuring must-visit attractions, hiking/biking routes, activities, food and drink scene, transportation options, and more.</description>
-	<pubDate>2024-04-21T01:06:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
