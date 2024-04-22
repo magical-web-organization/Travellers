@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T12:43:47+03:00</pubDate>
-        <lastBuildDate>2024-04-22T12:43:47+03:00</lastBuildDate>
+        <pubDate>2024-04-22T13:15:38+03:00</pubDate>
+        <lastBuildDate>2024-04-22T13:15:38+03:00</lastBuildDate>
 
         <item>
+	<title>Noordhoek Travel Guide (Atlantic Seaboard/Cape Peninsula/Western Cape/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/atlantic-seaboard/noordhoek/</link>
+	<description>Plan your trip to Noordhoek, Cape Peninsula, Western Cape, with our comprehensive travel guide featuring top tourist attractions, hotels, restaurants, and more.</description>
+	<pubDate>2024-04-22T13:15:38+03:00</pubDate>
+</item><item>
 	<title>Abbottabad Travel Guide (Khyber Pakhtunkhwa/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/abbottabad/</link>
 	<description>Explore Abbottabad with our comprehensive travel guide, featuring top attractions, hiking/biking routes, activities, food and drink scene, accommodation tips, local culture, safety/health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/purvanchal/chunar/</link>
 	<description>Explore the culturally rich and beautiful city of Chunar in Uttar Pradesh with our guide. From historical landmarks to natural attractions, we've got you covered with all the best things to do, eat and see in Chunar.</description>
 	<pubDate>2024-04-22T08:38:32+03:00</pubDate>
-</item><item>
-	<title>Wells Gray Provincial Park Travel Guide (North Thompson and Robson Valley/Thompson-Okanagan/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/north-thompson-and-robson-valley/wells-gray-provincial-park/</link>
-	<description>Plan your trip to Wells Gray Provincial Park in British Columbia, Canada with our comprehensive travel guide. Explore the park's natural attractions, hiking routes, and cultural heritage sites.</description>
-	<pubDate>2024-04-22T08:17:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
