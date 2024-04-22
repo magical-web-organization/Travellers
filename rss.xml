@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T15:05:31+03:00</pubDate>
-        <lastBuildDate>2024-04-22T15:05:31+03:00</lastBuildDate>
+        <pubDate>2024-04-22T15:42:27+03:00</pubDate>
+        <lastBuildDate>2024-04-22T15:42:27+03:00</lastBuildDate>
 
         <item>
+	<title>Baldwin Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/baldwin/</link>
+	<description>Plan your trip to Baldwin, Wisconsin with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-04-22T15:42:27+03:00</pubDate>
+</item><item>
 	<title>Carlisle Travel Guide (Cumbria/North West England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/cumbria/carlisle/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Carlisle, England with this ultimate travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/lac-edouard/</link>
 	<description>Discover the beauty of Lac-Édouard with this comprehensive travel guide. Find out where to go and what to do, from hiking and biking routes to natural attractions and local culture and customs.</description>
 	<pubDate>2024-04-22T11:20:47+03:00</pubDate>
-</item><item>
-	<title>Garberville Travel Guide (Humboldt County/North Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/humboldt-county/garberville/</link>
-	<description>Discover the beauty of Garberville, California. This comprehensive travel guide highlights the best places to visit, things to do, food and drink scene, and more.</description>
-	<pubDate>2024-04-22T10:35:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
