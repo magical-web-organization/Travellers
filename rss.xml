@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T01:18:12+03:00</pubDate>
-        <lastBuildDate>2024-04-23T01:18:12+03:00</lastBuildDate>
+        <pubDate>2024-04-23T02:33:29+03:00</pubDate>
+        <lastBuildDate>2024-04-23T02:33:29+03:00</lastBuildDate>
 
         <item>
+	<title>Benalmádena Travel Guide (Costa del Sol/Andalusia/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/costa-del-sol/benalmadena/</link>
+	<description>Discover the rich culture and natural attractions of Benalmádena, along with the best things to do, places to stay, and where to eat. Plan your trip with our week-long itinerary and transportation options.</description>
+	<pubDate>2024-04-23T02:33:29+03:00</pubDate>
+</item><item>
 	<title>Laixi Travel Guide (Shandong/North China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/shandong/laixi/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Laixi, China. Learn about the local culture, the food scene, and the best time to visit this hidden gem in Shandong, China.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/north-bohemia/liberec/</link>
 	<description>Discover all you need to know about visiting Liberec in Czech Republic with this comprehensive travel guide, from the best things to do, places to see, and food to try.</description>
 	<pubDate>2024-04-22T21:20:50+03:00</pubDate>
-</item><item>
-	<title>Lacey Travel Guide (South Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/south-sound/lacey/</link>
-	<description>Discover the best things to do, see and eat in Lacey, Washington. Plan your trip with our comprehensive guide that covers hotels, transportation, and nearby destinations.</description>
-	<pubDate>2024-04-22T20:58:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
