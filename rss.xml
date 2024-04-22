@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T21:20:50+03:00</pubDate>
-        <lastBuildDate>2024-04-22T21:20:50+03:00</lastBuildDate>
+        <pubDate>2024-04-22T21:54:03+03:00</pubDate>
+        <lastBuildDate>2024-04-22T21:54:03+03:00</lastBuildDate>
 
         <item>
+	<title>Dr. Ambedkar Nagar Travel Guide (Western Madhya Pradesh/Madhya Pradesh/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/western-madhya-pradesh/dr-ambedkar-nagar/</link>
+	<description>Plan your trip to Dr. Ambedkar Nagar with this comprehensive travel guide featuring top attractions, hiking/biking routes, best things to do, where to stay, and more.</description>
+	<pubDate>2024-04-22T21:54:03+03:00</pubDate>
+</item><item>
 	<title>Liberec Travel Guide (North Bohemia/Czech Republic/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/north-bohemia/liberec/</link>
 	<description>Discover all you need to know about visiting Liberec in Czech Republic with this comprehensive travel guide, from the best things to do, places to see, and food to try.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/val-d-orcia/montalcino/</link>
 	<description>Read on for a comprehensive travel guide to Montalcino, Tuscany, including top places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-04-22T17:20:16+03:00</pubDate>
-</item><item>
-	<title>San Luis Travel Guide (Western Batangas/Batangas/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/western-batangas/san-luis/</link>
-	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, and how to get around in San Luis, Batangas, Philippines.</description>
-	<pubDate>2024-04-22T16:36:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
