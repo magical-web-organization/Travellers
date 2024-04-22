@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T02:56:52+03:00</pubDate>
-        <lastBuildDate>2024-04-22T02:56:52+03:00</lastBuildDate>
+        <pubDate>2024-04-22T03:05:35+03:00</pubDate>
+        <lastBuildDate>2024-04-22T03:05:35+03:00</lastBuildDate>
 
         <item>
+	<title>Darwin Travel Guide (Southern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/darwin/</link>
+	<description>Explore the best of Southern Minnesota with our comprehensive travel guide to Darwin, including top attractions, hiking and biking routes, things to do, food and drink scene, where to stay, and much more.</description>
+	<pubDate>2024-04-22T03:05:35+03:00</pubDate>
+</item><item>
 	<title>Glenview Travel Guide (North Shore/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/north-shore/glenview/</link>
 	<description>Plan an unforgettable trip to Glenview, Illinois with our comprehensive tour guide featuring cultural attractions, natural wonders, hiking/biking routes, best things to do, local food scene, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/valley-region-rio-de-janeiro/conservatoria/</link>
 	<description>Plan your next trip with our comprehensive guide to Conservatória, Brazil - including a list of must-visit attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and more.</description>
 	<pubDate>2024-04-21T22:54:17+03:00</pubDate>
-</item><item>
-	<title>Changning Travel Guide (Shanghai/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/changning/</link>
-	<description>Explore the culture, food, and attractions of Changning, Shanghai with our comprehensive travel guide. Plan your trip with our detailed itinerary and tips on getting around, where to stay, and what to do.</description>
-	<pubDate>2024-04-21T22:17:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
