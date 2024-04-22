@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T20:58:19+03:00</pubDate>
-        <lastBuildDate>2024-04-22T20:58:19+03:00</lastBuildDate>
+        <pubDate>2024-04-22T21:20:50+03:00</pubDate>
+        <lastBuildDate>2024-04-22T21:20:50+03:00</lastBuildDate>
 
         <item>
+	<title>Liberec Travel Guide (North Bohemia/Czech Republic/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/north-bohemia/liberec/</link>
+	<description>Discover all you need to know about visiting Liberec in Czech Republic with this comprehensive travel guide, from the best things to do, places to see, and food to try.</description>
+	<pubDate>2024-04-22T21:20:50+03:00</pubDate>
+</item><item>
 	<title>Lacey Travel Guide (South Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/south-sound/lacey/</link>
 	<description>Discover the best things to do, see and eat in Lacey, Washington. Plan your trip with our comprehensive guide that covers hotels, transportation, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/western-batangas/san-luis/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, and how to get around in San Luis, Batangas, Philippines.</description>
 	<pubDate>2024-04-22T16:36:12+03:00</pubDate>
-</item><item>
-	<title>Dadra and Nagar Haveli and Daman and Diu Travel Guide (Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/dadra-and-nagar-haveli-and-daman-and-diu/</link>
-	<description>Discover the cultural, natural and adventurous side of Dadra and Nagar Haveli and Daman and Diu, along with food scene, accommodation options, and transportation details.</description>
-	<pubDate>2024-04-22T16:10:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
