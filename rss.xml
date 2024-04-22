@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T18:04:44+03:00</pubDate>
-        <lastBuildDate>2024-04-22T18:04:44+03:00</lastBuildDate>
+        <pubDate>2024-04-22T18:47:32+03:00</pubDate>
+        <lastBuildDate>2024-04-22T18:47:32+03:00</lastBuildDate>
 
         <item>
+	<title>Pulau Run Travel Guide (Banda Islands/Maluku/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/maluku/banda-islands/pulau-run/</link>
+	<description>Discover the natural beauty, rich culture, and exciting adventures of Pulau Run, an idyllic island paradise in the heart of Indonesia. Read this comprehensive travel guide before you plan your trip.</description>
+	<pubDate>2024-04-22T18:47:32+03:00</pubDate>
+</item><item>
 	<title>Longquan Travel Guide (Zhejiang/East China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/longquan/</link>
 	<description>Explore Longquan, China with this comprehensive travel guide which covers places to visit, food and drink scene, where to stay, local culture and customs, safety and health, transportation logistics, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/beach-cities/san-clemente/</link>
 	<description>Explore the beauty and culture of San Clemente in Southern California with our comprehensive travel guide. Discover the best attractions, activities, dining, and accommodations in the area.</description>
 	<pubDate>2024-04-22T14:30:35+03:00</pubDate>
-</item><item>
-	<title>San Dimas Travel Guide (San Gabriel Valley/Los Angeles/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/san-gabriel-valley/san-dimas/</link>
-	<description>Explore the breathtaking beauty and fascinating culture of San Dimas with this comprehensive travel guide featuring hiking trails, natural attractions, cultural landmarks, food and drink, and more.</description>
-	<pubDate>2024-04-22T13:47:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
