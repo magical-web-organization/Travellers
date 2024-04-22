@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T12:02:37+03:00</pubDate>
-        <lastBuildDate>2024-04-22T12:02:37+03:00</lastBuildDate>
+        <pubDate>2024-04-22T12:21:02+03:00</pubDate>
+        <lastBuildDate>2024-04-22T12:21:02+03:00</lastBuildDate>
 
         <item>
+	<title>Dundee Travel Guide (Angus/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/angus/dundee/</link>
+	<description>Discover the best places to visit, things to do, hikes and bike routes, food and drink scene, where to stay, and more in Dundee, Scotland.</description>
+	<pubDate>2024-04-22T12:21:02+03:00</pubDate>
+</item><item>
 	<title>Delaware Valley Travel Guide (Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/delaware-valley/</link>
 	<description>A comprehensive travel guide for Delaware Valley, including a list of places to visit, hiking and biking routes, best things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-litoral/batalha/</link>
 	<description>Plan your trip to Batalha with this comprehensive travel guide. Learn about the must-visit attractions, top things to do, where to stay, and much more.</description>
 	<pubDate>2024-04-22T07:57:23+03:00</pubDate>
-</item><item>
-	<title>Bradford Travel Guide (Western Illinois/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/western-illinois/bradford/</link>
-	<description>Discover the best activities, sights, and experiences in the charming town of Bradford, Illinois. Read our ultimate guide to plan your trip today!</description>
-	<pubDate>2024-04-22T07:20:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
