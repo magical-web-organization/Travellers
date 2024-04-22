@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T05:48:15+03:00</pubDate>
-        <lastBuildDate>2024-04-22T05:48:15+03:00</lastBuildDate>
+        <pubDate>2024-04-22T06:23:28+03:00</pubDate>
+        <lastBuildDate>2024-04-22T06:23:28+03:00</lastBuildDate>
 
         <item>
+	<title>Vișeu de Sus Travel Guide (Maramureș/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/maramures/viseu-de-sus/</link>
+	<description>Discover the best places to visit, outdoor adventures, local culture, and more in Vișeu de Sus, Romania with our comprehensive travel guide.</description>
+	<pubDate>2024-04-22T06:23:28+03:00</pubDate>
+</item><item>
 	<title>Jharsuguda Travel Guide (Northwest Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/northwest-odisha/jharsuguda/</link>
 	<description>Discover the must-visit places, things to do, local culture, and transportation options of Jharsuguda with our comprehensive travel guide. Plan your trip to this hidden gem of Odisha with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/upper-franconia/hof/</link>
 	<description>Plan your trip to Hof, Germany with our complete travel guide. Discover the best attractions, outdoor adventures, food and drink scene, accommodations, and more.</description>
 	<pubDate>2024-04-22T01:58:57+03:00</pubDate>
-</item><item>
-	<title>Jaisinghpur Travel Guide (Kangra (district)/Himachal Pradesh/Himalayan North/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/kangra-district/jaisinghpur/</link>
-	<description>Discover the best places to visit, food to try, where to stay, and more with our comprehensive tour guide for Jaisinghpur, Himachal Pradesh.</description>
-	<pubDate>2024-04-22T01:05:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
