@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T09:23:27+03:00</pubDate>
-        <lastBuildDate>2024-04-22T09:23:27+03:00</lastBuildDate>
+        <pubDate>2024-04-22T09:55:38+03:00</pubDate>
+        <lastBuildDate>2024-04-22T09:55:38+03:00</lastBuildDate>
 
         <item>
+	<title>Molokai Travel Guide (Hawaii/Polynesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/molokai/</link>
+	<description>Discover the culturally significant attractions, natural wonders, hiking and biking routes, food and drink scene, accommodations, and much more in this comprehensive travel guide to Molokai, Hawaii.</description>
+	<pubDate>2024-04-22T09:55:38+03:00</pubDate>
+</item><item>
 	<title>La Güira National Park Travel Guide (Western Cuba/Cuba/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/cuba/western-cuba/la-guira-national-park/</link>
 	<description>Explore the natural and cultural attractions of La Güira National Park with this comprehensive travel guide. Discover the best places to visit, things to do, and local culture of Cuba's hidden treasure.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/lincoln-county/new-harbor/</link>
 	<description>Plan an unforgettable trip to New Harbor, a scenic coastal town in Mid Coast Maine, with our comprehensive travel guide. Explore cultural attractions, outdoor adventures, food and drink options, and more.</description>
 	<pubDate>2024-04-22T05:29:06+03:00</pubDate>
-</item><item>
-	<title>Granada Travel Guide (Granada (province)/Andalusia/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/granada-province/granada/</link>
-	<description>Get insider tips and detailed itineraries for exploring Granada. Discover the best things to do and see, top attractions, accommodation options and more.</description>
-	<pubDate>2024-04-22T04:58:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
