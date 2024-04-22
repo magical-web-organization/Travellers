@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T20:04:17+03:00</pubDate>
-        <lastBuildDate>2024-04-22T20:04:17+03:00</lastBuildDate>
+        <pubDate>2024-04-22T20:58:19+03:00</pubDate>
+        <lastBuildDate>2024-04-22T20:58:19+03:00</lastBuildDate>
 
         <item>
+	<title>Lacey Travel Guide (South Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/south-sound/lacey/</link>
+	<description>Discover the best things to do, see and eat in Lacey, Washington. Plan your trip with our comprehensive guide that covers hotels, transportation, and nearby destinations.</description>
+	<pubDate>2024-04-22T20:58:19+03:00</pubDate>
+</item><item>
 	<title>Narrandera Travel Guide (Riverina/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/riverina/narrandera/</link>
 	<description>Discover the hidden gem of New South Wales with our comprehensive Narrandera travel guide. Learn all about the best things to do, see, eat, and stay in this charming Riverina town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/dadra-and-nagar-haveli-and-daman-and-diu/</link>
 	<description>Discover the cultural, natural and adventurous side of Dadra and Nagar Haveli and Daman and Diu, along with food scene, accommodation options, and transportation details.</description>
 	<pubDate>2024-04-22T16:10:36+03:00</pubDate>
-</item><item>
-	<title>Baldwin Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/baldwin/</link>
-	<description>Plan your trip to Baldwin, Wisconsin with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-22T15:42:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
