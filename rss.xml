@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-22T17:20:16+03:00</pubDate>
-        <lastBuildDate>2024-04-22T17:20:16+03:00</lastBuildDate>
+        <pubDate>2024-04-22T17:34:05+03:00</pubDate>
+        <lastBuildDate>2024-04-22T17:34:05+03:00</lastBuildDate>
 
         <item>
+	<title>Castroville Travel Guide (South Texas Plains/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/south-texas-plains/castroville/</link>
+	<description>Plan a trip to Castroville with our comprehensive travel guide. Learn about the best places to visit, food, culture, safety, and more.</description>
+	<pubDate>2024-04-22T17:34:05+03:00</pubDate>
+</item><item>
 	<title>Montalcino Travel Guide (Val d'Orcia/Siena (province)/Tuscany/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/val-d-orcia/montalcino/</link>
 	<description>Read on for a comprehensive travel guide to Montalcino, Tuscany, including top places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/atlantic-seaboard/noordhoek/</link>
 	<description>Plan your trip to Noordhoek, Cape Peninsula, Western Cape, with our comprehensive travel guide featuring top tourist attractions, hotels, restaurants, and more.</description>
 	<pubDate>2024-04-22T13:15:38+03:00</pubDate>
-</item><item>
-	<title>Abbottabad Travel Guide (Khyber Pakhtunkhwa/Pakistan/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/abbottabad/</link>
-	<description>Explore Abbottabad with our comprehensive travel guide, featuring top attractions, hiking/biking routes, activities, food and drink scene, accommodation tips, local culture, safety/health, and transportation options.</description>
-	<pubDate>2024-04-22T12:43:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
