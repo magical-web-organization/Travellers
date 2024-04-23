@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T09:48:09+03:00</pubDate>
-        <lastBuildDate>2024-04-23T09:48:09+03:00</lastBuildDate>
+        <pubDate>2024-04-23T10:25:23+03:00</pubDate>
+        <lastBuildDate>2024-04-23T10:25:23+03:00</lastBuildDate>
 
         <item>
+	<title>Armstrong Redwoods State Natural Reserve Travel Guide (Sonoma County/North Coast/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/sonoma-county/armstrong-redwoods-state-natural-reserve/</link>
+	<description>Discover the hidden gem of Sonoma County, California with our detailed guide to Armstrong Redwoods State Natural Reserve. From outdoor adventures and scenic views to cultural attractions, food and drink scene, accommodation options, and more.</description>
+	<pubDate>2024-04-23T10:25:23+03:00</pubDate>
+</item><item>
 	<title>Konni Travel Guide (Central Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-travancore/konni/</link>
 	<description>Discover the best things to see, do, eat, and where to stay in Konni, Kerala, with our ultimate travel guide. Featuring insider tips and recommendations for exploring this culturally rich and naturally beautiful region of southern India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/orange-city/</link>
 	<description>Explore Orange City, Florida with our comprehensive tour guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-04-23T05:51:59+03:00</pubDate>
-</item><item>
-	<title>Northern Tier Travel Guide (Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northern-tier/</link>
-	<description>Discover the best places to visit, things to do, and local culture in Northern Tier, Pennsylvania. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-04-23T05:11:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
