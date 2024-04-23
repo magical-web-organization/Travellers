@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T19:01:53+03:00</pubDate>
-        <lastBuildDate>2024-04-23T19:01:53+03:00</lastBuildDate>
+        <pubDate>2024-04-23T19:20:01+03:00</pubDate>
+        <lastBuildDate>2024-04-23T19:20:01+03:00</lastBuildDate>
 
         <item>
+	<title>18th arrondissement Travel Guide (Paris/Île-de-France/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/ile-de-france/paris/18th-arrondissement/</link>
+	<description>Plan your trip to 18th Arrondissement with our comprehensive travel guide, featuring all the top attractions, hiking/biking routes, food and drink scene, where to stay, what to buy, and much more.</description>
+	<pubDate>2024-04-23T19:20:01+03:00</pubDate>
+</item><item>
 	<title>Djurgården Travel Guide (Stockholm/Stockholm County/Svealand/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/stockholm-county/stockholm/djurgarden/</link>
 	<description>Djurgården is home to some of Stockholm's best attractions. This travel guide covers the highlights, things to do, where to stay, what to buy, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/lubuskie/</link>
 	<description>Discover the best things to do, places to stay, food to try, and cultural gems in Lubuskie, Poland through this comprehensive travel guide.</description>
 	<pubDate>2024-04-23T14:45:23+03:00</pubDate>
-</item><item>
-	<title>Okigwe Travel Guide (Abia State/South East Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/abia-state/okigwe/</link>
-	<description>Plan your trip to Okigwe, Abia State with our comprehensive travel guide. Find recommendations on the top attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-04-23T14:04:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
