@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T23:49:34+03:00</pubDate>
-        <lastBuildDate>2024-04-23T23:49:34+03:00</lastBuildDate>
+        <pubDate>2024-04-24T00:08:31+03:00</pubDate>
+        <lastBuildDate>2024-04-24T00:08:31+03:00</lastBuildDate>
 
         <item>
+	<title>Sakya Travel Guide (Xigatse (prefecture)/Tibet/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/xigatse-prefecture/sakya/</link>
+	<description>Discover the beauty of Sakya in Tibet through this comprehensive travel guide, which features a list of places to visit, hiking and biking routes, best things to do, where to stay, what to buy, local culture, safety and health, and more.</description>
+	<pubDate>2024-04-24T00:08:31+03:00</pubDate>
+</item><item>
 	<title>Rutherford Travel Guide (Napa Valley/North Bay/Bay Area/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/north-bay/napa-valley/rutherford/</link>
 	<description>Plan your next vacation to Rutherford in Napa Valley with our comprehensive travel guide. Find the best places to visit, stay, eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/moscow-oblast/north-moscow-oblast/shchyolkovo/</link>
 	<description>Discover the best things to do, places to visit, and local culture and customs of Shchyolkovo with our complete travel guide.</description>
 	<pubDate>2024-04-23T19:52:03+03:00</pubDate>
-</item><item>
-	<title>18th arrondissement Travel Guide (Paris/Île-de-France/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/ile-de-france/paris/18th-arrondissement/</link>
-	<description>Plan your trip to 18th Arrondissement with our comprehensive travel guide, featuring all the top attractions, hiking/biking routes, food and drink scene, where to stay, what to buy, and much more.</description>
-	<pubDate>2024-04-23T19:20:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
