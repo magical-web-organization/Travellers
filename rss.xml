@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T21:30:02+03:00</pubDate>
-        <lastBuildDate>2024-04-23T21:30:02+03:00</lastBuildDate>
+        <pubDate>2024-04-23T21:45:00+03:00</pubDate>
+        <lastBuildDate>2024-04-23T21:45:00+03:00</lastBuildDate>
 
         <item>
+	<title>Dorris Travel Guide (Siskiyou County/Shasta Cascades/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/siskiyou-county/dorris/</link>
+	<description>Explore the charming town of Dorris in Siskiyou County, California through this comprehensive travel guide that lists down places to visit, best hiking/biking routes, things to do, where to stay, what to buy, and more.</description>
+	<pubDate>2024-04-23T21:45:00+03:00</pubDate>
+</item><item>
 	<title>Siliguri Travel Guide (Northern Plains/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/northern-plains/siliguri/</link>
 	<description>Discover the culturally significant attractions, natural wonders, and outdoor adventure tours of Siliguri with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/cambodia/north-western-cambodia/poipet/</link>
 	<description>Discover the best things to do, where to stay, what to eat, and more with this comprehensive guide to Poipet, Cambodia.</description>
 	<pubDate>2024-04-23T17:21:49+03:00</pubDate>
-</item><item>
-	<title>Villahermosa Travel Guide (Tabasco/Yucatán and the South/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/tabasco/villahermosa/</link>
-	<description>Plan your trip to Villahermosa, Mexico with our comprehensive travel guide. Discover the top attractions, hiking and biking routes, food scene, where to stay, local culture, safety and health info, and more.</description>
-	<pubDate>2024-04-23T16:34:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
