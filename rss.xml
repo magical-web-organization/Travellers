@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T13:23:10+03:00</pubDate>
-        <lastBuildDate>2024-04-23T13:23:10+03:00</lastBuildDate>
+        <pubDate>2024-04-23T13:51:03+03:00</pubDate>
+        <lastBuildDate>2024-04-23T13:51:03+03:00</lastBuildDate>
 
         <item>
+	<title>Deal Travel Guide (Kent/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/kent/deal/</link>
+	<description>Plan your trip to Deal with our comprehensive travel guide, including a list of the best places to visit, things to do, where to stay, and local insights.</description>
+	<pubDate>2024-04-23T13:51:03+03:00</pubDate>
+</item><item>
 	<title>Akrotiri Travel Guide (Santorini/Cyclades/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/santorini/akrotiri/</link>
 	<description>Discover the best places to visit, hiking and biking routes, food and drink scene, local customs and more with our comprehensive Akrotiri travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/bicol/catanduanes/</link>
 	<description>Discover the hidden gems of Catanduanes in the Philippines with this comprehensive travel guide. From natural attractions to cultural sites, we have it all covered.</description>
 	<pubDate>2024-04-23T09:28:07+03:00</pubDate>
-</item><item>
-	<title>Fort Washington Travel Guide (Montgomery County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/montgomery-county/fort-washington/</link>
-	<description>Explore the historical and scenic views of Fort Washington with this comprehensive tour guide. Find out everything you need to know about the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-23T08:51:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
