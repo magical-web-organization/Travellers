@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T14:45:23+03:00</pubDate>
-        <lastBuildDate>2024-04-23T14:45:23+03:00</lastBuildDate>
+        <pubDate>2024-04-23T15:06:23+03:00</pubDate>
+        <lastBuildDate>2024-04-23T15:06:23+03:00</lastBuildDate>
 
         <item>
+	<title>Townsville Travel Guide (Central Queensland/Queensland/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/townsville/</link>
+	<description>Discover the hidden gems of Townsville, Australia with our comprehensive tour guide, covering everything from cultural attractions and natural landscapes to adventures and local cuisine. Plan your trip with insider tips and recommendations.</description>
+	<pubDate>2024-04-23T15:06:23+03:00</pubDate>
+</item><item>
 	<title>Lubuskie Travel Guide (Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/lubuskie/</link>
 	<description>Discover the best things to do, places to stay, food to try, and cultural gems in Lubuskie, Poland through this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/veria/</link>
 	<description>Plan your trip to Veria, Greece with this comprehensive travel guide featuring cultural attractions, natural wonders, outdoor adventures, local cuisine, accommodations, and more.</description>
 	<pubDate>2024-04-23T10:59:23+03:00</pubDate>
-</item><item>
-	<title>Armstrong Redwoods State Natural Reserve Travel Guide (Sonoma County/North Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/sonoma-county/armstrong-redwoods-state-natural-reserve/</link>
-	<description>Discover the hidden gem of Sonoma County, California with our detailed guide to Armstrong Redwoods State Natural Reserve. From outdoor adventures and scenic views to cultural attractions, food and drink scene, accommodation options, and more.</description>
-	<pubDate>2024-04-23T10:25:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
