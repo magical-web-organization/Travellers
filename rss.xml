@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T18:16:17+03:00</pubDate>
-        <lastBuildDate>2024-04-23T18:16:17+03:00</lastBuildDate>
+        <pubDate>2024-04-23T19:01:53+03:00</pubDate>
+        <lastBuildDate>2024-04-23T19:01:53+03:00</lastBuildDate>
 
         <item>
+	<title>Djurgården Travel Guide (Stockholm/Stockholm County/Svealand/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/stockholm-county/stockholm/djurgarden/</link>
+	<description>Djurgården is home to some of Stockholm's best attractions. This travel guide covers the highlights, things to do, where to stay, what to buy, and more.</description>
+	<pubDate>2024-04-23T19:01:53+03:00</pubDate>
+</item><item>
 	<title>Nai Han Travel Guide (Phuket/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/phuket/nai-han/</link>
 	<description>Planning a trip to Nai Han in Phuket, Thailand? Check out the ultimate travel guide featuring top attractions, hiking routes, activities, food, accommodations and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/abia-state/okigwe/</link>
 	<description>Plan your trip to Okigwe, Abia State with our comprehensive travel guide. Find recommendations on the top attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-04-23T14:04:25+03:00</pubDate>
-</item><item>
-	<title>Deal Travel Guide (Kent/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/kent/deal/</link>
-	<description>Plan your trip to Deal with our comprehensive travel guide, including a list of the best places to visit, things to do, where to stay, and local insights.</description>
-	<pubDate>2024-04-23T13:51:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
