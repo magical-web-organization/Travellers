@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T00:08:31+03:00</pubDate>
-        <lastBuildDate>2024-04-24T00:08:31+03:00</lastBuildDate>
+        <pubDate>2024-04-24T00:35:57+03:00</pubDate>
+        <lastBuildDate>2024-04-24T00:35:57+03:00</lastBuildDate>
 
         <item>
+	<title>Aracati Travel Guide (Ceará/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/aracati/</link>
+	<description>Plan your trip to Aracati with our comprehensive guide. Discover the best places to visit, outdoor adventures, food and drink scene, accommodation options, and much more.</description>
+	<pubDate>2024-04-24T00:35:57+03:00</pubDate>
+</item><item>
 	<title>Sakya Travel Guide (Xigatse (prefecture)/Tibet/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/xigatse-prefecture/sakya/</link>
 	<description>Discover the beauty of Sakya in Tibet through this comprehensive travel guide, which features a list of places to visit, hiking and biking routes, best things to do, where to stay, what to buy, local culture, safety and health, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/wayanad/mananthavady/</link>
 	<description>Explore the culturally important attractions, natural attractions, hiking/biking routes, best things to do, food and drinks, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations in Mananthavady, Wayanad, Kerala, India.</description>
 	<pubDate>2024-04-23T20:03:34+03:00</pubDate>
-</item><item>
-	<title>Shchyolkovo Travel Guide (North Moscow Oblast/Moscow Oblast/Central Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/moscow-oblast/north-moscow-oblast/shchyolkovo/</link>
-	<description>Discover the best things to do, places to visit, and local culture and customs of Shchyolkovo with our complete travel guide.</description>
-	<pubDate>2024-04-23T19:52:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
