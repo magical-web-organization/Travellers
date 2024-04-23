@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-23T15:06:23+03:00</pubDate>
-        <lastBuildDate>2024-04-23T15:06:23+03:00</lastBuildDate>
+        <pubDate>2024-04-23T15:53:42+03:00</pubDate>
+        <lastBuildDate>2024-04-23T15:53:42+03:00</lastBuildDate>
 
         <item>
+	<title>East End Travel Guide (Toronto/Greater Toronto Area/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/toronto/east-end/</link>
+	<description>Explore the culturally rich and spectacular East End in Toronto with our comprehensive guide that covers everything from museums, outdoor adventures, food, accommodations, shopping, and more.</description>
+	<pubDate>2024-04-23T15:53:42+03:00</pubDate>
+</item><item>
 	<title>Townsville Travel Guide (Central Queensland/Queensland/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/townsville/</link>
 	<description>Discover the hidden gems of Townsville, Australia with our comprehensive tour guide, covering everything from cultural attractions and natural landscapes to adventures and local cuisine. Plan your trip with insider tips and recommendations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/ismaning/</link>
 	<description>Discover the culturally-rich town of Ismaning, situated in Upper Bavaria, Germany, with our complete travel guide. Find places to visit, outdoor adventures, accommodations, local cuisine, and more.</description>
 	<pubDate>2024-04-23T11:14:59+03:00</pubDate>
-</item><item>
-	<title>Veria Travel Guide (Macedonia/Northern Greece/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/veria/</link>
-	<description>Plan your trip to Veria, Greece with this comprehensive travel guide featuring cultural attractions, natural wonders, outdoor adventures, local cuisine, accommodations, and more.</description>
-	<pubDate>2024-04-23T10:59:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
