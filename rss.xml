@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T10:38:15+03:00</pubDate>
-        <lastBuildDate>2024-04-24T10:38:15+03:00</lastBuildDate>
+        <pubDate>2024-04-24T11:24:26+03:00</pubDate>
+        <lastBuildDate>2024-04-24T11:24:26+03:00</lastBuildDate>
 
         <item>
+	<title>Turkestan Travel Guide (Kazakh Desert/Kazakhstan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/kazakhstan/kazakh-desert/turkestan/</link>
+	<description>Discover Turkestan with our complete travel guide. We provide you with must-see attractions, best things to do, where to stay, health and safety tips, and much more.</description>
+	<pubDate>2024-04-24T11:24:26+03:00</pubDate>
+</item><item>
 	<title>Hudson Travel Guide (MetroWest/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/hudson/</link>
 	<description>Explore the best of Hudson with our comprehensive travel guide. Discover the top attractions, activities, food scene, where to stay and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/fianarantsoa-province/andringitra-national-park/</link>
 	<description>Explore the best of Andringitra National Park with our comprehensive tour guide - from hiking routes, to cultural attractions, to food and drink, to transportation options.</description>
 	<pubDate>2024-04-24T07:02:54+03:00</pubDate>
-</item><item>
-	<title>Cloudcroft Travel Guide (Southeast New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southeast-new-mexico/cloudcroft/</link>
-	<description>Discover the best things to do in Cloudcroft, New Mexico with this comprehensive travel guide. Explore natural attractions, hiking and biking routes, food and drink scenes, accommodation options, and nearby destinations. Don't miss out on experiencing unique local culture and customs in Cloudcroft.</description>
-	<pubDate>2024-04-24T06:13:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
