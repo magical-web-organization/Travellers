@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T15:11:49+03:00</pubDate>
-        <lastBuildDate>2024-04-24T15:11:49+03:00</lastBuildDate>
+        <pubDate>2024-04-24T15:45:01+03:00</pubDate>
+        <lastBuildDate>2024-04-24T15:45:01+03:00</lastBuildDate>
 
         <item>
+	<title>Digos Travel Guide (Davao Region/Mindanao/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/davao-region/digos/</link>
+	<description>Discover the natural and cultural beauty of Digos in Mindanao, Philippines through this comprehensive travel guide which includes places to visit, hiking/biking routes, food and drink scenes, local culture and customs, safety and health, how to get there and more.</description>
+	<pubDate>2024-04-24T15:45:01+03:00</pubDate>
+</item><item>
 	<title>Mendoza (province) Travel Guide (Cuyo/Argentina/South America)</title>
 	<link>https://travellers.wiki/en/south-america/argentina/cuyo/mendoza-province/</link>
 	<description>Plan your trip to Mendoza (Province) with this comprehensive travel guide featuring top attractions, food scene, accommodation options, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/central-asia/kazakhstan/kazakh-desert/turkestan/</link>
 	<description>Discover Turkestan with our complete travel guide. We provide you with must-see attractions, best things to do, where to stay, health and safety tips, and much more.</description>
 	<pubDate>2024-04-24T11:24:26+03:00</pubDate>
-</item><item>
-	<title>Hudson Travel Guide (MetroWest/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/hudson/</link>
-	<description>Explore the best of Hudson with our comprehensive travel guide. Discover the top attractions, activities, food scene, where to stay and more.</description>
-	<pubDate>2024-04-24T10:38:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
