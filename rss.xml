@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T07:29:31+03:00</pubDate>
-        <lastBuildDate>2024-04-24T07:29:31+03:00</lastBuildDate>
+        <pubDate>2024-04-24T07:55:11+03:00</pubDate>
+        <lastBuildDate>2024-04-24T07:55:11+03:00</lastBuildDate>
 
         <item>
+	<title>Borjomi Travel Guide (Samtskhe-Javakheti/Georgia (country)/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/samtskhe-javakheti/borjomi/</link>
+	<description>Plan your trip to Borjomi, Georgia and explore natural wonders, cultural highlights, outdoor adventures, and local cuisine with this comprehensive travel guide.</description>
+	<pubDate>2024-04-24T07:55:11+03:00</pubDate>
+</item><item>
 	<title>Taveuni Travel Guide (Fiji/Melanesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/melanesia/fiji/taveuni/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and travel tips for Taveuni in this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/queensland/outback-queensland/eulo/</link>
 	<description>Discover the best places to visit, things to do, where to stay, local culture, and travel tips in Eulo, Outback Queensland, Australia.</description>
 	<pubDate>2024-04-24T03:03:31+03:00</pubDate>
-</item><item>
-	<title>Upper Darby Travel Guide (Delaware County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/delaware-county/upper-darby/</link>
-	<description>Plan your trip to Upper Darby with this comprehensive tour guide that covers everything from where to stay, what to do, and how to get around.</description>
-	<pubDate>2024-04-24T02:48:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
