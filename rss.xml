@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T14:45:55+03:00</pubDate>
-        <lastBuildDate>2024-04-24T14:45:55+03:00</lastBuildDate>
+        <pubDate>2024-04-24T15:11:49+03:00</pubDate>
+        <lastBuildDate>2024-04-24T15:11:49+03:00</lastBuildDate>
 
         <item>
+	<title>Mendoza (province) Travel Guide (Cuyo/Argentina/South America)</title>
+	<link>https://travellers.wiki/en/south-america/argentina/cuyo/mendoza-province/</link>
+	<description>Plan your trip to Mendoza (Province) with this comprehensive travel guide featuring top attractions, food scene, accommodation options, safety tips, and more.</description>
+	<pubDate>2024-04-24T15:11:49+03:00</pubDate>
+</item><item>
 	<title>Murud Travel Guide (North Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/murud/</link>
 	<description>Discover the culturally rich and naturally breathtaking wonders of Murud through this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/hudson/</link>
 	<description>Explore the best of Hudson with our comprehensive travel guide. Discover the top attractions, activities, food scene, where to stay and more.</description>
 	<pubDate>2024-04-24T10:38:15+03:00</pubDate>
-</item><item>
-	<title>Gulf Of Mexico Travel Guide (North America)</title>
-	<link>https://travellers.wiki/en/north-america/gulf-of-mexico/</link>
-	<description>A comprehensive travel guide for Gulf Of Mexico, including natural attractions, cultural hotspots, food and drink destinations, safety tips, transportation options, and more.</description>
-	<pubDate>2024-04-24T10:21:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
