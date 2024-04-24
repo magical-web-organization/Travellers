@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T09:24:34+03:00</pubDate>
-        <lastBuildDate>2024-04-24T09:24:34+03:00</lastBuildDate>
+        <pubDate>2024-04-24T09:58:13+03:00</pubDate>
+        <lastBuildDate>2024-04-24T09:58:13+03:00</lastBuildDate>
 
         <item>
+	<title>Natal Travel Guide (Rio Grande do Norte/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/rio-grande-do-norte/natal/</link>
+	<description>Discover the best places to visit, things to do, and local culture in Natal, Brazil. This comprehensive travel guide includes information on transportation, safety, local cuisine, and much more.</description>
+	<pubDate>2024-04-24T09:58:13+03:00</pubDate>
+</item><item>
 	<title>Greenville Travel Guide (Blackland Prairie/Prairies and Lakes/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/blackland-prairie/greenville/</link>
 	<description>Explore the cultural and natural attractions of Greenville, Texas, including must-visit museums and historical places, outdoor adventures and scenic views, hiking and biking routes, activities and tours, hotels and guesthouses, local food scene, and customs and traditions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/kythnos/</link>
 	<description>Plan your trip to Kythnos, Greece with this comprehensive travel guide. Learn about the must-visit places, activities, food, culture, and more.</description>
 	<pubDate>2024-04-24T05:06:48+03:00</pubDate>
-</item><item>
-	<title>Essex Travel Guide (Chittenden County/Northwest Vermont/Vermont/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/northwest-vermont/chittenden-county/essex/</link>
-	<description>Explore the natural beauty, culture, and adventure of Essex, Vermont with our comprehensive travel guide, including recommendations, must-visit places, and tips.</description>
-	<pubDate>2024-04-24T04:49:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
