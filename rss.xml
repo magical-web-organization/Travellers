@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T21:17:04+03:00</pubDate>
-        <lastBuildDate>2024-04-24T21:17:04+03:00</lastBuildDate>
+        <pubDate>2024-04-24T21:55:51+03:00</pubDate>
+        <lastBuildDate>2024-04-24T21:55:51+03:00</lastBuildDate>
 
         <item>
+	<title>Lang Suan Travel Guide (Central Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/lang-suan/</link>
+	<description>Learn about the best things to do and places to visit in Lang Suan, Southern Thailand's hidden gem. Explore its pristine natural wonders and immerse yourself in its rich cultural heritage.</description>
+	<pubDate>2024-04-24T21:55:51+03:00</pubDate>
+</item><item>
 	<title>Busha Travel Guide (Central Ukraine/Ukraine/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/central-ukraine/busha/</link>
 	<description>Explore the beautiful town of Busha in Central Ukraine. From cultural attractions to scenic natural wonders, this guide will help you plan your trip with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/south-zealand/glumso/</link>
 	<description>Plan your dream vacation with this comprehensive Glumsø travel guide featuring must-visit attractions, hiking/biking routes, food and drink scene, accommodation options, transportation and logistics information, and more.</description>
 	<pubDate>2024-04-24T17:17:30+03:00</pubDate>
-</item><item>
-	<title>Cape Charles Travel Guide (Eastern Shore/Eastern Virginia/Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/eastern-virginia/eastern-shore/cape-charles/</link>
-	<description>Discover the rich cultural history, natural attractions, and outdoor adventures that Cape Charles has to offer through this comprehensive travel guide.</description>
-	<pubDate>2024-04-24T16:53:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
