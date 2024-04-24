@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T06:13:14+03:00</pubDate>
-        <lastBuildDate>2024-04-24T06:13:14+03:00</lastBuildDate>
+        <pubDate>2024-04-24T07:02:54+03:00</pubDate>
+        <lastBuildDate>2024-04-24T07:02:54+03:00</lastBuildDate>
 
         <item>
+	<title>Andringitra National Park Travel Guide (Fianarantsoa Province/Madagascar/East African Islands/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/fianarantsoa-province/andringitra-national-park/</link>
+	<description>Explore the best of Andringitra National Park with our comprehensive tour guide - from hiking routes, to cultural attractions, to food and drink, to transportation options.</description>
+	<pubDate>2024-04-24T07:02:54+03:00</pubDate>
+</item><item>
 	<title>Cloudcroft Travel Guide (Southeast New Mexico/New Mexico/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southeast-new-mexico/cloudcroft/</link>
 	<description>Discover the best things to do in Cloudcroft, New Mexico with this comprehensive travel guide. Explore natural attractions, hiking and biking routes, food and drink scenes, accommodation options, and nearby destinations. Don't miss out on experiencing unique local culture and customs in Cloudcroft.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/guanacaste/nicoya-city/</link>
 	<description>Plan your trip to Nicoya City with this guide featuring top things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-04-24T02:22:30+03:00</pubDate>
-</item><item>
-	<title>Alford Travel Guide (Lincolnshire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/lincolnshire/alford/</link>
-	<description>Plan your trip to Alford with this comprehensive guide, featuring top attractions, hiking and biking routes, where to stay, what to eat, and more.</description>
-	<pubDate>2024-04-24T01:28:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
