@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T13:51:39+03:00</pubDate>
-        <lastBuildDate>2024-04-24T13:51:39+03:00</lastBuildDate>
+        <pubDate>2024-04-24T14:13:17+03:00</pubDate>
+        <lastBuildDate>2024-04-24T14:13:17+03:00</lastBuildDate>
 
         <item>
+	<title>Rivière-aux-Outardes Travel Guide (North Shore/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/riviere-aux-outardes/</link>
+	<description>Discover the best things to do, places to visit, food to eat, and local culture of Rivière-aux-Outardes. This guide covers everything you need to know to plan an unforgettable trip.</description>
+	<pubDate>2024-04-24T14:13:17+03:00</pubDate>
+</item><item>
 	<title>Serra do Divisor Travel Guide (Acre/North/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/north/acre/serra-do-divisor/</link>
 	<description>Discover the beauty and adventure of Serra do Divisor in Acre, Brazil through this comprehensive travel guide. From natural attractions to local culture, we provide everything you need to plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/rio-grande-do-norte/natal/</link>
 	<description>Discover the best places to visit, things to do, and local culture in Natal, Brazil. This comprehensive travel guide includes information on transportation, safety, local cuisine, and much more.</description>
 	<pubDate>2024-04-24T09:58:13+03:00</pubDate>
-</item><item>
-	<title>Greenville Travel Guide (Blackland Prairie/Prairies and Lakes/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/blackland-prairie/greenville/</link>
-	<description>Explore the cultural and natural attractions of Greenville, Texas, including must-visit museums and historical places, outdoor adventures and scenic views, hiking and biking routes, activities and tours, hotels and guesthouses, local food scene, and customs and traditions.</description>
-	<pubDate>2024-04-24T09:24:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
