@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-24T10:21:36+03:00</pubDate>
-        <lastBuildDate>2024-04-24T10:21:36+03:00</lastBuildDate>
+        <pubDate>2024-04-24T10:38:15+03:00</pubDate>
+        <lastBuildDate>2024-04-24T10:38:15+03:00</lastBuildDate>
 
         <item>
+	<title>Hudson Travel Guide (MetroWest/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/metrowest/hudson/</link>
+	<description>Explore the best of Hudson with our comprehensive travel guide. Discover the top attractions, activities, food scene, where to stay and more.</description>
+	<pubDate>2024-04-24T10:38:15+03:00</pubDate>
+</item><item>
 	<title>Gulf Of Mexico Travel Guide (North America)</title>
 	<link>https://travellers.wiki/en/north-america/gulf-of-mexico/</link>
 	<description>A comprehensive travel guide for Gulf Of Mexico, including natural attractions, cultural hotspots, food and drink destinations, safety tips, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southeast-new-mexico/cloudcroft/</link>
 	<description>Discover the best things to do in Cloudcroft, New Mexico with this comprehensive travel guide. Explore natural attractions, hiking and biking routes, food and drink scenes, accommodation options, and nearby destinations. Don't miss out on experiencing unique local culture and customs in Cloudcroft.</description>
 	<pubDate>2024-04-24T06:13:14+03:00</pubDate>
-</item><item>
-	<title>Saint-Justin Travel Guide (Maskinongé Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/maskinonge-region/saint-justin/</link>
-	<description>Discover the best things to do and places to visit in Saint-Justin, Mauricie. Learn about its natural attractions, cultural landmarks, hiking and biking routes, food and drink scene, and local culture and customs.</description>
-	<pubDate>2024-04-24T06:00:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
