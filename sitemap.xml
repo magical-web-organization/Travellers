@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/ile-de-france/fontainebleau/</loc>
+        <lastmod>2024-04-25T14:25:00+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/greece/central-greece/phthiotis/</loc>
         <lastmod>2024-04-25T13:36:43+03:00</lastmod>
     </url>
