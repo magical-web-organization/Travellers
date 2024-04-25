@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T20:50:17+03:00</pubDate>
-        <lastBuildDate>2024-04-25T20:50:17+03:00</lastBuildDate>
+        <pubDate>2024-04-25T21:12:15+03:00</pubDate>
+        <lastBuildDate>2024-04-25T21:12:15+03:00</lastBuildDate>
 
         <item>
+	<title>Apple Valley Travel Guide (Twin Cities/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/twin-cities/apple-valley/</link>
+	<description>Planning a trip to Apple Valley, Minnesota? Look no further! This guide provides everything you need to know about the city, from where to stay to what to do and see.</description>
+	<pubDate>2024-04-25T21:12:15+03:00</pubDate>
+</item><item>
 	<title>Guaraqueçaba Travel Guide (Coast/Paraná/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/parana/coast/guaraquecaba/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Guaraqueçaba, Brazil with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/greater-jakarta/south-tangerang/</link>
 	<description>Discover the best places to visit, eat, stay, and learn about the local culture and customs in South Tangerang, Indonesia. Read on for an informative and comprehensive guide.</description>
 	<pubDate>2024-04-25T16:40:12+03:00</pubDate>
-</item><item>
-	<title>Kutztown Travel Guide (Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/kutztown/</link>
-	<description>Get ready to explore Kutztown with this comprehensive travel guide featuring the top things to do, places to visit, food and drink scene, local culture, and safety tips.</description>
-	<pubDate>2024-04-25T16:08:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
