@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T04:58:27+03:00</pubDate>
-        <lastBuildDate>2024-04-25T04:58:27+03:00</lastBuildDate>
+        <pubDate>2024-04-25T05:12:18+03:00</pubDate>
+        <lastBuildDate>2024-04-25T05:12:18+03:00</lastBuildDate>
 
         <item>
+	<title>Engaru Travel Guide (Eastern Circuit/Hokkaido/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/eastern-circuit/engaru/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in Engaru, Japan. Explore the cultural and natural attractions, including hiking/biking routes and local cuisine.</description>
+	<pubDate>2024-04-25T05:12:18+03:00</pubDate>
+</item><item>
 	<title>Shizuoka Travel Guide (Shizuoka (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/shizuoka/</link>
 	<description>Discover the best things to do and see in Shizuoka, Japan. Get tips on accommodations, food, and transportation.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/oslo-region/oslo/north/</link>
 	<description>Discover the best things to do and see in North, Oslo, Norway with our travel guide. From stunning natural attractions to delicious local cuisine, plan your trip to North with our ultimate itinerary.</description>
 	<pubDate>2024-04-25T00:57:54+03:00</pubDate>
-</item><item>
-	<title>Ganpatipule Travel Guide (South Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/south-konkan/ganpatipule/</link>
-	<description>Discover the best places to visit, things to do, and tips for your trip in Ganpatipule with our comprehensive guide.</description>
-	<pubDate>2024-04-25T00:33:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
