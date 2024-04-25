@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T03:10:24+03:00</pubDate>
-        <lastBuildDate>2024-04-25T03:10:24+03:00</lastBuildDate>
+        <pubDate>2024-04-25T03:56:37+03:00</pubDate>
+        <lastBuildDate>2024-04-25T03:56:37+03:00</lastBuildDate>
 
         <item>
+	<title>Carate Travel Guide (South Pacific Costa Rica/Costa Rica/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/south-pacific-costa-rica/carate/</link>
+	<description>Plan your perfect trip to Carate with this comprehensive travel guide including itineraries, attractions, accommodations, food and drink, local culture and customs, and transportation options.</description>
+	<pubDate>2024-04-25T03:56:37+03:00</pubDate>
+</item><item>
 	<title>Marsciano Travel Guide (Umbria/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/umbria/marsciano/</link>
 	<description>Explore the cultural and natural attractions of Marsciano, discover its cuisine, find out where to stay, what to buy and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/east-sussex/battle/</link>
 	<description>Plan your visit to Battle with this comprehensive travel guide. From historical sites and museums to natural attractions and outdoor adventures, explore all that this charming town in East Sussex has to offer.</description>
 	<pubDate>2024-04-24T23:31:26+03:00</pubDate>
-</item><item>
-	<title>Ako Travel Guide (Hyogo/Kansai/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/hyogo/ako/</link>
-	<description>Discover the best things to see and do, where to stay, what to eat, and more in Ako, Japan with this comprehensive travel guide. Plan your trip now!</description>
-	<pubDate>2024-04-24T22:56:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
