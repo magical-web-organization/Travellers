@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T05:12:18+03:00</pubDate>
-        <lastBuildDate>2024-04-25T05:12:18+03:00</lastBuildDate>
+        <pubDate>2024-04-25T05:36:53+03:00</pubDate>
+        <lastBuildDate>2024-04-25T05:36:53+03:00</lastBuildDate>
 
         <item>
+	<title>Maricopa Travel Guide (Kern County/San Joaquin Valley/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/kern-county/maricopa/</link>
+	<description>Plan your trip to Maricopa with our detailed travel guide, including the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-04-25T05:36:53+03:00</pubDate>
+</item><item>
 	<title>Engaru Travel Guide (Eastern Circuit/Hokkaido/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/eastern-circuit/engaru/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Engaru, Japan. Explore the cultural and natural attractions, including hiking/biking routes and local cuisine.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/eastern-tasmania/maria-island-national-park/</link>
 	<description>Maria Island National Park is a must-visit destination for nature enthusiasts and history buffs. Read on to plan your trip and explore the island's cultural attractions, natural wonders, and outdoor activities.</description>
 	<pubDate>2024-04-25T01:25:32+03:00</pubDate>
-</item><item>
-	<title>North Travel Guide (Oslo/Oslo region/East Norway/Norway/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/oslo-region/oslo/north/</link>
-	<description>Discover the best things to do and see in North, Oslo, Norway with our travel guide. From stunning natural attractions to delicious local cuisine, plan your trip to North with our ultimate itinerary.</description>
-	<pubDate>2024-04-25T00:57:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
