@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T08:29:52+03:00</pubDate>
-        <lastBuildDate>2024-04-25T08:29:52+03:00</lastBuildDate>
+        <pubDate>2024-04-25T08:56:39+03:00</pubDate>
+        <lastBuildDate>2024-04-25T08:56:39+03:00</lastBuildDate>
 
         <item>
+	<title>Conway Travel Guide (Central Missouri/Missouri/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/central-missouri/conway/</link>
+	<description>Discover the best things to do and places to stay in Conway, Missouri with our comprehensive travel guide.</description>
+	<pubDate>2024-04-25T08:56:39+03:00</pubDate>
+</item><item>
 	<title>Sierra County Travel Guide (Gold Country/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/gold-country/sierra-county/</link>
 	<description>Discover the natural beauty and rich history of Sierra County through our comprehensive tour guide, featuring must-visit places, hiking routes, food and drink recommendations, transportation options and logistics, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/lagos-state/onikan/</link>
 	<description>Discover the top things to do, see and eat in Onikan with this comprehensive travel guide. Learn about its local culture, where to stay and how to get around.</description>
 	<pubDate>2024-04-25T04:16:25+03:00</pubDate>
-</item><item>
-	<title>Carate Travel Guide (South Pacific Costa Rica/Costa Rica/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/south-pacific-costa-rica/carate/</link>
-	<description>Plan your perfect trip to Carate with this comprehensive travel guide including itineraries, attractions, accommodations, food and drink, local culture and customs, and transportation options.</description>
-	<pubDate>2024-04-25T03:56:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
