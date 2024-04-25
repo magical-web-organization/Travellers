@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T23:42:28+03:00</pubDate>
-        <lastBuildDate>2024-04-25T23:42:28+03:00</lastBuildDate>
+        <pubDate>2024-04-26T00:22:07+03:00</pubDate>
+        <lastBuildDate>2024-04-26T00:22:07+03:00</lastBuildDate>
 
         <item>
+	<title>L'Ange-Gardien Travel Guide (Charlevoix/Central Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/charlevoix/l-ange-gardien/</link>
+	<description>Discover the cultural and natural attractions, the best things to do, where to stay, and what to buy in L'Ange-Gardien, Quebec. Plan your trip with our week-long itinerary and transport options.</description>
+	<pubDate>2024-04-26T00:22:07+03:00</pubDate>
+</item><item>
 	<title>Wuling Farm Travel Guide (Northern Taiwan/Taiwan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/wuling-farm/</link>
 	<description>Plan your trip to Wuling Farm, Taiwan with this comprehensive guide featuring outdoor activities, cultural attractions, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/haute-savoie/annemasse/</link>
 	<description>Discover the best things to do, places to stay, and tips for exploring Annemasse, France with this comprehensive travel guide. Read now and plan your trip now!</description>
 	<pubDate>2024-04-25T19:35:46+03:00</pubDate>
-</item><item>
-	<title>Hispaniola Travel Guide (Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/hispaniola/</link>
-	<description>Plan your trip to Hispaniola with this comprehensive travel guide that covers attractions, activities, accommodations, culture, safety, and logistics.</description>
-	<pubDate>2024-04-25T19:03:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
