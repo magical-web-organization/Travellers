@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T15:21:18+03:00</pubDate>
-        <lastBuildDate>2024-04-25T15:21:18+03:00</lastBuildDate>
+        <pubDate>2024-04-25T15:56:30+03:00</pubDate>
+        <lastBuildDate>2024-04-25T15:56:30+03:00</lastBuildDate>
 
         <item>
+	<title>Elvas Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/elvas/</link>
+	<description>Explore the cultural attractions, natural wonders, and local cuisine of Elvas, Portugal. Discover the best things to do, where to stay, and how to get around in this charming town.</description>
+	<pubDate>2024-04-25T15:56:30+03:00</pubDate>
+</item><item>
 	<title>Gedu Travel Guide (Western Bhutan/Bhutan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/bhutan/western-bhutan/gedu/</link>
 	<description>Discover the top tourist attractions and activities in Gedu, Bhutan with this comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/st-louis-metro-east/alton/</link>
 	<description>Plan your trip to Alton, Illinois with our comprehensive travel guide, including must-visit attractions, outdoor adventures, food scene, and local culture.</description>
 	<pubDate>2024-04-25T11:09:01+03:00</pubDate>
-</item><item>
-	<title>French Gulch Travel Guide (Shasta County/Shasta Cascades/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/shasta-county/french-gulch/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to French Gulch, California.</description>
-	<pubDate>2024-04-25T10:34:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
