@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-25T02:53:39+03:00</pubDate>
-        <lastBuildDate>2024-04-25T02:53:39+03:00</lastBuildDate>
+        <pubDate>2024-04-25T03:10:24+03:00</pubDate>
+        <lastBuildDate>2024-04-25T03:10:24+03:00</lastBuildDate>
 
         <item>
+	<title>Marsciano Travel Guide (Umbria/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/umbria/marsciano/</link>
+	<description>Explore the cultural and natural attractions of Marsciano, discover its cuisine, find out where to stay, what to buy and how to get there.</description>
+	<pubDate>2024-04-25T03:10:24+03:00</pubDate>
+</item><item>
 	<title>Worksop Travel Guide (Nottinghamshire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/nottinghamshire/worksop/</link>
 	<description>Explore Worksop with our comprehensive travel guide featuring top attractions, accommodations, food, and transportation options. Plan your next trip today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/hyogo/ako/</link>
 	<description>Discover the best things to see and do, where to stay, what to eat, and more in Ako, Japan with this comprehensive travel guide. Plan your trip now!</description>
 	<pubDate>2024-04-24T22:56:24+03:00</pubDate>
-</item><item>
-	<title>Lebanon Travel Guide (Central Missouri/Missouri/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/central-missouri/lebanon/</link>
-	<description>Discover the best places to visit, food to try, things to do, and tips for a safe and enjoyable trip to Lebanon, Missouri.</description>
-	<pubDate>2024-04-24T22:20:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
