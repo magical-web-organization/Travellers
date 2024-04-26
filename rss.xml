@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T03:00:10+03:00</pubDate>
-        <lastBuildDate>2024-04-26T03:00:10+03:00</lastBuildDate>
+        <pubDate>2024-04-26T03:26:11+03:00</pubDate>
+        <lastBuildDate>2024-04-26T03:26:11+03:00</lastBuildDate>
 
         <item>
+	<title>Torre del Mar Travel Guide (Axarquía/Málaga (province)/Andalusia/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/malaga-province/axarquia/torre-del-mar/</link>
+	<description>Plan your trip to Torre del Mar, Andalusia, with this comprehensive travel guide covering attractions, activities, food, accommodations, and more.</description>
+	<pubDate>2024-04-26T03:26:11+03:00</pubDate>
+</item><item>
 	<title>Százhalombatta Travel Guide (Pest County/Central Hungary/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/pest-county/szazhalombatta/</link>
 	<description>Explore Százhalombatta, Hungary with our detailed travel guide. Discover top things to do, places to visit, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/northern-spain/aragon/torla/</link>
 	<description>Explore the charming village of Torla in Northern Spain and discover its natural wonders, rich history, and cultural offerings. This comprehensive travel guide will provide you with everything you need to know for an unforgettable vacation.</description>
 	<pubDate>2024-04-25T23:03:00+03:00</pubDate>
-</item><item>
-	<title>Saint-Marc Travel Guide (Central Haiti/Haiti/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/haiti/central-haiti/saint-marc/</link>
-	<description>Planning a trip to Saint-Marc, Haiti? This detailed travel guide covers everything you need to know - from must-visit attractions, hiking trails, and local culture to dining options, transportation, and safety tips.</description>
-	<pubDate>2024-04-25T22:25:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
