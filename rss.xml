@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T14:33:52+03:00</pubDate>
-        <lastBuildDate>2024-04-26T14:33:52+03:00</lastBuildDate>
+        <pubDate>2024-04-26T15:21:19+03:00</pubDate>
+        <lastBuildDate>2024-04-26T15:21:19+03:00</lastBuildDate>
 
         <item>
+	<title>Daursky Nature Reserve Travel Guide (Zabaykalsky Krai/Eastern Siberia/Siberia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/siberia/eastern-siberia/zabaykalsky-krai/daursky-nature-reserve/</link>
+	<description>Explore the breathtaking beauty and cultural significance of Daursky Nature Reserve in Eastern Siberia with our comprehensive travel guide.</description>
+	<pubDate>2024-04-26T15:21:19+03:00</pubDate>
+</item><item>
 	<title>Visby Travel Guide (Gotland/Götaland/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/gotland/visby/</link>
 	<description>Discover the best places to visit, eat, stay, and more in Visby, Sweden with this comprehensive travel guide. Plan your trip with our detailed itinerary, must-try dishes, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/ribatejo/torres-novas/</link>
 	<description>Discover the top attractions, activities, and travel tips in Torres Novas, Portugal. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-04-26T11:01:56+03:00</pubDate>
-</item><item>
-	<title>Khuruthang Travel Guide (Western Bhutan/Bhutan/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/bhutan/western-bhutan/khuruthang/</link>
-	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more in Khuruthang, Bhutan.</description>
-	<pubDate>2024-04-26T10:24:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
