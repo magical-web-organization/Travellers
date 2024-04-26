@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T12:03:13+03:00</pubDate>
-        <lastBuildDate>2024-04-26T12:03:13+03:00</lastBuildDate>
+        <pubDate>2024-04-26T12:31:09+03:00</pubDate>
+        <lastBuildDate>2024-04-26T12:31:09+03:00</lastBuildDate>
 
         <item>
+	<title>Cavalier Travel Guide (Red River Valley/North Dakota/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/red-river-valley/cavalier/</link>
+	<description>A comprehensive tour guide for Cavalier, North Dakota including a list of places to visit, hiking/biking routes, where to stay, what to buy, and more.</description>
+	<pubDate>2024-04-26T12:31:09+03:00</pubDate>
+</item><item>
 	<title>Tongariro National Park Travel Guide (Central North Island/North Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/central-north-island/tongariro-national-park/</link>
 	<description>Explore and discover the natural beauty of Tongariro National Park with this comprehensive guide. Learn about the best things to do, where to stay, and what to eat while exploring Central North Island in New Zealand.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/stockholm-county/stockholm/kungsholmen/</link>
 	<description>Explore the best of Kungsholmen, a diverse and vibrant island in Stockholm, Sweden, with our comprehensive travel guide. Discover the top attractions, best places to stay, local food and drink scene, and more.</description>
 	<pubDate>2024-04-26T07:55:12+03:00</pubDate>
-</item><item>
-	<title>Pacifica Travel Guide (Peninsula/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/pacifica/</link>
-	<description>Explore Pacifica, California with this comprehensive travel guide, featuring the best places to visit, outdoor adventures, cultural landmarks, local food and drink scene, accommodations, safety and health tips, and nearby destinations to visit.</description>
-	<pubDate>2024-04-26T07:20:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
