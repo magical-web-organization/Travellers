@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T16:55:21+03:00</pubDate>
-        <lastBuildDate>2024-04-26T16:55:21+03:00</lastBuildDate>
+        <pubDate>2024-04-26T17:24:19+03:00</pubDate>
+        <lastBuildDate>2024-04-26T17:24:19+03:00</lastBuildDate>
 
         <item>
+	<title>Kaiama Travel Guide (Kwara State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/kaiama/</link>
+	<description>Plan your trip to Kaiama, Nigeria with this comprehensive travel guide featuring must-visit places, outdoor adventures, cultural experiences, and local insights. Discover the best things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-26T17:24:19+03:00</pubDate>
+</item><item>
 	<title>Geauga County Travel Guide (Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/geauga-county/</link>
 	<description>Plan your visit to Geauga County with this comprehensive tour guide featuring top attractions, hiking/biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/central-high-country/dawsonville/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Dawsonville, Georgia with our comprehensive travel guide.</description>
 	<pubDate>2024-04-26T12:45:21+03:00</pubDate>
-</item><item>
-	<title>Cavalier Travel Guide (Red River Valley/North Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/red-river-valley/cavalier/</link>
-	<description>A comprehensive tour guide for Cavalier, North Dakota including a list of places to visit, hiking/biking routes, where to stay, what to buy, and more.</description>
-	<pubDate>2024-04-26T12:31:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
