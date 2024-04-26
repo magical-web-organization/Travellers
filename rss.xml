@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T13:43:56+03:00</pubDate>
-        <lastBuildDate>2024-04-26T13:43:56+03:00</lastBuildDate>
+        <pubDate>2024-04-26T14:12:02+03:00</pubDate>
+        <lastBuildDate>2024-04-26T14:12:02+03:00</lastBuildDate>
 
         <item>
+	<title>Tadley Travel Guide (Hampshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/tadley/</link>
+	<description>Discover Tadley, a charming town in Hampshire, England with its culturally important attractions, natural beauty, hiking, biking routes, best things to do, food and drink scene, where to stay, how to get there, safety and health, and nearby destinations.</description>
+	<pubDate>2024-04-26T14:12:02+03:00</pubDate>
+</item><item>
 	<title>Afan Forest Park Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/afan-forest-park/</link>
 	<description>Discover the beauty of Afan Forest Park, located in South Wales, UK. Explore the top cultural and natural attractions, hiking and biking routes, best food and drink, accommodations, and nearby destinations to help plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/south-coast/margate/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and travel tips for exploring Margate, one of KwaZulu-Natal's top South Coast destinations.</description>
 	<pubDate>2024-04-26T10:00:52+03:00</pubDate>
-</item><item>
-	<title>Tolú Travel Guide (Western Costa Norte/Costa Norte/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/costa-norte/western-costa-norte/tolu/</link>
-	<description>Discover the best things to do, places to visit, food to try, and local culture to experience in Tolú, a hidden gem of Colombia's Costa Norte.</description>
-	<pubDate>2024-04-26T09:10:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
