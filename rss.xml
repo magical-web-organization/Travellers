@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T17:24:19+03:00</pubDate>
-        <lastBuildDate>2024-04-26T17:24:19+03:00</lastBuildDate>
+        <pubDate>2024-04-26T17:40:06+03:00</pubDate>
+        <lastBuildDate>2024-04-26T17:40:06+03:00</lastBuildDate>
 
         <item>
+	<title>Bhilai Travel Guide (Chhattisgarh/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/chhattisgarh/bhilai/</link>
+	<description>Plan your trip to Bhilai, Chhattisgarh with our comprehensive travel guide. Explore culturally important attractions, natural wonders, delicious local cuisine, and more.</description>
+	<pubDate>2024-04-26T17:40:06+03:00</pubDate>
+</item><item>
 	<title>Kaiama Travel Guide (Kwara State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/kaiama/</link>
 	<description>Plan your trip to Kaiama, Nigeria with this comprehensive travel guide featuring must-visit places, outdoor adventures, cultural experiences, and local insights. Discover the best things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/buyeo/</link>
 	<description>Explore the beautiful city of Buyeo with this comprehensive travel guide featuring the top attractions, activities, culinary options, accommodations, and more.</description>
 	<pubDate>2024-04-26T13:17:54+03:00</pubDate>
-</item><item>
-	<title>Dawsonville Travel Guide (Central High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/central-high-country/dawsonville/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Dawsonville, Georgia with our comprehensive travel guide.</description>
-	<pubDate>2024-04-26T12:45:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
