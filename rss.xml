@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T11:01:56+03:00</pubDate>
-        <lastBuildDate>2024-04-26T11:01:56+03:00</lastBuildDate>
+        <pubDate>2024-04-26T11:05:21+03:00</pubDate>
+        <lastBuildDate>2024-04-26T11:05:21+03:00</lastBuildDate>
 
         <item>
+	<title>Nahuel Huapi National Park Travel Guide (Patagonia/Argentina/South America)</title>
+	<link>https://travellers.wiki/en/south-america/argentina/patagonia/nahuel-huapi-national-park/</link>
+	<description>Discover the beauty of Nahuel Huapi National Park, its top attractions, outdoor adventures, hiking and biking routes, local culture, food and drink scene, safety tips, transportation options and nearby destinations to explore.</description>
+	<pubDate>2024-04-26T11:05:21+03:00</pubDate>
+</item><item>
 	<title>Torres Novas Travel Guide (Ribatejo/Tagus Valley/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/ribatejo/torres-novas/</link>
 	<description>Discover the top attractions, activities, and travel tips in Torres Novas, Portugal. Plan your trip with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/caucasus/azerbaijan/northeastern-azerbaijan/qusar/</link>
 	<description>Discover the hidden gem of Qusar in Azerbaijan with this comprehensive travel guide featuring a list of places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-04-26T06:57:49+03:00</pubDate>
-</item><item>
-	<title>Stevenson Travel Guide (Southwest Washington/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/stevenson/</link>
-	<description>Plan your trip to Stevenson, Washington with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more in this scenic town.</description>
-	<pubDate>2024-04-26T06:30:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
