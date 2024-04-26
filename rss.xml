@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T10:00:52+03:00</pubDate>
-        <lastBuildDate>2024-04-26T10:00:52+03:00</lastBuildDate>
+        <pubDate>2024-04-26T10:24:53+03:00</pubDate>
+        <lastBuildDate>2024-04-26T10:24:53+03:00</lastBuildDate>
 
         <item>
+	<title>Khuruthang Travel Guide (Western Bhutan/Bhutan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/bhutan/western-bhutan/khuruthang/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more in Khuruthang, Bhutan.</description>
+	<pubDate>2024-04-26T10:24:53+03:00</pubDate>
+</item><item>
 	<title>Margate Travel Guide (South Coast/KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/south-coast/margate/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and travel tips for exploring Margate, one of KwaZulu-Natal's top South Coast destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/barry/</link>
 	<description>Plan your trip to Barry, South Wales with our comprehensive travel guide featuring top attractions, must-see destinations, and local customs. Discover things to do, food and drink, transportation, and safety tips.</description>
 	<pubDate>2024-04-26T05:43:05+03:00</pubDate>
-</item><item>
-	<title>Cardwell Travel Guide (Far North Queensland/Queensland/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/queensland/far-north-queensland/cardwell/</link>
-	<description>Discover the best places to visit, hike and bike routes, activities and tours, food and drink scene, where to stay, local culture and customs, safety and health, transportation options and logistics, and nearby destinations and excursions in Cardwell, Queensland, Australia.</description>
-	<pubDate>2024-04-26T05:19:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
