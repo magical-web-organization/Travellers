@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T20:21:09+03:00</pubDate>
-        <lastBuildDate>2024-04-26T20:21:09+03:00</lastBuildDate>
+        <pubDate>2024-04-26T20:36:37+03:00</pubDate>
+        <lastBuildDate>2024-04-26T20:36:37+03:00</lastBuildDate>
 
         <item>
+	<title>East Lyme Travel Guide (Mystic-Eastern/Connecticut/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/mystic-eastern/east-lyme/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local customs of East Lyme, Connecticut, in North America.</description>
+	<pubDate>2024-04-26T20:36:37+03:00</pubDate>
+</item><item>
 	<title>Santa Nella Travel Guide (Merced County/San Joaquin Valley/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/merced-county/santa-nella/</link>
 	<description>Plan your trip to Santa Nella with our comprehensive travel guide including places to visit, hiking and biking trails, best things to do, eating scene, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/ribatejo/abrantes/</link>
 	<description>Plan your visit to Abrantes with our comprehensive travel guide filled with information on what to see, do, eat, and where to stay.</description>
 	<pubDate>2024-04-26T16:32:56+03:00</pubDate>
-</item><item>
-	<title>Saalfeld Travel Guide (Thuringia/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/thuringia/saalfeld/</link>
-	<description>Discover the rich culture, natural beauty and vibrant food and drink scene of Saalfeld. Plan your complete trip with this comprehensive travel guide.</description>
-	<pubDate>2024-04-26T15:54:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
