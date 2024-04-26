@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-26T03:26:11+03:00</pubDate>
-        <lastBuildDate>2024-04-26T03:26:11+03:00</lastBuildDate>
+        <pubDate>2024-04-26T03:43:25+03:00</pubDate>
+        <lastBuildDate>2024-04-26T03:43:25+03:00</lastBuildDate>
 
         <item>
+	<title>Black Canyon of the Gunnison National Park Travel Guide (Southwestern Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/southwestern-colorado/black-canyon-of-the-gunnison-national-park/</link>
+	<description>Discover the natural and cultural attractions of Black Canyon of the Gunnison National Park in Colorado, USA. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-04-26T03:43:25+03:00</pubDate>
+</item><item>
 	<title>Torre del Mar Travel Guide (Axarquía/Málaga (province)/Andalusia/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/malaga-province/axarquia/torre-del-mar/</link>
 	<description>Plan your trip to Torre del Mar, Andalusia, with this comprehensive travel guide covering attractions, activities, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/northern-ireland/county-antrim/ballymoney/</link>
 	<description>Explore the best places to visit, hike and bike routes, food and drink scene, local culture, and travel tips for a safe and enjoyable trip to Ballymoney, Northern Ireland.</description>
 	<pubDate>2024-04-25T23:19:42+03:00</pubDate>
-</item><item>
-	<title>Torla Travel Guide (Aragon/Northern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/northern-spain/aragon/torla/</link>
-	<description>Explore the charming village of Torla in Northern Spain and discover its natural wonders, rich history, and cultural offerings. This comprehensive travel guide will provide you with everything you need to know for an unforgettable vacation.</description>
-	<pubDate>2024-04-25T23:03:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
