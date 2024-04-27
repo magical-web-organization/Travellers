@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T13:45:30+03:00</pubDate>
-        <lastBuildDate>2024-04-27T13:45:30+03:00</lastBuildDate>
+        <pubDate>2024-04-27T14:28:34+03:00</pubDate>
+        <lastBuildDate>2024-04-27T14:28:34+03:00</lastBuildDate>
 
         <item>
+	<title>Fairfield Bay Travel Guide (Ozarks/Arkansas/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/ozarks/fairfield-bay/</link>
+	<description>Discover everything you need to know to plan your trip to Fairfield Bay, Arkansas - from things to do and see to local customs and where to stay.</description>
+	<pubDate>2024-04-27T14:28:34+03:00</pubDate>
+</item><item>
 	<title>Doraville Travel Guide (Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/doraville/</link>
 	<description>Explore the stunning town of Doraville with our comprehensive tour guide covering everything from top attractions, hiking and biking routes, local culture and customs, food, safety and health, transportation options and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/southwest-bengal/chandrakona/</link>
 	<description>A helpful and informative long-form travel guide for Chandrakona, including places to visit, hiking and biking routes, food and drink scene, local culture, safety and health, and transportation options.</description>
 	<pubDate>2024-04-27T09:34:04+03:00</pubDate>
-</item><item>
-	<title>Azumino Travel Guide (Nagano (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/azumino/</link>
-	<description>From exploring cultural attractions to outdoor adventures, this comprehensive travel guide covers everything you need to know for a trip to Azumino, Japan.</description>
-	<pubDate>2024-04-27T09:05:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
