@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T20:14:34+03:00</pubDate>
-        <lastBuildDate>2024-04-27T20:14:34+03:00</lastBuildDate>
+        <pubDate>2024-04-27T20:51:42+03:00</pubDate>
+        <lastBuildDate>2024-04-27T20:51:42+03:00</lastBuildDate>
 
         <item>
+	<title>Mount Kilimanjaro Travel Guide (Northeast Tanzania/Tanzania/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/tanzania/northeast-tanzania/mount-kilimanjaro/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get to Mount Kilimanjaro in Tanzania, East Africa. This comprehensive travel guide includes in-depth information about the cultural attractions, natural wonders, hiking and biking routes, food and drink scene, local culture and customs, and safety and health tips.</description>
+	<pubDate>2024-04-27T20:51:42+03:00</pubDate>
+</item><item>
 	<title>Castle Rock Travel Guide (Denver Area/Colorado/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/denver-area/castle-rock/</link>
 	<description>Plan your trip to Castle Rock, Colorado with this comprehensive tour guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/johor/iskandar-puteri/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Iskandar Puteri, Malaysia. Plan your trip with this comprehensive guide.</description>
 	<pubDate>2024-04-27T16:10:40+03:00</pubDate>
-</item><item>
-	<title>Huntingdon Valley Travel Guide (Montgomery County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/montgomery-county/huntingdon-valley/</link>
-	<description>Plan your trip to Huntingdon Valley with our comprehensive travel guide. Learn about the best places to visit, things to do, and where to stay.</description>
-	<pubDate>2024-04-27T15:55:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
