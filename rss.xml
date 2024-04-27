@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T07:48:54+03:00</pubDate>
-        <lastBuildDate>2024-04-27T07:48:54+03:00</lastBuildDate>
+        <pubDate>2024-04-27T08:09:38+03:00</pubDate>
+        <lastBuildDate>2024-04-27T08:09:38+03:00</lastBuildDate>
 
         <item>
+	<title>Aba Travel Guide (Aba (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/aba/</link>
+	<description>Discover the rich cultural heritage and stunning natural landscapes of Aba. This comprehensive travel guide includes tips on where to stay, what to eat, and how to get around Aba.</description>
+	<pubDate>2024-04-27T08:09:38+03:00</pubDate>
+</item><item>
 	<title>Jacupiranga Travel Guide (Santos and South Coast/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/santos-and-south-coast/jacupiranga/</link>
 	<description>Discover the best things to do, where to stay, what to buy, and local customs in Jacupiranga, Brazil. Our comprehensive travel guide covers everything you need to know for a memorable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/kaliningrad-oblast/svetlogorsk/</link>
 	<description>Plan your trip to Svetlogorsk with this comprehensive travel guide, including top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-04-27T03:39:30+03:00</pubDate>
-</item><item>
-	<title>Cancún Travel Guide (Quintana Roo/Yucatán and the South/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/cancun/</link>
-	<description>Discover the best places to visit, things to do, and cultural experiences in Cancún, Mexico, with this comprehensive travel guide.</description>
-	<pubDate>2024-04-27T03:05:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
