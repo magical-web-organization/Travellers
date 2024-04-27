@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T05:40:22+03:00</pubDate>
-        <lastBuildDate>2024-04-27T05:40:22+03:00</lastBuildDate>
+        <pubDate>2024-04-27T06:24:26+03:00</pubDate>
+        <lastBuildDate>2024-04-27T06:24:26+03:00</lastBuildDate>
 
         <item>
+	<title>Beichuan Travel Guide (East Sichuan/Sichuan/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/east-sichuan/beichuan/</link>
+	<description>Plan your trip to Beichuan with our comprehensive travel guide. Discover the best things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-27T06:24:26+03:00</pubDate>
+</item><item>
 	<title>Berrima Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/berrima/</link>
 	<description>Plan your trip to Berrima, Australia with this comprehensive travel guide including information about where to stay, what to do, and how to get around town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/polynesia/baker-island/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture, and more in Baker Island. Read on to plan your trip to this beautiful Polynesian paradise.</description>
 	<pubDate>2024-04-27T01:34:28+03:00</pubDate>
-</item><item>
-	<title>Paraparaumu Travel Guide (Kapiti Coast/Greater Wellington/North Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/greater-wellington/kapiti-coast/paraparaumu/</link>
-	<description>Plan your trip to Paraparaumu with this comprehensive travel guide, including a list of places to visit, hiking/biking routes, best things to do, where to stay, and more.</description>
-	<pubDate>2024-04-27T01:06:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
