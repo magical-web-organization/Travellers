@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T09:34:04+03:00</pubDate>
-        <lastBuildDate>2024-04-27T09:34:04+03:00</lastBuildDate>
+        <pubDate>2024-04-27T10:12:08+03:00</pubDate>
+        <lastBuildDate>2024-04-27T10:12:08+03:00</lastBuildDate>
 
         <item>
+	<title>Toritto Travel Guide (Bari (province)/Apulia/Southern Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/bari-province/toritto/</link>
+	<description>Discover everything you need to know about Toritto, from top attractions to where to stay and the best places to eat. Read our comprehensive Toritto travel guide today!</description>
+	<pubDate>2024-04-27T10:12:08+03:00</pubDate>
+</item><item>
 	<title>Chandrakona Travel Guide (Southwest Bengal/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/southwest-bengal/chandrakona/</link>
 	<description>A helpful and informative long-form travel guide for Chandrakona, including places to visit, hiking and biking routes, food and drink scene, local culture, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/berrima/</link>
 	<description>Plan your trip to Berrima, Australia with this comprehensive travel guide including information about where to stay, what to do, and how to get around town.</description>
 	<pubDate>2024-04-27T05:40:22+03:00</pubDate>
-</item><item>
-	<title>Indre By Travel Guide (Copenhagen/Zealand/Denmark/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/copenhagen/indre-by/</link>
-	<description>Discover top attractions, best places to stay, and essential travel tips for your trip to Indre By, Copenhagen.</description>
-	<pubDate>2024-04-27T05:18:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
