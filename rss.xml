@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T07:14:07+03:00</pubDate>
-        <lastBuildDate>2024-04-27T07:14:07+03:00</lastBuildDate>
+        <pubDate>2024-04-27T07:48:54+03:00</pubDate>
+        <lastBuildDate>2024-04-27T07:48:54+03:00</lastBuildDate>
 
         <item>
+	<title>Jacupiranga Travel Guide (Santos and South Coast/São Paulo (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/santos-and-south-coast/jacupiranga/</link>
+	<description>Discover the best things to do, where to stay, what to buy, and local customs in Jacupiranga, Brazil. Our comprehensive travel guide covers everything you need to know for a memorable trip.</description>
+	<pubDate>2024-04-27T07:48:54+03:00</pubDate>
+</item><item>
 	<title>Santos Travel Guide (Santos and South Coast/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/santos-and-south-coast/santos/</link>
 	<description>Plan your trip to Santos, Brazil with our extensive travel guide. Discover the top things to do, see, and eat in Santos, as well as important travel information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/cancun/</link>
 	<description>Discover the best places to visit, things to do, and cultural experiences in Cancún, Mexico, with this comprehensive travel guide.</description>
 	<pubDate>2024-04-27T03:05:37+03:00</pubDate>
-</item><item>
-	<title>Lennox Head Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/lennox-head/</link>
-	<description>Discover the beauty of Lennox Head with this comprehensive travel guide. From natural attractions to cultural hotspots, this guide includes hiking trails, food and drink recommendations, and tips for transportation, safety, and more.</description>
-	<pubDate>2024-04-27T02:43:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
