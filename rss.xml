@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T19:45:21+03:00</pubDate>
-        <lastBuildDate>2024-04-27T19:45:21+03:00</lastBuildDate>
+        <pubDate>2024-04-27T20:14:34+03:00</pubDate>
+        <lastBuildDate>2024-04-27T20:14:34+03:00</lastBuildDate>
 
         <item>
+	<title>Castle Rock Travel Guide (Denver Area/Colorado/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/denver-area/castle-rock/</link>
+	<description>Plan your trip to Castle Rock, Colorado with this comprehensive tour guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-04-27T20:14:34+03:00</pubDate>
+</item><item>
 	<title>San Carlos Travel Guide (Peninsula/Bay Area/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/san-carlos/</link>
 	<description>Plan your trip to San Carlos, California with our comprehensive travel guide. Discover top things to do, places to visit, best time to go, where to stay, & more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/montgomery-county/huntingdon-valley/</link>
 	<description>Plan your trip to Huntingdon Valley with our comprehensive travel guide. Learn about the best places to visit, things to do, and where to stay.</description>
 	<pubDate>2024-04-27T15:55:06+03:00</pubDate>
-</item><item>
-	<title>Willits Travel Guide (Mendocino County/North Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/mendocino-county/willits/</link>
-	<description>Discover the natural and cultural attractions, outdoor activities, food and drink scene, local customs, and transportation options in Willits, California with this comprehensive travel guide.</description>
-	<pubDate>2024-04-27T15:15:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
