@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T14:28:34+03:00</pubDate>
-        <lastBuildDate>2024-04-27T14:28:34+03:00</lastBuildDate>
+        <pubDate>2024-04-27T14:49:19+03:00</pubDate>
+        <lastBuildDate>2024-04-27T14:49:19+03:00</lastBuildDate>
 
         <item>
+	<title>Bella Unión Travel Guide (Northern Interior/Uruguay/South America)</title>
+	<link>https://travellers.wiki/en/south-america/uruguay/northern-interior/bella-union/</link>
+	<description>Discover the culturally-rich Bella Unión in Uruguay with our comprehensive guide, from natural attractions to hiking and biking routes, to the best places to stay and local cuisine to try.</description>
+	<pubDate>2024-04-27T14:49:19+03:00</pubDate>
+</item><item>
 	<title>Fairfield Bay Travel Guide (Ozarks/Arkansas/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/ozarks/fairfield-bay/</link>
 	<description>Discover everything you need to know to plan your trip to Fairfield Bay, Arkansas - from things to do and see to local customs and where to stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/bari-province/toritto/</link>
 	<description>Discover everything you need to know about Toritto, from top attractions to where to stay and the best places to eat. Read our comprehensive Toritto travel guide today!</description>
 	<pubDate>2024-04-27T10:12:08+03:00</pubDate>
-</item><item>
-	<title>Chandrakona Travel Guide (Southwest Bengal/West Bengal/Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/southwest-bengal/chandrakona/</link>
-	<description>A helpful and informative long-form travel guide for Chandrakona, including places to visit, hiking and biking routes, food and drink scene, local culture, safety and health, and transportation options.</description>
-	<pubDate>2024-04-27T09:34:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
