@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T13:25:06+03:00</pubDate>
-        <lastBuildDate>2024-04-27T13:25:06+03:00</lastBuildDate>
+        <pubDate>2024-04-27T13:45:30+03:00</pubDate>
+        <lastBuildDate>2024-04-27T13:45:30+03:00</lastBuildDate>
 
         <item>
+	<title>Doraville Travel Guide (Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/doraville/</link>
+	<description>Explore the stunning town of Doraville with our comprehensive tour guide covering everything from top attractions, hiking and biking routes, local culture and customs, food, safety and health, transportation options and more.</description>
+	<pubDate>2024-04-27T13:45:30+03:00</pubDate>
+</item><item>
 	<title>Kurukshetra Travel Guide (Ambala Division/Haryana/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/haryana/ambala-division/kurukshetra/</link>
 	<description>Discover the culturally important attractions, natural wonders, best things to do, where to stay, and more in Kurukshetra, India with our helpful travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/azumino/</link>
 	<description>From exploring cultural attractions to outdoor adventures, this comprehensive travel guide covers everything you need to know for a trip to Azumino, Japan.</description>
 	<pubDate>2024-04-27T09:05:00+03:00</pubDate>
-</item><item>
-	<title>Cambridge (New York) Travel Guide (Capital District/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/capital-district/cambridge-new-york/</link>
-	<description>Explore the beautiful town of Cambridge (New York) with this comprehensive tour guide, covering everything from must-visit places and outdoor adventures to food and drink scenes and transportation options.</description>
-	<pubDate>2024-04-27T08:57:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
