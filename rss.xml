@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T11:12:29+03:00</pubDate>
-        <lastBuildDate>2024-04-27T11:12:29+03:00</lastBuildDate>
+        <pubDate>2024-04-27T11:39:26+03:00</pubDate>
+        <lastBuildDate>2024-04-27T11:39:26+03:00</lastBuildDate>
 
         <item>
+	<title>Bais Travel Guide (Negros Oriental/Negros/Visayas/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/negros/negros-oriental/bais/</link>
+	<description>Plan your trip to Bais in Negros Oriental, Philippines with our comprehensive travel guide. Discover the must-try dishes, natural attractions, where to stay, how to get around, and more.</description>
+	<pubDate>2024-04-27T11:39:26+03:00</pubDate>
+</item><item>
 	<title>Rock Islands Travel Guide (Palau/Micronesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/micronesia/palau/rock-islands/</link>
 	<description>Discover the breathtaking Rock Islands in Palau, Micronesia. Explore natural and cultural attractions, outdoor adventures, food and drink, accommodations, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/santos-and-south-coast/santos/</link>
 	<description>Plan your trip to Santos, Brazil with our extensive travel guide. Discover the top things to do, see, and eat in Santos, as well as important travel information.</description>
 	<pubDate>2024-04-27T07:14:07+03:00</pubDate>
-</item><item>
-	<title>Sidney Travel Guide (Miami - Scioto basins/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/miami-scioto-basins/sidney/</link>
-	<description>Plan your visit to Sidney, Ohio with this comprehensive travel guide featuring top attractions, hiking and biking routes, must-try dishes, and more.</description>
-	<pubDate>2024-04-27T06:54:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
