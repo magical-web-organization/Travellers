@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T10:42:54+03:00</pubDate>
-        <lastBuildDate>2024-04-27T10:42:54+03:00</lastBuildDate>
+        <pubDate>2024-04-27T11:12:29+03:00</pubDate>
+        <lastBuildDate>2024-04-27T11:12:29+03:00</lastBuildDate>
 
         <item>
+	<title>Rock Islands Travel Guide (Palau/Micronesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/micronesia/palau/rock-islands/</link>
+	<description>Discover the breathtaking Rock Islands in Palau, Micronesia. Explore natural and cultural attractions, outdoor adventures, food and drink, accommodations, local culture, and more.</description>
+	<pubDate>2024-04-27T11:12:29+03:00</pubDate>
+</item><item>
 	<title>Scottsville Travel Guide (Caves and Lakes/Kentucky/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/caves-and-lakes/scottsville/</link>
 	<description>Planning a trip to Scottsville, Kentucky? This comprehensive tour guide covers everything from the top attractions to the best places to eat and stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/miami-scioto-basins/sidney/</link>
 	<description>Plan your visit to Sidney, Ohio with this comprehensive travel guide featuring top attractions, hiking and biking routes, must-try dishes, and more.</description>
 	<pubDate>2024-04-27T06:54:46+03:00</pubDate>
-</item><item>
-	<title>Beichuan Travel Guide (East Sichuan/Sichuan/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/east-sichuan/beichuan/</link>
-	<description>Plan your trip to Beichuan with our comprehensive travel guide. Discover the best things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-04-27T06:24:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
