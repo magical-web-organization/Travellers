@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T18:36:25+03:00</pubDate>
-        <lastBuildDate>2024-04-27T18:36:25+03:00</lastBuildDate>
+        <pubDate>2024-04-27T19:22:16+03:00</pubDate>
+        <lastBuildDate>2024-04-27T19:22:16+03:00</lastBuildDate>
 
         <item>
+	<title>Kahuku Travel Guide (North Shore/Oahu/Hawaii/Polynesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/oahu/north-shore/kahuku/</link>
+	<description>Discover the best things to do, places to visit, local food and drink scene, and travel tips for Kahuku, Hawaii.</description>
+	<pubDate>2024-04-27T19:22:16+03:00</pubDate>
+</item><item>
 	<title>Terre Haute Travel Guide (Central Indiana/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/central-indiana/terre-haute/</link>
 	<description>Terre Haute Travel Guide is a comprehensive look at all the best things to see, do, and eat when you visit Terre Haute, Indiana. This travel guide offers a comprehensive itinerary, recommendations on where to stay and eat according to your budget, safety tips, and information on transportation options to Terre Haute.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/uruguay/northern-interior/bella-union/</link>
 	<description>Discover the culturally-rich Bella Unión in Uruguay with our comprehensive guide, from natural attractions to hiking and biking routes, to the best places to stay and local cuisine to try.</description>
 	<pubDate>2024-04-27T14:49:19+03:00</pubDate>
-</item><item>
-	<title>Fairfield Bay Travel Guide (Ozarks/Arkansas/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/ozarks/fairfield-bay/</link>
-	<description>Discover everything you need to know to plan your trip to Fairfield Bay, Arkansas - from things to do and see to local customs and where to stay.</description>
-	<pubDate>2024-04-27T14:28:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
