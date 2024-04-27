@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-28T00:09:25+03:00</pubDate>
-        <lastBuildDate>2024-04-28T00:09:25+03:00</lastBuildDate>
+        <pubDate>2024-04-28T00:41:15+03:00</pubDate>
+        <lastBuildDate>2024-04-28T00:41:15+03:00</lastBuildDate>
 
         <item>
+	<title>Zhujiajian Island Travel Guide (Zhejiang/East China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/zhujiajian-island/</link>
+	<description>Plan your trip to Zhujiajian Island with our comprehensive travel guide featuring top attractions, things to do, where to stay, and more.</description>
+	<pubDate>2024-04-28T00:41:15+03:00</pubDate>
+</item><item>
 	<title>Midtown Travel Guide (Miami/Miami-Dade County/Greater Miami/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/miami-dade-county/miami/midtown/</link>
 	<description>Explore the culturally rich and scenic Midtown Miami with our comprehensive travel guide. Discover top attractions, best activities, must-try foods, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/denver-area/castle-rock/</link>
 	<description>Plan your trip to Castle Rock, Colorado with this comprehensive tour guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-04-27T20:14:34+03:00</pubDate>
-</item><item>
-	<title>San Carlos Travel Guide (Peninsula/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/san-carlos/</link>
-	<description>Plan your trip to San Carlos, California with our comprehensive travel guide. Discover top things to do, places to visit, best time to go, where to stay, & more.</description>
-	<pubDate>2024-04-27T19:45:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
