@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T12:36:28+03:00</pubDate>
-        <lastBuildDate>2024-04-27T12:36:28+03:00</lastBuildDate>
+        <pubDate>2024-04-27T13:25:06+03:00</pubDate>
+        <lastBuildDate>2024-04-27T13:25:06+03:00</lastBuildDate>
 
         <item>
+	<title>Kurukshetra Travel Guide (Ambala Division/Haryana/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/haryana/ambala-division/kurukshetra/</link>
+	<description>Discover the culturally important attractions, natural wonders, best things to do, where to stay, and more in Kurukshetra, India with our helpful travel guide.</description>
+	<pubDate>2024-04-27T13:25:06+03:00</pubDate>
+</item><item>
 	<title>Derawan Travel Guide (East Kalimantan/Kalimantan/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/east-kalimantan/derawan/</link>
 	<description>Discover the best things to do, places to visit, food and drink options, where to stay, and tips for a safe and enjoyable trip to Derawan, East Kalimantan, Indonesia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/capital-district/cambridge-new-york/</link>
 	<description>Explore the beautiful town of Cambridge (New York) with this comprehensive tour guide, covering everything from must-visit places and outdoor adventures to food and drink scenes and transportation options.</description>
 	<pubDate>2024-04-27T08:57:41+03:00</pubDate>
-</item><item>
-	<title>Aba Travel Guide (Aba (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/aba/</link>
-	<description>Discover the rich cultural heritage and stunning natural landscapes of Aba. This comprehensive travel guide includes tips on where to stay, what to eat, and how to get around Aba.</description>
-	<pubDate>2024-04-27T08:09:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
