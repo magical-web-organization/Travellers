@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-27T17:09:37+03:00</pubDate>
-        <lastBuildDate>2024-04-27T17:09:37+03:00</lastBuildDate>
+        <pubDate>2024-04-27T17:54:36+03:00</pubDate>
+        <lastBuildDate>2024-04-27T17:54:36+03:00</lastBuildDate>
 
         <item>
+	<title>Iranduba Travel Guide (Amazonas/North/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/north/amazonas/iranduba/</link>
+	<description>Discover the natural beauty, cultural richness, and amazing cuisine of Iranduba through our comprehensive travel guide. Explore the must-visit attractions, best activities, hiking routes, food and drink scenes, accommodations, local culture, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-04-27T17:54:36+03:00</pubDate>
+</item><item>
 	<title>Henrietta (New York) Travel Guide (Rochester and Suburbs/Finger Lakes/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/rochester-and-suburbs/henrietta-new-york/</link>
 	<description>Plan your trip to Henrietta (New York) with our comprehensive travel guide, including a list of places to visit, things to do, where to eat and stay, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/haryana/ambala-division/kurukshetra/</link>
 	<description>Discover the culturally important attractions, natural wonders, best things to do, where to stay, and more in Kurukshetra, India with our helpful travel guide.</description>
 	<pubDate>2024-04-27T13:25:06+03:00</pubDate>
-</item><item>
-	<title>Derawan Travel Guide (East Kalimantan/Kalimantan/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/east-kalimantan/derawan/</link>
-	<description>Discover the best things to do, places to visit, food and drink options, where to stay, and tips for a safe and enjoyable trip to Derawan, East Kalimantan, Indonesia.</description>
-	<pubDate>2024-04-27T12:36:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
