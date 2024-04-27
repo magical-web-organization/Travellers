@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-28T01:29:23+03:00</pubDate>
-        <lastBuildDate>2024-04-28T01:29:23+03:00</lastBuildDate>
+        <pubDate>2024-04-28T01:33:58+03:00</pubDate>
+        <lastBuildDate>2024-04-28T01:33:58+03:00</lastBuildDate>
 
         <item>
+	<title>Delta Junction Travel Guide (Interior Alaska/Alaska/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/interior-alaska/delta-junction/</link>
+	<description>Discover the best places to visit, hike, eat, stay, and explore in Delta Junction. Learn about the local culture, customs, do's and don'ts, safety, transportation options, nearby destinations, and more.</description>
+	<pubDate>2024-04-28T01:33:58+03:00</pubDate>
+</item><item>
 	<title>Isla Tiburon Travel Guide (Sonora/Northern Mexico/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/sonora/isla-tiburon/</link>
 	<description>Explore the natural and cultural attractions of Isla Tiburon with our comprehensive tour guide. Find the best places to visit, things to do, and where to stay, along with safety and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-ore-mountains/aue/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Aue, Germany with this ultimate travel guide. Read on to learn about its local culture, best time to visit, and safety and health tips.</description>
 	<pubDate>2024-04-27T21:20:29+03:00</pubDate>
-</item><item>
-	<title>Mount Kilimanjaro Travel Guide (Northeast Tanzania/Tanzania/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/tanzania/northeast-tanzania/mount-kilimanjaro/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and how to get to Mount Kilimanjaro in Tanzania, East Africa. This comprehensive travel guide includes in-depth information about the cultural attractions, natural wonders, hiking and biking routes, food and drink scene, local culture and customs, and safety and health tips.</description>
-	<pubDate>2024-04-27T20:51:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
