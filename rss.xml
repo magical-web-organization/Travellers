@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-28T11:51:12+03:00</pubDate>
-        <lastBuildDate>2024-04-28T11:51:12+03:00</lastBuildDate>
+        <pubDate>2024-04-28T12:32:49+03:00</pubDate>
+        <lastBuildDate>2024-04-28T12:32:49+03:00</lastBuildDate>
 
         <item>
+	<title>Stanley Travel Guide (Western North Dakota/North Dakota/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/western-north-dakota/stanley/</link>
+	<description>Plan your trip to the historic and scenic town of Stanley, North Dakota with our comprehensive guide. Discover the best things to do, local culture, where to stay, and more.</description>
+	<pubDate>2024-04-28T12:32:49+03:00</pubDate>
+</item><item>
 	<title>Los Olivos Travel Guide (Santa Barbara County/Central Coast/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/santa-barbara-county/los-olivos/</link>
 	<description>Discover the top attractions, activities, accommodations, and more in Los Olivos, California – a charming town in Santa Barbara County.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/croatia/dalmatia/northern-dalmatia/biograd-na-moru/</link>
 	<description>Explore Biograd na Moru, Croatia with our comprehensive travel guide featuring various attractions, things to do, and food and drink scenes.</description>
 	<pubDate>2024-04-28T07:55:20+03:00</pubDate>
-</item><item>
-	<title>Pripyatsky National Park Travel Guide (Gomel Oblast/Belarus/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/gomel-oblast/pripyatsky-national-park/</link>
-	<description>Plan your trip to Pripyatsky National Park with our comprehensive guide. Discover the cultural and natural highlights, along with the best hiking and biking routes, food and drink scene, and travel logistics.</description>
-	<pubDate>2024-04-28T07:20:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
