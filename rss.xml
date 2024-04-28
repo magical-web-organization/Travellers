@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T00:05:14+03:00</pubDate>
-        <lastBuildDate>2024-04-29T00:05:14+03:00</lastBuildDate>
+        <pubDate>2024-04-29T01:03:16+03:00</pubDate>
+        <lastBuildDate>2024-04-29T01:03:16+03:00</lastBuildDate>
 
         <item>
+	<title>Ca Na Travel Guide (Southern Vietnam/Vietnam/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/southern-vietnam/ca-na/</link>
+	<description>Discover the hidden gem of Ca Na, Vietnam through our comprehensive travel guide. We provide information on top attractions, food, accommodation, and transportation options.</description>
+	<pubDate>2024-04-29T01:03:16+03:00</pubDate>
+</item><item>
 	<title>Midway Travel Guide (Bluegrass Region/Kentucky/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/bluegrass-region/midway/</link>
 	<description>Discover the attractions, activities, cuisine, and culture of Midway, Kentucky in this comprehensive travel guide. Learn about the best places to visit, where to stay, and how to get around. Don't miss out on this charming Bluegrass Region town!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/southern-coast/kennebunk/</link>
 	<description>Plan your visit to Kennebunk with our comprehensive travel guide, including a list of places to visit, outdoor adventure options, cultural attractions, food and drink scene, and more.</description>
 	<pubDate>2024-04-28T20:21:56+03:00</pubDate>
-</item><item>
-	<title>Ballina Travel Guide (County Mayo/West Ireland/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/west-ireland/county-mayo/ballina/</link>
-	<description>Discover the top attractions, activities, food, accommodations, and more in Ballina, West Ireland. Plan your perfect trip with our comprehensive travel guide.</description>
-	<pubDate>2024-04-28T17:34:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
