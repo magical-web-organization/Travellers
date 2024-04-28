@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-28T09:56:56+03:00</pubDate>
-        <lastBuildDate>2024-04-28T09:56:56+03:00</lastBuildDate>
+        <pubDate>2024-04-28T10:30:01+03:00</pubDate>
+        <lastBuildDate>2024-04-28T10:30:01+03:00</lastBuildDate>
 
         <item>
+	<title>Inukjuak Travel Guide (Nunavik/Northern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/northern-quebec/nunavik/inukjuak/</link>
+	<description>Discover the best activities, attractions, and where to stay in Inukjuak, Quebec, Canada. Explore the local cultural and customs, best time to visit, and transportation options.</description>
+	<pubDate>2024-04-28T10:30:01+03:00</pubDate>
+</item><item>
 	<title>Lautrec Travel Guide (Tarn/Occitanie/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/occitanie/tarn/lautrec/</link>
 	<description>Discover the beauty of Lautrec in Tarn, Occitanie, France. From cultural attractions to outdoor adventures, to local food, and customs, this guide covers everything you need to know to plan your perfect trip to Lautrec.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/northwest-suburbs/schaumburg/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Schaumburg, Illinois with this comprehensive travel guide.</description>
 	<pubDate>2024-04-28T05:42:39+03:00</pubDate>
-</item><item>
-	<title>Staten Island Travel Guide (New York City/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/new-york-city/staten-island/</link>
-	<description>Discover the culturally rich and naturally beautiful Staten Island, with our week-long itinerary and guide to attractions, dining, accommodations, and transportation options.</description>
-	<pubDate>2024-04-28T05:11:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
