@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-28T10:57:56+03:00</pubDate>
-        <lastBuildDate>2024-04-28T10:57:56+03:00</lastBuildDate>
+        <pubDate>2024-04-28T11:15:26+03:00</pubDate>
+        <lastBuildDate>2024-04-28T11:15:26+03:00</lastBuildDate>
 
         <item>
+	<title>Gironde Travel Guide (Nouvelle-Aquitaine/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/gironde/</link>
+	<description>Plan your trip to Gironde with this comprehensive travel guide that covers the best places to visit, things to do, where to eat and stay, local customs, and more.</description>
+	<pubDate>2024-04-28T11:15:26+03:00</pubDate>
+</item><item>
 	<title>Fremantle Travel Guide (Perth/Western Australia/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/western-australia/perth/fremantle/</link>
 	<description>Explore the cultural and natural attractions of Fremantle, learn about the local food and drink scene, and find tips for navigating transportation and safety in the popular Western Australian city with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/northern-myanmar/tamu/</link>
 	<description>Plan your ultimate trip in Northern Myanmar with this comprehensive guide to Tamu's attractions, outdoor adventures, local food, accommodations, and transportation options.</description>
 	<pubDate>2024-04-28T07:02:59+03:00</pubDate>
-</item><item>
-	<title>Sabzevar Travel Guide (Khorasan/Iran/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/iran/khorasan/sabzevar/</link>
-	<description>Explore Sabzevar's rich cultural and natural attractions from museums to hiking and biking routes. Discover local cuisine, accommodations, souvenirs, customs, and transportation options.</description>
-	<pubDate>2024-04-28T06:27:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
