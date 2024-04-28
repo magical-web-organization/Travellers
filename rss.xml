@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-28T12:55:48+03:00</pubDate>
-        <lastBuildDate>2024-04-28T12:55:48+03:00</lastBuildDate>
+        <pubDate>2024-04-28T13:28:48+03:00</pubDate>
+        <lastBuildDate>2024-04-28T13:28:48+03:00</lastBuildDate>
 
         <item>
+	<title>Anza-Borrego Desert State Park Travel Guide (Desert/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/anza-borrego-desert-state-park/</link>
+	<description>Explore the beauty of Anza-Borrego Desert State Park with our comprehensive travel guide. Discover must-visit attractions, best hiking/biking routes, where to stay, what to eat, and more.</description>
+	<pubDate>2024-04-28T13:28:48+03:00</pubDate>
+</item><item>
 	<title>Polonnaruwa Travel Guide (North Central Province/Sri Lanka/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/north-central-province/polonnaruwa/</link>
 	<description>Check out this comprehensive travel guide about Polonnaruwa in Sri Lanka, featuring the best places to visit, things to do, food to eat, where to stay, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/sea-to-sky/</link>
 	<description>Discover the best of Sea to Sky, from the cultural attractions to outdoor adventures and scenic views. Plan your trip to this stunning region in British Columbia, Canada with our guide.</description>
 	<pubDate>2024-04-28T08:51:56+03:00</pubDate>
-</item><item>
-	<title>South Buda Travel Guide (Budapest/Central Hungary/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/budapest/south-buda/</link>
-	<description>Discover the best places to visit, things to do, local culture, and where to stay and eat in South Buda.</description>
-	<pubDate>2024-04-28T08:06:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
