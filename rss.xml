@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T12:12:30+03:00</pubDate>
-        <lastBuildDate>2024-04-29T12:12:30+03:00</lastBuildDate>
+        <pubDate>2024-04-29T12:56:40+03:00</pubDate>
+        <lastBuildDate>2024-04-29T12:56:40+03:00</lastBuildDate>
 
         <item>
+	<title>Puebla (state) Travel Guide (Central Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/puebla-state/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, local culture, and more in Puebla (state), Mexico with this comprehensive travel guide.</description>
+	<pubDate>2024-04-29T12:56:40+03:00</pubDate>
+</item><item>
 	<title>Ya'an Travel Guide (East Sichuan/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/east-sichuan/ya-an/</link>
 	<description>Discover the beauty and culture of Ya'an, China with our detailed travel guide. We'll share the best places to visit, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/chile/southern-chile/los-lagos/puerto-montt/</link>
 	<description>Planning a trip to Puerto Montt? Look no further than this comprehensive travel guide filled with tips, recommendations, and must-see attractions.</description>
 	<pubDate>2024-04-29T08:14:59+03:00</pubDate>
-</item><item>
-	<title>Munising Travel Guide (Upper Peninsula/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/munising/</link>
-	<description>Plan your trip to Munising with this comprehensive guide featuring top attractions, things to do, where to stay, and more.</description>
-	<pubDate>2024-04-29T07:42:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
