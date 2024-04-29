@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T01:41:44+03:00</pubDate>
-        <lastBuildDate>2024-04-30T01:41:44+03:00</lastBuildDate>
+        <pubDate>2024-04-30T02:04:20+03:00</pubDate>
+        <lastBuildDate>2024-04-30T02:04:20+03:00</lastBuildDate>
 
         <item>
+	<title>County Monaghan Travel Guide (Northwest Ireland and Lakelands/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-monaghan/</link>
+	<description>Explore County Monaghan in Northwest Ireland and Lakelands with our comprehensive travel guide. Discover its natural and cultural attractions, hiking and biking routes, food and drink scene, accommodation options, local culture, and safety tips.</description>
+	<pubDate>2024-04-30T02:04:20+03:00</pubDate>
+</item><item>
 	<title>Bay Shore Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/bay-shore/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat and more in Bay Shore, New York, with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/pembrokeshire/pembroke/</link>
 	<description>Explore the cultural and natural attractions of Pembroke, along with tips on where to stay, what to eat, and how to get around.</description>
 	<pubDate>2024-04-29T21:54:07+03:00</pubDate>
-</item><item>
-	<title>Somaemuldo Travel Guide (South Gyeongsang/South Korea/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-gyeongsang/somaemuldo/</link>
-	<description>Discover the natural wonders, cultural attractions, food scene, and local customs of Somaemuldo, South Korea. This guide provides insights on what to do, see, and experience in Somaemuldo, including transportation options, health and safety, and where to stay.</description>
-	<pubDate>2024-04-29T21:31:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
