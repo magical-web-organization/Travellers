@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T20:07:46+03:00</pubDate>
-        <lastBuildDate>2024-04-29T20:07:46+03:00</lastBuildDate>
+        <pubDate>2024-04-29T20:41:34+03:00</pubDate>
+        <lastBuildDate>2024-04-29T20:41:34+03:00</lastBuildDate>
 
         <item>
+	<title>Cottage Grove Travel Guide (Willamette Valley/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/willamette-valley/cottage-grove/</link>
+	<description>Discover the best things to do, places to visit, hiking/biking routes, food and drink scene, where to stay, and more in Cottage Grove.</description>
+	<pubDate>2024-04-29T20:41:34+03:00</pubDate>
+</item><item>
 	<title>Kendal Travel Guide (Semarang Metropolitan Area/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/kendal/</link>
 	<description>Plan your trip to Kendal with this comprehensive travel guide that covers everything from the best attractions to visit to the local cuisine and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/parma-province/</link>
 	<description>Explore the culturally rich and naturally scenic Parma (Province) of Italy with this comprehensive travel guide. From the best places to visit, to hiking and biking routes, food and drink scene, local culture, and much more, plan your itinerary minus worries.</description>
 	<pubDate>2024-04-29T16:15:45+03:00</pubDate>
-</item><item>
-	<title>Bridport Travel Guide (Eastern Tasmania/Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/eastern-tasmania/bridport/</link>
-	<description>Discover Bridport in Eastern Tasmania, Australia, with our guide to the best things to see, do, eat, and stay. Find out about natural attractions, hiking trails, local culture, transportation options, and more.</description>
-	<pubDate>2024-04-29T15:36:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
