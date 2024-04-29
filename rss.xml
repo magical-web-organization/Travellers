@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T11:22:40+03:00</pubDate>
-        <lastBuildDate>2024-04-29T11:22:40+03:00</lastBuildDate>
+        <pubDate>2024-04-29T11:33:33+03:00</pubDate>
+        <lastBuildDate>2024-04-29T11:33:33+03:00</lastBuildDate>
 
         <item>
+	<title>Yixing Travel Guide (Jiangsu/East China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/jiangsu/yixing/</link>
+	<description>Plan your trip to Yixing, China with our comprehensive travel guide. Explore natural attractions, cultural landmarks, food, accommodations, and more.</description>
+	<pubDate>2024-04-29T11:33:33+03:00</pubDate>
+</item><item>
 	<title>Danville Travel Guide (Nine-County Region/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/nine-county-region/danville/</link>
 	<description>Explore the best of Danville, Indiana with our comprehensive travel guide. Discover top attractions, hiking/biking routes, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/north-bay/marin-county/point-reyes-national-seashore/</link>
 	<description>Explore the natural beauty and cultural attractions of Point Reyes National Seashore with this comprehensive tour guide. Discover the best places to visit, top hiking and biking routes, where to stay, what to eat, and more!</description>
 	<pubDate>2024-04-29T07:11:47+03:00</pubDate>
-</item><item>
-	<title>Tremé Travel Guide (New Orleans/Greater New Orleans/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/greater-new-orleans/new-orleans/treme/</link>
-	<description>Get to know Tremé, one of the most vibrant neighborhoods in New Orleans. From historical landmarks to outdoor adventures, food and drinks to local culture and customs, here's what you need to know to make the most of your trip.</description>
-	<pubDate>2024-04-29T06:34:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
