@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T22:42:03+03:00</pubDate>
-        <lastBuildDate>2024-04-29T22:42:03+03:00</lastBuildDate>
+        <pubDate>2024-04-29T23:32:56+03:00</pubDate>
+        <lastBuildDate>2024-04-29T23:32:56+03:00</lastBuildDate>
 
         <item>
+	<title>Khanom Travel Guide (Central Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/khanom/</link>
+	<description>Discover the top tourist attractions, outdoor activities, local food and drinks, and tips for visiting Khanom, Thailand, in this comprehensive travel guide.</description>
+	<pubDate>2024-04-29T23:32:56+03:00</pubDate>
+</item><item>
 	<title>Cotswold Travel Guide (Charlotte/Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/charlotte/cotswold/</link>
 	<description>Discover the charming town of Cotswold with this comprehensive travel guide. From cultural attractions and natural wonders to food and drink scene and where to stay, everything you need to know about Cotswold is here.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/crete/rethymno-regional-unit/rethymno/</link>
 	<description>Discover the best of Rethymno, Crete, with our comprehensive travel guide. Find out where to eat, sleep, and visit in Rethymno, as well as safety and health tips, transportation options, and more.</description>
 	<pubDate>2024-04-29T18:43:35+03:00</pubDate>
-</item><item>
-	<title>Hobart Travel Guide (Greater Hobart/Southern Tasmania/Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/greater-hobart/hobart/</link>
-	<description>Plan your trip to Hobart with this comprehensive travel guide featuring top places to visit, best things to do, food and drink scene, where to stay, local customs, safety and health, transportation options and nearby destinations.</description>
-	<pubDate>2024-04-29T18:30:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
