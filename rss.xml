@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T00:14:41+03:00</pubDate>
-        <lastBuildDate>2024-04-30T00:14:41+03:00</lastBuildDate>
+        <pubDate>2024-04-30T00:42:12+03:00</pubDate>
+        <lastBuildDate>2024-04-30T00:42:12+03:00</lastBuildDate>
 
         <item>
+	<title>Tongliao Travel Guide (Central Inner Mongolia/Inner Mongolia/North China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/inner-mongolia/central-inner-mongolia/tongliao/</link>
+	<description>Explore the cultural and natural beauty of Tongliao with this comprehensive travel guide. Discover the best attractions, activities, accommodations, cuisines, and more!</description>
+	<pubDate>2024-04-30T00:42:12+03:00</pubDate>
+</item><item>
 	<title>Decatur Travel Guide (Mountains/Alabama/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/decatur/</link>
 	<description>Discover the best things to do in Decatur, Alabama with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered. Learn about where to stay, what to eat, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/kendal/</link>
 	<description>Plan your trip to Kendal with this comprehensive travel guide that covers everything from the best attractions to visit to the local cuisine and culture.</description>
 	<pubDate>2024-04-29T20:07:46+03:00</pubDate>
-</item><item>
-	<title>Bomarzo Travel Guide (Viterbo (province)/Lazio/Central Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/viterbo-province/bomarzo/</link>
-	<description>Explore the charming town of Bomarzo in central Italy with this in-depth travel guide, featuring top attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-04-29T19:57:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
