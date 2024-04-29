@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T14:47:57+03:00</pubDate>
-        <lastBuildDate>2024-04-29T14:47:57+03:00</lastBuildDate>
+        <pubDate>2024-04-29T15:18:15+03:00</pubDate>
+        <lastBuildDate>2024-04-29T15:18:15+03:00</lastBuildDate>
 
         <item>
+	<title>Loop Travel Guide (Chicago/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/chicago/loop/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Loop, Chicago with our comprehensive travel guide.</description>
+	<pubDate>2024-04-29T15:18:15+03:00</pubDate>
+</item><item>
 	<title>Akpabuyo Travel Guide (Cross River State/South South Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/cross-river-state/akpabuyo/</link>
 	<description>Discover the best places to visit, activities to do, food to eat, and where to stay in Akpabuyo, Nigeria.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/awadh/mahoba/</link>
 	<description>Plan your trip to Mahoba, Uttar Pradesh with this comprehensive tour guide featuring the best places to visit, things to do, where to stay, and local culture and customs.</description>
 	<pubDate>2024-04-29T10:58:28+03:00</pubDate>
-</item><item>
-	<title>Twisp Travel Guide (North Cascades/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/twisp/</link>
-	<description>Discover the best of Twisp, from natural attractions to cultural sights and more. Our comprehensive guide covers what to do, where to stay, and how to get around in Twisp, Washington.</description>
-	<pubDate>2024-04-29T10:15:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
