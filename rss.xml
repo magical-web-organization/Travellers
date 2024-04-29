@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T16:15:45+03:00</pubDate>
-        <lastBuildDate>2024-04-29T16:15:45+03:00</lastBuildDate>
+        <pubDate>2024-04-29T16:41:25+03:00</pubDate>
+        <lastBuildDate>2024-04-29T16:41:25+03:00</lastBuildDate>
 
         <item>
+	<title>Shaqlawa Travel Guide (Erbil Governorate/Iraqi Kurdistan/Iraq/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/erbil-governorate/shaqlawa/</link>
+	<description>Planning a trip to Shaqlawa? Read this comprehensive travel guide for information on things to do, where to stay, and how to get around in the Iraqi city.</description>
+	<pubDate>2024-04-29T16:41:25+03:00</pubDate>
+</item><item>
 	<title>Parma (province) Travel Guide (Emilia-Romagna/Northeast Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/parma-province/</link>
 	<description>Explore the culturally rich and naturally scenic Parma (Province) of Italy with this comprehensive travel guide. From the best places to visit, to hiking and biking routes, food and drink scene, local culture, and much more, plan your itinerary minus worries.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/east-sichuan/ya-an/</link>
 	<description>Discover the beauty and culture of Ya'an, China with our detailed travel guide. We'll share the best places to visit, food, accommodations, and more.</description>
 	<pubDate>2024-04-29T12:12:30+03:00</pubDate>
-</item><item>
-	<title>Yixing Travel Guide (Jiangsu/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/jiangsu/yixing/</link>
-	<description>Plan your trip to Yixing, China with our comprehensive travel guide. Explore natural attractions, cultural landmarks, food, accommodations, and more.</description>
-	<pubDate>2024-04-29T11:33:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
