@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T07:42:41+03:00</pubDate>
-        <lastBuildDate>2024-04-29T07:42:41+03:00</lastBuildDate>
+        <pubDate>2024-04-29T08:14:59+03:00</pubDate>
+        <lastBuildDate>2024-04-29T08:14:59+03:00</lastBuildDate>
 
         <item>
+	<title>Puerto Montt Travel Guide (Los Lagos/Southern Chile/Chile/South America)</title>
+	<link>https://travellers.wiki/en/south-america/chile/southern-chile/los-lagos/puerto-montt/</link>
+	<description>Planning a trip to Puerto Montt? Look no further than this comprehensive travel guide filled with tips, recommendations, and must-see attractions.</description>
+	<pubDate>2024-04-29T08:14:59+03:00</pubDate>
+</item><item>
 	<title>Munising Travel Guide (Upper Peninsula/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/munising/</link>
 	<description>Plan your trip to Munising with this comprehensive guide featuring top attractions, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/pekalongan/pemalang/</link>
 	<description>Explore the best of Pemalang with our travel guide, including culturally important attractions, natural wonders, local cuisine, where to stay, and more.</description>
 	<pubDate>2024-04-29T03:50:35+03:00</pubDate>
-</item><item>
-	<title>Kannapolis Travel Guide (Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/kannapolis/</link>
-	<description>Explore the best of Kannapolis, North Carolina with this comprehensive travel guide featuring top tourist attractions, hiking and biking routes, food and drink scene, where to stay, local culture, and safety tips.</description>
-	<pubDate>2024-04-29T03:25:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
