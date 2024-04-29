@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-29T20:41:34+03:00</pubDate>
-        <lastBuildDate>2024-04-29T20:41:34+03:00</lastBuildDate>
+        <pubDate>2024-04-29T21:31:06+03:00</pubDate>
+        <lastBuildDate>2024-04-29T21:31:06+03:00</lastBuildDate>
 
         <item>
+	<title>Somaemuldo Travel Guide (South Gyeongsang/South Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-gyeongsang/somaemuldo/</link>
+	<description>Discover the natural wonders, cultural attractions, food scene, and local customs of Somaemuldo, South Korea. This guide provides insights on what to do, see, and experience in Somaemuldo, including transportation options, health and safety, and where to stay.</description>
+	<pubDate>2024-04-29T21:31:06+03:00</pubDate>
+</item><item>
 	<title>Cottage Grove Travel Guide (Willamette Valley/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/willamette-valley/cottage-grove/</link>
 	<description>Discover the best things to do, places to visit, hiking/biking routes, food and drink scene, where to stay, and more in Cottage Grove.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/erbil-governorate/shaqlawa/</link>
 	<description>Planning a trip to Shaqlawa? Read this comprehensive travel guide for information on things to do, where to stay, and how to get around in the Iraqi city.</description>
 	<pubDate>2024-04-29T16:41:25+03:00</pubDate>
-</item><item>
-	<title>Parma (province) Travel Guide (Emilia-Romagna/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/parma-province/</link>
-	<description>Explore the culturally rich and naturally scenic Parma (Province) of Italy with this comprehensive travel guide. From the best places to visit, to hiking and biking routes, food and drink scene, local culture, and much more, plan your itinerary minus worries.</description>
-	<pubDate>2024-04-29T16:15:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
