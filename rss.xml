@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T21:19:38+03:00</pubDate>
-        <lastBuildDate>2024-04-30T21:19:38+03:00</lastBuildDate>
+        <pubDate>2024-04-30T21:47:11+03:00</pubDate>
+        <lastBuildDate>2024-04-30T21:47:11+03:00</lastBuildDate>
 
         <item>
+	<title>Dogon Country Travel Guide (Mopti (region)/Mali/Sahel/Africa)</title>
+	<link>https://travellers.wiki/en/africa/sahel/mali/mopti-region/dogon-country/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Dogon Country, Mali. Read our guide and plan your trip today.</description>
+	<pubDate>2024-04-30T21:47:11+03:00</pubDate>
+</item><item>
 	<title>Baiona Travel Guide (Galicia/Green Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/galicia/baiona/</link>
 	<description>Discover the best things to do, see, and eat in Baiona, Spain. Learn about local culture and customs, transportation options, and nearby destinations to visit.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/eastern-australia/</link>
 	<description>This travel guide covers all the essential information you need to know to plan your trip to Eastern Australia, including the top places to visit, food and drink scene, local customs, transportation options, and safety tips.</description>
 	<pubDate>2024-04-30T17:27:51+03:00</pubDate>
-</item><item>
-	<title>Thetford Forest Travel Guide (Norfolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/norfolk/thetford-forest/</link>
-	<description>Discover the natural beauty and rich history of Thetford Forest in Norfolk, England through our comprehensive travel guide.</description>
-	<pubDate>2024-04-30T16:35:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
