@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T00:39:44+03:00</pubDate>
-        <lastBuildDate>2024-05-01T00:39:44+03:00</lastBuildDate>
+        <pubDate>2024-05-01T01:19:46+03:00</pubDate>
+        <lastBuildDate>2024-05-01T01:19:46+03:00</lastBuildDate>
 
         <item>
+	<title>Noto Peninsula Travel Guide (Ishikawa/Chubu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/ishikawa/noto-peninsula/</link>
+	<description>Discover the hidden gems of Noto Peninsula in Ishikawa, Japan. From its natural wonders to its rich culture and history, this comprehensive travel guide has got you covered.</description>
+	<pubDate>2024-05-01T01:19:46+03:00</pubDate>
+</item><item>
 	<title>Dnipro Travel Guide (Eastern Ukraine/Ukraine/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/eastern-ukraine/dnipro/</link>
 	<description>Discover Dnipro's rich culture, natural beauty, and delicious cuisine with our extensive travel guide. From must-visit attractions to insider tips, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/ecuador/andean-highlands/latacunga/</link>
 	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, food and drink scene, best time to visit and much more in Latacunga, Ecuador.</description>
 	<pubDate>2024-04-30T20:57:21+03:00</pubDate>
-</item><item>
-	<title>Elbow Cay Travel Guide (Bahamas/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/bahamas/elbow-cay/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and safety tips for traveling to Elbow Cay in the Bahamas with this comprehensive guide.</description>
-	<pubDate>2024-04-30T20:23:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
