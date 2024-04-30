@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T15:51:07+03:00</pubDate>
-        <lastBuildDate>2024-04-30T15:51:07+03:00</lastBuildDate>
+        <pubDate>2024-04-30T16:04:00+03:00</pubDate>
+        <lastBuildDate>2024-04-30T16:04:00+03:00</lastBuildDate>
 
         <item>
+	<title>Milton Travel Guide (Greater Boston/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/milton/</link>
+	<description>Discover the rich cultural and natural attractions of Milton, Massachusetts with our comprehensive travel guide. Visit museums, enjoy outdoor adventures, indulge in local cuisine, and more in this charming town.</description>
+	<pubDate>2024-04-30T16:04:00+03:00</pubDate>
+</item><item>
 	<title>Praslin Travel Guide (Seychelles/East African Islands/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-african-islands/seychelles/praslin/</link>
 	<description>Planning a trip to Praslin Island? Discover the top places to visit, things to do, the best time to go, and more in our comprehensive travel guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/chao-phraya-basin/bangkok/ramkhamhaeng/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, and local customs in Ramkhamhaeng, Bangkok.</description>
 	<pubDate>2024-04-30T11:00:06+03:00</pubDate>
-</item><item>
-	<title>Obluchye Travel Guide (Jewish Autonomous Oblast/Russian Far East/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/jewish-autonomous-oblast/obluchye/</link>
-	<description>Discover Obluchye, the hidden gem of Eastern Europe located in Jewish Autonomous Oblast, Russia. With our comprehensive guide, explore the culturally rich museums and historical places, outdoor adventures, food and drink scene, places to stay, and much more.</description>
-	<pubDate>2024-04-30T10:24:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
