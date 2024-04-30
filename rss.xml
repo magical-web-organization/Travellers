@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T22:52:00+03:00</pubDate>
-        <lastBuildDate>2024-04-30T22:52:00+03:00</lastBuildDate>
+        <pubDate>2024-04-30T23:31:48+03:00</pubDate>
+        <lastBuildDate>2024-04-30T23:31:48+03:00</lastBuildDate>
 
         <item>
+	<title>La Perouse Travel Guide (Eastern suburbs/Sydney/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/eastern-suburbs/la-perouse/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in La Perouse, Sydney with this comprehensive travel guide. Learn about the culture, cuisine, safety and health, transportation options, and nearby excursions.</description>
+	<pubDate>2024-04-30T23:31:48+03:00</pubDate>
+</item><item>
 	<title>Świeradów-Zdrój Travel Guide (Lower Silesian Voivodeship/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/lower-silesian-voivodeship/swieradow-zdroj/</link>
 	<description>Explore the culturally rich and naturally beautiful Świeradów-Zdrój town in Lower Silesian Voivodeship, Poland. From hiking and biking trails, cultural landmarks, to local cuisine, we have got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/tarnowskie-gory/</link>
 	<description>Explore the Polish town of Tarnowskie Góry with this comprehensive travel guide, featuring must-see attractions, outdoor adventures, local cuisine, and more.</description>
 	<pubDate>2024-04-30T18:56:10+03:00</pubDate>
-</item><item>
-	<title>Sparta Travel Guide (Northern Ohio River Region/Kentucky/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/northern-ohio-river-region/sparta/</link>
-	<description>Get to know the famous city of Sparta through this comprehensive travel guide with a list of attractions to visit, food and drink scene, where to stay, local culture and customs, safety and health tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-04-30T18:05:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
