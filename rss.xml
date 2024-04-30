@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T16:35:55+03:00</pubDate>
-        <lastBuildDate>2024-04-30T16:35:55+03:00</lastBuildDate>
+        <pubDate>2024-04-30T17:27:51+03:00</pubDate>
+        <lastBuildDate>2024-04-30T17:27:51+03:00</lastBuildDate>
 
         <item>
+	<title>Eastern Australia Travel Guide (Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/eastern-australia/</link>
+	<description>This travel guide covers all the essential information you need to know to plan your trip to Eastern Australia, including the top places to visit, food and drink scene, local customs, transportation options, and safety tips.</description>
+	<pubDate>2024-04-30T17:27:51+03:00</pubDate>
+</item><item>
 	<title>Thetford Forest Travel Guide (Norfolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/norfolk/thetford-forest/</link>
 	<description>Discover the natural beauty and rich history of Thetford Forest in Norfolk, England through our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/peloponnese/argolis/mycenae/</link>
 	<description>Read on to discover an in-depth travel guide to Mycenae, Greece, including a list of places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, what to buy, safety tips, and more.</description>
 	<pubDate>2024-04-30T11:34:15+03:00</pubDate>
-</item><item>
-	<title>Altoona Travel Guide (Alleghenies and Susquehanna Valley/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/alleghenies-and-susquehanna-valley/altoona/</link>
-	<description>Planning your Altoona itinerary? Look no further than our comprehensive guide, which covers everything from natural attractions to transportation options.</description>
-	<pubDate>2024-04-30T11:32:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
