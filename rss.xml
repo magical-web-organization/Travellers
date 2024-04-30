@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T14:46:32+03:00</pubDate>
-        <lastBuildDate>2024-04-30T14:46:32+03:00</lastBuildDate>
+        <pubDate>2024-04-30T15:19:38+03:00</pubDate>
+        <lastBuildDate>2024-04-30T15:19:38+03:00</lastBuildDate>
 
         <item>
+	<title>Söderåsen National Park Travel Guide (Scania/Götaland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/scania/soderasen-national-park/</link>
+	<description>Discover the culturally important attractions, natural wonders, hiking & biking routes, local food, where to stay, how to get there, and more.</description>
+	<pubDate>2024-04-30T15:19:38+03:00</pubDate>
+</item><item>
 	<title>Springfield Travel Guide (Greater Christchurch/Canterbury/South Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/canterbury/greater-christchurch/springfield/</link>
 	<description>Discover the beauty of Springfield in South Island, New Zealand with our comprehensive travel guide. Find out the top attractions, things to do, where to stay, and how to get around in this hidden gem.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/west-ireland/county-galway/aran-islands/</link>
 	<description>Plan the ultimate trip to Aran Islands, Ireland with this comprehensive travel guide featuring must-see attractions, hiking routes, food scene, accommodations, safety tips, transportation options, and nearby destinations.</description>
 	<pubDate>2024-04-30T09:35:20+03:00</pubDate>
-</item><item>
-	<title>Blandford Travel Guide (Pioneer Valley/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/blandford/</link>
-	<description>Discover the rich cultural attractions, outdoor adventures, and culinary scene of Blandford, Massachusetts. Plan your trip with our comprehensive guide.</description>
-	<pubDate>2024-04-30T09:14:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
