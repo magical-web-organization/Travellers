@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T04:20:56+03:00</pubDate>
-        <lastBuildDate>2024-04-30T04:20:56+03:00</lastBuildDate>
+        <pubDate>2024-04-30T04:52:56+03:00</pubDate>
+        <lastBuildDate>2024-04-30T04:52:56+03:00</lastBuildDate>
 
         <item>
+	<title>Berkeley Travel Guide (Gloucestershire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/berkeley/</link>
+	<description>Explore Berkeley, a beautiful town in Gloucestershire, England. Discover the best places to visit, things to do, where to stay, and more with our comprehensive travel guide.</description>
+	<pubDate>2024-04-30T04:52:56+03:00</pubDate>
+</item><item>
 	<title>Katsina Travel Guide (Katsina State/North West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/katsina-state/katsina/</link>
 	<description>Discover the best places to visit, things to do, and tips for exploring Katsina, Nigeria. Plan your trip with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/decatur/</link>
 	<description>Discover the best things to do in Decatur, Alabama with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered. Learn about where to stay, what to eat, and much more.</description>
 	<pubDate>2024-04-30T00:14:41+03:00</pubDate>
-</item><item>
-	<title>Lilongwe Travel Guide (Central Malawi/Malawi/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/malawi/central-malawi/lilongwe/</link>
-	<description>A comprehensive guide to exploring the beautiful city of Lilongwe in Malawi, including places to visit, hiking and biking routes, activities to do, food and drink scene, where to stay and more. Read on!</description>
-	<pubDate>2024-04-29T23:47:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
