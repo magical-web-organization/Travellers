@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-04-30T12:38:36+03:00</pubDate>
-        <lastBuildDate>2024-04-30T12:38:36+03:00</lastBuildDate>
+        <pubDate>2024-04-30T13:20:45+03:00</pubDate>
+        <lastBuildDate>2024-04-30T13:20:45+03:00</lastBuildDate>
 
         <item>
+	<title>Monroe (Washington) Travel Guide (North Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/north-sound/monroe-washington/</link>
+	<description>Discover the best attractions, activities, food, and local culture in Monroe, Washington. Plan your trip with this comprehensive travel guide.</description>
+	<pubDate>2024-04-30T13:20:45+03:00</pubDate>
+</item><item>
 	<title>Douz Travel Guide (Saharan Tunisia/Tunisia/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/tunisia/saharan-tunisia/douz/</link>
 	<description>Explore the best of Douz, Tunisia with our ultimate travel guide. From cultural attractions to natural wonders, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/north-central-florida/palatka/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, and practical travel tips in Palatka, North Central Florida.</description>
 	<pubDate>2024-04-30T08:58:37+03:00</pubDate>
-</item><item>
-	<title>Vama Veche Travel Guide (Northern Dobruja/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/northern-dobruja/vama-veche/</link>
-	<description>Discover the hidden treasure of Vama Veche with this comprehensive tour guide that covers the best places to visit, hike, bike, eat, stay, and explore.</description>
-	<pubDate>2024-04-30T08:03:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
