@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T03:25:20+03:00</pubDate>
-        <lastBuildDate>2024-05-01T03:25:20+03:00</lastBuildDate>
+        <pubDate>2024-05-01T03:48:05+03:00</pubDate>
+        <lastBuildDate>2024-05-01T03:48:05+03:00</lastBuildDate>
 
         <item>
+	<title>Caledon Travel Guide (Peel/Greater Toronto Area/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/peel/caledon/</link>
+	<description>From hiking and biking to indulging in local food and culture, this guide covers everything to make your trip to Caledon, Canada, a memorable experience.</description>
+	<pubDate>2024-05-01T03:48:05+03:00</pubDate>
+</item><item>
 	<title>Cornelius Travel Guide (Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/cornelius/</link>
 	<description>Discover the best things to do, places to stay, and local culture in Cornelius, North Carolina. Explore the natural beauty, historical sites, and flavors of this charming town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/eastern-suburbs/la-perouse/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in La Perouse, Sydney with this comprehensive travel guide. Learn about the culture, cuisine, safety and health, transportation options, and nearby excursions.</description>
 	<pubDate>2024-04-30T23:31:48+03:00</pubDate>
-</item><item>
-	<title>Świeradów-Zdrój Travel Guide (Lower Silesian Voivodeship/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/lower-silesian-voivodeship/swieradow-zdroj/</link>
-	<description>Explore the culturally rich and naturally beautiful Świeradów-Zdrój town in Lower Silesian Voivodeship, Poland. From hiking and biking trails, cultural landmarks, to local cuisine, we have got you covered.</description>
-	<pubDate>2024-04-30T22:52:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
