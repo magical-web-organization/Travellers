@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T20:36:12+03:00</pubDate>
-        <lastBuildDate>2024-05-01T20:36:12+03:00</lastBuildDate>
+        <pubDate>2024-05-01T21:12:23+03:00</pubDate>
+        <lastBuildDate>2024-05-01T21:12:23+03:00</lastBuildDate>
 
         <item>
+	<title>Pantanal Travel Guide (South America)</title>
+	<link>https://travellers.wiki/en/south-america/pantanal/</link>
+	<description>Plan your trip to Pantanal with our comprehensive guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-01T21:12:23+03:00</pubDate>
+</item><item>
 	<title>Turiec Travel Guide (Central Slovakia/Slovakia/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/turiec/</link>
 	<description>Discover the best sights, activities, food and drink, places to stay, and more in Turiec, Slovakia with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/bicol/albay/legazpi/</link>
 	<description>Discover the best places to visit, eat, stay, and adventure in Legazpi with our extensive travel guide.</description>
 	<pubDate>2024-05-01T16:54:18+03:00</pubDate>
-</item><item>
-	<title>Charles Town Travel Guide (Potomac Highlands/West Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/west-virginia/potomac-highlands/charles-town/</link>
-	<description>Plan your trip to Charles Town with our comprehensive travel guide. From cultural and natural attractions to hiking and biking routes, we've got you covered. Discover the best things to do, where to stay, what to eat, and more. Start planning your adventure now!</description>
-	<pubDate>2024-05-01T16:12:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
