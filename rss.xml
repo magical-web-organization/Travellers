@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T01:04:58+03:00</pubDate>
-        <lastBuildDate>2024-05-02T01:04:58+03:00</lastBuildDate>
+        <pubDate>2024-05-02T01:47:06+03:00</pubDate>
+        <lastBuildDate>2024-05-02T01:47:06+03:00</lastBuildDate>
 
         <item>
+	<title>Kärsämäki Travel Guide (Southern Oulu region/Northern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/southern-oulu-region/karsamaki/</link>
+	<description>Discover the best things to see and do in Kärsämäki. Find out where to stay, what to eat, and how to get around with this comprehensive travel guide.</description>
+	<pubDate>2024-05-02T01:47:06+03:00</pubDate>
+</item><item>
 	<title>Joseph Travel Guide (Eastern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/eastern-oregon/joseph/</link>
 	<description>A detailed guide to explore the culturally rich and naturally beautiful town of Joseph, Oregon in the Pacific Northwest region.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/pantanal/</link>
 	<description>Plan your trip to Pantanal with our comprehensive guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-05-01T21:12:23+03:00</pubDate>
-</item><item>
-	<title>Turiec Travel Guide (Central Slovakia/Slovakia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/turiec/</link>
-	<description>Discover the best sights, activities, food and drink, places to stay, and more in Turiec, Slovakia with our comprehensive travel guide.</description>
-	<pubDate>2024-05-01T20:36:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
