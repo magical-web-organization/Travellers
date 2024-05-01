@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T20:30:49+03:00</pubDate>
-        <lastBuildDate>2024-05-01T20:30:49+03:00</lastBuildDate>
+        <pubDate>2024-05-01T20:36:12+03:00</pubDate>
+        <lastBuildDate>2024-05-01T20:36:12+03:00</lastBuildDate>
 
         <item>
+	<title>Turiec Travel Guide (Central Slovakia/Slovakia/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/turiec/</link>
+	<description>Discover the best sights, activities, food and drink, places to stay, and more in Turiec, Slovakia with our comprehensive travel guide.</description>
+	<pubDate>2024-05-01T20:36:12+03:00</pubDate>
+</item><item>
 	<title>Agadir Travel Guide (South Atlantic Coast/Morocco/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/south-atlantic-coast/agadir/</link>
 	<description>Plan your travel with this comprehensive tour guide for Agadir, Morocco, including places to visit, food, culture, safety, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/west-virginia/potomac-highlands/charles-town/</link>
 	<description>Plan your trip to Charles Town with our comprehensive travel guide. From cultural and natural attractions to hiking and biking routes, we've got you covered. Discover the best things to do, where to stay, what to eat, and more. Start planning your adventure now!</description>
 	<pubDate>2024-05-01T16:12:09+03:00</pubDate>
-</item><item>
-	<title>Volta Delta Travel Guide (Burkina Faso/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/burkina-faso/volta-delta/</link>
-	<description>Planning a trip to Volta Delta? Our travel guide highlights the best attractions, activities, accommodations, and more for an unforgettable experience in this West African gem.</description>
-	<pubDate>2024-05-01T15:46:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
