@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T05:23:39+03:00</pubDate>
-        <lastBuildDate>2024-05-01T05:23:39+03:00</lastBuildDate>
+        <pubDate>2024-05-01T05:36:46+03:00</pubDate>
+        <lastBuildDate>2024-05-01T05:36:46+03:00</lastBuildDate>
 
         <item>
+	<title>Risoul Travel Guide (Hautes-Alpes/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/hautes-alpes/risoul/</link>
+	<description>Discover the best things to do, where to stay, how to get there and more in our ultimate guide to Risoul, Provence-Alpes-Côte d'Azur, France</description>
+	<pubDate>2024-05-01T05:36:46+03:00</pubDate>
+</item><item>
 	<title>Mudanjiang Travel Guide (Heilongjiang/Northeast China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/mudanjiang/</link>
 	<description>Discover the best places to visit, eat, stay, and things to do in Mudanjiang, a city renowned for its natural beauty and cultural heritage in Northeast China.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/ishikawa/noto-peninsula/</link>
 	<description>Discover the hidden gems of Noto Peninsula in Ishikawa, Japan. From its natural wonders to its rich culture and history, this comprehensive travel guide has got you covered.</description>
 	<pubDate>2024-05-01T01:19:46+03:00</pubDate>
-</item><item>
-	<title>Dnipro Travel Guide (Eastern Ukraine/Ukraine/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/eastern-ukraine/dnipro/</link>
-	<description>Discover Dnipro's rich culture, natural beauty, and delicious cuisine with our extensive travel guide. From must-visit attractions to insider tips, we've got you covered.</description>
-	<pubDate>2024-05-01T00:39:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
