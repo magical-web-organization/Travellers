@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T08:59:40+03:00</pubDate>
-        <lastBuildDate>2024-05-01T08:59:40+03:00</lastBuildDate>
+        <pubDate>2024-05-01T09:16:38+03:00</pubDate>
+        <lastBuildDate>2024-05-01T09:16:38+03:00</lastBuildDate>
 
         <item>
+	<title>Ponorogo Travel Guide (Southern Mountainous/East Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/east-java/southern-mountainous/ponorogo/</link>
+	<description>Discover the top places to visit, things to do, local culture, and customs, and the best time to visit Ponorogo in East Java, Indonesia with our comprehensive travel guide.</description>
+	<pubDate>2024-05-01T09:16:38+03:00</pubDate>
+</item><item>
 	<title>Sunset Beach Travel Guide (North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/sunset-beach/</link>
 	<description>Explore Sunset Beach, NC with this comprehensive tour guide that includes information on places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/vicenza-province/</link>
 	<description>Get ready to explore the beautiful Vicenza province of Italy with this comprehensive guide featuring top attractions, best places to stay, where to eat, and more.</description>
 	<pubDate>2024-05-01T04:59:17+03:00</pubDate>
-</item><item>
-	<title>Melchor de Mencos Travel Guide (Northern Lowlands/Guatemala/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/guatemala/northern-lowlands/melchor-de-mencos/</link>
-	<description>Discover the best places to visit, activities to do, where to stay, and more with our comprehensive travel guide for Melchor de Mencos.</description>
-	<pubDate>2024-05-01T04:20:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
