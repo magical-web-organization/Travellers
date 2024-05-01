@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T00:36:45+03:00</pubDate>
-        <lastBuildDate>2024-05-02T00:36:45+03:00</lastBuildDate>
+        <pubDate>2024-05-02T01:04:58+03:00</pubDate>
+        <lastBuildDate>2024-05-02T01:04:58+03:00</lastBuildDate>
 
         <item>
+	<title>Joseph Travel Guide (Eastern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/eastern-oregon/joseph/</link>
+	<description>A detailed guide to explore the culturally rich and naturally beautiful town of Joseph, Oregon in the Pacific Northwest region.</description>
+	<pubDate>2024-05-02T01:04:58+03:00</pubDate>
+</item><item>
 	<title>Southwest Travel Guide (Rio Grande do Sul/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/southwest/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Southwest, Brazil. Our comprehensive guide covers everything you need to know before you go.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/turiec/</link>
 	<description>Discover the best sights, activities, food and drink, places to stay, and more in Turiec, Slovakia with our comprehensive travel guide.</description>
 	<pubDate>2024-05-01T20:36:12+03:00</pubDate>
-</item><item>
-	<title>Agadir Travel Guide (South Atlantic Coast/Morocco/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/morocco/south-atlantic-coast/agadir/</link>
-	<description>Plan your travel with this comprehensive tour guide for Agadir, Morocco, including places to visit, food, culture, safety, and transportation options.</description>
-	<pubDate>2024-05-01T20:30:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
