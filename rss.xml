@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T12:04:55+03:00</pubDate>
-        <lastBuildDate>2024-05-01T12:04:55+03:00</lastBuildDate>
+        <pubDate>2024-05-01T12:56:06+03:00</pubDate>
+        <lastBuildDate>2024-05-01T12:56:06+03:00</lastBuildDate>
 
         <item>
+	<title>Talysh Region Travel Guide (Azerbaijan/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/azerbaijan/talysh-region/</link>
+	<description>Explore the natural beauty and cultural attractions of Talysh Region in Azerbaijan. Find out where to stay, what to do, and what to bring home from this stunning destination.</description>
+	<pubDate>2024-05-01T12:56:06+03:00</pubDate>
+</item><item>
 	<title>Big Corn Island Travel Guide (Caribbean Nicaragua/Nicaragua/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/caribbean-nicaragua/big-corn-island/</link>
 	<description>Plan your perfect trip to Big Corn Island with our comprehensive travel guide, featuring top attractions, where to stay, how to get there, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/niigata-prefecture/shibata/</link>
 	<description>Discover the best things to do, see, and eat in Shibata, Japan with our comprehensive travel guide. Plan your trip with our tips on where to stay, how to get around, and what to see in this beautiful city.</description>
 	<pubDate>2024-05-01T08:19:59+03:00</pubDate>
-</item><item>
-	<title>County Westmeath Travel Guide (East Coast and Midlands/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-westmeath/</link>
-	<description>Plan your trip to County Westmeath with this comprehensive tour guide. From its natural attractions to its food and drink scene, discover everything this Irish county has to offer.</description>
-	<pubDate>2024-05-01T07:45:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
