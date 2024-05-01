@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T02:04:41+03:00</pubDate>
-        <lastBuildDate>2024-05-02T02:04:41+03:00</lastBuildDate>
+        <pubDate>2024-05-02T02:56:56+03:00</pubDate>
+        <lastBuildDate>2024-05-02T02:56:56+03:00</lastBuildDate>
 
         <item>
+	<title>Aguaytía Travel Guide (Peruvian Amazon/Peru/South America)</title>
+	<link>https://travellers.wiki/en/south-america/peru/peruvian-amazon/aguaytia/</link>
+	<description>Find out the best places to visit, things to do, where to stay, and local customs in Aguaytía, Peru.</description>
+	<pubDate>2024-05-02T02:56:56+03:00</pubDate>
+</item><item>
 	<title>Kashmir Travel Guide (South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/kashmir/</link>
 	<description>This comprehensive travel guide uncovers the culture, activities, food, and safety of Kashmir, South Asia's natural paradise.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/southern-illinois/carbondale/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to travel in Carbondale, Illinois with this comprehensive travel guide.</description>
 	<pubDate>2024-05-01T22:27:10+03:00</pubDate>
-</item><item>
-	<title>North Travel Guide (Warsaw/Mazowieckie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/mazowieckie/warsaw/north/</link>
-	<description>Explore the culturally rich and picturesque destination of North in Warsaw, Poland. This comprehensive guide contains tips on where to go, what to see, where to stay, and more.</description>
-	<pubDate>2024-05-01T21:34:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
