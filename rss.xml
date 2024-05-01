@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T12:56:06+03:00</pubDate>
-        <lastBuildDate>2024-05-01T12:56:06+03:00</lastBuildDate>
+        <pubDate>2024-05-01T13:05:58+03:00</pubDate>
+        <lastBuildDate>2024-05-01T13:05:58+03:00</lastBuildDate>
 
         <item>
+	<title>Swiss Alps Jungfrau-Aletsch Travel Guide (Valais/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/valais/swiss-alps-jungfrau-aletsch/</link>
+	<description>Discover the magnificent beauty of the Swiss Alps Jungfrau-Aletsch, from outdoor adventures to cultural attractions and local customs. Learn about the best things to do, where to stay, what to eat, and how to stay safe and healthy in this stunning region.</description>
+	<pubDate>2024-05-01T13:05:58+03:00</pubDate>
+</item><item>
 	<title>Talysh Region Travel Guide (Azerbaijan/Caucasus/Asia)</title>
 	<link>https://travellers.wiki/en/asia/caucasus/azerbaijan/talysh-region/</link>
 	<description>Explore the natural beauty and cultural attractions of Talysh Region in Azerbaijan. Find out where to stay, what to do, and what to bring home from this stunning destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/sunset-beach/</link>
 	<description>Explore Sunset Beach, NC with this comprehensive tour guide that includes information on places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety and health, and transportation options.</description>
 	<pubDate>2024-05-01T08:59:40+03:00</pubDate>
-</item><item>
-	<title>Shibata Travel Guide (Niigata (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/niigata-prefecture/shibata/</link>
-	<description>Discover the best things to do, see, and eat in Shibata, Japan with our comprehensive travel guide. Plan your trip with our tips on where to stay, how to get around, and what to see in this beautiful city.</description>
-	<pubDate>2024-05-01T08:19:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
