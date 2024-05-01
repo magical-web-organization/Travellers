@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T00:05:34+03:00</pubDate>
-        <lastBuildDate>2024-05-02T00:05:34+03:00</lastBuildDate>
+        <pubDate>2024-05-02T00:36:45+03:00</pubDate>
+        <lastBuildDate>2024-05-02T00:36:45+03:00</lastBuildDate>
 
         <item>
+	<title>Southwest Travel Guide (Rio Grande do Sul/South/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/southwest/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Southwest, Brazil. Our comprehensive guide covers everything you need to know before you go.</description>
+	<pubDate>2024-05-02T00:36:45+03:00</pubDate>
+</item><item>
 	<title>Boyacá Travel Guide (Boyacá (department)/Andino/Colombia/South America)</title>
 	<link>https://travellers.wiki/en/south-america/colombia/andino/boyaca-department/boyaca/</link>
 	<description>Plan your trip to Boyacá, Colombia, with this comprehensive travel guide that covers the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/south-atlantic-coast/agadir/</link>
 	<description>Plan your travel with this comprehensive tour guide for Agadir, Morocco, including places to visit, food, culture, safety, and transportation options.</description>
 	<pubDate>2024-05-01T20:30:49+03:00</pubDate>
-</item><item>
-	<title>Njombe Travel Guide (Southern Highlands/Tanzania/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/tanzania/southern-highlands/njombe/</link>
-	<description>Explore the best of Njombe, Tanzania with our comprehensive travel guide. Discover cultural attractions, natural wonders, outdoor adventures, food and drink scene, accommodations, local culture, safety and health tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-05-01T19:44:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
