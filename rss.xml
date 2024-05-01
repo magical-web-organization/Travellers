@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-01T06:28:09+03:00</pubDate>
-        <lastBuildDate>2024-05-01T06:28:09+03:00</lastBuildDate>
+        <pubDate>2024-05-01T06:53:49+03:00</pubDate>
+        <lastBuildDate>2024-05-01T06:53:49+03:00</lastBuildDate>
 
         <item>
+	<title>Marlow Travel Guide (Buckinghamshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/buckinghamshire/marlow/</link>
+	<description>Plan your trip to Marlow, Buckinghamshire with our detailed travel guide to discover the best of the town's attractions, natural beauty, activities, culture, and more.</description>
+	<pubDate>2024-05-01T06:53:49+03:00</pubDate>
+</item><item>
 	<title>Sant Antoni de Portmany Travel Guide (Ibiza/Balearic Islands/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/ibiza/sant-antoni-de-portmany/</link>
 	<description>Discover the best places to visit in Sant Antoni de Portmany, learn about its culture and customs, and find out how to travel there and get around. Read on for a comprehensive guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/oakland-county/bloomfield-hills/</link>
 	<description>Discover Bloomfield Hills, a city filled with cultural and natural attractions, delicious food, and great accommodation options. Plan the perfect trip with our week-long itinerary and helpful tips on where to stay, what to do, and how to get around.</description>
 	<pubDate>2024-05-01T02:25:56+03:00</pubDate>
-</item><item>
-	<title>South County Travel Guide (Central Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/central-massachusetts/south-county/</link>
-	<description>Discover the best places to visit, things to do, and local culture and customs of South County, Massachusetts.</description>
-	<pubDate>2024-05-01T01:45:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
