@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T07:25:05+03:00</pubDate>
-        <lastBuildDate>2024-05-02T07:25:05+03:00</lastBuildDate>
+        <pubDate>2024-05-02T07:44:47+03:00</pubDate>
+        <lastBuildDate>2024-05-02T07:44:47+03:00</lastBuildDate>
 
         <item>
+	<title>Firozpur Travel Guide (Malwa/Punjab/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/malwa/firozpur/</link>
+	<description>Explore the rich history, cultural attractions, natural beauty, and local cuisine of Firozpur with our ultimate travel guide.</description>
+	<pubDate>2024-05-02T07:44:47+03:00</pubDate>
+</item><item>
 	<title>Union Travel Guide (Knox County/Mid Coast/Maine/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/knox-county/union/</link>
 	<description>Discover Union in Maine, a scenic town filled with outdoor adventures, museums and historical places, and a vibrant food culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/british-virgin-islands/virgin-gorda/</link>
 	<description>Explore the best of Virgin Gorda with this detailed travel guide that covers everything from natural attractions to cultural experiences, best places to stay, food and drink scene, safety and health tips, transportation options, and more.</description>
 	<pubDate>2024-05-02T03:22:31+03:00</pubDate>
-</item><item>
-	<title>Aguaytía Travel Guide (Peruvian Amazon/Peru/South America)</title>
-	<link>https://travellers.wiki/en/south-america/peru/peruvian-amazon/aguaytia/</link>
-	<description>Find out the best places to visit, things to do, where to stay, and local customs in Aguaytía, Peru.</description>
-	<pubDate>2024-05-02T02:56:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
