@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T00:13:28+03:00</pubDate>
-        <lastBuildDate>2024-05-03T00:13:28+03:00</lastBuildDate>
+        <pubDate>2024-05-03T00:34:24+03:00</pubDate>
+        <lastBuildDate>2024-05-03T00:34:24+03:00</lastBuildDate>
 
         <item>
+	<title>Bright Travel Guide (High Country (Victoria)/Victoria (state)/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/victoria-state/high-country-victoria/bright/</link>
+	<description>Plan your trip to Bright, Victoria with this comprehensive travel guide. Includes information on must-see attractions, outdoor adventures, food and drink, where to stay, local culture, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-05-03T00:34:24+03:00</pubDate>
+</item><item>
 	<title>Tzoumerka National Park Travel Guide (Epirus/Northern Greece/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/northern-greece/epirus/tzoumerka-national-park/</link>
 	<description>Discover the natural and cultural wonders of Tzoumerka National Park in Greece with our helpful and informative travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/ethiopia/northern-ethiopia/adigrat/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and tips for safety and health in Adigrat, Ethiopia. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-05-02T20:32:33+03:00</pubDate>
-</item><item>
-	<title>Connersville Travel Guide (Central Indiana/Indiana/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/central-indiana/connersville/</link>
-	<description>Plan your trip to the charming town of Connersville, Indiana with our comprehensive travel guide. Explore its cultural attractions, outdoor activities, food scene, and more.</description>
-	<pubDate>2024-05-02T20:00:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
