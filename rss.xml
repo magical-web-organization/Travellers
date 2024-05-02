@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T05:39:25+03:00</pubDate>
-        <lastBuildDate>2024-05-02T05:39:25+03:00</lastBuildDate>
+        <pubDate>2024-05-02T06:15:11+03:00</pubDate>
+        <lastBuildDate>2024-05-02T06:15:11+03:00</lastBuildDate>
 
         <item>
+	<title>Haad Yao Travel Guide (Ko Pha-ngan/Central Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/ko-pha-ngan/haad-yao/</link>
+	<description>Plan your perfect trip to Haad Yao, Thailand with this comprehensive travel guide. Explore outdoor adventures, culturally important museums, food and drink, where to stay, and more.</description>
+	<pubDate>2024-05-02T06:15:11+03:00</pubDate>
+</item><item>
 	<title>Inverness Travel Guide (The Great Glen and Strathspey/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/the-great-glen-and-strathspey/inverness/</link>
 	<description>Plan your trip to Inverness with our comprehensive travel guide featuring top things to do, places to visit, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/southern-oulu-region/karsamaki/</link>
 	<description>Discover the best things to see and do in Kärsämäki. Find out where to stay, what to eat, and how to get around with this comprehensive travel guide.</description>
 	<pubDate>2024-05-02T01:47:06+03:00</pubDate>
-</item><item>
-	<title>Joseph Travel Guide (Eastern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/eastern-oregon/joseph/</link>
-	<description>A detailed guide to explore the culturally rich and naturally beautiful town of Joseph, Oregon in the Pacific Northwest region.</description>
-	<pubDate>2024-05-02T01:04:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
