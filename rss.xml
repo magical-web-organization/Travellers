@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T20:32:33+03:00</pubDate>
-        <lastBuildDate>2024-05-02T20:32:33+03:00</lastBuildDate>
+        <pubDate>2024-05-02T20:47:48+03:00</pubDate>
+        <lastBuildDate>2024-05-02T20:47:48+03:00</lastBuildDate>
 
         <item>
+	<title>Waterberg Plateau Park Travel Guide (Otjozondjupa/Namibia/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/namibia/otjozondjupa/waterberg-plateau-park/</link>
+	<description>Discover the culturally important attractions, natural wonders, outdoor adventures, and scenic views of Waterberg Plateau Park, Namibia's hidden gem.</description>
+	<pubDate>2024-05-02T20:47:48+03:00</pubDate>
+</item><item>
 	<title>Adigrat Travel Guide (Northern Ethiopia/Ethiopia/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/ethiopia/northern-ethiopia/adigrat/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and tips for safety and health in Adigrat, Ethiopia. Plan your trip with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/nebraska-panhandle/alliance/</link>
 	<description>Discover the must-visit attractions, best things to do, local culture and customs, safety tips, transportation options, and more in Alliance, Nebraska through this comprehensive travel guide.</description>
 	<pubDate>2024-05-02T16:14:34+03:00</pubDate>
-</item><item>
-	<title>Tizi Ouzou Travel Guide (Central Algeria/Algeria/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/algeria/central-algeria/tizi-ouzou/</link>
-	<description>Plan your perfect trip to Tizi Ouzou with our comprehensive guide. Discover the best places to visit, eat, stay, and explore in this Central Algerian city.</description>
-	<pubDate>2024-05-02T15:55:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
