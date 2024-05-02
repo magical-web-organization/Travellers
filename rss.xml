@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T14:08:11+03:00</pubDate>
-        <lastBuildDate>2024-05-02T14:08:11+03:00</lastBuildDate>
+        <pubDate>2024-05-02T14:36:35+03:00</pubDate>
+        <lastBuildDate>2024-05-02T14:36:35+03:00</lastBuildDate>
 
         <item>
+	<title>Eccleshall Travel Guide (Staffordshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/staffordshire/eccleshall/</link>
+	<description>Explore the historic town of Eccleshall with this comprehensive guide. Discover its cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, local customs, safety and health tips, and transportation options.</description>
+	<pubDate>2024-05-02T14:36:35+03:00</pubDate>
+</item><item>
 	<title>Christiansted Travel Guide (Saint Croix/U.S. Virgin Islands/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/u-s-virgin-islands/saint-croix/christiansted/</link>
 	<description>Discover the best things to do, places to stay, and local customs in Christiansted, U.S. Virgin Islands. Plan your trip with our comprehensive tour guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/far-southern-tamil-nadu/poovankurichi/</link>
 	<description>Explore the best of Poovankurichi with our ultimate travel guide. Discover top things to do, places to visit, where to eat and stay, and more.</description>
 	<pubDate>2024-05-02T10:33:11+03:00</pubDate>
-</item><item>
-	<title>Daajing Giids-Skidegate Travel Guide (Haida Gwaii/Northern British Columbia/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/haida-gwaii/daajing-giids-skidegate/</link>
-	<description>Discover the cultural and natural attractions of Daajing Giids-Skidegate, plan your activities, know what and where to eat, stay, and buy, and find out how to get there and get around with this comprehensive guide.</description>
-	<pubDate>2024-05-02T09:52:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
