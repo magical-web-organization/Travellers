@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T17:21:17+03:00</pubDate>
-        <lastBuildDate>2024-05-02T17:21:17+03:00</lastBuildDate>
+        <pubDate>2024-05-02T17:43:45+03:00</pubDate>
+        <lastBuildDate>2024-05-02T17:43:45+03:00</lastBuildDate>
 
         <item>
+	<title>Burford Travel Guide (Oxfordshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/oxfordshire/burford/</link>
+	<description>Explore the best things to do in Burford, Oxfordshire, including the list of places to visit, hiking/biking routes, food scene, where to stay, and nearby excursions.</description>
+	<pubDate>2024-05-02T17:43:45+03:00</pubDate>
+</item><item>
 	<title>Worms Travel Guide (Rhenish Hesse/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/rhenish-hesse/worms/</link>
 	<description>Discover Worms, a historic town in Germany. Learn about the best things to do, where to stay, delicious food and drink, and more in this detailed travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/central-finland/karstula/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Karstula, Finland. Read our guide to plan your perfect trip to this hidden gem in Finnish Lakeland.</description>
 	<pubDate>2024-05-02T13:13:25+03:00</pubDate>
-</item><item>
-	<title>Rockland Travel Guide (Knox County/Mid Coast/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/knox-county/rockland/</link>
-	<description>Rockland is a beautiful coastal town located in Maine, USA. Read on to discover the best places to visit, things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-05-02T12:34:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
