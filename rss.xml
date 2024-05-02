@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T05:24:08+03:00</pubDate>
-        <lastBuildDate>2024-05-02T05:24:08+03:00</lastBuildDate>
+        <pubDate>2024-05-02T05:39:25+03:00</pubDate>
+        <lastBuildDate>2024-05-02T05:39:25+03:00</lastBuildDate>
 
         <item>
+	<title>Inverness Travel Guide (The Great Glen and Strathspey/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/the-great-glen-and-strathspey/inverness/</link>
+	<description>Plan your trip to Inverness with our comprehensive travel guide featuring top things to do, places to visit, where to stay, and more.</description>
+	<pubDate>2024-05-02T05:39:25+03:00</pubDate>
+</item><item>
 	<title>Jigawa State Travel Guide (North West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/jigawa-state/</link>
 	<description>Plan your trip to Jigawa State with our comprehensive travel guide. From cultural attractions to natural wonders, we have everything you need to know.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/eastern-oregon/joseph/</link>
 	<description>A detailed guide to explore the culturally rich and naturally beautiful town of Joseph, Oregon in the Pacific Northwest region.</description>
 	<pubDate>2024-05-02T01:04:58+03:00</pubDate>
-</item><item>
-	<title>Southwest Travel Guide (Rio Grande do Sul/South/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/southwest/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Southwest, Brazil. Our comprehensive guide covers everything you need to know before you go.</description>
-	<pubDate>2024-05-02T00:36:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
