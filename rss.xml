@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T06:15:11+03:00</pubDate>
-        <lastBuildDate>2024-05-02T06:15:11+03:00</lastBuildDate>
+        <pubDate>2024-05-02T06:35:52+03:00</pubDate>
+        <lastBuildDate>2024-05-02T06:35:52+03:00</lastBuildDate>
 
         <item>
+	<title>Tak Bai Travel Guide (Southern Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/tak-bai/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options in Tak Bai, Southern Thailand.</description>
+	<pubDate>2024-05-02T06:35:52+03:00</pubDate>
+</item><item>
 	<title>Haad Yao Travel Guide (Ko Pha-ngan/Central Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/ko-pha-ngan/haad-yao/</link>
 	<description>Plan your perfect trip to Haad Yao, Thailand with this comprehensive travel guide. Explore outdoor adventures, culturally important museums, food and drink, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/kashmir/</link>
 	<description>This comprehensive travel guide uncovers the culture, activities, food, and safety of Kashmir, South Asia's natural paradise.</description>
 	<pubDate>2024-05-02T02:04:41+03:00</pubDate>
-</item><item>
-	<title>Kärsämäki Travel Guide (Southern Oulu region/Northern Finland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/southern-oulu-region/karsamaki/</link>
-	<description>Discover the best things to see and do in Kärsämäki. Find out where to stay, what to eat, and how to get around with this comprehensive travel guide.</description>
-	<pubDate>2024-05-02T01:47:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
