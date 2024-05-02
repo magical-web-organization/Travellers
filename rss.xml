@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T01:13:24+03:00</pubDate>
-        <lastBuildDate>2024-05-03T01:13:24+03:00</lastBuildDate>
+        <pubDate>2024-05-03T01:46:36+03:00</pubDate>
+        <lastBuildDate>2024-05-03T01:46:36+03:00</lastBuildDate>
 
         <item>
+	<title>Monticello Travel Guide (Mississippi Capital-River/Mississippi/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/mississippi-capital-river/monticello/</link>
+	<description>Discover the best places to visit in Monticello, Mississippi, including top attractions, hiking routes, food and drink scenes, and tips for travelers.</description>
+	<pubDate>2024-05-03T01:46:36+03:00</pubDate>
+</item><item>
 	<title>Kenton Travel Guide (West Central Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/west-central-ohio/kenton/</link>
 	<description>Explore the diverse attractions of Kenton, Ohio in this comprehensive travel guide. From natural landmarks to historical sites, this guide has everything you need to know to plan a memorable trip to Kenton.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/saronic-gulf-islands/dokos/</link>
 	<description>Explore Dokos, one of the lesser-known islands in Greece, and discover its natural beauty, rich history, and unique culture. Learn how to get there, where to stay, and what to do in this comprehensive travel guide.</description>
 	<pubDate>2024-05-02T21:24:26+03:00</pubDate>
-</item><item>
-	<title>Waterberg Plateau Park Travel Guide (Otjozondjupa/Namibia/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/namibia/otjozondjupa/waterberg-plateau-park/</link>
-	<description>Discover the culturally important attractions, natural wonders, outdoor adventures, and scenic views of Waterberg Plateau Park, Namibia's hidden gem.</description>
-	<pubDate>2024-05-02T20:47:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
