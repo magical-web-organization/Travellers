@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T02:56:56+03:00</pubDate>
-        <lastBuildDate>2024-05-02T02:56:56+03:00</lastBuildDate>
+        <pubDate>2024-05-02T03:22:31+03:00</pubDate>
+        <lastBuildDate>2024-05-02T03:22:31+03:00</lastBuildDate>
 
         <item>
+	<title>Virgin Gorda Travel Guide (British Virgin Islands/Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/british-virgin-islands/virgin-gorda/</link>
+	<description>Explore the best of Virgin Gorda with this detailed travel guide that covers everything from natural attractions to cultural experiences, best places to stay, food and drink scene, safety and health tips, transportation options, and more.</description>
+	<pubDate>2024-05-02T03:22:31+03:00</pubDate>
+</item><item>
 	<title>Aguaytía Travel Guide (Peruvian Amazon/Peru/South America)</title>
 	<link>https://travellers.wiki/en/south-america/peru/peruvian-amazon/aguaytia/</link>
 	<description>Find out the best places to visit, things to do, where to stay, and local customs in Aguaytía, Peru.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/murnau/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and how to get around in Murnau, Bavaria with this comprehensive travel guide.</description>
 	<pubDate>2024-05-01T22:53:56+03:00</pubDate>
-</item><item>
-	<title>Carbondale Travel Guide (Southern Illinois/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/southern-illinois/carbondale/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and how to travel in Carbondale, Illinois with this comprehensive travel guide.</description>
-	<pubDate>2024-05-01T22:27:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
