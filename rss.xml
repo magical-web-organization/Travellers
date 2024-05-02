@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T23:51:08+03:00</pubDate>
-        <lastBuildDate>2024-05-02T23:51:08+03:00</lastBuildDate>
+        <pubDate>2024-05-03T00:13:28+03:00</pubDate>
+        <lastBuildDate>2024-05-03T00:13:28+03:00</lastBuildDate>
 
         <item>
+	<title>Tzoumerka National Park Travel Guide (Epirus/Northern Greece/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/northern-greece/epirus/tzoumerka-national-park/</link>
+	<description>Discover the natural and cultural wonders of Tzoumerka National Park in Greece with our helpful and informative travel guide.</description>
+	<pubDate>2024-05-03T00:13:28+03:00</pubDate>
+</item><item>
 	<title>Genoa Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/genoa/</link>
 	<description>This in-depth guide to Genoa, Italy, includes detailed information on the best things to do, where to stay, what to eat, and much more to help you plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/central-indiana/connersville/</link>
 	<description>Plan your trip to the charming town of Connersville, Indiana with our comprehensive travel guide. Explore its cultural attractions, outdoor activities, food scene, and more.</description>
 	<pubDate>2024-05-02T20:00:05+03:00</pubDate>
-</item><item>
-	<title>Chester Travel Guide (Pioneer Valley/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/chester/</link>
-	<description>Plan your next adventure with our comprehensive tour guide for Chester, Massachusetts. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-05-02T19:16:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
