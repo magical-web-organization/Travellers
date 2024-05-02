@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T09:31:45+03:00</pubDate>
-        <lastBuildDate>2024-05-02T09:31:45+03:00</lastBuildDate>
+        <pubDate>2024-05-02T09:52:14+03:00</pubDate>
+        <lastBuildDate>2024-05-02T09:52:14+03:00</lastBuildDate>
 
         <item>
+	<title>Daajing Giids-Skidegate Travel Guide (Haida Gwaii/Northern British Columbia/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/haida-gwaii/daajing-giids-skidegate/</link>
+	<description>Discover the cultural and natural attractions of Daajing Giids-Skidegate, plan your activities, know what and where to eat, stay, and buy, and find out how to get there and get around with this comprehensive guide.</description>
+	<pubDate>2024-05-02T09:52:14+03:00</pubDate>
+</item><item>
 	<title>Yas Island Travel Guide (Abu Dhabi (emirate)/United Arab Emirates/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/united-arab-emirates/abu-dhabi-emirate/yas-island/</link>
 	<description>Discover the best attractions, activities, food, and accommodations in Yas Island. Plan your next adventure with our complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/jigawa-state/</link>
 	<description>Plan your trip to Jigawa State with our comprehensive travel guide. From cultural attractions to natural wonders, we have everything you need to know.</description>
 	<pubDate>2024-05-02T05:24:08+03:00</pubDate>
-</item><item>
-	<title>Carmel Point Travel Guide (Monterey County/Central Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/monterey-county/carmel-point/</link>
-	<description>Explore the best of Carmel Point with our comprehensive travel guide. Discover the top attractions, food and drink scene, local culture, safety tips, and more.</description>
-	<pubDate>2024-05-02T05:02:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
