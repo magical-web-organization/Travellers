@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-02T08:23:59+03:00</pubDate>
-        <lastBuildDate>2024-05-02T08:23:59+03:00</lastBuildDate>
+        <pubDate>2024-05-02T08:53:38+03:00</pubDate>
+        <lastBuildDate>2024-05-02T08:53:38+03:00</lastBuildDate>
 
         <item>
+	<title>Amanohashidate Travel Guide (Kyoto (prefecture)/Kansai/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/kyoto-prefecture/amanohashidate/</link>
+	<description>Explore the culturally important attractions, natural wonders, must-try dishes, and local culture of Amanohashidate, Kyoto with our comprehensive travel guide.</description>
+	<pubDate>2024-05-02T08:53:38+03:00</pubDate>
+</item><item>
 	<title>Harima Travel Guide (Hyogo/Kansai/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/hyogo/harima/</link>
 	<description>Discover the best places to visit, activities to do, food and drink scene, local culture, transportation options, and more in Harima, Japan. Read on for a complete travel guide to this beautiful region of Japan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/central-greece/attica/spata/</link>
 	<description>Read our comprehensive Spata travel guide to discover the top attractions, best time to visit, transportation options, and more for a perfect vacation.</description>
 	<pubDate>2024-05-02T04:17:04+03:00</pubDate>
-</item><item>
-	<title>Zhuji Travel Guide (Zhejiang/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/zhuji/</link>
-	<description>Discover the best places to visit, things to do, food and drink, where to stay, and how to get around in Zhuji. Plan your trip to this fascinating city known for its local culture, natural attractions, and outdoor adventures.</description>
-	<pubDate>2024-05-02T03:40:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
