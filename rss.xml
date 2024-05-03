@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T03:07:30+03:00</pubDate>
-        <lastBuildDate>2024-05-03T03:07:30+03:00</lastBuildDate>
+        <pubDate>2024-05-03T04:02:25+03:00</pubDate>
+        <lastBuildDate>2024-05-03T04:02:25+03:00</lastBuildDate>
 
         <item>
+	<title>Vilnius Travel Guide (Dzūkija/Lithuania/Baltic states/Europe)</title>
+	<link>https://travellers.wiki/en/europe/baltic-states/lithuania/dzukija/vilnius/</link>
+	<description>Planning a trip to Vilnius? Explore this comprehensive travel guide to discover the city's top places to visit, best things to do, where to stay, and more.</description>
+	<pubDate>2024-05-03T04:02:25+03:00</pubDate>
+</item><item>
 	<title>Tralee Travel Guide (County Kerry/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-kerry/tralee/</link>
 	<description>Discover the best things to do, places to visit, where to stay, what to eat, and how to get around in Tralee, County Kerry, Ireland.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/coteaus-and-plains/cooperstown/</link>
 	<description>Plan your trip to Cooperstown, North Dakota with this comprehensive travel guide. Discover its attractions, best things to do, where to stay, local culture, safety tips, and more.</description>
 	<pubDate>2024-05-02T23:09:02+03:00</pubDate>
-</item><item>
-	<title>Elšani Travel Guide (Western North Macedonia/North Macedonia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/western-north-macedonia/elsani/</link>
-	<description>Planning a trip to Elšani, North Macedonia? This comprehensive guide will provide you with all the information you need to explore this beautiful city, including its popular attractions, hiking and biking routes, local food and drinks, accommodation options, cultural customs, and much more.</description>
-	<pubDate>2024-05-02T22:52:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
