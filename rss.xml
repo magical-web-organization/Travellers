@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T20:41:13+03:00</pubDate>
-        <lastBuildDate>2024-05-03T20:41:13+03:00</lastBuildDate>
+        <pubDate>2024-05-03T21:08:12+03:00</pubDate>
+        <lastBuildDate>2024-05-03T21:08:12+03:00</lastBuildDate>
 
         <item>
+	<title>Pagudpud Travel Guide (Ilocos Norte/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/ilocos-norte/pagudpud/</link>
+	<description>Find here the ultimate and comprehensive travel guide to Pagudpud - a beautiful place in Ilocos Norte, Philippines, featuring information about things to do, where to stay, how to get there, and more.</description>
+	<pubDate>2024-05-03T21:08:12+03:00</pubDate>
+</item><item>
 	<title>Zihuatanejo Travel Guide (Guerrero/Pacific Coast/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/guerrero/zihuatanejo/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Zihuatanejo, Mexico. Plan your perfect trip with our helpful itinerary and travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/tunisia/saharan-tunisia/haidra/</link>
 	<description>Discover the hidden gem of Haïdra in Tunisia with this comprehensive travel guide, complete with things to do, where to stay, and cultural customs.</description>
 	<pubDate>2024-05-03T16:40:03+03:00</pubDate>
-</item><item>
-	<title>Gunung Mulu National Park Travel Guide (Sarawak/Malaysia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/gunung-mulu-national-park/</link>
-	<description>Explore the natural and cultural wonders of Gunung Mulu National Park in Sarawak, Malaysia with this comprehensive travel guide, covering everything from outdoor adventures to local food and customs.</description>
-	<pubDate>2024-05-03T16:09:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
