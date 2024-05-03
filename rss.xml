@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T17:07:31+03:00</pubDate>
-        <lastBuildDate>2024-05-03T17:07:31+03:00</lastBuildDate>
+        <pubDate>2024-05-03T17:47:25+03:00</pubDate>
+        <lastBuildDate>2024-05-03T17:47:25+03:00</lastBuildDate>
 
         <item>
+	<title>Naperville Travel Guide (Western Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/naperville/</link>
+	<description>Discover the best things to see and do in Naperville, from hiking and biking trails to museums and historical sites. Find out where to stay, what to eat, and how to get around in this charming town.</description>
+	<pubDate>2024-05-03T17:47:25+03:00</pubDate>
+</item><item>
 	<title>Vienne (city) Travel Guide (Isère/Auvergne-Rhône-Alpes/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/isere/vienne-city/</link>
 	<description>Discover the best places to visit, food and drink scene, local culture and customs, safety tips, transportation options, and nearby destinations in Vienne (City), France.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/alleghenies-and-susquehanna-valley/port-royal/</link>
 	<description>Plan your trip to Port Royal, Pennsylvania with our comprehensive travel guide. Discover the best things to do, places to stay, and where to eat in Port Royal.</description>
 	<pubDate>2024-05-03T12:40:31+03:00</pubDate>
-</item><item>
-	<title>Bishop's Castle Travel Guide (Shropshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/shropshire/bishop-s-castle/</link>
-	<description>Bishop's Castle is a beautiful town in Shropshire, England, filled with stunning natural attractions, cultural landmarks, and amazing food.</description>
-	<pubDate>2024-05-03T12:14:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
