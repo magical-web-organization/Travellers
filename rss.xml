@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T18:44:52+03:00</pubDate>
-        <lastBuildDate>2024-05-03T18:44:52+03:00</lastBuildDate>
+        <pubDate>2024-05-03T19:15:50+03:00</pubDate>
+        <lastBuildDate>2024-05-03T19:15:50+03:00</lastBuildDate>
 
         <item>
+	<title>Darłowo Travel Guide (Zachodniopomorskie/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/zachodniopomorskie/darlowo/</link>
+	<description>This comprehensive guide to Darłowo, Poland offers insights on the best time to visit, things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-05-03T19:15:50+03:00</pubDate>
+</item><item>
 	<title>Seda Travel Guide (Vidzeme/Latvia/Baltic states/Europe)</title>
 	<link>https://travellers.wiki/en/europe/baltic-states/latvia/vidzeme/seda/</link>
 	<description>Get all the information you need to explore the charming town of Seda, from natural attractions to cultural landmarks, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/laos/northern-laos/phongsali/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Phongsali. Learn about the local culture and customs, safety and health, transportation options, and nearby destinations in this comprehensive travel guide.</description>
 	<pubDate>2024-05-03T14:35:53+03:00</pubDate>
-</item><item>
-	<title>Gargnano Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/gargnano/</link>
-	<description>Discover the best things to do and places to visit in Gargnano, Italy. Get insider tips on the local culture, food scene, and transportation options.</description>
-	<pubDate>2024-05-03T14:22:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
