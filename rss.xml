@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T22:34:47+03:00</pubDate>
-        <lastBuildDate>2024-05-03T22:34:47+03:00</lastBuildDate>
+        <pubDate>2024-05-03T23:13:25+03:00</pubDate>
+        <lastBuildDate>2024-05-03T23:13:25+03:00</lastBuildDate>
 
         <item>
+	<title>Bahawalpur Travel Guide (Southern Punjab/Punjab/Pakistan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/southern-punjab/bahawalpur/</link>
+	<description>Looking for a fascinating destination in South Asia? Bahawalpur is a city of historic significance, natural beauty, and cultural richness in Pakistan. Plan your trip with our comprehensive guide!</description>
+	<pubDate>2024-05-03T23:13:25+03:00</pubDate>
+</item><item>
 	<title>Eastern Province Travel Guide (Saudi Arabia/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/saudi-arabia/eastern-province/</link>
 	<description>A comprehensive tour guide for Eastern Province, Saudi Arabia. Discover the best places to visit, things to do, where to stay, and more. Plan your trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/baltic-states/latvia/vidzeme/seda/</link>
 	<description>Get all the information you need to explore the charming town of Seda, from natural attractions to cultural landmarks, food and drink scene, and more.</description>
 	<pubDate>2024-05-03T18:44:52+03:00</pubDate>
-</item><item>
-	<title>Ruaha National Park Travel Guide (Central Tanzania/Tanzania/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/tanzania/central-tanzania/ruaha-national-park/</link>
-	<description>Discover the beauty of Ruaha National Park with this comprehensive travel guide. Learn about the best places to visit, activities to do, where to stay, what to eat, and much more.</description>
-	<pubDate>2024-05-03T18:13:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
