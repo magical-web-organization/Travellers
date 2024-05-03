@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T08:29:38+03:00</pubDate>
-        <lastBuildDate>2024-05-03T08:29:38+03:00</lastBuildDate>
+        <pubDate>2024-05-03T08:49:02+03:00</pubDate>
+        <lastBuildDate>2024-05-03T08:49:02+03:00</lastBuildDate>
 
         <item>
+	<title>Leatherhead Travel Guide (Surrey/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/leatherhead/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local culture in Leatherhead, England with this comprehensive travel guide.</description>
+	<pubDate>2024-05-03T08:49:02+03:00</pubDate>
+</item><item>
 	<title>Koksijde Travel Guide (West Flanders/Flanders/Belgium/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/belgium/flanders/west-flanders/koksijde/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Koksijde. This travel guide will highlight the natural attractions, cultural landmarks, hiking/biking routes, and food scene of Koksijde, Belgium.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/north-brabant/helmond/</link>
 	<description>Discover the charming city of Helmond in Southern Netherlands. This travel guide provides insight into the best places to visit, things to do, and more.</description>
 	<pubDate>2024-05-03T04:04:34+03:00</pubDate>
-</item><item>
-	<title>Vilnius Travel Guide (Dzūkija/Lithuania/Baltic states/Europe)</title>
-	<link>https://travellers.wiki/en/europe/baltic-states/lithuania/dzukija/vilnius/</link>
-	<description>Planning a trip to Vilnius? Explore this comprehensive travel guide to discover the city's top places to visit, best things to do, where to stay, and more.</description>
-	<pubDate>2024-05-03T04:02:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
