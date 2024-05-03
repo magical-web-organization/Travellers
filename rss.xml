@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T20:02:38+03:00</pubDate>
-        <lastBuildDate>2024-05-03T20:02:38+03:00</lastBuildDate>
+        <pubDate>2024-05-03T20:13:39+03:00</pubDate>
+        <lastBuildDate>2024-05-03T20:13:39+03:00</lastBuildDate>
 
         <item>
+	<title>Le Bourget Travel Guide (Île-de-France/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/ile-de-france/le-bourget/</link>
+	<description>Explore Le Bourget, France with this comprehensive travel guide. Discover its natural attractions, culturally important sites, hiking and biking routes, best things to do, food and drink scene, where to stay, and much more.</description>
+	<pubDate>2024-05-03T20:13:39+03:00</pubDate>
+</item><item>
 	<title>Takahashi Travel Guide (Okayama (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/okayama-prefecture/takahashi/</link>
 	<description>Plan your trip to Takahashi in Okayama (prefecture), Japan with our comprehensive travel guide that covers both cultural and natural attractions, food and drink scene, accommodations, transportation options, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/isle-of-man/laxey/</link>
 	<description>Discover the best things to see, do, eat, and experience in Laxey, Isle of Man. Follow this guide to plan your perfect vacation now!</description>
 	<pubDate>2024-05-03T15:48:43+03:00</pubDate>
-</item><item>
-	<title>Kópavogur Travel Guide (Southwest Iceland/Iceland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/southwest-iceland/kopavogur/</link>
-	<description>Discover the best things to do, see, eat and where to stay in Kópavogur, Iceland. Learn about local culture, customs, and safety information.</description>
-	<pubDate>2024-05-03T15:08:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
