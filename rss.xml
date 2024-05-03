@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T22:18:10+03:00</pubDate>
-        <lastBuildDate>2024-05-03T22:18:10+03:00</lastBuildDate>
+        <pubDate>2024-05-03T22:34:47+03:00</pubDate>
+        <lastBuildDate>2024-05-03T22:34:47+03:00</lastBuildDate>
 
         <item>
+	<title>Eastern Province Travel Guide (Saudi Arabia/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/saudi-arabia/eastern-province/</link>
+	<description>A comprehensive tour guide for Eastern Province, Saudi Arabia. Discover the best places to visit, things to do, where to stay, and more. Plan your trip now!</description>
+	<pubDate>2024-05-03T22:34:47+03:00</pubDate>
+</item><item>
 	<title>Pacific Harbour Travel Guide (Viti Levu/Fiji/Melanesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/melanesia/fiji/viti-levu/pacific-harbour/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to Pacific Harbour, Fiji.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/tanzania/central-tanzania/ruaha-national-park/</link>
 	<description>Discover the beauty of Ruaha National Park with this comprehensive travel guide. Learn about the best places to visit, activities to do, where to stay, what to eat, and much more.</description>
 	<pubDate>2024-05-03T18:13:40+03:00</pubDate>
-</item><item>
-	<title>Naperville Travel Guide (Western Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/naperville/</link>
-	<description>Discover the best things to see and do in Naperville, from hiking and biking trails to museums and historical sites. Find out where to stay, what to eat, and how to get around in this charming town.</description>
-	<pubDate>2024-05-03T17:47:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
