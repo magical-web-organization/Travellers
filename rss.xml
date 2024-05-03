@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T07:10:39+03:00</pubDate>
-        <lastBuildDate>2024-05-03T07:10:39+03:00</lastBuildDate>
+        <pubDate>2024-05-03T07:44:56+03:00</pubDate>
+        <lastBuildDate>2024-05-03T07:44:56+03:00</lastBuildDate>
 
         <item>
+	<title>Mattanur Travel Guide (Kannur District/Malabar/Kerala/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kannur-district/mattanur/</link>
+	<description>Discover the best things to do, see, and eat in Mattanur, Kerala, with this comprehensive travel guide. Find out all about its cultural and natural attractions, hiking and biking routes, food and drink scene, and more.</description>
+	<pubDate>2024-05-03T07:44:56+03:00</pubDate>
+</item><item>
 	<title>Corinth Travel Guide (Mississippi Hills/Mississippi/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/mississippi-hills/corinth/</link>
 	<description>Plan your trip to Corinth with this comprehensive tour guide. Find the best things to do, places to stay, food to try, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-kerry/tralee/</link>
 	<description>Discover the best things to do, places to visit, where to stay, what to eat, and how to get around in Tralee, County Kerry, Ireland.</description>
 	<pubDate>2024-05-03T03:07:30+03:00</pubDate>
-</item><item>
-	<title>Chuo Travel Guide (Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/chuo/</link>
-	<description>Explore the culturally rich and exciting area of Chuo, Tokyo with this comprehensive travel guide. Discover its must-visit places, best dishes, activities, accommodations, and transportation options.</description>
-	<pubDate>2024-05-03T02:59:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
