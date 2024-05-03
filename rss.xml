@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T01:33:47+03:00</pubDate>
-        <lastBuildDate>2024-05-04T01:33:47+03:00</lastBuildDate>
+        <pubDate>2024-05-04T02:22:58+03:00</pubDate>
+        <lastBuildDate>2024-05-04T02:22:58+03:00</lastBuildDate>
 
         <item>
+	<title>Blackville Travel Guide (Miramichi River Valley/New Brunswick/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/miramichi-river-valley/blackville/</link>
+	<description>Plan your next adventure to Blackville with our comprehensive travel guide that covers all the must-see attractions, things to do, dining, accommodations, and more.</description>
+	<pubDate>2024-05-04T02:22:58+03:00</pubDate>
+</item><item>
 	<title>Offenbach Travel Guide (Rhine-Main/Hesse/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/rhine-main/offenbach/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, and travel logistics in Offenbach, Germany.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/victoria-state/high-country-victoria/benalla/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to Benalla in the High Country of Victoria, Australia.</description>
 	<pubDate>2024-05-03T21:39:06+03:00</pubDate>
-</item><item>
-	<title>Pagudpud Travel Guide (Ilocos Norte/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/ilocos-norte/pagudpud/</link>
-	<description>Find here the ultimate and comprehensive travel guide to Pagudpud - a beautiful place in Ilocos Norte, Philippines, featuring information about things to do, where to stay, how to get there, and more.</description>
-	<pubDate>2024-05-03T21:08:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
