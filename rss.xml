@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T09:16:10+03:00</pubDate>
-        <lastBuildDate>2024-05-03T09:16:10+03:00</lastBuildDate>
+        <pubDate>2024-05-03T09:44:42+03:00</pubDate>
+        <lastBuildDate>2024-05-03T09:44:42+03:00</lastBuildDate>
 
         <item>
+	<title>Isle of Bute Travel Guide (Argyll and Bute/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/argyll-and-bute/isle-of-bute/</link>
+	<description>Plan your trip to the Isle of Bute with this complete guide. Discover the best places to visit, the best food and drink, where to stay, how to get around, and much more.</description>
+	<pubDate>2024-05-03T09:44:42+03:00</pubDate>
+</item><item>
 	<title>Lagunes Travel Guide (Côte d'Ivoire/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/cote-d-ivoire/lagunes/</link>
 	<description>Read our Lagunes travel guide, as we explore the culture, attractions, food, and safety, with tips on where to stay, and how to get around, all while showcasing the best of what Lagunes has to offer.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/thoroughbred-country/</link>
 	<description>Discover the best things to do, see, eat, and experience in Thoroughbred Country. Our travel guide has everything you need to plan your visit to this stunning destination in South Carolina.</description>
 	<pubDate>2024-05-03T05:30:02+03:00</pubDate>
-</item><item>
-	<title>Galilee Panhandle Travel Guide (Israel/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/israel/galilee-panhandle/</link>
-	<description>Discover the best things to do, see, and eat in Galilee Panhandle with this comprehensive travel guide featuring natural attractions, cultural landmarks, must-try cuisine, and many more.</description>
-	<pubDate>2024-05-03T05:01:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
