@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T00:43:46+03:00</pubDate>
-        <lastBuildDate>2024-05-04T00:43:46+03:00</lastBuildDate>
+        <pubDate>2024-05-04T01:26:54+03:00</pubDate>
+        <lastBuildDate>2024-05-04T01:26:54+03:00</lastBuildDate>
 
         <item>
+	<title>Spokane Travel Guide (Palouse (Washington)/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/palouse-washington/spokane/</link>
+	<description>Plan your trip to Spokane with our comprehensive tour guide that includes top attractions, hiking routes, food scene, local culture, safety tips, transportation options, and nearby destinations.</description>
+	<pubDate>2024-05-04T01:26:54+03:00</pubDate>
+</item><item>
 	<title>Chelmsford Travel Guide (Merrimack Valley/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/merrimack-valley/chelmsford/</link>
 	<description>Plan your trip to Chelmsford, MA with our comprehensive travel guide, including top attractions, activities, food, and accommodations options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/guerrero/zihuatanejo/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Zihuatanejo, Mexico. Plan your perfect trip with our helpful itinerary and travel guide.</description>
 	<pubDate>2024-05-03T20:41:13+03:00</pubDate>
-</item><item>
-	<title>Le Bourget Travel Guide (Île-de-France/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/ile-de-france/le-bourget/</link>
-	<description>Explore Le Bourget, France with this comprehensive travel guide. Discover its natural attractions, culturally important sites, hiking and biking routes, best things to do, food and drink scene, where to stay, and much more.</description>
-	<pubDate>2024-05-03T20:13:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
