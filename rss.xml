@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T11:45:54+03:00</pubDate>
-        <lastBuildDate>2024-05-03T11:45:54+03:00</lastBuildDate>
+        <pubDate>2024-05-03T12:14:19+03:00</pubDate>
+        <lastBuildDate>2024-05-03T12:14:19+03:00</lastBuildDate>
 
         <item>
+	<title>Bishop's Castle Travel Guide (Shropshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/shropshire/bishop-s-castle/</link>
+	<description>Bishop's Castle is a beautiful town in Shropshire, England, filled with stunning natural attractions, cultural landmarks, and amazing food.</description>
+	<pubDate>2024-05-03T12:14:19+03:00</pubDate>
+</item><item>
 	<title>Nadiad Travel Guide (Central Gujarat/Gujarat/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/gujarat/central-gujarat/nadiad/</link>
 	<description>This travel guide features things to do, places to visit, food and drink, where to stay, and local culture in Nadiad, Gujarat, India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kannur-district/mattanur/</link>
 	<description>Discover the best things to do, see, and eat in Mattanur, Kerala, with this comprehensive travel guide. Find out all about its cultural and natural attractions, hiking and biking routes, food and drink scene, and more.</description>
 	<pubDate>2024-05-03T07:44:56+03:00</pubDate>
-</item><item>
-	<title>Corinth Travel Guide (Mississippi Hills/Mississippi/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/mississippi-hills/corinth/</link>
-	<description>Plan your trip to Corinth with this comprehensive tour guide. Find the best things to do, places to stay, food to try, and more.</description>
-	<pubDate>2024-05-03T07:10:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
