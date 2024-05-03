@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T14:22:06+03:00</pubDate>
-        <lastBuildDate>2024-05-03T14:22:06+03:00</lastBuildDate>
+        <pubDate>2024-05-03T14:35:53+03:00</pubDate>
+        <lastBuildDate>2024-05-03T14:35:53+03:00</lastBuildDate>
 
         <item>
+	<title>Phongsali Travel Guide (Northern Laos/Laos/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/laos/northern-laos/phongsali/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Phongsali. Learn about the local culture and customs, safety and health, transportation options, and nearby destinations in this comprehensive travel guide.</description>
+	<pubDate>2024-05-03T14:35:53+03:00</pubDate>
+</item><item>
 	<title>Gargnano Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/gargnano/</link>
 	<description>Discover the best things to do and places to visit in Gargnano, Italy. Get insider tips on the local culture, food scene, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/argyll-and-bute/isle-of-bute/</link>
 	<description>Plan your trip to the Isle of Bute with this complete guide. Discover the best places to visit, the best food and drink, where to stay, how to get around, and much more.</description>
 	<pubDate>2024-05-03T09:44:42+03:00</pubDate>
-</item><item>
-	<title>Lagunes Travel Guide (Côte d'Ivoire/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/cote-d-ivoire/lagunes/</link>
-	<description>Read our Lagunes travel guide, as we explore the culture, attractions, food, and safety, with tips on where to stay, and how to get around, all while showcasing the best of what Lagunes has to offer.</description>
-	<pubDate>2024-05-03T09:16:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
