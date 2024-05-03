@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T17:47:25+03:00</pubDate>
-        <lastBuildDate>2024-05-03T17:47:25+03:00</lastBuildDate>
+        <pubDate>2024-05-03T18:13:40+03:00</pubDate>
+        <lastBuildDate>2024-05-03T18:13:40+03:00</lastBuildDate>
 
         <item>
+	<title>Ruaha National Park Travel Guide (Central Tanzania/Tanzania/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/tanzania/central-tanzania/ruaha-national-park/</link>
+	<description>Discover the beauty of Ruaha National Park with this comprehensive travel guide. Learn about the best places to visit, activities to do, where to stay, what to eat, and much more.</description>
+	<pubDate>2024-05-03T18:13:40+03:00</pubDate>
+</item><item>
 	<title>Naperville Travel Guide (Western Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/naperville/</link>
 	<description>Discover the best things to see and do in Naperville, from hiking and biking trails to museums and historical sites. Find out where to stay, what to eat, and how to get around in this charming town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/iwate/otsuchi/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Otsuchi, Japan. This comprehensive travel guide will help you plan the perfect trip to Tohoku.</description>
 	<pubDate>2024-05-03T13:10:08+03:00</pubDate>
-</item><item>
-	<title>Port Royal Travel Guide (Alleghenies and Susquehanna Valley/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/alleghenies-and-susquehanna-valley/port-royal/</link>
-	<description>Plan your trip to Port Royal, Pennsylvania with our comprehensive travel guide. Discover the best things to do, places to stay, and where to eat in Port Royal.</description>
-	<pubDate>2024-05-03T12:40:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
