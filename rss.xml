@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-03T08:49:02+03:00</pubDate>
-        <lastBuildDate>2024-05-03T08:49:02+03:00</lastBuildDate>
+        <pubDate>2024-05-03T09:16:10+03:00</pubDate>
+        <lastBuildDate>2024-05-03T09:16:10+03:00</lastBuildDate>
 
         <item>
+	<title>Lagunes Travel Guide (Côte d'Ivoire/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/cote-d-ivoire/lagunes/</link>
+	<description>Read our Lagunes travel guide, as we explore the culture, attractions, food, and safety, with tips on where to stay, and how to get around, all while showcasing the best of what Lagunes has to offer.</description>
+	<pubDate>2024-05-03T09:16:10+03:00</pubDate>
+</item><item>
 	<title>Leatherhead Travel Guide (Surrey/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/surrey/leatherhead/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture in Leatherhead, England with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/israel/galilee-panhandle/</link>
 	<description>Discover the best things to do, see, and eat in Galilee Panhandle with this comprehensive travel guide featuring natural attractions, cultural landmarks, must-try cuisine, and many more.</description>
 	<pubDate>2024-05-03T05:01:47+03:00</pubDate>
-</item><item>
-	<title>Helmond Travel Guide (North Brabant/Southern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/north-brabant/helmond/</link>
-	<description>Discover the charming city of Helmond in Southern Netherlands. This travel guide provides insight into the best places to visit, things to do, and more.</description>
-	<pubDate>2024-05-03T04:04:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
