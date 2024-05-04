@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T15:12:34+03:00</pubDate>
-        <lastBuildDate>2024-05-04T15:12:34+03:00</lastBuildDate>
+        <pubDate>2024-05-04T15:47:11+03:00</pubDate>
+        <lastBuildDate>2024-05-04T15:47:11+03:00</lastBuildDate>
 
         <item>
+	<title>Isla Gorgona Travel Guide (Colombian Islands/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/colombian-islands/isla-gorgona/</link>
+	<description>Plan your next vacation in Isla Gorgona, Colombia with our comprehensive travel guide. Check out the best places to visit, things to do, places to stay, and more.</description>
+	<pubDate>2024-05-04T15:47:11+03:00</pubDate>
+</item><item>
 	<title>North Florida Travel Guide (Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/north-florida/</link>
 	<description>Discover the best places to visit, local culture and customs, safety tips, transportation options, and more in this complete travel guide to North Florida.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/outer-hebrides/eriskay/</link>
 	<description>Plan your trip to Eriskay with this comprehensive guide. Discover the best things to do, places to visit, where to stay, what to eat and more.</description>
 	<pubDate>2024-05-04T11:11:22+03:00</pubDate>
-</item><item>
-	<title>Triglav National Park Travel Guide (Julian Alps/Slovenia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovenia/julian-alps/triglav-national-park/</link>
-	<description>Triglav National Park, located in Slovenia, is a beautiful place to visit for outdoor enthusiasts and nature lovers. Read our comprehensive guide for tips on places to visit, activities to do, and more.</description>
-	<pubDate>2024-05-04T11:02:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
