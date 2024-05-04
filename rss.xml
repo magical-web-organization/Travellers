@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T06:31:46+03:00</pubDate>
-        <lastBuildDate>2024-05-04T06:31:46+03:00</lastBuildDate>
+        <pubDate>2024-05-04T06:47:10+03:00</pubDate>
+        <lastBuildDate>2024-05-04T06:47:10+03:00</lastBuildDate>
 
         <item>
+	<title>Mahabaleshwar Travel Guide (South Maharashtra/Maharashtra/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/south-maharashtra/mahabaleshwar/</link>
+	<description>Plan your trip to Mahabaleshwar with this comprehensive travel guide. It includes a list of places to visit, hiking/biking routes, things to do, where to stay, local culture and customs, and much more.</description>
+	<pubDate>2024-05-04T06:47:10+03:00</pubDate>
+</item><item>
 	<title>Quetico Provincial Park Travel Guide (Northwestern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northwestern-ontario/quetico-provincial-park/</link>
 	<description>A complete guide to Quetico Provincial Park, including places to visit, hiking/biking routes, activities and tours, food and drink scene, accommodation options, local culture and customs, safety, and logistics information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/miramichi-river-valley/blackville/</link>
 	<description>Plan your next adventure to Blackville with our comprehensive travel guide that covers all the must-see attractions, things to do, dining, accommodations, and more.</description>
 	<pubDate>2024-05-04T02:22:58+03:00</pubDate>
-</item><item>
-	<title>Offenbach Travel Guide (Rhine-Main/Hesse/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/rhine-main/offenbach/</link>
-	<description>Discover the best places to visit, things to do, where to stay and eat, and travel logistics in Offenbach, Germany.</description>
-	<pubDate>2024-05-04T01:33:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
