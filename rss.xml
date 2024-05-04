@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T21:52:37+03:00</pubDate>
-        <lastBuildDate>2024-05-04T21:52:37+03:00</lastBuildDate>
+        <pubDate>2024-05-04T22:19:52+03:00</pubDate>
+        <lastBuildDate>2024-05-04T22:19:52+03:00</lastBuildDate>
 
         <item>
+	<title>West Travel Guide (Jakarta/Greater Jakarta/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/greater-jakarta/jakarta/west/</link>
+	<description>Everything you need to know when planning a trip to West, Jakarta – Greater Jakarta, Western Java, Indonesia. Discover the top attractions, food and drink scene, local customs and culture, and transportation options in this comprehensive travel guide.</description>
+	<pubDate>2024-05-04T22:19:52+03:00</pubDate>
+</item><item>
 	<title>Southeast Travel Guide (Quezon City/Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/quezon-city/southeast/</link>
 	<description>Plan your Southeast itinerary with this comprehensive guide that covers everything from top tourist attractions, local culture, food, safety, transportation options, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/hanover-region/verden-an-der-aller/</link>
 	<description>A detailed guide to Verden an der Aller, including top places to visit, outdoor adventures, food, accommodation, and cultural attractions with helpful tips about the best time to visit, getting around, and nearby destinations.</description>
 	<pubDate>2024-05-04T17:49:47+03:00</pubDate>
-</item><item>
-	<title>Tangaza Travel Guide (Sokoto State/North West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/sokoto-state/tangaza/</link>
-	<description>Plan your next vacation to Tangaza with our comprehensive travel guide. Discover the best places to visit, food and drink scene, where to stay, how to get around, and more.</description>
-	<pubDate>2024-05-04T16:35:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
