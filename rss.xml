@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T04:48:05+03:00</pubDate>
-        <lastBuildDate>2024-05-04T04:48:05+03:00</lastBuildDate>
+        <pubDate>2024-05-04T05:22:57+03:00</pubDate>
+        <lastBuildDate>2024-05-04T05:22:57+03:00</lastBuildDate>
 
         <item>
+	<title>Sabha Travel Guide (Libya/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/libya/sabha/</link>
+	<description>Plan your trip to Sabha, Libya with this comprehensive travel guide. Explore the best places to visit, food and drink scene, accommodations, safety and health, transportation options and more.</description>
+	<pubDate>2024-05-04T05:22:57+03:00</pubDate>
+</item><item>
 	<title>Nordseter Travel Guide (Gudbrandsdalen/Oppland/East Norway/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/oppland/gudbrandsdalen/nordseter/</link>
 	<description>A comprehensive travel guide on Nordseter, Norway, covering its attractions, activities, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/merrimack-valley/chelmsford/</link>
 	<description>Plan your trip to Chelmsford, MA with our comprehensive travel guide, including top attractions, activities, food, and accommodations options.</description>
 	<pubDate>2024-05-04T00:43:46+03:00</pubDate>
-</item><item>
-	<title>Calafat Travel Guide (Oltenia/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/oltenia/calafat/</link>
-	<description>A detailed travel guide for Calafat, Oltenia, Romania, including places to visit, things to do, food and drink, accommodations, local customs, safety tips, and transportation options.</description>
-	<pubDate>2024-05-04T00:24:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
