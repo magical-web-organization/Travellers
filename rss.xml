@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T18:04:14+03:00</pubDate>
-        <lastBuildDate>2024-05-04T18:04:14+03:00</lastBuildDate>
+        <pubDate>2024-05-04T18:34:03+03:00</pubDate>
+        <lastBuildDate>2024-05-04T18:34:03+03:00</lastBuildDate>
 
         <item>
+	<title>East Hampton Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/east-hampton/</link>
+	<description>Discover the best things to do, where to stay, what to eat, and more in East Hampton. Read our comprehensive guide to make the most of your trip to this charming town!</description>
+	<pubDate>2024-05-04T18:34:03+03:00</pubDate>
+</item><item>
 	<title>Passau Travel Guide (Lower Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/lower-bavaria/passau/</link>
 	<description>Discover the best things to do, places to visit and stay, food options, and local customs of Passau through this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/upper-egypt/luxor/east-bank/</link>
 	<description>Plan your trip to East Bank, Luxor with our comprehensive travel guide. Discover the best things to do, places to visit, where to stay, and more.</description>
 	<pubDate>2024-05-04T13:38:58+03:00</pubDate>
-</item><item>
-	<title>Port St Mary Travel Guide (Isle of Man/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/isle-of-man/port-st-mary/</link>
-	<description>Discover the best places to visit, eat, stay, and more with our comprehensive guide to Port St Mary, Isle of Man.</description>
-	<pubDate>2024-05-04T13:06:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
