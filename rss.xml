@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T20:48:57+03:00</pubDate>
-        <lastBuildDate>2024-05-04T20:48:57+03:00</lastBuildDate>
+        <pubDate>2024-05-04T21:21:34+03:00</pubDate>
+        <lastBuildDate>2024-05-04T21:21:34+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Martin-de-Crau Travel Guide (Bouches-du-Rhône/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/bouches-du-rhone/saint-martin-de-crau/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Saint-Martin-de-Crau, France.</description>
+	<pubDate>2024-05-04T21:21:34+03:00</pubDate>
+</item><item>
 	<title>Corfu Travel Guide (Ionian Islands/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/ionian-islands/corfu/</link>
 	<description>A comprehensive travel guide for Corfu, including places to visit, best things to do, local culture, safety tips, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/piedmont/ivrea/</link>
 	<description>Explore the beautiful city of Ivrea with this comprehensive travel guide. Featuring places to visit, food and drink scene, transportation options, and more.</description>
 	<pubDate>2024-05-04T16:30:01+03:00</pubDate>
-</item><item>
-	<title>Isla Gorgona Travel Guide (Colombian Islands/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/colombian-islands/isla-gorgona/</link>
-	<description>Plan your next vacation in Isla Gorgona, Colombia with our comprehensive travel guide. Check out the best places to visit, things to do, places to stay, and more.</description>
-	<pubDate>2024-05-04T15:47:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
