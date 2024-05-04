@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T23:13:15+03:00</pubDate>
-        <lastBuildDate>2024-05-04T23:13:15+03:00</lastBuildDate>
+        <pubDate>2024-05-04T23:49:24+03:00</pubDate>
+        <lastBuildDate>2024-05-04T23:49:24+03:00</lastBuildDate>
 
         <item>
+	<title>Emden Travel Guide (East Frisia/Lower Saxony/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/east-frisia/emden/</link>
+	<description>Plan your trip to Emden in Lower Saxony, Germany, with this comprehensive travel guide. Find out about the best places to visit, hike, bike, eat, stay, and learn about the local culture and customs of this East Frisian port city.</description>
+	<pubDate>2024-05-04T23:49:24+03:00</pubDate>
+</item><item>
 	<title>Kantharalak Travel Guide (Southern Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/southern-isaan/kantharalak/</link>
 	<description>Discover the culturally rich and naturally stunning Kantharalak with our comprehensive travel guide. From must-visit attractions to hiking routes and local customs, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/akita-prefecture/yuzawa-akita/</link>
 	<description>Plan your perfect trip to Yuzawa (Akita) with our comprehensive guide, including places to visit, hiking/biking routes, things to do, where to stay, food scene, and more.</description>
 	<pubDate>2024-05-04T19:10:46+03:00</pubDate>
-</item><item>
-	<title>East Hampton Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/east-hampton/</link>
-	<description>Discover the best things to do, where to stay, what to eat, and more in East Hampton. Read our comprehensive guide to make the most of your trip to this charming town!</description>
-	<pubDate>2024-05-04T18:34:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
