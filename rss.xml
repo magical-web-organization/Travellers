@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T11:02:20+03:00</pubDate>
-        <lastBuildDate>2024-05-04T11:02:20+03:00</lastBuildDate>
+        <pubDate>2024-05-04T11:11:22+03:00</pubDate>
+        <lastBuildDate>2024-05-04T11:11:22+03:00</lastBuildDate>
 
         <item>
+	<title>Eriskay Travel Guide (Outer Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/outer-hebrides/eriskay/</link>
+	<description>Plan your trip to Eriskay with this comprehensive guide. Discover the best things to do, places to visit, where to stay, what to eat and more.</description>
+	<pubDate>2024-05-04T11:11:22+03:00</pubDate>
+</item><item>
 	<title>Triglav National Park Travel Guide (Julian Alps/Slovenia/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/slovenia/julian-alps/triglav-national-park/</link>
 	<description>Triglav National Park, located in Slovenia, is a beautiful place to visit for outdoor enthusiasts and nature lovers. Read our comprehensive guide for tips on places to visit, activities to do, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/south-maharashtra/mahabaleshwar/</link>
 	<description>Plan your trip to Mahabaleshwar with this comprehensive travel guide. It includes a list of places to visit, hiking/biking routes, things to do, where to stay, local culture and customs, and much more.</description>
 	<pubDate>2024-05-04T06:47:10+03:00</pubDate>
-</item><item>
-	<title>Quetico Provincial Park Travel Guide (Northwestern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northwestern-ontario/quetico-provincial-park/</link>
-	<description>A complete guide to Quetico Provincial Park, including places to visit, hiking/biking routes, activities and tours, food and drink scene, accommodation options, local culture and customs, safety, and logistics information.</description>
-	<pubDate>2024-05-04T06:31:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
