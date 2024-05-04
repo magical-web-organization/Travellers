@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T23:49:24+03:00</pubDate>
-        <lastBuildDate>2024-05-04T23:49:24+03:00</lastBuildDate>
+        <pubDate>2024-05-05T00:13:00+03:00</pubDate>
+        <lastBuildDate>2024-05-05T00:13:00+03:00</lastBuildDate>
 
         <item>
+	<title>Merikarvia Travel Guide (Satakunta/West Coast/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/satakunta/merikarvia/</link>
+	<description>Plan your trip to Merikarvia with our comprehensive travel guide. Explore the natural and cultural attractions, food scene, accommodations, local customs, and more.</description>
+	<pubDate>2024-05-05T00:13:00+03:00</pubDate>
+</item><item>
 	<title>Emden Travel Guide (East Frisia/Lower Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/east-frisia/emden/</link>
 	<description>Plan your trip to Emden in Lower Saxony, Germany, with this comprehensive travel guide. Find out about the best places to visit, hike, bike, eat, stay, and learn about the local culture and customs of this East Frisian port city.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/lower-bavaria/bavarian-forest-national-park/</link>
 	<description>A comprehensive guide to the Bavarian Forest National Park, including places to visit, things to do, food and drink, where to stay, local culture, and safety tips.</description>
 	<pubDate>2024-05-04T19:43:27+03:00</pubDate>
-</item><item>
-	<title>Yuzawa (Akita) Travel Guide (Akita (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/akita-prefecture/yuzawa-akita/</link>
-	<description>Plan your perfect trip to Yuzawa (Akita) with our comprehensive guide, including places to visit, hiking/biking routes, things to do, where to stay, food scene, and more.</description>
-	<pubDate>2024-05-04T19:10:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
