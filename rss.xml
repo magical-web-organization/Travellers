@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T17:49:47+03:00</pubDate>
-        <lastBuildDate>2024-05-04T17:49:47+03:00</lastBuildDate>
+        <pubDate>2024-05-04T18:04:14+03:00</pubDate>
+        <lastBuildDate>2024-05-04T18:04:14+03:00</lastBuildDate>
 
         <item>
+	<title>Passau Travel Guide (Lower Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/lower-bavaria/passau/</link>
+	<description>Discover the best things to do, places to visit and stay, food options, and local customs of Passau through this comprehensive travel guide.</description>
+	<pubDate>2024-05-04T18:04:14+03:00</pubDate>
+</item><item>
 	<title>Verden an der Aller Travel Guide (Hanover Region/Lower Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/hanover-region/verden-an-der-aller/</link>
 	<description>A detailed guide to Verden an der Aller, including top places to visit, outdoor adventures, food, accommodation, and cultural attractions with helpful tips about the best time to visit, getting around, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/isle-of-man/port-st-mary/</link>
 	<description>Discover the best places to visit, eat, stay, and more with our comprehensive guide to Port St Mary, Isle of Man.</description>
 	<pubDate>2024-05-04T13:06:02+03:00</pubDate>
-</item><item>
-	<title>Kolhapur Travel Guide (South Maharashtra/Maharashtra/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/south-maharashtra/kolhapur/</link>
-	<description>Explore the cultural and natural attractions of Kolhapur, including hiking routes, food and drink scene, accommodations, local culture, safety, and transportation options.</description>
-	<pubDate>2024-05-04T13:01:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
