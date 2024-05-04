@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T09:06:10+03:00</pubDate>
-        <lastBuildDate>2024-05-04T09:06:10+03:00</lastBuildDate>
+        <pubDate>2024-05-04T09:46:52+03:00</pubDate>
+        <lastBuildDate>2024-05-04T09:46:52+03:00</lastBuildDate>
 
         <item>
+	<title>Nagahama Travel Guide (Shiga/Kansai/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/shiga/nagahama/</link>
+	<description>Discover the best things to do in Nagahama, Japan, including top attractions, where to stay, and local customs. Plan your trip today with our detailed travel guide.</description>
+	<pubDate>2024-05-04T09:46:52+03:00</pubDate>
+</item><item>
 	<title>Matara Travel Guide (Southern Province/Sri Lanka/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/southern-province/matara/</link>
 	<description>Plan your perfect trip to Matara, Sri Lanka with our extensive guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/libya/sabha/</link>
 	<description>Plan your trip to Sabha, Libya with this comprehensive travel guide. Explore the best places to visit, food and drink scene, accommodations, safety and health, transportation options and more.</description>
 	<pubDate>2024-05-04T05:22:57+03:00</pubDate>
-</item><item>
-	<title>Nordseter Travel Guide (Gudbrandsdalen/Oppland/East Norway/Norway/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/oppland/gudbrandsdalen/nordseter/</link>
-	<description>A comprehensive travel guide on Nordseter, Norway, covering its attractions, activities, food, accommodations, and more.</description>
-	<pubDate>2024-05-04T04:48:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
