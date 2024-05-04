@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-04T04:17:50+03:00</pubDate>
-        <lastBuildDate>2024-05-04T04:17:50+03:00</lastBuildDate>
+        <pubDate>2024-05-04T04:48:05+03:00</pubDate>
+        <lastBuildDate>2024-05-04T04:48:05+03:00</lastBuildDate>
 
         <item>
+	<title>Nordseter Travel Guide (Gudbrandsdalen/Oppland/East Norway/Norway/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/oppland/gudbrandsdalen/nordseter/</link>
+	<description>A comprehensive travel guide on Nordseter, Norway, covering its attractions, activities, food, accommodations, and more.</description>
+	<pubDate>2024-05-04T04:48:05+03:00</pubDate>
+</item><item>
 	<title>Powell Travel Guide (Northwest Wyoming/Wyoming/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/wyoming/northwest-wyoming/powell/</link>
 	<description>Plan your trip to Powell, Wyoming with this comprehensive travel guide featuring must-visit attractions, hiking/biking routes, recommended activities, local cuisine, accommodations, cultural customs, safety tips, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/romania/oltenia/calafat/</link>
 	<description>A detailed travel guide for Calafat, Oltenia, Romania, including places to visit, things to do, food and drink, accommodations, local customs, safety tips, and transportation options.</description>
 	<pubDate>2024-05-04T00:24:02+03:00</pubDate>
-</item><item>
-	<title>Tunceli Travel Guide (Eastern Anatolia/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/eastern-anatolia/tunceli/</link>
-	<description>Discover the best places to visit, food to try, and things to do in Tunceli, Turkey. Learn about Tunceli's culture, customs, safety, and transportation options in this comprehensive guide.</description>
-	<pubDate>2024-05-03T23:37:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
