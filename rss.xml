@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T14:00:31+03:00</pubDate>
-        <lastBuildDate>2024-05-05T14:00:31+03:00</lastBuildDate>
+        <pubDate>2024-05-05T14:13:37+03:00</pubDate>
+        <lastBuildDate>2024-05-05T14:13:37+03:00</lastBuildDate>
 
         <item>
+	<title>Wiedensahl Travel Guide (Southern Lower Saxony/Lower Saxony/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/southern-lower-saxony/wiedensahl/</link>
+	<description>Plan your trip to Wiedensahl with this comprehensive travel guide, including top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-05T14:13:37+03:00</pubDate>
+</item><item>
 	<title>Agartala Travel Guide (Tripura/North-Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/tripura/agartala/</link>
 	<description>Plan a perfect trip to Agartala with our comprehensive travel guide featuring top tourist attractions, local food, best places to stay, and more. Read here!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/youngstown-warren-metropolitan-area/wellsville/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture in Wellsville, Ohio. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-05-05T09:34:54+03:00</pubDate>
-</item><item>
-	<title>Yaroslavl Travel Guide (Yaroslavl Oblast/Central Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/yaroslavl-oblast/yaroslavl/</link>
-	<description>Discover the top attractions, natural wonders, food and drink scene, where to stay, and more in Yaroslavl with this comprehensive travel guide.</description>
-	<pubDate>2024-05-05T09:12:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
