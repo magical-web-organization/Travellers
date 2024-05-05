@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T17:31:33+03:00</pubDate>
-        <lastBuildDate>2024-05-05T17:31:33+03:00</lastBuildDate>
+        <pubDate>2024-05-05T17:35:19+03:00</pubDate>
+        <lastBuildDate>2024-05-05T17:35:19+03:00</lastBuildDate>
 
         <item>
+	<title>Susunia Travel Guide (Rarh/West Bengal/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/rarh/susunia/</link>
+	<description>Discover the best attractions, activities, accommodations, and travel tips for your visit to Susunia, India.</description>
+	<pubDate>2024-05-05T17:35:19+03:00</pubDate>
+</item><item>
 	<title>Cotigao Wildlife Sanctuary Travel Guide (Canacona/South Goa/Goa/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/south-goa/canacona/cotigao-wildlife-sanctuary/</link>
 	<description>Explore the magic of the Cotigao Wildlife Sanctuary in South Goa with our comprehensive travel guide. Discover nature, history, food, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/maskinonge-region/saint-paulin/</link>
 	<description>Explore the culturally-rich and stunningly-beautiful Saint-Paulin with our comprehensive travel guide that covers the best places to visit, food to try, things to do, and everything in between!</description>
 	<pubDate>2024-05-05T13:24:59+03:00</pubDate>
-</item><item>
-	<title>Nome Travel Guide (Arctic Alaska/Alaska/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/nome/</link>
-	<description>Plan your trip to Nome, Arctic Alaska with this comprehensive travel guide. Discover the best places to visit, things to do, food and drink scene, where to stay, and how to get around in Nome</description>
-	<pubDate>2024-05-05T12:51:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
