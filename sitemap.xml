@@ -3,6 +3,14 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/asia/caucasus/south-ossetia/</loc>
+        <lastmod>2024-05-06T02:26:55+03:00</lastmod>
+    </url>
+    <url>
+        <loc>https://travellers.wiki/en/asia/caucasus/south-ossetia/tskhinvali/</loc>
+        <lastmod>2024-05-06T02:26:55+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/west-africa/guinea-bissau/varela/</loc>
         <lastmod>2024-05-06T01:36:02+03:00</lastmod>
     </url>
