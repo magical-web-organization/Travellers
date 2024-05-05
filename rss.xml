@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T06:05:31+03:00</pubDate>
-        <lastBuildDate>2024-05-05T06:05:31+03:00</lastBuildDate>
+        <pubDate>2024-05-05T06:51:49+03:00</pubDate>
+        <lastBuildDate>2024-05-05T06:51:49+03:00</lastBuildDate>
 
         <item>
+	<title>Kamala Travel Guide (Phuket/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/phuket/kamala/</link>
+	<description>Discover the best things to do, places to stay, and local culture of Kamala. Learn how to get there, what to buy, and where to go next from this ultimate tour guide.</description>
+	<pubDate>2024-05-05T06:51:49+03:00</pubDate>
+</item><item>
 	<title>Capitão Leonidas Marques Travel Guide (West/Paraná/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/parana/west/capitao-leonidas-marques/</link>
 	<description>Discover the best things to do, places to stay, and local culture of Capitão Leonidas Marques in this comprehensive travel guide. Read now to plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/western-north-dakota/center/</link>
 	<description>Plan your trip to Center, North Dakota with this comprehensive travel guide featuring places to visit, activities, accommodations, and local culture and customs. Learn about the best time to visit, transportation options, and nearby destinations.</description>
 	<pubDate>2024-05-05T02:33:08+03:00</pubDate>
-</item><item>
-	<title>Gostivar Travel Guide (Western North Macedonia/North Macedonia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/western-north-macedonia/gostivar/</link>
-	<description>Explore the culturally rich and naturally beautiful city of Gostivar in Western North Macedonia with our comprehensive guide. Discover the top places to visit, unique activities to try, delicious local cuisine to indulge in, and much more!</description>
-	<pubDate>2024-05-05T01:35:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
