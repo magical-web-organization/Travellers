@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T02:26:55+03:00</pubDate>
-        <lastBuildDate>2024-05-06T02:26:55+03:00</lastBuildDate>
+        <pubDate>2024-05-06T02:36:52+03:00</pubDate>
+        <lastBuildDate>2024-05-06T02:36:52+03:00</lastBuildDate>
 
         <item>
+	<title>Foley Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/foley/</link>
+	<description>Plan your trip to Foley, Minnesota with this comprehensive travel guide. Discover top attractions, hiking/biking routes, local cuisine, where to stay, and much more.</description>
+	<pubDate>2024-05-06T02:36:52+03:00</pubDate>
+</item><item>
 	<title>South Ossetia Travel Guide (Caucasus/Asia)</title>
 	<link>https://travellers.wiki/en/asia/caucasus/south-ossetia/</link>
 	<description>Plan your trip to South Ossetia with our comprehensive tour guide. Find out about the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/lower-northern-thailand/mae-sot/</link>
 	<description>Plan an unforgettable trip to Mae Sot with this comprehensive travel guide, including a list of things to do, where to stay, and safety tips.</description>
 	<pubDate>2024-05-05T22:12:17+03:00</pubDate>
-</item><item>
-	<title>Larnaca district Travel Guide (Cyprus/Europe)</title>
-	<link>https://travellers.wiki/en/europe/cyprus/larnaca-district/</link>
-	<description>Discover the best places to stay, eat, and visit in Larnaca district with this comprehensive travel guide. Get insider tips on local culture, customs, and activities to make the most of your trip.</description>
-	<pubDate>2024-05-05T21:42:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
