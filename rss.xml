@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T23:05:29+03:00</pubDate>
-        <lastBuildDate>2024-05-05T23:05:29+03:00</lastBuildDate>
+        <pubDate>2024-05-05T23:46:07+03:00</pubDate>
+        <lastBuildDate>2024-05-05T23:46:07+03:00</lastBuildDate>
 
         <item>
+	<title>Sri City Travel Guide (Rayalaseema/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/rayalaseema/sri-city/</link>
+	<description>Discover the best places to visit, food to try, activities to do, and more in Sri City, Andhra Pradesh. Our travel guide provides all the information you need for an unforgettable trip.</description>
+	<pubDate>2024-05-05T23:46:07+03:00</pubDate>
+</item><item>
 	<title>Green Valley Travel Guide (South Central Arizona/Arizona/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/south-central-arizona/green-valley/</link>
 	<description>Explore the rich cultural heritage, natural beauty, and adventure spots of Green Valley, Arizona with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/crete/chania-regional-unit/kissamos/</link>
 	<description>Get to know the best attractions, activities, food scenes, culture, and more in Kissamos, Greece.</description>
 	<pubDate>2024-05-05T19:30:40+03:00</pubDate>
-</item><item>
-	<title>Juan de Fuca Provincial Park Travel Guide (South Vancouver Island/Vancouver Island/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/south-vancouver-island/juan-de-fuca-provincial-park/</link>
-	<description>Discover the natural and cultural wonders of Juan de Fuca Provincial Park, along with useful tips and recommendations for an unforgettable visit.</description>
-	<pubDate>2024-05-05T18:48:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
