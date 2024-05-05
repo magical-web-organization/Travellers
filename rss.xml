@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T15:45:47+03:00</pubDate>
-        <lastBuildDate>2024-05-05T15:45:47+03:00</lastBuildDate>
+        <pubDate>2024-05-05T16:32:24+03:00</pubDate>
+        <lastBuildDate>2024-05-05T16:32:24+03:00</lastBuildDate>
 
         <item>
+	<title>Jebba Travel Guide (Kwara State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/jebba/</link>
+	<description>Discover Jebba, Nigeria with our comprehensive travel guide covering places to visit, where to stay, what to eat, culture and customs, safety and health, transportation, and nearby destinations.</description>
+	<pubDate>2024-05-05T16:32:24+03:00</pubDate>
+</item><item>
 	<title>Quezon Memorial Circle Travel Guide (Quezon City/Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/quezon-city/quezon-memorial-circle/</link>
 	<description>Discover the best things to see, do and eat in Quezon Memorial Circle. Explore museums, hiking & biking routes, local food, and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/calabria/isca-marina/</link>
 	<description>Discover the best things to do, places to stay, local culture, and transportation options in Isca Marina, Calabria, Italy with this comprehensive travel guide.</description>
 	<pubDate>2024-05-05T11:53:11+03:00</pubDate>
-</item><item>
-	<title>Ebbw Vale Travel Guide (Monmouthshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/monmouthshire/ebbw-vale/</link>
-	<description>Explore Ebbw Vale with our comprehensive travel guide featuring a list of places to visit, hiking/biking routes, best things to do, food and drink scene, local culture, safety, transportation, and nearby destinations.</description>
-	<pubDate>2024-05-05T11:11:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
