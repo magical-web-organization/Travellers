@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T12:30:12+03:00</pubDate>
-        <lastBuildDate>2024-05-05T12:30:12+03:00</lastBuildDate>
+        <pubDate>2024-05-05T12:51:54+03:00</pubDate>
+        <lastBuildDate>2024-05-05T12:51:54+03:00</lastBuildDate>
 
         <item>
+	<title>Nome Travel Guide (Arctic Alaska/Alaska/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/nome/</link>
+	<description>Plan your trip to Nome, Arctic Alaska with this comprehensive travel guide. Discover the best places to visit, things to do, food and drink scene, where to stay, and how to get around in Nome</description>
+	<pubDate>2024-05-05T12:51:54+03:00</pubDate>
+</item><item>
 	<title>Putbus Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/putbus/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Putbus, Germany. Plan your trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/agawam/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to Agawam, Massachusetts.</description>
 	<pubDate>2024-05-05T08:20:44+03:00</pubDate>
-</item><item>
-	<title>Manchester Travel Guide (Southern Vermont/Vermont/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/manchester/</link>
-	<description>Explore the culturally rich and natural wonders of Manchester with our comprehensive travel guide. Find the best places to visit, stay, and eat in this beautiful Vermont town.</description>
-	<pubDate>2024-05-05T07:39:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
