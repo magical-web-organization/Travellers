@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T16:55:49+03:00</pubDate>
-        <lastBuildDate>2024-05-05T16:55:49+03:00</lastBuildDate>
+        <pubDate>2024-05-05T17:31:33+03:00</pubDate>
+        <lastBuildDate>2024-05-05T17:31:33+03:00</lastBuildDate>
 
         <item>
+	<title>Cotigao Wildlife Sanctuary Travel Guide (Canacona/South Goa/Goa/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/south-goa/canacona/cotigao-wildlife-sanctuary/</link>
+	<description>Explore the magic of the Cotigao Wildlife Sanctuary in South Goa with our comprehensive travel guide. Discover nature, history, food, and more.</description>
+	<pubDate>2024-05-05T17:31:33+03:00</pubDate>
+</item><item>
 	<title>Dubois Travel Guide (Eastern Idaho/Idaho/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/eastern-idaho/dubois/</link>
 	<description>Explore the best of Dubois, Idaho with our comprehensive travel guide. Discover must-visit attractions, hiking and biking routes, food and drinks, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/nome/</link>
 	<description>Plan your trip to Nome, Arctic Alaska with this comprehensive travel guide. Discover the best places to visit, things to do, food and drink scene, where to stay, and how to get around in Nome</description>
 	<pubDate>2024-05-05T12:51:54+03:00</pubDate>
-</item><item>
-	<title>Putbus Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/putbus/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Putbus, Germany. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-05-05T12:30:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
