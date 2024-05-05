@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T14:13:37+03:00</pubDate>
-        <lastBuildDate>2024-05-05T14:13:37+03:00</lastBuildDate>
+        <pubDate>2024-05-05T15:01:19+03:00</pubDate>
+        <lastBuildDate>2024-05-05T15:01:19+03:00</lastBuildDate>
 
         <item>
+	<title>Saunders Island Travel Guide (Falkland Islands/South America)</title>
+	<link>https://travellers.wiki/en/south-america/falkland-islands/saunders-island/</link>
+	<description>Read this guide to explore the best things to do, places to visit, where to stay, and important information about Saunders Island, Falkland Islands.</description>
+	<pubDate>2024-05-05T15:01:19+03:00</pubDate>
+</item><item>
 	<title>Wiedensahl Travel Guide (Southern Lower Saxony/Lower Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/southern-lower-saxony/wiedensahl/</link>
 	<description>Plan your trip to Wiedensahl with this comprehensive travel guide, including top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/rickwood-caverns-state-park/</link>
 	<description>Discover the natural and cultural attractions, best things to do, where to stay, and safety tips at Rickwood Caverns State Park in Alabama, USA.</description>
 	<pubDate>2024-05-05T10:29:58+03:00</pubDate>
-</item><item>
-	<title>Wellsville Travel Guide (Youngstown-Warren Metropolitan Area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/youngstown-warren-metropolitan-area/wellsville/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and local culture in Wellsville, Ohio. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-05-05T09:34:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
