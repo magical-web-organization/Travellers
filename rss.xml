@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T00:41:20+03:00</pubDate>
-        <lastBuildDate>2024-05-06T00:41:20+03:00</lastBuildDate>
+        <pubDate>2024-05-06T01:20:14+03:00</pubDate>
+        <lastBuildDate>2024-05-06T01:20:14+03:00</lastBuildDate>
 
         <item>
+	<title>Hackettstown Travel Guide (Warren County/Skylands/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/warren-county/hackettstown/</link>
+	<description>Discover the best places to visit, things to do, and tips for staying safe during your trip to Hackettstown, New Jersey.</description>
+	<pubDate>2024-05-06T01:20:14+03:00</pubDate>
+</item><item>
 	<title>Nipawin Travel Guide (Northern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/northern-saskatchewan/nipawin/</link>
 	<description>Discover the top attractions, best things to do, where to stay, and more in Nipawin, Saskatchewan with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/borsod-abauj-zemplen-county/tokaj/</link>
 	<description>Discover the best cultural attractions, natural wonders, hiking routes, activities, food scene, where to stay, local customs, safety tips, transportation options, and nearby destinations in Tokaj, Hungary.</description>
 	<pubDate>2024-05-05T20:55:58+03:00</pubDate>
-</item><item>
-	<title>Porto das Dunas Travel Guide (Ceará/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/porto-das-dunas/</link>
-	<description>Plan your trip to Porto das Dunas with our comprehensive travel guide, featuring information on attractions, accommodations, food, transportation, and more.</description>
-	<pubDate>2024-05-05T20:22:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
