@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T18:22:34+03:00</pubDate>
-        <lastBuildDate>2024-05-05T18:22:34+03:00</lastBuildDate>
+        <pubDate>2024-05-05T18:48:03+03:00</pubDate>
+        <lastBuildDate>2024-05-05T18:48:03+03:00</lastBuildDate>
 
         <item>
+	<title>Juan de Fuca Provincial Park Travel Guide (South Vancouver Island/Vancouver Island/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/south-vancouver-island/juan-de-fuca-provincial-park/</link>
+	<description>Discover the natural and cultural wonders of Juan de Fuca Provincial Park, along with useful tips and recommendations for an unforgettable visit.</description>
+	<pubDate>2024-05-05T18:48:03+03:00</pubDate>
+</item><item>
 	<title>Donghai Island Travel Guide (Western Guangdong/Guangdong/South China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/western-guangdong/donghai-island/</link>
 	<description>Explore the best of Donghai Island with this comprehensive travel guide. Learn about the cultural attractions, natural wonders, food and drink scene, must-visit sights, and more in this South China gem.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/southern-lower-saxony/wiedensahl/</link>
 	<description>Plan your trip to Wiedensahl with this comprehensive travel guide, including top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-05-05T14:13:37+03:00</pubDate>
-</item><item>
-	<title>Agartala Travel Guide (Tripura/North-Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/tripura/agartala/</link>
-	<description>Plan a perfect trip to Agartala with our comprehensive travel guide featuring top tourist attractions, local food, best places to stay, and more. Read here!</description>
-	<pubDate>2024-05-05T14:00:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
