@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T21:32:06+03:00</pubDate>
-        <lastBuildDate>2024-05-05T21:32:06+03:00</lastBuildDate>
+        <pubDate>2024-05-05T21:42:09+03:00</pubDate>
+        <lastBuildDate>2024-05-05T21:42:09+03:00</lastBuildDate>
 
         <item>
+	<title>Larnaca district Travel Guide (Cyprus/Europe)</title>
+	<link>https://travellers.wiki/en/europe/cyprus/larnaca-district/</link>
+	<description>Discover the best places to stay, eat, and visit in Larnaca district with this comprehensive travel guide. Get insider tips on local culture, customs, and activities to make the most of your trip.</description>
+	<pubDate>2024-05-05T21:42:09+03:00</pubDate>
+</item><item>
 	<title>Ralik Travel Guide (Marshall Islands/Micronesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/micronesia/marshall-islands/ralik/</link>
 	<description>Planning a trip to Ralik, Marshall Islands? Our comprehensive travel guide covers everything you need to know about this hidden gem of Micronesia, from top attractions and outdoor adventures to food, culture, and transportation. Read on!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/south-goa/canacona/cotigao-wildlife-sanctuary/</link>
 	<description>Explore the magic of the Cotigao Wildlife Sanctuary in South Goa with our comprehensive travel guide. Discover nature, history, food, and more.</description>
 	<pubDate>2024-05-05T17:31:33+03:00</pubDate>
-</item><item>
-	<title>Dubois Travel Guide (Eastern Idaho/Idaho/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/eastern-idaho/dubois/</link>
-	<description>Explore the best of Dubois, Idaho with our comprehensive travel guide. Discover must-visit attractions, hiking and biking routes, food and drinks, where to stay, and more.</description>
-	<pubDate>2024-05-05T16:55:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
