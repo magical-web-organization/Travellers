@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T10:29:58+03:00</pubDate>
-        <lastBuildDate>2024-05-05T10:29:58+03:00</lastBuildDate>
+        <pubDate>2024-05-05T10:36:40+03:00</pubDate>
+        <lastBuildDate>2024-05-05T10:36:40+03:00</lastBuildDate>
 
         <item>
+	<title>Longbranch Travel Guide (Kitsap Peninsula/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/longbranch/</link>
+	<description>Explore Longbranch, a hidden gem in Kitsap Peninsula, Washington. Discover culturally significant museums, breathtaking natural attractions, and unforgettable experiences.</description>
+	<pubDate>2024-05-05T10:36:40+03:00</pubDate>
+</item><item>
 	<title>Rickwood Caverns State Park Travel Guide (Mountains/Alabama/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/rickwood-caverns-state-park/</link>
 	<description>Discover the natural and cultural attractions, best things to do, where to stay, and safety tips at Rickwood Caverns State Park in Alabama, USA.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/south/parana/west/capitao-leonidas-marques/</link>
 	<description>Discover the best things to do, places to stay, and local culture of Capitão Leonidas Marques in this comprehensive travel guide. Read now to plan your trip.</description>
 	<pubDate>2024-05-05T06:05:31+03:00</pubDate>
-</item><item>
-	<title>Tholen Travel Guide (Zeeland/Southern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/zeeland/tholen/</link>
-	<description>Discover the best things to do, places to visit, and local culture of Tholen, Netherlands with this comprehensive travel guide.</description>
-	<pubDate>2024-05-05T05:49:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
