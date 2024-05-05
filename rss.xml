@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T04:53:18+03:00</pubDate>
-        <lastBuildDate>2024-05-05T04:53:18+03:00</lastBuildDate>
+        <pubDate>2024-05-05T05:12:31+03:00</pubDate>
+        <lastBuildDate>2024-05-05T05:12:31+03:00</lastBuildDate>
 
         <item>
+	<title>Kilcunda Travel Guide (South and West Gippsland/Gippsland/Victoria (state)/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/victoria-state/gippsland/south-and-west-gippsland/kilcunda/</link>
+	<description>Explore the culturally significant and natural beauty of Kilcunda through this ultimate travel guide. Learn about the best places to visit, stay, eat, and shop in Kilcunda and the safety measures you should take while visiting this picturesque location.</description>
+	<pubDate>2024-05-05T05:12:31+03:00</pubDate>
+</item><item>
 	<title>Chocorua Travel Guide (Lakes Region/New Hampshire/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/lakes-region/chocorua/</link>
 	<description>Planning a trip to Chocorua, New Hampshire? This guide covers all the must-visit attractions, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/akwa-ibom-state/nsit-ibom/</link>
 	<description>Explore the best of Nsit Ibom, Nigeria with our comprehensive travel guide. From outdoor adventures to cultural attractions, we have you covered with everything you need to know about this beautiful destination.</description>
 	<pubDate>2024-05-05T00:46:03+03:00</pubDate>
-</item><item>
-	<title>Merikarvia Travel Guide (Satakunta/West Coast/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/satakunta/merikarvia/</link>
-	<description>Plan your trip to Merikarvia with our comprehensive travel guide. Explore the natural and cultural attractions, food scene, accommodations, local customs, and more.</description>
-	<pubDate>2024-05-05T00:13:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
