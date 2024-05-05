@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-05T07:14:15+03:00</pubDate>
-        <lastBuildDate>2024-05-05T07:14:15+03:00</lastBuildDate>
+        <pubDate>2024-05-05T07:39:31+03:00</pubDate>
+        <lastBuildDate>2024-05-05T07:39:31+03:00</lastBuildDate>
 
         <item>
+	<title>Manchester Travel Guide (Southern Vermont/Vermont/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/manchester/</link>
+	<description>Explore the culturally rich and natural wonders of Manchester with our comprehensive travel guide. Find the best places to visit, stay, and eat in this beautiful Vermont town.</description>
+	<pubDate>2024-05-05T07:39:31+03:00</pubDate>
+</item><item>
 	<title>Shingo Travel Guide (Aomori (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/aomori-prefecture/shingo/</link>
 	<description>Plan your trip to Shingo, Aomori with our comprehensive travel guide featuring top tourist attractions, hiking routes, things to do, where to stay, what to buy, local culture, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/southwest-virginia/vinton/</link>
 	<description>Discover the best things to do, places to stay, and where to eat in Vinton, Virginia with this comprehensive travel guide.</description>
 	<pubDate>2024-05-05T03:09:11+03:00</pubDate>
-</item><item>
-	<title>Aberdare National Park Travel Guide (Southern Rift Valley/Kenya/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/kenya/southern-rift-valley/aberdare-national-park/</link>
-	<description>Explore Kenya's Aberdare National Park with this comprehensive travel guide. Discover the best things to do, where to go, what to eat, and when to visit.</description>
-	<pubDate>2024-05-05T03:01:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
