@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T20:40:12+03:00</pubDate>
-        <lastBuildDate>2024-05-06T20:40:12+03:00</lastBuildDate>
+        <pubDate>2024-05-06T21:29:19+03:00</pubDate>
+        <lastBuildDate>2024-05-06T21:29:19+03:00</lastBuildDate>
 
         <item>
+	<title>Ladybrand Travel Guide (Free State/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/free-state/ladybrand/</link>
+	<description>Discover the best things to do, places to visit, and local culture and customs of Ladybrand in this comprehensive travel guide. Get tips on where to stay, what to eat, and how to get around, and plan an unforgettable trip to this charming town in Free State, South Africa.</description>
+	<pubDate>2024-05-06T21:29:19+03:00</pubDate>
+</item><item>
 	<title>Eger Travel Guide (Heves County/Northern Hungary/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/heves-county/eger/</link>
 	<description>Explore the charming city of Eger with our comprehensive guide. From historical landmarks to outdoor adventures, this guide has everything you need to plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/badlapur/</link>
 	<description>A comprehensive travel guide to Badlapur, including places to visit, hiking/biking routes, things to do, food and drink scene, where to stay, local culture and customs, safety, and transportation options.</description>
 	<pubDate>2024-05-06T15:51:42+03:00</pubDate>
-</item><item>
-	<title>Penarth Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/penarth/</link>
-	<description>Discover the best things to do, see, eat and stay in Penarth, Wales with our comprehensive travel guide. Plan your Welsh adventure with helpful tips and suggestions.</description>
-	<pubDate>2024-05-06T15:04:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
