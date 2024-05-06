@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T10:26:02+03:00</pubDate>
-        <lastBuildDate>2024-05-06T10:26:02+03:00</lastBuildDate>
+        <pubDate>2024-05-06T10:48:48+03:00</pubDate>
+        <lastBuildDate>2024-05-06T10:48:48+03:00</lastBuildDate>
 
         <item>
+	<title>Agbara Travel Guide (Ogun State/South West Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ogun-state/agbara/</link>
+	<description>Plan your trip to Agbara, Nigeria with this extensive travel guide which includes information on places to visit, hiking/biking routes, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-06T10:48:48+03:00</pubDate>
+</item><item>
 	<title>Solomons Travel Guide (Southern Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/southern-maryland/solomons/</link>
 	<description>Plan your trip to Solomons, Maryland with this comprehensive travel guide. Discover the top attractions, best places to stay, and how to get around in Solomons.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/northern-territory/top-end/kakadu-national-park/</link>
 	<description>Plan your trip to Kakadu National Park with this comprehensive travel guide. Learn about the best places to visit, hiking routes, food and drink scene, where to stay, local culture and customs, safety and health.</description>
 	<pubDate>2024-05-06T06:24:07+03:00</pubDate>
-</item><item>
-	<title>Peso da Régua Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/peso-da-regua/</link>
-	<description>Plan your ultimate trip to Peso da Régua in Northern Portugal with this comprehensive travel guide. Discover the must-see attractions, popular activities, where to stay, and local customs.</description>
-	<pubDate>2024-05-06T06:02:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
