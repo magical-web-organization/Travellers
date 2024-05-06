@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T19:21:04+03:00</pubDate>
-        <lastBuildDate>2024-05-06T19:21:04+03:00</lastBuildDate>
+        <pubDate>2024-05-06T19:57:28+03:00</pubDate>
+        <lastBuildDate>2024-05-06T19:57:28+03:00</lastBuildDate>
 
         <item>
+	<title>Campos Gerais do Paraná Travel Guide (Paraná/South/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/south/parana/campos-gerais-do-parana/</link>
+	<description>Discover the best things to do in Campos Gerais do Paraná, including must-visit attractions, food and drink scene, where to stay, safety information, and more.</description>
+	<pubDate>2024-05-06T19:57:28+03:00</pubDate>
+</item><item>
 	<title>Itatiaia National Park Travel Guide (Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/itatiaia-national-park/</link>
 	<description>A comprehensive travel guide for Itatiaia National Park in Brazil, including places to visit, things to do, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/central-africa/republic-of-the-congo/cuvette/</link>
 	<description>Discover Cuvette in the Republic of the Congo with this comprehensive travel guide. From natural attractions to cultural landmarks, find out how to explore this Central African gem.</description>
 	<pubDate>2024-05-06T14:07:12+03:00</pubDate>
-</item><item>
-	<title>Puerto Varas Travel Guide (Los Lagos/Southern Chile/Chile/South America)</title>
-	<link>https://travellers.wiki/en/south-america/chile/southern-chile/los-lagos/puerto-varas/</link>
-	<description>Plan your ultimate trip to Puerto Varas, a charming town in Southern Chile, with our comprehensive guide. From outdoor adventure to cultural exploration, we cover it all.</description>
-	<pubDate>2024-05-06T13:48:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
