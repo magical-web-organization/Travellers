@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T17:47:10+03:00</pubDate>
-        <lastBuildDate>2024-05-06T17:47:10+03:00</lastBuildDate>
+        <pubDate>2024-05-06T18:08:15+03:00</pubDate>
+        <lastBuildDate>2024-05-06T18:08:15+03:00</lastBuildDate>
 
         <item>
+	<title>Springdale Travel Guide (Ozarks/Arkansas/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/ozarks/springdale/</link>
+	<description>Discover the must-visit attractions, hiking/biking routes, food and drink scene, where to stay, and more in Springdale, Arkansas with this comprehensive travel guide.</description>
+	<pubDate>2024-05-06T18:08:15+03:00</pubDate>
+</item><item>
 	<title>Sucre Travel Guide (Northeast/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/northeast/sucre/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Sucre, Venezuela. Read this comprehensive travel guide before planning your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/central-vermont/waitsfield/</link>
 	<description>Discover the best places to visit, things to do, and local tips for your Waitsfield trip. Explore the unique culture and natural beauty of this charming Vermont town.</description>
 	<pubDate>2024-05-06T12:50:57+03:00</pubDate>
-</item><item>
-	<title>Yarmouth Travel Guide (Mid Cape/Cape Cod/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/mid-cape/yarmouth/</link>
-	<description>Discover the best things to do, places to visit, food to try, and more with our ultimate travel guide to Yarmouth, Cape Cod.</description>
-	<pubDate>2024-05-06T12:23:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
