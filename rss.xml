@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T19:57:28+03:00</pubDate>
-        <lastBuildDate>2024-05-06T19:57:28+03:00</lastBuildDate>
+        <pubDate>2024-05-06T20:21:49+03:00</pubDate>
+        <lastBuildDate>2024-05-06T20:21:49+03:00</lastBuildDate>
 
         <item>
+	<title>Lassen Volcanic National Park Travel Guide (Shasta Cascades/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/lassen-volcanic-national-park/</link>
+	<description>Discover the natural beauty, cultural significance, and outdoor recreation opportunities of Lassen Volcanic National Park in California through this detailed travel guide.</description>
+	<pubDate>2024-05-06T20:21:49+03:00</pubDate>
+</item><item>
 	<title>Campos Gerais do Paraná Travel Guide (Paraná/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/parana/campos-gerais-do-parana/</link>
 	<description>Discover the best things to do in Campos Gerais do Paraná, including must-visit attractions, food and drink scene, where to stay, safety information, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/quezon-province/lucena/</link>
 	<description>Plan your trip to Lucena, Philippines with this comprehensive travel guide featuring top attractions, best places to stay and eat, local culture and customs, and more.</description>
 	<pubDate>2024-05-06T15:01:20+03:00</pubDate>
-</item><item>
-	<title>Cuvette Travel Guide (Republic of the Congo/Central Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/central-africa/republic-of-the-congo/cuvette/</link>
-	<description>Discover Cuvette in the Republic of the Congo with this comprehensive travel guide. From natural attractions to cultural landmarks, find out how to explore this Central African gem.</description>
-	<pubDate>2024-05-06T14:07:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
