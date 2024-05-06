@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-06T04:46:34+03:00</pubDate>
-        <lastBuildDate>2024-05-06T04:46:34+03:00</lastBuildDate>
+        <pubDate>2024-05-06T05:15:05+03:00</pubDate>
+        <lastBuildDate>2024-05-06T05:15:05+03:00</lastBuildDate>
 
         <item>
+	<title>Abusir Travel Guide (Lower Egypt/Egypt/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/abusir/</link>
+	<description>Explore the culturally and naturally rich Abusir with our comprehensive travel guide. Discover top things to do including outdoor adventures, historical museums, and more.</description>
+	<pubDate>2024-05-06T05:15:05+03:00</pubDate>
+</item><item>
 	<title>Boyabat Travel Guide (Western Karadeniz/Black Sea Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/black-sea-turkey/western-karadeniz/boyabat/</link>
 	<description>Discover Boyabat, a hidden gem in the Western Karadeniz region of Turkey, and explore its culturally important attractions, natural wonders, hiking and biking routes, local food scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/northern-saskatchewan/nipawin/</link>
 	<description>Discover the top attractions, best things to do, where to stay, and more in Nipawin, Saskatchewan with our comprehensive travel guide.</description>
 	<pubDate>2024-05-06T00:41:20+03:00</pubDate>
-</item><item>
-	<title>Niedzica Travel Guide (Małopolskie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/niedzica/</link>
-	<description>Plan your trip to Niedzica, Poland with our comprehensive travel guide. Find itineraries, places to visit, food and drink scene, accommodations, and more.</description>
-	<pubDate>2024-05-06T00:25:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
