@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T10:52:17+03:00</pubDate>
-        <lastBuildDate>2024-05-07T10:52:17+03:00</lastBuildDate>
+        <pubDate>2024-05-07T11:33:11+03:00</pubDate>
+        <lastBuildDate>2024-05-07T11:33:11+03:00</lastBuildDate>
 
         <item>
+	<title>Broken Hill Travel Guide (Far West/Outback New South Wales/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/far-west/broken-hill/</link>
+	<description>Broken Hill is one of the largest outback cities in New South Wales and is renowned for its history, mining culture, and heritage buildings. Here is a comprehensive guide to Broken Hill, including the best things to do, places to visit, where to stay, and more.</description>
+	<pubDate>2024-05-07T11:33:11+03:00</pubDate>
+</item><item>
 	<title>Ohrigstad Travel Guide (Mpumalanga/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/mpumalanga/ohrigstad/</link>
 	<description>Explore the beauty of Ohrigstad, Mpumalanga with our comprehensive travel guide. Discover the best attractions, hiking trails, activities, local culture, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/western-tasmania/devonport/</link>
 	<description>Explore the best of Devonport with this comprehensive travel guide, featuring the top attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-05-06T22:04:31+03:00</pubDate>
-</item><item>
-	<title>Bothnian Sea National Park Travel Guide (West Coast/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/bothnian-sea-national-park/</link>
-	<description>Plan your trip to Bothnian Sea National Park with our comprehensive travel guide. Learn about its attractions, activities, accommodations, and more!</description>
-	<pubDate>2024-05-06T21:55:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
