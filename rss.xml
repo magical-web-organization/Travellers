@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T17:53:02+03:00</pubDate>
-        <lastBuildDate>2024-05-07T17:53:02+03:00</lastBuildDate>
+        <pubDate>2024-05-07T18:25:01+03:00</pubDate>
+        <lastBuildDate>2024-05-07T18:25:01+03:00</lastBuildDate>
 
         <item>
+	<title>Gunzenhausen Travel Guide (Middle Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/gunzenhausen/</link>
+	<description>Looking for a travel guide to Gunzenhausen, Germany? Look no further! In this guide, you'll find everything you need to know to plan your visit, from places to visit to where to stay and what to eat.</description>
+	<pubDate>2024-05-07T18:25:01+03:00</pubDate>
+</item><item>
 	<title>Tuzla Travel Guide (Northeastern Bosnia/Bosnia and Herzegovina/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/northeastern-bosnia/tuzla/</link>
 	<description>Explore the culturally rich city of Tuzla with this comprehensive guide, featuring must-visit places, hiking/biking routes, activities, food and drink scene, accommodations, local culture and customs, safety, transportation options, nearby destinations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/wenchuan/</link>
 	<description>Discover the best things to do, places to stay, food to try, and cultural experiences to have in Wenchuan, Sichuan, China with this comprehensive travel guide.</description>
 	<pubDate>2024-05-07T13:48:21+03:00</pubDate>
-</item><item>
-	<title>Mountain View Travel Guide (Southwest Missouri/Missouri/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/southwest-missouri/mountain-view/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Mountain View, Missouri with our comprehensive travel guide.</description>
-	<pubDate>2024-05-07T13:33:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
