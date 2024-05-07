@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T19:28:05+03:00</pubDate>
-        <lastBuildDate>2024-05-07T19:28:05+03:00</lastBuildDate>
+        <pubDate>2024-05-07T20:00:25+03:00</pubDate>
+        <lastBuildDate>2024-05-07T20:00:25+03:00</lastBuildDate>
 
         <item>
+	<title>Kannur Travel Guide (Kannur District/Malabar/Kerala/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kannur-district/kannur/</link>
+	<description>Discover the top places to visit, food and drink scene, where to stay, and everything you need to know about the local culture and customs of Kannur in this comprehensive travel guide.</description>
+	<pubDate>2024-05-07T20:00:25+03:00</pubDate>
+</item><item>
 	<title>Carrabelle Travel Guide (Forgotten Coast/Florida Panhandle/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-panhandle/forgotten-coast/carrabelle/</link>
 	<description>Planning a trip to Carrabelle, Florida? Check out this comprehensive travel guide for tips on where to stay, what to do, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/hamilton-county/montgomery/</link>
 	<description>Explore Montgomery with our comprehensive travel guide. Discover the best places to visit, eat, stay, and more. Plan your trip with our itineraries, transportation options, and local insights.</description>
 	<pubDate>2024-05-07T15:31:02+03:00</pubDate>
-</item><item>
-	<title>Lumpkin Travel Guide (Classic Heartland of Georgia/Georgia (state)/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/classic-heartland-of-georgia/lumpkin/</link>
-	<description>Discover the culturally and naturally rich land of Lumpkin, Georgia. Our travel guide provides a list of must-see places, exciting activities, and more.</description>
-	<pubDate>2024-05-07T15:00:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
