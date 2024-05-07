@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T18:25:01+03:00</pubDate>
-        <lastBuildDate>2024-05-07T18:25:01+03:00</lastBuildDate>
+        <pubDate>2024-05-07T18:54:38+03:00</pubDate>
+        <lastBuildDate>2024-05-07T18:54:38+03:00</lastBuildDate>
 
         <item>
+	<title>La Grange Travel Guide (Western Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/la-grange/</link>
+	<description>Explore the best of La Grange with this travel guide. Discover top attractions, hiking/biking routes, food, accommodation options, and nearby destinations.</description>
+	<pubDate>2024-05-07T18:54:38+03:00</pubDate>
+</item><item>
 	<title>Gunzenhausen Travel Guide (Middle Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/gunzenhausen/</link>
 	<description>Looking for a travel guide to Gunzenhausen, Germany? Look no further! In this guide, you'll find everything you need to know to plan your visit, from places to visit to where to stay and what to eat.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sacramento-valley/yuba-county/</link>
 	<description>Discover the best places to visit, things to do, hiking and biking routes, local culture, and more in Yuba County, California.</description>
 	<pubDate>2024-05-07T14:23:07+03:00</pubDate>
-</item><item>
-	<title>Wenchuan Travel Guide (Aba (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/wenchuan/</link>
-	<description>Discover the best things to do, places to stay, food to try, and cultural experiences to have in Wenchuan, Sichuan, China with this comprehensive travel guide.</description>
-	<pubDate>2024-05-07T13:48:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
