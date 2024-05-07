@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T20:59:30+03:00</pubDate>
-        <lastBuildDate>2024-05-07T20:59:30+03:00</lastBuildDate>
+        <pubDate>2024-05-07T21:26:35+03:00</pubDate>
+        <lastBuildDate>2024-05-07T21:26:35+03:00</lastBuildDate>
 
         <item>
+	<title>Turkmenbashi Travel Guide (Balkan Province/Turkmenistan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/turkmenistan/balkan-province/turkmenbashi/</link>
+	<description>Plan your visit to Turkmenbashi with this detailed travel guide, complete with information on where to stay, what to see and do, and cultural tips.</description>
+	<pubDate>2024-05-07T21:26:35+03:00</pubDate>
+</item><item>
 	<title>Menzies Travel Guide (Goldfields-Esperance/Western Australia/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/western-australia/goldfields-esperance/menzies/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Menzies, Western Australia. Plan your trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/zachodniopomorskie/mielno/</link>
 	<description>This travel guide provides an in-depth overview of Mielno, including best places to visit, things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-05-07T16:52:17+03:00</pubDate>
-</item><item>
-	<title>Husseren-les-Châteaux Travel Guide (Grand Est/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/grand-est/husseren-les-chateaux/</link>
-	<description>Discover the best attractions, hiking routes, food and drink scene, and local culture in Husseren-les-Châteaux, France.</description>
-	<pubDate>2024-05-07T16:11:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
