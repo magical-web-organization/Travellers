@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T21:26:35+03:00</pubDate>
-        <lastBuildDate>2024-05-07T21:26:35+03:00</lastBuildDate>
+        <pubDate>2024-05-07T21:43:15+03:00</pubDate>
+        <lastBuildDate>2024-05-07T21:43:15+03:00</lastBuildDate>
 
         <item>
+	<title>Nat Ma Taung (Mount Victoria) Travel Guide (Central Myanmar/Myanmar/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/central-myanmar/nat-ma-taung-mount-victoria/</link>
+	<description>A complete travel guide to Nat Ma Taung (Mount Victoria) including where to stay, what to do, and how to get there.</description>
+	<pubDate>2024-05-07T21:43:15+03:00</pubDate>
+</item><item>
 	<title>Turkmenbashi Travel Guide (Balkan Province/Turkmenistan/Central Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/central-asia/turkmenistan/balkan-province/turkmenbashi/</link>
 	<description>Plan your visit to Turkmenbashi with this detailed travel guide, complete with information on where to stay, what to see and do, and cultural tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/west-central-michigan/coldwater/</link>
 	<description>Get the ultimate travel experience in Coldwater, Michigan. Discover museums, outdoor adventures, activities, food and drink scene, and more.</description>
 	<pubDate>2024-05-07T17:15:02+03:00</pubDate>
-</item><item>
-	<title>Mielno Travel Guide (Zachodniopomorskie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/zachodniopomorskie/mielno/</link>
-	<description>This travel guide provides an in-depth overview of Mielno, including best places to visit, things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
-	<pubDate>2024-05-07T16:52:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
