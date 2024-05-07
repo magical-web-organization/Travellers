@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T20:17:23+03:00</pubDate>
-        <lastBuildDate>2024-05-07T20:17:23+03:00</lastBuildDate>
+        <pubDate>2024-05-07T20:59:30+03:00</pubDate>
+        <lastBuildDate>2024-05-07T20:59:30+03:00</lastBuildDate>
 
         <item>
+	<title>Menzies Travel Guide (Goldfields-Esperance/Western Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/western-australia/goldfields-esperance/menzies/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Menzies, Western Australia. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-05-07T20:59:30+03:00</pubDate>
+</item><item>
 	<title>Kabardino-Balkaria Travel Guide (North Caucasus/Southern Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/north-caucasus/kabardino-balkaria/</link>
 	<description>Explore the cultural and natural treasures of Kabardino-Balkaria in Southern Russia. Discover the top attractions, food, accommodations, and transportation options in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/grand-est/husseren-les-chateaux/</link>
 	<description>Discover the best attractions, hiking routes, food and drink scene, and local culture in Husseren-les-Châteaux, France.</description>
 	<pubDate>2024-05-07T16:11:05+03:00</pubDate>
-</item><item>
-	<title>Mid and South Canterbury Travel Guide (Canterbury/South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/canterbury/mid-and-south-canterbury/</link>
-	<description>This comprehensive travel guide will take you through the beautiful Mid and South Canterbury in New Zealand, highlighting the best places to visit, the must-try dishes, and the cultural customs, along with tips to travel around and stay safe.</description>
-	<pubDate>2024-05-07T15:49:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
