@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-07T22:50:29+03:00</pubDate>
-        <lastBuildDate>2024-05-07T22:50:29+03:00</lastBuildDate>
+        <pubDate>2024-05-07T23:19:21+03:00</pubDate>
+        <lastBuildDate>2024-05-07T23:19:21+03:00</lastBuildDate>
 
         <item>
+	<title>Tenom Travel Guide (Sabah/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sabah/tenom/</link>
+	<description>Discover the best attractions, activities, culture, and food in Tenom, Sabah, Malaysia. Plan your trip with our comprehensive Tenom travel guide.</description>
+	<pubDate>2024-05-07T23:19:21+03:00</pubDate>
+</item><item>
 	<title>Ilkley Travel Guide (West Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/west-yorkshire/ilkley/</link>
 	<description>Read this comprehensive guide to discover the best places to visit, things to do, hiking and biking routes, and much more in Ilkley, West Yorkshire.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/la-grange/</link>
 	<description>Explore the best of La Grange with this travel guide. Discover top attractions, hiking/biking routes, food, accommodation options, and nearby destinations.</description>
 	<pubDate>2024-05-07T18:54:38+03:00</pubDate>
-</item><item>
-	<title>Gunzenhausen Travel Guide (Middle Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/gunzenhausen/</link>
-	<description>Looking for a travel guide to Gunzenhausen, Germany? Look no further! In this guide, you'll find everything you need to know to plan your visit, from places to visit to where to stay and what to eat.</description>
-	<pubDate>2024-05-07T18:25:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
