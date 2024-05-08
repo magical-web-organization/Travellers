@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T22:38:49+03:00</pubDate>
-        <lastBuildDate>2024-05-08T22:38:49+03:00</lastBuildDate>
+        <pubDate>2024-05-08T23:07:58+03:00</pubDate>
+        <lastBuildDate>2024-05-08T23:07:58+03:00</lastBuildDate>
 
         <item>
+	<title>Grafton Travel Guide (Red River Valley/North Dakota/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/red-river-valley/grafton/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Grafton, North Dakota, and learn about its culture and customs, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-05-08T23:07:58+03:00</pubDate>
+</item><item>
 	<title>Chuo Alps Travel Guide (Nagano (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/chuo-alps/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Chuo Alps, Japan. Read our comprehensive guide to plan your perfect trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/kansas-city-area/kansas-city/</link>
 	<description>Discover all the top attractions, things to do, places to stay, and more with this comprehensive travel guide for Kansas City.</description>
 	<pubDate>2024-05-08T18:40:10+03:00</pubDate>
-</item><item>
-	<title>Nkhata Bay Travel Guide (Northern Malawi/Malawi/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/malawi/northern-malawi/nkhata-bay/</link>
-	<description>Discover the best places to visit, how to get around, where to stay, and local customs of Nkhata Bay in this comprehensive travel guide.</description>
-	<pubDate>2024-05-08T18:27:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
