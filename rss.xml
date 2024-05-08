@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T06:14:47+03:00</pubDate>
-        <lastBuildDate>2024-05-08T06:14:47+03:00</lastBuildDate>
+        <pubDate>2024-05-08T06:47:48+03:00</pubDate>
+        <lastBuildDate>2024-05-08T06:47:48+03:00</lastBuildDate>
 
         <item>
+	<title>Abersoch Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/abersoch/</link>
+	<description>Discover the best things to do in Abersoch and get practical information on transportation, accommodations, food and drink, and more.</description>
+	<pubDate>2024-05-08T06:47:48+03:00</pubDate>
+</item><item>
 	<title>Cummington Travel Guide (Pioneer Valley/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/cummington/</link>
 	<description>Explore the best attractions, activities, and culture of Cummington, Massachusetts, with this comprehensive travel guide. Learn about museums, outdoor adventures, local cuisine, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southcentral-alaska/kenai-fjords-national-park/</link>
 	<description>Explore Kenai Fjords National Park with this travel guide featuring a list of places to visit, food and drink scene, hiking and biking routes, safety tips and more.</description>
 	<pubDate>2024-05-08T02:06:24+03:00</pubDate>
-</item><item>
-	<title>Blue Island Travel Guide (South Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/south-suburbs/blue-island/</link>
-	<description>Explore the culturally rich and naturally vibrant Blue Island with our comprehensive travel guide. Discover the best things to see and do, where to stay, what to eat and drink, and much more!</description>
-	<pubDate>2024-05-08T01:36:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
