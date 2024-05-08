@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T00:21:35+03:00</pubDate>
-        <lastBuildDate>2024-05-09T00:21:35+03:00</lastBuildDate>
+        <pubDate>2024-05-09T00:58:36+03:00</pubDate>
+        <lastBuildDate>2024-05-09T00:58:36+03:00</lastBuildDate>
 
         <item>
+	<title>Snyder Travel Guide (Llano Estacado/Texas Panhandle/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/llano-estacado/snyder/</link>
+	<description>Discover the cultural, natural, and gastronomic wonders of Snyder, a hidden gem in Texas Panhandle. Read on to find out all the top things to do, see and taste in Snyder, including a detailed itinerary, safety tips, and transportation options.</description>
+	<pubDate>2024-05-09T00:58:36+03:00</pubDate>
+</item><item>
 	<title>Mimaropa Travel Guide (Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mimaropa/</link>
 	<description>Discover the beauty of Mimaropa through this comprehensive tour guide. Learn about the list of places to visit, hiking and biking routes, food and drink scene, local culture, safety and health, and other travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/extremadura/</link>
 	<description>Explore the stunning natural landscapes, rich history, and vibrant culture of Extremadura with our comprehensive travel guide. From must-visit attractions to top hiking and biking routes, we've got you covered.</description>
 	<pubDate>2024-05-08T20:07:55+03:00</pubDate>
-</item><item>
-	<title>Uniontown Travel Guide (Laurel Highlands/Pittsburgh Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/laurel-highlands/uniontown/</link>
-	<description>This comprehensive travel guide to Uniontown in Pennsylvania covers everything you need to know about the city's history, culture, attractions, food scene, and local customs, along with tips on transportation, safety, and nearby excursions.</description>
-	<pubDate>2024-05-08T19:54:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
