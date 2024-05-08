@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T21:38:41+03:00</pubDate>
-        <lastBuildDate>2024-05-08T21:38:41+03:00</lastBuildDate>
+        <pubDate>2024-05-08T22:20:30+03:00</pubDate>
+        <lastBuildDate>2024-05-08T22:20:30+03:00</lastBuildDate>
 
         <item>
+	<title>Pangmapha Travel Guide (Mae Hong Son Province/Northern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/mae-hong-son-province/pangmapha/</link>
+	<description>Discover the natural and cultural attractions of Pangmapha, with our comprehensive guide to this stunning location in Northern Thailand. From outdoor adventures to local cuisine, we have everything you need for an unforgettable trip.</description>
+	<pubDate>2024-05-08T22:20:30+03:00</pubDate>
+</item><item>
 	<title>Wemotaci Travel Guide (La Tuque Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/wemotaci/</link>
 	<description>Discover the best things to do, places to visit, food and drink scene, where to stay, and local culture and customs of Wemotaci, Quebec. Learn about safety and health measures, transportation, and nearby destinations in this travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/orlu/</link>
 	<description>Planning a trip to Orlu, Nigeria? Check out our comprehensive travel guide for the best things to do, places to visit, where to stay, and more.</description>
 	<pubDate>2024-05-08T17:48:16+03:00</pubDate>
-</item><item>
-	<title>Southern Alps Travel Guide (South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/southern-alps/</link>
-	<description>A comprehensive travel guide to Southern Alps in New Zealand. Discover the best places to visit, cultural attractions, natural wonders, hiking routes, food and drink scene, and more.</description>
-	<pubDate>2024-05-08T17:11:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
