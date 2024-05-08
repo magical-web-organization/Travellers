@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T05:49:20+03:00</pubDate>
-        <lastBuildDate>2024-05-08T05:49:20+03:00</lastBuildDate>
+        <pubDate>2024-05-08T06:14:47+03:00</pubDate>
+        <lastBuildDate>2024-05-08T06:14:47+03:00</lastBuildDate>
 
         <item>
+	<title>Cummington Travel Guide (Pioneer Valley/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/cummington/</link>
+	<description>Explore the best attractions, activities, and culture of Cummington, Massachusetts, with this comprehensive travel guide. Learn about museums, outdoor adventures, local cuisine, where to stay, and more.</description>
+	<pubDate>2024-05-08T06:14:47+03:00</pubDate>
+</item><item>
 	<title>Neusiedl am See Travel Guide (Burgenland/Austria/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/austria/burgenland/neusiedl-am-see/</link>
 	<description>Discover the best things to do in Neusiedl am See with our comprehensive travel guide to Neusiedl am See. We cover everything from must-see attractions to local culture and customs, to help you plan your perfect trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/south-suburbs/blue-island/</link>
 	<description>Explore the culturally rich and naturally vibrant Blue Island with our comprehensive travel guide. Discover the best things to see and do, where to stay, what to eat and drink, and much more!</description>
 	<pubDate>2024-05-08T01:36:14+03:00</pubDate>
-</item><item>
-	<title>Bee Cave Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/bee-cave/</link>
-	<description>Discover the best attractions and things to do in Bee Cave, Texas, along with lodging and dining options, transportation tips, and more!</description>
-	<pubDate>2024-05-08T01:22:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
