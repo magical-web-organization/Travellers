@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T11:57:44+03:00</pubDate>
-        <lastBuildDate>2024-05-08T11:57:44+03:00</lastBuildDate>
+        <pubDate>2024-05-08T12:11:02+03:00</pubDate>
+        <lastBuildDate>2024-05-08T12:11:02+03:00</lastBuildDate>
 
         <item>
+	<title>Patagonia Travel Guide (South Central Arizona/Arizona/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/south-central-arizona/patagonia/</link>
+	<description>Get ready to immerse yourself in the unique culture and stunning natural beauty of Patagonia, Arizona. Our comprehensive travel guide covers everything you need to know about visiting this hidden gem in South Central Arizona.</description>
+	<pubDate>2024-05-08T12:11:02+03:00</pubDate>
+</item><item>
 	<title>Shodoshima Travel Guide (Kagawa/Shikoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/kagawa/shodoshima/</link>
 	<description>Discover the best cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, and much more in Shodoshima, Japan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/pamukkale/</link>
 	<description>A comprehensive travel guide for Pamukkale in Aegean Turkey, including information on places to visit, hiking and biking routes, activities and tours, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-05-08T07:47:25+03:00</pubDate>
-</item><item>
-	<title>Haridwar Travel Guide (Garhwal/Uttarakhand/Himalayan North/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/haridwar/</link>
-	<description>Discover the best places to visit, activities, food, and cultural attractions in Haridwar with our ultimate travel guide. Learn the local customs, safety and health tips, and transportation options to make the most out of your trip.</description>
-	<pubDate>2024-05-08T07:13:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
