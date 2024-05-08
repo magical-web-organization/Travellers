@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T14:13:08+03:00</pubDate>
-        <lastBuildDate>2024-05-08T14:13:08+03:00</lastBuildDate>
+        <pubDate>2024-05-08T14:38:22+03:00</pubDate>
+        <lastBuildDate>2024-05-08T14:38:22+03:00</lastBuildDate>
 
         <item>
+	<title>Southern Barbados Travel Guide (Barbados/Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/barbados/southern-barbados/</link>
+	<description>A comprehensive tour guide for Southern Barbados, including places to visit, cultural attractions, natural wonders, food and drink scene, accommodations, local culture, safety and health, and transportation options.</description>
+	<pubDate>2024-05-08T14:38:22+03:00</pubDate>
+</item><item>
 	<title>Regensburg Travel Guide (Upper Palatinate/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-palatinate/regensburg/</link>
 	<description>Discover the best things to do, see, and experience in Regensburg, Germany. This comprehensive guide covers everything from finding the best accommodations, must-visit attractions, tasty local cuisine, and helpful tips for a safe and enjoyable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/portofino/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Portofino in this comprehensive travel guide.</description>
 	<pubDate>2024-05-08T10:22:16+03:00</pubDate>
-</item><item>
-	<title>Karaman Travel Guide (Central Anatolia/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/central-anatolia/karaman/</link>
-	<description>Discover the beauty of Karaman, Turkey with our comprehensive travel guide. Explore the must-visit attractions, tips, and tricks for your trip.</description>
-	<pubDate>2024-05-08T09:47:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
