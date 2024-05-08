@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T07:13:20+03:00</pubDate>
-        <lastBuildDate>2024-05-08T07:13:20+03:00</lastBuildDate>
+        <pubDate>2024-05-08T07:47:25+03:00</pubDate>
+        <lastBuildDate>2024-05-08T07:47:25+03:00</lastBuildDate>
 
         <item>
+	<title>Pamukkale Travel Guide (Southern Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/southern-aegean/pamukkale/</link>
+	<description>A comprehensive travel guide for Pamukkale in Aegean Turkey, including information on places to visit, hiking and biking routes, activities and tours, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
+	<pubDate>2024-05-08T07:47:25+03:00</pubDate>
+</item><item>
 	<title>Haridwar Travel Guide (Garhwal/Uttarakhand/Himalayan North/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/haridwar/</link>
 	<description>Discover the best places to visit, activities, food, and cultural attractions in Haridwar with our ultimate travel guide. Learn the local customs, safety and health tips, and transportation options to make the most out of your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/darjeeling-hills/deolo-hill/</link>
 	<description>This travel guide provides a list of places to visit, hiking/biking routes, where to stay, safety tips, and more for your trip to Deolo Hill in West Bengal, India.</description>
 	<pubDate>2024-05-08T03:22:39+03:00</pubDate>
-</item><item>
-	<title>Paracas Travel Guide (Southern Coast/Peru/South America)</title>
-	<link>https://travellers.wiki/en/south-america/peru/southern-coast/paracas/</link>
-	<description>Explore the natural beauty and rich cultural heritage of Paracas, Peru. From hiking and biking routes to must-try dishes, hotels, and local customs, this comprehensive guide covers everything you need to plan your trip to Paracas.</description>
-	<pubDate>2024-05-08T02:38:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
