@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T11:25:28+03:00</pubDate>
-        <lastBuildDate>2024-05-08T11:25:28+03:00</lastBuildDate>
+        <pubDate>2024-05-08T11:57:44+03:00</pubDate>
+        <lastBuildDate>2024-05-08T11:57:44+03:00</lastBuildDate>
 
         <item>
+	<title>Shodoshima Travel Guide (Kagawa/Shikoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/kagawa/shodoshima/</link>
+	<description>Discover the best cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, and much more in Shodoshima, Japan.</description>
+	<pubDate>2024-05-08T11:57:44+03:00</pubDate>
+</item><item>
 	<title>Buford Travel Guide (Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/buford/</link>
 	<description>Explore the culturally significant attractions, natural beauty, food, and transport options in Buford, Georgia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/haridwar/</link>
 	<description>Discover the best places to visit, activities, food, and cultural attractions in Haridwar with our ultimate travel guide. Learn the local customs, safety and health tips, and transportation options to make the most out of your trip.</description>
 	<pubDate>2024-05-08T07:13:20+03:00</pubDate>
-</item><item>
-	<title>Abersoch Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/abersoch/</link>
-	<description>Discover the best things to do in Abersoch and get practical information on transportation, accommodations, food and drink, and more.</description>
-	<pubDate>2024-05-08T06:47:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
