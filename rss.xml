@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-08T10:22:16+03:00</pubDate>
-        <lastBuildDate>2024-05-08T10:22:16+03:00</lastBuildDate>
+        <pubDate>2024-05-08T10:35:49+03:00</pubDate>
+        <lastBuildDate>2024-05-08T10:35:49+03:00</lastBuildDate>
 
         <item>
+	<title>Pepperell Travel Guide (Merrimack Valley/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/merrimack-valley/pepperell/</link>
+	<description>Get to know Pepperell, a small town in Massachusetts that offers a unique mix of history, culture, and nature. Find out where to stay, what to do, and what to eat in Pepperell in this comprehensive travel guide.</description>
+	<pubDate>2024-05-08T10:35:49+03:00</pubDate>
+</item><item>
 	<title>Portofino Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/portofino/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Portofino in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/cummington/</link>
 	<description>Explore the best attractions, activities, and culture of Cummington, Massachusetts, with this comprehensive travel guide. Learn about museums, outdoor adventures, local cuisine, where to stay, and more.</description>
 	<pubDate>2024-05-08T06:14:47+03:00</pubDate>
-</item><item>
-	<title>Neusiedl am See Travel Guide (Burgenland/Austria/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/austria/burgenland/neusiedl-am-see/</link>
-	<description>Discover the best things to do in Neusiedl am See with our comprehensive travel guide to Neusiedl am See. We cover everything from must-see attractions to local culture and customs, to help you plan your perfect trip.</description>
-	<pubDate>2024-05-08T05:49:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
