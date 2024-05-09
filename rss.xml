@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T20:14:45+03:00</pubDate>
-        <lastBuildDate>2024-05-09T20:14:45+03:00</lastBuildDate>
+        <pubDate>2024-05-09T20:51:31+03:00</pubDate>
+        <lastBuildDate>2024-05-09T20:51:31+03:00</lastBuildDate>
 
         <item>
+	<title>Higashimatsuyama Travel Guide (Saitama (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/saitama-prefecture/higashimatsuyama/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide for Higashimatsuyama.</description>
+	<pubDate>2024-05-09T20:51:31+03:00</pubDate>
+</item><item>
 	<title>Pondicherry (union territory) Travel Guide (Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/pondicherry-union-territory/</link>
 	<description>Plan your trip to Pondicherry with this complete travel guide. Discover the top things to do, places to visit, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/eichstatt/</link>
 	<description>Discover the best things to do in Eichstätt, Germany with this comprehensive travel guide including food, culture, activities, and more.</description>
 	<pubDate>2024-05-09T16:09:52+03:00</pubDate>
-</item><item>
-	<title>Ierapetra Travel Guide (Lasithi/Crete/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/crete/lasithi/ierapetra/</link>
-	<description>Discover the best things to do in Ierapetra, Crete with our comprehensive travel guide. Find out where to stay, what to see, and how to get around in Ierapetra.</description>
-	<pubDate>2024-05-09T16:01:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
