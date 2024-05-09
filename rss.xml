@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T00:48:38+03:00</pubDate>
-        <lastBuildDate>2024-05-10T00:48:38+03:00</lastBuildDate>
+        <pubDate>2024-05-10T01:31:06+03:00</pubDate>
+        <lastBuildDate>2024-05-10T01:31:06+03:00</lastBuildDate>
 
         <item>
+	<title>Pocklington Travel Guide (East Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/east-yorkshire/pocklington/</link>
+	<description>Discover the best places to visit, things to do and see, where to stay, what to eat, and how to get around in the charming town of Pocklington, East Yorkshire.</description>
+	<pubDate>2024-05-10T01:31:06+03:00</pubDate>
+</item><item>
 	<title>Ny-Ålesund Travel Guide (Svalbard/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/svalbard/ny-alesund/</link>
 	<description>Discover Ny-Ålesund, the northernmost town in the world situated on the archipelago of Svalbard, Norway. This guide includes a comprehensive list of tourist attractions, hiking, biking, and trekking routes, accommodations, transportation options, and safety and health tips for travelers.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/saitama-prefecture/higashimatsuyama/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide for Higashimatsuyama.</description>
 	<pubDate>2024-05-09T20:51:31+03:00</pubDate>
-</item><item>
-	<title>Pondicherry (union territory) Travel Guide (Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/pondicherry-union-territory/</link>
-	<description>Plan your trip to Pondicherry with this complete travel guide. Discover the top things to do, places to visit, where to stay, what to eat, and more.</description>
-	<pubDate>2024-05-09T20:14:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
