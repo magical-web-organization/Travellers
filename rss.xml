@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T16:09:52+03:00</pubDate>
-        <lastBuildDate>2024-05-09T16:09:52+03:00</lastBuildDate>
+        <pubDate>2024-05-09T16:57:05+03:00</pubDate>
+        <lastBuildDate>2024-05-09T16:57:05+03:00</lastBuildDate>
 
         <item>
+	<title>Faxe Travel Guide (South Zealand/Zealand/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/south-zealand/faxe/</link>
+	<description>Plan your trip to Faxe with our travel guide. Discover the best places to visit, things to do, restaurants to try, and where to stay in Faxe, Denmark.</description>
+	<pubDate>2024-05-09T16:57:05+03:00</pubDate>
+</item><item>
 	<title>Eichstätt Travel Guide (Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/eichstatt/</link>
 	<description>Discover the best things to do in Eichstätt, Germany with this comprehensive travel guide including food, culture, activities, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/occitanie/herault/bouzigues/</link>
 	<description>Discover the rich culture and stunning natural beauty of Bouzigues, France, with this comprehensive travel guide. Learn about the must-see attractions, the delicious local cuisine, and the best places to stay and explore in this charming town.</description>
 	<pubDate>2024-05-09T12:32:59+03:00</pubDate>
-</item><item>
-	<title>Juncos Travel Guide (Eastern Coast/Puerto Rico/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/eastern-coast/juncos/</link>
-	<description>Explore the best places to visit, outdoor adventures, local cuisine, and cultural attractions in Juncos, Puerto Rico. Plan your next trip with our comprehensive travel guide.</description>
-	<pubDate>2024-05-09T12:01:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
