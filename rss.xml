@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T13:28:19+03:00</pubDate>
-        <lastBuildDate>2024-05-09T13:28:19+03:00</lastBuildDate>
+        <pubDate>2024-05-09T13:52:39+03:00</pubDate>
+        <lastBuildDate>2024-05-09T13:52:39+03:00</lastBuildDate>
 
         <item>
+	<title>Benghazi Travel Guide (Libya/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/libya/benghazi/</link>
+	<description>Plan your trip to Benghazi with our comprehensive travel guide including top attractions, things to do, where to stay, local culture and customs, safety and health, and transportation options.</description>
+	<pubDate>2024-05-09T13:52:39+03:00</pubDate>
+</item><item>
 	<title>Dixon Travel Guide (Northern Illinois/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/northern-illinois/dixon/</link>
 	<description>Visit Dixon, Illinois with our comprehensive travel guide. Explore the natural attractions and cultural heritage of Dixon, and find the best things to do and places to stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/carmarthenshire/laugharne/</link>
 	<description>Discover the best things to do in Laugharne, Wales. Find top attractions to visit, outdoor adventures to enjoy, food and drink to sample, and places to stay.</description>
 	<pubDate>2024-05-09T09:16:48+03:00</pubDate>
-</item><item>
-	<title>Sparta Travel Guide (Laconia/Peloponnese/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/peloponnese/laconia/sparta/</link>
-	<description>Read this comprehensive tour guide for Sparta to discover the best places to visit, things to do, food and drinks, where to stay, and more!</description>
-	<pubDate>2024-05-09T08:58:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
