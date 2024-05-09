@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T04:08:45+03:00</pubDate>
-        <lastBuildDate>2024-05-09T04:08:45+03:00</lastBuildDate>
+        <pubDate>2024-05-09T04:39:45+03:00</pubDate>
+        <lastBuildDate>2024-05-09T04:39:45+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Gervais-les-Bains Travel Guide (Haute-Savoie/Auvergne-Rhône-Alpes/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/haute-savoie/saint-gervais-les-bains/</link>
+	<description>Plan your trip to Saint-Gervais-les-Bains with our comprehensive travel guide. Discover the best things to do, places to stay, and local culture and customs of this charming town in France.</description>
+	<pubDate>2024-05-09T04:39:45+03:00</pubDate>
+</item><item>
 	<title>Driftless Area Travel Guide (Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/driftless-area/</link>
 	<description>Explore the hidden gem of Midwest, Driftless Area. Discover the best places to visit, hike and bike routes, food and drink scene, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mimaropa/</link>
 	<description>Discover the beauty of Mimaropa through this comprehensive tour guide. Learn about the list of places to visit, hiking and biking routes, food and drink scene, local culture, safety and health, and other travel tips.</description>
 	<pubDate>2024-05-09T00:21:35+03:00</pubDate>
-</item><item>
-	<title>Kigali Travel Guide (Rwanda/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/rwanda/kigali/</link>
-	<description>Discover the beauties of Kigali, Rwanda with our comprehensive travel guide featuring must-see attractions, hiking and biking routes, food and drink scene, where to stay, local culture, safety and health, transportation options, and nearby destinations.</description>
-	<pubDate>2024-05-09T00:00:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
