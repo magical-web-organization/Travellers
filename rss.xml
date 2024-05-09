@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T12:01:15+03:00</pubDate>
-        <lastBuildDate>2024-05-09T12:01:15+03:00</lastBuildDate>
+        <pubDate>2024-05-09T12:32:59+03:00</pubDate>
+        <lastBuildDate>2024-05-09T12:32:59+03:00</lastBuildDate>
 
         <item>
+	<title>Bouzigues Travel Guide (Hérault/Occitanie/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/occitanie/herault/bouzigues/</link>
+	<description>Discover the rich culture and stunning natural beauty of Bouzigues, France, with this comprehensive travel guide. Learn about the must-see attractions, the delicious local cuisine, and the best places to stay and explore in this charming town.</description>
+	<pubDate>2024-05-09T12:32:59+03:00</pubDate>
+</item><item>
 	<title>Juncos Travel Guide (Eastern Coast/Puerto Rico/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/eastern-coast/juncos/</link>
 	<description>Explore the best places to visit, outdoor adventures, local cuisine, and cultural attractions in Juncos, Puerto Rico. Plan your next trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/black-forest/freiburg/</link>
 	<description>Planning a trip to Freiburg? Check out this comprehensive travel guide to discover the best things to do, top attractions, local culture, best time to visit, and more!</description>
 	<pubDate>2024-05-09T07:55:12+03:00</pubDate>
-</item><item>
-	<title>Westminster Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/westminster/</link>
-	<description>Let this guide take you on a tour of Westminster, California, and introduce you to places to visit, food to eat, accommodations to stay at, and customs to learn.</description>
-	<pubDate>2024-05-09T07:12:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
