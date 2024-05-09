@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T10:18:42+03:00</pubDate>
-        <lastBuildDate>2024-05-09T10:18:42+03:00</lastBuildDate>
+        <pubDate>2024-05-09T10:57:36+03:00</pubDate>
+        <lastBuildDate>2024-05-09T10:57:36+03:00</lastBuildDate>
 
         <item>
+	<title>Upper Galilee Travel Guide (Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/upper-galilee/</link>
+	<description>Discover the best things to do, places to visit, and tips for traveling to Upper Galilee in Israel with our comprehensive travel guide.</description>
+	<pubDate>2024-05-09T10:57:36+03:00</pubDate>
+</item><item>
 	<title>Lonar Travel Guide (Vidarbha/Maharashtra/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/vidarbha/lonar/</link>
 	<description>Lonar is a beautiful town located in the Vidarbha region of Maharashtra. This comprehensive travel guide will help you plan your trip to Lonar.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/east-aegean-islands/fourni/</link>
 	<description>Discover the must-visit attractions, outdoor adventures, dining options, cultural experiences, and travel logistics of Fourni, Greece, with this comprehensive travel guide.</description>
 	<pubDate>2024-05-09T06:26:01+03:00</pubDate>
-</item><item>
-	<title>Belle Mead Travel Guide (Somerset County/Skylands/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/somerset-county/belle-mead/</link>
-	<description>A comprehensive travel guide for Belle Mead, including places to visit, things to do, and where to stay. Plan your trip to Belle Mead with ease!</description>
-	<pubDate>2024-05-09T05:52:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
