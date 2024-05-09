@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T00:12:23+03:00</pubDate>
-        <lastBuildDate>2024-05-10T00:12:23+03:00</lastBuildDate>
+        <pubDate>2024-05-10T00:48:38+03:00</pubDate>
+        <lastBuildDate>2024-05-10T00:48:38+03:00</lastBuildDate>
 
         <item>
+	<title>Ny-Ålesund Travel Guide (Svalbard/Norway/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/norway/svalbard/ny-alesund/</link>
+	<description>Discover Ny-Ålesund, the northernmost town in the world situated on the archipelago of Svalbard, Norway. This guide includes a comprehensive list of tourist attractions, hiking, biking, and trekking routes, accommodations, transportation options, and safety and health tips for travelers.</description>
+	<pubDate>2024-05-10T00:48:38+03:00</pubDate>
+</item><item>
 	<title>Bonnyville Travel Guide (Lakeland/Northern Alberta/Alberta/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/northern-alberta/lakeland/bonnyville/</link>
 	<description>Planning to visit Bonnyville, Alberta? This guide covers everything you need to know from cultural attractions, natural attractions, food and drink scene, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/pondicherry-union-territory/</link>
 	<description>Plan your trip to Pondicherry with this complete travel guide. Discover the top things to do, places to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-05-09T20:14:45+03:00</pubDate>
-</item><item>
-	<title>Roses Travel Guide (Costa Brava/Girona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/girona-province/costa-brava/roses/</link>
-	<description>Plan your trip to Roses, Spain with this comprehensive travel guide featuring must-visit cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, local culture, dos and don'ts, safety, transportation options, and nearby destinations.</description>
-	<pubDate>2024-05-09T19:46:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
