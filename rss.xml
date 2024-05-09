@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T16:57:05+03:00</pubDate>
-        <lastBuildDate>2024-05-09T16:57:05+03:00</lastBuildDate>
+        <pubDate>2024-05-09T17:29:13+03:00</pubDate>
+        <lastBuildDate>2024-05-09T17:29:13+03:00</lastBuildDate>
 
         <item>
+	<title>Varadero Travel Guide (Western Cuba/Cuba/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/cuba/western-cuba/varadero/</link>
+	<description>Explore Varadero with our comprehensive travel guide. Discover the best places to visit, activities to do, food and drink options, cultural customs, safety and health information, and transportation options.</description>
+	<pubDate>2024-05-09T17:29:13+03:00</pubDate>
+</item><item>
 	<title>Faxe Travel Guide (South Zealand/Zealand/Denmark/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/south-zealand/faxe/</link>
 	<description>Plan your trip to Faxe with our travel guide. Discover the best places to visit, things to do, restaurants to try, and where to stay in Faxe, Denmark.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-winelands/somerset-west/</link>
 	<description>Plan your perfect trip to Somerset West, South Africa with our comprehensive travel guide. Explore cultural attractions, outdoor adventures, food and drink scenes, accommodations, and more.</description>
 	<pubDate>2024-05-09T12:58:13+03:00</pubDate>
-</item><item>
-	<title>Bouzigues Travel Guide (Hérault/Occitanie/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/occitanie/herault/bouzigues/</link>
-	<description>Discover the rich culture and stunning natural beauty of Bouzigues, France, with this comprehensive travel guide. Learn about the must-see attractions, the delicious local cuisine, and the best places to stay and explore in this charming town.</description>
-	<pubDate>2024-05-09T12:32:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
