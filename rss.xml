@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T08:31:50+03:00</pubDate>
-        <lastBuildDate>2024-05-09T08:31:50+03:00</lastBuildDate>
+        <pubDate>2024-05-09T08:58:24+03:00</pubDate>
+        <lastBuildDate>2024-05-09T08:58:24+03:00</lastBuildDate>
 
         <item>
+	<title>Sparta Travel Guide (Laconia/Peloponnese/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/peloponnese/laconia/sparta/</link>
+	<description>Read this comprehensive tour guide for Sparta to discover the best places to visit, things to do, food and drinks, where to stay, and more!</description>
+	<pubDate>2024-05-09T08:58:24+03:00</pubDate>
+</item><item>
 	<title>Burnet Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/burnet/</link>
 	<description>Discover the best places to visit, eat, stay, and more in Burnet with our informative and helpful travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/driftless-area/</link>
 	<description>Explore the hidden gem of Midwest, Driftless Area. Discover the best places to visit, hike and bike routes, food and drink scene, local culture, and more.</description>
 	<pubDate>2024-05-09T04:08:45+03:00</pubDate>
-</item><item>
-	<title>Gujar Khan Travel Guide (Northern Punjab/Punjab/Pakistan/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/northern-punjab/gujar-khan/</link>
-	<description>Gujar Khan Travel Guide - a comprehensive tourist guide that will make your visit memorable and enjoyable.</description>
-	<pubDate>2024-05-09T03:51:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
