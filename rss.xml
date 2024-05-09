@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T21:53:51+03:00</pubDate>
-        <lastBuildDate>2024-05-09T21:53:51+03:00</lastBuildDate>
+        <pubDate>2024-05-09T22:04:31+03:00</pubDate>
+        <lastBuildDate>2024-05-09T22:04:31+03:00</lastBuildDate>
 
         <item>
+	<title>Indore Travel Guide (Western Madhya Pradesh/Madhya Pradesh/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/western-madhya-pradesh/indore/</link>
+	<description>Plan a perfect trip to Indore with our comprehensive travel guide. Discover best places to visit, eat, and stay in Indore, India.</description>
+	<pubDate>2024-05-09T22:04:31+03:00</pubDate>
+</item><item>
 	<title>Katonah Travel Guide (Westchester County/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/westchester-county/katonah/</link>
 	<description>Plan your trip to Katonah, New York with this comprehensive travel guide featuring attractions, activities, food, lodging, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tochigi-prefecture/kinugawa/</link>
 	<description>Plan your next adventure in Kinugawa, with our comprehensive travel guide featuring natural attractions, hiking/biking routes, cultural and historical places, local food and drinks, accommodation, transportation options and more.</description>
 	<pubDate>2024-05-09T18:00:56+03:00</pubDate>
-</item><item>
-	<title>Varadero Travel Guide (Western Cuba/Cuba/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/cuba/western-cuba/varadero/</link>
-	<description>Explore Varadero with our comprehensive travel guide. Discover the best places to visit, activities to do, food and drink options, cultural customs, safety and health information, and transportation options.</description>
-	<pubDate>2024-05-09T17:29:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
