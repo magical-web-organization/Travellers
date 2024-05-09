@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T15:17:58+03:00</pubDate>
-        <lastBuildDate>2024-05-09T15:17:58+03:00</lastBuildDate>
+        <pubDate>2024-05-09T16:01:32+03:00</pubDate>
+        <lastBuildDate>2024-05-09T16:01:32+03:00</lastBuildDate>
 
         <item>
+	<title>Ierapetra Travel Guide (Lasithi/Crete/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/crete/lasithi/ierapetra/</link>
+	<description>Discover the best things to do in Ierapetra, Crete with our comprehensive travel guide. Find out where to stay, what to see, and how to get around in Ierapetra.</description>
+	<pubDate>2024-05-09T16:01:32+03:00</pubDate>
+</item><item>
 	<title>Montalto delle Marche Travel Guide (Ascoli Piceno (province)/Marche/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/marche/ascoli-piceno-province/montalto-delle-marche/</link>
 	<description>Montalto delle Marche is a hidden gem in Central Italy, offering culture, delicious food, natural scenery, and much more. Explore this charming town with our complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/grande-sao-paulo/barueri/</link>
 	<description>Plan your trip to Barueri, Brazil with this comprehensive travel guide featuring the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-05-09T11:18:22+03:00</pubDate>
-</item><item>
-	<title>Upper Galilee Travel Guide (Israel/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/israel/upper-galilee/</link>
-	<description>Discover the best things to do, places to visit, and tips for traveling to Upper Galilee in Israel with our comprehensive travel guide.</description>
-	<pubDate>2024-05-09T10:57:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
