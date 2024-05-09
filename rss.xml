@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T07:55:12+03:00</pubDate>
-        <lastBuildDate>2024-05-09T07:55:12+03:00</lastBuildDate>
+        <pubDate>2024-05-09T08:31:50+03:00</pubDate>
+        <lastBuildDate>2024-05-09T08:31:50+03:00</lastBuildDate>
 
         <item>
+	<title>Burnet Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/burnet/</link>
+	<description>Discover the best places to visit, eat, stay, and more in Burnet with our informative and helpful travel guide.</description>
+	<pubDate>2024-05-09T08:31:50+03:00</pubDate>
+</item><item>
 	<title>Freiburg Travel Guide (Black Forest/Baden-Württemberg/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/black-forest/freiburg/</link>
 	<description>Planning a trip to Freiburg? Check out this comprehensive travel guide to discover the best things to do, top attractions, local culture, best time to visit, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/northern-punjab/gujar-khan/</link>
 	<description>Gujar Khan Travel Guide - a comprehensive tourist guide that will make your visit memorable and enjoyable.</description>
 	<pubDate>2024-05-09T03:51:50+03:00</pubDate>
-</item><item>
-	<title>Cartwright Travel Guide (Badlands/North Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/badlands/cartwright/</link>
-	<description>Discover Cartwright, a cozy town in the Badlands of North Dakota. Explore its unique cultural attractions, stunning natural scenery, and thrilling outdoor activities - all in this comprehensive travel guide.</description>
-	<pubDate>2024-05-09T03:16:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
