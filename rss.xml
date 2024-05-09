@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T07:12:07+03:00</pubDate>
-        <lastBuildDate>2024-05-09T07:12:07+03:00</lastBuildDate>
+        <pubDate>2024-05-09T07:55:12+03:00</pubDate>
+        <lastBuildDate>2024-05-09T07:55:12+03:00</lastBuildDate>
 
         <item>
+	<title>Freiburg Travel Guide (Black Forest/Baden-Württemberg/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/black-forest/freiburg/</link>
+	<description>Planning a trip to Freiburg? Check out this comprehensive travel guide to discover the best things to do, top attractions, local culture, best time to visit, and more!</description>
+	<pubDate>2024-05-09T07:55:12+03:00</pubDate>
+</item><item>
 	<title>Westminster Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/westminster/</link>
 	<description>Let this guide take you on a tour of Westminster, California, and introduce you to places to visit, food to eat, accommodations to stay at, and customs to learn.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/badlands/cartwright/</link>
 	<description>Discover Cartwright, a cozy town in the Badlands of North Dakota. Explore its unique cultural attractions, stunning natural scenery, and thrilling outdoor activities - all in this comprehensive travel guide.</description>
 	<pubDate>2024-05-09T03:16:06+03:00</pubDate>
-</item><item>
-	<title>Minden Travel Guide (Northern Louisiana/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/northern-louisiana/minden/</link>
-	<description>Discover the best places to visit, things to do, hiking/biking routes, food/drink scene, where to stay, local culture/customs, safety/health, transportation options, nearby destinations, and much more in Minden, Louisiana.</description>
-	<pubDate>2024-05-09T02:46:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
