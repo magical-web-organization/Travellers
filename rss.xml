@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T09:16:48+03:00</pubDate>
-        <lastBuildDate>2024-05-09T09:16:48+03:00</lastBuildDate>
+        <pubDate>2024-05-09T09:34:28+03:00</pubDate>
+        <lastBuildDate>2024-05-09T09:34:28+03:00</lastBuildDate>
 
         <item>
+	<title>Wexford Travel Guide (County Wexford/Southeast Ireland/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southeast-ireland/county-wexford/wexford/</link>
+	<description>Explore the beautiful county of Wexford in Southeast Ireland with our comprehensive travel guide featuring the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-09T09:34:28+03:00</pubDate>
+</item><item>
 	<title>Laugharne Travel Guide (Carmarthenshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/carmarthenshire/laugharne/</link>
 	<description>Discover the best things to do in Laugharne, Wales. Find top attractions to visit, outdoor adventures to enjoy, food and drink to sample, and places to stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/austria/carinthia/heiligenblut/</link>
 	<description>Plan your trip to Heiligenblut with our comprehensive travel guide. Discover the must-visit places, the best things to do, where to stay, and more.</description>
 	<pubDate>2024-05-09T05:14:16+03:00</pubDate>
-</item><item>
-	<title>Saint-Gervais-les-Bains Travel Guide (Haute-Savoie/Auvergne-Rhône-Alpes/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/haute-savoie/saint-gervais-les-bains/</link>
-	<description>Plan your trip to Saint-Gervais-les-Bains with our comprehensive travel guide. Discover the best things to do, places to stay, and local culture and customs of this charming town in France.</description>
-	<pubDate>2024-05-09T04:39:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
