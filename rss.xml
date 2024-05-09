@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-09T17:29:13+03:00</pubDate>
-        <lastBuildDate>2024-05-09T17:29:13+03:00</lastBuildDate>
+        <pubDate>2024-05-09T18:00:56+03:00</pubDate>
+        <lastBuildDate>2024-05-09T18:00:56+03:00</lastBuildDate>
 
         <item>
+	<title>Kinugawa Travel Guide (Tochigi (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tochigi-prefecture/kinugawa/</link>
+	<description>Plan your next adventure in Kinugawa, with our comprehensive travel guide featuring natural attractions, hiking/biking routes, cultural and historical places, local food and drinks, accommodation, transportation options and more.</description>
+	<pubDate>2024-05-09T18:00:56+03:00</pubDate>
+</item><item>
 	<title>Varadero Travel Guide (Western Cuba/Cuba/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/cuba/western-cuba/varadero/</link>
 	<description>Explore Varadero with our comprehensive travel guide. Discover the best places to visit, activities to do, food and drink options, cultural customs, safety and health information, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/northern-illinois/dixon/</link>
 	<description>Visit Dixon, Illinois with our comprehensive travel guide. Explore the natural attractions and cultural heritage of Dixon, and find the best things to do and places to stay.</description>
 	<pubDate>2024-05-09T13:28:19+03:00</pubDate>
-</item><item>
-	<title>Somerset West Travel Guide (Cape Winelands/Western Cape/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-winelands/somerset-west/</link>
-	<description>Plan your perfect trip to Somerset West, South Africa with our comprehensive travel guide. Explore cultural attractions, outdoor adventures, food and drink scenes, accommodations, and more.</description>
-	<pubDate>2024-05-09T12:58:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
