@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T03:05:47+03:00</pubDate>
-        <lastBuildDate>2024-05-10T03:05:47+03:00</lastBuildDate>
+        <pubDate>2024-05-10T03:47:01+03:00</pubDate>
+        <lastBuildDate>2024-05-10T03:47:01+03:00</lastBuildDate>
 
         <item>
+	<title>Veitshöchheim Travel Guide (Lower Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/lower-franconia/veitshochheim/</link>
+	<description>Discover the best things to do, places to visit, food and drink scene, and local culture of Veitshöchheim in this comprehensive travel guide.</description>
+	<pubDate>2024-05-10T03:47:01+03:00</pubDate>
+</item><item>
 	<title>Leiden Travel Guide (Bollenstreek/South Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/south-holland/bollenstreek/leiden/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay and what to buy in Leiden, Netherlands.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/pirkanmaa/lempaala/</link>
 	<description>Discover the best places to visit, hike, bike, eat, and stay in Lempäälä, Finland. Learn about its rich culture, local customs, safety tips, transportation options, and neighboring excursions. Plan your perfect trip to the Finnish Lakeland.</description>
 	<pubDate>2024-05-09T23:04:41+03:00</pubDate>
-</item><item>
-	<title>Geyikli Travel Guide (Southern Marmara/Marmara (region)/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/southern-marmara/geyikli/</link>
-	<description>Plan your trip to Geyikli with our comprehensive travel guide featuring information on top attractions, activities, where to stay, what to eat, and more.</description>
-	<pubDate>2024-05-09T22:37:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
