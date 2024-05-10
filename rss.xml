@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T21:38:20+03:00</pubDate>
-        <lastBuildDate>2024-05-10T21:38:20+03:00</lastBuildDate>
+        <pubDate>2024-05-10T22:17:54+03:00</pubDate>
+        <lastBuildDate>2024-05-10T22:17:54+03:00</lastBuildDate>
 
         <item>
+	<title>Sathing Phra Travel Guide (Southern Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/sathing-phra/</link>
+	<description>Discover the hidden gems of Sathing Phra with our comprehensive guide. Learn about the culture, attractions, food, and more in this Southern Thailand destination.</description>
+	<pubDate>2024-05-10T22:17:54+03:00</pubDate>
+</item><item>
 	<title>Downingtown Travel Guide (Chester County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/chester-county/downingtown/</link>
 	<description>Explore the culturally important attractions, natural wonders, hiking/biking routes, food and drink scene, accommodations, safety tips, and transportation options in Downingtown. Plan your next vacation to this beautiful city in Pennsylvania, USA.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/saitama-prefecture/ageo/</link>
 	<description>Plan your perfect trip to Ageo with this comprehensive travel guide. Discover the best places to visit, activities, food and drink scene, where to stay, local culture and customs, transportation options and logistics, and much more.</description>
 	<pubDate>2024-05-10T17:42:21+03:00</pubDate>
-</item><item>
-	<title>Deryneia Travel Guide (Famagusta district (South)/Cyprus/Europe)</title>
-	<link>https://travellers.wiki/en/europe/cyprus/famagusta-district-south/deryneia/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Deryneia, Cyprus with this comprehensive travel guide.</description>
-	<pubDate>2024-05-10T17:27:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
