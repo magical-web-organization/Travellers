@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T22:17:54+03:00</pubDate>
-        <lastBuildDate>2024-05-10T22:17:54+03:00</lastBuildDate>
+        <pubDate>2024-05-10T22:44:40+03:00</pubDate>
+        <lastBuildDate>2024-05-10T22:44:40+03:00</lastBuildDate>
 
         <item>
+	<title>Des Grèves Regional Park Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/des-greves-regional-park/</link>
+	<description>Plan your trip to Des Grèves Regional Park with insider tips on the best places to visit, hike, stay, eat, and more.</description>
+	<pubDate>2024-05-10T22:44:40+03:00</pubDate>
+</item><item>
 	<title>Sathing Phra Travel Guide (Southern Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/sathing-phra/</link>
 	<description>Discover the hidden gems of Sathing Phra with our comprehensive guide. Learn about the culture, attractions, food, and more in this Southern Thailand destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/pantelleria/</link>
 	<description>Plan your trip to Pantelleria, an Italian island located in Trapani province, with this comprehensive travel guide that includes cultural and natural attractions, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety tips, and transportation options.</description>
 	<pubDate>2024-05-10T18:06:21+03:00</pubDate>
-</item><item>
-	<title>Ageo Travel Guide (Saitama (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/saitama-prefecture/ageo/</link>
-	<description>Plan your perfect trip to Ageo with this comprehensive travel guide. Discover the best places to visit, activities, food and drink scene, where to stay, local culture and customs, transportation options and logistics, and much more.</description>
-	<pubDate>2024-05-10T17:42:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
