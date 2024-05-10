@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T17:27:26+03:00</pubDate>
-        <lastBuildDate>2024-05-10T17:27:26+03:00</lastBuildDate>
+        <pubDate>2024-05-10T17:42:21+03:00</pubDate>
+        <lastBuildDate>2024-05-10T17:42:21+03:00</lastBuildDate>
 
         <item>
+	<title>Ageo Travel Guide (Saitama (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/saitama-prefecture/ageo/</link>
+	<description>Plan your perfect trip to Ageo with this comprehensive travel guide. Discover the best places to visit, activities, food and drink scene, where to stay, local culture and customs, transportation options and logistics, and much more.</description>
+	<pubDate>2024-05-10T17:42:21+03:00</pubDate>
+</item><item>
 	<title>Deryneia Travel Guide (Famagusta district (South)/Cyprus/Europe)</title>
 	<link>https://travellers.wiki/en/europe/cyprus/famagusta-district-south/deryneia/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Deryneia, Cyprus with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/metropolitan-rome/anzio/</link>
 	<description>Discover the best places to visit, food to try, where to stay, and everything you need to know before visiting Anzio in Central Italy.</description>
 	<pubDate>2024-05-10T13:27:40+03:00</pubDate>
-</item><item>
-	<title>Fryksdalen Travel Guide (Värmland/Svealand/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/varmland/fryksdalen/</link>
-	<description>Discover the best things to do and sights to see in Fryksdalen, Sweden with this comprehensive travel guide. From outdoor adventures to cultural experiences, this guide has everything you need to plan your trip.</description>
-	<pubDate>2024-05-10T12:50:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
