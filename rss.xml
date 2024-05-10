@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T14:10:45+03:00</pubDate>
-        <lastBuildDate>2024-05-10T14:10:45+03:00</lastBuildDate>
+        <pubDate>2024-05-10T14:42:58+03:00</pubDate>
+        <lastBuildDate>2024-05-10T14:42:58+03:00</lastBuildDate>
 
         <item>
+	<title>Pälkäne Travel Guide (Pirkanmaa/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/pirkanmaa/palkane/</link>
+	<description>Discover the best things to see and do in Pälkäne, Finland with this comprehensive travel guide. Explore the town's cultural and natural attractions, hiking and biking routes, local cuisine, accommodations, and more.</description>
+	<pubDate>2024-05-10T14:42:58+03:00</pubDate>
+</item><item>
 	<title>Surry Travel Guide (Hancock County/Down East/Maine/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/down-east/hancock-county/surry/</link>
 	<description>Discover the hidden gem of Surry in Hancock County, Maine with our comprehensive travel guide. We cover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/san-luis-potosi-state/centro/</link>
 	<description>Explore Centro, Mexico with our comprehensive travel guide. Find out the must-see attractions, best things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-05-10T10:16:17+03:00</pubDate>
-</item><item>
-	<title>Princeton Travel Guide (Similkameen/Thompson-Okanagan/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/similkameen/princeton/</link>
-	<description>Explore the natural beauty and cultural heritage of Princeton - read our comprehensive travel guide to plan your next vacation!</description>
-	<pubDate>2024-05-10T09:48:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
