@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T18:06:21+03:00</pubDate>
-        <lastBuildDate>2024-05-10T18:06:21+03:00</lastBuildDate>
+        <pubDate>2024-05-10T18:37:14+03:00</pubDate>
+        <lastBuildDate>2024-05-10T18:37:14+03:00</lastBuildDate>
 
         <item>
+	<title>Ko Yao Travel Guide (Northern Andaman Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/northern-andaman-coast/ko-yao/</link>
+	<description>Plan your trip to Ko Yao with our detailed travel guide featuring top attractions, hiking/biking routes, things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-05-10T18:37:14+03:00</pubDate>
+</item><item>
 	<title>Pantelleria Travel Guide (Trapani (province)/Sicily/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/pantelleria/</link>
 	<description>Plan your trip to Pantelleria, an Italian island located in Trapani province, with this comprehensive travel guide that includes cultural and natural attractions, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/down-east/hancock-county/surry/</link>
 	<description>Discover the hidden gem of Surry in Hancock County, Maine with our comprehensive travel guide. We cover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-05-10T14:10:45+03:00</pubDate>
-</item><item>
-	<title>Bad Homburg Travel Guide (Rhine-Main/Hesse/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/rhine-main/bad-homburg/</link>
-	<description>Discover the best places to visit, food and drink scene, top hiking and biking routes, where to stay, and more in Bad Homburg, Germany.</description>
-	<pubDate>2024-05-10T13:39:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
