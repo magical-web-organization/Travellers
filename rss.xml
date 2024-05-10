@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T15:58:08+03:00</pubDate>
-        <lastBuildDate>2024-05-10T15:58:08+03:00</lastBuildDate>
+        <pubDate>2024-05-10T16:24:53+03:00</pubDate>
+        <lastBuildDate>2024-05-10T16:24:53+03:00</lastBuildDate>
 
         <item>
+	<title>Kętrzyn Travel Guide (Warmia-Masuria/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/warmia-masuria/ketrzyn/</link>
+	<description>Discover the best places to visit, things to do, where to eat, stay, and more in Kętrzyn, Poland with our comprehensive travel guide.</description>
+	<pubDate>2024-05-10T16:24:53+03:00</pubDate>
+</item><item>
 	<title>Swansboro Travel Guide (Crystal Coast/North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/crystal-coast/swansboro/</link>
 	<description>Explore the best places to visit, food and drink scene, where to stay, and local culture and customs of Swansboro. Learn about the safety measures, transportation options, and nearby destinations, and experience the best of Crystal Coast.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/podkarpackie/manasterzec-lukawica/</link>
 	<description>Explore the cultural and natural attractions, food scene, accommodations, and logistics in Manasterzec, Łukawica, one of the hidden gems of Central Europe.</description>
 	<pubDate>2024-05-10T11:54:50+03:00</pubDate>
-</item><item>
-	<title>Lüleburgaz Travel Guide (Eastern Thrace/Marmara (region)/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-thrace/luleburgaz/</link>
-	<description>Plan your visit to Lüleburgaz with our comprehensive travel guide. Explore the city's cultural attractions, natural wonders, hiking and biking routes, food scene, and more.</description>
-	<pubDate>2024-05-10T11:24:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
