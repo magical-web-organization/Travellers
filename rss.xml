@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T10:16:17+03:00</pubDate>
-        <lastBuildDate>2024-05-10T10:16:17+03:00</lastBuildDate>
+        <pubDate>2024-05-10T10:44:30+03:00</pubDate>
+        <lastBuildDate>2024-05-10T10:44:30+03:00</lastBuildDate>
 
         <item>
+	<title>Westport Travel Guide (SouthCoast/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/southcoast/westport/</link>
+	<description>Discover the best things to do, places to visit, where to stay, and more in Westport, Massachusetts. Plan your trip with our ultimate guide.</description>
+	<pubDate>2024-05-10T10:44:30+03:00</pubDate>
+</item><item>
 	<title>Centro Travel Guide (San Luis Potosi (state)/Bajío/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/san-luis-potosi-state/centro/</link>
 	<description>Explore Centro, Mexico with our comprehensive travel guide. Find out the must-see attractions, best things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/sonora/agua-prieta/</link>
 	<description>Explore the cultural and natural attractions of Agua Prieta, learn about the food and drink scene, find places to stay and things to buy, and get practical information about safety and health, transportation options, and nearby destinations.</description>
 	<pubDate>2024-05-10T06:23:29+03:00</pubDate>
-</item><item>
-	<title>Yanji Travel Guide (Yanbian/Jilin/Northeast China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/jilin/yanbian/yanji/</link>
-	<description>Explore Yanji with our comprehensive travel guide, including top things to do, places to stay, must-try cuisines, and travel tips.</description>
-	<pubDate>2024-05-10T05:50:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
