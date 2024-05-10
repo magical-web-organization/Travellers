@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T16:24:53+03:00</pubDate>
-        <lastBuildDate>2024-05-10T16:24:53+03:00</lastBuildDate>
+        <pubDate>2024-05-10T16:58:25+03:00</pubDate>
+        <lastBuildDate>2024-05-10T16:58:25+03:00</lastBuildDate>
 
         <item>
+	<title>Gurnee Travel Guide (Far North Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/far-north-suburbs/gurnee/</link>
+	<description>Discover the best places to visit, things to do, and local culture in Gurnee, Illinois. This travel guide provides helpful tips and recommendations for a memorable trip to Gurnee.</description>
+	<pubDate>2024-05-10T16:58:25+03:00</pubDate>
+</item><item>
 	<title>Kętrzyn Travel Guide (Warmia-Masuria/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/warmia-masuria/ketrzyn/</link>
 	<description>Discover the best places to visit, things to do, where to eat, stay, and more in Kętrzyn, Poland with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/melanesia/vanuatu/tafea/tanna/ireupuow/</link>
 	<description>Plan your trip to Ireupuow with our comprehensive travel guide. Explore cultural and natural attractions, go on outdoor adventures, taste the local food, and learn about the customs and traditions of this Melanesian paradise.</description>
 	<pubDate>2024-05-10T12:33:06+03:00</pubDate>
-</item><item>
-	<title>Manasterzec, Łukawica Travel Guide (Podkarpackie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/podkarpackie/manasterzec-lukawica/</link>
-	<description>Explore the cultural and natural attractions, food scene, accommodations, and logistics in Manasterzec, Łukawica, one of the hidden gems of Central Europe.</description>
-	<pubDate>2024-05-10T11:54:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
