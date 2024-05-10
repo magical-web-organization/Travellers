@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T08:26:34+03:00</pubDate>
-        <lastBuildDate>2024-05-10T08:26:34+03:00</lastBuildDate>
+        <pubDate>2024-05-10T08:48:01+03:00</pubDate>
+        <lastBuildDate>2024-05-10T08:48:01+03:00</lastBuildDate>
 
         <item>
+	<title>Santa Carolina Travel Guide (Central Mozambique/Mozambique/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/mozambique/central-mozambique/santa-carolina/</link>
+	<description>Discover various attractions, adventures, accommodations, and transportation options in Santa Carolina, Mozambique, and learn about its local culture, customs, safety, and health tips.</description>
+	<pubDate>2024-05-10T08:48:01+03:00</pubDate>
+</item><item>
 	<title>Policoro Travel Guide (Basilicata/Southern Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/basilicata/policoro/</link>
 	<description>Discover Policoro, a hidden gem in southern Italy. Our travel guide includes a list of places to visit, hiking/biking routes, food and drink scene, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/eastern-north-macedonia/strumica/</link>
 	<description>Discover the best places to visit, eat, stay, and more in Strumica. Plan your trip with this ultimate travel guide and explore the beauty of this Eastern Macedonian city.</description>
 	<pubDate>2024-05-10T04:15:25+03:00</pubDate>
-</item><item>
-	<title>Veitshöchheim Travel Guide (Lower Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/lower-franconia/veitshochheim/</link>
-	<description>Discover the best things to do, places to visit, food and drink scene, and local culture of Veitshöchheim in this comprehensive travel guide.</description>
-	<pubDate>2024-05-10T03:47:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
