@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T07:28:54+03:00</pubDate>
-        <lastBuildDate>2024-05-10T07:28:54+03:00</lastBuildDate>
+        <pubDate>2024-05-10T07:50:59+03:00</pubDate>
+        <lastBuildDate>2024-05-10T07:50:59+03:00</lastBuildDate>
 
         <item>
+	<title>Qurghonteppa Travel Guide (Khatlon/Tajikistan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/tajikistan/khatlon/qurghonteppa/</link>
+	<description>A comprehensive travel guide for Qurghonteppa, Tajikistan with recommendations on places to visit, things to do, food to try, and more.</description>
+	<pubDate>2024-05-10T07:50:59+03:00</pubDate>
+</item><item>
 	<title>Eksjö Travel Guide (Småland/Götaland/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/smaland/eksjo/</link>
 	<description>Explore the culturally rich and scenic town of Eksjö with our comprehensive travel guide. Discover the top attractions, hiking/biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/south-holland/bollenstreek/leiden/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay and what to buy in Leiden, Netherlands.</description>
 	<pubDate>2024-05-10T03:05:47+03:00</pubDate>
-</item><item>
-	<title>Tasmanian Wilderness World Heritage Area Travel Guide (Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/tasmanian-wilderness-world-heritage-area/</link>
-	<description>Discover the natural beauty and cultural richness of Tasmanian Wilderness World Heritage Area with this comprehensive guide, featuring top attractions, activities, itinerary, food and drink, accommodation, and more.</description>
-	<pubDate>2024-05-10T02:44:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
