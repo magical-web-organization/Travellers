@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T01:42:10+03:00</pubDate>
-        <lastBuildDate>2024-05-11T01:42:10+03:00</lastBuildDate>
+        <pubDate>2024-05-11T02:29:14+03:00</pubDate>
+        <lastBuildDate>2024-05-11T02:29:14+03:00</lastBuildDate>
 
         <item>
+	<title>Cape Panwa Travel Guide (Phuket/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/phuket/cape-panwa/</link>
+	<description>Discover the best attractions, activities, accommodations, and cultural customs of Cape Panwa, Phuket, Thailand. Plan your next adventure with our comprehensive travel guide.</description>
+	<pubDate>2024-05-11T02:29:14+03:00</pubDate>
+</item><item>
 	<title>Puy-de-Dôme Travel Guide (Auvergne/Auvergne-Rhône-Alpes/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/auvergne/puy-de-dome/</link>
 	<description>Discover the best things to do, places to visit, food and drink scene, and more with our ultimate travel guide to Puy-de-Dôme in Auvergne, France.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/chester-county/downingtown/</link>
 	<description>Explore the culturally important attractions, natural wonders, hiking/biking routes, food and drink scene, accommodations, safety tips, and transportation options in Downingtown. Plan your next vacation to this beautiful city in Pennsylvania, USA.</description>
 	<pubDate>2024-05-10T21:38:20+03:00</pubDate>
-</item><item>
-	<title>Papi Hills Travel Guide (Northern Coast/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/northern-coast/papi-hills/</link>
-	<description>Discover the best things to do, see, and eat in Papi Hills, India. This comprehensive guide covers everything from natural attractions to cultural landmarks to help you plan your ultimate trip.</description>
-	<pubDate>2024-05-10T21:12:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
