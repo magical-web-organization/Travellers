@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T00:53:51+03:00</pubDate>
-        <lastBuildDate>2024-05-11T00:53:51+03:00</lastBuildDate>
+        <pubDate>2024-05-11T01:10:32+03:00</pubDate>
+        <lastBuildDate>2024-05-11T01:10:32+03:00</lastBuildDate>
 
         <item>
+	<title>Olhão Travel Guide (Algarve/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/algarve/olhao/</link>
+	<description>Plan your trip to Olhão, Portugal with this comprehensive travel guide featuring the best places to visit, things to do, food and drink scene, and local culture.</description>
+	<pubDate>2024-05-11T01:10:32+03:00</pubDate>
+</item><item>
 	<title>East Burkina Faso Travel Guide (Burkina Faso/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/burkina-faso/east-burkina-faso/</link>
 	<description>Plan your trip to East Burkina Faso with this comprehensive travel guide featuring top attractions, hiking/biking routes, week-long itinerary, food and drink scene, where to stay, local culture, safety and health, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/thuringia/rudolstadt/</link>
 	<description>Discover the best sights, activities, food, and accommodations in Rudolstadt, Thuringia, Germany. This comprehensive travel guide covers everything you need to know to plan your trip to Rudolstadt.</description>
 	<pubDate>2024-05-10T21:00:56+03:00</pubDate>
-</item><item>
-	<title>Široki Brijeg Travel Guide (Herzegovina/Bosnia and Herzegovina/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/herzegovina/siroki-brijeg/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Široki Brijeg, Bosnia and Herzegovina. Learn about the local culture and customs, safety tips, transportation options, and nearby destinations to explore.</description>
-	<pubDate>2024-05-10T20:32:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
