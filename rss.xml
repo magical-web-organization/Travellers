@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T02:44:24+03:00</pubDate>
-        <lastBuildDate>2024-05-10T02:44:24+03:00</lastBuildDate>
+        <pubDate>2024-05-10T03:05:47+03:00</pubDate>
+        <lastBuildDate>2024-05-10T03:05:47+03:00</lastBuildDate>
 
         <item>
+	<title>Leiden Travel Guide (Bollenstreek/South Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/south-holland/bollenstreek/leiden/</link>
+	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay and what to buy in Leiden, Netherlands.</description>
+	<pubDate>2024-05-10T03:05:47+03:00</pubDate>
+</item><item>
 	<title>Tasmanian Wilderness World Heritage Area Travel Guide (Tasmania/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/tasmanian-wilderness-world-heritage-area/</link>
 	<description>Discover the natural beauty and cultural richness of Tasmanian Wilderness World Heritage Area with this comprehensive guide, featuring top attractions, activities, itinerary, food and drink, accommodation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/southern-marmara/geyikli/</link>
 	<description>Plan your trip to Geyikli with our comprehensive travel guide featuring information on top attractions, activities, where to stay, what to eat, and more.</description>
 	<pubDate>2024-05-09T22:37:31+03:00</pubDate>
-</item><item>
-	<title>Indore Travel Guide (Western Madhya Pradesh/Madhya Pradesh/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/western-madhya-pradesh/indore/</link>
-	<description>Plan a perfect trip to Indore with our comprehensive travel guide. Discover best places to visit, eat, and stay in Indore, India.</description>
-	<pubDate>2024-05-09T22:04:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
