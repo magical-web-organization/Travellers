@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T21:00:56+03:00</pubDate>
-        <lastBuildDate>2024-05-10T21:00:56+03:00</lastBuildDate>
+        <pubDate>2024-05-10T21:12:29+03:00</pubDate>
+        <lastBuildDate>2024-05-10T21:12:29+03:00</lastBuildDate>
 
         <item>
+	<title>Papi Hills Travel Guide (Northern Coast/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/northern-coast/papi-hills/</link>
+	<description>Discover the best things to do, see, and eat in Papi Hills, India. This comprehensive guide covers everything from natural attractions to cultural landmarks to help you plan your ultimate trip.</description>
+	<pubDate>2024-05-10T21:12:29+03:00</pubDate>
+</item><item>
 	<title>Rudolstadt Travel Guide (Thuringia/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/thuringia/rudolstadt/</link>
 	<description>Discover the best sights, activities, food, and accommodations in Rudolstadt, Thuringia, Germany. This comprehensive travel guide covers everything you need to know to plan your trip to Rudolstadt.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/far-north-suburbs/gurnee/</link>
 	<description>Discover the best places to visit, things to do, and local culture in Gurnee, Illinois. This travel guide provides helpful tips and recommendations for a memorable trip to Gurnee.</description>
 	<pubDate>2024-05-10T16:58:25+03:00</pubDate>
-</item><item>
-	<title>Kętrzyn Travel Guide (Warmia-Masuria/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/warmia-masuria/ketrzyn/</link>
-	<description>Discover the best places to visit, things to do, where to eat, stay, and more in Kętrzyn, Poland with our comprehensive travel guide.</description>
-	<pubDate>2024-05-10T16:24:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
