@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-10T23:54:34+03:00</pubDate>
-        <lastBuildDate>2024-05-10T23:54:34+03:00</lastBuildDate>
+        <pubDate>2024-05-11T00:33:20+03:00</pubDate>
+        <lastBuildDate>2024-05-11T00:33:20+03:00</lastBuildDate>
 
         <item>
+	<title>Galapagos Islands Travel Guide (Ecuador/South America)</title>
+	<link>https://travellers.wiki/en/south-america/ecuador/galapagos-islands/</link>
+	<description>Plan your dream trip to the Galapagos Islands with this comprehensive travel guide that covers everything from places to visit, hiking and biking routes, best things to do, where to stay, local cuisine, culture, safety and health, and much more. Start exploring the natural wonders of the Galapagos Islands.</description>
+	<pubDate>2024-05-11T00:33:20+03:00</pubDate>
+</item><item>
 	<title>Graham Travel Guide (North Central Plains/Texas Panhandle/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/north-central-plains/graham/</link>
 	<description>Discover the best attractions, activities, accommodations, and local culture in Graham, Texas with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/sabugal/</link>
 	<description>Discover the beauty and charm of Sabugal, Portugal with our comprehensive travel guide. Explore the best attractions, food and drink scene, accommodations, local culture, and more.</description>
 	<pubDate>2024-05-10T19:47:25+03:00</pubDate>
-</item><item>
-	<title>Newton Travel Guide (Greater Boston/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/newton/</link>
-	<description>Explore the top attractions, activities, food, and accommodations in Newton, Massachusetts with this helpful guide.</description>
-	<pubDate>2024-05-10T19:24:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
