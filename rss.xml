@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T05:05:47+03:00</pubDate>
-        <lastBuildDate>2024-05-11T05:05:47+03:00</lastBuildDate>
+        <pubDate>2024-05-11T05:55:31+03:00</pubDate>
+        <lastBuildDate>2024-05-11T05:55:31+03:00</lastBuildDate>
 
         <item>
+	<title>Plymouth Travel Guide (Amador County/Gold Country/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/gold-country/amador-county/plymouth/</link>
+	<description>Discover the best things to do, places to visit, and where to eat, stay, and shop in Plymouth, California with this comprehensive travel guide.</description>
+	<pubDate>2024-05-11T05:55:31+03:00</pubDate>
+</item><item>
 	<title>Oberhausen Travel Guide (Ruhr/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/ruhr/oberhausen/</link>
 	<description>Discover the best places to visit, things to do, food to try, and where to stay on your trip to Oberhausen, Germany. Our comprehensive tour guide offers everything you need to know for a successful visit.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/algarve/olhao/</link>
 	<description>Plan your trip to Olhão, Portugal with this comprehensive travel guide featuring the best places to visit, things to do, food and drink scene, and local culture.</description>
 	<pubDate>2024-05-11T01:10:32+03:00</pubDate>
-</item><item>
-	<title>East Burkina Faso Travel Guide (Burkina Faso/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/burkina-faso/east-burkina-faso/</link>
-	<description>Plan your trip to East Burkina Faso with this comprehensive travel guide featuring top attractions, hiking/biking routes, week-long itinerary, food and drink scene, where to stay, local culture, safety and health, and much more.</description>
-	<pubDate>2024-05-11T00:53:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
