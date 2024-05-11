@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T08:06:48+03:00</pubDate>
-        <lastBuildDate>2024-05-11T08:06:48+03:00</lastBuildDate>
+        <pubDate>2024-05-11T08:35:07+03:00</pubDate>
+        <lastBuildDate>2024-05-11T08:35:07+03:00</lastBuildDate>
 
         <item>
+	<title>Piaçabuçu Travel Guide (Alagoas/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/alagoas/piacabucu/</link>
+	<description>Discover the culturally rich and naturally beautiful Piaçabuçu in Alagoas, Brazil with our comprehensive travel guide. Find out about its top attractions, best things to do, where to stay, safety tips, transportation options, and more.</description>
+	<pubDate>2024-05-11T08:35:07+03:00</pubDate>
+</item><item>
 	<title>Carlisle Travel Guide (Harrisburg area/Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/harrisburg-area/carlisle/</link>
 	<description>Get to know Carlisle, Pennsylvania by discovering its culturally important attractions, natural wonders, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation and logistics, and nearby destinations, all in this comprehensive Carlisle travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/fujian/east-fujian/fuzhou/</link>
 	<description>Plan your trip to Fuzhou with our comprehensive travel guide featuring top attractions, hiking/biking routes, food and drink scene, accommodations, and more.</description>
 	<pubDate>2024-05-11T04:32:36+03:00</pubDate>
-</item><item>
-	<title>Sungai Kolok Travel Guide (Southern Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/sungai-kolok/</link>
-	<description>Sungai Kolok is a perfect destination for travelers who want to explore natural beauty and unique culture of Southern Thailand. This comprehensive tour guide will provide you with all the necessary information for planning your trip to Sungai Kolok.</description>
-	<pubDate>2024-05-11T03:54:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
