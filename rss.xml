@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T16:35:14+03:00</pubDate>
-        <lastBuildDate>2024-05-11T16:35:14+03:00</lastBuildDate>
+        <pubDate>2024-05-11T17:21:12+03:00</pubDate>
+        <lastBuildDate>2024-05-11T17:21:12+03:00</lastBuildDate>
 
         <item>
+	<title>Karlsöarna Travel Guide (Gotland/Götaland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/gotland/karlsoarna/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Karlsöarna, Sweden. Read this comprehensive guide to plan a perfect trip to the beautiful island.</description>
+	<pubDate>2024-05-11T17:21:12+03:00</pubDate>
+</item><item>
 	<title>Bingley Travel Guide (West Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/west-yorkshire/bingley/</link>
 	<description>Discover Bingley, West Yorkshire with our comprehensive travel guide filled with information on places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/london/east-end/</link>
 	<description>Discover the best places to visit, food and drink to taste, where to stay and how to get to East End, London in this comprehensive guide.</description>
 	<pubDate>2024-05-11T12:52:14+03:00</pubDate>
-</item><item>
-	<title>Mediterranean Sea Travel Guide (Other destinations)</title>
-	<link>https://travellers.wiki/en/other-destinations/mediterranean-sea/</link>
-	<description>Discover the best places to visit, food and drink scene, accommodations, culture and customs, safety and health tips, and transportation options in the Mediterranean Sea with this comprehensive travel guide.</description>
-	<pubDate>2024-05-11T12:23:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
