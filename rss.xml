@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T13:21:22+03:00</pubDate>
-        <lastBuildDate>2024-05-11T13:21:22+03:00</lastBuildDate>
+        <pubDate>2024-05-11T13:41:14+03:00</pubDate>
+        <lastBuildDate>2024-05-11T13:41:14+03:00</lastBuildDate>
 
         <item>
+	<title>Zona Centro Travel Guide (Tijuana/Baja California (state)/Baja California/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-state/tijuana/zona-centro/</link>
+	<description>Discover the best places to visit, things to do, and cultural customs of Zona Centro in Tijuana, Mexico. Plan your trip with this comprehensive travel guide.</description>
+	<pubDate>2024-05-11T13:41:14+03:00</pubDate>
+</item><item>
 	<title>Okayama Travel Guide (Okayama (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/okayama-prefecture/okayama/</link>
 	<description>Discover the best things to do, places to visit, foods to try, and where to stay in Okayama, Japan. Read our in-depth travel guide to plan your trip with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/colombia/andino/cundinamarca/zipaquira/</link>
 	<description>Explore the culturally rich and naturally scenic city of Zipaquirá in Colombia with this comprehensive travel guide covering places to visit, things to do, and much more.</description>
 	<pubDate>2024-05-11T09:21:19+03:00</pubDate>
-</item><item>
-	<title>Piaçabuçu Travel Guide (Alagoas/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/alagoas/piacabucu/</link>
-	<description>Discover the culturally rich and naturally beautiful Piaçabuçu in Alagoas, Brazil with our comprehensive travel guide. Find out about its top attractions, best things to do, where to stay, safety tips, transportation options, and more.</description>
-	<pubDate>2024-05-11T08:35:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
