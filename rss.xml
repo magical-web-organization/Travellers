@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T21:49:18+03:00</pubDate>
-        <lastBuildDate>2024-05-11T21:49:18+03:00</lastBuildDate>
+        <pubDate>2024-05-11T22:31:06+03:00</pubDate>
+        <lastBuildDate>2024-05-11T22:31:06+03:00</lastBuildDate>
 
         <item>
+	<title>Marsabit Travel Guide (Eastern Kenya/Kenya/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/kenya/eastern-kenya/marsabit/</link>
+	<description>Plan your next trip to Marsabit with our comprehensive travel guide. Discover the best places to visit, things to do, and where to stay in Marsabit, as well as travel tips and practical information.</description>
+	<pubDate>2024-05-11T22:31:06+03:00</pubDate>
+</item><item>
 	<title>Maple Creek Travel Guide (Southwestern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/southwestern-saskatchewan/maple-creek/</link>
 	<description>Discover the hidden gems and must-visit places in Maple Creek, Saskatchewan. From cultural attractions and natural wonders to exciting activities and local cuisines, this guide has everything you need for an unforgettable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/bolivia/chuquisaca-department/</link>
 	<description>Explore the culturally significant museums, historical places, natural attractions, and outdoor adventures of Chuquisaca (Department), Bolivia, with this comprehensive travel guide. Plan your itinerary with the best things to do, food and drink scene, local culture and customs, transportation options, and nearby destinations.</description>
 	<pubDate>2024-05-11T17:36:27+03:00</pubDate>
-</item><item>
-	<title>Karlsöarna Travel Guide (Gotland/Götaland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/gotland/karlsoarna/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Karlsöarna, Sweden. Read this comprehensive guide to plan a perfect trip to the beautiful island.</description>
-	<pubDate>2024-05-11T17:21:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
