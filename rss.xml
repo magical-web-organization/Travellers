@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T11:44:43+03:00</pubDate>
-        <lastBuildDate>2024-05-11T11:44:43+03:00</lastBuildDate>
+        <pubDate>2024-05-11T12:23:08+03:00</pubDate>
+        <lastBuildDate>2024-05-11T12:23:08+03:00</lastBuildDate>
 
         <item>
+	<title>Mediterranean Sea Travel Guide (Other destinations)</title>
+	<link>https://travellers.wiki/en/other-destinations/mediterranean-sea/</link>
+	<description>Discover the best places to visit, food and drink scene, accommodations, culture and customs, safety and health tips, and transportation options in the Mediterranean Sea with this comprehensive travel guide.</description>
+	<pubDate>2024-05-11T12:23:08+03:00</pubDate>
+</item><item>
 	<title>Geiranger Travel Guide (Møre og Romsdal/Western Norway/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/western-norway/more-og-romsdal/geiranger/</link>
 	<description>Discover the beauty of Geiranger, located in Møre og Romsdal, in Western Norway. This comprehensive tourist guide covers all aspects of Geiranger, including places to visit, things to do, where to stay, safety and health, transportation options, and nearby excursions, ensuring that you have a memorable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/montepulciano/</link>
 	<description>Discover the stunning beauty of Montepulciano, a charming hilltop town in Tuscany, Italy, and explore its rich culture, delicious food, and historical significance with our comprehensive travel guide.</description>
 	<pubDate>2024-05-11T07:45:00+03:00</pubDate>
-</item><item>
-	<title>Lincoln National Forest Travel Guide (Southeast New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southeast-new-mexico/lincoln-national-forest/</link>
-	<description>Explore the beauty of Lincoln National Forest in Southeast New Mexico with our comprehensive guide featuring outdoor adventures, cultural attractions, local cuisine, and more.</description>
-	<pubDate>2024-05-11T07:04:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
