@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T19:28:01+03:00</pubDate>
-        <lastBuildDate>2024-05-11T19:28:01+03:00</lastBuildDate>
+        <pubDate>2024-05-11T19:55:45+03:00</pubDate>
+        <lastBuildDate>2024-05-11T19:55:45+03:00</lastBuildDate>
 
         <item>
+	<title>Fitchburg Travel Guide (North County/Central Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/central-massachusetts/north-county/fitchburg/</link>
+	<description>Plan your trip to Fitchburg, Massachusetts with our comprehensive travel guide. Discover the top attractions, where to stay, what to eat, and more.</description>
+	<pubDate>2024-05-11T19:55:45+03:00</pubDate>
+</item><item>
 	<title>Duck Travel Guide (Outer Banks/North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/outer-banks/duck/</link>
 	<description>Looking for a comprehensive travel guide for Duck, North Carolina? Look no further! Our guide covers all the important information you need to explore the best places to visit, things to do, where to stay, and more in Duck.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/pirkanmaa/orivesi/</link>
 	<description>Plan your trip to Orivesi, the town in Pirkanmaa region of Finland! Discover the natural, cultural and food attractions and activities, and find tips on how to get there, where to stay and what to do.</description>
 	<pubDate>2024-05-11T15:13:34+03:00</pubDate>
-</item><item>
-	<title>Boxford Travel Guide (Suffolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/boxford/</link>
-	<description>Explore the charming town of Boxford, Suffolk with our comprehensive travel guide. Discover cultural attractions, natural wonders, hiking/biking routes, food and drink scene, accommodations, local culture and customs, safety and health tips, and nearby destinations.</description>
-	<pubDate>2024-05-11T14:49:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
