@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T23:30:57+03:00</pubDate>
-        <lastBuildDate>2024-05-11T23:30:57+03:00</lastBuildDate>
+        <pubDate>2024-05-11T23:53:06+03:00</pubDate>
+        <lastBuildDate>2024-05-11T23:53:06+03:00</lastBuildDate>
 
         <item>
+	<title>Fort Augustus Travel Guide (The Great Glen and Strathspey/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/the-great-glen-and-strathspey/fort-augustus/</link>
+	<description>Discover the natural and cultural attractions, best things to do, food and drink scene, where to stay, and much more in Fort Augustus, Scottish Highlands.</description>
+	<pubDate>2024-05-11T23:53:06+03:00</pubDate>
+</item><item>
 	<title>Lesio Louna Gorilla Reserve Travel Guide (Congolese Plateau/Republic of the Congo/Central Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/central-africa/republic-of-the-congo/congolese-plateau/lesio-louna-gorilla-reserve/</link>
 	<description>Plan your trip to Lesio Louna Gorilla Reserve with our comprehensive travel guide. Discover all the places to visit, best things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/outer-banks/duck/</link>
 	<description>Looking for a comprehensive travel guide for Duck, North Carolina? Look no further! Our guide covers all the important information you need to explore the best places to visit, things to do, where to stay, and more in Duck.</description>
 	<pubDate>2024-05-11T19:28:01+03:00</pubDate>
-</item><item>
-	<title>Lhoknga Travel Guide (Aceh/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/aceh/lhoknga/</link>
-	<description>Discover the best places to visit, things to do, where to stay, what to eat, and the local culture of Lhoknga, Indonesia with our ultimate travel guide.</description>
-	<pubDate>2024-05-11T18:40:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
