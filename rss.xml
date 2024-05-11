@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T07:45:00+03:00</pubDate>
-        <lastBuildDate>2024-05-11T07:45:00+03:00</lastBuildDate>
+        <pubDate>2024-05-11T08:06:48+03:00</pubDate>
+        <lastBuildDate>2024-05-11T08:06:48+03:00</lastBuildDate>
 
         <item>
+	<title>Carlisle Travel Guide (Harrisburg area/Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/harrisburg-area/carlisle/</link>
+	<description>Get to know Carlisle, Pennsylvania by discovering its culturally important attractions, natural wonders, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation and logistics, and nearby destinations, all in this comprehensive Carlisle travel guide.</description>
+	<pubDate>2024-05-11T08:06:48+03:00</pubDate>
+</item><item>
 	<title>Montepulciano Travel Guide (Siena (province)/Tuscany/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/montepulciano/</link>
 	<description>Discover the stunning beauty of Montepulciano, a charming hilltop town in Tuscany, Italy, and explore its rich culture, delicious food, and historical significance with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/sungai-kolok/</link>
 	<description>Sungai Kolok is a perfect destination for travelers who want to explore natural beauty and unique culture of Southern Thailand. This comprehensive tour guide will provide you with all the necessary information for planning your trip to Sungai Kolok.</description>
 	<pubDate>2024-05-11T03:54:38+03:00</pubDate>
-</item><item>
-	<title>Diliman and Katipunan Travel Guide (Quezon City/Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/quezon-city/diliman-and-katipunan/</link>
-	<description>Explore the culturally rich and scenic Diliman and Katipunan with our ultimate travel guide, covering everything from must-visit attractions to food scenes, local customs to transportation options.</description>
-	<pubDate>2024-05-11T03:23:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
