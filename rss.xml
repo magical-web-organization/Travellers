@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-11T04:32:36+03:00</pubDate>
-        <lastBuildDate>2024-05-11T04:32:36+03:00</lastBuildDate>
+        <pubDate>2024-05-11T04:44:58+03:00</pubDate>
+        <lastBuildDate>2024-05-11T04:44:58+03:00</lastBuildDate>
 
         <item>
+	<title>Osnabrück Travel Guide (Western Plains/Lower Saxony/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/western-plains/osnabruck/</link>
+	<description>Plan your trip to Osnabrück with this comprehensive tour guide, featuring must-see attractions, activities, food and drink scene, local culture, and more.</description>
+	<pubDate>2024-05-11T04:44:58+03:00</pubDate>
+</item><item>
 	<title>Fuzhou Travel Guide (East Fujian/Fujian/East China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/fujian/east-fujian/fuzhou/</link>
 	<description>Plan your trip to Fuzhou with our comprehensive travel guide featuring top attractions, hiking/biking routes, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/ecuador/galapagos-islands/</link>
 	<description>Plan your dream trip to the Galapagos Islands with this comprehensive travel guide that covers everything from places to visit, hiking and biking routes, best things to do, where to stay, local cuisine, culture, safety and health, and much more. Start exploring the natural wonders of the Galapagos Islands.</description>
 	<pubDate>2024-05-11T00:33:20+03:00</pubDate>
-</item><item>
-	<title>Graham Travel Guide (North Central Plains/Texas Panhandle/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/north-central-plains/graham/</link>
-	<description>Discover the best attractions, activities, accommodations, and local culture in Graham, Texas with our comprehensive travel guide.</description>
-	<pubDate>2024-05-10T23:54:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
