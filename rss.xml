@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-12T11:16:07+03:00</pubDate>
-        <lastBuildDate>2024-05-12T11:16:07+03:00</lastBuildDate>
+        <pubDate>2024-05-12T11:51:58+03:00</pubDate>
+        <lastBuildDate>2024-05-12T11:51:58+03:00</lastBuildDate>
 
         <item>
+	<title>Józsefváros Travel Guide (Budapest/Central Hungary/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/budapest/jozsefvaros/</link>
+	<description>Discover the top attractions, activities, and local culture in Józsefváros, Budapest. Learn about the best places to stay, eat, and shop, as well as transportation options and nearby destinations.</description>
+	<pubDate>2024-05-12T11:51:58+03:00</pubDate>
+</item><item>
 	<title>Mount Field National Park Travel Guide (Derwent Valley/Southern Tasmania/Tasmania/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/derwent-valley/mount-field-national-park/</link>
 	<description>Explore the beauty and adventure of Mount Field National Park with our comprehensive travel guide, from cultural attractions and outdoor adventures to food and drink, accommodations, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kozhikode-district/feroke/</link>
 	<description>Discover everything you need to know about Feroke in Kerala, India. Explore its cultural and natural attractions, hiking and biking routes, must-try dishes, and best things to do for a remarkable trip.</description>
 	<pubDate>2024-05-12T07:27:50+03:00</pubDate>
-</item><item>
-	<title>Buckingham Travel Guide (Buckinghamshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/buckinghamshire/buckingham/</link>
-	<description>Plan your next vacation to Buckingham with this comprehensive travel guide, covering places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-05-12T06:41:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
