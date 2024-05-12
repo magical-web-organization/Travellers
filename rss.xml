@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-12T12:04:12+03:00</pubDate>
-        <lastBuildDate>2024-05-12T12:04:12+03:00</lastBuildDate>
+        <pubDate>2024-05-12T12:49:45+03:00</pubDate>
+        <lastBuildDate>2024-05-12T12:49:45+03:00</lastBuildDate>
 
         <item>
+	<title>Schaarbeek Travel Guide (Brussels/Belgium/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/belgium/brussels/schaarbeek/</link>
+	<description>Discover the best things to do, places to visit, and local culture in Schaarbeek, Brussels, Belgium. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-05-12T12:49:45+03:00</pubDate>
+</item><item>
 	<title>Black Rock City Travel Guide (Northern Nevada/Nevada/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/nevada/northern-nevada/black-rock-city/</link>
 	<description>Plan your ultimate trip to Black Rock City with this comprehensive tour guide. Discover the must-see attractions, food and drink scene, accommodations options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/southern-bangladesh/kuakata/</link>
 	<description>Discover what to see, eat, and explore in Kuakata, one of the most beautiful tourist destinations in Bangladesh. Plan your trip with our complete guide!</description>
 	<pubDate>2024-05-12T08:19:04+03:00</pubDate>
-</item><item>
-	<title>Truth or Consequences Travel Guide (Southwest New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southwest-new-mexico/truth-or-consequences/</link>
-	<description>Plan your trip to Truth or Consequences with this comprehensive tour guide, featuring a list of places to visit, best things to do, where to stay, local culture and customs, safety and health precautions, and more.</description>
-	<pubDate>2024-05-12T08:01:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
