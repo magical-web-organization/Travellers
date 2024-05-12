@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T02:32:42+03:00</pubDate>
-        <lastBuildDate>2024-05-13T02:32:42+03:00</lastBuildDate>
+        <pubDate>2024-05-13T02:57:00+03:00</pubDate>
+        <lastBuildDate>2024-05-13T02:57:00+03:00</lastBuildDate>
 
         <item>
+	<title>Middletown Travel Guide (Frederick County/Capital Region/Maryland/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/frederick-county/middletown/</link>
+	<description>If you're planning to visit Middletown in Maryland, our travel guide can help you with everything from places to visit to where to stay, and more.</description>
+	<pubDate>2024-05-13T02:57:00+03:00</pubDate>
+</item><item>
 	<title>Bukavu Travel Guide (Kivu/Democratic Republic of the Congo/Central Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/central-africa/democratic-republic-of-the-congo/kivu/bukavu/</link>
 	<description>Discover Bukavu and its natural attraction, cultural heritage and must-see places. Make your trip to this Central African city unforgettable with this week-long itinerary, food and drink scene insights, accommodation tips, and safety and health precautions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/north-central-florida/live-oak/</link>
 	<description>Discover the hidden gem of North Central Florida with our Live Oak travel guide. Explore the natural beauty, cultural attractions, and food scene of this small town.</description>
 	<pubDate>2024-05-12T22:15:53+03:00</pubDate>
-</item><item>
-	<title>Owo Travel Guide (Ondo State/South West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ondo-state/owo/</link>
-	<description>Discover the best places to visit, things to do, and local culture of Owo in South West Nigeria. Read our comprehensive travel guide for Owo.</description>
-	<pubDate>2024-05-12T21:35:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
