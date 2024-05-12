@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-12T10:46:39+03:00</pubDate>
-        <lastBuildDate>2024-05-12T10:46:39+03:00</lastBuildDate>
+        <pubDate>2024-05-12T11:16:07+03:00</pubDate>
+        <lastBuildDate>2024-05-12T11:16:07+03:00</lastBuildDate>
 
         <item>
+	<title>Mount Field National Park Travel Guide (Derwent Valley/Southern Tasmania/Tasmania/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/derwent-valley/mount-field-national-park/</link>
+	<description>Explore the beauty and adventure of Mount Field National Park with our comprehensive travel guide, from cultural attractions and outdoor adventures to food and drink, accommodations, and local customs.</description>
+	<pubDate>2024-05-12T11:16:07+03:00</pubDate>
+</item><item>
 	<title>Childs Travel Guide (Orleans County (New York)/Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/orleans-county-new-york/childs/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Childs, New York, with our comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/buckinghamshire/buckingham/</link>
 	<description>Plan your next vacation to Buckingham with this comprehensive travel guide, covering places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-05-12T06:41:58+03:00</pubDate>
-</item><item>
-	<title>Gili Air Travel Guide (Gili Islands/Lombok/Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/lombok/gili-islands/gili-air/</link>
-	<description>Discover the best things to do, see and eat on Gili Air, and learn about local customs, safety, and transportation options to help you plan your trip.</description>
-	<pubDate>2024-05-12T06:06:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
