@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-12T06:01:02+03:00</pubDate>
-        <lastBuildDate>2024-05-12T06:01:02+03:00</lastBuildDate>
+        <pubDate>2024-05-12T06:06:50+03:00</pubDate>
+        <lastBuildDate>2024-05-12T06:06:50+03:00</lastBuildDate>
 
         <item>
+	<title>Gili Air Travel Guide (Gili Islands/Lombok/Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/lombok/gili-islands/gili-air/</link>
+	<description>Discover the best things to do, see and eat on Gili Air, and learn about local customs, safety, and transportation options to help you plan your trip.</description>
+	<pubDate>2024-05-12T06:06:50+03:00</pubDate>
+</item><item>
 	<title>Lancaster Travel Guide (Antelope Valley/Los Angeles/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/antelope-valley/lancaster/</link>
 	<description>Discover the best things to do, see, and experience in Lancaster, Southern California, including local culture, food and drink, outdoor adventures, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/queretaro-state/san-joaquin-queretaro/</link>
 	<description>Discover the best things to see and do in San Joaquín (Querétaro), a charming little Mexican town filled with cultural landmarks, scenic beauty, and outdoor adventures that will take your breath away.</description>
 	<pubDate>2024-05-12T01:52:56+03:00</pubDate>
-</item><item>
-	<title>Borneo Travel Guide (Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/borneo/</link>
-	<description>Discover the best places to visit, food to try, things to do, and cultural customs of Borneo with this comprehensive travel guide.</description>
-	<pubDate>2024-05-12T01:18:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
