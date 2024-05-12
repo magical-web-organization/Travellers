@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-12T02:51:06+03:00</pubDate>
-        <lastBuildDate>2024-05-12T02:51:06+03:00</lastBuildDate>
+        <pubDate>2024-05-12T03:33:22+03:00</pubDate>
+        <lastBuildDate>2024-05-12T03:33:22+03:00</lastBuildDate>
 
         <item>
+	<title>Newry Travel Guide (Lakes and Mountains/Maine/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/lakes-and-mountains/newry/</link>
+	<description>Discover the best things to do in Newry, Maine, including outdoor adventures, cultural attractions, and culinary experiences. Plan your trip with our week-long itinerary and transportation options guide.</description>
+	<pubDate>2024-05-12T03:33:22+03:00</pubDate>
+</item><item>
 	<title>Icheon Travel Guide (Gyeonggi/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/icheon/</link>
 	<description>Discover the best things to do in Icheon, from cultural attractions and outdoor adventures to local cuisine and where to stay. Plan your trip with our week-long itinerary and transportation options guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/ethiopia/northern-ethiopia/mekele/</link>
 	<description>Mekele is a hidden gem in Ethiopia. This travel guide will help you explore the history, culture, cuisine, and natural beauty of Mekele.</description>
 	<pubDate>2024-05-11T23:03:23+03:00</pubDate>
-</item><item>
-	<title>Marsabit Travel Guide (Eastern Kenya/Kenya/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/kenya/eastern-kenya/marsabit/</link>
-	<description>Plan your next trip to Marsabit with our comprehensive travel guide. Discover the best places to visit, things to do, and where to stay in Marsabit, as well as travel tips and practical information.</description>
-	<pubDate>2024-05-11T22:31:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
