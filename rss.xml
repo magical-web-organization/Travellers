@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-12T05:13:41+03:00</pubDate>
-        <lastBuildDate>2024-05-12T05:13:41+03:00</lastBuildDate>
+        <pubDate>2024-05-12T06:01:02+03:00</pubDate>
+        <lastBuildDate>2024-05-12T06:01:02+03:00</lastBuildDate>
 
         <item>
+	<title>Lancaster Travel Guide (Antelope Valley/Los Angeles/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/antelope-valley/lancaster/</link>
+	<description>Discover the best things to do, see, and experience in Lancaster, Southern California, including local culture, food and drink, outdoor adventures, and nearby destinations.</description>
+	<pubDate>2024-05-12T06:01:02+03:00</pubDate>
+</item><item>
 	<title>Niepołomice Travel Guide (Małopolskie/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/niepolomice/</link>
 	<description>Plan your perfect trip to Niepołomice with our comprehensive travel guide featuring top attractions, activities, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/borneo/</link>
 	<description>Discover the best places to visit, food to try, things to do, and cultural customs of Borneo with this comprehensive travel guide.</description>
 	<pubDate>2024-05-12T01:18:19+03:00</pubDate>
-</item><item>
-	<title>Tacoma Travel Guide (South Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/south-sound/tacoma/</link>
-	<description>Discover the best places to visit, things to do, and local culture of Tacoma, the vibrant city in the South Sound region of Washington state.</description>
-	<pubDate>2024-05-12T01:03:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
