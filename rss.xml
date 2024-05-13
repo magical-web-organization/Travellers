@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T03:27:48+03:00</pubDate>
-        <lastBuildDate>2024-05-13T03:27:48+03:00</lastBuildDate>
+        <pubDate>2024-05-13T03:41:00+03:00</pubDate>
+        <lastBuildDate>2024-05-13T03:41:00+03:00</lastBuildDate>
 
         <item>
+	<title>Rolla Travel Guide (Turtle Mountains/North Dakota/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/turtle-mountains/rolla/</link>
+	<description>Get ready to explore Rolla with our comprehensive travel guide. Discover the top places to visit, the best things to do, and helpful travel tips for your adventure.</description>
+	<pubDate>2024-05-13T03:41:00+03:00</pubDate>
+</item><item>
 	<title>Fengxian Travel Guide (Shanghai/East China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/fengxian/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive guide to Fengxian, Shanghai.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/sicily/palermo-province/balestrate/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more in Balestrate, Sicily with this comprehensive travel guide.</description>
 	<pubDate>2024-05-12T23:12:55+03:00</pubDate>
-</item><item>
-	<title>Muskoka Travel Guide (Central Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/central-ontario/muskoka/</link>
-	<description>Explore the beauty of Muskoka with our comprehensive travel guide. Discover the best things to do, places to visit, where to stay, and more!</description>
-	<pubDate>2024-05-12T22:57:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
