@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T21:01:59+03:00</pubDate>
-        <lastBuildDate>2024-05-13T21:01:59+03:00</lastBuildDate>
+        <pubDate>2024-05-13T21:27:33+03:00</pubDate>
+        <lastBuildDate>2024-05-13T21:27:33+03:00</lastBuildDate>
 
         <item>
+	<title>Székesfehérvár Travel Guide (Fejér County/Central Transdanubia/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-transdanubia/fejer-county/szekesfehervar/</link>
+	<description>Discover the best places to visit, things to do, where to eat and stay, and top tips for your trip to Székesfehérvár, including a week-long itinerary, local culture, and customs, and safety and health information.</description>
+	<pubDate>2024-05-13T21:27:33+03:00</pubDate>
+</item><item>
 	<title>Trowbridge Travel Guide (Wiltshire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/wiltshire/trowbridge/</link>
 	<description>Discover the beauty of West Country in Trowbridge, England with our comprehensive tour guide. From cultural attractions to outdoor adventures, we have everything you need to plan the perfect trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/polynesia/kiribati/gilbert-islands/abaiang/</link>
 	<description>A detailed travel guide inclusive of all the information about Abaiang, including things to do, places to visit, where to stay, and local customs and culture.</description>
 	<pubDate>2024-05-13T16:36:08+03:00</pubDate>
-</item><item>
-	<title>Cegléd Travel Guide (Pest County/Central Hungary/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/pest-county/cegled/</link>
-	<description>Discover the hidden gem of Cegléd in Hungary. This travel guide covers the best attractions, hiking/biking routes, food and drink scene, where to stay, what to buy, and more.</description>
-	<pubDate>2024-05-13T16:31:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
