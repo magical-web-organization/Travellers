@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T15:32:23+03:00</pubDate>
-        <lastBuildDate>2024-05-13T15:32:23+03:00</lastBuildDate>
+        <pubDate>2024-05-13T15:56:10+03:00</pubDate>
+        <lastBuildDate>2024-05-13T15:56:10+03:00</lastBuildDate>
 
         <item>
+	<title>Koforidua Travel Guide (Ashanti-Kwahu/Ghana/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/ghana/ashanti-kwahu/koforidua/</link>
+	<description>Explore the culturally rich and naturally stunning landscapes of Koforidua, Ghana with our comprehensive travel guide featuring a list of places to visit, hiking/biking routes, must-try dishes, safety tips, and more.</description>
+	<pubDate>2024-05-13T15:56:10+03:00</pubDate>
+</item><item>
 	<title>Buxtehude Travel Guide (Elbe-Weser Triangle/Lower Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/elbe-weser-triangle/buxtehude/</link>
 	<description>Discover the beauty and hidden gems of Buxtehude through this comprehensive travel guide. From natural attractions to culturally rich museums, find out the best things to do in Buxtehude with helpful tips and recommendations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/burgos-city/</link>
 	<description>Explore the cultural and natural attractions, outdoor adventures, hiking and biking trails, food and drink scene, accommodations, local customs, and logistics of traveling to Burgos city.</description>
 	<pubDate>2024-05-13T11:08:32+03:00</pubDate>
-</item><item>
-	<title>Alaminos Travel Guide (Pangasinan/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/pangasinan/alaminos/</link>
-	<description>Check out this comprehensive travel guide to Alaminos, Philippines. Discover the best things to do, places to visit, food to try, and more in this must-visit destination.</description>
-	<pubDate>2024-05-13T10:45:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
