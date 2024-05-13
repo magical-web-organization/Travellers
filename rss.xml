@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T19:08:18+03:00</pubDate>
-        <lastBuildDate>2024-05-13T19:08:18+03:00</lastBuildDate>
+        <pubDate>2024-05-13T19:55:36+03:00</pubDate>
+        <lastBuildDate>2024-05-13T19:55:36+03:00</lastBuildDate>
 
         <item>
+	<title>Creede Travel Guide (South Central Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/south-central-colorado/creede/</link>
+	<description>Planning a trip to Creede, Colorado? Check out this comprehensive travel guide covering everything from places to visit, things to do, where to stay, what to buy, and more!</description>
+	<pubDate>2024-05-13T19:55:36+03:00</pubDate>
+</item><item>
 	<title>Ann Arbor Travel Guide (Washtenaw County/Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/washtenaw-county/ann-arbor/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, and travel logistics with this comprehensive travel guide for Ann Arbor, Michigan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/elbe-weser-triangle/buxtehude/</link>
 	<description>Discover the beauty and hidden gems of Buxtehude through this comprehensive travel guide. From natural attractions to culturally rich museums, find out the best things to do in Buxtehude with helpful tips and recommendations.</description>
 	<pubDate>2024-05-13T15:32:23+03:00</pubDate>
-</item><item>
-	<title>Grove Travel Guide (Green Country/Oklahoma/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/grove/</link>
-	<description>Plan your visit to Grove, Oklahoma with this helpful travel guide. From outdoor adventures to local cuisine and culture, we've got you covered.</description>
-	<pubDate>2024-05-13T15:01:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
