@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T04:41:29+03:00</pubDate>
-        <lastBuildDate>2024-05-13T04:41:29+03:00</lastBuildDate>
+        <pubDate>2024-05-13T05:26:05+03:00</pubDate>
+        <lastBuildDate>2024-05-13T05:26:05+03:00</lastBuildDate>
 
         <item>
+	<title>Tybee Island Travel Guide (Coastal Georgia/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/coastal-georgia/tybee-island/</link>
+	<description>Tybee Island is a beautiful coastal destination in Georgia that boasts natural beauty, outdoor adventures, rich history, local culture, and more. Read on to learn all about this stunning island and plan your dream trip.</description>
+	<pubDate>2024-05-13T05:26:05+03:00</pubDate>
+</item><item>
 	<title>Nueva Ecija Travel Guide (Central Luzon/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/central-luzon/nueva-ecija/</link>
 	<description>Discover the sights, sounds, and flavors of Nueva Ecija, Philippines with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/south/itabuna/</link>
 	<description>Explore the culturally significant museums and historical sites, outdoor adventures, hiking and biking routes, food and drink scene of Itabuna. Learn about local customs, safety, health, and transportation options.</description>
 	<pubDate>2024-05-13T01:03:27+03:00</pubDate>
-</item><item>
-	<title>Deerfield Township Travel Guide (Warren County/Greater Cincinnati/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/warren-county/deerfield-township/</link>
-	<description>Discover the best places to visit, eat, and stay in Deerfield Township, Ohio. Find out the best time to go and learn more about this charming town's culture and customs!</description>
-	<pubDate>2024-05-13T00:24:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
