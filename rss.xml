@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T17:35:05+03:00</pubDate>
-        <lastBuildDate>2024-05-13T17:35:05+03:00</lastBuildDate>
+        <pubDate>2024-05-13T18:19:54+03:00</pubDate>
+        <lastBuildDate>2024-05-13T18:19:54+03:00</lastBuildDate>
 
         <item>
+	<title>Dalton (Georgia) Travel Guide (Northwest High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/northwest-high-country/dalton-georgia/</link>
+	<description>Plan your trip to Dalton, Georgia with our comprehensive travel guide. Discover the top attractions, activities, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-13T18:19:54+03:00</pubDate>
+</item><item>
 	<title>Zona Rosa Travel Guide (Mexico City/Central Mexico/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/mexico-city/zona-rosa/</link>
 	<description>Plan your trip to Zona Rosa in Mexico City with this comprehensive travel guide featuring local attractions, food scene, safety tips, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/naklo/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, local culture, and transportation options in Nakło, Poland with our comprehensive travel guide.</description>
 	<pubDate>2024-05-13T13:37:35+03:00</pubDate>
-</item><item>
-	<title>Alto Ribeira State Touristic Park Travel Guide (Santos and South Coast/São Paulo (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/santos-and-south-coast/alto-ribeira-state-touristic-park/</link>
-	<description>Discover the natural wonders, cultural attractions, food scene, and logistics of Alto Ribeira State Touristic Park in this comprehensive guide.</description>
-	<pubDate>2024-05-13T13:17:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
