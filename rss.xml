@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T05:52:01+03:00</pubDate>
-        <lastBuildDate>2024-05-13T05:52:01+03:00</lastBuildDate>
+        <pubDate>2024-05-13T06:09:55+03:00</pubDate>
+        <lastBuildDate>2024-05-13T06:09:55+03:00</lastBuildDate>
 
         <item>
+	<title>Zabrze Travel Guide (Silesian Voivodeship/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/zabrze/</link>
+	<description>Explore the culturally rich and scenic city of Zabrze, Poland. Discover the must-visit museums, historical sites, outdoor adventures, local cuisines, accommodation options, customs, and transportation logistics.</description>
+	<pubDate>2024-05-13T06:09:55+03:00</pubDate>
+</item><item>
 	<title>Ko Bon Travel Guide (Phuket/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/phuket/ko-bon/</link>
 	<description>Explore the cultural and natural attractions of Ko Bon in Southern Thailand with our comprehensive travel guide. Find out where to stay, what to do, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/stuttgart-region/waldenbuch/</link>
 	<description>A complete travel guide to Waldenbuch, with information on places to visit, things to do, where to stay, local culture, safety, and logistics.</description>
 	<pubDate>2024-05-13T01:40:15+03:00</pubDate>
-</item><item>
-	<title>Kutaisi Travel Guide (Rioni Region/Georgia (country)/Caucasus/Asia)</title>
-	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/rioni-region/kutaisi/</link>
-	<description>Discover the best things to do and see in Kutaisi, Georgia, including cultural attractions, natural wonders, hiking and biking routes, food and drink scene, accommodations, and more.</description>
-	<pubDate>2024-05-13T01:25:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
