@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T10:45:58+03:00</pubDate>
-        <lastBuildDate>2024-05-13T10:45:58+03:00</lastBuildDate>
+        <pubDate>2024-05-13T11:08:32+03:00</pubDate>
+        <lastBuildDate>2024-05-13T11:08:32+03:00</lastBuildDate>
 
         <item>
+	<title>Burgos (city) Travel Guide (Castile and Leon/Central Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-and-leon/burgos-city/</link>
+	<description>Explore the cultural and natural attractions, outdoor adventures, hiking and biking trails, food and drink scene, accommodations, local customs, and logistics of traveling to Burgos city.</description>
+	<pubDate>2024-05-13T11:08:32+03:00</pubDate>
+</item><item>
 	<title>Alaminos Travel Guide (Pangasinan/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/pangasinan/alaminos/</link>
 	<description>Check out this comprehensive travel guide to Alaminos, Philippines. Discover the best things to do, places to visit, food to try, and more in this must-visit destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/crosshaven/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Crosshaven, Ireland. Explore its rich culture, scenic views, and outdoor adventures with our comprehensive travel guide.</description>
 	<pubDate>2024-05-13T06:55:28+03:00</pubDate>
-</item><item>
-	<title>Zabrze Travel Guide (Silesian Voivodeship/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/zabrze/</link>
-	<description>Explore the culturally rich and scenic city of Zabrze, Poland. Discover the must-visit museums, historical sites, outdoor adventures, local cuisines, accommodation options, customs, and transportation logistics.</description>
-	<pubDate>2024-05-13T06:09:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
