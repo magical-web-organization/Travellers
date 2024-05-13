@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T09:47:26+03:00</pubDate>
-        <lastBuildDate>2024-05-13T09:47:26+03:00</lastBuildDate>
+        <pubDate>2024-05-13T10:31:46+03:00</pubDate>
+        <lastBuildDate>2024-05-13T10:31:46+03:00</lastBuildDate>
 
         <item>
+	<title>Xiangcheng Travel Guide (Ganzi (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/xiangcheng/</link>
+	<description>Plan your trip to Xiangcheng with our comprehensive travel guide. From cultural attractions to natural wonders, we've got you covered.</description>
+	<pubDate>2024-05-13T10:31:46+03:00</pubDate>
+</item><item>
 	<title>Caravelas Travel Guide (South/Bahia/Northeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/south/caravelas/</link>
 	<description>Discover the best places to visit in Caravelas, Brazil, including outdoor adventures, cultural attractions, food and drink scene, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/phuket/ko-bon/</link>
 	<description>Explore the cultural and natural attractions of Ko Bon in Southern Thailand with our comprehensive travel guide. Find out where to stay, what to do, and how to get there.</description>
 	<pubDate>2024-05-13T05:52:01+03:00</pubDate>
-</item><item>
-	<title>Tybee Island Travel Guide (Coastal Georgia/Georgia (state)/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/coastal-georgia/tybee-island/</link>
-	<description>Tybee Island is a beautiful coastal destination in Georgia that boasts natural beauty, outdoor adventures, rich history, local culture, and more. Read on to learn all about this stunning island and plan your dream trip.</description>
-	<pubDate>2024-05-13T05:26:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
