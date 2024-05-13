@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T16:36:08+03:00</pubDate>
-        <lastBuildDate>2024-05-13T16:36:08+03:00</lastBuildDate>
+        <pubDate>2024-05-13T17:31:37+03:00</pubDate>
+        <lastBuildDate>2024-05-13T17:31:37+03:00</lastBuildDate>
 
         <item>
+	<title>Cojedes Travel Guide (Los Llanos/Venezuela/South America)</title>
+	<link>https://travellers.wiki/en/south-america/venezuela/los-llanos/cojedes/</link>
+	<description>Cojedes travel guide includes a list of places to visit, where to stay, best things to do, local culture, and customs. Get information about natural attractions, transportation options, and safety tips in Cojedes.</description>
+	<pubDate>2024-05-13T17:31:37+03:00</pubDate>
+</item><item>
 	<title>Abaiang Travel Guide (Gilbert Islands/Kiribati/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/kiribati/gilbert-islands/abaiang/</link>
 	<description>A detailed travel guide inclusive of all the information about Abaiang, including things to do, places to visit, where to stay, and local customs and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/blaauwberg-coast/</link>
 	<description>Discover the best places to visit, eat, stay and explore in Blaauwberg Coast with our comprehensive travel guide.</description>
 	<pubDate>2024-05-13T12:48:04+03:00</pubDate>
-</item><item>
-	<title>Sydney Harbour National Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/sydney-harbour-national-park/</link>
-	<description>Plan your trip to Sydney Harbour National Park with this comprehensive guide. Learn about the park's must-visit attractions, outdoor adventures, and food scene. Find out where to stay, how to get there, and what to do in this stunning natural paradise.</description>
-	<pubDate>2024-05-13T12:29:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
