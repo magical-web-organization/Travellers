@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T00:47:08+03:00</pubDate>
-        <lastBuildDate>2024-05-14T00:47:08+03:00</lastBuildDate>
+        <pubDate>2024-05-14T01:16:51+03:00</pubDate>
+        <lastBuildDate>2024-05-14T01:16:51+03:00</lastBuildDate>
 
         <item>
+	<title>Zafra Travel Guide (Extremadura/Central Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/extremadura/zafra/</link>
+	<description>Planning on visiting Zafra, Spain? Follow this comprehensive travel guide to make the most of your trip.</description>
+	<pubDate>2024-05-14T01:16:51+03:00</pubDate>
+</item><item>
 	<title>Boeotia Travel Guide (Central Greece/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/central-greece/boeotia/</link>
 	<description>Discover the cultural and natural wonders of Boeotia, Greece. This travel guide features a list of places to visit, hiking and biking routes, activities and tours, food and drink scene, accommodations options, transportation logistics, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/wiltshire/trowbridge/</link>
 	<description>Discover the beauty of West Country in Trowbridge, England with our comprehensive tour guide. From cultural attractions to outdoor adventures, we have everything you need to plan the perfect trip.</description>
 	<pubDate>2024-05-13T21:01:59+03:00</pubDate>
-</item><item>
-	<title>Collingswood Travel Guide (Camden County/Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/camden-county/collingswood/</link>
-	<description>Discover the best places to visit, things to do, food and drink scene, and local culture of Collingswood with this comprehensive travel guide.</description>
-	<pubDate>2024-05-13T20:32:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
