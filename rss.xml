@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-13T13:17:29+03:00</pubDate>
-        <lastBuildDate>2024-05-13T13:17:29+03:00</lastBuildDate>
+        <pubDate>2024-05-13T13:37:35+03:00</pubDate>
+        <lastBuildDate>2024-05-13T13:37:35+03:00</lastBuildDate>
 
         <item>
+	<title>Nakło Travel Guide (Silesian Voivodeship/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/naklo/</link>
+	<description>Discover the best places to visit, food and drink scene, where to stay, local culture, and transportation options in Nakło, Poland with our comprehensive travel guide.</description>
+	<pubDate>2024-05-13T13:37:35+03:00</pubDate>
+</item><item>
 	<title>Alto Ribeira State Touristic Park Travel Guide (Santos and South Coast/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/santos-and-south-coast/alto-ribeira-state-touristic-park/</link>
 	<description>Discover the natural wonders, cultural attractions, food scene, and logistics of Alto Ribeira State Touristic Park in this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/svalbard/sor-spitsbergen-national-park/</link>
 	<description>Discover the best things to do, places to stay, and local culture in Sør-Spitsbergen National Park. Explore the natural and cultural attractions, hiking and biking routes, nearby destinations, and transportation options.</description>
 	<pubDate>2024-05-13T09:26:20+03:00</pubDate>
-</item><item>
-	<title>Weddin Mountains National Park Travel Guide (Central West/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/weddin-mountains-national-park/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and other tips for experiencing Weddin Mountains National Park in New South Wales, Australia.</description>
-	<pubDate>2024-05-13T08:47:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
