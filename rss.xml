@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T20:11:22+03:00</pubDate>
-        <lastBuildDate>2024-05-14T20:11:22+03:00</lastBuildDate>
+        <pubDate>2024-05-14T20:54:12+03:00</pubDate>
+        <lastBuildDate>2024-05-14T20:54:12+03:00</lastBuildDate>
 
         <item>
+	<title>Shahdad Travel Guide (Kerman (province)/Central Iran/Iran/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iran/central-iran/kerman-province/shahdad/</link>
+	<description>Explore the best things to do and see in Shahdad, Iran. Learn about the culture, the best time to visit, safety tips, transportation, and more in this comprehensive guide.</description>
+	<pubDate>2024-05-14T20:54:12+03:00</pubDate>
+</item><item>
 	<title>Kazimierz Travel Guide (Kraków/Małopolskie/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/krakow/kazimierz/</link>
 	<description>Plan your trip to Kazimierz, Poland's cultural and natural hub with our comprehensive travel guide featuring a list of places to visit, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/asturias/oviedo/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Oviedo. Read our travel guide before planning your trip!</description>
 	<pubDate>2024-05-14T16:12:43+03:00</pubDate>
-</item><item>
-	<title>The Coast Travel Guide (Perth/Western Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/western-australia/perth/the-coast/</link>
-	<description>Discover the best things to see, eat, and do in The Coast area of Perth, Western Australia, including where to stay, how to get around, and cultural highlights. Follow our week-long itinerary and discover the highlights of this stunning area.</description>
-	<pubDate>2024-05-14T15:53:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
