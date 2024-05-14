@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T16:12:43+03:00</pubDate>
-        <lastBuildDate>2024-05-14T16:12:43+03:00</lastBuildDate>
+        <pubDate>2024-05-14T16:52:11+03:00</pubDate>
+        <lastBuildDate>2024-05-14T16:52:11+03:00</lastBuildDate>
 
         <item>
+	<title>Crete Senese Travel Guide (Siena (province)/Tuscany/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/crete-senese/</link>
+	<description>Plan your trip to the beautiful region of Crete Senese in Tuscany, Italy with our comprehensive travel guide featuring must-see attractions, outdoor adventures, cultural experiences, local cuisine, accommodations, and more.</description>
+	<pubDate>2024-05-14T16:52:11+03:00</pubDate>
+</item><item>
 	<title>Oviedo Travel Guide (Asturias/Green Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/asturias/oviedo/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Oviedo. Read our travel guide before planning your trip!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/herefordshire/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Herefordshire. Plan your next adventure with our comprehensive travel guide.</description>
 	<pubDate>2024-05-14T12:32:11+03:00</pubDate>
-</item><item>
-	<title>Chiang Khong Travel Guide (Chiang Rai Province/Northern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/chiang-rai-province/chiang-khong/</link>
-	<description>A comprehensive guide to Chiang Khong featuring places to visit, things to do, restaurants, hotels, local culture, safety tips, and transportation options.</description>
-	<pubDate>2024-05-14T12:01:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
