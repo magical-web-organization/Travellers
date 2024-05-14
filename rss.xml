@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T20:54:12+03:00</pubDate>
-        <lastBuildDate>2024-05-14T20:54:12+03:00</lastBuildDate>
+        <pubDate>2024-05-14T21:14:34+03:00</pubDate>
+        <lastBuildDate>2024-05-14T21:14:34+03:00</lastBuildDate>
 
         <item>
+	<title>Mlilwane Wildlife Sanctuary Travel Guide (Eswatini/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/eswatini/mlilwane-wildlife-sanctuary/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in Mlilwane Wildlife Sanctuary with our comprehensive travel guide.</description>
+	<pubDate>2024-05-14T21:14:34+03:00</pubDate>
+</item><item>
 	<title>Shahdad Travel Guide (Kerman (province)/Central Iran/Iran/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/iran/central-iran/kerman-province/shahdad/</link>
 	<description>Explore the best things to do and see in Shahdad, Iran. Learn about the culture, the best time to visit, safety tips, transportation, and more in this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/crete-senese/</link>
 	<description>Plan your trip to the beautiful region of Crete Senese in Tuscany, Italy with our comprehensive travel guide featuring must-see attractions, outdoor adventures, cultural experiences, local cuisine, accommodations, and more.</description>
 	<pubDate>2024-05-14T16:52:11+03:00</pubDate>
-</item><item>
-	<title>Oviedo Travel Guide (Asturias/Green Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/asturias/oviedo/</link>
-	<description>Discover the best places to visit, things to do, and local culture of Oviedo. Read our travel guide before planning your trip!</description>
-	<pubDate>2024-05-14T16:12:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
