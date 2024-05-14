@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T00:22:52+03:00</pubDate>
-        <lastBuildDate>2024-05-15T00:22:52+03:00</lastBuildDate>
+        <pubDate>2024-05-15T00:55:32+03:00</pubDate>
+        <lastBuildDate>2024-05-15T00:55:32+03:00</lastBuildDate>
 
         <item>
+	<title>Ghadamis Travel Guide (Libya/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/libya/ghadamis/</link>
+	<description>Plan your trip to Ghadamis, Libya with our detailed travel guide. Explore cultural attractions, natural wonders, outdoor adventures, local cuisine, and more.</description>
+	<pubDate>2024-05-15T00:55:32+03:00</pubDate>
+</item><item>
 	<title>Trindade Travel Guide (Costa Verde/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/costa-verde/trindade/</link>
 	<description>Discover the best things to do, see, and eat in Trindade, Brazil. This comprehensive travel guide provides all the information you need to plan your trip to one of the most beautiful places in Brazil.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/krakow/kazimierz/</link>
 	<description>Plan your trip to Kazimierz, Poland's cultural and natural hub with our comprehensive travel guide featuring a list of places to visit, hiking and biking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-05-14T20:11:22+03:00</pubDate>
-</item><item>
-	<title>Megève Travel Guide (Haute-Savoie/Auvergne-Rhône-Alpes/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/haute-savoie/megeve/</link>
-	<description>Explore the best places to visit, things to do, where to stay and eat, and the local customs of Megève, France. Discover all the safety, transportation, and health information you need to plan your dream vacation.</description>
-	<pubDate>2024-05-14T19:52:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
