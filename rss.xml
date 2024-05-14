@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T02:59:38+03:00</pubDate>
-        <lastBuildDate>2024-05-14T02:59:38+03:00</lastBuildDate>
+        <pubDate>2024-05-14T03:39:18+03:00</pubDate>
+        <lastBuildDate>2024-05-14T03:39:18+03:00</lastBuildDate>
 
         <item>
+	<title>Chinchón Travel Guide (Community of Madrid/Central Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/community-of-madrid/chinchon/</link>
+	<description>Explore the best of the charming town of Chinchón, from cultural attractions to food and drink scene, outdoor adventures, getting around, and nearby destinations. Plan your trip with this comprehensive travel guide.</description>
+	<pubDate>2024-05-14T03:39:18+03:00</pubDate>
+</item><item>
 	<title>La Ronge Travel Guide (Northern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/northern-saskatchewan/la-ronge/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and tips for safety and health when traveling to La Ronge in Saskatchewan, Canada.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/vastergotland/ulricehamn/</link>
 	<description>Explore the natural and cultural attractions of Ulricehamn, Sweden. Learn useful tips for a safe and enjoyable experience, including things to do, where to stay, and how to get around.</description>
 	<pubDate>2024-05-13T22:52:32+03:00</pubDate>
-</item><item>
-	<title>Westland Travel Guide (Wayne County/Metro Detroit/Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/wayne-county/westland/</link>
-	<description>Westland is in Michigan, the Midwest and United States of America. It is one of the best travel destinations in the State of Michigan. This travel guide will help you explore the best of Westland with comprehensive tips on accommodations, food and drink, activities, transportation, and more.</description>
-	<pubDate>2024-05-13T22:31:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
