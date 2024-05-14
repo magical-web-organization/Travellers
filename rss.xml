@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T19:08:58+03:00</pubDate>
-        <lastBuildDate>2024-05-14T19:08:58+03:00</lastBuildDate>
+        <pubDate>2024-05-14T19:52:16+03:00</pubDate>
+        <lastBuildDate>2024-05-14T19:52:16+03:00</lastBuildDate>
 
         <item>
+	<title>Megève Travel Guide (Haute-Savoie/Auvergne-Rhône-Alpes/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/haute-savoie/megeve/</link>
+	<description>Explore the best places to visit, things to do, where to stay and eat, and the local customs of Megève, France. Discover all the safety, transportation, and health information you need to plan your dream vacation.</description>
+	<pubDate>2024-05-14T19:52:16+03:00</pubDate>
+</item><item>
 	<title>Itacaré Travel Guide (South/Bahia/Northeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/south/itacare/</link>
 	<description>Plan your trip to Itacaré with this comprehensive tour guide that includes a list of places to visit, hiking/biking routes, things to do, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/deadhorse/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture, safety, getting there, and more in Deadhorse, Alaska.</description>
 	<pubDate>2024-05-14T15:18:25+03:00</pubDate>
-</item><item>
-	<title>Kenora Travel Guide (Northwestern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northwestern-ontario/kenora/</link>
-	<description>This guide will provide all the information you need to plan your trip to Kenora, Canada. From the best places to visit to where to stay, we have got you covered.</description>
-	<pubDate>2024-05-14T14:34:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
