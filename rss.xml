@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T12:32:11+03:00</pubDate>
-        <lastBuildDate>2024-05-14T12:32:11+03:00</lastBuildDate>
+        <pubDate>2024-05-14T12:40:46+03:00</pubDate>
+        <lastBuildDate>2024-05-14T12:40:46+03:00</lastBuildDate>
 
         <item>
+	<title>Ogba Travel Guide (Lagos State/South West Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/lagos-state/ogba/</link>
+	<description>Explore the culturally rich and natural attractions of Ogba, Lagos with this comprehensive tour guide. Discover the best things to do, where to stay, and what to buy in Ogba, along with local culture and customs, safety, health, and transportation options.</description>
+	<pubDate>2024-05-14T12:40:46+03:00</pubDate>
+</item><item>
 	<title>Herefordshire Travel Guide (West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/herefordshire/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Herefordshire. Plan your next adventure with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/wayanad/kalpetta/</link>
 	<description>Explore the best of Kalpetta, from historic landmarks to natural attractions, with this comprehensive tourist guide. Discover the best places to visit, hiking/biking routes, best things to do, where to stay, what to buy, and more!</description>
 	<pubDate>2024-05-14T08:30:47+03:00</pubDate>
-</item><item>
-	<title>Petawawa Travel Guide (Ottawa Valley/Eastern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/ottawa-valley/petawawa/</link>
-	<description>Explore the natural beauty, local culture, and outdoor adventures of Petawawa, Ontario with our comprehensive travel guide. Find the best places to visit, stay, and eat, and learn about the must-try dishes and local customs.</description>
-	<pubDate>2024-05-14T07:54:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
