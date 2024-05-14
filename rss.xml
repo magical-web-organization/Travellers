@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T15:18:25+03:00</pubDate>
-        <lastBuildDate>2024-05-14T15:18:25+03:00</lastBuildDate>
+        <pubDate>2024-05-14T15:53:05+03:00</pubDate>
+        <lastBuildDate>2024-05-14T15:53:05+03:00</lastBuildDate>
 
         <item>
+	<title>The Coast Travel Guide (Perth/Western Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/western-australia/perth/the-coast/</link>
+	<description>Discover the best things to see, eat, and do in The Coast area of Perth, Western Australia, including where to stay, how to get around, and cultural highlights. Follow our week-long itinerary and discover the highlights of this stunning area.</description>
+	<pubDate>2024-05-14T15:53:05+03:00</pubDate>
+</item><item>
 	<title>Deadhorse Travel Guide (Arctic Alaska/Alaska/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/deadhorse/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture, safety, getting there, and more in Deadhorse, Alaska.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/tunisia/northern-tunisia/ichkeul-national-park/</link>
 	<description>Find out the must-visit places, things to do, and practical tips for your next adventure in Ichkeul National Park. Discover the cultural and natural attractions and have an unforgettable experience in this Tunisian gem.</description>
 	<pubDate>2024-05-14T11:27:51+03:00</pubDate>
-</item><item>
-	<title>Big Diomede Travel Guide (Chukotka/Russian Far East/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/chukotka/big-diomede/</link>
-	<description>Plan your trip to Big Diomede with our helpful travel guide. Discover cultural attractions, outdoor adventures, food and drink scene, accommodations, and more.</description>
-	<pubDate>2024-05-14T10:38:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
