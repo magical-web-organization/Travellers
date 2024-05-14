@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T21:44:48+03:00</pubDate>
-        <lastBuildDate>2024-05-14T21:44:48+03:00</lastBuildDate>
+        <pubDate>2024-05-14T22:11:39+03:00</pubDate>
+        <lastBuildDate>2024-05-14T22:11:39+03:00</lastBuildDate>
 
         <item>
+	<title>Welkom Travel Guide (Free State/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/free-state/welkom/</link>
+	<description>Plan your visit to Welkom with this comprehensive guide featuring must-visit attractions, hiking and biking routes, food and drink scene, transportation options, safety tips, and more.</description>
+	<pubDate>2024-05-14T22:11:39+03:00</pubDate>
+</item><item>
 	<title>Sheregesh Travel Guide (Kemerovo Oblast/Western Siberia/Siberia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/siberia/western-siberia/kemerovo-oblast/sheregesh/</link>
 	<description>Discover the best of Sheregesh with our comprehensive travel guide. Find places to visit, things to do, where to stay, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/bahamas/mayaguana/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and culture to explore in Mayaguana, Bahamas. Read this travel guide and plan an unforgettable trip!</description>
 	<pubDate>2024-05-14T17:47:53+03:00</pubDate>
-</item><item>
-	<title>Kent Island Travel Guide (Eastern Shore/Maryland/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/eastern-shore/kent-island/</link>
-	<description>Discover the best things to do, places to visit, and local culture of Kent Island, Maryland in this comprehensive travel guide.</description>
-	<pubDate>2024-05-14T17:32:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
