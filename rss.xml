@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T14:34:18+03:00</pubDate>
-        <lastBuildDate>2024-05-14T14:34:18+03:00</lastBuildDate>
+        <pubDate>2024-05-14T15:18:25+03:00</pubDate>
+        <lastBuildDate>2024-05-14T15:18:25+03:00</lastBuildDate>
 
         <item>
+	<title>Deadhorse Travel Guide (Arctic Alaska/Alaska/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/deadhorse/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture, safety, getting there, and more in Deadhorse, Alaska.</description>
+	<pubDate>2024-05-14T15:18:25+03:00</pubDate>
+</item><item>
 	<title>Kenora Travel Guide (Northwestern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northwestern-ontario/kenora/</link>
 	<description>This guide will provide all the information you need to plan your trip to Kenora, Canada. From the best places to visit to where to stay, we have got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/chukotka/big-diomede/</link>
 	<description>Plan your trip to Big Diomede with our helpful travel guide. Discover cultural attractions, outdoor adventures, food and drink scene, accommodations, and more.</description>
 	<pubDate>2024-05-14T10:38:36+03:00</pubDate>
-</item><item>
-	<title>Ayr Travel Guide (Central Queensland/Queensland/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/queensland/central-queensland/ayr/</link>
-	<description>Plan your trip to Ayr with this detailed guide, including a list of top attractions, activities, and places to stay in Ayr.</description>
-	<pubDate>2024-05-14T10:20:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
