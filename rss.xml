@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-14T06:18:41+03:00</pubDate>
-        <lastBuildDate>2024-05-14T06:18:41+03:00</lastBuildDate>
+        <pubDate>2024-05-14T06:44:45+03:00</pubDate>
+        <lastBuildDate>2024-05-14T06:44:45+03:00</lastBuildDate>
 
         <item>
+	<title>Reynoldsburg Travel Guide (Greater Columbus/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-columbus/reynoldsburg/</link>
+	<description>Plan your visit to Reynoldsburg with our comprehensive travel guide, featuring top attractions, things to do, places to eat and stay, and more.</description>
+	<pubDate>2024-05-14T06:44:45+03:00</pubDate>
+</item><item>
 	<title>Sainthia Travel Guide (West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/sainthia/</link>
 	<description>Explore the cultural and natural attractions, food, and traditions of Sainthia in West Bengal, India, in this comprehensive travel guide. Find out about the best places to visit, hike, bike, and eat; where to stay; local customs and safety tips, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/southeast-missouri/mark-twain-national-forest/</link>
 	<description>Plan your next adventurous getaway to Mark Twain National Forest with our detailed travel guide. Explore the cultural and natural attractions, hiking and biking routes, food and drink scene, accommodation options, safety tips, and more.</description>
 	<pubDate>2024-05-14T01:37:32+03:00</pubDate>
-</item><item>
-	<title>Zafra Travel Guide (Extremadura/Central Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/extremadura/zafra/</link>
-	<description>Planning on visiting Zafra, Spain? Follow this comprehensive travel guide to make the most of your trip.</description>
-	<pubDate>2024-05-14T01:16:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
