@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T13:52:56+03:00</pubDate>
-        <lastBuildDate>2024-05-15T13:52:56+03:00</lastBuildDate>
+        <pubDate>2024-05-15T14:05:23+03:00</pubDate>
+        <lastBuildDate>2024-05-15T14:05:23+03:00</lastBuildDate>
 
         <item>
+	<title>Hsipaw Travel Guide (Eastern Myanmar/Myanmar/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/eastern-myanmar/hsipaw/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Hsipaw, Myanmar. This comprehensive travel guide will help plan your trip.</description>
+	<pubDate>2024-05-15T14:05:23+03:00</pubDate>
+</item><item>
 	<title>Malargüe Travel Guide (Mendoza (province)/Cuyo/Argentina/South America)</title>
 	<link>https://travellers.wiki/en/south-america/argentina/cuyo/mendoza-province/malargue/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Malargüe, Argentina. Learn about the local culture, food, and customs, and plan your trip with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/bluegrass-region/nicholasville/</link>
 	<description>Discover the top things to do and places to visit in Nicholasville, Kentucky. Read about its attractions, culture, accommodation options, and travel tips.</description>
 	<pubDate>2024-05-15T10:00:15+03:00</pubDate>
-</item><item>
-	<title>Strasburg Travel Guide (Lancaster County/Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/lancaster-county/strasburg/</link>
-	<description>Discover the best things to do, places to visit, where to stay, and more with this comprehensive travel guide to Strasburg, Pennsylvania.</description>
-	<pubDate>2024-05-15T09:05:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
