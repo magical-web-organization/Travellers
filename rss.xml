@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T10:05:04+03:00</pubDate>
-        <lastBuildDate>2024-05-15T10:05:04+03:00</lastBuildDate>
+        <pubDate>2024-05-15T10:51:19+03:00</pubDate>
+        <lastBuildDate>2024-05-15T10:51:19+03:00</lastBuildDate>
 
         <item>
+	<title>Sombrerete Travel Guide (Zacatecas (state)/Bajío/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/bajio/zacatecas-state/sombrerete/</link>
+	<description>Plan your trip to Sombrerete, Zacatecas with our comprehensive travel guide. Explore cultural attractions, natural wonders, outdoor adventures, food scene, local culture, and practical tips.</description>
+	<pubDate>2024-05-15T10:51:19+03:00</pubDate>
+</item><item>
 	<title>Yeongju Travel Guide (North Gyeongsang/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-gyeongsang/yeongju/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and eat in Yeongju, South Korea with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/contra-costa-county/richmond/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and tips for safety, health, and transportation in Richmond, California.</description>
 	<pubDate>2024-05-15T06:04:14+03:00</pubDate>
-</item><item>
-	<title>Sæby Travel Guide (North Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/north-jutland/saeby/</link>
-	<description>Explore the beautiful town of Sæby with our comprehensive travel guide. Discover the best attractions, activities, food scene, and more.</description>
-	<pubDate>2024-05-15T05:58:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
