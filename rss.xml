@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T04:05:45+03:00</pubDate>
-        <lastBuildDate>2024-05-15T04:05:45+03:00</lastBuildDate>
+        <pubDate>2024-05-15T04:40:59+03:00</pubDate>
+        <lastBuildDate>2024-05-15T04:40:59+03:00</lastBuildDate>
 
         <item>
+	<title>Callahan Travel Guide (First Coast/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/first-coast/callahan/</link>
+	<description>Discover the must-see attractions, outdoor adventures, food scene, and local culture of Callahan, Florida, with our comprehensive travel guide.</description>
+	<pubDate>2024-05-15T04:40:59+03:00</pubDate>
+</item><item>
 	<title>Wanaka Travel Guide (Queenstown-Lakes/South Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/queenstown-lakes/wanaka/</link>
 	<description>Plan your trip to Wanaka, New Zealand with our comprehensive travel guide! Discover the best things to do, see, and eat in Wanaka, and explore the wonderful attractions and natural beauty of the town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/costa-verde/trindade/</link>
 	<description>Discover the best things to do, see, and eat in Trindade, Brazil. This comprehensive travel guide provides all the information you need to plan your trip to one of the most beautiful places in Brazil.</description>
 	<pubDate>2024-05-15T00:22:52+03:00</pubDate>
-</item><item>
-	<title>El Jadida Travel Guide (North Atlantic Coast/Morocco/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/morocco/north-atlantic-coast/el-jadida/</link>
-	<description>Explore the beauty of El Jadida, Morocco with this travel guide. Discover the top places to visit, best things to do, food and drink scene, where to stay and more.</description>
-	<pubDate>2024-05-14T23:47:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
