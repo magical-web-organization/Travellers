@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T08:47:57+03:00</pubDate>
-        <lastBuildDate>2024-05-15T08:47:57+03:00</lastBuildDate>
+        <pubDate>2024-05-15T09:05:47+03:00</pubDate>
+        <lastBuildDate>2024-05-15T09:05:47+03:00</lastBuildDate>
 
         <item>
+	<title>Strasburg Travel Guide (Lancaster County/Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/lancaster-county/strasburg/</link>
+	<description>Discover the best things to do, places to visit, where to stay, and more with this comprehensive travel guide to Strasburg, Pennsylvania.</description>
+	<pubDate>2024-05-15T09:05:47+03:00</pubDate>
+</item><item>
 	<title>Tongatapu Travel Guide (Tonga/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/tonga/tongatapu/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Tongatapu, along with local customs, transportation options, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/first-coast/callahan/</link>
 	<description>Discover the must-see attractions, outdoor adventures, food scene, and local culture of Callahan, Florida, with our comprehensive travel guide.</description>
 	<pubDate>2024-05-15T04:40:59+03:00</pubDate>
-</item><item>
-	<title>Wanaka Travel Guide (Queenstown-Lakes/South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/queenstown-lakes/wanaka/</link>
-	<description>Plan your trip to Wanaka, New Zealand with our comprehensive travel guide! Discover the best things to do, see, and eat in Wanaka, and explore the wonderful attractions and natural beauty of the town.</description>
-	<pubDate>2024-05-15T04:05:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
