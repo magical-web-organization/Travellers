@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T02:08:28+03:00</pubDate>
-        <lastBuildDate>2024-05-16T02:08:28+03:00</lastBuildDate>
+        <pubDate>2024-05-16T02:54:17+03:00</pubDate>
+        <lastBuildDate>2024-05-16T02:54:17+03:00</lastBuildDate>
 
         <item>
+	<title>Taganana Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/taganana/</link>
+	<description>Discover Taganana in Tenerife with this comprehensive travel guide. Explore the culturally important attractions, natural wonders, hiking routes, local cuisine, and customs, transportation options, and nearby destinations.</description>
+	<pubDate>2024-05-16T02:54:17+03:00</pubDate>
+</item><item>
 	<title>Donghae Travel Guide (Gangwon/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gangwon/donghae/</link>
 	<description>Explore the culturally significant attractions, natural wonders, food and drink scene, and more in Donghae. Plan your trip with our week-long itinerary and learn about local customs and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/morris-county/mount-olive/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Mount Olive, New Jersey with this comprehensive travel guide.</description>
 	<pubDate>2024-05-15T22:19:05+03:00</pubDate>
-</item><item>
-	<title>Tumen Travel Guide (Yanbian/Jilin/Northeast China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/jilin/yanbian/tumen/</link>
-	<description>Discover the best things to do, places to visit, where to eat and stay, and tips for traveling safely in Tumen in this comprehensive travel guide.</description>
-	<pubDate>2024-05-15T21:59:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
