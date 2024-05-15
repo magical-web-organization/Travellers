@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T12:36:45+03:00</pubDate>
-        <lastBuildDate>2024-05-15T12:36:45+03:00</lastBuildDate>
+        <pubDate>2024-05-15T13:11:20+03:00</pubDate>
+        <lastBuildDate>2024-05-15T13:11:20+03:00</lastBuildDate>
 
         <item>
+	<title>Zunyi Travel Guide (Guizhou/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/guizhou/zunyi/</link>
+	<description>Discover the best things to do, places to see, and where to stay in Zunyi, China, with this comprehensive travel guide. Find out about the history, culture, and local customs of this region.</description>
+	<pubDate>2024-05-15T13:11:20+03:00</pubDate>
+</item><item>
 	<title>Nederland Travel Guide (Front Range/Colorado/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/front-range/nederland/</link>
 	<description>Plan your visit to Nederland, Colorado with our comprehensive travel guide filled with things to do, places to see, and essential travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/polynesia/tonga/tongatapu/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Tongatapu, along with local customs, transportation options, safety tips, and more.</description>
 	<pubDate>2024-05-15T08:47:57+03:00</pubDate>
-</item><item>
-	<title>Freixo de Espada à Cinta Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/freixo-de-espada-a-cinta/</link>
-	<description>Discover the best of Freixo de Espada à Cinta with our comprehensive travel guide, featuring top-rated attractions, activities, food, accommodations, and more.</description>
-	<pubDate>2024-05-15T08:12:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
