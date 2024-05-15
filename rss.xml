@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T07:48:01+03:00</pubDate>
-        <lastBuildDate>2024-05-15T07:48:01+03:00</lastBuildDate>
+        <pubDate>2024-05-15T08:12:51+03:00</pubDate>
+        <lastBuildDate>2024-05-15T08:12:51+03:00</lastBuildDate>
 
         <item>
+	<title>Freixo de Espada à Cinta Travel Guide (Trás-os-Montes e Alto Douro/Northern Portugal/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/freixo-de-espada-a-cinta/</link>
+	<description>Discover the best of Freixo de Espada à Cinta with our comprehensive travel guide, featuring top-rated attractions, activities, food, accommodations, and more.</description>
+	<pubDate>2024-05-15T08:12:51+03:00</pubDate>
+</item><item>
 	<title>Oliveira do Bairro Travel Guide (Beira Litoral/Beiras/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-litoral/oliveira-do-bairro/</link>
 	<description>Plan your trip to Oliveira do Bairro with our comprehensive travel guide. Learn what to see, do, eat, and stay in this charming town in Portugal's Beiras region.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/northern-coast/yanam/</link>
 	<description>Plan your trip to Yanam, India with this comprehensive travel guide. Discover the culture, food, attractions, and more.</description>
 	<pubDate>2024-05-15T03:50:05+03:00</pubDate>
-</item><item>
-	<title>Kebumen Travel Guide (Kedu/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/kedu/kebumen/</link>
-	<description>Discover the best places to visit, food to try, where to stay, and more in Kebumen, Central Java with this comprehensive travel guide.</description>
-	<pubDate>2024-05-15T03:32:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
