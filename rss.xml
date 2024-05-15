@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T16:39:32+03:00</pubDate>
-        <lastBuildDate>2024-05-15T16:39:32+03:00</lastBuildDate>
+        <pubDate>2024-05-15T17:08:26+03:00</pubDate>
+        <lastBuildDate>2024-05-15T17:08:26+03:00</lastBuildDate>
 
         <item>
+	<title>Floreana Travel Guide (Galapagos Islands/Ecuador/South America)</title>
+	<link>https://travellers.wiki/en/south-america/ecuador/galapagos-islands/floreana/</link>
+	<description>Explore the natural beauty and cultural heritage of Floreana in Galapagos Islands, Ecuador with this comprehensive travel guide. Find out about the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-15T17:08:26+03:00</pubDate>
+</item><item>
 	<title>Suchitoto Travel Guide (Western El Salvador/El Salvador/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/el-salvador/western-el-salvador/suchitoto/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay and more in Suchitoto - the hidden gem of El Salvador.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/minsk-region/slutsk/</link>
 	<description>Explore Slutsk, a charming town in Belarus, filled with a rich cultural and natural heritage. This comprehensive guide covers must-visit attractions, local cuisines, safety tips, and transportation options.</description>
 	<pubDate>2024-05-15T11:42:56+03:00</pubDate>
-</item><item>
-	<title>Huddersfield Travel Guide (West Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/west-yorkshire/huddersfield/</link>
-	<description>Discover the best places to visit, eat, stay, and things to do in Huddersfield. Get useful tips, cultural insights, and practical information for your trip to West Yorkshire's historic town.</description>
-	<pubDate>2024-05-15T11:24:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
