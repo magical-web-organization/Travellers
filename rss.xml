@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-15T05:08:03+03:00</pubDate>
-        <lastBuildDate>2024-05-15T05:08:03+03:00</lastBuildDate>
+        <pubDate>2024-05-15T05:58:24+03:00</pubDate>
+        <lastBuildDate>2024-05-15T05:58:24+03:00</lastBuildDate>
 
         <item>
+	<title>Sæby Travel Guide (North Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/north-jutland/saeby/</link>
+	<description>Explore the beautiful town of Sæby with our comprehensive travel guide. Discover the best attractions, activities, food scene, and more.</description>
+	<pubDate>2024-05-15T05:58:24+03:00</pubDate>
+</item><item>
 	<title>Eastchester Travel Guide (Westchester County/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/westchester-county/eastchester/</link>
 	<description>A detailed travel guide to Eastchester, covering places to visit, activities, itinerary, food and drink scene, local culture, safety, transportation and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-sligo/sligo/</link>
 	<description>Planning a trip to Sligo? This comprehensive guide covers everything you need to know to make the most of your visit, from top attractions to where to stay and what to eat.</description>
 	<pubDate>2024-05-15T01:20:57+03:00</pubDate>
-</item><item>
-	<title>Ghadamis Travel Guide (Libya/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/libya/ghadamis/</link>
-	<description>Plan your trip to Ghadamis, Libya with our detailed travel guide. Explore cultural attractions, natural wonders, outdoor adventures, local cuisine, and more.</description>
-	<pubDate>2024-05-15T00:55:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
