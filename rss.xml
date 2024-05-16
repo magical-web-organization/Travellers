@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T23:01:29+03:00</pubDate>
-        <lastBuildDate>2024-05-16T23:01:29+03:00</lastBuildDate>
+        <pubDate>2024-05-16T23:28:37+03:00</pubDate>
+        <lastBuildDate>2024-05-16T23:28:37+03:00</lastBuildDate>
 
         <item>
+	<title>Denver Travel Guide (Denver Area/Colorado/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/denver-area/denver/</link>
+	<description>Plan your trip to Denver with our helpful guide, including a list of places to visit, hiking/biking routes, best tours and activities, food scene, where to stay, and more.</description>
+	<pubDate>2024-05-16T23:28:37+03:00</pubDate>
+</item><item>
 	<title>Mikurajima Travel Guide (Izu Islands/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/izu-islands/mikurajima/</link>
 	<description>Mikurajima travel guide providing detailed information on best things to do, where to stay, what to eat, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/swietokrzyskie/sandomierz/</link>
 	<description>Planning a trip to Sandomierz, Poland? Check out our comprehensive travel guide featuring must-visit attractions, hiking and biking routes, food scene, and more!</description>
 	<pubDate>2024-05-16T18:50:03+03:00</pubDate>
-</item><item>
-	<title>Lansdale Travel Guide (Montgomery County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/montgomery-county/lansdale/</link>
-	<description>Plan your trip to Lansdale with our comprehensive travel guide. Discover the top attractions, food and drinks, local culture, safety, transportation, and more!</description>
-	<pubDate>2024-05-16T18:12:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
