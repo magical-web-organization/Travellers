@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T15:27:28+03:00</pubDate>
-        <lastBuildDate>2024-05-16T15:27:28+03:00</lastBuildDate>
+        <pubDate>2024-05-16T15:54:16+03:00</pubDate>
+        <lastBuildDate>2024-05-16T15:54:16+03:00</lastBuildDate>
 
         <item>
+	<title>Mukutmanipur Travel Guide (Rarh/West Bengal/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/rarh/mukutmanipur/</link>
+	<description>Find out everything you need to know about Mukutmanipur in West Bengal, India, including the best things to do, places to stay, must-try foods, and transportation options.</description>
+	<pubDate>2024-05-16T15:54:16+03:00</pubDate>
+</item><item>
 	<title>Saeftinghe Travel Guide (Zeeland/Southern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/zeeland/saeftinghe/</link>
 	<description>Explore the beauty of Saeftinghe, situated in Southern Netherlands. With natural attractions, hiking trails, and traditional food and drinks, Saeftinghe is a must-visit destination. Learn about its culture and customs, safety measures, and transportation options in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/waikato/coromandel-peninsula/pauanui/</link>
 	<description>Discover the best things to do in Pauanui, New Zealand, from outdoor adventures to cultural attractions, where to stay, and more with our complete travel guide.</description>
 	<pubDate>2024-05-16T11:17:53+03:00</pubDate>
-</item><item>
-	<title>Desenzano del Garda Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/desenzano-del-garda/</link>
-	<description>Discover the stunning beauty of Desenzano del Garda with our comprehensive travel guide. From must-see attractions to best places to stay, we've got you covered.</description>
-	<pubDate>2024-05-16T11:01:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
