@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T19:20:41+03:00</pubDate>
-        <lastBuildDate>2024-05-16T19:20:41+03:00</lastBuildDate>
+        <pubDate>2024-05-16T19:38:23+03:00</pubDate>
+        <lastBuildDate>2024-05-16T19:38:23+03:00</lastBuildDate>
 
         <item>
+	<title>Biar Travel Guide (Alicante (province)/Valencian Community/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/alicante-province/biar/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local culture in Biar, Spain with our comprehensive travel guide.</description>
+	<pubDate>2024-05-16T19:38:23+03:00</pubDate>
+</item><item>
 	<title>Nazareth Travel Guide (Lehigh Valley/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/lehigh-valley/nazareth/</link>
 	<description>Plan an unforgettable trip to Nazareth, Pennsylvania using our comprehensive travel guide. Discover the best places to visit, stay, eat, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/zeeland/saeftinghe/</link>
 	<description>Explore the beauty of Saeftinghe, situated in Southern Netherlands. With natural attractions, hiking trails, and traditional food and drinks, Saeftinghe is a must-visit destination. Learn about its culture and customs, safety measures, and transportation options in this comprehensive travel guide.</description>
 	<pubDate>2024-05-16T15:27:28+03:00</pubDate>
-</item><item>
-	<title>Ptuj Travel Guide (Eastern Slovenia/Slovenia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovenia/eastern-slovenia/ptuj/</link>
-	<description>Find out everything you need to know for a perfect trip to Ptuj, Slovenia, including where to stay, what to see, eat and drink, and how to get around. Discover the best outdoor adventures, historical landmarks, and cultural attractions in this charming town in Eastern Slovenia.</description>
-	<pubDate>2024-05-16T14:47:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
