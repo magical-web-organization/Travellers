@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T00:48:50+03:00</pubDate>
-        <lastBuildDate>2024-05-17T00:48:50+03:00</lastBuildDate>
+        <pubDate>2024-05-17T01:24:21+03:00</pubDate>
+        <lastBuildDate>2024-05-17T01:24:21+03:00</lastBuildDate>
 
         <item>
+	<title>Endicott Travel Guide (Broome County/Southern Tier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/southern-tier/broome-county/endicott/</link>
+	<description>Discover the best places to visit in Endicott, New York, with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking routes to food scenes, this guide covers everything you need to know to plan your trip to Endicott.</description>
+	<pubDate>2024-05-17T01:24:21+03:00</pubDate>
+</item><item>
 	<title>SkiWelt Travel Guide (Tyrol/Austria/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/skiwelt/</link>
 	<description>Discover all the must-visits, things to do, local culture, food and drink, safety and health, and transportation options for your next trip to SkiWelt.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/northern-louisiana/monroe/</link>
 	<description>Explore the best things to see, do, eat, and experience in Monroe, LA with this in-depth travel guide. Discover the top tourist attractions, outdoor adventures, local culture, and more.</description>
 	<pubDate>2024-05-16T20:40:22+03:00</pubDate>
-</item><item>
-	<title>Limestone Travel Guide (Aroostook/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/aroostook/limestone/</link>
-	<description>Discover the best natural attractions, must-visit places, and local culture of Limestone, Maine. Plan your trip with this comprehensive tour guide that features a week-long itinerary, food and drink scene, best things to do, and safety and health tips.</description>
-	<pubDate>2024-05-16T20:30:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
