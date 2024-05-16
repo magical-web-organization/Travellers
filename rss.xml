@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T22:02:34+03:00</pubDate>
-        <lastBuildDate>2024-05-16T22:02:34+03:00</lastBuildDate>
+        <pubDate>2024-05-16T22:26:58+03:00</pubDate>
+        <lastBuildDate>2024-05-16T22:26:58+03:00</lastBuildDate>
 
         <item>
+	<title>Okeechobee Travel Guide (Florida Heartland/Inland Florida/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/florida-heartland/okeechobee/</link>
+	<description>Discover the top attractions, activities, hiking/biking routes, food and drink scene, where to stay, and more with this comprehensive guide to Okeechobee, Florida.</description>
+	<pubDate>2024-05-16T22:26:58+03:00</pubDate>
+</item><item>
 	<title>Luosto Travel Guide (Sodankylä/Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/sodankyla/luosto/</link>
 	<description>Discover everything you need to know about the hidden gem of Luosto in Finnish Lapland. Explore its natural attractions, culinary scene, iconic landmarks, and cultural customs in our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/western-ukraine/khmelnytskyi/</link>
 	<description>Plan your trip to Khmelnytskyi, Ukraine with this comprehensive travel guide. Discover top attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-05-16T17:52:15+03:00</pubDate>
-</item><item>
-	<title>Xingping Travel Guide (North Guangxi/Guangxi/South China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangxi/north-guangxi/xingping/</link>
-	<description>Plan your trip to Xingping with this comprehensive travel guide, including must-visit attractions, hiking routes, food and drink recommendations, and transportation options.</description>
-	<pubDate>2024-05-16T17:30:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
