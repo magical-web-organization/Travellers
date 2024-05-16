@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T23:28:37+03:00</pubDate>
-        <lastBuildDate>2024-05-16T23:28:37+03:00</lastBuildDate>
+        <pubDate>2024-05-16T23:54:33+03:00</pubDate>
+        <lastBuildDate>2024-05-16T23:54:33+03:00</lastBuildDate>
 
         <item>
+	<title>Wellington Travel Guide (Lorain County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/lorain-county/wellington/</link>
+	<description>Plan your trip to Wellington, Ohio with this comprehensive travel guide. Discover the top attractions, must-try dishes, where to stay, and more.</description>
+	<pubDate>2024-05-16T23:54:33+03:00</pubDate>
+</item><item>
 	<title>Denver Travel Guide (Denver Area/Colorado/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/denver-area/denver/</link>
 	<description>Plan your trip to Denver with our helpful guide, including a list of places to visit, hiking/biking routes, best tours and activities, food scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/lehigh-valley/nazareth/</link>
 	<description>Plan an unforgettable trip to Nazareth, Pennsylvania using our comprehensive travel guide. Discover the best places to visit, stay, eat, and more!</description>
 	<pubDate>2024-05-16T19:20:41+03:00</pubDate>
-</item><item>
-	<title>Sandomierz Travel Guide (Świętokrzyskie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/swietokrzyskie/sandomierz/</link>
-	<description>Planning a trip to Sandomierz, Poland? Check out our comprehensive travel guide featuring must-visit attractions, hiking and biking routes, food scene, and more!</description>
-	<pubDate>2024-05-16T18:50:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
