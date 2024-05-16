@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T11:41:10+03:00</pubDate>
-        <lastBuildDate>2024-05-16T11:41:10+03:00</lastBuildDate>
+        <pubDate>2024-05-16T12:23:48+03:00</pubDate>
+        <lastBuildDate>2024-05-16T12:23:48+03:00</lastBuildDate>
 
         <item>
+	<title>Alexandria Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/alexandria/</link>
+	<description>Discover the best places to visit, things to do, local culture, food and drink scene, safety and health, transportation options and nearby destinations in Alexandria, Northwestern Minnesota.</description>
+	<pubDate>2024-05-16T12:23:48+03:00</pubDate>
+</item><item>
 	<title>New Ulm Travel Guide (Southern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/new-ulm/</link>
 	<description>Explore the cultural and natural attractions of New Ulm, Minnesota, with this comprehensive travel guide. From museums to outdoor adventures, this guide has everything you need to plan your perfect trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/toamasina-province/toamasina/</link>
 	<description>Discover Madagascar's best-kept secret, Toamasina, with our comprehensive travel guide. From cultural attractions to outdoor adventures, we'll guide you through everything there is to see and do in this East African city.</description>
 	<pubDate>2024-05-16T07:53:34+03:00</pubDate>
-</item><item>
-	<title>Downtown Travel Guide (Cairo/Lower Egypt/Egypt/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/cairo/downtown/</link>
-	<description>Discover the best places to visit, stay, eat, buy, and explore in Downtown Cairo, and learn about local culture, customs, safety and health, transportation, and nearby destinations and excursions.</description>
-	<pubDate>2024-05-16T07:30:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
