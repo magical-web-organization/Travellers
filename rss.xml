@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T04:57:26+03:00</pubDate>
-        <lastBuildDate>2024-05-16T04:57:26+03:00</lastBuildDate>
+        <pubDate>2024-05-16T05:22:47+03:00</pubDate>
+        <lastBuildDate>2024-05-16T05:22:47+03:00</lastBuildDate>
 
         <item>
+	<title>La Grange Travel Guide (Post Oak Savannah/Prairies and Lakes/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/post-oak-savannah/la-grange/</link>
+	<description>Plan your trip to La Grange, Texas with this comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-16T05:22:47+03:00</pubDate>
+</item><item>
 	<title>Kobane Travel Guide (Rojava/Syria/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/syria/rojava/kobane/</link>
 	<description>Plan your trip to Kobane with this comprehensive travel guide, featuring information on where to stay, what to do, and how to get around.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-de-haute-provence/verdon-gorge/</link>
 	<description>Discover Verdon Gorge, a beautiful destination located in Provence-Alpes-Côte d'Azur, France. From scenic views to outdoor adventures and local culture, this guide has everything you need to plan your trip.</description>
 	<pubDate>2024-05-16T00:33:59+03:00</pubDate>
-</item><item>
-	<title>Harbor Beach Travel Guide (Central Michigan/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/central-michigan/harbor-beach/</link>
-	<description>Discover the best things to do in Harbor Beach, Michigan, from natural attractions and outdoor adventures to cultural landmarks and must-try dishes.</description>
-	<pubDate>2024-05-16T00:03:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
