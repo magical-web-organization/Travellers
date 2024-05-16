@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T08:26:00+03:00</pubDate>
-        <lastBuildDate>2024-05-16T08:26:00+03:00</lastBuildDate>
+        <pubDate>2024-05-16T08:35:05+03:00</pubDate>
+        <lastBuildDate>2024-05-16T08:35:05+03:00</lastBuildDate>
 
         <item>
+	<title>Willmar Travel Guide (Southern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/willmar/</link>
+	<description>Plan your trip to Willmar, Minnesota with this comprehensive travel guide featuring things to do, places to visit, where to stay, and tips for getting around.</description>
+	<pubDate>2024-05-16T08:35:05+03:00</pubDate>
+</item><item>
 	<title>Batesville Travel Guide (Mississippi Hills/Mississippi/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/mississippi-hills/batesville/</link>
 	<description>Discover top things to do and see, where to stay, eat, and shop in Batesville, Mississippi. Plan your trip with our ultimate travel guide to this charming city in the heart of Mississippi Hills.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/limon-province-costa-rica/puerto-limon/</link>
 	<description>Discover the best things to do, places to stay, food and drink scene, and more in Puerto Limón. Get insider tips and a week-long itinerary for a perfect Costa Rican adventure.</description>
 	<pubDate>2024-05-16T04:07:43+03:00</pubDate>
-</item><item>
-	<title>King Travel Guide (Piedmont Triad/Piedmont/North Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/piedmont-triad/king/</link>
-	<description>Explore the best of King, North Carolina with this comprehensive travel guide. Learn about the top attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-05-16T04:01:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
