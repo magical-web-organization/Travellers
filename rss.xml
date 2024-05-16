@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T10:06:58+03:00</pubDate>
-        <lastBuildDate>2024-05-16T10:06:58+03:00</lastBuildDate>
+        <pubDate>2024-05-16T11:01:06+03:00</pubDate>
+        <lastBuildDate>2024-05-16T11:01:06+03:00</lastBuildDate>
 
         <item>
+	<title>Desenzano del Garda Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/desenzano-del-garda/</link>
+	<description>Discover the stunning beauty of Desenzano del Garda with our comprehensive travel guide. From must-see attractions to best places to stay, we've got you covered.</description>
+	<pubDate>2024-05-16T11:01:06+03:00</pubDate>
+</item><item>
 	<title>Namur (province) Travel Guide (Wallonia/Belgium/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/namur-province/</link>
 	<description>Plan your next adventure to Namur (Province) with our comprehensive travel guide featuring top attractions, food, lodging, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/anti-atlas/tan-tan/</link>
 	<description>Plan your trip to Tan-Tan with this comprehensive travel guide featuring top things to do, places to visit, local culture and customs, food and drink scene, transportation options, and more.</description>
 	<pubDate>2024-05-16T06:20:05+03:00</pubDate>
-</item><item>
-	<title>El Mirador Travel Guide (Northern Lowlands/Guatemala/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/guatemala/northern-lowlands/el-mirador/</link>
-	<description>Discover the cultural and natural beauty of El Mirador in Northern Lowlands, Guatemala with our comprehensive guide. Explore museums, enjoy outdoor adventures, try local cuisine, and more with our helpful tips.</description>
-	<pubDate>2024-05-16T06:02:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
