@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T16:44:31+03:00</pubDate>
-        <lastBuildDate>2024-05-16T16:44:31+03:00</lastBuildDate>
+        <pubDate>2024-05-16T17:30:40+03:00</pubDate>
+        <lastBuildDate>2024-05-16T17:30:40+03:00</lastBuildDate>
 
         <item>
+	<title>Xingping Travel Guide (North Guangxi/Guangxi/South China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangxi/north-guangxi/xingping/</link>
+	<description>Plan your trip to Xingping with this comprehensive travel guide, including must-visit attractions, hiking routes, food and drink recommendations, and transportation options.</description>
+	<pubDate>2024-05-16T17:30:40+03:00</pubDate>
+</item><item>
 	<title>Marshallville Travel Guide (Wooster area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/wooster-area/marshallville/</link>
 	<description>Plan Your Trip to Marshallville with our Comprehensive Travel Guide, featuring Outdoor Activities, Local Food, and Cultural Attractions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/north-goa/old-goa/</link>
 	<description>Old Goa, situated in North Goa, Western India, is a stunning place to explore India's rich history, culture, food, and traditions. This guide covers everything you need to know about Old Goa, including major attractions, best things to do, where to stay, safety tips, and much more!</description>
 	<pubDate>2024-05-16T12:45:04+03:00</pubDate>
-</item><item>
-	<title>Alexandria Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/alexandria/</link>
-	<description>Discover the best places to visit, things to do, local culture, food and drink scene, safety and health, transportation options and nearby destinations in Alexandria, Northwestern Minnesota.</description>
-	<pubDate>2024-05-16T12:23:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
