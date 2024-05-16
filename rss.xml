@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T01:51:57+03:00</pubDate>
-        <lastBuildDate>2024-05-17T01:51:57+03:00</lastBuildDate>
+        <pubDate>2024-05-17T02:06:48+03:00</pubDate>
+        <lastBuildDate>2024-05-17T02:06:48+03:00</lastBuildDate>
 
         <item>
+	<title>Choč Mountains Travel Guide (Central Slovakia/Slovakia/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/choc-mountains/</link>
+	<description>Explore the natural attractions, cultural landmarks, outdoor adventures, food scene, accommodations, and local culture of Choč Mountains, Slovakia. Plan your itinerary, learn the dos and don'ts, and discover nearby destinations and excursions.</description>
+	<pubDate>2024-05-17T02:06:48+03:00</pubDate>
+</item><item>
 	<title>Komatsu Travel Guide (Ishikawa/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/ishikawa/komatsu/</link>
 	<description>Discover the culture, history, natural and outdoor adventures, food and drink scene, accommodations, local culture and customs, safety and health, transportation options, and nearby destinations of Komatsu, Japan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/sodankyla/luosto/</link>
 	<description>Discover everything you need to know about the hidden gem of Luosto in Finnish Lapland. Explore its natural attractions, culinary scene, iconic landmarks, and cultural customs in our comprehensive travel guide.</description>
 	<pubDate>2024-05-16T22:02:34+03:00</pubDate>
-</item><item>
-	<title>Härjedalen Travel Guide (Jämtland County/Norrland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/jamtland-county/harjedalen/</link>
-	<description>Explore the best of outdoor adventures, cultural attractions, and local cuisine in Härjedalen. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-05-16T21:11:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
