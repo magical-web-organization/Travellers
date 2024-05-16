@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T12:23:48+03:00</pubDate>
-        <lastBuildDate>2024-05-16T12:23:48+03:00</lastBuildDate>
+        <pubDate>2024-05-16T12:45:04+03:00</pubDate>
+        <lastBuildDate>2024-05-16T12:45:04+03:00</lastBuildDate>
 
         <item>
+	<title>Old Goa Travel Guide (North Goa/Goa/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/north-goa/old-goa/</link>
+	<description>Old Goa, situated in North Goa, Western India, is a stunning place to explore India's rich history, culture, food, and traditions. This guide covers everything you need to know about Old Goa, including major attractions, best things to do, where to stay, safety tips, and much more!</description>
+	<pubDate>2024-05-16T12:45:04+03:00</pubDate>
+</item><item>
 	<title>Alexandria Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/alexandria/</link>
 	<description>Discover the best places to visit, things to do, local culture, food and drink scene, safety and health, transportation options and nearby destinations in Alexandria, Northwestern Minnesota.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/mississippi-hills/batesville/</link>
 	<description>Discover top things to do and see, where to stay, eat, and shop in Batesville, Mississippi. Plan your trip with our ultimate travel guide to this charming city in the heart of Mississippi Hills.</description>
 	<pubDate>2024-05-16T08:26:00+03:00</pubDate>
-</item><item>
-	<title>Toamasina Travel Guide (Toamasina Province/Madagascar/East African Islands/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/toamasina-province/toamasina/</link>
-	<description>Discover Madagascar's best-kept secret, Toamasina, with our comprehensive travel guide. From cultural attractions to outdoor adventures, we'll guide you through everything there is to see and do in this East African city.</description>
-	<pubDate>2024-05-16T07:53:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
