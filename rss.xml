@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T14:47:39+03:00</pubDate>
-        <lastBuildDate>2024-05-16T14:47:39+03:00</lastBuildDate>
+        <pubDate>2024-05-16T15:27:28+03:00</pubDate>
+        <lastBuildDate>2024-05-16T15:27:28+03:00</lastBuildDate>
 
         <item>
+	<title>Saeftinghe Travel Guide (Zeeland/Southern Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/zeeland/saeftinghe/</link>
+	<description>Explore the beauty of Saeftinghe, situated in Southern Netherlands. With natural attractions, hiking trails, and traditional food and drinks, Saeftinghe is a must-visit destination. Learn about its culture and customs, safety measures, and transportation options in this comprehensive travel guide.</description>
+	<pubDate>2024-05-16T15:27:28+03:00</pubDate>
+</item><item>
 	<title>Ptuj Travel Guide (Eastern Slovenia/Slovenia/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/slovenia/eastern-slovenia/ptuj/</link>
 	<description>Find out everything you need to know for a perfect trip to Ptuj, Slovenia, including where to stay, what to see, eat and drink, and how to get around. Discover the best outdoor adventures, historical landmarks, and cultural attractions in this charming town in Eastern Slovenia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/desenzano-del-garda/</link>
 	<description>Discover the stunning beauty of Desenzano del Garda with our comprehensive travel guide. From must-see attractions to best places to stay, we've got you covered.</description>
 	<pubDate>2024-05-16T11:01:06+03:00</pubDate>
-</item><item>
-	<title>Namur (province) Travel Guide (Wallonia/Belgium/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/namur-province/</link>
-	<description>Plan your next adventure to Namur (Province) with our comprehensive travel guide featuring top attractions, food, lodging, and more.</description>
-	<pubDate>2024-05-16T10:06:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
