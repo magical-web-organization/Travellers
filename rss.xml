@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-16T15:54:16+03:00</pubDate>
-        <lastBuildDate>2024-05-16T15:54:16+03:00</lastBuildDate>
+        <pubDate>2024-05-16T16:16:52+03:00</pubDate>
+        <lastBuildDate>2024-05-16T16:16:52+03:00</lastBuildDate>
 
         <item>
+	<title>Ashdown Forest Travel Guide (East Sussex/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/east-sussex/ashdown-forest/</link>
+	<description>Discover the hidden gems of Ashdown Forest with this comprehensive travel guide. Explore natural attractions, cultural landmarks, hiking and biking routes, food and drink scene, where to stay, local customs, and more.</description>
+	<pubDate>2024-05-16T16:16:52+03:00</pubDate>
+</item><item>
 	<title>Mukutmanipur Travel Guide (Rarh/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/rarh/mukutmanipur/</link>
 	<description>Find out everything you need to know about Mukutmanipur in West Bengal, India, including the best things to do, places to stay, must-try foods, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/new-ulm/</link>
 	<description>Explore the cultural and natural attractions of New Ulm, Minnesota, with this comprehensive travel guide. From museums to outdoor adventures, this guide has everything you need to plan your perfect trip.</description>
 	<pubDate>2024-05-16T11:41:10+03:00</pubDate>
-</item><item>
-	<title>Pauanui Travel Guide (Coromandel Peninsula/Waikato/North Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/waikato/coromandel-peninsula/pauanui/</link>
-	<description>Discover the best things to do in Pauanui, New Zealand, from outdoor adventures to cultural attractions, where to stay, and more with our complete travel guide.</description>
-	<pubDate>2024-05-16T11:17:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
