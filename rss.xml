@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T01:08:35+03:00</pubDate>
-        <lastBuildDate>2024-05-18T01:08:35+03:00</lastBuildDate>
+        <pubDate>2024-05-18T01:44:21+03:00</pubDate>
+        <lastBuildDate>2024-05-18T01:44:21+03:00</lastBuildDate>
 
         <item>
+	<title>Quorn Travel Guide (Outback/South Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/south-australia/outback/quorn/</link>
+	<description>Plan your trip to Quorn with this comprehensive guide. Discover the best places to visit, activities to do, food to try, and where to stay.</description>
+	<pubDate>2024-05-18T01:44:21+03:00</pubDate>
+</item><item>
 	<title>Northern Beaches Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/northern-beaches/</link>
 	<description>Explore the best places to visit, food and drink scene, hiking/biking routes, accommodation options, and more in Northern Beaches. Learn about the local culture, customs, safety, health, and transportation options. Plan your perfect trip to this beautiful destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/brittany/broceliande/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Brocéliande, France. Plan your trip today!</description>
 	<pubDate>2024-05-17T21:31:42+03:00</pubDate>
-</item><item>
-	<title>Assur Travel Guide (Northwestern Iraq/Iraq/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/iraq/northwestern-iraq/assur/</link>
-	<description>Plan your trip to Assur with this comprehensive travel guide. Discover the historical and cultural attractions, outdoor adventures, local cuisine, accommodations, and transportation options in Northwestern Iraq.</description>
-	<pubDate>2024-05-17T20:48:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
