@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T08:20:27+03:00</pubDate>
-        <lastBuildDate>2024-05-17T08:20:27+03:00</lastBuildDate>
+        <pubDate>2024-05-17T08:34:44+03:00</pubDate>
+        <lastBuildDate>2024-05-17T08:34:44+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Maurice Wildlife Reserve Travel Guide (Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/saint-maurice-wildlife-reserve/</link>
+	<description>Plan your next adventure with our comprehensive guide to Saint-Maurice Wildlife Reserve in Quebec, Canada. Discover its culturally important attractions, natural wonders, hiking/biking routes, best things to do, and more.</description>
+	<pubDate>2024-05-17T08:34:44+03:00</pubDate>
+</item><item>
 	<title>Mangum Travel Guide (Great Plains Country/Oklahoma/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/great-plains-country/mangum/</link>
 	<description>Discover the best things to do in Mangum, Oklahoma with our comprehensive travel guide. Explore the top attractions, places to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/essex-county/pelee-island/</link>
 	<description>Discover the best things to do in Pelee Island, from outdoor adventures and scenic views to local culture and customs, and where to stay and eat.</description>
 	<pubDate>2024-05-17T04:26:00+03:00</pubDate>
-</item><item>
-	<title>Manu'a Travel Guide (American Samoa/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/american-samoa/manu-a/</link>
-	<description>Plan your trip to Manu'a in American Samoa with our comprehensive travel guide. Discover the best places to visit, hike and bike routes, food and drinks, accommodations, and more. Learn about local culture and customs, safety, and logistics.</description>
-	<pubDate>2024-05-17T03:56:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
