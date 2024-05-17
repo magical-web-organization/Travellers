@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T04:26:00+03:00</pubDate>
-        <lastBuildDate>2024-05-17T04:26:00+03:00</lastBuildDate>
+        <pubDate>2024-05-17T04:48:41+03:00</pubDate>
+        <lastBuildDate>2024-05-17T04:48:41+03:00</lastBuildDate>
 
         <item>
+	<title>Punta Mita Travel Guide (Nayarit/Pacific Coast/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/nayarit/punta-mita/</link>
+	<description>Discover the top attractions, activities, and places to stay in Punta Mita, Mexico with our comprehensive travel guide.</description>
+	<pubDate>2024-05-17T04:48:41+03:00</pubDate>
+</item><item>
 	<title>Pelee Island Travel Guide (Essex County/Southwestern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/essex-county/pelee-island/</link>
 	<description>Discover the best things to do in Pelee Island, from outdoor adventures and scenic views to local culture and customs, and where to stay and eat.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/south-iceland/hveragerdi/</link>
 	<description>Discover the best places to visit, things to do, hiking routes, food and drink scene, local culture, and more in Hveragerði, Iceland. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-05-17T00:28:40+03:00</pubDate>
-</item><item>
-	<title>Wellington Travel Guide (Lorain County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/lorain-county/wellington/</link>
-	<description>Plan your trip to Wellington, Ohio with this comprehensive travel guide. Discover the top attractions, must-try dishes, where to stay, and more.</description>
-	<pubDate>2024-05-16T23:54:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
