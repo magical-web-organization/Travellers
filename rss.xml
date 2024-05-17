@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T21:55:22+03:00</pubDate>
-        <lastBuildDate>2024-05-17T21:55:22+03:00</lastBuildDate>
+        <pubDate>2024-05-17T22:04:34+03:00</pubDate>
+        <lastBuildDate>2024-05-17T22:04:34+03:00</lastBuildDate>
 
         <item>
+	<title>Les Deux Alpes Travel Guide (Isère/Auvergne-Rhône-Alpes/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/isere/les-deux-alpes/</link>
+	<description>A comprehensive guide to Les Deux Alpes, including top attractions, activities, food and drink scenes, and travel logistics to help plan your trip.</description>
+	<pubDate>2024-05-17T22:04:34+03:00</pubDate>
+</item><item>
 	<title>Adaminaby Travel Guide (Snowy Mountains/Southeastern New South Wales/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southeastern-new-south-wales/snowy-mountains/adaminaby/</link>
 	<description>Plan your itinerary for Adaminaby with our comprehensive travel guide. From scenic views to outdoor adventures, food and accommodation, and nearby excursions, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/eastern-ukraine/melitopol/</link>
 	<description>Explore the best of Melitopol with our in-depth travel guide. From cultural attractions to outdoor adventures, find everything you need to know about this hidden gem in Eastern Ukraine.</description>
 	<pubDate>2024-05-17T17:38:11+03:00</pubDate>
-</item><item>
-	<title>Cuba (New York) Travel Guide (Allegany County (New York)/Southern Tier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/southern-tier/allegany-county-new-york/cuba-new-york/</link>
-	<description>Get ready to explore Cuba (New York) with our comprehensive travel guide. From culturally important attractions to the best hiking and biking routes, we cover it all.</description>
-	<pubDate>2024-05-17T17:04:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
