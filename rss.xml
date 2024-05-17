@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T15:18:40+03:00</pubDate>
-        <lastBuildDate>2024-05-17T15:18:40+03:00</lastBuildDate>
+        <pubDate>2024-05-17T15:47:44+03:00</pubDate>
+        <lastBuildDate>2024-05-17T15:47:44+03:00</lastBuildDate>
 
         <item>
+	<title>Myers Park Travel Guide (Charlotte/Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/charlotte/myers-park/</link>
+	<description>Discover the rich cultural and natural attractions of Myers Park, Charlotte, including hiking/biking routes, food and drink scene, where to stay, and nearby destinations.</description>
+	<pubDate>2024-05-17T15:47:44+03:00</pubDate>
+</item><item>
 	<title>High Wycombe Travel Guide (Buckinghamshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/buckinghamshire/high-wycombe/</link>
 	<description>Plan your trip to High Wycombe with this comprehensive tour guide. Learn about the best places to visit, things to do, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/exmoor-national-park/</link>
 	<description>Discover the culturally rich and beautiful Exmoor National Park with our comprehensive travel guide. From hiking and biking routes to traditional local dishes and customs, our guide has everything you need to plan your visit to this stunning park.</description>
 	<pubDate>2024-05-17T11:28:17+03:00</pubDate>
-</item><item>
-	<title>Tokara Islands Travel Guide (Kagoshima (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/kagoshima-prefecture/tokara-islands/</link>
-	<description>Discover the best cultural and natural attractions, outdoor adventures, hiking/biking routes, food and drink scene, places to stay, and much more in Tokara Islands, Japan.</description>
-	<pubDate>2024-05-17T10:52:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
