@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T23:09:57+03:00</pubDate>
-        <lastBuildDate>2024-05-17T23:09:57+03:00</lastBuildDate>
+        <pubDate>2024-05-17T23:47:14+03:00</pubDate>
+        <lastBuildDate>2024-05-17T23:47:14+03:00</lastBuildDate>
 
         <item>
+	<title>Jensen Beach Travel Guide (Treasure Coast/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/jensen-beach/</link>
+	<description>Discover the best places to visit, things to do, where to eat, stay, and more in Jensen Beach, Florida.</description>
+	<pubDate>2024-05-17T23:47:14+03:00</pubDate>
+</item><item>
 	<title>Nanaimo Travel Guide (Central Vancouver Island/Vancouver Island/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/central-vancouver-island/nanaimo/</link>
 	<description>Discover the best things to do, see, and eat in beautiful Nanaimo, British Columbia with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/heihe/</link>
 	<description>Plan your trip to Heihe with this extensive travel guide, covering everything from top things to do, attractions, food, accommodation options, and more.</description>
 	<pubDate>2024-05-17T19:23:58+03:00</pubDate>
-</item><item>
-	<title>Hawthorne Travel Guide (Southern Nevada/Nevada/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/nevada/southern-nevada/hawthorne/</link>
-	<description>Plan your perfect trip to Hawthorne, Nevada with our comprehensive travel guide featuring all the best places to visit, activities, and more.</description>
-	<pubDate>2024-05-17T18:56:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
