@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T00:54:06+03:00</pubDate>
-        <lastBuildDate>2024-05-18T00:54:06+03:00</lastBuildDate>
+        <pubDate>2024-05-18T01:08:35+03:00</pubDate>
+        <lastBuildDate>2024-05-18T01:08:35+03:00</lastBuildDate>
 
         <item>
+	<title>Northern Beaches Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/northern-beaches/</link>
+	<description>Explore the best places to visit, food and drink scene, hiking/biking routes, accommodation options, and more in Northern Beaches. Learn about the local culture, customs, safety, health, and transportation options. Plan your perfect trip to this beautiful destination.</description>
+	<pubDate>2024-05-18T01:08:35+03:00</pubDate>
+</item><item>
 	<title>Central and South Central Travel Guide (Paraná/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/parana/central-and-south-central/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, and local customs in Central and South Central Paraná, Brazil.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/iraq/northwestern-iraq/assur/</link>
 	<description>Plan your trip to Assur with this comprehensive travel guide. Discover the historical and cultural attractions, outdoor adventures, local cuisine, accommodations, and transportation options in Northwestern Iraq.</description>
 	<pubDate>2024-05-17T20:48:17+03:00</pubDate>
-</item><item>
-	<title>Isle of Wight Travel Guide (South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/isle-of-wight/</link>
-	<description>Discover the best things to do and see in Isle of Wight, including outdoor adventures, historical places, local cuisine, and transportation options.</description>
-	<pubDate>2024-05-17T20:13:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
