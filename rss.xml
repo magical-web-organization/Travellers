@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T05:24:40+03:00</pubDate>
-        <lastBuildDate>2024-05-17T05:24:40+03:00</lastBuildDate>
+        <pubDate>2024-05-17T05:36:35+03:00</pubDate>
+        <lastBuildDate>2024-05-17T05:36:35+03:00</lastBuildDate>
 
         <item>
+	<title>Mutoroshanga Ethel Mine Travel Guide (Mashonaland/Zimbabwe/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/zimbabwe/mashonaland/mutoroshanga-ethel-mine/</link>
+	<description>Discover the culturally rich and natural marvels of Mutoroshanga Ethel Mine in Zimbabwe with our extensive travel guide. Explore the best places to visit, must-try dishes, where to stay, and more!</description>
+	<pubDate>2024-05-17T05:36:35+03:00</pubDate>
+</item><item>
 	<title>Doğubayazıt Travel Guide (Eastern Anatolia/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/eastern-anatolia/dogubayazit/</link>
 	<description>Explore the cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, local customs, safety and health, transportation options, and nearby destinations of Doğubayazıt in Eastern Turkey.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/southern-tier/broome-county/endicott/</link>
 	<description>Discover the best places to visit in Endicott, New York, with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking routes to food scenes, this guide covers everything you need to know to plan your trip to Endicott.</description>
 	<pubDate>2024-05-17T01:24:21+03:00</pubDate>
-</item><item>
-	<title>SkiWelt Travel Guide (Tyrol/Austria/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/skiwelt/</link>
-	<description>Discover all the must-visits, things to do, local culture, food and drink, safety and health, and transportation options for your next trip to SkiWelt.</description>
-	<pubDate>2024-05-17T00:48:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
