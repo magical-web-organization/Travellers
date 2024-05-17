@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T09:07:21+03:00</pubDate>
-        <lastBuildDate>2024-05-17T09:07:21+03:00</lastBuildDate>
+        <pubDate>2024-05-17T09:46:32+03:00</pubDate>
+        <lastBuildDate>2024-05-17T09:46:32+03:00</lastBuildDate>
 
         <item>
+	<title>Hinsdale Travel Guide (Western Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/hinsdale/</link>
+	<description>Discover the best things to do in Hinsdale, where to stay, what to eat, and how to get there with our comprehensive travel guide.</description>
+	<pubDate>2024-05-17T09:46:32+03:00</pubDate>
+</item><item>
 	<title>Kochi Travel Guide (Central Kerala/Kerala/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-kerala/kochi/</link>
 	<description>Our travel guide provides essential details about Kochi, including places to visit, food and drink scenes, hiking/biking routes, culture, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/eastern-anatolia/dogubayazit/</link>
 	<description>Explore the cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, local customs, safety and health, transportation options, and nearby destinations of Doğubayazıt in Eastern Turkey.</description>
 	<pubDate>2024-05-17T05:24:40+03:00</pubDate>
-</item><item>
-	<title>Punta Mita Travel Guide (Nayarit/Pacific Coast/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/nayarit/punta-mita/</link>
-	<description>Discover the top attractions, activities, and places to stay in Punta Mita, Mexico with our comprehensive travel guide.</description>
-	<pubDate>2024-05-17T04:48:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
