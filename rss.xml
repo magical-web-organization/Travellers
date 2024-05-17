@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T01:44:21+03:00</pubDate>
-        <lastBuildDate>2024-05-18T01:44:21+03:00</lastBuildDate>
+        <pubDate>2024-05-18T02:11:02+03:00</pubDate>
+        <lastBuildDate>2024-05-18T02:11:02+03:00</lastBuildDate>
 
         <item>
+	<title>Sikhote-Alin Travel Guide (Russian Far East/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/sikhote-alin/</link>
+	<description>Explore the beauty of Sikhote-Alin, Russia with our comprehensive travel guide. Discover the best places to visit, things to do, hiking routes, food, and more.</description>
+	<pubDate>2024-05-18T02:11:02+03:00</pubDate>
+</item><item>
 	<title>Quorn Travel Guide (Outback/South Australia/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/south-australia/outback/quorn/</link>
 	<description>Plan your trip to Quorn with this comprehensive guide. Discover the best places to visit, activities to do, food to try, and where to stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southeastern-new-south-wales/snowy-mountains/adaminaby/</link>
 	<description>Plan your itinerary for Adaminaby with our comprehensive travel guide. From scenic views to outdoor adventures, food and accommodation, and nearby excursions, we've got you covered.</description>
 	<pubDate>2024-05-17T21:55:22+03:00</pubDate>
-</item><item>
-	<title>Brocéliande Travel Guide (Brittany/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/brittany/broceliande/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Brocéliande, France. Plan your trip today!</description>
-	<pubDate>2024-05-17T21:31:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
