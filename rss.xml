@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-17T06:17:10+03:00</pubDate>
-        <lastBuildDate>2024-05-17T06:17:10+03:00</lastBuildDate>
+        <pubDate>2024-05-17T06:52:13+03:00</pubDate>
+        <lastBuildDate>2024-05-17T06:52:13+03:00</lastBuildDate>
 
         <item>
+	<title>Plymouth Travel Guide (Western Illinois/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/western-illinois/plymouth/</link>
+	<description>Discover the best places to visit and things to do in Plymouth, Illinois. Find out what to eat, where to stay, and how to get around in this comprehensive travel guide.</description>
+	<pubDate>2024-05-17T06:52:13+03:00</pubDate>
+</item><item>
 	<title>Masohi Travel Guide (Maluku/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/maluku/masohi/</link>
 	<description>Plan your trip to Masohi, Indonesia with this comprehensive travel guide. Discover the top things to do, places to visit, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/choc-mountains/</link>
 	<description>Explore the natural attractions, cultural landmarks, outdoor adventures, food scene, accommodations, and local culture of Choč Mountains, Slovakia. Plan your itinerary, learn the dos and don'ts, and discover nearby destinations and excursions.</description>
 	<pubDate>2024-05-17T02:06:48+03:00</pubDate>
-</item><item>
-	<title>Komatsu Travel Guide (Ishikawa/Chubu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/ishikawa/komatsu/</link>
-	<description>Discover the culture, history, natural and outdoor adventures, food and drink scene, accommodations, local culture and customs, safety and health, transportation options, and nearby destinations of Komatsu, Japan.</description>
-	<pubDate>2024-05-17T01:51:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
