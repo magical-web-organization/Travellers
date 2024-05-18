@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T17:32:23+03:00</pubDate>
-        <lastBuildDate>2024-05-18T17:32:23+03:00</lastBuildDate>
+        <pubDate>2024-05-18T18:00:25+03:00</pubDate>
+        <lastBuildDate>2024-05-18T18:00:25+03:00</lastBuildDate>
 
         <item>
+	<title>Mormugao Travel Guide (South Goa/Goa/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/south-goa/mormugao/</link>
+	<description>Plan your trip to Mormugao with our comprehensive travel guide featuring top attractions, things to do, where to stay, and more tips!</description>
+	<pubDate>2024-05-18T18:00:25+03:00</pubDate>
+</item><item>
 	<title>Kajuru Travel Guide (Kaduna State/North West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/kaduna-state/kajuru/</link>
 	<description>A comprehensive guide to Kajuru, Nigeria including top attractions, hiking trails, food scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/costa-maya/</link>
 	<description>Discover the best places to visit, where to stay, what to eat, and how to get around in Costa Maya, Mexico with our comprehensive travel guide.</description>
 	<pubDate>2024-05-18T13:27:09+03:00</pubDate>
-</item><item>
-	<title>Fairbourne Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/fairbourne/</link>
-	<description>Discover the best of Fairbourne in North Wales, from natural attractions and outdoor adventures to local cuisine and cultural landmarks. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-05-18T12:34:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
