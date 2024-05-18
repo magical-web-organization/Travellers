@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T03:13:59+03:00</pubDate>
-        <lastBuildDate>2024-05-18T03:13:59+03:00</lastBuildDate>
+        <pubDate>2024-05-18T03:55:04+03:00</pubDate>
+        <lastBuildDate>2024-05-18T03:55:04+03:00</lastBuildDate>
 
         <item>
+	<title>Uricani Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/uricani/</link>
+	<description>Plan your trip to Uricani with our comprehensive travel guide featuring must-see attractions, activities, food and drink scene, and more.</description>
+	<pubDate>2024-05-18T03:55:04+03:00</pubDate>
+</item><item>
 	<title>Lake Mburo National Park Travel Guide (Western Uganda/Uganda/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/uganda/western-uganda/lake-mburo-national-park/</link>
 	<description>Plan your trip to Lake Mburo National Park with our comprehensive travel guide. Discover the top things to do and see, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/central-vancouver-island/nanaimo/</link>
 	<description>Discover the best things to do, see, and eat in beautiful Nanaimo, British Columbia with our comprehensive travel guide.</description>
 	<pubDate>2024-05-17T23:09:57+03:00</pubDate>
-</item><item>
-	<title>Mansoura Travel Guide (Lower Egypt/Egypt/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/mansoura/</link>
-	<description>Discover the best places to visit, things to do, food to try, and local customs of Mansoura. Plan your trip with this helpful travel guide.</description>
-	<pubDate>2024-05-17T22:41:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
