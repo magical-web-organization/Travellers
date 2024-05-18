@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T18:47:51+03:00</pubDate>
-        <lastBuildDate>2024-05-18T18:47:51+03:00</lastBuildDate>
+        <pubDate>2024-05-18T19:04:43+03:00</pubDate>
+        <lastBuildDate>2024-05-18T19:04:43+03:00</lastBuildDate>
 
         <item>
+	<title>Vasilievsky Island Travel Guide (Saint Petersburg/Saint Petersburg (district)/Leningrad Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/leningrad-oblast/saint-petersburg-district/saint-petersburg/vasilievsky-island/</link>
+	<description>Explore the beauty and culture of Vasilievsky Island with this comprehensive travel guide, featuring must-visit places, hiking and biking routes, food and drink scene, where to stay and what to buy, and more.</description>
+	<pubDate>2024-05-18T19:04:43+03:00</pubDate>
+</item><item>
 	<title>Somerset East Travel Guide (Karoo Heartland/Eastern Cape/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/karoo-heartland/somerset-east/</link>
 	<description>Plan your visit to Somerset East with this comprehensive tour guide highlighting the best places to visit, things to do, and where to stay for a memorable trip to Eastern Cape, South Africa.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/southern-illinois/marion/</link>
 	<description>Explore the culturally important attractions, natural scenery, and outdoor adventures of Marion, Illinois, with our comprehensive travel guide.</description>
 	<pubDate>2024-05-18T14:44:49+03:00</pubDate>
-</item><item>
-	<title>Port Alfred Travel Guide (Sunshine Coast/Eastern Cape/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/sunshine-coast/port-alfred/</link>
-	<description>Plan your trip to Port Alfred, South Africa with this comprehensive travel guide, featuring must-visit places, activities, accommodations, and tips to make the most of your journey.</description>
-	<pubDate>2024-05-18T14:27:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
