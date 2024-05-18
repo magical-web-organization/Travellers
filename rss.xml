@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T03:55:04+03:00</pubDate>
-        <lastBuildDate>2024-05-18T03:55:04+03:00</lastBuildDate>
+        <pubDate>2024-05-18T04:27:28+03:00</pubDate>
+        <lastBuildDate>2024-05-18T04:27:28+03:00</lastBuildDate>
 
         <item>
+	<title>Great Goat Island Travel Guide (Middlesex County/Jamaica/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/jamaica/middlesex-county/great-goat-island/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Great Goat Island, Jamaica in this comprehensive travel guide.</description>
+	<pubDate>2024-05-18T04:27:28+03:00</pubDate>
+</item><item>
 	<title>Uricani Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/uricani/</link>
 	<description>Plan your trip to Uricani with our comprehensive travel guide featuring must-see attractions, activities, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/jensen-beach/</link>
 	<description>Discover the best places to visit, things to do, where to eat, stay, and more in Jensen Beach, Florida.</description>
 	<pubDate>2024-05-17T23:47:14+03:00</pubDate>
-</item><item>
-	<title>Nanaimo Travel Guide (Central Vancouver Island/Vancouver Island/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/central-vancouver-island/nanaimo/</link>
-	<description>Discover the best things to do, see, and eat in beautiful Nanaimo, British Columbia with our comprehensive travel guide.</description>
-	<pubDate>2024-05-17T23:09:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
