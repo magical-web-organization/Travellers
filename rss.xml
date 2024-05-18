@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T07:51:37+03:00</pubDate>
-        <lastBuildDate>2024-05-18T07:51:37+03:00</lastBuildDate>
+        <pubDate>2024-05-18T08:23:28+03:00</pubDate>
+        <lastBuildDate>2024-05-18T08:23:28+03:00</lastBuildDate>
 
         <item>
+	<title>West Travel Guide (Seattle/King County/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/king-county/seattle/west/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to eat and more in West, Seattle, with this comprehensive travel guide.</description>
+	<pubDate>2024-05-18T08:23:28+03:00</pubDate>
+</item><item>
 	<title>Khopoli Travel Guide (North Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/khopoli/</link>
 	<description>Plan your trip to Khopoli with this informative travel guide. Discover top attractions, hiking/biking routes, the best things to do, where to stay, local food, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/sikhote-alin/</link>
 	<description>Explore the beauty of Sikhote-Alin, Russia with our comprehensive travel guide. Discover the best places to visit, things to do, hiking routes, food, and more.</description>
 	<pubDate>2024-05-18T02:11:02+03:00</pubDate>
-</item><item>
-	<title>Quorn Travel Guide (Outback/South Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/south-australia/outback/quorn/</link>
-	<description>Plan your trip to Quorn with this comprehensive guide. Discover the best places to visit, activities to do, food to try, and where to stay.</description>
-	<pubDate>2024-05-18T01:44:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
