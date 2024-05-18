@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T01:24:56+03:00</pubDate>
-        <lastBuildDate>2024-05-19T01:24:56+03:00</lastBuildDate>
+        <pubDate>2024-05-19T01:56:23+03:00</pubDate>
+        <lastBuildDate>2024-05-19T01:56:23+03:00</lastBuildDate>
 
         <item>
+	<title>Santo Stefano di Sessanio Travel Guide (L'Aquila (province)/Abruzzo/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/l-aquila-province/santo-stefano-di-sessanio/</link>
+	<description>Discover all the must-visit places, things to do, where to stay, local culture, and much more in Santo Stefano di Sessanio with our comprehensive tour guide.</description>
+	<pubDate>2024-05-19T01:56:23+03:00</pubDate>
+</item><item>
 	<title>Audubon and University Travel Guide (New Orleans/Greater New Orleans/Louisiana/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/greater-new-orleans/new-orleans/audubon-and-university/</link>
 	<description>Discover the attractions, activities, food, culture, safety, and logistics of Audubon and University neighborhood in New Orleans, Louisiana, USA.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-atlantic-ocean/saint-helena-ascension-and-tristan-da-cunha/</link>
 	<description>Discover the cultural and natural attractions of Saint Helena, Ascension and Tristan da Cunha with this comprehensive tour guide. Plan your trip easily with our itinerary, transportation options, and travel tips.</description>
 	<pubDate>2024-05-18T21:26:09+03:00</pubDate>
-</item><item>
-	<title>Mikindani Travel Guide (Pembwe and the Southeast/Tanzania/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/tanzania/pembwe-and-the-southeast/mikindani/</link>
-	<description>Discover the beauty of Mikindani, Tanzania with this comprehensive travel guide, including the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-05-18T20:50:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
