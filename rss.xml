@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T00:08:51+03:00</pubDate>
-        <lastBuildDate>2024-05-19T00:08:51+03:00</lastBuildDate>
+        <pubDate>2024-05-19T00:43:18+03:00</pubDate>
+        <lastBuildDate>2024-05-19T00:43:18+03:00</lastBuildDate>
 
         <item>
+	<title>Nimbin Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/nimbin/</link>
+	<description>Discover Nimbin in New South Wales, Australia. Find the best places to visit, things to do, and where to stay in our comprehensive travel guide.</description>
+	<pubDate>2024-05-19T00:43:18+03:00</pubDate>
+</item><item>
 	<title>Marramarra National Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/marramarra-national-park/</link>
 	<description>Explore the natural and cultural attractions of Marramarra National Park with our comprehensive travel guide. Discover the best places to visit, things to do, hikes to take, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/charlotte/noda/</link>
 	<description>Explore the best places to visit, eat, stay, and more in NoDa, North Carolina with our comprehensive travel guide.</description>
 	<pubDate>2024-05-18T20:05:18+03:00</pubDate>
-</item><item>
-	<title>Casino Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/casino/</link>
-	<description>Discover the best places to visit, activities, food, and culture of Casino, located in the Northern Rivers of New South Wales, Australia. This travel guide covers everything you need to know about visiting Casino.</description>
-	<pubDate>2024-05-18T19:53:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
