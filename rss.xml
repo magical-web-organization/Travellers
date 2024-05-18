@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T16:47:29+03:00</pubDate>
-        <lastBuildDate>2024-05-18T16:47:29+03:00</lastBuildDate>
+        <pubDate>2024-05-18T17:32:23+03:00</pubDate>
+        <lastBuildDate>2024-05-18T17:32:23+03:00</lastBuildDate>
 
         <item>
+	<title>Kajuru Travel Guide (Kaduna State/North West Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/kaduna-state/kajuru/</link>
+	<description>A comprehensive guide to Kajuru, Nigeria including top attractions, hiking trails, food scene, where to stay, and more.</description>
+	<pubDate>2024-05-18T17:32:23+03:00</pubDate>
+</item><item>
 	<title>Port of Spain Travel Guide (Trinidad/Trinidad and Tobago/Lesser Antilles/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/trinidad-and-tobago/trinidad/port-of-spain/</link>
 	<description>Discover the top things to do, see, eat and drink in Port of Spain, Trinidad and Tobago - your ultimate travel guide to the Caribbean's hidden gem.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/fairbourne/</link>
 	<description>Discover the best of Fairbourne in North Wales, from natural attractions and outdoor adventures to local cuisine and cultural landmarks. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-05-18T12:34:11+03:00</pubDate>
-</item><item>
-	<title>Moreton-in-Marsh Travel Guide (Gloucestershire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/moreton-in-marsh/</link>
-	<description>Explore the natural beauty, cultural richness, and adventurous spirit of Moreton-in-Marsh with this comprehensive travel guide. Find out about top attractions, things to do, food and drink scene, where to stay, and much more.</description>
-	<pubDate>2024-05-18T12:18:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
