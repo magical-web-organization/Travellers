@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T04:27:28+03:00</pubDate>
-        <lastBuildDate>2024-05-18T04:27:28+03:00</lastBuildDate>
+        <pubDate>2024-05-18T04:34:28+03:00</pubDate>
+        <lastBuildDate>2024-05-18T04:34:28+03:00</lastBuildDate>
 
         <item>
+	<title>Nahanni National Park Reserve Travel Guide (Northwest Territories/Northern Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/northern-canada/northwest-territories/nahanni-national-park-reserve/</link>
+	<description>Nahanni National Park Reserve is a vast wilderness area in Northwest Territories, Canada, boasting spectacular natural beauty and cultural attractions. This guide covers everything you need to know before planning your trip.</description>
+	<pubDate>2024-05-18T04:34:28+03:00</pubDate>
+</item><item>
 	<title>Great Goat Island Travel Guide (Middlesex County/Jamaica/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/jamaica/middlesex-county/great-goat-island/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Great Goat Island, Jamaica in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/hassan-district/sakleshpur/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Sakleshpur. Find out where to stay and what to buy in this guide.</description>
 	<pubDate>2024-05-18T00:28:58+03:00</pubDate>
-</item><item>
-	<title>Jensen Beach Travel Guide (Treasure Coast/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/jensen-beach/</link>
-	<description>Discover the best places to visit, things to do, where to eat, stay, and more in Jensen Beach, Florida.</description>
-	<pubDate>2024-05-17T23:47:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
