@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T21:40:56+03:00</pubDate>
-        <lastBuildDate>2024-05-18T21:40:56+03:00</lastBuildDate>
+        <pubDate>2024-05-18T22:09:45+03:00</pubDate>
+        <lastBuildDate>2024-05-18T22:09:45+03:00</lastBuildDate>
 
         <item>
+	<title>Durazno Travel Guide (Central Interior/Uruguay/South America)</title>
+	<link>https://travellers.wiki/en/south-america/uruguay/central-interior/durazno/</link>
+	<description>Discover the hidden gems of Durazno, from culturally rich museums to scenic views, exciting outdoor adventures, and local cuisine. Learn about transportation, safety, and more.</description>
+	<pubDate>2024-05-18T22:09:45+03:00</pubDate>
+</item><item>
 	<title>Lucknow Travel Guide (Awadh/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/awadh/lucknow/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, local customs, safety and health, transportation options, and nearby destinations & excursions in Lucknow.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/south-goa/mormugao/</link>
 	<description>Plan your trip to Mormugao with our comprehensive travel guide featuring top attractions, things to do, where to stay, and more tips!</description>
 	<pubDate>2024-05-18T18:00:25+03:00</pubDate>
-</item><item>
-	<title>Kajuru Travel Guide (Kaduna State/North West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/kaduna-state/kajuru/</link>
-	<description>A comprehensive guide to Kajuru, Nigeria including top attractions, hiking trails, food scene, where to stay, and more.</description>
-	<pubDate>2024-05-18T17:32:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
