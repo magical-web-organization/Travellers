@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T09:45:38+03:00</pubDate>
-        <lastBuildDate>2024-05-18T09:45:38+03:00</lastBuildDate>
+        <pubDate>2024-05-18T10:15:26+03:00</pubDate>
+        <lastBuildDate>2024-05-18T10:15:26+03:00</lastBuildDate>
 
         <item>
+	<title>Glenwood Springs Travel Guide (Northwestern Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/northwestern-colorado/glenwood-springs/</link>
+	<description>Plan your trip to Glenwood Springs with our comprehensive travel guide featuring top attractions, hiking routes, best things to do, food and drink scene, and more.</description>
+	<pubDate>2024-05-18T10:15:26+03:00</pubDate>
+</item><item>
 	<title>Rockford Travel Guide (Northern Illinois/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/northern-illinois/rockford/</link>
 	<description>Plan your trip to Rockford with our comprehensive travel guide. Explore the best tourist attractions, outdoor adventures, food and lodging options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/jamaica/middlesex-county/great-goat-island/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Great Goat Island, Jamaica in this comprehensive travel guide.</description>
 	<pubDate>2024-05-18T04:27:28+03:00</pubDate>
-</item><item>
-	<title>Uricani Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/uricani/</link>
-	<description>Plan your trip to Uricani with our comprehensive travel guide featuring must-see attractions, activities, food and drink scene, and more.</description>
-	<pubDate>2024-05-18T03:55:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
