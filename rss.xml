@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T12:18:40+03:00</pubDate>
-        <lastBuildDate>2024-05-18T12:18:40+03:00</lastBuildDate>
+        <pubDate>2024-05-18T12:34:11+03:00</pubDate>
+        <lastBuildDate>2024-05-18T12:34:11+03:00</lastBuildDate>
 
         <item>
+	<title>Fairbourne Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/fairbourne/</link>
+	<description>Discover the best of Fairbourne in North Wales, from natural attractions and outdoor adventures to local cuisine and cultural landmarks. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-05-18T12:34:11+03:00</pubDate>
+</item><item>
 	<title>Moreton-in-Marsh Travel Guide (Gloucestershire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/moreton-in-marsh/</link>
 	<description>Explore the natural beauty, cultural richness, and adventurous spirit of Moreton-in-Marsh with this comprehensive travel guide. Find out about top attractions, things to do, food and drink scene, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/king-county/seattle/west/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat and more in West, Seattle, with this comprehensive travel guide.</description>
 	<pubDate>2024-05-18T08:23:28+03:00</pubDate>
-</item><item>
-	<title>Khopoli Travel Guide (North Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/khopoli/</link>
-	<description>Plan your trip to Khopoli with this informative travel guide. Discover top attractions, hiking/biking routes, the best things to do, where to stay, local food, and more.</description>
-	<pubDate>2024-05-18T07:51:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
