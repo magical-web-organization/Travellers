@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-18T22:43:57+03:00</pubDate>
-        <lastBuildDate>2024-05-18T22:43:57+03:00</lastBuildDate>
+        <pubDate>2024-05-18T23:28:27+03:00</pubDate>
+        <lastBuildDate>2024-05-18T23:28:27+03:00</lastBuildDate>
 
         <item>
+	<title>Canazei Travel Guide (Trentino/Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/trentino/canazei/</link>
+	<description>Plan a trip to Canazei with our comprehensive travel guide and explore the cultural, natural, and outdoor attractions of this enchanting location in Northeast Italy.</description>
+	<pubDate>2024-05-18T23:28:27+03:00</pubDate>
+</item><item>
 	<title>Jebel Ali Travel Guide (Dubai/United Arab Emirates/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/united-arab-emirates/dubai/jebel-ali/</link>
 	<description>Discover the best places to visit, eat, stay, and things to do in Jebel Ali. This travel guide covers everything you need to know about the popular travel destination in Dubai.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/karoo-heartland/somerset-east/</link>
 	<description>Plan your visit to Somerset East with this comprehensive tour guide highlighting the best places to visit, things to do, and where to stay for a memorable trip to Eastern Cape, South Africa.</description>
 	<pubDate>2024-05-18T18:47:51+03:00</pubDate>
-</item><item>
-	<title>Taormina Travel Guide (Messina (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/messina-province/taormina/</link>
-	<description>Everything you need to know to plan your trip to Taormina, including top sights, things to do, where to eat and stay, and transportation options.</description>
-	<pubDate>2024-05-18T18:26:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
