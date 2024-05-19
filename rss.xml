@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T09:02:58+03:00</pubDate>
-        <lastBuildDate>2024-05-19T09:02:58+03:00</lastBuildDate>
+        <pubDate>2024-05-19T09:13:34+03:00</pubDate>
+        <lastBuildDate>2024-05-19T09:13:34+03:00</lastBuildDate>
 
         <item>
+	<title>Heinola Travel Guide (Päijänne Tavastia/Southern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/paijanne-tavastia/heinola/</link>
+	<description>Plan your perfect trip to Heinola with our comprehensive travel guide. Learn about the cultural and natural attractions, outdoor adventures, hiking and biking routes, food, accommodation, and more.</description>
+	<pubDate>2024-05-19T09:13:34+03:00</pubDate>
+</item><item>
 	<title>Taï National Park Travel Guide (Southwestern Forests/Côte d'Ivoire/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/cote-d-ivoire/southwestern-forests/tai-national-park/</link>
 	<description>Explore the majestic beauty of Taï National Park with our comprehensive guide. Discover the best places to visit, things to do, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/coteaus-and-plains/dawson/</link>
 	<description>Discover the top attractions, accommodations, and tips for safety and health when traveling to Dawson, North Dakota.</description>
 	<pubDate>2024-05-19T04:34:11+03:00</pubDate>
-</item><item>
-	<title>Palmerston Island Travel Guide (Southern Cook Islands/Cook Islands/Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/cook-islands/southern-cook-islands/palmerston-island/</link>
-	<description>Explore the culturally rich and scenic beauty of Palmerston Island with our extensive travel guide. Find out the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-05-19T04:25:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
