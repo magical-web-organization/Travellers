@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T12:15:05+03:00</pubDate>
-        <lastBuildDate>2024-05-19T12:15:05+03:00</lastBuildDate>
+        <pubDate>2024-05-19T12:53:40+03:00</pubDate>
+        <lastBuildDate>2024-05-19T12:53:40+03:00</lastBuildDate>
 
         <item>
+	<title>Genting Highlands Travel Guide (Pahang/East Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/pahang/genting-highlands/</link>
+	<description>Explore Genting Highlands with this comprehensive travel guide featuring the best places to visit, things to do, where to stay, and local culture and customs.</description>
+	<pubDate>2024-05-19T12:53:40+03:00</pubDate>
+</item><item>
 	<title>Bromo-Tengger-Semeru National Park Travel Guide (East Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/east-java/bromo-tengger-semeru-national-park/</link>
 	<description>Plan your trip to Bromo-Tengger-Semeru National Park with this comprehensive travel guide, covering places to visit, activities, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/near-north/killarney/</link>
 	<description>Plan your trip to Killarney with this comprehensive travel guide featuring top things to do, places to stay, where to eat, and more.</description>
 	<pubDate>2024-05-19T08:22:27+03:00</pubDate>
-</item><item>
-	<title>Ibiza (city) Travel Guide (Ibiza/Balearic Islands/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/ibiza/ibiza-city/</link>
-	<description>Plan your trip to Ibiza (city) with this comprehensive tour guide. Discover the best places to visit, stay, eat and more.</description>
-	<pubDate>2024-05-19T07:41:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
