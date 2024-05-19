@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T11:30:51+03:00</pubDate>
-        <lastBuildDate>2024-05-19T11:30:51+03:00</lastBuildDate>
+        <pubDate>2024-05-19T11:36:11+03:00</pubDate>
+        <lastBuildDate>2024-05-19T11:36:11+03:00</lastBuildDate>
 
         <item>
+	<title>Langen Travel Guide (Rhine-Main/Hesse/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/rhine-main/langen/</link>
+	<description>Plan your visit to Langen, Germany with this comprehensive travel guide featuring a list of places to visit, hiking and biking routes, food and drink scene, and important tips and information.</description>
+	<pubDate>2024-05-19T11:36:11+03:00</pubDate>
+</item><item>
 	<title>Dieng Plateau Travel Guide (Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/dieng-plateau/</link>
 	<description>Discover the rich culture, beautiful scenery, and thrilling outdoor adventures of Dieng Plateau, central Java, Indonesia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/peru/central-coast/barranca/</link>
 	<description>Plan a trip to Barranca and explore its culturally significant museums and historical places, natural attractions, hiking/biking routes, and local food scene. Discover the best things to do, where to stay, and how to get around in this hidden gem in Peru.</description>
 	<pubDate>2024-05-19T07:13:38+03:00</pubDate>
-</item><item>
-	<title>Batanes Travel Guide (Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/batanes/</link>
-	<description>Discover the best places to visit, food to try, and things to do in Batanes, Philippines. Learn about the local culture, customs, and where to stay. Plan your trip and explore the beauty of this Southeast Asian gem.</description>
-	<pubDate>2024-05-19T06:48:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
