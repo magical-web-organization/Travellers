@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T19:11:20+03:00</pubDate>
-        <lastBuildDate>2024-05-19T19:11:20+03:00</lastBuildDate>
+        <pubDate>2024-05-19T19:35:10+03:00</pubDate>
+        <lastBuildDate>2024-05-19T19:35:10+03:00</lastBuildDate>
 
         <item>
+	<title>Kangaroo Valley Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/kangaroo-valley/</link>
+	<description>This comprehensive travel guide to Kangaroo Valley covers everything you need to know before planning your trip including places to visit, hiking/biking routes, best things to do, food & drink scene, where to stay, local culture, safety, getting there, and nearby destinations.</description>
+	<pubDate>2024-05-19T19:35:10+03:00</pubDate>
+</item><item>
 	<title>Las Rozas Travel Guide (Community of Madrid/Central Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/community-of-madrid/las-rozas/</link>
 	<description>Plan your trip to Las Rozas with our travel guide, featuring information on attractions, activities, food, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/warren-county/lebanon/</link>
 	<description>Plan your trip to Lebanon with this comprehensive travel guide, including recommendations for places to visit, hiking/biking routes, accommodations, local cuisine, culture, safety, transportation, and more.</description>
 	<pubDate>2024-05-19T15:04:55+03:00</pubDate>
-</item><item>
-	<title>Saint-Adelphe Travel Guide (Mékinac/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/mekinac/saint-adelphe/</link>
-	<description>Discover the natural and cultural attractions of Saint-Adelphe in Québec, Canada, and plan your perfect trip with this comprehensive travel guide.</description>
-	<pubDate>2024-05-19T14:43:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
