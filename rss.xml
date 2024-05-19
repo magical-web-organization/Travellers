@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T02:52:37+03:00</pubDate>
-        <lastBuildDate>2024-05-19T02:52:37+03:00</lastBuildDate>
+        <pubDate>2024-05-19T03:03:45+03:00</pubDate>
+        <lastBuildDate>2024-05-19T03:03:45+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Raphaël Travel Guide (Var/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/var/saint-raphael/</link>
+	<description>A comprehensive travel guide for Saint-Raphaël, including information on places to visit, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, transportation options and logistics, nearby destinations and excursions.</description>
+	<pubDate>2024-05-19T03:03:45+03:00</pubDate>
+</item><item>
 	<title>Lahad Datu Travel Guide (Sabah/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sabah/lahad-datu/</link>
 	<description>Discover the best places to visit, things to do, food to eat, and tips for safety and transportation while visiting the beautiful city of Lahad Datu in Sabah, Malaysia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/united-arab-emirates/dubai/jebel-ali/</link>
 	<description>Discover the best places to visit, eat, stay, and things to do in Jebel Ali. This travel guide covers everything you need to know about the popular travel destination in Dubai.</description>
 	<pubDate>2024-05-18T22:43:57+03:00</pubDate>
-</item><item>
-	<title>Durazno Travel Guide (Central Interior/Uruguay/South America)</title>
-	<link>https://travellers.wiki/en/south-america/uruguay/central-interior/durazno/</link>
-	<description>Discover the hidden gems of Durazno, from culturally rich museums to scenic views, exciting outdoor adventures, and local cuisine. Learn about transportation, safety, and more.</description>
-	<pubDate>2024-05-18T22:09:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
