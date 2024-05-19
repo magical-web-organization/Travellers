@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T17:14:56+03:00</pubDate>
-        <lastBuildDate>2024-05-19T17:14:56+03:00</lastBuildDate>
+        <pubDate>2024-05-19T17:36:13+03:00</pubDate>
+        <lastBuildDate>2024-05-19T17:36:13+03:00</lastBuildDate>
 
         <item>
+	<title>Mainz Travel Guide (Rhenish Hesse/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/rhenish-hesse/mainz/</link>
+	<description>Discover the hidden gems of Mainz, Germany with this comprehensive travel guide. Plan your itinerary, explore the city's rich history and culture, and sample the local cuisine and beverages.</description>
+	<pubDate>2024-05-19T17:36:13+03:00</pubDate>
+</item><item>
 	<title>Manosque Travel Guide (Alpes-de-Haute-Provence/Provence-Alpes-Côte d'Azur/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-de-haute-provence/manosque/</link>
 	<description>Discover the hidden gems of Manosque, including places to visit, hiking and biking routes, food and drinks to try, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/slovenia/central-slovenia/kranj/</link>
 	<description>Discover the best places to visit, things to do, and food to try in Kranj, Slovenia. From hiking routes to cultural attractions, prepare for your trip to Kranj with this ultimate travel guide.</description>
 	<pubDate>2024-05-19T13:04:57+03:00</pubDate>
-</item><item>
-	<title>Genting Highlands Travel Guide (Pahang/East Coast/Malaysia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/pahang/genting-highlands/</link>
-	<description>Explore Genting Highlands with this comprehensive travel guide featuring the best places to visit, things to do, where to stay, and local culture and customs.</description>
-	<pubDate>2024-05-19T12:53:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
