@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T05:47:37+03:00</pubDate>
-        <lastBuildDate>2024-05-19T05:47:37+03:00</lastBuildDate>
+        <pubDate>2024-05-19T06:07:53+03:00</pubDate>
+        <lastBuildDate>2024-05-19T06:07:53+03:00</lastBuildDate>
 
         <item>
+	<title>Ringkøbing Travel Guide (West Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/west-jutland/ringkobing/</link>
+	<description>Discover Ringkøbing's cultural attractions, natural wonders, food and drink scene, and more with our comprehensive travel guide. Plan your trip today!</description>
+	<pubDate>2024-05-19T06:07:53+03:00</pubDate>
+</item><item>
 	<title>Honokaa Travel Guide (Big Island/Hawaii/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/big-island/honokaa/</link>
 	<description>Discover the natural beauty, cultural richness, and exciting adventures that Honokaa in Hawaii has to offer with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/l-aquila-province/santo-stefano-di-sessanio/</link>
 	<description>Discover all the must-visit places, things to do, where to stay, local culture, and much more in Santo Stefano di Sessanio with our comprehensive tour guide.</description>
 	<pubDate>2024-05-19T01:56:23+03:00</pubDate>
-</item><item>
-	<title>Audubon and University Travel Guide (New Orleans/Greater New Orleans/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/greater-new-orleans/new-orleans/audubon-and-university/</link>
-	<description>Discover the attractions, activities, food, culture, safety, and logistics of Audubon and University neighborhood in New Orleans, Louisiana, USA.</description>
-	<pubDate>2024-05-19T01:24:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
