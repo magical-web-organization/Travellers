@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T01:02:04+03:00</pubDate>
-        <lastBuildDate>2024-05-20T01:02:04+03:00</lastBuildDate>
+        <pubDate>2024-05-20T01:03:39+03:00</pubDate>
+        <lastBuildDate>2024-05-20T01:03:39+03:00</lastBuildDate>
 
         <item>
+	<title>Glossop Travel Guide (Derbyshire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/derbyshire/glossop/</link>
+	<description>Discover Glossop, an English town in Derbyshire. Find the best things to do, places to visit, food to try, where to stay, and how to get there in this comprehensive travel guide.</description>
+	<pubDate>2024-05-20T01:03:39+03:00</pubDate>
+</item><item>
 	<title>Ridgefield (Washington) Travel Guide (Southwest Washington/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/ridgefield-washington/</link>
 	<description>Explore the vibrant city of Ridgefield (Washington) with this comprehensive travel guide. Discover the top things to do, places to visit, where to stay, what to eat, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/toliara-province/morondava/</link>
 	<description>Plan your trip to Morondava with this comprehensive travel guide featuring top tourist attractions, outdoor adventures, hiking/biking routes, food and drink scene, where to stay, local culture and customs, safety and health, transportation, and more.</description>
 	<pubDate>2024-05-19T20:33:45+03:00</pubDate>
-</item><item>
-	<title>Mambucaba Travel Guide (Costa Verde/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/costa-verde/mambucaba/</link>
-	<description>Discover the beautiful city of Mambucaba on Brazil's Costa Verde with our ultimate guide to the best attractions, outdoor adventures, local culture, and tips for safe and healthy travel.</description>
-	<pubDate>2024-05-19T20:17:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
