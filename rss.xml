@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T10:56:25+03:00</pubDate>
-        <lastBuildDate>2024-05-19T10:56:25+03:00</lastBuildDate>
+        <pubDate>2024-05-19T11:30:51+03:00</pubDate>
+        <lastBuildDate>2024-05-19T11:30:51+03:00</lastBuildDate>
 
         <item>
+	<title>Dieng Plateau Travel Guide (Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/dieng-plateau/</link>
+	<description>Discover the rich culture, beautiful scenery, and thrilling outdoor adventures of Dieng Plateau, central Java, Indonesia.</description>
+	<pubDate>2024-05-19T11:30:51+03:00</pubDate>
+</item><item>
 	<title>Douglas Travel Guide (Southeast Arizona/Eastern Arizona/Arizona/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/eastern-arizona/southeast-arizona/douglas/</link>
 	<description>Discover the culturally and naturally rich Southeast Arizona with this comprehensive travel guide to Douglas, Arizona. Plan your trip with top attractions, hiking and biking routes, food and drink scene, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/batanes/</link>
 	<description>Discover the best places to visit, food to try, and things to do in Batanes, Philippines. Learn about the local culture, customs, and where to stay. Plan your trip and explore the beauty of this Southeast Asian gem.</description>
 	<pubDate>2024-05-19T06:48:33+03:00</pubDate>
-</item><item>
-	<title>Ringkøbing Travel Guide (West Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/west-jutland/ringkobing/</link>
-	<description>Discover Ringkøbing's cultural attractions, natural wonders, food and drink scene, and more with our comprehensive travel guide. Plan your trip today!</description>
-	<pubDate>2024-05-19T06:07:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
