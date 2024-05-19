@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T22:50:52+03:00</pubDate>
-        <lastBuildDate>2024-05-19T22:50:52+03:00</lastBuildDate>
+        <pubDate>2024-05-19T23:11:26+03:00</pubDate>
+        <lastBuildDate>2024-05-19T23:11:26+03:00</lastBuildDate>
 
         <item>
+	<title>Zaragoza Travel Guide (Aragon/Northern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/northern-spain/aragon/zaragoza/</link>
+	<description>Discover the best things to see and do in Zaragoza, Spain in this comprehensive tour guide. From cultural attractions to natural wonders, this guide will help you plan the perfect trip.</description>
+	<pubDate>2024-05-19T23:11:26+03:00</pubDate>
+</item><item>
 	<title>Stokmarknes Travel Guide (Nordland/Northern Norway/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/northern-norway/nordland/stokmarknes/</link>
 	<description>Plan your trip to Stokmarknes with this comprehensive travel guide featuring top attractions, activities, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/bhutan/eastern-bhutan/wamrong/</link>
 	<description>Discover the best places to visit, things to do, where to stay, local culture, and customs of Wamrong, Bhutan in this comprehensive travel guide.</description>
 	<pubDate>2024-05-19T18:55:31+03:00</pubDate>
-</item><item>
-	<title>Martigny Travel Guide (Valais/Switzerland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/switzerland/valais/martigny/</link>
-	<description>Explore the best places to visit, things to do, where to stay, and tips for traveling in Martigny, Switzerland.</description>
-	<pubDate>2024-05-19T18:27:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
