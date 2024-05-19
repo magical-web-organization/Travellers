@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T11:36:11+03:00</pubDate>
-        <lastBuildDate>2024-05-19T11:36:11+03:00</lastBuildDate>
+        <pubDate>2024-05-19T12:15:05+03:00</pubDate>
+        <lastBuildDate>2024-05-19T12:15:05+03:00</lastBuildDate>
 
         <item>
+	<title>Bromo-Tengger-Semeru National Park Travel Guide (East Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/east-java/bromo-tengger-semeru-national-park/</link>
+	<description>Plan your trip to Bromo-Tengger-Semeru National Park with this comprehensive travel guide, covering places to visit, activities, accommodations, and more.</description>
+	<pubDate>2024-05-19T12:15:05+03:00</pubDate>
+</item><item>
 	<title>Langen Travel Guide (Rhine-Main/Hesse/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/rhine-main/langen/</link>
 	<description>Plan your visit to Langen, Germany with this comprehensive travel guide featuring a list of places to visit, hiking and biking routes, food and drink scene, and important tips and information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/ibiza/ibiza-city/</link>
 	<description>Plan your trip to Ibiza (city) with this comprehensive tour guide. Discover the best places to visit, stay, eat and more.</description>
 	<pubDate>2024-05-19T07:41:05+03:00</pubDate>
-</item><item>
-	<title>Barranca Travel Guide (Central Coast/Peru/South America)</title>
-	<link>https://travellers.wiki/en/south-america/peru/central-coast/barranca/</link>
-	<description>Plan a trip to Barranca and explore its culturally significant museums and historical places, natural attractions, hiking/biking routes, and local food scene. Discover the best things to do, where to stay, and how to get around in this hidden gem in Peru.</description>
-	<pubDate>2024-05-19T07:13:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
