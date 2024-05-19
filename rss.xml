@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-19T03:37:59+03:00</pubDate>
-        <lastBuildDate>2024-05-19T03:37:59+03:00</lastBuildDate>
+        <pubDate>2024-05-19T04:25:04+03:00</pubDate>
+        <lastBuildDate>2024-05-19T04:25:04+03:00</lastBuildDate>
 
         <item>
+	<title>Palmerston Island Travel Guide (Southern Cook Islands/Cook Islands/Polynesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/polynesia/cook-islands/southern-cook-islands/palmerston-island/</link>
+	<description>Explore the culturally rich and scenic beauty of Palmerston Island with our extensive travel guide. Find out the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-19T04:25:04+03:00</pubDate>
+</item><item>
 	<title>Modena (province) Travel Guide (Emilia-Romagna/Northeast Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/modena-province/</link>
 	<description>Discover the best things to do in Modena (province), including cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, what to buy, local customs, safety and health, transportation options, nearby destinations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/tunisia/northern-tunisia/kerkouane/</link>
 	<description>Discover Kerkouane, the hidden gem in Northern Tunisia, with our travel guide that highlights the best places to visit, things to do, food options, and more.</description>
 	<pubDate>2024-05-18T23:35:58+03:00</pubDate>
-</item><item>
-	<title>Canazei Travel Guide (Trentino/Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/trentino/canazei/</link>
-	<description>Plan a trip to Canazei with our comprehensive travel guide and explore the cultural, natural, and outdoor attractions of this enchanting location in Northeast Italy.</description>
-	<pubDate>2024-05-18T23:28:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
