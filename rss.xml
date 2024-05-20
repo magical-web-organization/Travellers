@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T02:57:30+03:00</pubDate>
-        <lastBuildDate>2024-05-20T02:57:30+03:00</lastBuildDate>
+        <pubDate>2024-05-20T03:07:32+03:00</pubDate>
+        <lastBuildDate>2024-05-20T03:07:32+03:00</lastBuildDate>
 
         <item>
+	<title>Læsø Travel Guide (North Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/north-jutland/laeso/</link>
+	<description>Discover the hidden gems and natural wonders of the Danish island of Læsø with this comprehensive travel guide. From cultural attractions to outdoor adventures, we've got you covered.</description>
+	<pubDate>2024-05-20T03:07:32+03:00</pubDate>
+</item><item>
 	<title>Wilmington (New York) Travel Guide (Adirondacks/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/adirondacks/wilmington-new-york/</link>
 	<description>Plan your trip to Wilmington (New York) with this comprehensive travel guide, including top attractions, hiking trails, accommodation options, food and drink scene and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/northern-norway/nordland/stokmarknes/</link>
 	<description>Plan your trip to Stokmarknes with this comprehensive travel guide featuring top attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-05-19T22:50:52+03:00</pubDate>
-</item><item>
-	<title>Jacksonville Travel Guide (Central Arkansas/Arkansas/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/central-arkansas/jacksonville/</link>
-	<description>Explore the culturally important attractions, natural wonders, food and drink scene, and more in Jacksonville, Arkansas. Plan your trip to this beautiful destination with our week-long itinerary and tips on transportation, where to stay, and what to buy.</description>
-	<pubDate>2024-05-19T22:12:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
