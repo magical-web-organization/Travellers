@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T07:06:06+03:00</pubDate>
-        <lastBuildDate>2024-05-20T07:06:06+03:00</lastBuildDate>
+        <pubDate>2024-05-20T07:38:48+03:00</pubDate>
+        <lastBuildDate>2024-05-20T07:38:48+03:00</lastBuildDate>
 
         <item>
+	<title>Brno Travel Guide (South Moravia/Czech Republic/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/south-moravia/brno/</link>
+	<description>Brno Travel Guide - A SEO optimized travel guide full of useful information to help you plan your trip to Brno, Czech Republic. Learn about the best things to do, see and eat in Brno, as well as practical information on transportation, accommodation, safety, and more.</description>
+	<pubDate>2024-05-20T07:38:48+03:00</pubDate>
+</item><item>
 	<title>Divriği Travel Guide (Central Anatolia/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/central-anatolia/divrigi/</link>
 	<description>Discover the best things to do in Divriği, Turkey, with this comprehensive travel guide. From cultural and historical attractions to natural wonders, hiking routes, and more, plan your trip to the fascinating city in Central Anatolia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/north-jutland/laeso/</link>
 	<description>Discover the hidden gems and natural wonders of the Danish island of Læsø with this comprehensive travel guide. From cultural attractions to outdoor adventures, we've got you covered.</description>
 	<pubDate>2024-05-20T03:07:32+03:00</pubDate>
-</item><item>
-	<title>Wilmington (New York) Travel Guide (Adirondacks/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/adirondacks/wilmington-new-york/</link>
-	<description>Plan your trip to Wilmington (New York) with this comprehensive travel guide, including top attractions, hiking trails, accommodation options, food and drink scene and more.</description>
-	<pubDate>2024-05-20T02:57:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
