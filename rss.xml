@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T09:30:24+03:00</pubDate>
-        <lastBuildDate>2024-05-20T09:30:24+03:00</lastBuildDate>
+        <pubDate>2024-05-20T09:57:14+03:00</pubDate>
+        <lastBuildDate>2024-05-20T09:57:14+03:00</lastBuildDate>
 
         <item>
+	<title>Paro Travel Guide (Western Bhutan/Bhutan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/bhutan/western-bhutan/paro/</link>
+	<description>Plan your trip to Paro, Bhutan with our comprehensive guide. Learn about the best sights to visit, top hiking and biking trails, where to stay and eat, and more!</description>
+	<pubDate>2024-05-20T09:57:14+03:00</pubDate>
+</item><item>
 	<title>Green Lake Travel Guide (North Central Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/north-central-wisconsin/green-lake/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture of Green Lake, Wisconsin with this comprehensive travel guide. Start planning your trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/tulsa/</link>
 	<description>A comprehensive tour guide for Tulsa, including places to visit, things to do, when to visit, safety, and health.</description>
 	<pubDate>2024-05-20T05:21:20+03:00</pubDate>
-</item><item>
-	<title>Calatafimi Segesta Travel Guide (Trapani (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/calatafimi-segesta/</link>
-	<description>Plan your trip to Calatafimi Segesta with this comprehensive travel guide, including the top attractions, hiking routes, accommodations, and local food and culture.</description>
-	<pubDate>2024-05-20T04:37:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
