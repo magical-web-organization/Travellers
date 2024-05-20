@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T02:09:29+03:00</pubDate>
-        <lastBuildDate>2024-05-21T02:09:29+03:00</lastBuildDate>
+        <pubDate>2024-05-21T02:50:01+03:00</pubDate>
+        <lastBuildDate>2024-05-21T02:50:01+03:00</lastBuildDate>
 
         <item>
+	<title>Rutherglen (Victoria) Travel Guide (High Country (Victoria)/Victoria (state)/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/victoria-state/high-country-victoria/rutherglen-victoria/</link>
+	<description>Discover the best places to visit, things to do, and local culture and customs in Rutherglen (Victoria) with this comprehensive guide. From the town's cultural and natural attractions to dining and accommodation options, find everything you need to plan your trip to this hidden gem in High Country.</description>
+	<pubDate>2024-05-21T02:50:01+03:00</pubDate>
+</item><item>
 	<title>Carlsbad Travel Guide (North County/San Diego County/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/north-county/carlsbad/</link>
 	<description>A comprehensive guide for travelers visiting Carlsbad, including a list of places to visit, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/kennemerland/zuid-kennemerland-national-park/</link>
 	<description>Zuid-Kennemerland National Park is a gem in the Netherlands, offering natural and cultural attractions, hiking and biking routes, food scene, and more. Learn all about it in this ultimate guide.</description>
 	<pubDate>2024-05-20T22:29:19+03:00</pubDate>
-</item><item>
-	<title>Nasiriyah Travel Guide (Southern Iraq/Iraq/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/iraq/southern-iraq/nasiriyah/</link>
-	<description>Discover the top things to do, places to visit, must-try food, and tips for a safe and enjoyable trip in Nasiriyah, Iraq. Plan your itinerary and explore the cultural treasures, natural wonders, and local traditions of Southern Iraq.</description>
-	<pubDate>2024-05-20T21:46:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
