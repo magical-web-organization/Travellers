@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T22:29:19+03:00</pubDate>
-        <lastBuildDate>2024-05-20T22:29:19+03:00</lastBuildDate>
+        <pubDate>2024-05-20T22:37:41+03:00</pubDate>
+        <lastBuildDate>2024-05-20T22:37:41+03:00</lastBuildDate>
 
         <item>
+	<title>Tel Aviv Travel Guide (Israeli Coastal Plain/Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/israeli-coastal-plain/tel-aviv/</link>
+	<description>Plan your trip to Tel Aviv with this comprehensive travel guide, including top attractions, hiking/biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-20T22:37:41+03:00</pubDate>
+</item><item>
 	<title>Zuid-Kennemerland National Park Travel Guide (Kennemerland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/kennemerland/zuid-kennemerland-national-park/</link>
 	<description>Zuid-Kennemerland National Park is a gem in the Netherlands, offering natural and cultural attractions, hiking and biking routes, food scene, and more. Learn all about it in this ultimate guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/ghana/ghanaian-northern-plains/walewale/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Walewale, Ghana. Plan your trip to this beautiful city with our comprehensive travel guide.</description>
 	<pubDate>2024-05-20T18:32:44+03:00</pubDate>
-</item><item>
-	<title>Dollar Travel Guide (Stirlingshire and Clackmannanshire/Central Belt/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/stirlingshire-and-clackmannanshire/dollar/</link>
-	<description>Discover the charming village of Dollar in Central Belt, Scotland. Learn about the top attractions, natural wonders, hiking and biking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-05-20T17:54:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
