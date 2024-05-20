@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T23:58:28+03:00</pubDate>
-        <lastBuildDate>2024-05-20T23:58:28+03:00</lastBuildDate>
+        <pubDate>2024-05-21T00:13:12+03:00</pubDate>
+        <lastBuildDate>2024-05-21T00:13:12+03:00</lastBuildDate>
 
         <item>
+	<title>Thakhek Travel Guide (Central Laos/Laos/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/laos/central-laos/thakhek/</link>
+	<description>Discover the natural beauty, rich culture, and adventure activities that make Thakhek a must-visit destination in Laos. Plan your trip with our comprehensive guide featuring top attractions, hiking/biking routes, food and drink scene, local culture, and more.</description>
+	<pubDate>2024-05-21T00:13:12+03:00</pubDate>
+</item><item>
 	<title>Rtina Travel Guide (Northern Dalmatia/Dalmatia/Croatia/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/croatia/dalmatia/northern-dalmatia/rtina/</link>
 	<description>Our travel guide to Rtina, Croatia provides information on the best places to visit, things to do, where to stay, and more. Read on for a comprehensive guide to planning your Rtina trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/pwllheli/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Pwllheli.</description>
 	<pubDate>2024-05-20T19:46:27+03:00</pubDate>
-</item><item>
-	<title>Sullia Travel Guide (Dakshina Kannada/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/dakshina-kannada/sullia/</link>
-	<description>Discover the best places to visit, eat, stay, and things to do in Sullia, Karnataka with our comprehensive travel guide.</description>
-	<pubDate>2024-05-20T19:25:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
