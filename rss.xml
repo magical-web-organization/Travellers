@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T22:37:41+03:00</pubDate>
-        <lastBuildDate>2024-05-20T22:37:41+03:00</lastBuildDate>
+        <pubDate>2024-05-20T23:20:25+03:00</pubDate>
+        <lastBuildDate>2024-05-20T23:20:25+03:00</lastBuildDate>
 
         <item>
+	<title>El Goléa Travel Guide (Saharan Algeria/Algeria/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/algeria/saharan-algeria/el-golea/</link>
+	<description>Explore the cultural and natural attractions of El Goléa, Algeria through this detailed travel guide. From hiking and biking routes to local cuisine and customs, this guide has everything to make your journey safe and memorable.</description>
+	<pubDate>2024-05-20T23:20:25+03:00</pubDate>
+</item><item>
 	<title>Tel Aviv Travel Guide (Israeli Coastal Plain/Israel/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/israel/israeli-coastal-plain/tel-aviv/</link>
 	<description>Plan your trip to Tel Aviv with this comprehensive travel guide, including top attractions, hiking/biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/luneburg-heath/hermannsburg/</link>
 	<description>Discover the culturally rich and naturally scenic Hermannsburg with this comprehensive travel guide. Learn about the must-visit places, hiking/biking routes, food and drink scene, where to stay, and much more.</description>
 	<pubDate>2024-05-20T18:34:44+03:00</pubDate>
-</item><item>
-	<title>Walewale Travel Guide (Ghanaian Northern Plains/Ghana/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/ghana/ghanaian-northern-plains/walewale/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Walewale, Ghana. Plan your trip to this beautiful city with our comprehensive travel guide.</description>
-	<pubDate>2024-05-20T18:32:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
