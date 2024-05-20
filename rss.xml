@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T06:40:28+03:00</pubDate>
-        <lastBuildDate>2024-05-20T06:40:28+03:00</lastBuildDate>
+        <pubDate>2024-05-20T07:06:06+03:00</pubDate>
+        <lastBuildDate>2024-05-20T07:06:06+03:00</lastBuildDate>
 
         <item>
+	<title>Divriği Travel Guide (Central Anatolia/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/central-anatolia/divrigi/</link>
+	<description>Discover the best things to do in Divriği, Turkey, with this comprehensive travel guide. From cultural and historical attractions to natural wonders, hiking routes, and more, plan your trip to the fascinating city in Central Anatolia.</description>
+	<pubDate>2024-05-20T07:06:06+03:00</pubDate>
+</item><item>
 	<title>Qasigiannguit Travel Guide (Western Greenland/Greenland/North America)</title>
 	<link>https://travellers.wiki/en/north-america/greenland/western-greenland/qasigiannguit/</link>
 	<description>Discover the best places to visit, local culture, food and drink scene, and transportation options in Qasigiannguit, Greenland. Plan your trip with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/adirondacks/wilmington-new-york/</link>
 	<description>Plan your trip to Wilmington (New York) with this comprehensive travel guide, including top attractions, hiking trails, accommodation options, food and drink scene and more.</description>
 	<pubDate>2024-05-20T02:57:30+03:00</pubDate>
-</item><item>
-	<title>Zamboanguita Travel Guide (Negros Oriental/Negros/Visayas/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/negros/negros-oriental/zamboanguita/</link>
-	<description>Get all the essential information on Zamboanguita, including top places to visit, outdoor adventures, cultural attractions, food, and more.</description>
-	<pubDate>2024-05-20T02:31:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
