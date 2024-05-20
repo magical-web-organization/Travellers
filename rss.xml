@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T17:54:08+03:00</pubDate>
-        <lastBuildDate>2024-05-20T17:54:08+03:00</lastBuildDate>
+        <pubDate>2024-05-20T18:32:44+03:00</pubDate>
+        <lastBuildDate>2024-05-20T18:32:44+03:00</lastBuildDate>
 
         <item>
+	<title>Walewale Travel Guide (Ghanaian Northern Plains/Ghana/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/ghana/ghanaian-northern-plains/walewale/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Walewale, Ghana. Plan your trip to this beautiful city with our comprehensive travel guide.</description>
+	<pubDate>2024-05-20T18:32:44+03:00</pubDate>
+</item><item>
 	<title>Dollar Travel Guide (Stirlingshire and Clackmannanshire/Central Belt/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/stirlingshire-and-clackmannanshire/dollar/</link>
 	<description>Discover the charming village of Dollar in Central Belt, Scotland. Learn about the top attractions, natural wonders, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/podkarpackie/nisko/</link>
 	<description>Explore the beautiful town of Nisko and enjoy its rich cultural heritage, natural beauty, delicious cuisine, and warm hospitality. This comprehensive travel guide covers everything you need to know about Nisko, from the must-visit places to stay, eat, and explore.</description>
 	<pubDate>2024-05-20T13:48:52+03:00</pubDate>
-</item><item>
-	<title>Cavaillon Travel Guide (Vaucluse/Provence-Alpes-Côte d'Azur/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/vaucluse/cavaillon/</link>
-	<description>Discover the charming town of Cavaillon in the region of Provence-Alpes-Côte d'Azur, France. Our comprehensive guide covers top attractions, activities, where to stay, and more.</description>
-	<pubDate>2024-05-20T13:05:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
