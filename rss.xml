@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T00:13:12+03:00</pubDate>
-        <lastBuildDate>2024-05-21T00:13:12+03:00</lastBuildDate>
+        <pubDate>2024-05-21T00:59:46+03:00</pubDate>
+        <lastBuildDate>2024-05-21T00:59:46+03:00</lastBuildDate>
 
         <item>
+	<title>Leduc Travel Guide (Edmonton Capital Region/Alberta/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/edmonton-capital-region/leduc/</link>
+	<description>Discover the culturally important attractions, natural wonders, hiking/biking routes, best things to do, food, accommodations, and more with this comprehensive guide to Leduc, Alberta, Canada.</description>
+	<pubDate>2024-05-21T00:59:46+03:00</pubDate>
+</item><item>
 	<title>Thakhek Travel Guide (Central Laos/Laos/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/laos/central-laos/thakhek/</link>
 	<description>Discover the natural beauty, rich culture, and adventure activities that make Thakhek a must-visit destination in Laos. Plan your trip with our comprehensive guide featuring top attractions, hiking/biking routes, food and drink scene, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/northern-arizona/peach-springs/</link>
 	<description>Explore the cultural and natural attractions of Peach Springs, Arizona with our comprehensive travel guide. From museums to outdoor adventures, find everything you need to plan your trip.</description>
 	<pubDate>2024-05-20T20:13:38+03:00</pubDate>
-</item><item>
-	<title>Pwllheli Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/pwllheli/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Pwllheli.</description>
-	<pubDate>2024-05-20T19:46:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
