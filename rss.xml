@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T19:25:06+03:00</pubDate>
-        <lastBuildDate>2024-05-20T19:25:06+03:00</lastBuildDate>
+        <pubDate>2024-05-20T19:46:27+03:00</pubDate>
+        <lastBuildDate>2024-05-20T19:46:27+03:00</lastBuildDate>
 
         <item>
+	<title>Pwllheli Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/pwllheli/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Pwllheli.</description>
+	<pubDate>2024-05-20T19:46:27+03:00</pubDate>
+</item><item>
 	<title>Sullia Travel Guide (Dakshina Kannada/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/dakshina-kannada/sullia/</link>
 	<description>Discover the best places to visit, eat, stay, and things to do in Sullia, Karnataka with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/central-michigan/port-hope/</link>
 	<description>Plan your visit to Port Hope, Michigan with this comprehensive guide featuring must-see attractions, local culture, transportation options, and more.</description>
 	<pubDate>2024-05-20T15:08:39+03:00</pubDate>
-</item><item>
-	<title>Taylors Falls Travel Guide (Twin Cities/Minnesota/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/twin-cities/taylors-falls/</link>
-	<description>Plan a perfect trip to Taylors Falls, Minnesota with our comprehensive travel guide. Discover the best places to visit, food and drink, accommodations, local culture, and transportation options.</description>
-	<pubDate>2024-05-20T15:01:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
