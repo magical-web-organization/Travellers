@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-20T04:37:34+03:00</pubDate>
-        <lastBuildDate>2024-05-20T04:37:34+03:00</lastBuildDate>
+        <pubDate>2024-05-20T05:21:20+03:00</pubDate>
+        <lastBuildDate>2024-05-20T05:21:20+03:00</lastBuildDate>
 
         <item>
+	<title>Tulsa Travel Guide (Green Country/Oklahoma/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/tulsa/</link>
+	<description>A comprehensive tour guide for Tulsa, including places to visit, things to do, when to visit, safety, and health.</description>
+	<pubDate>2024-05-20T05:21:20+03:00</pubDate>
+</item><item>
 	<title>Calatafimi Segesta Travel Guide (Trapani (province)/Sicily/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/calatafimi-segesta/</link>
 	<description>Plan your trip to Calatafimi Segesta with this comprehensive travel guide, including the top attractions, hiking routes, accommodations, and local food and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/ridgefield-washington/</link>
 	<description>Explore the vibrant city of Ridgefield (Washington) with this comprehensive travel guide. Discover the top things to do, places to visit, where to stay, what to eat, and much more.</description>
 	<pubDate>2024-05-20T01:02:04+03:00</pubDate>
-</item><item>
-	<title>Dixon Travel Guide (Solano County/North Bay/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/north-bay/solano-county/dixon/</link>
-	<description>Discover Dixon's best places to visit, local food, accommodation, and more in this comprehensive travel guide. Read now and plan your trip!</description>
-	<pubDate>2024-05-20T00:28:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
