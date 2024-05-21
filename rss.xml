@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T13:55:52+03:00</pubDate>
-        <lastBuildDate>2024-05-21T13:55:52+03:00</lastBuildDate>
+        <pubDate>2024-05-21T14:06:08+03:00</pubDate>
+        <lastBuildDate>2024-05-21T14:06:08+03:00</lastBuildDate>
 
         <item>
+	<title>Santaquin Travel Guide (Wasatch Range/Utah/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/wasatch-range/santaquin/</link>
+	<description>Explore Santaquin, a city in Utah, with this comprehensive travel guide featuring top attractions, hiking routes, food scene, and cultural information.</description>
+	<pubDate>2024-05-21T14:06:08+03:00</pubDate>
+</item><item>
 	<title>Sernancelhe Travel Guide (Beira Alta/Beiras/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/sernancelhe/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Sernancelhe, Portugal. Read our comprehensive travel guide now.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/venezuela/northeast/sucre/mochima-national-park/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Mochima National Park. Plan your perfect adventure today.</description>
 	<pubDate>2024-05-21T09:44:34+03:00</pubDate>
-</item><item>
-	<title>Stockholm Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/stockholm/</link>
-	<description>Explore the best places to visit, food to taste, and activities to indulge in while in Stockholm in this comprehensive travel guide.</description>
-	<pubDate>2024-05-21T09:13:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
