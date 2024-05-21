@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T20:25:17+03:00</pubDate>
-        <lastBuildDate>2024-05-21T20:25:17+03:00</lastBuildDate>
+        <pubDate>2024-05-21T20:50:30+03:00</pubDate>
+        <lastBuildDate>2024-05-21T20:50:30+03:00</lastBuildDate>
 
         <item>
+	<title>Hel Travel Guide (Pomorskie/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/pomorskie/hel/</link>
+	<description>Plan your trip to the coastal town of Hel in Poland with this comprehensive travel guide, complete with information on attractions, food, accommodations, and more.</description>
+	<pubDate>2024-05-21T20:50:30+03:00</pubDate>
+</item><item>
 	<title>Atsugi Travel Guide (Kanagawa/Kanto/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/kanagawa/atsugi/</link>
 	<description>Plan your trip to Atsugi and discover the best places to visit, things to do, food & drinks, where to stay, and more with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/lampung/krui/</link>
 	<description>Looking for an adventure? Check out our comprehensive travel guide to Krui and explore everything this hidden gem has to offer from natural attractions to local culture and customs.</description>
 	<pubDate>2024-05-21T16:14:12+03:00</pubDate>
-</item><item>
-	<title>Csenger Travel Guide (Szabolcs-Szatmár-Bereg County/Northern Great Plain/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-great-plain/szabolcs-szatmar-bereg-county/csenger/</link>
-	<description>Discover the best things to do in Csenger, Hungary in this complete travel guide. Including where to stay, what to eat, and how to get there.</description>
-	<pubDate>2024-05-21T15:33:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
