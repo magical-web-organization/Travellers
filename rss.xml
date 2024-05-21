@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T08:42:18+03:00</pubDate>
-        <lastBuildDate>2024-05-21T08:42:18+03:00</lastBuildDate>
+        <pubDate>2024-05-21T09:13:43+03:00</pubDate>
+        <lastBuildDate>2024-05-21T09:13:43+03:00</lastBuildDate>
 
         <item>
+	<title>Stockholm Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/stockholm/</link>
+	<description>Explore the best places to visit, food to taste, and activities to indulge in while in Stockholm in this comprehensive travel guide.</description>
+	<pubDate>2024-05-21T09:13:43+03:00</pubDate>
+</item><item>
 	<title>Finca Sonador Travel Guide (South Pacific Costa Rica/Costa Rica/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/south-pacific-costa-rica/finca-sonador/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Finca Sonador, Costa Rica. Get tips for hiking and biking, enjoy local dishes, and navigate your way around this beautiful country.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/daniel-boone-country/prestonsburg/</link>
 	<description>Discover the best things to do, where to stay, and what to see in Prestonsburg, Kentucky. Read on for a comprehensive travel guide on this beautiful Daniel Boone Country destination in the United States.</description>
 	<pubDate>2024-05-21T04:55:01+03:00</pubDate>
-</item><item>
-	<title>Jalalabad Travel Guide (East Afghanistan/Afghanistan/Central Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/central-asia/afghanistan/east-afghanistan/jalalabad/</link>
-	<description>Discover the best places to visit and things to do in Jalalabad, Afghanistan with this comprehensive travel guide. From historical sites to outdoor adventures, we cover it all.</description>
-	<pubDate>2024-05-21T04:31:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
