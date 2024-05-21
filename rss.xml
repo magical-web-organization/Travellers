@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T11:14:48+03:00</pubDate>
-        <lastBuildDate>2024-05-21T11:14:48+03:00</lastBuildDate>
+        <pubDate>2024-05-21T11:58:32+03:00</pubDate>
+        <lastBuildDate>2024-05-21T11:58:32+03:00</lastBuildDate>
 
         <item>
+	<title>Kaza Travel Guide (Eastern Himachal Pradesh/Himachal Pradesh/Himalayan North/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/eastern-himachal-pradesh/kaza/</link>
+	<description>A comprehensive travel guide for Kaza, including places to visit, hiking/biking routes, accommodations, and local culture.</description>
+	<pubDate>2024-05-21T11:58:32+03:00</pubDate>
+</item><item>
 	<title>Bogazkale Travel Guide (Central Karadeniz/Black Sea Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/black-sea-turkey/central-karadeniz/bogazkale/</link>
 	<description>Discover the historical and natural attractions, outdoor adventures, local culture, and more in Bogazkale, Turkey. Plan your trip with our week-long itinerary, transportation options, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/mountains/athens/</link>
 	<description>Discover the top attractions, activities, accommodations, and travel tips for Athens, Alabama in this comprehensive travel guide.</description>
 	<pubDate>2024-05-21T07:07:46+03:00</pubDate>
-</item><item>
-	<title>Władysławowo Travel Guide (Pomorskie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/pomorskie/wladyslawowo/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Władysławowo with this comprehensive travel guide.</description>
-	<pubDate>2024-05-21T06:44:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
