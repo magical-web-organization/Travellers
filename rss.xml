@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T21:59:55+03:00</pubDate>
-        <lastBuildDate>2024-05-21T21:59:55+03:00</lastBuildDate>
+        <pubDate>2024-05-21T22:22:51+03:00</pubDate>
+        <lastBuildDate>2024-05-21T22:22:51+03:00</lastBuildDate>
 
         <item>
+	<title>Christchurch Travel Guide (Greater Christchurch/Canterbury/South Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/canterbury/greater-christchurch/christchurch/</link>
+	<description>Get ready for an exciting adventure in Christchurch, New Zealand! Whether you prefer cultural attractions, outdoor adventures, or delicious food, this guide has everything you need to plan your perfect trip.</description>
+	<pubDate>2024-05-21T22:22:51+03:00</pubDate>
+</item><item>
 	<title>Coolidge Travel Guide (South Central Arizona/Arizona/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/south-central-arizona/coolidge/</link>
 	<description>Discover the best things to do, see, and eat in Coolidge, Arizona. Learn about the local culture, where to stay, and how to get there in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/saarland/saarlouis/</link>
 	<description>A comprehensive guide for Saarlouis, including places to visit, hiking/biking routes, activities, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-05-21T17:54:08+03:00</pubDate>
-</item><item>
-	<title>Sherwood Travel Guide (Central Arkansas/Arkansas/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/central-arkansas/sherwood/</link>
-	<description>Explore the best attractions, food, accommodations and transportation in Sherwood, Arkansas. Read now for our recommended itinerary and travel tips.</description>
-	<pubDate>2024-05-21T17:07:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
