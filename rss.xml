@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T17:07:35+03:00</pubDate>
-        <lastBuildDate>2024-05-21T17:07:35+03:00</lastBuildDate>
+        <pubDate>2024-05-21T17:54:08+03:00</pubDate>
+        <lastBuildDate>2024-05-21T17:54:08+03:00</lastBuildDate>
 
         <item>
+	<title>Saarlouis Travel Guide (Saarland/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/saarland/saarlouis/</link>
+	<description>A comprehensive guide for Saarlouis, including places to visit, hiking/biking routes, activities, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-21T17:54:08+03:00</pubDate>
+</item><item>
 	<title>Sherwood Travel Guide (Central Arkansas/Arkansas/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/central-arkansas/sherwood/</link>
 	<description>Explore the best attractions, food, accommodations and transportation in Sherwood, Arkansas. Read now for our recommended itinerary and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/charsadda/</link>
 	<description>Discover the beautiful city of Charsadda in Pakistan with our comprehensive travel guide, covering the best places to visit, food spots, accommodations, transportation, and more.</description>
 	<pubDate>2024-05-21T13:19:37+03:00</pubDate>
-</item><item>
-	<title>Tewkesbury Travel Guide (Gloucestershire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/tewkesbury/</link>
-	<description>Plan your trip to Tewkesbury with our ultimate travel guide, featuring top cultural and natural attractions, travel tips, and recommendations for food, accommodation, and more.</description>
-	<pubDate>2024-05-21T13:01:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
