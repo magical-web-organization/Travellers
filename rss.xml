@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T13:01:42+03:00</pubDate>
-        <lastBuildDate>2024-05-21T13:01:42+03:00</lastBuildDate>
+        <pubDate>2024-05-21T13:19:37+03:00</pubDate>
+        <lastBuildDate>2024-05-21T13:19:37+03:00</lastBuildDate>
 
         <item>
+	<title>Charsadda Travel Guide (Khyber Pakhtunkhwa/Pakistan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/charsadda/</link>
+	<description>Discover the beautiful city of Charsadda in Pakistan with our comprehensive travel guide, covering the best places to visit, food spots, accommodations, transportation, and more.</description>
+	<pubDate>2024-05-21T13:19:37+03:00</pubDate>
+</item><item>
 	<title>Tewkesbury Travel Guide (Gloucestershire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/tewkesbury/</link>
 	<description>Plan your trip to Tewkesbury with our ultimate travel guide, featuring top cultural and natural attractions, travel tips, and recommendations for food, accommodation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/south-pacific-costa-rica/finca-sonador/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Finca Sonador, Costa Rica. Get tips for hiking and biking, enjoy local dishes, and navigate your way around this beautiful country.</description>
 	<pubDate>2024-05-21T08:42:18+03:00</pubDate>
-</item><item>
-	<title>Kagoro Travel Guide (Kaduna State/North West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/kaduna-state/kagoro/</link>
-	<description>Explore the picturesque, cultural and natural attractions of Kagoro, a hidden gem in North West Nigeria. Our travel guide provides a detailed itinerary, accommodation options, food scene, and more.</description>
-	<pubDate>2024-05-21T08:04:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
