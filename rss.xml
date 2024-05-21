@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T04:55:01+03:00</pubDate>
-        <lastBuildDate>2024-05-21T04:55:01+03:00</lastBuildDate>
+        <pubDate>2024-05-21T05:13:49+03:00</pubDate>
+        <lastBuildDate>2024-05-21T05:13:49+03:00</lastBuildDate>
 
         <item>
+	<title>Purwokerto Travel Guide (Banyumas/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/banyumas/purwokerto/</link>
+	<description>Plan your trip to Purwokerto with our comprehensive travel guide including a list of places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
+	<pubDate>2024-05-21T05:13:49+03:00</pubDate>
+</item><item>
 	<title>Prestonsburg Travel Guide (Daniel Boone Country/Kentucky/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/daniel-boone-country/prestonsburg/</link>
 	<description>Discover the best things to do, where to stay, and what to see in Prestonsburg, Kentucky. Read on for a comprehensive travel guide on this beautiful Daniel Boone Country destination in the United States.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/edmonton-capital-region/leduc/</link>
 	<description>Discover the culturally important attractions, natural wonders, hiking/biking routes, best things to do, food, accommodations, and more with this comprehensive guide to Leduc, Alberta, Canada.</description>
 	<pubDate>2024-05-21T00:59:46+03:00</pubDate>
-</item><item>
-	<title>Thakhek Travel Guide (Central Laos/Laos/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/laos/central-laos/thakhek/</link>
-	<description>Discover the natural beauty, rich culture, and adventure activities that make Thakhek a must-visit destination in Laos. Plan your trip with our comprehensive guide featuring top attractions, hiking/biking routes, food and drink scene, local culture, and more.</description>
-	<pubDate>2024-05-21T00:13:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
