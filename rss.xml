@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T13:19:37+03:00</pubDate>
-        <lastBuildDate>2024-05-21T13:19:37+03:00</lastBuildDate>
+        <pubDate>2024-05-21T13:55:52+03:00</pubDate>
+        <lastBuildDate>2024-05-21T13:55:52+03:00</lastBuildDate>
 
         <item>
+	<title>Sernancelhe Travel Guide (Beira Alta/Beiras/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-alta/sernancelhe/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Sernancelhe, Portugal. Read our comprehensive travel guide now.</description>
+	<pubDate>2024-05-21T13:55:52+03:00</pubDate>
+</item><item>
 	<title>Charsadda Travel Guide (Khyber Pakhtunkhwa/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/charsadda/</link>
 	<description>Discover the beautiful city of Charsadda in Pakistan with our comprehensive travel guide, covering the best places to visit, food spots, accommodations, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/stockholm/</link>
 	<description>Explore the best places to visit, food to taste, and activities to indulge in while in Stockholm in this comprehensive travel guide.</description>
 	<pubDate>2024-05-21T09:13:43+03:00</pubDate>
-</item><item>
-	<title>Finca Sonador Travel Guide (South Pacific Costa Rica/Costa Rica/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/south-pacific-costa-rica/finca-sonador/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Finca Sonador, Costa Rica. Get tips for hiking and biking, enjoy local dishes, and navigate your way around this beautiful country.</description>
-	<pubDate>2024-05-21T08:42:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
