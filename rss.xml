@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T01:17:02+03:00</pubDate>
-        <lastBuildDate>2024-05-22T01:17:02+03:00</lastBuildDate>
+        <pubDate>2024-05-22T02:03:02+03:00</pubDate>
+        <lastBuildDate>2024-05-22T02:03:02+03:00</lastBuildDate>
 
         <item>
+	<title>Wynyard Travel Guide (Western Tasmania/Tasmania/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/tasmania/western-tasmania/wynyard/</link>
+	<description>Discover the best things to do, places to visit, where to stay, and more in Wynyard, Tasmania with our comprehensive travel guide.</description>
+	<pubDate>2024-05-22T02:03:02+03:00</pubDate>
+</item><item>
 	<title>Sogod Travel Guide (Leyte Island/Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/leyte-island/sogod/</link>
 	<description>Discover the natural beauty and cultural richness of Sogod in Leyte Island, Philippines. Plan your visit with our comprehensive tour guide, featuring top attractions, itinerary, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/var/rians/</link>
 	<description>Check out our comprehensive tour guide to visit beautiful Rians, located in the heart of Provence-Alpes-Côte d'Azur in France. Discover Rians with us!</description>
 	<pubDate>2024-05-21T21:16:53+03:00</pubDate>
-</item><item>
-	<title>Hel Travel Guide (Pomorskie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/pomorskie/hel/</link>
-	<description>Plan your trip to the coastal town of Hel in Poland with this comprehensive travel guide, complete with information on attractions, food, accommodations, and more.</description>
-	<pubDate>2024-05-21T20:50:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
