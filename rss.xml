@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-21T09:13:43+03:00</pubDate>
-        <lastBuildDate>2024-05-21T09:13:43+03:00</lastBuildDate>
+        <pubDate>2024-05-21T09:44:34+03:00</pubDate>
+        <lastBuildDate>2024-05-21T09:44:34+03:00</lastBuildDate>
 
         <item>
+	<title>Mochima National Park Travel Guide (Sucre/Northeast/Venezuela/South America)</title>
+	<link>https://travellers.wiki/en/south-america/venezuela/northeast/sucre/mochima-national-park/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Mochima National Park. Plan your perfect adventure today.</description>
+	<pubDate>2024-05-21T09:44:34+03:00</pubDate>
+</item><item>
 	<title>Stockholm Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/stockholm/</link>
 	<description>Explore the best places to visit, food to taste, and activities to indulge in while in Stockholm in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/banyumas/purwokerto/</link>
 	<description>Plan your trip to Purwokerto with our comprehensive travel guide including a list of places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-05-21T05:13:49+03:00</pubDate>
-</item><item>
-	<title>Prestonsburg Travel Guide (Daniel Boone Country/Kentucky/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/daniel-boone-country/prestonsburg/</link>
-	<description>Discover the best things to do, where to stay, and what to see in Prestonsburg, Kentucky. Read on for a comprehensive travel guide on this beautiful Daniel Boone Country destination in the United States.</description>
-	<pubDate>2024-05-21T04:55:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
