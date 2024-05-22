@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T22:13:50+03:00</pubDate>
-        <lastBuildDate>2024-05-22T22:13:50+03:00</lastBuildDate>
+        <pubDate>2024-05-22T22:39:31+03:00</pubDate>
+        <lastBuildDate>2024-05-22T22:39:31+03:00</lastBuildDate>
 
         <item>
+	<title>Hirosaki Travel Guide (Aomori (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/aomori-prefecture/hirosaki/</link>
+	<description>Discover the best things to do, places to visit, and local experiences in Hirosaki, Japan. Plan your trip with our travel guide now!</description>
+	<pubDate>2024-05-22T22:39:31+03:00</pubDate>
+</item><item>
 	<title>Cloncurry Travel Guide (Outback Queensland/Queensland/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/queensland/outback-queensland/cloncurry/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Cloncurry. Learn about the local culture and customs, best time to visit, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/lower-silesian-voivodeship/bielawa/</link>
 	<description>Plan your next trip to Bielawa, Poland with this comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-05-22T18:03:46+03:00</pubDate>
-</item><item>
-	<title>Easter Island Travel Guide (Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/easter-island/</link>
-	<description>Get ready for your adventure to Easter Island with our comprehensive travel guide. Discover the culture, history, nature, delicious food, and much more!</description>
-	<pubDate>2024-05-22T17:36:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
