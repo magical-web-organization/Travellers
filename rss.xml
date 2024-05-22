@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T11:41:53+03:00</pubDate>
-        <lastBuildDate>2024-05-22T11:41:53+03:00</lastBuildDate>
+        <pubDate>2024-05-22T12:27:40+03:00</pubDate>
+        <lastBuildDate>2024-05-22T12:27:40+03:00</lastBuildDate>
 
         <item>
+	<title>Fundão Espírito Santo Travel Guide (North Coast Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/north-coast-espirito-santo/fundao-espirito-santo/</link>
+	<description>Plan your trip to Fundão Espírito Santo with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and how to get there. Get insider tips on the local culture and customs, and stay safe and healthy on your trip.</description>
+	<pubDate>2024-05-22T12:27:40+03:00</pubDate>
+</item><item>
 	<title>Darlington Travel Guide (County Durham/North East England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-east-england/county-durham/darlington/</link>
 	<description>Find out everything you need to know about Darlington, including places to visit, things to do, where to stay, and how to get around in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/gujarat/central-gujarat/champaner-pavagadh-archaeological-park/</link>
 	<description>Plan your perfect trip to Champaner-Pavagadh Archaeological Park with our comprehensive travel guide highlighting must-visit places, activities, where to stay, and more.</description>
 	<pubDate>2024-05-22T07:45:09+03:00</pubDate>
-</item><item>
-	<title>Frutillar Travel Guide (Los Lagos/Southern Chile/Chile/South America)</title>
-	<link>https://travellers.wiki/en/south-america/chile/southern-chile/los-lagos/frutillar/</link>
-	<description>Discover the best things to do, places to visit, and where to eat and shop in Frutillar, Chile with our comprehensive travel guide to this charming town in Southern Chile. Plan your trip now and enjoy an unforgettable experience.</description>
-	<pubDate>2024-05-22T07:15:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
