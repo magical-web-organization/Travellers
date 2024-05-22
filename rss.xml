@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T23:08:20+03:00</pubDate>
-        <lastBuildDate>2024-05-22T23:08:20+03:00</lastBuildDate>
+        <pubDate>2024-05-22T23:52:14+03:00</pubDate>
+        <lastBuildDate>2024-05-22T23:52:14+03:00</lastBuildDate>
 
         <item>
+	<title>Rostov Veliky Travel Guide (Yaroslavl Oblast/Central Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/yaroslavl-oblast/rostov-veliky/</link>
+	<description>Plan your trip to Rostov Veliky with this comprehensive tour guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-22T23:52:14+03:00</pubDate>
+</item><item>
 	<title>Wakefield Travel Guide (West Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/west-yorkshire/wakefield/</link>
 	<description>Discover the best places to visit, eat, sleep, and enjoy outdoor activities in Wakefield, UK.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/extremadura/badajoz/</link>
 	<description>Discover the top places to visit, activities to do, food to try, and more in Badajoz, Spain. Plan your trip now with this comprehensive travel guide.</description>
 	<pubDate>2024-05-22T19:12:21+03:00</pubDate>
-</item><item>
-	<title>Stewart Island Travel Guide (New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/stewart-island/</link>
-	<description>Discover the natural beauty, cultural attractions, food scene, and local customs of Stewart Island with this comprehensive tour guide.</description>
-	<pubDate>2024-05-22T18:55:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
