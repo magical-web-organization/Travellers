@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T15:49:33+03:00</pubDate>
-        <lastBuildDate>2024-05-22T15:49:33+03:00</lastBuildDate>
+        <pubDate>2024-05-22T16:18:18+03:00</pubDate>
+        <lastBuildDate>2024-05-22T16:18:18+03:00</lastBuildDate>
 
         <item>
+	<title>Big Basin Redwoods State Park Travel Guide (Santa Cruz County/Central Coast/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/santa-cruz-county/big-basin-redwoods-state-park/</link>
+	<description>Discover the natural and cultural wonders of Big Basin Redwoods State Park through this comprehensive travel guide filled with suggestions for activities, accommodations, and transportation.</description>
+	<pubDate>2024-05-22T16:18:18+03:00</pubDate>
+</item><item>
 	<title>Die Travel Guide (Ardèche and Drôme/Auvergne-Rhône-Alpes/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/ardeche-and-drome/die/</link>
 	<description>Find out everything you need to know about Die, a charming town in the Auvergne-Rhône-Alpes region of France, including the best places to visit, things to do, where to stay, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-east-england/county-durham/darlington/</link>
 	<description>Find out everything you need to know about Darlington, including places to visit, things to do, where to stay, and how to get around in this comprehensive travel guide.</description>
 	<pubDate>2024-05-22T11:41:53+03:00</pubDate>
-</item><item>
-	<title>Masset Travel Guide (Haida Gwaii/Northern British Columbia/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/haida-gwaii/masset/</link>
-	<description>Discover the top attractions and activities in Masset, British Columbia with this comprehensive tour guide. Learn about where to stay, what to eat, and how to get around, and take in the natural beauty and rich culture of this Northern British Columbia gem.</description>
-	<pubDate>2024-05-22T11:26:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
