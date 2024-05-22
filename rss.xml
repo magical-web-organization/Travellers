@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T03:38:16+03:00</pubDate>
-        <lastBuildDate>2024-05-22T03:38:16+03:00</lastBuildDate>
+        <pubDate>2024-05-22T04:29:08+03:00</pubDate>
+        <lastBuildDate>2024-05-22T04:29:08+03:00</lastBuildDate>
 
         <item>
+	<title>Murten Travel Guide (Western Switzerland/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/western-switzerland/murten/</link>
+	<description>Plan your trip to Murten with this ultimate guide, featuring the best places to visit, food and drink scene, where to stay, and tips for a safe and enjoyable trip.</description>
+	<pubDate>2024-05-22T04:29:08+03:00</pubDate>
+</item><item>
 	<title>Jomala Travel Guide (Åland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/aland/jomala/</link>
 	<description>Explore the best of Jomala with our comprehensive travel guide. From must-visit attractions to local culture and customs, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/okanle/</link>
 	<description>Plan your trip to Okanle with this ultimate travel guide complete with places to visit, things to do, safety tips, and cultural insights.</description>
 	<pubDate>2024-05-21T23:34:45+03:00</pubDate>
-</item><item>
-	<title>Lake Barkley Travel Guide (South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/lake-barkley/</link>
-	<description>Discover the best things to see, do, eat, and stay in Lake Barkley, one of the most beautiful and serene destinations in South of USA. From outdoor adventures to cultural attractions, this comprehensive travel guide has got you covered.</description>
-	<pubDate>2024-05-21T23:11:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
