@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T02:39:22+03:00</pubDate>
-        <lastBuildDate>2024-05-22T02:39:22+03:00</lastBuildDate>
+        <pubDate>2024-05-22T03:18:56+03:00</pubDate>
+        <lastBuildDate>2024-05-22T03:18:56+03:00</lastBuildDate>
 
         <item>
+	<title>Gulou Travel Guide (Beijing/North China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/beijing/gulou/</link>
+	<description>Plan your trip to Gulou, Beijing with this comprehensive travel guide featuring attractions, activities, food and drink, accommodation, and more.</description>
+	<pubDate>2024-05-22T03:18:56+03:00</pubDate>
+</item><item>
 	<title>Meavy Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/meavy/</link>
 	<description>Discover the hidden gem of Devon, Meavy, through this comprehensive travel guide that covers everything you need to know about the town's attractions, activities, accommodations, local culture, safety, and logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northwest-ohio/van-buren/</link>
 	<description>Explore the best of Van Buren in Northwest Ohio with our comprehensive travel guide, which includes recommendations on the top sights, activities and accommodation options. Plan your next vacation to this charming town!</description>
 	<pubDate>2024-05-21T22:50:02+03:00</pubDate>
-</item><item>
-	<title>Christchurch Travel Guide (Greater Christchurch/Canterbury/South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/canterbury/greater-christchurch/christchurch/</link>
-	<description>Get ready for an exciting adventure in Christchurch, New Zealand! Whether you prefer cultural attractions, outdoor adventures, or delicious food, this guide has everything you need to plan your perfect trip.</description>
-	<pubDate>2024-05-21T22:22:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
