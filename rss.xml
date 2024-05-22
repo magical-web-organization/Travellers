@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T12:52:34+03:00</pubDate>
-        <lastBuildDate>2024-05-22T12:52:34+03:00</lastBuildDate>
+        <pubDate>2024-05-22T13:10:05+03:00</pubDate>
+        <lastBuildDate>2024-05-22T13:10:05+03:00</lastBuildDate>
 
         <item>
+	<title>Gegentela Travel Guide (Western Inner Mongolia/Inner Mongolia/North China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/inner-mongolia/western-inner-mongolia/gegentela/</link>
+	<description>Plan your trip to Gegentela, Inner Mongolia with this comprehensive travel guide featuring information about local culture, must-visit attractions, hiking and biking routes, food and drink scene, and more.</description>
+	<pubDate>2024-05-22T13:10:05+03:00</pubDate>
+</item><item>
 	<title>Reguengos de Monsaraz Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/reguengos-de-monsaraz/</link>
 	<description>Plan your trip to Reguengos de Monsaraz, Portugal with this comprehensive travel guide featuring must-visit places, outdoor adventures, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/salla/</link>
 	<description>Discover the cultural and natural attractions, outdoor adventures, hiking and biking routes, food and drink scene, where to stay, what to buy, local customs, and safety tips before traveling to Salla, Finland.</description>
 	<pubDate>2024-05-22T09:00:09+03:00</pubDate>
-</item><item>
-	<title>Glowe Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/glowe/</link>
-	<description>Discover the best things to do, see, and eat in Glowe, Germany. From natural attractions to cultural landmarks, this comprehensive guide will help you plan your trip and make the most of your visit.</description>
-	<pubDate>2024-05-22T08:03:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
