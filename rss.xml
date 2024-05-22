@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T12:27:40+03:00</pubDate>
-        <lastBuildDate>2024-05-22T12:27:40+03:00</lastBuildDate>
+        <pubDate>2024-05-22T12:52:34+03:00</pubDate>
+        <lastBuildDate>2024-05-22T12:52:34+03:00</lastBuildDate>
 
         <item>
+	<title>Reguengos de Monsaraz Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/reguengos-de-monsaraz/</link>
+	<description>Plan your trip to Reguengos de Monsaraz, Portugal with this comprehensive travel guide featuring must-visit places, outdoor adventures, food and drink scene, accommodations, and more.</description>
+	<pubDate>2024-05-22T12:52:34+03:00</pubDate>
+</item><item>
 	<title>Fundão Espírito Santo Travel Guide (North Coast Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/north-coast-espirito-santo/fundao-espirito-santo/</link>
 	<description>Plan your trip to Fundão Espírito Santo with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and how to get there. Get insider tips on the local culture and customs, and stay safe and healthy on your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/glowe/</link>
 	<description>Discover the best things to do, see, and eat in Glowe, Germany. From natural attractions to cultural landmarks, this comprehensive guide will help you plan your trip and make the most of your visit.</description>
 	<pubDate>2024-05-22T08:03:47+03:00</pubDate>
-</item><item>
-	<title>Champaner-Pavagadh Archaeological Park Travel Guide (Central Gujarat/Gujarat/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/gujarat/central-gujarat/champaner-pavagadh-archaeological-park/</link>
-	<description>Plan your perfect trip to Champaner-Pavagadh Archaeological Park with our comprehensive travel guide highlighting must-visit places, activities, where to stay, and more.</description>
-	<pubDate>2024-05-22T07:45:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
