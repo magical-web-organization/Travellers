@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T15:24:21+03:00</pubDate>
-        <lastBuildDate>2024-05-22T15:24:21+03:00</lastBuildDate>
+        <pubDate>2024-05-22T15:49:33+03:00</pubDate>
+        <lastBuildDate>2024-05-22T15:49:33+03:00</lastBuildDate>
 
         <item>
+	<title>Die Travel Guide (Ardèche and Drôme/Auvergne-Rhône-Alpes/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/ardeche-and-drome/die/</link>
+	<description>Find out everything you need to know about Die, a charming town in the Auvergne-Rhône-Alpes region of France, including the best places to visit, things to do, where to stay, and local culture and customs.</description>
+	<pubDate>2024-05-22T15:49:33+03:00</pubDate>
+</item><item>
 	<title>Cesenatico Travel Guide (Forlì-Cesena/Emilia-Romagna/Northeast Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/forli-cesena/cesenatico/</link>
 	<description>Planning a trip to Cesenatico? Read our comprehensive travel guide about top places to visit, things to do, where to stay, what to buy, customs, and tips for a memorable trip to Cesenatico.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/haida-gwaii/masset/</link>
 	<description>Discover the top attractions and activities in Masset, British Columbia with this comprehensive tour guide. Learn about where to stay, what to eat, and how to get around, and take in the natural beauty and rich culture of this Northern British Columbia gem.</description>
 	<pubDate>2024-05-22T11:26:07+03:00</pubDate>
-</item><item>
-	<title>Cannes Travel Guide (Alpes-Maritimes/Provence-Alpes-Côte d'Azur/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/alpes-maritimes/cannes/</link>
-	<description>Learn about the best things to do in Cannes, where to stay, and more in this comprehensive travel guide for one of the most iconic destinations in France.</description>
-	<pubDate>2024-05-22T10:50:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
