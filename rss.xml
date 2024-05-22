@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T06:20:29+03:00</pubDate>
-        <lastBuildDate>2024-05-22T06:20:29+03:00</lastBuildDate>
+        <pubDate>2024-05-22T07:00:39+03:00</pubDate>
+        <lastBuildDate>2024-05-22T07:00:39+03:00</lastBuildDate>
 
         <item>
+	<title>Titel Travel Guide (Vojvodina/Serbia/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/serbia/vojvodina/titel/</link>
+	<description>Discover the best things to do in Titel, Serbia including hiking, outdoor adventures, museums, local food, and culture. Plan your trip with our comprehensive itinerary and travel tips.</description>
+	<pubDate>2024-05-22T07:00:39+03:00</pubDate>
+</item><item>
 	<title>Prospect Park Travel Guide (Brooklyn/New York City/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/new-york-city/brooklyn/prospect-park/</link>
 	<description>A comprehensive travel guide for Prospect Park, Brooklyn, including information on things to see and do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/south-west/ayrshire/kilwinning/</link>
 	<description>Explore the beautiful town of Kilwinning with this comprehensive travel guide featuring a list of places to visit, hiking/biking routes, best things to do, where to eat and stay, local culture and customs, safety and health, transportation options and nearby destinations to explore.</description>
 	<pubDate>2024-05-22T02:15:40+03:00</pubDate>
-</item><item>
-	<title>Wynyard Travel Guide (Western Tasmania/Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/western-tasmania/wynyard/</link>
-	<description>Discover the best things to do, places to visit, where to stay, and more in Wynyard, Tasmania with our comprehensive travel guide.</description>
-	<pubDate>2024-05-22T02:03:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
