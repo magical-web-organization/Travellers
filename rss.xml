@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T09:18:28+03:00</pubDate>
-        <lastBuildDate>2024-05-22T09:18:28+03:00</lastBuildDate>
+        <pubDate>2024-05-22T09:52:05+03:00</pubDate>
+        <lastBuildDate>2024-05-22T09:52:05+03:00</lastBuildDate>
 
         <item>
+	<title>Ostuni Travel Guide (Brindisi (province)/Apulia/Southern Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/brindisi-province/ostuni/</link>
+	<description>Get to know the best things to do, where to stay, what to eat, how to get around, and more in Ostuni, Italy. Discover the rich culture and traditions of this beautiful place in Southern Italy.</description>
+	<pubDate>2024-05-22T09:52:05+03:00</pubDate>
+</item><item>
 	<title>Durg Travel Guide (Chhattisgarh/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/chhattisgarh/durg/</link>
 	<description>Explore the best of Durg with our travel guide, featuring the main attractions, local culture, food scene, and practical information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/central-arkansas/little-rock/</link>
 	<description>Plan your trip to Little Rock, Arkansas with this comprehensive travel guide. Discover the best sights, activities, dining options, local culture, and more.</description>
 	<pubDate>2024-05-22T05:25:49+03:00</pubDate>
-</item><item>
-	<title>Biertan Travel Guide (Sibiu County/Transylvania/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/sibiu-county/biertan/</link>
-	<description>Discover Biertan, a charming Transylvanian village surrounded by natural beauty. From cultural attractions to outdoor activities, this guide covers everything you need to know for a memorable trip.</description>
-	<pubDate>2024-05-22T04:49:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
