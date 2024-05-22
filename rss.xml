@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T16:34:41+03:00</pubDate>
-        <lastBuildDate>2024-05-22T16:34:41+03:00</lastBuildDate>
+        <pubDate>2024-05-22T17:26:40+03:00</pubDate>
+        <lastBuildDate>2024-05-22T17:26:40+03:00</lastBuildDate>
 
         <item>
+	<title>Grandes-Piles Travel Guide (Mékinac/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/mekinac/grandes-piles/</link>
+	<description>Explore the culturally rich and scenic town of Grandes-Piles in Quebec. Discover its must-visit attractions and activities, best places to stay and eat, and essential travel information.</description>
+	<pubDate>2024-05-22T17:26:40+03:00</pubDate>
+</item><item>
 	<title>Mori Travel Guide (Shizuoka (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/mori/</link>
 	<description>Discover the best places to visit, activities to do, food and drink scene, local culture, safety and health information, and transportation options in Mori, Japan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/reguengos-de-monsaraz/</link>
 	<description>Plan your trip to Reguengos de Monsaraz, Portugal with this comprehensive travel guide featuring must-visit places, outdoor adventures, food and drink scene, accommodations, and more.</description>
 	<pubDate>2024-05-22T12:52:34+03:00</pubDate>
-</item><item>
-	<title>Fundão Espírito Santo Travel Guide (North Coast Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/north-coast-espirito-santo/fundao-espirito-santo/</link>
-	<description>Plan your trip to Fundão Espírito Santo with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and how to get there. Get insider tips on the local culture and customs, and stay safe and healthy on your trip.</description>
-	<pubDate>2024-05-22T12:27:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
