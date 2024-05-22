@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T23:52:14+03:00</pubDate>
-        <lastBuildDate>2024-05-22T23:52:14+03:00</lastBuildDate>
+        <pubDate>2024-05-23T00:04:59+03:00</pubDate>
+        <lastBuildDate>2024-05-23T00:04:59+03:00</lastBuildDate>
 
         <item>
+	<title>Apamea Travel Guide (Orontes Valley/Syria/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/syria/orontes-valley/apamea/</link>
+	<description>Plan your visit to Apamea with this travel guide that covers top attractions, food, accommodations, local customs, safety, and transportation options.</description>
+	<pubDate>2024-05-23T00:04:59+03:00</pubDate>
+</item><item>
 	<title>Rostov Veliky Travel Guide (Yaroslavl Oblast/Central Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/yaroslavl-oblast/rostov-veliky/</link>
 	<description>Plan your trip to Rostov Veliky with this comprehensive tour guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-atlantic-ocean/azores/sao-miguel/</link>
 	<description>Discover the best things to see and do, local culture and customs, where to stay, and how to get around in São Miguel, Azores.</description>
 	<pubDate>2024-05-22T19:41:44+03:00</pubDate>
-</item><item>
-	<title>Badajoz Travel Guide (Extremadura/Central Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/extremadura/badajoz/</link>
-	<description>Discover the top places to visit, activities to do, food to try, and more in Badajoz, Spain. Plan your trip now with this comprehensive travel guide.</description>
-	<pubDate>2024-05-22T19:12:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
