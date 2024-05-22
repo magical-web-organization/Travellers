@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T20:48:44+03:00</pubDate>
-        <lastBuildDate>2024-05-22T20:48:44+03:00</lastBuildDate>
+        <pubDate>2024-05-22T21:26:08+03:00</pubDate>
+        <lastBuildDate>2024-05-22T21:26:08+03:00</lastBuildDate>
 
         <item>
+	<title>Long Beach Island Travel Guide (Ocean County/Jersey Shore/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/ocean-county/long-beach-island/</link>
+	<description>Get insider tips and recommendations on things to do, places to visit, where to stay, and more in Long Beach Island.</description>
+	<pubDate>2024-05-22T21:26:08+03:00</pubDate>
+</item><item>
 	<title>Moorreesburg Travel Guide (Swartland/West Coast/Western Cape/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/west-coast/swartland/moorreesburg/</link>
 	<description>Explore the natural and cultural attractions of Moorreesburg, find the best things to do, where to stay, what to eat and drink, and how to get around this hidden gem of Swartland in Western Cape, South Africa.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/mori/</link>
 	<description>Discover the best places to visit, activities to do, food and drink scene, local culture, safety and health information, and transportation options in Mori, Japan.</description>
 	<pubDate>2024-05-22T16:34:41+03:00</pubDate>
-</item><item>
-	<title>Big Basin Redwoods State Park Travel Guide (Santa Cruz County/Central Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/santa-cruz-county/big-basin-redwoods-state-park/</link>
-	<description>Discover the natural and cultural wonders of Big Basin Redwoods State Park through this comprehensive travel guide filled with suggestions for activities, accommodations, and transportation.</description>
-	<pubDate>2024-05-22T16:18:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
