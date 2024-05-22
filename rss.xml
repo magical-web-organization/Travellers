@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T01:25:04+03:00</pubDate>
-        <lastBuildDate>2024-05-23T01:25:04+03:00</lastBuildDate>
+        <pubDate>2024-05-23T01:35:25+03:00</pubDate>
+        <lastBuildDate>2024-05-23T01:35:25+03:00</lastBuildDate>
 
         <item>
+	<title>San Miniato Travel Guide (Pisa (province)/Tuscany/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/pisa-province/san-miniato/</link>
+	<description>Planning a trip to San Miniato, Tuscany? Read this comprehensive travel guide to know about the best places to visit, things to do, where to stay, and where to eat in San Miniato.</description>
+	<pubDate>2024-05-23T01:35:25+03:00</pubDate>
+</item><item>
 	<title>Northeastern Tamil Nadu Travel Guide (Tamil Nadu/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/northeastern-tamil-nadu/</link>
 	<description>Discover the best places to visit, things to do, local culture, accommodation options, and travel tips for your trip to Northeastern Tamil Nadu in India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/ocean-county/long-beach-island/</link>
 	<description>Get insider tips and recommendations on things to do, places to visit, where to stay, and more in Long Beach Island.</description>
 	<pubDate>2024-05-22T21:26:08+03:00</pubDate>
-</item><item>
-	<title>Moorreesburg Travel Guide (Swartland/West Coast/Western Cape/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/west-coast/swartland/moorreesburg/</link>
-	<description>Explore the natural and cultural attractions of Moorreesburg, find the best things to do, where to stay, what to eat and drink, and how to get around this hidden gem of Swartland in Western Cape, South Africa.</description>
-	<pubDate>2024-05-22T20:48:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
