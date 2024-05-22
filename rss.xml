@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-22T13:53:53+03:00</pubDate>
-        <lastBuildDate>2024-05-22T13:53:53+03:00</lastBuildDate>
+        <pubDate>2024-05-22T14:33:11+03:00</pubDate>
+        <lastBuildDate>2024-05-22T14:33:11+03:00</lastBuildDate>
 
         <item>
+	<title>Santa Cruz (city, Bolivia) Travel Guide (Santa Cruz (department, Bolivia)/Bolivia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/bolivia/santa-cruz-department-bolivia/santa-cruz-city-bolivia/</link>
+	<description>Explore the cultural and natural attractions of Santa Cruz (city), Bolivia with this comprehensive travel guide. Discover the best things to do, places to visit, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-22T14:33:11+03:00</pubDate>
+</item><item>
 	<title>Sale (Victoria) Travel Guide (Central Gippsland/Gippsland/Victoria (state)/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/victoria-state/gippsland/central-gippsland/sale-victoria/</link>
 	<description>Discover the best of Sale (Victoria), from its historical museums to natural attractions and outdoor adventures. Learn about the local food and drink scene, as well as where to stay and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/brindisi-province/ostuni/</link>
 	<description>Get to know the best things to do, where to stay, what to eat, how to get around, and more in Ostuni, Italy. Discover the rich culture and traditions of this beautiful place in Southern Italy.</description>
 	<pubDate>2024-05-22T09:52:05+03:00</pubDate>
-</item><item>
-	<title>Durg Travel Guide (Chhattisgarh/Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/chhattisgarh/durg/</link>
-	<description>Explore the best of Durg with our travel guide, featuring the main attractions, local culture, food scene, and practical information.</description>
-	<pubDate>2024-05-22T09:18:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
