@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T20:44:16+03:00</pubDate>
-        <lastBuildDate>2024-05-23T20:44:16+03:00</lastBuildDate>
+        <pubDate>2024-05-23T21:18:29+03:00</pubDate>
+        <lastBuildDate>2024-05-23T21:18:29+03:00</lastBuildDate>
 
         <item>
+	<title>Rajshahi Travel Guide (Rajshahi Division/Bangladesh/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/rajshahi-division/rajshahi/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Rajshahi, Bangladesh. Learn about the food, culture, health, and safety in this travel guide.</description>
+	<pubDate>2024-05-23T21:18:29+03:00</pubDate>
+</item><item>
 	<title>Langport Travel Guide (Somerset/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/somerset/langport/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Langport. Plan your trip with our comprehensive Langport travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/jigawa-state/dutse/</link>
 	<description>Explore Dutse with this comprehensive guide to the best places to visit, things to do, food and drink scene, local culture, safety and health, transportation options, and nearby destinations.</description>
 	<pubDate>2024-05-23T16:37:16+03:00</pubDate>
-</item><item>
-	<title>Peng Chau Travel Guide (Outlying Islands/Hong Kong/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/hong-kong/outlying-islands/peng-chau/</link>
-	<description>Read our travel guide to Peng Chau, Hong Kong, and discover its culturally important attractions, natural wonders, food, and local customs.</description>
-	<pubDate>2024-05-23T16:18:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
