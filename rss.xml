@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T01:39:54+03:00</pubDate>
-        <lastBuildDate>2024-05-24T01:39:54+03:00</lastBuildDate>
+        <pubDate>2024-05-24T02:06:45+03:00</pubDate>
+        <lastBuildDate>2024-05-24T02:06:45+03:00</lastBuildDate>
 
         <item>
+	<title>Brașov Travel Guide (Brașov County/Transylvania/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/brasov-county/brasov/</link>
+	<description>Explore the best of Brașov with this comprehensive travel guide, covering attractions, activities, food, accommodation, and more. Learn the local culture and customs, and find out how to get around and where to go next from Brașov.</description>
+	<pubDate>2024-05-24T02:06:45+03:00</pubDate>
+</item><item>
 	<title>San Saba Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/san-saba/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in San Saba, Texas. Explore the cultural and natural attractions, learn about the local culture, and find out the best time to visit this charming town in the Central Hill Country.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/kelso-washington/</link>
 	<description>Discover the best places to visit, eat, stay, and more in Kelso, Washington. Plan your trip with our week-long itinerary and transportation options guide.</description>
 	<pubDate>2024-05-23T21:54:15+03:00</pubDate>
-</item><item>
-	<title>Rajshahi Travel Guide (Rajshahi Division/Bangladesh/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/rajshahi-division/rajshahi/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Rajshahi, Bangladesh. Learn about the food, culture, health, and safety in this travel guide.</description>
-	<pubDate>2024-05-23T21:18:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
