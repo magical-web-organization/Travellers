@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T01:07:07+03:00</pubDate>
-        <lastBuildDate>2024-05-24T01:07:07+03:00</lastBuildDate>
+        <pubDate>2024-05-24T01:39:54+03:00</pubDate>
+        <lastBuildDate>2024-05-24T01:39:54+03:00</lastBuildDate>
 
         <item>
+	<title>San Saba Travel Guide (Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/san-saba/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in San Saba, Texas. Explore the cultural and natural attractions, learn about the local culture, and find out the best time to visit this charming town in the Central Hill Country.</description>
+	<pubDate>2024-05-24T01:39:54+03:00</pubDate>
+</item><item>
 	<title>Bankapura Travel Guide (Northwestern Karnataka/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/northwestern-karnataka/bankapura/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in the charming town of Bankapura in Northwestern Karnataka. Plan your trip with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/rajshahi-division/rajshahi/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Rajshahi, Bangladesh. Learn about the food, culture, health, and safety in this travel guide.</description>
 	<pubDate>2024-05-23T21:18:29+03:00</pubDate>
-</item><item>
-	<title>Langport Travel Guide (Somerset/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/somerset/langport/</link>
-	<description>Discover the best things to do, places to visit, and where to stay in Langport. Plan your trip with our comprehensive Langport travel guide.</description>
-	<pubDate>2024-05-23T20:44:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
