@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T13:08:28+03:00</pubDate>
-        <lastBuildDate>2024-05-23T13:08:28+03:00</lastBuildDate>
+        <pubDate>2024-05-23T13:38:29+03:00</pubDate>
+        <lastBuildDate>2024-05-23T13:38:29+03:00</lastBuildDate>
 
         <item>
+	<title>Monterrico Travel Guide (Pacific Lowlands/Guatemala/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/guatemala/pacific-lowlands/monterrico/</link>
+	<description>Discover the best places to visit, things to do, and where to eat, stay, and buy souvenirs in Monterrico, Guatemala, with this extensive travel guide.</description>
+	<pubDate>2024-05-23T13:38:29+03:00</pubDate>
+</item><item>
 	<title>South Side Travel Guide (Pittsburgh/Allegheny County/Pittsburgh Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/allegheny-county/pittsburgh/south-side/</link>
 	<description>Explore the best places to visit, local culture, safety tips, and transportation options in South Side, Pittsburgh.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/queensland/far-north-queensland/cooktown/</link>
 	<description>This travel guide will help you plan your trip to Cooktown, Queensland, Australia. It includes a list of places to visit, hiking and biking routes, accommodation options, local culture, safety tips, and nearby destinations.</description>
 	<pubDate>2024-05-23T09:09:21+03:00</pubDate>
-</item><item>
-	<title>Inner Suburbs Travel Guide (Chicagoland/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/inner-suburbs/</link>
-	<description>Discover the best places to visit, food to try, and things to do in Chicagoland's Inner Suburbs. Plan your trip with our week-long itinerary, transportation options, and safety tips.</description>
-	<pubDate>2024-05-23T08:52:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
