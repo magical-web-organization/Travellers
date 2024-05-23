@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T17:19:14+03:00</pubDate>
-        <lastBuildDate>2024-05-23T17:19:14+03:00</lastBuildDate>
+        <pubDate>2024-05-23T17:57:12+03:00</pubDate>
+        <lastBuildDate>2024-05-23T17:57:12+03:00</lastBuildDate>
 
         <item>
+	<title>Checotah Travel Guide (Green Country/Oklahoma/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/checotah/</link>
+	<description>Plan your trip to Checotah, Oklahoma with this comprehensive tour guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-23T17:57:12+03:00</pubDate>
+</item><item>
 	<title>Pasco Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/pasco/</link>
 	<description>Plan your trip to Pasco with this comprehensive travel guide. Learn about where to stay, what to do, places to visit, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/allegheny-county/pittsburgh/south-side/</link>
 	<description>Explore the best places to visit, local culture, safety tips, and transportation options in South Side, Pittsburgh.</description>
 	<pubDate>2024-05-23T13:08:28+03:00</pubDate>
-</item><item>
-	<title>Haman County Travel Guide (South Gyeongsang/South Korea/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-gyeongsang/haman-county/</link>
-	<description>Discover the top attractions, things to do, hiking and biking routes, food, accommodations, local customs, safety and transportation options in Haman County, South Korea.</description>
-	<pubDate>2024-05-23T12:52:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
