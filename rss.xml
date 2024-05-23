@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T06:01:44+03:00</pubDate>
-        <lastBuildDate>2024-05-23T06:01:44+03:00</lastBuildDate>
+        <pubDate>2024-05-23T06:12:48+03:00</pubDate>
+        <lastBuildDate>2024-05-23T06:12:48+03:00</lastBuildDate>
 
         <item>
+	<title>Lexington Travel Guide (Bluegrass Region/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/bluegrass-region/lexington/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to eat, and how to get around in Lexington, Kentucky with this comprehensive tour guide.</description>
+	<pubDate>2024-05-23T06:12:48+03:00</pubDate>
+</item><item>
 	<title>Frederiksværk Travel Guide (North Zealand/Zealand/Denmark/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/north-zealand/frederiksvaerk/</link>
 	<description>Discover the best attractions, outdoor adventures, local culture, and food scene in Frederiksværk, Denmark with our comprehensive travel guide. We provide information on must-see sights, hiking and biking routes, accommodations, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/pisa-province/san-miniato/</link>
 	<description>Planning a trip to San Miniato, Tuscany? Read this comprehensive travel guide to know about the best places to visit, things to do, where to stay, and where to eat in San Miniato.</description>
 	<pubDate>2024-05-23T01:35:25+03:00</pubDate>
-</item><item>
-	<title>Northeastern Tamil Nadu Travel Guide (Tamil Nadu/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/northeastern-tamil-nadu/</link>
-	<description>Discover the best places to visit, things to do, local culture, accommodation options, and travel tips for your trip to Northeastern Tamil Nadu in India.</description>
-	<pubDate>2024-05-23T01:25:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
