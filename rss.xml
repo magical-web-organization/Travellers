@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T04:16:02+03:00</pubDate>
-        <lastBuildDate>2024-05-23T04:16:02+03:00</lastBuildDate>
+        <pubDate>2024-05-23T05:03:24+03:00</pubDate>
+        <lastBuildDate>2024-05-23T05:03:24+03:00</lastBuildDate>
 
         <item>
+	<title>Five Blues Lake National Park Travel Guide (Stann Creek/Belize/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/belize/stann-creek/five-blues-lake-national-park/</link>
+	<description>Discover the cultural and natural attractions, best things to do, hiking and biking routes, food and drink scene, where to stay, and much more at the Five Blues Lake National Park in Belize Central America.</description>
+	<pubDate>2024-05-23T05:03:24+03:00</pubDate>
+</item><item>
 	<title>Baker City Travel Guide (Eastern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/eastern-oregon/baker-city/</link>
 	<description>Plan your trip to Baker City with this detailed travel guide. Discover the best things to do, where to stay, where to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/syria/orontes-valley/apamea/</link>
 	<description>Plan your visit to Apamea with this travel guide that covers top attractions, food, accommodations, local customs, safety, and transportation options.</description>
 	<pubDate>2024-05-23T00:04:59+03:00</pubDate>
-</item><item>
-	<title>Rostov Veliky Travel Guide (Yaroslavl Oblast/Central Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/yaroslavl-oblast/rostov-veliky/</link>
-	<description>Plan your trip to Rostov Veliky with this comprehensive tour guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-05-22T23:52:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
