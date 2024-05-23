@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T21:18:29+03:00</pubDate>
-        <lastBuildDate>2024-05-23T21:18:29+03:00</lastBuildDate>
+        <pubDate>2024-05-23T21:54:15+03:00</pubDate>
+        <lastBuildDate>2024-05-23T21:54:15+03:00</lastBuildDate>
 
         <item>
+	<title>Kelso (Washington) Travel Guide (Southwest Washington/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/kelso-washington/</link>
+	<description>Discover the best places to visit, eat, stay, and more in Kelso, Washington. Plan your trip with our week-long itinerary and transportation options guide.</description>
+	<pubDate>2024-05-23T21:54:15+03:00</pubDate>
+</item><item>
 	<title>Rajshahi Travel Guide (Rajshahi Division/Bangladesh/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/rajshahi-division/rajshahi/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Rajshahi, Bangladesh. Learn about the food, culture, health, and safety in this travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/pasco/</link>
 	<description>Plan your trip to Pasco with this comprehensive travel guide. Learn about where to stay, what to do, places to visit, and more.</description>
 	<pubDate>2024-05-23T17:19:14+03:00</pubDate>
-</item><item>
-	<title>Dutse Travel Guide (Jigawa State/North West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/jigawa-state/dutse/</link>
-	<description>Explore Dutse with this comprehensive guide to the best places to visit, things to do, food and drink scene, local culture, safety and health, transportation options, and nearby destinations.</description>
-	<pubDate>2024-05-23T16:37:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
