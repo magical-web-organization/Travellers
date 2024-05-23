@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T13:38:29+03:00</pubDate>
-        <lastBuildDate>2024-05-23T13:38:29+03:00</lastBuildDate>
+        <pubDate>2024-05-23T14:08:19+03:00</pubDate>
+        <lastBuildDate>2024-05-23T14:08:19+03:00</lastBuildDate>
 
         <item>
+	<title>Bhimbetka Travel Guide (Bhopal-Narmadapuram Division/Madhya Pradesh/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/bhopal-narmadapuram-division/bhimbetka/</link>
+	<description>Discover the beauty and history of Bhimbetka in Madhya Pradesh, India with our comprehensive travel guide. Learn about the best things to do, where to stay, and local culture and customs.</description>
+	<pubDate>2024-05-23T14:08:19+03:00</pubDate>
+</item><item>
 	<title>Monterrico Travel Guide (Pacific Lowlands/Guatemala/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/guatemala/pacific-lowlands/monterrico/</link>
 	<description>Discover the best places to visit, things to do, and where to eat, stay, and buy souvenirs in Monterrico, Guatemala, with this extensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/settler-country/aliwal-north/</link>
 	<description>Discover the beauty of Aliwal North in Settler Country, Eastern Cape, South Africa. Get to know the attractions, activities, food and drink, accommodations, local culture, safety and health, transportation options and logistics, and nearby destinations.</description>
 	<pubDate>2024-05-23T09:49:34+03:00</pubDate>
-</item><item>
-	<title>Cooktown Travel Guide (Far North Queensland/Queensland/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/queensland/far-north-queensland/cooktown/</link>
-	<description>This travel guide will help you plan your trip to Cooktown, Queensland, Australia. It includes a list of places to visit, hiking and biking routes, accommodation options, local culture, safety tips, and nearby destinations.</description>
-	<pubDate>2024-05-23T09:09:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
