@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T15:04:16+03:00</pubDate>
-        <lastBuildDate>2024-05-23T15:04:16+03:00</lastBuildDate>
+        <pubDate>2024-05-23T15:56:49+03:00</pubDate>
+        <lastBuildDate>2024-05-23T15:56:49+03:00</lastBuildDate>
 
         <item>
+	<title>W National Park Travel Guide (Southwestern Niger/Niger/Sahel/Africa)</title>
+	<link>https://travellers.wiki/en/africa/sahel/niger/southwestern-niger/w-national-park/</link>
+	<description>Explore the natural beauty and cultural attractions of W National Park in Southwestern Niger with our comprehensive travel guide. Plan your trip with our list of must-see places to visit, hiking and biking routes, best things to do, and more.</description>
+	<pubDate>2024-05-23T15:56:49+03:00</pubDate>
+</item><item>
 	<title>Afon Travel Guide (Kwara State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/afon/</link>
 	<description>Discover the culturally and naturally rich destination of Afon in Kwara State, Nigeria. Our guide includes places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/catskills/sullivan-county-new-york/</link>
 	<description>Plan your trip to Sullivan County, NY with our comprehensive guide featuring top attractions, things to do, where to stay, and more!</description>
 	<pubDate>2024-05-23T11:32:36+03:00</pubDate>
-</item><item>
-	<title>Ipperwash Beach Travel Guide (Western Ontario/Southwestern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/western-ontario/ipperwash-beach/</link>
-	<description>Discover Ipperwash Beach, a hidden gem in Western Ontario that features beautiful natural attractions, fun outdoor activities, interesting culture and history, and mouth-watering local dishes. Plan your trip with our comprehensive guide.</description>
-	<pubDate>2024-05-23T10:51:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
