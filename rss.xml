@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T12:52:55+03:00</pubDate>
-        <lastBuildDate>2024-05-23T12:52:55+03:00</lastBuildDate>
+        <pubDate>2024-05-23T13:08:28+03:00</pubDate>
+        <lastBuildDate>2024-05-23T13:08:28+03:00</lastBuildDate>
 
         <item>
+	<title>South Side Travel Guide (Pittsburgh/Allegheny County/Pittsburgh Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/allegheny-county/pittsburgh/south-side/</link>
+	<description>Explore the best places to visit, local culture, safety tips, and transportation options in South Side, Pittsburgh.</description>
+	<pubDate>2024-05-23T13:08:28+03:00</pubDate>
+</item><item>
 	<title>Haman County Travel Guide (South Gyeongsang/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-gyeongsang/haman-county/</link>
 	<description>Discover the top attractions, things to do, hiking and biking routes, food, accommodations, local customs, safety and transportation options in Haman County, South Korea.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/inner-suburbs/</link>
 	<description>Discover the best places to visit, food to try, and things to do in Chicagoland's Inner Suburbs. Plan your trip with our week-long itinerary, transportation options, and safety tips.</description>
 	<pubDate>2024-05-23T08:52:36+03:00</pubDate>
-</item><item>
-	<title>Allentown and the Delaware District Travel Guide (Buffalo/Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/buffalo/allentown-and-the-delaware-district/</link>
-	<description>A detailed travel guide to Allentown and Delaware District. Discover the best things to do, places to visit, food and drink scene, local culture, safety, and transportation.</description>
-	<pubDate>2024-05-23T08:20:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
