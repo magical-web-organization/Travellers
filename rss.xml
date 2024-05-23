@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-23T18:05:09+03:00</pubDate>
-        <lastBuildDate>2024-05-23T18:05:09+03:00</lastBuildDate>
+        <pubDate>2024-05-23T18:54:22+03:00</pubDate>
+        <lastBuildDate>2024-05-23T18:54:22+03:00</lastBuildDate>
 
         <item>
+	<title>Adenta East Travel Guide (Ghanaian Coastal Plain/Ghana/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/ghana/ghanaian-coastal-plain/adenta-east/</link>
+	<description>Discover the culturally important attractions, natural wonders, outdoor adventures, best things to do, where to stay, local cuisine, and more in Adenta East, Ghana.</description>
+	<pubDate>2024-05-23T18:54:22+03:00</pubDate>
+</item><item>
 	<title>Costa Verde (Marina di Arbus) Travel Guide (Sud Sardegna/Sardinia/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/sardinia/sud-sardegna/costa-verde-marina-di-arbus/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and more in Costa Verde (Marina di Arbus), in Sardinia, Italy.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/bhopal-narmadapuram-division/bhimbetka/</link>
 	<description>Discover the beauty and history of Bhimbetka in Madhya Pradesh, India with our comprehensive travel guide. Learn about the best things to do, where to stay, and local culture and customs.</description>
 	<pubDate>2024-05-23T14:08:19+03:00</pubDate>
-</item><item>
-	<title>Monterrico Travel Guide (Pacific Lowlands/Guatemala/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/guatemala/pacific-lowlands/monterrico/</link>
-	<description>Discover the best places to visit, things to do, and where to eat, stay, and buy souvenirs in Monterrico, Guatemala, with this extensive travel guide.</description>
-	<pubDate>2024-05-23T13:38:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
