@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T08:55:16+03:00</pubDate>
-        <lastBuildDate>2024-05-24T08:55:16+03:00</lastBuildDate>
+        <pubDate>2024-05-24T09:14:45+03:00</pubDate>
+        <lastBuildDate>2024-05-24T09:14:45+03:00</lastBuildDate>
 
         <item>
+	<title>Carara National Park Travel Guide (Central Pacific/Costa Rica/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/central-pacific/carara-national-park/</link>
+	<description>Plan a perfect trip to Carara National Park in Costa Rica with this detailed travel guide including places to visit, hiking/biking routes, food, accommodation, and safety tips.</description>
+	<pubDate>2024-05-24T09:14:45+03:00</pubDate>
+</item><item>
 	<title>San Bruno Travel Guide (Peninsula/Bay Area/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/san-bruno/</link>
 	<description>Explore San Bruno in California with this comprehensive travel guide. Find out the best things to do, finest places to visit, best time to go, and where to stay and eat in the area.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/occitanie/pyrenees-orientales/elne/</link>
 	<description>Discover the best of Elne with this travel guide, featuring the top attractions, must-visit places, food and drink scene, accommodations, local customs, safety tips, transportation options, and nearby destinations.</description>
 	<pubDate>2024-05-24T04:43:22+03:00</pubDate>
-</item><item>
-	<title>Corvallis Travel Guide (Willamette Valley/Oregon/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/willamette-valley/corvallis/</link>
-	<description>Plan your visit to Corvallis with this comprehensive travel guide, featuring top places to visit, hiking/biking routes, best things to do, where to stay, local food and drink scene, and more.</description>
-	<pubDate>2024-05-24T04:11:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
