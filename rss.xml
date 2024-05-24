@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T20:14:06+03:00</pubDate>
-        <lastBuildDate>2024-05-24T20:14:06+03:00</lastBuildDate>
+        <pubDate>2024-05-24T20:54:04+03:00</pubDate>
+        <lastBuildDate>2024-05-24T20:54:04+03:00</lastBuildDate>
 
         <item>
+	<title>Peterhead Travel Guide (Aberdeenshire/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/aberdeenshire/peterhead/</link>
+	<description>Discover the beauty of Peterhead with our ultimate travel guide, featuring top attractions, hotels, food, culture, and more.</description>
+	<pubDate>2024-05-24T20:54:04+03:00</pubDate>
+</item><item>
 	<title>Assis Travel Guide (West São Paulo/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/west-sao-paulo/assis/</link>
 	<description>Explore the culturally rich and naturally beautiful city of Assis, Brazil with our comprehensive travel guide. Find top attractions, food and drink scenes, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/bourgogne-franche-comte/dole/</link>
 	<description>Plan your trip to Dole with this comprehensive travel guide. Explore the cultural and natural attractions, find the best things to do, try delicious local dishes, and discover the customs and culture of this charming city in Bourgogne-Franche-Comté.</description>
 	<pubDate>2024-05-24T16:16:08+03:00</pubDate>
-</item><item>
-	<title>Hallingdal Travel Guide (Buskerud/East Norway/Norway/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/buskerud/hallingdal/</link>
-	<description>Discover the must-see attractions, activities, food and drink, where to stay, local culture and customs, safety tips, and transportation options for your trip to Hallingdal, Norway.</description>
-	<pubDate>2024-05-24T15:47:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
