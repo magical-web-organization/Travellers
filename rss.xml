@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T17:59:03+03:00</pubDate>
-        <lastBuildDate>2024-05-24T17:59:03+03:00</lastBuildDate>
+        <pubDate>2024-05-24T18:16:34+03:00</pubDate>
+        <lastBuildDate>2024-05-24T18:16:34+03:00</lastBuildDate>
 
         <item>
+	<title>Agria Travel Guide (Magnesia/Thessaly/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/agria/</link>
+	<description>Looking for a hidden gem in Thessaly? Look no further than Agria, the perfect blend of culture, adventure, and relaxation.</description>
+	<pubDate>2024-05-24T18:16:34+03:00</pubDate>
+</item><item>
 	<title>Delaware County (New York) Travel Guide (Catskills/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/catskills/delaware-county-new-york/</link>
 	<description>Discover the rich culture and natural beauty of Delaware County, New York with our ultimate travel guide. Find the best attractions, food, accommodations, and more. Plan your next excursion to the Catskills with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/zurich-region/horgen/</link>
 	<description>Discover all the top places to visit, foods to try, and activities to do in Horgen with our comprehensive travel guide.</description>
 	<pubDate>2024-05-24T13:49:03+03:00</pubDate>
-</item><item>
-	<title>Gabú Travel Guide (Guinea-Bissau/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/guinea-bissau/gabu/</link>
-	<description>Check out this comprehensive travel guide for Gabú, Guinea-Bissau to get an insight into the history, culture, food, and natural attractions of this beautiful city.</description>
-	<pubDate>2024-05-24T13:09:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
