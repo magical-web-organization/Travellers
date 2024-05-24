@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T07:28:55+03:00</pubDate>
-        <lastBuildDate>2024-05-24T07:28:55+03:00</lastBuildDate>
+        <pubDate>2024-05-24T07:45:53+03:00</pubDate>
+        <lastBuildDate>2024-05-24T07:45:53+03:00</lastBuildDate>
 
         <item>
+	<title>Savary Island Travel Guide (Sunshine Coast/Lower Mainland/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/sunshine-coast/savary-island/</link>
+	<description>Plan your ultimate vacation to Savary Island, the hidden gem in Lower Mainland, British Columbia, Canada. Discover its cultural and natural attractions, hiking/biking routes, best things to do, week-long itinerary, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-24T07:45:53+03:00</pubDate>
+</item><item>
 	<title>Ceiba Travel Guide (Eastern Coast/Puerto Rico/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/eastern-coast/ceiba/</link>
 	<description>Discover the best places to visit in Ceiba, Puerto Rico with this comprehensive travel guide. Explore culturally important attractions, natural wonders, hiking/biking routes, best things to do, week-long itinerary, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/bodensee-region/konstanz/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Konstanz. This comprehensive travel guide includes a week-long itinerary, hiking and biking routes, food and drink recommendations, safety tips, and transportation options.</description>
 	<pubDate>2024-05-24T03:27:48+03:00</pubDate>
-</item><item>
-	<title>Atwater Travel Guide (Merced County/San Joaquin Valley/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/merced-county/atwater/</link>
-	<description>Plan your trip to Atwater in California, using this comprehensive travel guide with information on top places to visit, things to do, where to stay and more.</description>
-	<pubDate>2024-05-24T02:58:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
