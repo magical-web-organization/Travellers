@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T11:17:11+03:00</pubDate>
-        <lastBuildDate>2024-05-24T11:17:11+03:00</lastBuildDate>
+        <pubDate>2024-05-24T11:44:44+03:00</pubDate>
+        <lastBuildDate>2024-05-24T11:44:44+03:00</lastBuildDate>
 
         <item>
+	<title>Chinon Travel Guide (Centre-Val de Loire/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/centre-val-de-loire/chinon/</link>
+	<description>Explore the beautiful town of Chinon in Central France with our comprehensive travel guide. Discover the best places to visit, eat, stay and things to do in Chinon.</description>
+	<pubDate>2024-05-24T11:44:44+03:00</pubDate>
+</item><item>
 	<title>Paderborn Travel Guide (Teutoburg Forest/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/teutoburg-forest/paderborn/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, local culture and customs, and tips for traveling to Paderborn in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/eastern-coast/ceiba/</link>
 	<description>Discover the best places to visit in Ceiba, Puerto Rico with this comprehensive travel guide. Explore culturally important attractions, natural wonders, hiking/biking routes, best things to do, week-long itinerary, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-05-24T07:28:55+03:00</pubDate>
-</item><item>
-	<title>Siak Sri Indrapura Travel Guide (Riau/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/riau/siak-sri-indrapura/</link>
-	<description>A comprehensive travel guide for Siak Sri Indrapura in Riau, Sumatra, Indonesia. Discover its cultural and natural attractions, best things to do, where to stay, and more.</description>
-	<pubDate>2024-05-24T06:48:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
