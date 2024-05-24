@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T01:29:48+03:00</pubDate>
-        <lastBuildDate>2024-05-25T01:29:48+03:00</lastBuildDate>
+        <pubDate>2024-05-25T01:59:54+03:00</pubDate>
+        <lastBuildDate>2024-05-25T01:59:54+03:00</lastBuildDate>
 
         <item>
+	<title>Wellesbourne Travel Guide (Warwickshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/warwickshire/wellesbourne/</link>
+	<description>Discover the top things to do, places to visit, and cultural experiences in Wellesbourne, Warwickshire, in this comprehensive travel guide.</description>
+	<pubDate>2024-05-25T01:59:54+03:00</pubDate>
+</item><item>
 	<title>Ameland Travel Guide (West Frisian Islands/Northern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/west-frisian-islands/ameland/</link>
 	<description>Discover the beauty and charm of Ameland, Netherlands with our comprehensive tour guide. From cultural attractions to natural wonders, hiking routes to food and drink recommendations, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/bulgaria/bulgarian-shopluk/dupnitsa/</link>
 	<description>Discover everything Dupnitsa has to offer with our comprehensive travel guide, featuring a list of must-visit places, cultural attractions, outdoor adventures, food and drink scene, and more.</description>
 	<pubDate>2024-05-24T21:31:05+03:00</pubDate>
-</item><item>
-	<title>Peterhead Travel Guide (Aberdeenshire/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/aberdeenshire/peterhead/</link>
-	<description>Discover the beauty of Peterhead with our ultimate travel guide, featuring top attractions, hotels, food, culture, and more.</description>
-	<pubDate>2024-05-24T20:54:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
