@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T17:18:16+03:00</pubDate>
-        <lastBuildDate>2024-05-24T17:18:16+03:00</lastBuildDate>
+        <pubDate>2024-05-24T17:59:03+03:00</pubDate>
+        <lastBuildDate>2024-05-24T17:59:03+03:00</lastBuildDate>
 
         <item>
+	<title>Delaware County (New York) Travel Guide (Catskills/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/catskills/delaware-county-new-york/</link>
+	<description>Discover the rich culture and natural beauty of Delaware County, New York with our ultimate travel guide. Find the best attractions, food, accommodations, and more. Plan your next excursion to the Catskills with ease.</description>
+	<pubDate>2024-05-24T17:59:03+03:00</pubDate>
+</item><item>
 	<title>Pontiac Travel Guide (Outaouais/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/outaouais/pontiac/</link>
 	<description>Plan your trip to Pontiac with our ultimate travel guide, including must-see attractions, activities, hotels, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/guinea-bissau/gabu/</link>
 	<description>Check out this comprehensive travel guide for Gabú, Guinea-Bissau to get an insight into the history, culture, food, and natural attractions of this beautiful city.</description>
 	<pubDate>2024-05-24T13:09:12+03:00</pubDate>
-</item><item>
-	<title>Kasuwa Magani Travel Guide (Kaduna State/North West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/kaduna-state/kasuwa-magani/</link>
-	<description>A comprehensive tour guide for Kasuwa Magani, including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and transportation.</description>
-	<pubDate>2024-05-24T12:46:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
