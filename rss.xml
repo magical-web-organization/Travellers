@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T07:45:53+03:00</pubDate>
-        <lastBuildDate>2024-05-24T07:45:53+03:00</lastBuildDate>
+        <pubDate>2024-05-24T08:16:23+03:00</pubDate>
+        <lastBuildDate>2024-05-24T08:16:23+03:00</lastBuildDate>
 
         <item>
+	<title>Puntland Travel Guide (Somalia/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/somalia/puntland/</link>
+	<description>Discover the best places to visit and things to do in Puntland, Somalia. Find out about cultural attractions, natural wonders, food and drink scene, where to stay, and how to get around in this comprehensive travel guide.</description>
+	<pubDate>2024-05-24T08:16:23+03:00</pubDate>
+</item><item>
 	<title>Savary Island Travel Guide (Sunshine Coast/Lower Mainland/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/sunshine-coast/savary-island/</link>
 	<description>Plan your ultimate vacation to Savary Island, the hidden gem in Lower Mainland, British Columbia, Canada. Discover its cultural and natural attractions, hiking/biking routes, best things to do, week-long itinerary, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/limon-province-costa-rica/cahuita-national-park/</link>
 	<description>Discover the best things to do, see and experience while exploring Cahuita National Park in Costa Rica. Get insider tips on natural attractions, outdoor adventures, hiking routes, cultural landmarks, local cuisine, safety, and logistics.</description>
 	<pubDate>2024-05-24T03:55:29+03:00</pubDate>
-</item><item>
-	<title>Konstanz Travel Guide (Bodensee Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/bodensee-region/konstanz/</link>
-	<description>Discover the best places to visit, things to do, and local culture of Konstanz. This comprehensive travel guide includes a week-long itinerary, hiking and biking routes, food and drink recommendations, safety tips, and transportation options.</description>
-	<pubDate>2024-05-24T03:27:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
