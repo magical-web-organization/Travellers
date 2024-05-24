@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-24T23:49:50+03:00</pubDate>
-        <lastBuildDate>2024-05-24T23:49:50+03:00</lastBuildDate>
+        <pubDate>2024-05-25T00:30:16+03:00</pubDate>
+        <lastBuildDate>2024-05-25T00:30:16+03:00</lastBuildDate>
 
         <item>
+	<title>Eng Travel Guide (Tyrol/Austria/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/eng/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Eng, Austria, with our comprehensive guide.</description>
+	<pubDate>2024-05-25T00:30:16+03:00</pubDate>
+</item><item>
 	<title>Ton Sai Travel Guide (Krabi Province/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/krabi-province/ton-sai/</link>
 	<description>Plan your trip to Ton Sai, a scenic coastal village in Southern Thailand known for its natural beauty, outdoor adventure activities, and delicious Thai cuisine.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/udupi-district/udupi/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Udupi, along with safety tips, food recommendations, and cultural insights in this comprehensive travel guide.</description>
 	<pubDate>2024-05-24T19:55:55+03:00</pubDate>
-</item><item>
-	<title>South Travel Guide (Leeds/West Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/west-yorkshire/leeds/south/</link>
-	<description>Explore the culturally rich and scenic beauty of South in Leeds, with this comprehensive travel guide featuring must-visit attractions, hiking/biking routes, local cuisine, accommodations, and much more.</description>
-	<pubDate>2024-05-24T19:17:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
