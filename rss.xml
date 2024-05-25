@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T06:12:56+03:00</pubDate>
-        <lastBuildDate>2024-05-25T06:12:56+03:00</lastBuildDate>
+        <pubDate>2024-05-25T07:00:08+03:00</pubDate>
+        <lastBuildDate>2024-05-25T07:00:08+03:00</lastBuildDate>
 
         <item>
+	<title>Waikabubak Travel Guide (Sumba/Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/sumba/waikabubak/</link>
+	<description>Plan your trip to Waikabubak with this comprehensive guide featuring top attractions, hiking routes, accommodations, and more.</description>
+	<pubDate>2024-05-25T07:00:08+03:00</pubDate>
+</item><item>
 	<title>Gboko Travel Guide (Benue State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/benue-state/gboko/</link>
 	<description>Explore the culturally rich and naturally beautiful town of Gboko in Nigeria with our detailed tour guide. Discover top attractions, food, accommodations, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/saguenay-lac-saint-jean/</link>
 	<description>Discover the culturally rich and naturally stunning region of Saguenay-Lac-Saint-Jean in Quebec, Canada. Our long-form guide includes must-visit attractions, hiking and biking routes, food and drink scene, accommodations, local culture and customs, and more.</description>
 	<pubDate>2024-05-25T02:10:57+03:00</pubDate>
-</item><item>
-	<title>Wellesbourne Travel Guide (Warwickshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/warwickshire/wellesbourne/</link>
-	<description>Discover the top things to do, places to visit, and cultural experiences in Wellesbourne, Warwickshire, in this comprehensive travel guide.</description>
-	<pubDate>2024-05-25T01:59:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
