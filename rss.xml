@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T19:22:36+03:00</pubDate>
-        <lastBuildDate>2024-05-25T19:22:36+03:00</lastBuildDate>
+        <pubDate>2024-05-25T19:36:39+03:00</pubDate>
+        <lastBuildDate>2024-05-25T19:36:39+03:00</lastBuildDate>
 
         <item>
+	<title>Nangqen Travel Guide (Qinghai/Northwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/qinghai/nangqen/</link>
+	<description>Explore the cultural and natural attractions, outdoor adventures, local cuisine, and customs of Nangqen with our comprehensive travel guide. Discover the best places to stay, shop, and explore in this hidden gem of Northwest China.</description>
+	<pubDate>2024-05-25T19:36:39+03:00</pubDate>
+</item><item>
 	<title>Lunenburg Travel Guide (South Shore/Nova Scotia/Atlantic Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/nova-scotia/south-shore/lunenburg/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in this ultimate travel guide to Lunenburg, Nova Scotia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/santubong/</link>
 	<description>Discover the best things to do in Santubong, from cultural and natural attractions to outdoor adventures and scenic views. Learn about the food and drink scene, where to stay, what to buy, local customs, and safety tips.</description>
 	<pubDate>2024-05-25T15:05:13+03:00</pubDate>
-</item><item>
-	<title>Mithur Travel Guide (Dakshina Kannada/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/dakshina-kannada/mithur/</link>
-	<description>Discover the best things to do, see, eat, and buy in Mithur, Karnataka, India with this comprehensive travel guide.</description>
-	<pubDate>2024-05-25T14:48:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
