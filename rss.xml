@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T05:29:13+03:00</pubDate>
-        <lastBuildDate>2024-05-25T05:29:13+03:00</lastBuildDate>
+        <pubDate>2024-05-25T05:46:37+03:00</pubDate>
+        <lastBuildDate>2024-05-25T05:46:37+03:00</lastBuildDate>
 
         <item>
+	<title>Sankt Goar Travel Guide (Middle Rhine Valley/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/middle-rhine-valley/sankt-goar/</link>
+	<description>Plan your perfect trip to Sankt Goar with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-25T05:46:37+03:00</pubDate>
+</item><item>
 	<title>Moxi Travel Guide (Ganzi (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/moxi/</link>
 	<description>Discover the top attractions, outdoor adventures, cultural sites, accommodations, local cuisine, and logistics of Moxi with our complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/west-frisian-islands/ameland/</link>
 	<description>Discover the beauty and charm of Ameland, Netherlands with our comprehensive tour guide. From cultural attractions to natural wonders, hiking routes to food and drink recommendations, we've got you covered.</description>
 	<pubDate>2024-05-25T01:29:48+03:00</pubDate>
-</item><item>
-	<title>Sakteng Wildlife Sanctuary Travel Guide (Eastern Bhutan/Bhutan/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/bhutan/eastern-bhutan/sakteng-wildlife-sanctuary/</link>
-	<description>Plan your wildlife adventure to Bhutan with this comprehensive travel guide to Sakteng Wildlife Sanctuary. Learn about the best places to visit, stay, eat, and more.</description>
-	<pubDate>2024-05-25T00:49:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
