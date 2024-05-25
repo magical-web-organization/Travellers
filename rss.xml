@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T20:13:18+03:00</pubDate>
-        <lastBuildDate>2024-05-25T20:13:18+03:00</lastBuildDate>
+        <pubDate>2024-05-25T20:44:45+03:00</pubDate>
+        <lastBuildDate>2024-05-25T20:44:45+03:00</lastBuildDate>
 
         <item>
+	<title>Holon Travel Guide (Israeli Coastal Plain/Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/israeli-coastal-plain/holon/</link>
+	<description>Plan your trip to Holon, Israel with this comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-05-25T20:44:45+03:00</pubDate>
+</item><item>
 	<title>Isola dei Gabbiani Travel Guide (Sassari (province)/Sardinia/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/sardinia/sassari-province/isola-dei-gabbiani/</link>
 	<description>Explore the natural beauty of Isola dei Gabbiani in Sardinia, Italy with this comprehensive travel guide featuring top attractions, activities, accommodations, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/friesland/stavoren/</link>
 	<description>Explore the best cultural, historical, outdoor activities and scenic views of Stavoren, with our comprehensive travel guide including hiking, biking, food, and drink scene.</description>
 	<pubDate>2024-05-25T16:03:46+03:00</pubDate>
-</item><item>
-	<title>Seyðisfjörður Travel Guide (East Iceland/Iceland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/east-iceland/seydisfjordur/</link>
-	<description>Discover the best things to do, see, and eat in Seyðisfjörður, plus practical information about transportation, accommodations, and safety.</description>
-	<pubDate>2024-05-25T15:42:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
