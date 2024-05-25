@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T07:29:20+03:00</pubDate>
-        <lastBuildDate>2024-05-25T07:29:20+03:00</lastBuildDate>
+        <pubDate>2024-05-25T07:49:59+03:00</pubDate>
+        <lastBuildDate>2024-05-25T07:49:59+03:00</lastBuildDate>
 
         <item>
+	<title>Bad Doberan Travel Guide (Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/bad-doberan/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Bad Doberan, Germany. Learn about the local culture, food and drink scene, and safety tips.</description>
+	<pubDate>2024-05-25T07:49:59+03:00</pubDate>
+</item><item>
 	<title>Zaqatala Travel Guide (Sheki Region/Azerbaijan/Caucasus/Asia)</title>
 	<link>https://travellers.wiki/en/asia/caucasus/azerbaijan/sheki-region/zaqatala/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in this comprehensive travel guide to Zaqatala, Azerbaijan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/omupo/</link>
 	<description>Plan your trip to Omupo with this comprehensive travel guide featuring the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-05-25T03:16:29+03:00</pubDate>
-</item><item>
-	<title>Port-Cros National Park Travel Guide (Var/Provence-Alpes-Côte d'Azur/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/var/port-cros-national-park/</link>
-	<description>Plan your visit to Port-Cros National Park with this comprehensive travel guide. Explore the natural and cultural attractions, discover the best things to do and places to stay, and learn about the local culture and customs.</description>
-	<pubDate>2024-05-25T02:36:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
