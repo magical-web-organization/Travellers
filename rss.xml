@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T14:01:45+03:00</pubDate>
-        <lastBuildDate>2024-05-25T14:01:45+03:00</lastBuildDate>
+        <pubDate>2024-05-25T14:15:00+03:00</pubDate>
+        <lastBuildDate>2024-05-25T14:15:00+03:00</lastBuildDate>
 
         <item>
+	<title>Black Sea Travel Guide (Europe)</title>
+	<link>https://travellers.wiki/en/europe/black-sea/</link>
+	<description>Plan your trip to Black Sea with our helpful guide that covers everything from must-visit places and cultural attractions to hiking and biking routes, food scene, safety, and transportation logistics.</description>
+	<pubDate>2024-05-25T14:15:00+03:00</pubDate>
+</item><item>
 	<title>Odintsovo Travel Guide (West Moscow Oblast/Moscow Oblast/Central Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/central-russia/moscow-oblast/west-moscow-oblast/odintsovo/</link>
 	<description>Planning a trip to Odintsovo? Read this travel guide to discover the must-visit places, best hikes and bike routes, food and drink scene, and more in this Russian city.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/el-salvador/western-el-salvador/la-libertad/</link>
 	<description>Plan an unforgettable trip to La Libertad, El Salvador with our comprehensive travel guide. Discover the best places to visit, stay, eat, and more.</description>
 	<pubDate>2024-05-25T09:39:08+03:00</pubDate>
-</item><item>
-	<title>Intercourse Travel Guide (Lancaster County/Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/lancaster-county/intercourse/</link>
-	<description>Discover Intercourse, a quaint town located in Lancaster County, Pennsylvania. This comprehensive travel guide includes all the information needed for planning a perfect trip to Intercourse, including thing to do, where to stay, and where to eat.</description>
-	<pubDate>2024-05-25T09:05:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
