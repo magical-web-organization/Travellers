@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T10:57:56+03:00</pubDate>
-        <lastBuildDate>2024-05-25T10:57:56+03:00</lastBuildDate>
+        <pubDate>2024-05-25T11:24:51+03:00</pubDate>
+        <lastBuildDate>2024-05-25T11:24:51+03:00</lastBuildDate>
 
         <item>
+	<title>National Capital Region Travel Guide (Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/national-capital-region/</link>
+	<description>A comprehensive tour guide for National Capital Region in Canada, highlighting the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-25T11:24:51+03:00</pubDate>
+</item><item>
 	<title>Ratlam Travel Guide (Western Madhya Pradesh/Madhya Pradesh/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/western-madhya-pradesh/ratlam/</link>
 	<description>Discover the top attractions, activities, cuisine, and travel tips in the city of Ratlam, Madhya Pradesh.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/sumba/waikabubak/</link>
 	<description>Plan your trip to Waikabubak with this comprehensive guide featuring top attractions, hiking routes, accommodations, and more.</description>
 	<pubDate>2024-05-25T07:00:08+03:00</pubDate>
-</item><item>
-	<title>Gboko Travel Guide (Benue State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/benue-state/gboko/</link>
-	<description>Explore the culturally rich and naturally beautiful town of Gboko in Nigeria with our detailed tour guide. Discover top attractions, food, accommodations, transportation options, and more.</description>
-	<pubDate>2024-05-25T06:12:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
