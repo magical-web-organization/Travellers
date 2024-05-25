@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T15:05:13+03:00</pubDate>
-        <lastBuildDate>2024-05-25T15:05:13+03:00</lastBuildDate>
+        <pubDate>2024-05-25T15:42:50+03:00</pubDate>
+        <lastBuildDate>2024-05-25T15:42:50+03:00</lastBuildDate>
 
         <item>
+	<title>Seyðisfjörður Travel Guide (East Iceland/Iceland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/east-iceland/seydisfjordur/</link>
+	<description>Discover the best things to do, see, and eat in Seyðisfjörður, plus practical information about transportation, accommodations, and safety.</description>
+	<pubDate>2024-05-25T15:42:50+03:00</pubDate>
+</item><item>
 	<title>Santubong Travel Guide (Sarawak/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/santubong/</link>
 	<description>Discover the best things to do in Santubong, from cultural and natural attractions to outdoor adventures and scenic views. Learn about the food and drink scene, where to stay, what to buy, local customs, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/national-capital-region/</link>
 	<description>A comprehensive tour guide for National Capital Region in Canada, highlighting the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-05-25T11:24:51+03:00</pubDate>
-</item><item>
-	<title>Ratlam Travel Guide (Western Madhya Pradesh/Madhya Pradesh/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/western-madhya-pradesh/ratlam/</link>
-	<description>Discover the top attractions, activities, cuisine, and travel tips in the city of Ratlam, Madhya Pradesh.</description>
-	<pubDate>2024-05-25T10:57:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
