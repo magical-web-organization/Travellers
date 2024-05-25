@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T11:24:51+03:00</pubDate>
-        <lastBuildDate>2024-05-25T11:24:51+03:00</lastBuildDate>
+        <pubDate>2024-05-25T12:01:17+03:00</pubDate>
+        <lastBuildDate>2024-05-25T12:01:17+03:00</lastBuildDate>
 
         <item>
+	<title>Santa María del Oro (Durango) Travel Guide (Durango (state)/Northern Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/durango-state/santa-maria-del-oro-durango/</link>
+	<description>Plan your visit to Santa María del Oro (Durango) with this comprehensive travel guide, including a list of places to visit, hiking and biking routes, food and drink recommendations, and more.</description>
+	<pubDate>2024-05-25T12:01:17+03:00</pubDate>
+</item><item>
 	<title>National Capital Region Travel Guide (Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/national-capital-region/</link>
 	<description>A comprehensive tour guide for National Capital Region in Canada, highlighting the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/caucasus/azerbaijan/sheki-region/zaqatala/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in this comprehensive travel guide to Zaqatala, Azerbaijan.</description>
 	<pubDate>2024-05-25T07:29:20+03:00</pubDate>
-</item><item>
-	<title>Waikabubak Travel Guide (Sumba/Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/sumba/waikabubak/</link>
-	<description>Plan your trip to Waikabubak with this comprehensive guide featuring top attractions, hiking routes, accommodations, and more.</description>
-	<pubDate>2024-05-25T07:00:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
