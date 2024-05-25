@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T00:34:04+03:00</pubDate>
-        <lastBuildDate>2024-05-26T00:34:04+03:00</lastBuildDate>
+        <pubDate>2024-05-26T01:13:37+03:00</pubDate>
+        <lastBuildDate>2024-05-26T01:13:37+03:00</lastBuildDate>
 
         <item>
+	<title>Eixample Travel Guide (Barcelona/Barcelona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/barcelona/eixample/</link>
+	<description>Discover Eixample, Barcelona through this detailed travel guide which covers the must-visit attractions, best things to do, week-long itinerary, food and drink scene, local culture, safety and health, transportation options, nearby destinations, and more.</description>
+	<pubDate>2024-05-26T01:13:37+03:00</pubDate>
+</item><item>
 	<title>Kirkcaldy Travel Guide (Fife/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/kirkcaldy/</link>
 	<description>Looking to visit Kirkcaldy in Scotland? Check out this comprehensive travel guide for a list of the best things to do, where to eat, stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/israel/israeli-coastal-plain/holon/</link>
 	<description>Plan your trip to Holon, Israel with this comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-05-25T20:44:45+03:00</pubDate>
-</item><item>
-	<title>Isola dei Gabbiani Travel Guide (Sassari (province)/Sardinia/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sardinia/sassari-province/isola-dei-gabbiani/</link>
-	<description>Explore the natural beauty of Isola dei Gabbiani in Sardinia, Italy with this comprehensive travel guide featuring top attractions, activities, accommodations, and travel tips.</description>
-	<pubDate>2024-05-25T20:13:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
