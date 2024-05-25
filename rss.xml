@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T00:26:38+03:00</pubDate>
-        <lastBuildDate>2024-05-26T00:26:38+03:00</lastBuildDate>
+        <pubDate>2024-05-26T00:34:04+03:00</pubDate>
+        <lastBuildDate>2024-05-26T00:34:04+03:00</lastBuildDate>
 
         <item>
+	<title>Kirkcaldy Travel Guide (Fife/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/kirkcaldy/</link>
+	<description>Looking to visit Kirkcaldy in Scotland? Check out this comprehensive travel guide for a list of the best things to do, where to eat, stay, and more.</description>
+	<pubDate>2024-05-26T00:34:04+03:00</pubDate>
+</item><item>
 	<title>Hamilton Travel Guide (Niagara Peninsula/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/niagara-peninsula/hamilton/</link>
 	<description>Get to know the outdoor and cultural attractions of Hamilton and plan your next Ontario getaway. Read on for hiking trails, notable landmarks, local food and drinks, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/sardinia/sassari-province/isola-dei-gabbiani/</link>
 	<description>Explore the natural beauty of Isola dei Gabbiani in Sardinia, Italy with this comprehensive travel guide featuring top attractions, activities, accommodations, and travel tips.</description>
 	<pubDate>2024-05-25T20:13:18+03:00</pubDate>
-</item><item>
-	<title>Nangqen Travel Guide (Qinghai/Northwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/qinghai/nangqen/</link>
-	<description>Explore the cultural and natural attractions, outdoor adventures, local cuisine, and customs of Nangqen with our comprehensive travel guide. Discover the best places to stay, shop, and explore in this hidden gem of Northwest China.</description>
-	<pubDate>2024-05-25T19:36:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
