@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T12:33:47+03:00</pubDate>
-        <lastBuildDate>2024-05-25T12:33:47+03:00</lastBuildDate>
+        <pubDate>2024-05-25T13:33:13+03:00</pubDate>
+        <lastBuildDate>2024-05-25T13:33:13+03:00</lastBuildDate>
 
         <item>
+	<title>Sonoita Travel Guide (South Central Arizona/Arizona/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/south-central-arizona/sonoita/</link>
+	<description>Plan your travel to Sonoita, Arizona with our comprehensive guide. Explore the best things to do, visit, eat, stay, and more in Sonoita.</description>
+	<pubDate>2024-05-25T13:33:13+03:00</pubDate>
+</item><item>
 	<title>Nikolaevsk-on-Amur Travel Guide (Khabarovsk Krai/Russian Far East/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/khabarovsk-krai/nikolaevsk-on-amur/</link>
 	<description>Plan your trip to Nikolaevsk-on-Amur with our comprehensive travel guide featuring top places to visit, things to do, where to stay, and practical tips for a memorable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/arlington/</link>
 	<description>Discover the best places to visit, things to do, and local culture and customs of Arlington, Vermont with this comprehensive travel guide.</description>
 	<pubDate>2024-05-25T09:00:15+03:00</pubDate>
-</item><item>
-	<title>Danzhou Travel Guide (Hainan/South China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/hainan/danzhou/</link>
-	<description>Plan your trip to Danzhou with this comprehensive travel guide. Learn about the best things to see, do, and eat in this hidden gem of South China.</description>
-	<pubDate>2024-05-25T08:10:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
