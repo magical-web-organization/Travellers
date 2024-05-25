@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T14:15:00+03:00</pubDate>
-        <lastBuildDate>2024-05-25T14:15:00+03:00</lastBuildDate>
+        <pubDate>2024-05-25T14:48:28+03:00</pubDate>
+        <lastBuildDate>2024-05-25T14:48:28+03:00</lastBuildDate>
 
         <item>
+	<title>Mithur Travel Guide (Dakshina Kannada/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/dakshina-kannada/mithur/</link>
+	<description>Discover the best things to do, see, eat, and buy in Mithur, Karnataka, India with this comprehensive travel guide.</description>
+	<pubDate>2024-05-25T14:48:28+03:00</pubDate>
+</item><item>
 	<title>Black Sea Travel Guide (Europe)</title>
 	<link>https://travellers.wiki/en/europe/black-sea/</link>
 	<description>Plan your trip to Black Sea with our helpful guide that covers everything from must-visit places and cultural attractions to hiking and biking routes, food scene, safety, and transportation logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/botswana/southeast/francistown/</link>
 	<description>Explore the vibrant city of Francistown with this comprehensive tour guide featuring places to visit, food and drink scene, local culture, transportation options, and more.</description>
 	<pubDate>2024-05-25T10:14:29+03:00</pubDate>
-</item><item>
-	<title>La Libertad Travel Guide (Western El Salvador/El Salvador/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/el-salvador/western-el-salvador/la-libertad/</link>
-	<description>Plan an unforgettable trip to La Libertad, El Salvador with our comprehensive travel guide. Discover the best places to visit, stay, eat, and more.</description>
-	<pubDate>2024-05-25T09:39:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
