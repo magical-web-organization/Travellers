@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T15:42:50+03:00</pubDate>
-        <lastBuildDate>2024-05-25T15:42:50+03:00</lastBuildDate>
+        <pubDate>2024-05-25T16:03:46+03:00</pubDate>
+        <lastBuildDate>2024-05-25T16:03:46+03:00</lastBuildDate>
 
         <item>
+	<title>Stavoren Travel Guide (Friesland/Northern Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/friesland/stavoren/</link>
+	<description>Explore the best cultural, historical, outdoor activities and scenic views of Stavoren, with our comprehensive travel guide including hiking, biking, food, and drink scene.</description>
+	<pubDate>2024-05-25T16:03:46+03:00</pubDate>
+</item><item>
 	<title>Seyðisfjörður Travel Guide (East Iceland/Iceland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/east-iceland/seydisfjordur/</link>
 	<description>Discover the best things to do, see, and eat in Seyðisfjörður, plus practical information about transportation, accommodations, and safety.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/durango-state/santa-maria-del-oro-durango/</link>
 	<description>Plan your visit to Santa María del Oro (Durango) with this comprehensive travel guide, including a list of places to visit, hiking and biking routes, food and drink recommendations, and more.</description>
 	<pubDate>2024-05-25T12:01:17+03:00</pubDate>
-</item><item>
-	<title>National Capital Region Travel Guide (Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/national-capital-region/</link>
-	<description>A comprehensive tour guide for National Capital Region in Canada, highlighting the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-05-25T11:24:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
