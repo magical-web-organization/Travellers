@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-25T04:30:52+03:00</pubDate>
-        <lastBuildDate>2024-05-25T04:30:52+03:00</lastBuildDate>
+        <pubDate>2024-05-25T04:51:41+03:00</pubDate>
+        <lastBuildDate>2024-05-25T04:51:41+03:00</lastBuildDate>
 
         <item>
+	<title>Louvain-la-Neuve Travel Guide (Walloon Brabant/Wallonia/Belgium/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/belgium/wallonia/walloon-brabant/louvain-la-neuve/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local culture and customs in Louvain-la-Neuve, Belgium. Whether you're looking for natural attractions, outdoor adventures, cultural landmarks, or local cuisine, this guide has got you covered.</description>
+	<pubDate>2024-05-25T04:51:41+03:00</pubDate>
+</item><item>
 	<title>Waikiki Travel Guide (Honolulu/Oahu/Hawaii/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/oahu/honolulu/waikiki/</link>
 	<description>Plan your ultimate Waikiki vacation with our comprehensive travel guide. Discover the best places to visit, food and drink scene, culture, safety, and health tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/eng/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Eng, Austria, with our comprehensive guide.</description>
 	<pubDate>2024-05-25T00:30:16+03:00</pubDate>
-</item><item>
-	<title>Ton Sai Travel Guide (Krabi Province/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/krabi-province/ton-sai/</link>
-	<description>Plan your trip to Ton Sai, a scenic coastal village in Southern Thailand known for its natural beauty, outdoor adventure activities, and delicious Thai cuisine.</description>
-	<pubDate>2024-05-24T23:49:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
