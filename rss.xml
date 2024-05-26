@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T21:28:57+03:00</pubDate>
-        <lastBuildDate>2024-05-26T21:28:57+03:00</lastBuildDate>
+        <pubDate>2024-05-26T21:38:27+03:00</pubDate>
+        <lastBuildDate>2024-05-26T21:38:27+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Mathieu-du-Parc Travel Guide (Maskinongé Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/maskinonge-region/saint-mathieu-du-parc/</link>
+	<description>Welcome to Saint-Mathieu-du-Parc, a small town in Quebec, Canada. This comprehensive travel guide offers a complete picture of what to see, do, eat, and explore in this charming destination.</description>
+	<pubDate>2024-05-26T21:38:27+03:00</pubDate>
+</item><item>
 	<title>North Travel Guide (Wuhan/Hubei/South-central China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/hubei/wuhan/north/</link>
 	<description>Discover the best things to do, places to stay, and where to eat in North, Wuhan. Learn about the local culture, customs, and tips for travel.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/saint-barthelemy/</link>
 	<description>Plan your perfect trip to Saint-Barthélemy with this comprehensive travel guide featuring a list of must-visit places, outdoor adventures, local culture and customs, safety and health information, transportation options, and more.</description>
 	<pubDate>2024-05-26T17:09:19+03:00</pubDate>
-</item><item>
-	<title>Alta Murgia National Park Travel Guide (Apulia/Southern Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/alta-murgia-national-park/</link>
-	<description>Discover the best places to visit, food and drink scene, hiking and biking routes, local culture, and more in Alta Murgia National Park with this comprehensive guide.</description>
-	<pubDate>2024-05-26T17:00:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
