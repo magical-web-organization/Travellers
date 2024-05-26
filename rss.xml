@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-27T02:03:13+03:00</pubDate>
-        <lastBuildDate>2024-05-27T02:03:13+03:00</lastBuildDate>
+        <pubDate>2024-05-27T02:32:32+03:00</pubDate>
+        <lastBuildDate>2024-05-27T02:32:32+03:00</lastBuildDate>
 
         <item>
+	<title>North Travel Guide (Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/north/</link>
+	<description>A comprehensive travel guide for North Tokyo, including its famous attractions, best activities, where to stay, what to buy, local culture and customs, safety and health precautions, transportation options, and nearby destinations.</description>
+	<pubDate>2024-05-27T02:32:32+03:00</pubDate>
+</item><item>
 	<title>Porquerolles Travel Guide (Var/Provence-Alpes-Côte d'Azur/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/var/porquerolles/</link>
 	<description>Plan your perfect visit to Porquerolles with our comprehensive travel guide featuring the best attractions, activities, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/maskinonge-region/saint-mathieu-du-parc/</link>
 	<description>Welcome to Saint-Mathieu-du-Parc, a small town in Quebec, Canada. This comprehensive travel guide offers a complete picture of what to see, do, eat, and explore in this charming destination.</description>
 	<pubDate>2024-05-26T21:38:27+03:00</pubDate>
-</item><item>
-	<title>North Travel Guide (Wuhan/Hubei/South-central China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/hubei/wuhan/north/</link>
-	<description>Discover the best things to do, places to stay, and where to eat in North, Wuhan. Learn about the local culture, customs, and tips for travel.</description>
-	<pubDate>2024-05-26T21:28:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
