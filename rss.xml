@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T13:08:11+03:00</pubDate>
-        <lastBuildDate>2024-05-26T13:08:11+03:00</lastBuildDate>
+        <pubDate>2024-05-26T14:00:03+03:00</pubDate>
+        <lastBuildDate>2024-05-26T14:00:03+03:00</lastBuildDate>
 
         <item>
+	<title>Shirahama Travel Guide (Wakayama (prefecture)/Kansai/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/wakayama-prefecture/shirahama/</link>
+	<description>Discover everything you need to know about Shirahama in Wakayama, Japan. Explore the natural attractions, cultural landmarks, food scene, and local customs. Plan your dream vacation with our detailed guide.</description>
+	<pubDate>2024-05-26T14:00:03+03:00</pubDate>
+</item><item>
 	<title>Avezzano Travel Guide (L'Aquila (province)/Abruzzo/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/l-aquila-province/avezzano/</link>
 	<description>Plan your trip to Avezzano with our comprehensive travel guide featuring the top attractions, best food and drink options, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/liechtenstein/balzers/</link>
 	<description>Discover Balzers, a charming town in Liechtenstein, with our comprehensive guide. From natural attractions, must-visit places, local culture, food, and everything in between, plan your next trip with ease.</description>
 	<pubDate>2024-05-26T09:12:20+03:00</pubDate>
-</item><item>
-	<title>Qijiang Travel Guide (Chongqing (municipality)/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/chongqing-municipality/qijiang/</link>
-	<description>Read this comprehensive travel guide to know about the culturally important attractions, natural beauty, best things to do, local culture, safety & health, and more about Qijiang.</description>
-	<pubDate>2024-05-26T08:49:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
