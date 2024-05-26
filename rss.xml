@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T12:14:13+03:00</pubDate>
-        <lastBuildDate>2024-05-26T12:14:13+03:00</lastBuildDate>
+        <pubDate>2024-05-26T12:49:20+03:00</pubDate>
+        <lastBuildDate>2024-05-26T12:49:20+03:00</lastBuildDate>
 
         <item>
+	<title>Barmera Travel Guide (Murray and Mallee Riverland/South Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/south-australia/murray-and-mallee-riverland/barmera/</link>
+	<description>Plan your next trip to Barmera, Australia with this comprehensive guide. Discover the top attractions, best things to do, where to stay, what to eat, and more!</description>
+	<pubDate>2024-05-26T12:49:20+03:00</pubDate>
+</item><item>
 	<title>Prince of Wales Island Travel Guide (Southeastern Alaska/Alaska/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southeastern-alaska/prince-of-wales-island/</link>
 	<description>Discover the best of Prince of Wales Island with our comprehensive tour guide. Find information on the top attractions, where to stay, what to eat, and how to travel to this scenic destination in Southeast Alaska.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/luxembourg/moselle-valley/grevenmacher/</link>
 	<description>Discover the best sights, activities, and local culture in Grevenmacher, Luxembourg with our travel guide.</description>
 	<pubDate>2024-05-26T08:23:36+03:00</pubDate>
-</item><item>
-	<title>Necedah Travel Guide (Baraboo River Valley/Southwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/baraboo-river-valley/necedah/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to buy in Necedah, Wisconsin. Plan your trip with this comprehensive travel guide.</description>
-	<pubDate>2024-05-26T07:42:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
