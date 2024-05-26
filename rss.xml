@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T14:00:03+03:00</pubDate>
-        <lastBuildDate>2024-05-26T14:00:03+03:00</lastBuildDate>
+        <pubDate>2024-05-26T14:32:16+03:00</pubDate>
+        <lastBuildDate>2024-05-26T14:32:16+03:00</lastBuildDate>
 
         <item>
+	<title>Baiersbronn Travel Guide (Black Forest/Baden-Württemberg/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/black-forest/baiersbronn/</link>
+	<description>Discover what to do, eat, and see in Baiersbronn, a vibrant town located in the heart of the Black Forest in Germany. Use our comprehensive travel guide to plan your getaway and make the most of your trip.</description>
+	<pubDate>2024-05-26T14:32:16+03:00</pubDate>
+</item><item>
 	<title>Shirahama Travel Guide (Wakayama (prefecture)/Kansai/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/wakayama-prefecture/shirahama/</link>
 	<description>Discover everything you need to know about Shirahama in Wakayama, Japan. Explore the natural attractions, cultural landmarks, food scene, and local customs. Plan your dream vacation with our detailed guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/kuril-islands/</link>
 	<description>Plan your next adventure to the Kuril Islands with our comprehensive travel guide. Discover cultural attractions, natural wonders, hiking and biking routes, activities and tours, food and drink scene, accommodations, souvenir shopping, local customs, safety and health tips, as well as transportation and logistics options.</description>
 	<pubDate>2024-05-26T09:34:23+03:00</pubDate>
-</item><item>
-	<title>Balzers Travel Guide (Liechtenstein/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/liechtenstein/balzers/</link>
-	<description>Discover Balzers, a charming town in Liechtenstein, with our comprehensive guide. From natural attractions, must-visit places, local culture, food, and everything in between, plan your next trip with ease.</description>
-	<pubDate>2024-05-26T09:12:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
