@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T09:12:20+03:00</pubDate>
-        <lastBuildDate>2024-05-26T09:12:20+03:00</lastBuildDate>
+        <pubDate>2024-05-26T09:34:23+03:00</pubDate>
+        <lastBuildDate>2024-05-26T09:34:23+03:00</lastBuildDate>
 
         <item>
+	<title>Kuril Islands Travel Guide (Russian Far East/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/kuril-islands/</link>
+	<description>Plan your next adventure to the Kuril Islands with our comprehensive travel guide. Discover cultural attractions, natural wonders, hiking and biking routes, activities and tours, food and drink scene, accommodations, souvenir shopping, local customs, safety and health tips, as well as transportation and logistics options.</description>
+	<pubDate>2024-05-26T09:34:23+03:00</pubDate>
+</item><item>
 	<title>Balzers Travel Guide (Liechtenstein/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/liechtenstein/balzers/</link>
 	<description>Discover Balzers, a charming town in Liechtenstein, with our comprehensive guide. From natural attractions, must-visit places, local culture, food, and everything in between, plan your next trip with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/atlanta/</link>
 	<description>Plan your visit to Atlanta with this comprehensive tour guide including places to visit, hiking/biking routes, best things to do, food scene, where to stay, and more.</description>
 	<pubDate>2024-05-26T05:21:36+03:00</pubDate>
-</item><item>
-	<title>Oldenburg Travel Guide (Western Plains/Lower Saxony/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/western-plains/oldenburg/</link>
-	<description>Plan your trip to Oldenburg, Germany with our comprehensive travel guide featuring top attractions, hiking/biking routes, food and drink scene, where to stay, things to buy, local culture and customs, and more!</description>
-	<pubDate>2024-05-26T04:46:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
