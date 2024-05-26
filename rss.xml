@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-27T01:05:52+03:00</pubDate>
-        <lastBuildDate>2024-05-27T01:05:52+03:00</lastBuildDate>
+        <pubDate>2024-05-27T02:03:13+03:00</pubDate>
+        <lastBuildDate>2024-05-27T02:03:13+03:00</lastBuildDate>
 
         <item>
+	<title>Porquerolles Travel Guide (Var/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/var/porquerolles/</link>
+	<description>Plan your perfect visit to Porquerolles with our comprehensive travel guide featuring the best attractions, activities, food, accommodations, and more.</description>
+	<pubDate>2024-05-27T02:03:13+03:00</pubDate>
+</item><item>
 	<title>Schliersee Travel Guide (Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/schliersee/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Schliersee with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/hubei/wuhan/north/</link>
 	<description>Discover the best things to do, places to stay, and where to eat in North, Wuhan. Learn about the local culture, customs, and tips for travel.</description>
 	<pubDate>2024-05-26T21:28:57+03:00</pubDate>
-</item><item>
-	<title>Patagonia National Park Travel Guide (Patagonia/Chile/South America)</title>
-	<link>https://travellers.wiki/en/south-america/chile/patagonia/patagonia-national-park/</link>
-	<description>Plan your trip to Patagonia National Park with this comprehensive travel guide, featuring must-visit attractions, hiking routes, accommodations, local food, and more.</description>
-	<pubDate>2024-05-26T20:50:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
