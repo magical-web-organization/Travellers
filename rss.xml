@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T07:17:06+03:00</pubDate>
-        <lastBuildDate>2024-05-26T07:17:06+03:00</lastBuildDate>
+        <pubDate>2024-05-26T07:42:55+03:00</pubDate>
+        <lastBuildDate>2024-05-26T07:42:55+03:00</lastBuildDate>
 
         <item>
+	<title>Necedah Travel Guide (Baraboo River Valley/Southwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/baraboo-river-valley/necedah/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and what to buy in Necedah, Wisconsin. Plan your trip with this comprehensive travel guide.</description>
+	<pubDate>2024-05-26T07:42:55+03:00</pubDate>
+</item><item>
 	<title>Jefferson City Travel Guide (Central Missouri/Missouri/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/central-missouri/jefferson-city/</link>
 	<description>Discover the best things to do, see, eat, and drink in Jefferson City, Missouri with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/sulemania-governorate/sulemania/</link>
 	<description>Plan your trip to Sulemania with this comprehensive guide detailing the best places to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-05-26T03:10:39+03:00</pubDate>
-</item><item>
-	<title>Sri Jayawardenapura Kotte Travel Guide (Western Province/Sri Lanka/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/western-province/sri-jayawardenapura-kotte/</link>
-	<description>Plan your trip to Sri Jayawardenapura Kotte with our comprehensive travel guide. Discover top attractions, hiking and biking routes, cultural experiences, food and drink recommendations, safety and health information, and more.</description>
-	<pubDate>2024-05-26T02:52:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
