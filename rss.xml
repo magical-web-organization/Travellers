@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T03:58:57+03:00</pubDate>
-        <lastBuildDate>2024-05-26T03:58:57+03:00</lastBuildDate>
+        <pubDate>2024-05-26T04:27:04+03:00</pubDate>
+        <lastBuildDate>2024-05-26T04:27:04+03:00</lastBuildDate>
 
         <item>
+	<title>Larantuka Travel Guide (Flores/Nusa Tenggara/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/nusa-tenggara/flores/larantuka/</link>
+	<description>Plan your trip to Larantuka, Indonesia with this comprehensive travel guide including a list of places to visit, hiking/biking routes, cultural attractions, food scene, accommodations and more.</description>
+	<pubDate>2024-05-26T04:27:04+03:00</pubDate>
+</item><item>
 	<title>Mostardas Travel Guide (Grande Porto Alegre/Rio Grande do Sul/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/grande-porto-alegre/mostardas/</link>
 	<description>Explore Mostardas, Brazil with this comprehensive travel guide featuring a list of places to visit, must-try food and drink, safety and health tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/malta/gozo/victoria/</link>
 	<description>Explore Victoria, Malta with our comprehensive travel guide and discover the best places to visit, eat, stay, and more. Plan your trip now!</description>
 	<pubDate>2024-05-25T23:59:19+03:00</pubDate>
-</item><item>
-	<title>Srirangapatna Travel Guide (Mandya (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/mandya-district/srirangapatna/</link>
-	<description>Discover the rich history, culture, and natural beauty of Srirangapatna, the historical island town in Karnataka, Southern India. Explore the top attractions, hiking trails, food scene, accommodation options, and nearby destinations of Srirangapatna.</description>
-	<pubDate>2024-05-25T23:25:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
