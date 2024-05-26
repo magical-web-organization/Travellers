@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T18:21:33+03:00</pubDate>
-        <lastBuildDate>2024-05-26T18:21:33+03:00</lastBuildDate>
+        <pubDate>2024-05-26T18:55:18+03:00</pubDate>
+        <lastBuildDate>2024-05-26T18:55:18+03:00</lastBuildDate>
 
         <item>
+	<title>Aladdin Travel Guide (Northeast Wyoming/Wyoming/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/wyoming/northeast-wyoming/aladdin/</link>
+	<description>Discover the culturally important attractions, natural wonders, hiking and biking routes, food and drink scenes, local customs, safety precautions, and transportation options available in Aladdin, Wyoming — your gateway to the Rocky Mountains.</description>
+	<pubDate>2024-05-26T18:55:18+03:00</pubDate>
+</item><item>
 	<title>Lichinga Travel Guide (Northern Mozambique/Mozambique/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/mozambique/northern-mozambique/lichinga/</link>
 	<description>Plan an unforgettable trip to Lichinga, Northern Mozambique with helpful information on attractions, activities, accommodation, transportation and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/black-forest/baiersbronn/</link>
 	<description>Discover what to do, eat, and see in Baiersbronn, a vibrant town located in the heart of the Black Forest in Germany. Use our comprehensive travel guide to plan your getaway and make the most of your trip.</description>
 	<pubDate>2024-05-26T14:32:16+03:00</pubDate>
-</item><item>
-	<title>Shirahama Travel Guide (Wakayama (prefecture)/Kansai/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/wakayama-prefecture/shirahama/</link>
-	<description>Discover everything you need to know about Shirahama in Wakayama, Japan. Explore the natural attractions, cultural landmarks, food scene, and local customs. Plan your dream vacation with our detailed guide.</description>
-	<pubDate>2024-05-26T14:00:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
