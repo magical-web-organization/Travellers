@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T10:45:34+03:00</pubDate>
-        <lastBuildDate>2024-05-26T10:45:34+03:00</lastBuildDate>
+        <pubDate>2024-05-26T11:18:08+03:00</pubDate>
+        <lastBuildDate>2024-05-26T11:18:08+03:00</lastBuildDate>
 
         <item>
+	<title>Ammanford Travel Guide (Carmarthenshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/carmarthenshire/ammanford/</link>
+	<description>Plan your trip to Ammanford with our comprehensive guide. Discover the best things to do, where to stay, how to get around, and more.</description>
+	<pubDate>2024-05-26T11:18:08+03:00</pubDate>
+</item><item>
 	<title>Nilo Peçanha Travel Guide (South/Bahia/Northeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/south/nilo-pecanha/</link>
 	<description>Plan your trip to Nilo Peçanha, a hidden gem in South Bahia, Brazil. Explore its natural beauty, local culture, and delicious food. Learn about the best things to do, where to stay, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/istanbul/asian-side/</link>
 	<description>Discover the best places to visit, food to eat, cultural sites to explore, and more in Asian Side, Istanbul, Turkey.</description>
 	<pubDate>2024-05-26T06:43:17+03:00</pubDate>
-</item><item>
-	<title>Nilai Travel Guide (Negeri Sembilan/West Coast/Malaysia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/negeri-sembilan/nilai/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Nilai, Malaysia. Learn about the culture and customs, transportation options, safety tips, and nearby excursions in this comprehensive guide.</description>
-	<pubDate>2024-05-26T06:08:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
