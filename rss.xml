@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T05:59:55+03:00</pubDate>
-        <lastBuildDate>2024-05-26T05:59:55+03:00</lastBuildDate>
+        <pubDate>2024-05-26T06:08:47+03:00</pubDate>
+        <lastBuildDate>2024-05-26T06:08:47+03:00</lastBuildDate>
 
         <item>
+	<title>Nilai Travel Guide (Negeri Sembilan/West Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/negeri-sembilan/nilai/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Nilai, Malaysia. Learn about the culture and customs, transportation options, safety tips, and nearby excursions in this comprehensive guide.</description>
+	<pubDate>2024-05-26T06:08:47+03:00</pubDate>
+</item><item>
 	<title>North Myrtle Beach Travel Guide (Grand Strand/South Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/grand-strand/north-myrtle-beach/</link>
 	<description>Explore North Myrtle Beach with our comprehensive guide. Discover the top attractions, activities, food, accommodations, and travel tips for a memorable trip to this beautiful coastal city in South Carolina.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/mpumalanga/waterval-boven/</link>
 	<description>Planning a visit to Waterval Boven? Our comprehensive guide covers everything from top attractions to culturally important landmarks and local customs.</description>
 	<pubDate>2024-05-26T01:59:13+03:00</pubDate>
-</item><item>
-	<title>Eixample Travel Guide (Barcelona/Barcelona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/barcelona/eixample/</link>
-	<description>Discover Eixample, Barcelona through this detailed travel guide which covers the must-visit attractions, best things to do, week-long itinerary, food and drink scene, local culture, safety and health, transportation options, nearby destinations, and more.</description>
-	<pubDate>2024-05-26T01:13:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
