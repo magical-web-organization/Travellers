@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-26T15:39:23+03:00</pubDate>
-        <lastBuildDate>2024-05-26T15:39:23+03:00</lastBuildDate>
+        <pubDate>2024-05-26T16:03:35+03:00</pubDate>
+        <lastBuildDate>2024-05-26T16:03:35+03:00</lastBuildDate>
 
         <item>
+	<title>Pennsville Travel Guide (Salem County/Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/salem-county/pennsville/</link>
+	<description>Discover the culture, history, natural beauty, local cuisine, and transportation options of Pennsville in New Jersey, USA. Plan your trip with our detailed itinerary and tips.</description>
+	<pubDate>2024-05-26T16:03:35+03:00</pubDate>
+</item><item>
 	<title>Dingboche Travel Guide (Khumbu/Himalayas/Nepal/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/nepal/himalayas/khumbu/dingboche/</link>
 	<description>Planning a trip to Dingboche? Our comprehensive guide covers the best attractions, things to do, where to stay, local culture, transport options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/delmarva-peninsula/</link>
 	<description>Planning a trip to Delmarva Peninsula? Read on for a comprehensive guide featuring the best cultural attractions, natural attractions, hiking/biking routes, activities, food and drink scenes, where to stay, what to buy and more.</description>
 	<pubDate>2024-05-26T11:35:52+03:00</pubDate>
-</item><item>
-	<title>Ammanford Travel Guide (Carmarthenshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/carmarthenshire/ammanford/</link>
-	<description>Plan your trip to Ammanford with our comprehensive guide. Discover the best things to do, where to stay, how to get around, and more.</description>
-	<pubDate>2024-05-26T11:18:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
