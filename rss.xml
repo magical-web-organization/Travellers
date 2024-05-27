@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-27T07:29:10+03:00</pubDate>
-        <lastBuildDate>2024-05-27T07:29:10+03:00</lastBuildDate>
+        <pubDate>2024-05-27T07:53:45+03:00</pubDate>
+        <lastBuildDate>2024-05-27T07:53:45+03:00</lastBuildDate>
 
         <item>
+	<title>Parakou Travel Guide (Northern Benin/Benin/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/benin/northern-benin/parakou/</link>
+	<description>Planning a trip to Parakou, Benin? Here's everything you need to know, including which attractions to visit, where to stay, what to eat, and more!</description>
+	<pubDate>2024-05-27T07:53:45+03:00</pubDate>
+</item><item>
 	<title>Simultala Travel Guide (Magadha/Bihar/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/simultala/</link>
 	<description>Read about the top places to visit, must-try food, local customs, safety tips, and transportation options when visiting Simultala, Bihar.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/santa-clarita-valley/magic-mountain/</link>
 	<description>Planning a trip to Magic Mountain? Our comprehensive tour guide covers everything you need to know about this amusement park, including places to visit, hiking/biking routes, best things to do, where to stay, and more.</description>
 	<pubDate>2024-05-27T02:37:11+03:00</pubDate>
-</item><item>
-	<title>North Travel Guide (Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/north/</link>
-	<description>A comprehensive travel guide for North Tokyo, including its famous attractions, best activities, where to stay, what to buy, local culture and customs, safety and health precautions, transportation options, and nearby destinations.</description>
-	<pubDate>2024-05-27T02:32:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
