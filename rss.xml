@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-27T04:39:35+03:00</pubDate>
-        <lastBuildDate>2024-05-27T04:39:35+03:00</lastBuildDate>
+        <pubDate>2024-05-27T05:26:21+03:00</pubDate>
+        <lastBuildDate>2024-05-27T05:26:21+03:00</lastBuildDate>
 
         <item>
+	<title>Sardroud Travel Guide (Iranian Azerbaijan/Iran/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iran/iranian-azerbaijan/sardroud/</link>
+	<description>Plan your trip to Sardroud with this comprehensive travel guide featuring information on places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-27T05:26:21+03:00</pubDate>
+</item><item>
 	<title>Billericay Travel Guide (Essex/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/essex/billericay/</link>
 	<description>Are you planning to visit Billericay? This comprehensive guide covers everything you need to know, including top things to do, places to visit, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/mozambique/northern-mozambique/ibo/</link>
 	<description>Plan your trip to Ibo, Mozambique with this comprehensive guide that includes top attractions, hiking/biking routes, food and drinks, where to stay, local culture, safety and health, and transportation options.</description>
 	<pubDate>2024-05-27T00:06:26+03:00</pubDate>
-</item><item>
-	<title>Chorefto Travel Guide (Northeast Pelion/Mount Pelion/Magnesia/Thessaly/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/mount-pelion/northeast-pelion/chorefto/</link>
-	<description>Discover the best things to do and see in Chorefto, Greece, with our comprehensive guide. Explore natural attractions, hiking and biking routes, local culture, food and drink scene, and more.</description>
-	<pubDate>2024-05-26T23:42:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
