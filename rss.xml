@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-27T02:37:11+03:00</pubDate>
-        <lastBuildDate>2024-05-27T02:37:11+03:00</lastBuildDate>
+        <pubDate>2024-05-27T03:33:28+03:00</pubDate>
+        <lastBuildDate>2024-05-27T03:33:28+03:00</lastBuildDate>
 
         <item>
+	<title>San Juan Del Norte Travel Guide (Rio San Juan Region/Nicaragua/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/rio-san-juan-region/san-juan-del-norte/</link>
+	<description>Plan an unforgettable trip to San Juan Del Norte with this comprehensive travel guide. Find information on must-see attractions, outdoor adventures, cultural experiences, food and drink, and transportation options.</description>
+	<pubDate>2024-05-27T03:33:28+03:00</pubDate>
+</item><item>
 	<title>Magic Mountain Travel Guide (Santa Clarita Valley/Los Angeles/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/santa-clarita-valley/magic-mountain/</link>
 	<description>Planning a trip to Magic Mountain? Our comprehensive tour guide covers everything you need to know about this amusement park, including places to visit, hiking/biking routes, best things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/nassau-county/flower-hill/</link>
 	<description>Explore the top attractions, activities, and natural wonders in Flower Hill, New York. Discover the best places to visit, eat, and stay in this comprehensive travel guide.</description>
 	<pubDate>2024-05-26T22:41:07+03:00</pubDate>
-</item><item>
-	<title>Conwy Travel Guide (Conwy (county borough)/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/conwy-county-borough/conwy/</link>
-	<description>Plan your perfect trip to Conwy, North Wales with this comprehensive travel guide featuring top attractions, must-visit places, hiking and biking routes, food and drink scene, where to stay, and much more.</description>
-	<pubDate>2024-05-26T22:17:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
