@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-27T08:26:49+03:00</pubDate>
-        <lastBuildDate>2024-05-27T08:26:49+03:00</lastBuildDate>
+        <pubDate>2024-05-27T08:33:45+03:00</pubDate>
+        <lastBuildDate>2024-05-27T08:33:45+03:00</lastBuildDate>
 
         <item>
+	<title>Madison Travel Guide (Greater Madison Area/Southwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/greater-madison-area/madison/</link>
+	<description>Discover the best places to visit, things to do, and local culture and customs of Madison, Wisconsin, in this comprehensive tour guide.</description>
+	<pubDate>2024-05-27T08:33:45+03:00</pubDate>
+</item><item>
 	<title>Bethlehem Travel Guide (West Bank/Palestinian territories/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/palestinian-territories/west-bank/bethlehem/</link>
 	<description>Discover the best things to do and see in Bethlehem with this comprehensive travel guide. Learn about the local culture, where to stay, what to buy, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/memphis/</link>
 	<description>Plan your trip to Memphis with this comprehensive travel guide that includes information on the best things to see and do, where to stay, and what to eat.</description>
 	<pubDate>2024-05-27T04:04:21+03:00</pubDate>
-</item><item>
-	<title>San Juan Del Norte Travel Guide (Rio San Juan Region/Nicaragua/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/rio-san-juan-region/san-juan-del-norte/</link>
-	<description>Plan an unforgettable trip to San Juan Del Norte with this comprehensive travel guide. Find information on must-see attractions, outdoor adventures, cultural experiences, food and drink, and transportation options.</description>
-	<pubDate>2024-05-27T03:33:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
