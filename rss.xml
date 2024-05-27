@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-27T05:43:22+03:00</pubDate>
-        <lastBuildDate>2024-05-27T05:43:22+03:00</lastBuildDate>
+        <pubDate>2024-05-27T06:09:10+03:00</pubDate>
+        <lastBuildDate>2024-05-27T06:09:10+03:00</lastBuildDate>
 
         <item>
+	<title>Urho Kekkonen National Park Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/urho-kekkonen-national-park/</link>
+	<description>Discover the best cultural and natural attractions, food scenes, hikes, and biking routes, safety tips, transportation options, and nearby destinations in Urho Kekkonen National Park, the largest national park in Finland.</description>
+	<pubDate>2024-05-27T06:09:10+03:00</pubDate>
+</item><item>
 	<title>Katowice Travel Guide (Silesian Voivodeship/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/katowice/</link>
 	<description>Discover the best of Katowice with our comprehensive travel guide with information on the top places to visit, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/schliersee/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Schliersee with our comprehensive travel guide.</description>
 	<pubDate>2024-05-27T01:05:52+03:00</pubDate>
-</item><item>
-	<title>Zhongzheng Travel Guide (Taipei/Northern Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/taipei/zhongzheng/</link>
-	<description>Discover the top attractions, best things to do, hiking/biking routes, where to stay, what to eat, local culture and customs, safety tips, and transportation options for Zhongzheng in Taipei, Taiwan.</description>
-	<pubDate>2024-05-27T00:35:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
