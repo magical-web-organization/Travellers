@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-28T20:18:31+03:00</pubDate>
-        <lastBuildDate>2024-05-28T20:18:31+03:00</lastBuildDate>
+        <pubDate>2024-05-28T20:51:38+03:00</pubDate>
+        <lastBuildDate>2024-05-28T20:51:38+03:00</lastBuildDate>
 
         <item>
+	<title>Nantucket Travel Guide (Cape Cod/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/nantucket/</link>
+	<description>Discover everything you need to know to plan a memorable trip to Nantucket, including tourist attractions, hiking/biking routes, accommodation options, food and drink scene, local culture and customs, safety and health tips, and more.</description>
+	<pubDate>2024-05-28T20:51:38+03:00</pubDate>
+</item><item>
 	<title>Luwuk Travel Guide (Central Sulawesi/Sulawesi/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sulawesi/central-sulawesi/luwuk/</link>
 	<description>Discover the best natural attractions, culture, food, and more in this comprehensive travel guide to Luwuk, Indonesia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/jan-mayen/</link>
 	<description>Discover Jan Mayen, Norway with our comprehensive travel guide. From natural attractions and outdoor adventures to cultural hotspots and local cuisine, plan your perfect trip to this Nordic island.</description>
 	<pubDate>2024-05-28T16:28:22+03:00</pubDate>
-</item><item>
-	<title>The Battlefords Travel Guide (West Central Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/west-central-saskatchewan/the-battlefords/</link>
-	<description>Discover the best places to visit, things to do, and where to eat and stay in The Battlefords with this comprehensive travel guide.</description>
-	<pubDate>2024-05-28T15:44:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
