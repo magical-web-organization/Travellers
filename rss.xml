@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-28T19:10:04+03:00</pubDate>
-        <lastBuildDate>2024-05-28T19:10:04+03:00</lastBuildDate>
+        <pubDate>2024-05-28T19:38:35+03:00</pubDate>
+        <lastBuildDate>2024-05-28T19:38:35+03:00</lastBuildDate>
 
         <item>
+	<title>Fontana Travel Guide (San Bernardino County/Desert/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/san-bernardino-county/fontana/</link>
+	<description>Looking for a complete travel guide to Fontana, CA? Look no further! Our guide includes detailed information on attractions, dining, accommodations, safety, and much more. Check it out now!</description>
+	<pubDate>2024-05-28T19:38:35+03:00</pubDate>
+</item><item>
 	<title>Downtown Travel Guide (Cincinnati/Hamilton County/Greater Cincinnati/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/hamilton-county/cincinnati/downtown/</link>
 	<description>Discover the best things to see and do in Downtown, Cincinnati with our comprehensive travel guide. From cultural attractions to natural landmarks, hiking and biking routes, local cuisine to accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/nassau-county/farmingdale-new-york/</link>
 	<description>This comprehensive travel guide provides information on places to visit, activities, food and drink, accommodations, and local culture in Farmingdale (New York).</description>
 	<pubDate>2024-05-28T15:18:04+03:00</pubDate>
-</item><item>
-	<title>Balanga Travel Guide (Gombe State/North East Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/gombe-state/balanga/</link>
-	<description>Discover the top attractions, outdoor adventures, cultural landmarks, and food spots of Balanga in Nigeria with this comprehensive travel guide.</description>
-	<pubDate>2024-05-28T14:44:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
