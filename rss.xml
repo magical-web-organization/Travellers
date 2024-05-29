@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T18:56:35+03:00</pubDate>
-        <lastBuildDate>2024-05-29T18:56:35+03:00</lastBuildDate>
+        <pubDate>2024-05-29T19:29:22+03:00</pubDate>
+        <lastBuildDate>2024-05-29T19:29:22+03:00</lastBuildDate>
 
         <item>
+	<title>Prescott Travel Guide (Seaway Region/Eastern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/seaway-region/prescott/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local tips in Prescott. Plan your trip to this scenic and cultured town in Eastern Ontario today.</description>
+	<pubDate>2024-05-29T19:29:22+03:00</pubDate>
+</item><item>
 	<title>Triângulo Mineiro Travel Guide (Minas Gerais/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/minas-gerais/triangulo-mineiro/</link>
 	<description>Discover the rich history, vibrant culture, stunning scenery, and delicious cuisine of the Triângulo Mineiro region in Minas Gerais, Brazil, with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/romania/maramures/borsa/</link>
 	<description>Discover the beautiful town of Borșa, Romania with our comprehensive travel guide. We'll show you the best places to visit, where to stay, what to eat, and more! Plan your trip to Borșa today.</description>
 	<pubDate>2024-05-29T14:49:44+03:00</pubDate>
-</item><item>
-	<title>Barraba Travel Guide (Southern New England/New England/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/southern-new-england/barraba/</link>
-	<description>Plan a visit to Barraba with this comprehensive travel guide! Explore the cultural attractions, natural beauty, hiking and biking routes, delicious food scene, accommodation, and transportation options in this charming town.</description>
-	<pubDate>2024-05-29T14:20:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
