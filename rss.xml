@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T08:52:09+03:00</pubDate>
-        <lastBuildDate>2024-05-29T08:52:09+03:00</lastBuildDate>
+        <pubDate>2024-05-29T09:13:05+03:00</pubDate>
+        <lastBuildDate>2024-05-29T09:13:05+03:00</lastBuildDate>
 
         <item>
+	<title>Souss-Massa National Park Travel Guide (South Atlantic Coast/Morocco/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/morocco/south-atlantic-coast/souss-massa-national-park/</link>
+	<description>Discover Souss-Massa National Park, Morocco's hidden gem. Explore museums, historical sites, natural attractions, hiking and biking routes, food and drink scene, where to stay, what to buy, local culture and customs, and more.</description>
+	<pubDate>2024-05-29T09:13:05+03:00</pubDate>
+</item><item>
 	<title>San Andrés Travel Guide (Colombian Islands/Colombia/South America)</title>
 	<link>https://travellers.wiki/en/south-america/colombia/colombian-islands/san-andres/</link>
 	<description>A comprehensive travel guide for San Andrés, including attractions, activities, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/shannan-prefecture/</link>
 	<description>Shannan (prefecture) is a hidden gem in Tibet, with its rich history, amazing natural scenery, and cultural significance. In this comprehensive travel guide, we've laid out everything you need to know about Shannan (prefecture) - places to visit, hiking/biking routes, food, accommodations, local culture and customs, safety, and nearby destinations.</description>
 	<pubDate>2024-05-29T04:35:30+03:00</pubDate>
-</item><item>
-	<title>Teshima Travel Guide (Kagawa/Shikoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/kagawa/teshima/</link>
-	<description>Explore Teshima, Japan with this comprehensive travel guide featuring must-see attractions, outdoor adventures, food, accommodations, culture, transportation, and more.</description>
-	<pubDate>2024-05-29T04:20:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
