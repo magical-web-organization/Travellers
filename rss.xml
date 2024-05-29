@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T06:34:22+03:00</pubDate>
-        <lastBuildDate>2024-05-29T06:34:22+03:00</lastBuildDate>
+        <pubDate>2024-05-29T07:18:54+03:00</pubDate>
+        <lastBuildDate>2024-05-29T07:18:54+03:00</lastBuildDate>
 
         <item>
+	<title>Lagoa do Carro Travel Guide (Zona da Mata/Pernambuco/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/zona-da-mata/lagoa-do-carro/</link>
+	<description>Discover the culturally rich and naturally beautiful Lagoa do Carro in Pernambuco, Brazil. This travel guide provides insights to attractions, food scene, accommodation, and transportation options.</description>
+	<pubDate>2024-05-29T07:18:54+03:00</pubDate>
+</item><item>
 	<title>Canaima National Park Travel Guide (La Gran Sabana/Bolívar (state)/Guayana/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/guayana/bolivar-state/la-gran-sabana/canaima-national-park/</link>
 	<description>Discover the best things to do, places to visit, where to stay and more in Canaima National Park, Venezuela. Plan your trip with our helpful travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/colombia/pacifica/cauca/tierradentro/</link>
 	<description>Tierradentro is a hidden gem in Colombia's Cauca region, known for its archaeological sites, beautiful landscapes, and welcoming locals. Here is your ultimate guide to visiting Tierradentro.</description>
 	<pubDate>2024-05-29T02:55:02+03:00</pubDate>
-</item><item>
-	<title>Skomer Travel Guide (Pembrokeshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/pembrokeshire/skomer/</link>
-	<description>Discover the best things to do, places to stay, and local culture of Skomer Island in Wales with our comprehensive travel guide.</description>
-	<pubDate>2024-05-29T02:12:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
