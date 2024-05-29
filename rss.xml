@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T13:35:05+03:00</pubDate>
-        <lastBuildDate>2024-05-29T13:35:05+03:00</lastBuildDate>
+        <pubDate>2024-05-29T14:20:54+03:00</pubDate>
+        <lastBuildDate>2024-05-29T14:20:54+03:00</lastBuildDate>
 
         <item>
+	<title>Barraba Travel Guide (Southern New England/New England/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/southern-new-england/barraba/</link>
+	<description>Plan a visit to Barraba with this comprehensive travel guide! Explore the cultural attractions, natural beauty, hiking and biking routes, delicious food scene, accommodation, and transportation options in this charming town.</description>
+	<pubDate>2024-05-29T14:20:54+03:00</pubDate>
+</item><item>
 	<title>Tonopah Travel Guide (Southern Nevada/Nevada/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/nevada/southern-nevada/tonopah/</link>
 	<description>Plan your trip to Tonopah, Nevada with our comprehensive travel guide. Discover the best tourist attractions, outdoor activities, accommodations, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/helsinki/eastern-suburbs/</link>
 	<description>Explore the culturally important attractions, natural sights, hiking/biking routes, food scene, and local culture of Eastern suburbs with our comprehensive tour guide.</description>
 	<pubDate>2024-05-29T09:48:11+03:00</pubDate>
-</item><item>
-	<title>Souss-Massa National Park Travel Guide (South Atlantic Coast/Morocco/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/morocco/south-atlantic-coast/souss-massa-national-park/</link>
-	<description>Discover Souss-Massa National Park, Morocco's hidden gem. Explore museums, historical sites, natural attractions, hiking and biking routes, food and drink scene, where to stay, what to buy, local culture and customs, and more.</description>
-	<pubDate>2024-05-29T09:13:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
