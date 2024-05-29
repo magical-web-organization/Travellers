@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T11:16:50+03:00</pubDate>
-        <lastBuildDate>2024-05-29T11:16:50+03:00</lastBuildDate>
+        <pubDate>2024-05-29T11:53:31+03:00</pubDate>
+        <lastBuildDate>2024-05-29T11:53:31+03:00</lastBuildDate>
 
         <item>
+	<title>Pančevo Travel Guide (Vojvodina/Serbia/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/serbia/vojvodina/pancevo/</link>
+	<description>Plan your trip to Pančevo with our comprehensive travel guide. Discover the top things to do, places to stay, and local culture of the Serbian city.</description>
+	<pubDate>2024-05-29T11:53:31+03:00</pubDate>
+</item><item>
 	<title>Winthrop Travel Guide (Greater Boston/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/winthrop/</link>
 	<description>Read this Winthrop travel guide to learn about the best places to visit, things to do, where to stay, local culture, and more in this charming coastal town in Massachusetts.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/zona-da-mata/lagoa-do-carro/</link>
 	<description>Discover the culturally rich and naturally beautiful Lagoa do Carro in Pernambuco, Brazil. This travel guide provides insights to attractions, food scene, accommodation, and transportation options.</description>
 	<pubDate>2024-05-29T07:18:54+03:00</pubDate>
-</item><item>
-	<title>Canaima National Park Travel Guide (La Gran Sabana/Bolívar (state)/Guayana/Venezuela/South America)</title>
-	<link>https://travellers.wiki/en/south-america/venezuela/guayana/bolivar-state/la-gran-sabana/canaima-national-park/</link>
-	<description>Discover the best things to do, places to visit, where to stay and more in Canaima National Park, Venezuela. Plan your trip with our helpful travel guide.</description>
-	<pubDate>2024-05-29T06:34:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
