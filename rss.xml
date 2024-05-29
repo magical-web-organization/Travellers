@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T17:24:53+03:00</pubDate>
-        <lastBuildDate>2024-05-29T17:24:53+03:00</lastBuildDate>
+        <pubDate>2024-05-29T17:40:54+03:00</pubDate>
+        <lastBuildDate>2024-05-29T17:40:54+03:00</lastBuildDate>
 
         <item>
+	<title>Annur Travel Guide (Western Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/western-tamil-nadu/annur/</link>
+	<description>Discover the best things to do, places to stay, and local dishes to try in Annur, Tamil Nadu. Follow our week-long itinerary and make the most out of your trip to this hidden gem in South India.</description>
+	<pubDate>2024-05-29T17:40:54+03:00</pubDate>
+</item><item>
 	<title>Ylitornio Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/ylitornio/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and safety tips in Ylitornio, Finland. Plan your trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-jeolla/gimje/</link>
 	<description>Explore the best places to visit, food to eat, and things to do in Gimje, South Korea. Our travel guide has all the information you need to plan a fantastic trip to this beautiful part of the country.</description>
 	<pubDate>2024-05-29T13:09:07+03:00</pubDate>
-</item><item>
-	<title>Mont-de-Marsan Travel Guide (Landes/Nouvelle-Aquitaine/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/landes/mont-de-marsan/</link>
-	<description>Plan your trip to Mont-de-Marsan with this helpful travel guide, featuring a list of places to visit, hiking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-05-29T12:59:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
