@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T16:44:46+03:00</pubDate>
-        <lastBuildDate>2024-05-29T16:44:46+03:00</lastBuildDate>
+        <pubDate>2024-05-29T17:24:53+03:00</pubDate>
+        <lastBuildDate>2024-05-29T17:24:53+03:00</lastBuildDate>
 
         <item>
+	<title>Ylitornio Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/ylitornio/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and safety tips in Ylitornio, Finland. Plan your trip now!</description>
+	<pubDate>2024-05-29T17:24:53+03:00</pubDate>
+</item><item>
 	<title>Lee Vining Travel Guide (Mono County/Eastern Sierra/Sierra Nevada/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sierra-nevada/eastern-sierra/mono-county/lee-vining/</link>
 	<description>Plan your trip to Lee Vining with this comprehensive travel guide, including things to do, where to stay, and tips for visiting.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/landes/mont-de-marsan/</link>
 	<description>Plan your trip to Mont-de-Marsan with this helpful travel guide, featuring a list of places to visit, hiking routes, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-05-29T12:59:19+03:00</pubDate>
-</item><item>
-	<title>Old Bridge Travel Guide (Middlesex County/Gateway/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/gateway/middlesex-county/old-bridge/</link>
-	<description>Learn everything you need to know about Old Bridge, NJ, from natural attractions to the best places to stay and eat. Plan your trip with our comprehensive guide.</description>
-	<pubDate>2024-05-29T12:28:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
