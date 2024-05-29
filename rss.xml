@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T11:53:31+03:00</pubDate>
-        <lastBuildDate>2024-05-29T11:53:31+03:00</lastBuildDate>
+        <pubDate>2024-05-29T12:28:34+03:00</pubDate>
+        <lastBuildDate>2024-05-29T12:28:34+03:00</lastBuildDate>
 
         <item>
+	<title>Old Bridge Travel Guide (Middlesex County/Gateway/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/gateway/middlesex-county/old-bridge/</link>
+	<description>Learn everything you need to know about Old Bridge, NJ, from natural attractions to the best places to stay and eat. Plan your trip with our comprehensive guide.</description>
+	<pubDate>2024-05-29T12:28:34+03:00</pubDate>
+</item><item>
 	<title>Pančevo Travel Guide (Vojvodina/Serbia/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/serbia/vojvodina/pancevo/</link>
 	<description>Plan your trip to Pančevo with our comprehensive travel guide. Discover the top things to do, places to stay, and local culture of the Serbian city.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/durham-region-ontario/scugog/</link>
 	<description>Plan your next trip to Scugog in Ontario, Canada with our comprehensive travel guide featuring top attractions, hiking routes, accommodations, and local culture and customs.</description>
 	<pubDate>2024-05-29T07:59:35+03:00</pubDate>
-</item><item>
-	<title>Lagoa do Carro Travel Guide (Zona da Mata/Pernambuco/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/pernambuco/zona-da-mata/lagoa-do-carro/</link>
-	<description>Discover the culturally rich and naturally beautiful Lagoa do Carro in Pernambuco, Brazil. This travel guide provides insights to attractions, food scene, accommodation, and transportation options.</description>
-	<pubDate>2024-05-29T07:18:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
