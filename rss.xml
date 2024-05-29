@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T09:48:11+03:00</pubDate>
-        <lastBuildDate>2024-05-29T09:48:11+03:00</lastBuildDate>
+        <pubDate>2024-05-29T10:18:19+03:00</pubDate>
+        <lastBuildDate>2024-05-29T10:18:19+03:00</lastBuildDate>
 
         <item>
+	<title>Chachoengsao Travel Guide (Inner Eastern Thailand/Eastern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/eastern-thailand/inner-eastern-thailand/chachoengsao/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, local customs, and logistics in Chachoengsao, Thailand, in this comprehensive guide for travelers.</description>
+	<pubDate>2024-05-29T10:18:19+03:00</pubDate>
+</item><item>
 	<title>Eastern suburbs Travel Guide (Helsinki/Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/helsinki/eastern-suburbs/</link>
 	<description>Explore the culturally important attractions, natural sights, hiking/biking routes, food scene, and local culture of Eastern suburbs with our comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/udupi-district/kapu/</link>
 	<description>Explore Kapu in Karnataka, India with our comprehensive travel guide. Find information on attractions, activities, food, accommodations, and more.</description>
 	<pubDate>2024-05-29T05:57:38+03:00</pubDate>
-</item><item>
-	<title>Nanchang Travel Guide (Jiangxi/South-central China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/jiangxi/nanchang/</link>
-	<description>Discover the best things to do and see in Nanchang with this comprehensive travel guide that covers attractions, hiking routes, food, accommodations, culture, and more.</description>
-	<pubDate>2024-05-29T05:10:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
