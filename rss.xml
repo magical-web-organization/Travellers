@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T02:32:42+03:00</pubDate>
-        <lastBuildDate>2024-05-30T02:32:42+03:00</lastBuildDate>
+        <pubDate>2024-05-30T02:52:11+03:00</pubDate>
+        <lastBuildDate>2024-05-30T02:52:11+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Laurent-des-Arbres Travel Guide (Gard/Occitanie/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/occitanie/gard/saint-laurent-des-arbres/</link>
+	<description>Explore the culturally significant museums, natural attractions, hiking/biking routes, local food and drinks, accommodation options, nearby destinations, and safety tips in Saint-Laurent-des-Arbres, France.</description>
+	<pubDate>2024-05-30T02:52:11+03:00</pubDate>
+</item><item>
 	<title>El Morro Travel Guide (Northwest New Mexico/New Mexico/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/northwest-new-mexico/el-morro/</link>
 	<description>Plan your trip to El Morro with this comprehensive travel guide. Discover the best things to do, where to stay, and local culture and customs for an unforgettable experience.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/sahel/sudan/kurdufan/</link>
 	<description>Discover the best places to visit, things to do, food to try, and culture to experience in Kurdufan, Sudan. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-05-29T22:21:51+03:00</pubDate>
-</item><item>
-	<title>Petit Martinique Travel Guide (Grenada/Lesser Antilles/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/grenada/petit-martinique/</link>
-	<description>A complete guide for visitors to Petit Martinique, including top places to visit, hiking routes, lodging options, dining options, and cultural customs.</description>
-	<pubDate>2024-05-29T21:56:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
