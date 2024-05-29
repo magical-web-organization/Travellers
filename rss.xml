@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T00:34:22+03:00</pubDate>
-        <lastBuildDate>2024-05-30T00:34:22+03:00</lastBuildDate>
+        <pubDate>2024-05-30T01:32:28+03:00</pubDate>
+        <lastBuildDate>2024-05-30T01:32:28+03:00</lastBuildDate>
 
         <item>
+	<title>Minca Travel Guide (Magdalena Department/Costa Norte/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/costa-norte/magdalena-department/minca/</link>
+	<description>Discover the best of Minca with this comprehensive travel guide. From outdoor adventures to cultural attractions, food to accommodation, safety to transportation, this guide has got you covered!</description>
+	<pubDate>2024-05-30T01:32:28+03:00</pubDate>
+</item><item>
 	<title>Dunvegan Travel Guide (Skye/Inner Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/inner-hebrides/skye/dunvegan/</link>
 	<description>A complete guide to Dunvegan in Skye, Scotland, with a list of places to visit, hiking/biking routes, best things to do, where to stay, what to buy, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/nepal/himalayas/khumbu/pangboche/</link>
 	<description>A comprehensive tour guide for Pangboche, including must-see attractions, accommodations, food, culture, safety, and transportation options.</description>
 	<pubDate>2024-05-29T20:44:37+03:00</pubDate>
-</item><item>
-	<title>Westcliffe Travel Guide (South Central Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/south-central-colorado/westcliffe/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and local customs of Westcliffe, Colorado. Read our comprehensive guide to plan your trip to this Rocky Mountain town.</description>
-	<pubDate>2024-05-29T20:15:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
