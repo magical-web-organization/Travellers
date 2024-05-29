@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-29T20:44:37+03:00</pubDate>
-        <lastBuildDate>2024-05-29T20:44:37+03:00</lastBuildDate>
+        <pubDate>2024-05-29T21:25:52+03:00</pubDate>
+        <lastBuildDate>2024-05-29T21:25:52+03:00</lastBuildDate>
 
         <item>
+	<title>Hohe Tauern National Park Travel Guide (Salzburg (state)/Austria/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/austria/salzburg-state/hohe-tauern-national-park/</link>
+	<description>Discover the best of Hohe Tauern National Park with this extensive travel guide. From culturally rich attractions to outdoor adventures and scenic views, we've got you covered with everything you need to know for your trip to Austria.</description>
+	<pubDate>2024-05-29T21:25:52+03:00</pubDate>
+</item><item>
 	<title>Pangboche Travel Guide (Khumbu/Himalayas/Nepal/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/nepal/himalayas/khumbu/pangboche/</link>
 	<description>A comprehensive tour guide for Pangboche, including must-see attractions, accommodations, food, culture, safety, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sierra-nevada/eastern-sierra/mono-county/lee-vining/</link>
 	<description>Plan your trip to Lee Vining with this comprehensive travel guide, including things to do, where to stay, and tips for visiting.</description>
 	<pubDate>2024-05-29T16:44:46+03:00</pubDate>
-</item><item>
-	<title>Pangnirtung Travel Guide (Baffin Island/Nunavut/Northern Canada/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/northern-canada/nunavut/baffin-island/pangnirtung/</link>
-	<description>Explore the best of Pangnirtung, Baffin Island, Canada in this comprehensive tour guide. Discover natural and cultural attractions, outdoor activities, and local customs.</description>
-	<pubDate>2024-05-29T16:08:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
