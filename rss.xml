@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T18:38:01+03:00</pubDate>
-        <lastBuildDate>2024-05-30T18:38:01+03:00</lastBuildDate>
+        <pubDate>2024-05-30T19:06:21+03:00</pubDate>
+        <lastBuildDate>2024-05-30T19:06:21+03:00</lastBuildDate>
 
         <item>
+	<title>Shangqiu Travel Guide (East Henan/Henan/North China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/henan/east-henan/shangqiu/</link>
+	<description>Explore the must-see attractions, best things to do, food and drink scene, getting around, and more in this comprehensive travel guide to Shangqiu, China. Discover the local culture, customs, do's and don'ts, and safety tips to make the most out of your trip.</description>
+	<pubDate>2024-05-30T19:06:21+03:00</pubDate>
+</item><item>
 	<title>San Dionisio Travel Guide (Iloilo (province)/Panay/Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/panay/iloilo-province/san-dionisio/</link>
 	<description>Discover the best places to visit, top things to do and other travel tips for San Dionisio, Iloilo with our comprehensive travel guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/kuala-lumpur/diamond-triangle/</link>
 	<description>Discover the best things to do in Diamond Triangle, Malaysia – a great destination for adventure, culture, and nature lovers.</description>
 	<pubDate>2024-05-30T14:41:03+03:00</pubDate>
-</item><item>
-	<title>Zillah Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/zillah/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Zillah, Washington with our comprehensive travel guide.</description>
-	<pubDate>2024-05-30T14:07:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
