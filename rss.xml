@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T04:36:13+03:00</pubDate>
-        <lastBuildDate>2024-05-30T04:36:13+03:00</lastBuildDate>
+        <pubDate>2024-05-30T05:17:03+03:00</pubDate>
+        <lastBuildDate>2024-05-30T05:17:03+03:00</lastBuildDate>
 
         <item>
+	<title>Uzunköprü Travel Guide (Eastern Thrace/Marmara (region)/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-thrace/uzunkopru/</link>
+	<description>Planning a trip to Uzunköprü? Discover the historical, natural, and cultural attractions, food, accommodation, and transportation options in this comprehensive travel guide.</description>
+	<pubDate>2024-05-30T05:17:03+03:00</pubDate>
+</item><item>
 	<title>Bukit Mertajam Travel Guide (Penang/West Coast/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/penang/bukit-mertajam/</link>
 	<description>Get ready to explore Bukit Mertajam with our comprehensive travel guide. Discover top attractions, activities, food, and culture. Learn how to get around and stay safe while exploring.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/inner-hebrides/skye/dunvegan/</link>
 	<description>A complete guide to Dunvegan in Skye, Scotland, with a list of places to visit, hiking/biking routes, best things to do, where to stay, what to buy, safety and health, and transportation options.</description>
 	<pubDate>2024-05-30T00:34:22+03:00</pubDate>
-</item><item>
-	<title>Macaé Travel Guide (North (Rio de Janeiro)/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/north-rio-de-janeiro/macae/</link>
-	<description>Plan your vacation to Macaé with our comprehensive travel guide featuring places to visit, hiking/biking routes, food and drink scene, local culture, safety information, and more.</description>
-	<pubDate>2024-05-30T00:07:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
