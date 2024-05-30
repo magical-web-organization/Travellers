@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T18:29:38+03:00</pubDate>
-        <lastBuildDate>2024-05-30T18:29:38+03:00</lastBuildDate>
+        <pubDate>2024-05-30T18:38:01+03:00</pubDate>
+        <lastBuildDate>2024-05-30T18:38:01+03:00</lastBuildDate>
 
         <item>
+	<title>San Dionisio Travel Guide (Iloilo (province)/Panay/Visayas/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/panay/iloilo-province/san-dionisio/</link>
+	<description>Discover the best places to visit, top things to do and other travel tips for San Dionisio, Iloilo with our comprehensive travel guide!</description>
+	<pubDate>2024-05-30T18:38:01+03:00</pubDate>
+</item><item>
 	<title>Keramidi Travel Guide (Magnesia/Thessaly/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/keramidi/</link>
 	<description>Plan your trip to Keramidi, Greece with our comprehensive travel guide featuring information on places to visit, where to stay, things to do, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/zillah/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Zillah, Washington with our comprehensive travel guide.</description>
 	<pubDate>2024-05-30T14:07:03+03:00</pubDate>
-</item><item>
-	<title>Port Klang Travel Guide (Selangor/West Coast/Malaysia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/selangor/port-klang/</link>
-	<description>Discover the best places to visit, hike, eat and stay in Port Klang, Malaysia. Learn about their culture, customs, and transportation options to make the most out of your trip.</description>
-	<pubDate>2024-05-30T13:45:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
