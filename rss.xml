@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T02:52:11+03:00</pubDate>
-        <lastBuildDate>2024-05-30T02:52:11+03:00</lastBuildDate>
+        <pubDate>2024-05-30T03:18:24+03:00</pubDate>
+        <lastBuildDate>2024-05-30T03:18:24+03:00</lastBuildDate>
 
         <item>
+	<title>Zhouzhuang Travel Guide (Jiangsu/East China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/jiangsu/zhouzhuang/</link>
+	<description>Plan your trip to Zhouzhuang with this comprehensive guide featuring essential travel information and a list of things to do, places to see, and where to eat, stay, and go next.</description>
+	<pubDate>2024-05-30T03:18:24+03:00</pubDate>
+</item><item>
 	<title>Saint-Laurent-des-Arbres Travel Guide (Gard/Occitanie/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/occitanie/gard/saint-laurent-des-arbres/</link>
 	<description>Explore the culturally significant museums, natural attractions, hiking/biking routes, local food and drinks, accommodation options, nearby destinations, and safety tips in Saint-Laurent-des-Arbres, France.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/deltona/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Deltona, Florida. From outdoor adventures to cultural attractions, this comprehensive travel guide has everything you need to plan your trip.</description>
 	<pubDate>2024-05-29T22:45:46+03:00</pubDate>
-</item><item>
-	<title>Kurdufan Travel Guide (Sudan/Sahel/Africa)</title>
-	<link>https://travellers.wiki/en/africa/sahel/sudan/kurdufan/</link>
-	<description>Discover the best places to visit, things to do, food to try, and culture to experience in Kurdufan, Sudan. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-05-29T22:21:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
