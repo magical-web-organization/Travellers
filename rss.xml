@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T11:30:09+03:00</pubDate>
-        <lastBuildDate>2024-05-30T11:30:09+03:00</lastBuildDate>
+        <pubDate>2024-05-30T11:53:45+03:00</pubDate>
+        <lastBuildDate>2024-05-30T11:53:45+03:00</lastBuildDate>
 
         <item>
+	<title>Rochester Travel Guide (Northern Indiana/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northern-indiana/rochester/</link>
+	<description>A comprehensive travel guide to Rochester, Indiana, with information on places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-30T11:53:45+03:00</pubDate>
+</item><item>
 	<title>Crișana Travel Guide (Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/crisana/</link>
 	<description>This travel guide provides an extensive overview of Crișana, Romania, including information on landmarks, activities, food and drink, accommodations, local culture, safety, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/lake-superior-north-shore/white-river/</link>
 	<description>Discover the best places to visit, hike, and stay in White River, Northern Ontario, including cultural attractions, outdoor adventures, and delicious local cuisine. Plan your trip with this in-depth travel guide.</description>
 	<pubDate>2024-05-30T07:28:05+03:00</pubDate>
-</item><item>
-	<title>Gràcia Travel Guide (Barcelona/Barcelona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/barcelona/gracia/</link>
-	<description>Explore the best of Gràcia, Barcelona with this comprehensive travel guide. Discover the top attractions, things to do, dining options, and much more for an unforgettable vacation.</description>
-	<pubDate>2024-05-30T06:44:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
