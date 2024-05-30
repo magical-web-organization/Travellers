@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T20:29:36+03:00</pubDate>
-        <lastBuildDate>2024-05-30T20:29:36+03:00</lastBuildDate>
+        <pubDate>2024-05-30T20:46:56+03:00</pubDate>
+        <lastBuildDate>2024-05-30T20:46:56+03:00</lastBuildDate>
 
         <item>
+	<title>Llandrindod Wells Travel Guide (Powys/Mid Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/mid-wales/powys/llandrindod-wells/</link>
+	<description>Plan your trip to Llandrindod Wells with this comprehensive travel guide. Explore the natural beauty, cultural attractions, food scene, and local customs of the charming town in Mid Wales.</description>
+	<pubDate>2024-05-30T20:46:56+03:00</pubDate>
+</item><item>
 	<title>Auray Travel Guide (Brittany/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/brittany/auray/</link>
 	<description>Start planning your trip to Auray, France with this comprehensive travel guide. Learn about the best things to do, places to stay, and where to eat in this charming town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/costa-rica/central-valley/san-ramon/</link>
 	<description>Discover the natural beauty and rich culture of San Ramon in Costa Rica with our comprehensive tour guide. Plan your trip with our guide on the best things to see, do, and experience in San Ramon.</description>
 	<pubDate>2024-05-30T16:15:20+03:00</pubDate>
-</item><item>
-	<title>Whittier Travel Guide (Kenai Peninsula/Southcentral Alaska/Alaska/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southcentral-alaska/kenai-peninsula/whittier/</link>
-	<description>Discover the best things to do in Whittier, Alaska with this comprehensive travel guide covering hiking/biking routes, natural attractions, must-try dishes, transportation options, and much more!</description>
-	<pubDate>2024-05-30T15:35:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
