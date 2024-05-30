@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T07:28:05+03:00</pubDate>
-        <lastBuildDate>2024-05-30T07:28:05+03:00</lastBuildDate>
+        <pubDate>2024-05-30T07:59:02+03:00</pubDate>
+        <lastBuildDate>2024-05-30T07:59:02+03:00</lastBuildDate>
 
         <item>
+	<title>Saint Vincent Travel Guide (Saint Vincent and the Grenadines/Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/saint-vincent-and-the-grenadines/saint-vincent/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to eat, and tips for staying safe in Saint Vincent. Plan your trip today!</description>
+	<pubDate>2024-05-30T07:59:02+03:00</pubDate>
+</item><item>
 	<title>White River Travel Guide (Lake Superior North Shore/Northern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/lake-superior-north-shore/white-river/</link>
 	<description>Discover the best places to visit, hike, and stay in White River, Northern Ontario, including cultural attractions, outdoor adventures, and delicious local cuisine. Plan your trip with this in-depth travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/jiangsu/zhouzhuang/</link>
 	<description>Plan your trip to Zhouzhuang with this comprehensive guide featuring essential travel information and a list of things to do, places to see, and where to eat, stay, and go next.</description>
 	<pubDate>2024-05-30T03:18:24+03:00</pubDate>
-</item><item>
-	<title>Saint-Laurent-des-Arbres Travel Guide (Gard/Occitanie/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/occitanie/gard/saint-laurent-des-arbres/</link>
-	<description>Explore the culturally significant museums, natural attractions, hiking/biking routes, local food and drinks, accommodation options, nearby destinations, and safety tips in Saint-Laurent-des-Arbres, France.</description>
-	<pubDate>2024-05-30T02:52:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
