@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T06:44:24+03:00</pubDate>
-        <lastBuildDate>2024-05-30T06:44:24+03:00</lastBuildDate>
+        <pubDate>2024-05-30T07:28:05+03:00</pubDate>
+        <lastBuildDate>2024-05-30T07:28:05+03:00</lastBuildDate>
 
         <item>
+	<title>White River Travel Guide (Lake Superior North Shore/Northern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/lake-superior-north-shore/white-river/</link>
+	<description>Discover the best places to visit, hike, and stay in White River, Northern Ontario, including cultural attractions, outdoor adventures, and delicious local cuisine. Plan your trip with this in-depth travel guide.</description>
+	<pubDate>2024-05-30T07:28:05+03:00</pubDate>
+</item><item>
 	<title>Gràcia Travel Guide (Barcelona/Barcelona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/barcelona/gracia/</link>
 	<description>Explore the best of Gràcia, Barcelona with this comprehensive travel guide. Discover the top attractions, things to do, dining options, and much more for an unforgettable vacation.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/occitanie/gard/saint-laurent-des-arbres/</link>
 	<description>Explore the culturally significant museums, natural attractions, hiking/biking routes, local food and drinks, accommodation options, nearby destinations, and safety tips in Saint-Laurent-des-Arbres, France.</description>
 	<pubDate>2024-05-30T02:52:11+03:00</pubDate>
-</item><item>
-	<title>El Morro Travel Guide (Northwest New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/northwest-new-mexico/el-morro/</link>
-	<description>Plan your trip to El Morro with this comprehensive travel guide. Discover the best things to do, where to stay, and local culture and customs for an unforgettable experience.</description>
-	<pubDate>2024-05-30T02:32:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
