@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T00:51:32+03:00</pubDate>
-        <lastBuildDate>2024-05-31T00:51:32+03:00</lastBuildDate>
+        <pubDate>2024-05-31T01:14:45+03:00</pubDate>
+        <lastBuildDate>2024-05-31T01:14:45+03:00</lastBuildDate>
 
         <item>
+	<title>Saugatuck Travel Guide (Lake Michigan Beachtowns/West Michigan/Michigan/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/lake-michigan-beachtowns/saugatuck/</link>
+	<description>Discover the natural attractions, things to do, and cultural experiences in Saugatuck. From must-visit landmarks, local cuisine, accommodations, to transportations, this comprehensive guide has everything you need to know before planning your trip.</description>
+	<pubDate>2024-05-31T01:14:45+03:00</pubDate>
+</item><item>
 	<title>Ludwigsfelde Travel Guide (Brandenburg/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/brandenburg/ludwigsfelde/</link>
 	<description>Everything you need to know to plan a trip to Ludwigsfelde, Germany – from top attractions and outdoor activities to local culture, food, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/mid-wales/powys/llandrindod-wells/</link>
 	<description>Plan your trip to Llandrindod Wells with this comprehensive travel guide. Explore the natural beauty, cultural attractions, food scene, and local customs of the charming town in Mid Wales.</description>
 	<pubDate>2024-05-30T20:46:56+03:00</pubDate>
-</item><item>
-	<title>Auray Travel Guide (Brittany/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/brittany/auray/</link>
-	<description>Start planning your trip to Auray, France with this comprehensive travel guide. Learn about the best things to do, places to stay, and where to eat in this charming town.</description>
-	<pubDate>2024-05-30T20:29:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
