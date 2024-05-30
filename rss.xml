@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T16:55:23+03:00</pubDate>
-        <lastBuildDate>2024-05-30T16:55:23+03:00</lastBuildDate>
+        <pubDate>2024-05-30T17:09:09+03:00</pubDate>
+        <lastBuildDate>2024-05-30T17:09:09+03:00</lastBuildDate>
 
         <item>
+	<title>Workum Travel Guide (Friesland/Northern Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/friesland/workum/</link>
+	<description>Discover the best things to do, where to stay and eat, how to get here, and more with our travel guide to Workum, Netherlands.</description>
+	<pubDate>2024-05-30T17:09:09+03:00</pubDate>
+</item><item>
 	<title>Tofino Travel Guide (Central Vancouver Island/Vancouver Island/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/central-vancouver-island/tofino/</link>
 	<description>Discover the best things to see, do, and experience in Tofino, Vancouver Island. Find out where to stay, eat, and shop. Learn about the local culture, safety, and transportation options in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/westchester-county/new-rochelle/</link>
 	<description>Discover the best things to see, do, eat, and experience in New Rochelle, NY with this comprehensive travel guide. From cultural attractions to outdoor adventures, you'll find everything you need to plan the perfect trip.</description>
 	<pubDate>2024-05-30T13:00:39+03:00</pubDate>
-</item><item>
-	<title>Merredin Travel Guide (Wheatbelt/Western Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/western-australia/wheatbelt/merredin/</link>
-	<description>Plan your visit to Merredin in Western Australia with our comprehensive travel guide. Discover cultural and natural attractions, hiking routes, activities, food and drink, accommodations, and more!</description>
-	<pubDate>2024-05-30T12:31:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
