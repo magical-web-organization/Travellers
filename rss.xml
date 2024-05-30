@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T14:07:03+03:00</pubDate>
-        <lastBuildDate>2024-05-30T14:07:03+03:00</lastBuildDate>
+        <pubDate>2024-05-30T14:41:03+03:00</pubDate>
+        <lastBuildDate>2024-05-30T14:41:03+03:00</lastBuildDate>
 
         <item>
+	<title>Diamond Triangle Travel Guide (Kuala Lumpur/West Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/kuala-lumpur/diamond-triangle/</link>
+	<description>Discover the best things to do in Diamond Triangle, Malaysia – a great destination for adventure, culture, and nature lovers.</description>
+	<pubDate>2024-05-30T14:41:03+03:00</pubDate>
+</item><item>
 	<title>Zillah Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/zillah/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Zillah, Washington with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southeastern-alaska/skagway/</link>
 	<description>Your ultimate travel guide to Skagway, Alaska. Discover the best attractions, activities, accommodations, and food - plus insider tips for exploring this beautiful corner of Alaska.</description>
 	<pubDate>2024-05-30T10:30:37+03:00</pubDate>
-</item><item>
-	<title>Sidmouth Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/sidmouth/</link>
-	<description>Discover all the things to do, see, and experience in Sidmouth, Devon. This guide provides an overview of the must-visit attractions, hiking and biking routes, food and drink scene, where to stay, local customs, safety and health, transportation options and logistics, and nearby destinations.</description>
-	<pubDate>2024-05-30T09:52:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
