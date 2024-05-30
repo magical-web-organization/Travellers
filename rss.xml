@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T10:40:40+03:00</pubDate>
-        <lastBuildDate>2024-05-30T10:40:40+03:00</lastBuildDate>
+        <pubDate>2024-05-30T11:30:09+03:00</pubDate>
+        <lastBuildDate>2024-05-30T11:30:09+03:00</lastBuildDate>
 
         <item>
+	<title>Crișana Travel Guide (Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/crisana/</link>
+	<description>This travel guide provides an extensive overview of Crișana, Romania, including information on landmarks, activities, food and drink, accommodations, local culture, safety, and transportation options.</description>
+	<pubDate>2024-05-30T11:30:09+03:00</pubDate>
+</item><item>
 	<title>Tvrdošín Travel Guide (Orava/Central Slovakia/Slovakia/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/orava/tvrdosin/</link>
 	<description>Get the best information on Tvrdošín, Slovakia with this comprehensive travel guide covering everything from the best places to visit to the local cultural customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/barcelona/gracia/</link>
 	<description>Explore the best of Gràcia, Barcelona with this comprehensive travel guide. Discover the top attractions, things to do, dining options, and much more for an unforgettable vacation.</description>
 	<pubDate>2024-05-30T06:44:24+03:00</pubDate>
-</item><item>
-	<title>Durfort Travel Guide (Tarn/Occitanie/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/occitanie/tarn/durfort/</link>
-	<description>Discover the best of Durfort with our comprehensive travel guide. Explore cultural attractions, natural wonders, hiking routes, food and drink scene, and much more.</description>
-	<pubDate>2024-05-30T06:14:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
