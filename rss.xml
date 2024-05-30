@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-30T22:38:04+03:00</pubDate>
-        <lastBuildDate>2024-05-30T22:38:04+03:00</lastBuildDate>
+        <pubDate>2024-05-30T23:03:33+03:00</pubDate>
+        <lastBuildDate>2024-05-30T23:03:33+03:00</lastBuildDate>
 
         <item>
+	<title>Médanos de Coro National Park Travel Guide (Falcón/Northwest/Venezuela/South America)</title>
+	<link>https://travellers.wiki/en/south-america/venezuela/northwest/falcon/medanos-de-coro-national-park/</link>
+	<description>Discover the natural and cultural wonders of Médanos de Coro National Park in Venezuela with our detailed travel guide, featuring outdoor adventures, must-visit attractions, local cuisine and more.</description>
+	<pubDate>2024-05-30T23:03:33+03:00</pubDate>
+</item><item>
 	<title>Islas Paridas Travel Guide (Pacific West/Panama/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/islas-paridas/</link>
 	<description>Discover Islas Paridas in Panama. Find tips on the best hikes, scenic views, local foods, and souvenirs to bring home.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/panay/iloilo-province/san-dionisio/</link>
 	<description>Discover the best places to visit, top things to do and other travel tips for San Dionisio, Iloilo with our comprehensive travel guide!</description>
 	<pubDate>2024-05-30T18:38:01+03:00</pubDate>
-</item><item>
-	<title>Keramidi Travel Guide (Magnesia/Thessaly/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/keramidi/</link>
-	<description>Plan your trip to Keramidi, Greece with our comprehensive travel guide featuring information on places to visit, where to stay, things to do, and more.</description>
-	<pubDate>2024-05-30T18:29:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
