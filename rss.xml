@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T19:43:29+03:00</pubDate>
-        <lastBuildDate>2024-05-31T19:43:29+03:00</lastBuildDate>
+        <pubDate>2024-05-31T20:09:33+03:00</pubDate>
+        <lastBuildDate>2024-05-31T20:09:33+03:00</lastBuildDate>
 
         <item>
+	<title>Bekal Travel Guide (Kasaragod District/Malabar/Kerala/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kasaragod-district/bekal/</link>
+	<description>Discover the top attractions, food and drink, where to stay, and tips for visiting Bekal in Kerala, India.</description>
+	<pubDate>2024-05-31T20:09:33+03:00</pubDate>
+</item><item>
 	<title>Teignmouth Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/teignmouth/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and other useful travel tips in Teignmouth, England.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/izu-islands/miyakejima/</link>
 	<description>Discover the best things to do, places to stay, and where to eat in Miyakejima, a stunning volcanic island located in Tokyo, Japan.</description>
 	<pubDate>2024-05-31T15:35:01+03:00</pubDate>
-</item><item>
-	<title>Dzhugdzhursky Nature Reserve Travel Guide (Khabarovsk Krai/Russian Far East/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/khabarovsk-krai/dzhugdzhursky-nature-reserve/</link>
-	<description>Discover the scenic beauty of Dzhugdzhursky Nature Reserve with our comprehensive travel guide. Read about the must-visit places, hiking routes, food and drink scene, local culture, safety tips and more.</description>
-	<pubDate>2024-05-31T15:26:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
