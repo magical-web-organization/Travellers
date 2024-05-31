@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T15:35:01+03:00</pubDate>
-        <lastBuildDate>2024-05-31T15:35:01+03:00</lastBuildDate>
+        <pubDate>2024-05-31T16:20:22+03:00</pubDate>
+        <lastBuildDate>2024-05-31T16:20:22+03:00</lastBuildDate>
 
         <item>
+	<title>Johnston Atoll Travel Guide (Polynesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/polynesia/johnston-atoll/</link>
+	<description>Explore the best places to visit, things to do, food to try, where to stay, and how to get around in Johnston Atoll, Polynesia, Oceania.</description>
+	<pubDate>2024-05-31T16:20:22+03:00</pubDate>
+</item><item>
 	<title>Miyakejima Travel Guide (Izu Islands/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/izu-islands/miyakejima/</link>
 	<description>Discover the best things to do, places to stay, and where to eat in Miyakejima, a stunning volcanic island located in Tokyo, Japan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/shapinsay/</link>
 	<description>Discover the beauty of Shapinsay Island with our comprehensive travel guide, featuring top attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-05-31T11:57:06+03:00</pubDate>
-</item><item>
-	<title>Quy Nhon Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/quy-nhon/</link>
-	<description>Discover Quy Nhon, Vietnam with our comprehensive travel guide. Find information on the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-05-31T11:26:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
