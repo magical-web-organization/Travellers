@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T11:01:19+03:00</pubDate>
-        <lastBuildDate>2024-05-31T11:01:19+03:00</lastBuildDate>
+        <pubDate>2024-05-31T11:26:28+03:00</pubDate>
+        <lastBuildDate>2024-05-31T11:26:28+03:00</lastBuildDate>
 
         <item>
+	<title>Quy Nhon Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/quy-nhon/</link>
+	<description>Discover Quy Nhon, Vietnam with our comprehensive travel guide. Find information on the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-05-31T11:26:28+03:00</pubDate>
+</item><item>
 	<title>Mohe Travel Guide (Heilongjiang/Northeast China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/mohe/</link>
 	<description>Plan your visit to Mohe with this travel guide featuring natural attractions, outdoor adventures, cultural landmarks, dining options, and transportation information.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/san-joaquin-county/manteca/</link>
 	<description>Explore the culturally and naturally rich Manteca with must-visit places, things to do, and food scene. Plan your tour with our week-long itinerary and get insights into local customs, safety, health, transportation, and nearby excursions.</description>
 	<pubDate>2024-05-31T06:33:38+03:00</pubDate>
-</item><item>
-	<title>Jigme Khesar Strict Nature Reserve Travel Guide (Western Bhutan/Bhutan/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/bhutan/western-bhutan/jigme-khesar-strict-nature-reserve/</link>
-	<description>Explore the culturally rich and scenic picturesque Jigme Khesar Strict Nature Reserve in Bhutan, and discover adventure, history, and local flavor.</description>
-	<pubDate>2024-05-31T06:15:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
