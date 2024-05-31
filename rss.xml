@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T08:46:12+03:00</pubDate>
-        <lastBuildDate>2024-05-31T08:46:12+03:00</lastBuildDate>
+        <pubDate>2024-05-31T09:31:47+03:00</pubDate>
+        <lastBuildDate>2024-05-31T09:31:47+03:00</lastBuildDate>
 
         <item>
+	<title>Gustine Travel Guide (Merced County/San Joaquin Valley/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/merced-county/gustine/</link>
+	<description>Plan your trip to Gustine with this comprehensive tour guide featuring top attractions, activities, accommodations, food and drink scene, local culture, safety tips, transportation options, and nearby destinations.</description>
+	<pubDate>2024-05-31T09:31:47+03:00</pubDate>
+</item><item>
 	<title>Ivvavik National Park Travel Guide (Yukon/Northern Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/northern-canada/yukon/ivvavik-national-park/</link>
 	<description>Plan your trip to Ivvavik National Park with this comprehensive travel guide. Discover the top attractions, activities, hiking routes, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-litoral/ourem/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Ourém. Explore the enchanting culture, taste local cuisine, and learn about the customs of the locals. Plan your trip with our comprehensive guide to Ourém.</description>
 	<pubDate>2024-05-31T04:53:00+03:00</pubDate>
-</item><item>
-	<title>Garigal National Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/garigal-national-park/</link>
-	<description>Discover the natural beauty and cultural attractions of Garigal National Park with our comprehensive guide. From hiking trails and outdoor adventures to local food and drink, we've got you covered.</description>
-	<pubDate>2024-05-31T04:15:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
