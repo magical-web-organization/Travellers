@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T07:11:31+03:00</pubDate>
-        <lastBuildDate>2024-05-31T07:11:31+03:00</lastBuildDate>
+        <pubDate>2024-05-31T07:34:32+03:00</pubDate>
+        <lastBuildDate>2024-05-31T07:34:32+03:00</lastBuildDate>
 
         <item>
+	<title>Hobbs Travel Guide (Southeast New Mexico/New Mexico/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southeast-new-mexico/hobbs/</link>
+	<description>Plan your trip to Hobbs with this comprehensive travel guide featuring the best things to do, places to visit, where to stay, and more.</description>
+	<pubDate>2024-05-31T07:34:32+03:00</pubDate>
+</item><item>
 	<title>Avon Travel Guide (Nine-County Region/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/nine-county-region/avon/</link>
 	<description>Explore the best of Avon! Discover top things to do, places to visit, where to stay, what to eat, and more in this ultimate guide to Avon, Indiana.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/antsiranana-province/masoala-national-park/</link>
 	<description>A comprehensive tour guide for Masoala National Park, including attractions, activities, food and drink scene, where to stay, transportation options, and more.</description>
 	<pubDate>2024-05-31T03:28:12+03:00</pubDate>
-</item><item>
-	<title>South Boston Travel Guide (Boston/Greater Boston/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/boston/south-boston/</link>
-	<description>Discover the culturally rich South Boston with our exhaustive travel guide that covers everything from must-visit places and things to do, to food, culture and safety.</description>
-	<pubDate>2024-05-31T03:03:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
