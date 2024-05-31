@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T00:06:24+03:00</pubDate>
-        <lastBuildDate>2024-06-01T00:06:24+03:00</lastBuildDate>
+        <pubDate>2024-06-01T00:33:43+03:00</pubDate>
+        <lastBuildDate>2024-06-01T00:33:43+03:00</lastBuildDate>
 
         <item>
+	<title>City West Travel Guide (Berlin/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/berlin/city-west/</link>
+	<description>Discover the best attractions, activities, and local culture of City West in Berlin, Germany, with this comprehensive tour guide. Learn where to stay, what to eat, and how to get around while experiencing the vibrant energy of this Central European city.</description>
+	<pubDate>2024-06-01T00:33:43+03:00</pubDate>
+</item><item>
 	<title>Samut Sakhon Travel Guide (West of Bangkok/Central Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/west-of-bangkok/samut-sakhon/</link>
 	<description>Discover the best places to visit, things to do, where to eat, and how to get around in Samut Sakhon, Thailand with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kasaragod-district/bekal/</link>
 	<description>Discover the top attractions, food and drink, where to stay, and tips for visiting Bekal in Kerala, India.</description>
 	<pubDate>2024-05-31T20:09:33+03:00</pubDate>
-</item><item>
-	<title>Teignmouth Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/teignmouth/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and other useful travel tips in Teignmouth, England.</description>
-	<pubDate>2024-05-31T19:43:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
