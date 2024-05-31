@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T14:56:28+03:00</pubDate>
-        <lastBuildDate>2024-05-31T14:56:28+03:00</lastBuildDate>
+        <pubDate>2024-05-31T15:26:57+03:00</pubDate>
+        <lastBuildDate>2024-05-31T15:26:57+03:00</lastBuildDate>
 
         <item>
+	<title>Dzhugdzhursky Nature Reserve Travel Guide (Khabarovsk Krai/Russian Far East/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/khabarovsk-krai/dzhugdzhursky-nature-reserve/</link>
+	<description>Discover the scenic beauty of Dzhugdzhursky Nature Reserve with our comprehensive travel guide. Read about the must-visit places, hiking routes, food and drink scene, local culture, safety tips and more.</description>
+	<pubDate>2024-05-31T15:26:57+03:00</pubDate>
+</item><item>
 	<title>Kävlinge Travel Guide (Scania/Götaland/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/scania/kavlinge/</link>
 	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, food and drink scene, where to stay, and much more in Kävlinge, Sweden.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/mohe/</link>
 	<description>Plan your visit to Mohe with this travel guide featuring natural attractions, outdoor adventures, cultural landmarks, dining options, and transportation information.</description>
 	<pubDate>2024-05-31T11:01:19+03:00</pubDate>
-</item><item>
-	<title>Pangkal Pinang Travel Guide (Bangka-Belitung/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/bangka-belitung/pangkal-pinang/</link>
-	<description>Plan your trip to Pangkal Pinang with our comprehensive travel guide. Discover the best things to do, see, eat, and where to stay.</description>
-	<pubDate>2024-05-31T10:28:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
