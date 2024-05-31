@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T03:28:12+03:00</pubDate>
-        <lastBuildDate>2024-05-31T03:28:12+03:00</lastBuildDate>
+        <pubDate>2024-05-31T03:47:01+03:00</pubDate>
+        <lastBuildDate>2024-05-31T03:47:01+03:00</lastBuildDate>
 
         <item>
+	<title>Carrollton (Georgia) Travel Guide (West High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/west-high-country/carrollton-georgia/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and how to get around in Carrollton, Georgia.</description>
+	<pubDate>2024-05-31T03:47:01+03:00</pubDate>
+</item><item>
 	<title>Masoala National Park Travel Guide (Antsiranana Province/Madagascar/East African Islands/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/antsiranana-province/masoala-national-park/</link>
 	<description>A comprehensive tour guide for Masoala National Park, including attractions, activities, food and drink scene, where to stay, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/venezuela/northwest/falcon/medanos-de-coro-national-park/</link>
 	<description>Discover the natural and cultural wonders of Médanos de Coro National Park in Venezuela with our detailed travel guide, featuring outdoor adventures, must-visit attractions, local cuisine and more.</description>
 	<pubDate>2024-05-30T23:03:33+03:00</pubDate>
-</item><item>
-	<title>Islas Paridas Travel Guide (Pacific West/Panama/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/islas-paridas/</link>
-	<description>Discover Islas Paridas in Panama. Find tips on the best hikes, scenic views, local foods, and souvenirs to bring home.</description>
-	<pubDate>2024-05-30T22:38:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
