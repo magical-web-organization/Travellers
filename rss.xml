@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T06:15:31+03:00</pubDate>
-        <lastBuildDate>2024-05-31T06:15:31+03:00</lastBuildDate>
+        <pubDate>2024-05-31T06:33:38+03:00</pubDate>
+        <lastBuildDate>2024-05-31T06:33:38+03:00</lastBuildDate>
 
         <item>
+	<title>Manteca Travel Guide (San Joaquin County/San Joaquin Valley/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/san-joaquin-county/manteca/</link>
+	<description>Explore the culturally and naturally rich Manteca with must-visit places, things to do, and food scene. Plan your tour with our week-long itinerary and get insights into local customs, safety, health, transportation, and nearby excursions.</description>
+	<pubDate>2024-05-31T06:33:38+03:00</pubDate>
+</item><item>
 	<title>Jigme Khesar Strict Nature Reserve Travel Guide (Western Bhutan/Bhutan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/bhutan/western-bhutan/jigme-khesar-strict-nature-reserve/</link>
 	<description>Explore the culturally rich and scenic picturesque Jigme Khesar Strict Nature Reserve in Bhutan, and discover adventure, history, and local flavor.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/eastern-kansas/overland-park/</link>
 	<description>Discover the best things to do, places to visit, and local culture of Overland Park with our comprehensive travel guide.</description>
 	<pubDate>2024-05-31T02:25:11+03:00</pubDate>
-</item><item>
-	<title>Girdwood Travel Guide (Southcentral Alaska/Alaska/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southcentral-alaska/girdwood/</link>
-	<description>Plan your trip to Girdwood, Alaska with our ultimate travel guide. Explore the best things to do, where to stay, places to visit, hikes, and more.</description>
-	<pubDate>2024-05-31T01:38:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
