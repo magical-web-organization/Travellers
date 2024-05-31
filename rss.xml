@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T05:21:40+03:00</pubDate>
-        <lastBuildDate>2024-05-31T05:21:40+03:00</lastBuildDate>
+        <pubDate>2024-05-31T05:46:08+03:00</pubDate>
+        <lastBuildDate>2024-05-31T05:46:08+03:00</lastBuildDate>
 
         <item>
+	<title>Fort Frances Travel Guide (Northwestern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northwestern-ontario/fort-frances/</link>
+	<description>A comprehensive travel guide for Fort Frances, including a list of places to visit, activities to try, where to stay, and safety tips.</description>
+	<pubDate>2024-05-31T05:46:08+03:00</pubDate>
+</item><item>
 	<title>Nagu Travel Guide (Archipelago Sea/Finland Proper/West Coast/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/archipelago-sea/nagu/</link>
 	<description>Plan your perfect trip to Nagu with our comprehensive travel guide. Discover the best things to do, places to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/lake-michigan-beachtowns/saugatuck/</link>
 	<description>Discover the natural attractions, things to do, and cultural experiences in Saugatuck. From must-visit landmarks, local cuisine, accommodations, to transportations, this comprehensive guide has everything you need to know before planning your trip.</description>
 	<pubDate>2024-05-31T01:14:45+03:00</pubDate>
-</item><item>
-	<title>Ludwigsfelde Travel Guide (Brandenburg/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/brandenburg/ludwigsfelde/</link>
-	<description>Everything you need to know to plan a trip to Ludwigsfelde, Germany – from top attractions and outdoor activities to local culture, food, and transportation options.</description>
-	<pubDate>2024-05-31T00:51:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
