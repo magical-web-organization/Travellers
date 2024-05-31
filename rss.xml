@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T05:46:08+03:00</pubDate>
-        <lastBuildDate>2024-05-31T05:46:08+03:00</lastBuildDate>
+        <pubDate>2024-05-31T06:15:31+03:00</pubDate>
+        <lastBuildDate>2024-05-31T06:15:31+03:00</lastBuildDate>
 
         <item>
+	<title>Jigme Khesar Strict Nature Reserve Travel Guide (Western Bhutan/Bhutan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/bhutan/western-bhutan/jigme-khesar-strict-nature-reserve/</link>
+	<description>Explore the culturally rich and scenic picturesque Jigme Khesar Strict Nature Reserve in Bhutan, and discover adventure, history, and local flavor.</description>
+	<pubDate>2024-05-31T06:15:31+03:00</pubDate>
+</item><item>
 	<title>Fort Frances Travel Guide (Northwestern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northwestern-ontario/fort-frances/</link>
 	<description>A comprehensive travel guide for Fort Frances, including a list of places to visit, activities to try, where to stay, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southcentral-alaska/girdwood/</link>
 	<description>Plan your trip to Girdwood, Alaska with our ultimate travel guide. Explore the best things to do, where to stay, places to visit, hikes, and more.</description>
 	<pubDate>2024-05-31T01:38:52+03:00</pubDate>
-</item><item>
-	<title>Saugatuck Travel Guide (Lake Michigan Beachtowns/West Michigan/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/lake-michigan-beachtowns/saugatuck/</link>
-	<description>Discover the natural attractions, things to do, and cultural experiences in Saugatuck. From must-visit landmarks, local cuisine, accommodations, to transportations, this comprehensive guide has everything you need to know before planning your trip.</description>
-	<pubDate>2024-05-31T01:14:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
