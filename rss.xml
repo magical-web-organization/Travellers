@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T19:24:01+03:00</pubDate>
-        <lastBuildDate>2024-05-31T19:24:01+03:00</lastBuildDate>
+        <pubDate>2024-05-31T19:43:29+03:00</pubDate>
+        <lastBuildDate>2024-05-31T19:43:29+03:00</lastBuildDate>
 
         <item>
+	<title>Teignmouth Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/teignmouth/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and other useful travel tips in Teignmouth, England.</description>
+	<pubDate>2024-05-31T19:43:29+03:00</pubDate>
+</item><item>
 	<title>Spanish North Africa Travel Guide (North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/spanish-north-africa/</link>
 	<description>Discover the best of Spanish North Africa with our comprehensive travel guide, featuring top attractions, itinerary suggestions, food and drink recommendations, and practical tips for a safe and enjoyable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/khabarovsk-krai/dzhugdzhursky-nature-reserve/</link>
 	<description>Discover the scenic beauty of Dzhugdzhursky Nature Reserve with our comprehensive travel guide. Read about the must-visit places, hiking routes, food and drink scene, local culture, safety tips and more.</description>
 	<pubDate>2024-05-31T15:26:57+03:00</pubDate>
-</item><item>
-	<title>Kävlinge Travel Guide (Scania/Götaland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/scania/kavlinge/</link>
-	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, food and drink scene, where to stay, and much more in Kävlinge, Sweden.</description>
-	<pubDate>2024-05-31T14:56:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
