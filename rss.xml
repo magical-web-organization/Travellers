@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T03:47:01+03:00</pubDate>
-        <lastBuildDate>2024-05-31T03:47:01+03:00</lastBuildDate>
+        <pubDate>2024-05-31T04:15:41+03:00</pubDate>
+        <lastBuildDate>2024-05-31T04:15:41+03:00</lastBuildDate>
 
         <item>
+	<title>Garigal National Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/garigal-national-park/</link>
+	<description>Discover the natural beauty and cultural attractions of Garigal National Park with our comprehensive guide. From hiking trails and outdoor adventures to local food and drink, we've got you covered.</description>
+	<pubDate>2024-05-31T04:15:41+03:00</pubDate>
+</item><item>
 	<title>Carrollton (Georgia) Travel Guide (West High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/west-high-country/carrollton-georgia/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and how to get around in Carrollton, Georgia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/western-newfoundland/port-aux-basques/</link>
 	<description>Discover all the best places to visit, things to do, and where to eat and stay in Port aux Basques, Newfoundland and Labrador, Canada.</description>
 	<pubDate>2024-05-30T23:34:58+03:00</pubDate>
-</item><item>
-	<title>Médanos de Coro National Park Travel Guide (Falcón/Northwest/Venezuela/South America)</title>
-	<link>https://travellers.wiki/en/south-america/venezuela/northwest/falcon/medanos-de-coro-national-park/</link>
-	<description>Discover the natural and cultural wonders of Médanos de Coro National Park in Venezuela with our detailed travel guide, featuring outdoor adventures, must-visit attractions, local cuisine and more.</description>
-	<pubDate>2024-05-30T23:03:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
