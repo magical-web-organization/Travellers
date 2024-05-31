@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T21:30:24+03:00</pubDate>
-        <lastBuildDate>2024-05-31T21:30:24+03:00</lastBuildDate>
+        <pubDate>2024-05-31T21:36:24+03:00</pubDate>
+        <lastBuildDate>2024-05-31T21:36:24+03:00</lastBuildDate>
 
         <item>
+	<title>Nancy Travel Guide (Grand Est/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/grand-est/nancy/</link>
+	<description>A comprehensive travel guide to Nancy, France including things to do, places to visit, food and drink scenes, where to stay, and transportation options.</description>
+	<pubDate>2024-05-31T21:36:24+03:00</pubDate>
+</item><item>
 	<title>North Travel Guide (Jakarta/Greater Jakarta/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/greater-jakarta/jakarta/north/</link>
 	<description>Discover the best places to visit, eat, stay, and explore in North, Jakarta. Our comprehensive guide includes everything you need to know about this beautiful destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/sorocabana/sao-roque/</link>
 	<description>Discover the best places to visit, things to do, food to taste, and cultural etiquettes to follow in São Roque, Brazil. Plan your trip with our helpful travel guide.</description>
 	<pubDate>2024-05-31T17:17:23+03:00</pubDate>
-</item><item>
-	<title>Prespa Travel Guide (Western North Macedonia/North Macedonia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/western-north-macedonia/prespa/</link>
-	<description>Explore the beautiful Prespa region of North Macedonia with our comprehensive travel guide. Discover the best places to visit, things to do, and where to stay in Prespa.</description>
-	<pubDate>2024-05-31T16:41:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
