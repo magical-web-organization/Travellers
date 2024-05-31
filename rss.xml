@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T13:42:38+03:00</pubDate>
-        <lastBuildDate>2024-05-31T13:42:38+03:00</lastBuildDate>
+        <pubDate>2024-05-31T14:10:04+03:00</pubDate>
+        <lastBuildDate>2024-05-31T14:10:04+03:00</lastBuildDate>
 
         <item>
+	<title>Marinduque Travel Guide (Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/marinduque/</link>
+	<description>Discover the stunning beauty of Marinduque with this comprehensive travel guide. From natural wonders to cultural attractions and local cuisine, this guide has everything you need to plan your perfect Marinduque getaway.</description>
+	<pubDate>2024-05-31T14:10:04+03:00</pubDate>
+</item><item>
 	<title>Corolla Travel Guide (Outer Banks/North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/outer-banks/corolla/</link>
 	<description>Plan your trip to Corolla, North Carolina with this comprehensive travel guide featuring natural attractions, cultural landmarks, activities, food, and travel logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/southeastern-myanmar/payathonzu/</link>
 	<description>Discover the beauty of Payathonzu, Myanmar with this guide that covers must-visit attractions, hiking and biking routes, food and drink scene, safety and health tips, and more.</description>
 	<pubDate>2024-05-31T09:52:39+03:00</pubDate>
-</item><item>
-	<title>Gustine Travel Guide (Merced County/San Joaquin Valley/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/merced-county/gustine/</link>
-	<description>Plan your trip to Gustine with this comprehensive tour guide featuring top attractions, activities, accommodations, food and drink scene, local culture, safety tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-05-31T09:31:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
