@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T01:35:40+03:00</pubDate>
-        <lastBuildDate>2024-06-01T01:35:40+03:00</lastBuildDate>
+        <pubDate>2024-06-01T02:31:45+03:00</pubDate>
+        <lastBuildDate>2024-06-01T02:31:45+03:00</lastBuildDate>
 
         <item>
+	<title>Nai Thon and Nai Yang Travel Guide (Phuket/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/phuket/nai-thon-and-nai-yang/</link>
+	<description>Plan your trip to Nai Thon and Nai Yang in Phuket, Thailand. Discover the best places to visit, where to stay, what to eat, and more!</description>
+	<pubDate>2024-06-01T02:31:45+03:00</pubDate>
+</item><item>
 	<title>Yala Travel Guide (Southern Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/southern-gulf-coast/yala/</link>
 	<description>Plan your trip to Yala, Thailand with our comprehensive travel guide. Discover the top cultural and natural attractions, food scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/grand-est/nancy/</link>
 	<description>A comprehensive travel guide to Nancy, France including things to do, places to visit, food and drink scenes, where to stay, and transportation options.</description>
 	<pubDate>2024-05-31T21:36:24+03:00</pubDate>
-</item><item>
-	<title>North Travel Guide (Jakarta/Greater Jakarta/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/greater-jakarta/jakarta/north/</link>
-	<description>Discover the best places to visit, eat, stay, and explore in North, Jakarta. Our comprehensive guide includes everything you need to know about this beautiful destination.</description>
-	<pubDate>2024-05-31T21:30:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
