@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-05-31T06:33:38+03:00</pubDate>
-        <lastBuildDate>2024-05-31T06:33:38+03:00</lastBuildDate>
+        <pubDate>2024-05-31T07:11:31+03:00</pubDate>
+        <lastBuildDate>2024-05-31T07:11:31+03:00</lastBuildDate>
 
         <item>
+	<title>Avon Travel Guide (Nine-County Region/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/nine-county-region/avon/</link>
+	<description>Explore the best of Avon! Discover top things to do, places to visit, where to stay, what to eat, and more in this ultimate guide to Avon, Indiana.</description>
+	<pubDate>2024-05-31T07:11:31+03:00</pubDate>
+</item><item>
 	<title>Manteca Travel Guide (San Joaquin County/San Joaquin Valley/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/san-joaquin-county/manteca/</link>
 	<description>Explore the culturally and naturally rich Manteca with must-visit places, things to do, and food scene. Plan your tour with our week-long itinerary and get insights into local customs, safety, health, transportation, and nearby excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/boston/south-boston/</link>
 	<description>Discover the culturally rich South Boston with our exhaustive travel guide that covers everything from must-visit places and things to do, to food, culture and safety.</description>
 	<pubDate>2024-05-31T03:03:20+03:00</pubDate>
-</item><item>
-	<title>Overland Park Travel Guide (Eastern Kansas/Kansas/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/eastern-kansas/overland-park/</link>
-	<description>Discover the best things to do, places to visit, and local culture of Overland Park with our comprehensive travel guide.</description>
-	<pubDate>2024-05-31T02:25:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
