@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T10:06:11+03:00</pubDate>
-        <lastBuildDate>2024-06-01T10:06:11+03:00</lastBuildDate>
+        <pubDate>2024-06-01T10:39:55+03:00</pubDate>
+        <lastBuildDate>2024-06-01T10:39:55+03:00</lastBuildDate>
 
         <item>
+	<title>Ploiești Travel Guide (Wallachian Plain/Muntenia/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/wallachian-plain/ploiesti/</link>
+	<description>Plan your trip to Ploiești, Romania with this comprehensive travel guide featuring top attractions, hiking routes, food and drink options, where to stay, and more.</description>
+	<pubDate>2024-06-01T10:39:55+03:00</pubDate>
+</item><item>
 	<title>East Point Travel Guide (Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/east-point/</link>
 	<description>Plan your next trip to East Point, Atlanta with our complete travel guide featuring top places to visit, hiking and biking routes, where to stay, eat and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/near-north/sudbury/</link>
 	<description>Plan the perfect trip to Sudbury with this comprehensive travel guide. From outdoor adventures to culturally-rich museums and delicious local cuisine, experience the best Sudbury has to offer.</description>
 	<pubDate>2024-06-01T06:19:27+03:00</pubDate>
-</item><item>
-	<title>Towner Travel Guide (Lakes and Gardens/North Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/lakes-and-gardens/towner/</link>
-	<description>Plan your trip to Towner, North Dakota with this comprehensive tour guide covering top attractions, hiking and biking routes, food and drink scene, local culture and customs and much more.</description>
-	<pubDate>2024-06-01T05:55:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
