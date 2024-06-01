@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T13:09:52+03:00</pubDate>
-        <lastBuildDate>2024-06-01T13:09:52+03:00</lastBuildDate>
+        <pubDate>2024-06-01T13:33:48+03:00</pubDate>
+        <lastBuildDate>2024-06-01T13:33:48+03:00</lastBuildDate>
 
         <item>
+	<title>Rome (Georgia) Travel Guide (West High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/west-high-country/rome-georgia/</link>
+	<description>Plan your trip to Rome (Georgia) with our comprehensive travel guide. Discover the best things to do, places to visit, local culture, and more!</description>
+	<pubDate>2024-06-01T13:33:48+03:00</pubDate>
+</item><item>
 	<title>Salento Travel Guide (Zona Cafetera/Andino/Colombia/South America)</title>
 	<link>https://travellers.wiki/en/south-america/colombia/andino/zona-cafetera/salento/</link>
 	<description>Plan your trip to Salento with this comprehensive travel guide. Discover the best things to do, places to visit, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/southeastern-myanmar/bokepyin/</link>
 	<description>Discover the cultural attractions, natural wonders, outdoor adventures, hiking/biking routes, food and drink scene, and more with this comprehensive travel guide to Bokepyin, Myanmar.</description>
 	<pubDate>2024-06-01T09:05:47+03:00</pubDate>
-</item><item>
-	<title>Burnham Market Travel Guide (Norfolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/norfolk/burnham-market/</link>
-	<description>Discover the charm and beauty of Burnham Market with this comprehensive travel guide featuring the best places to visit, eat, stay, and more.</description>
-	<pubDate>2024-06-01T08:53:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
