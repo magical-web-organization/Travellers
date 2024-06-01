@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T07:52:59+03:00</pubDate>
-        <lastBuildDate>2024-06-01T07:52:59+03:00</lastBuildDate>
+        <pubDate>2024-06-01T08:10:09+03:00</pubDate>
+        <lastBuildDate>2024-06-01T08:10:09+03:00</lastBuildDate>
 
         <item>
+	<title>Westport Travel Guide (West Coast/South Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/west-coast/westport/</link>
+	<description>Discover the best things to do, food and drink scene, where to stay, transportation options, local culture, and more in Westport, New Zealand. Plan your journey now with our week-long itinerary, hiking/biking routes, nearby excursions, and safety tips.</description>
+	<pubDate>2024-06-01T08:10:09+03:00</pubDate>
+</item><item>
 	<title>Morris Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/morris/</link>
 	<description>Explore Morris, a charming city that offers a mixture of cultural and natural attractions, food and drink scene, and much more. Our travel guide will lead you to the best places to visit, hike, dine, shop, and stay in Morris.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/purvanchal/sunauli/</link>
 	<description>Plan your trip to Sunauli with this comprehensive travel guide, including places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-01T03:46:24+03:00</pubDate>
-</item><item>
-	<title>Island Park Travel Guide (Eastern Idaho/Idaho/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/eastern-idaho/island-park/</link>
-	<description>Explore the best of Island Park, Idaho with our comprehensive travel guide highlighting its natural attractions, hiking/biking routes, food and drink scene, local culture, and more!</description>
-	<pubDate>2024-06-01T03:03:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
