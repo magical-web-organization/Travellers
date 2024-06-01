@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T00:15:30+03:00</pubDate>
-        <lastBuildDate>2024-06-02T00:15:30+03:00</lastBuildDate>
+        <pubDate>2024-06-02T00:38:15+03:00</pubDate>
+        <lastBuildDate>2024-06-02T00:38:15+03:00</lastBuildDate>
 
         <item>
+	<title>Parrsboro Travel Guide (Minas Basin/Nova Scotia/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/nova-scotia/minas-basin/parrsboro/</link>
+	<description>Explore the beautiful town of Parrsboro in Nova Scotia, complete with a list of places to visit, hiking and biking routes, the best things to do, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-06-02T00:38:15+03:00</pubDate>
+</item><item>
 	<title>Groom Travel Guide (High Plains/Texas Panhandle/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/high-plains/groom/</link>
 	<description>Discover everything you need to know for a trip to Groom, a charming town located in Texas Panhandle. Learn about the best things to do, where to stay, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/santorini/vothonas/</link>
 	<description>Read the ultimate Vothonas travel guide to explore the beautiful Greek island of Santorini. Get to know the history and culture, and discover the best sights and activities during your visit to Vothonas.</description>
 	<pubDate>2024-06-01T20:33:25+03:00</pubDate>
-</item><item>
-	<title>Valday Travel Guide (Novgorod Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/novgorod-oblast/valday/</link>
-	<description>Plan your perfect trip with this comprehensive travel guide to Valday, full of cultural and natural attractions, food and drink recommendations, where to stay, and transportation options.</description>
-	<pubDate>2024-06-01T19:36:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
