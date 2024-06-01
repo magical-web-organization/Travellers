@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T08:10:09+03:00</pubDate>
-        <lastBuildDate>2024-06-01T08:10:09+03:00</lastBuildDate>
+        <pubDate>2024-06-01T08:53:25+03:00</pubDate>
+        <lastBuildDate>2024-06-01T08:53:25+03:00</lastBuildDate>
 
         <item>
+	<title>Burnham Market Travel Guide (Norfolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/norfolk/burnham-market/</link>
+	<description>Discover the charm and beauty of Burnham Market with this comprehensive travel guide featuring the best places to visit, eat, stay, and more.</description>
+	<pubDate>2024-06-01T08:53:25+03:00</pubDate>
+</item><item>
 	<title>Westport Travel Guide (West Coast/South Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/west-coast/westport/</link>
 	<description>Discover the best things to do, food and drink scene, where to stay, transportation options, local culture, and more in Westport, New Zealand. Plan your journey now with our week-long itinerary, hiking/biking routes, nearby excursions, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/northern-illinois/rock-river-valley/</link>
 	<description>Explore the beautiful Rock River Valley in Northern Illinois with our comprehensive tour guide. Visit top cultural attractions, natural wonders, hiking trails, and more. Find the best places to eat, stay, and shop, and learn about the local customs and safety tips.</description>
 	<pubDate>2024-06-01T04:32:28+03:00</pubDate>
-</item><item>
-	<title>Sunauli Travel Guide (Purvanchal/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/purvanchal/sunauli/</link>
-	<description>Plan your trip to Sunauli with this comprehensive travel guide, including places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-06-01T03:46:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
