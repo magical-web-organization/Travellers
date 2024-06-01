@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T20:33:25+03:00</pubDate>
-        <lastBuildDate>2024-06-01T20:33:25+03:00</lastBuildDate>
+        <pubDate>2024-06-01T21:00:21+03:00</pubDate>
+        <lastBuildDate>2024-06-01T21:00:21+03:00</lastBuildDate>
 
         <item>
+	<title>Goshen Travel Guide (Northern Indiana/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northern-indiana/goshen/</link>
+	<description>Discover the best things to do, where to stay, what to eat and drink, and much more in Goshen, Indiana in this comprehensive travel guide.</description>
+	<pubDate>2024-06-01T21:00:21+03:00</pubDate>
+</item><item>
 	<title>Vothonas Travel Guide (Santorini/Cyclades/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/santorini/vothonas/</link>
 	<description>Read the ultimate Vothonas travel guide to explore the beautiful Greek island of Santorini. Get to know the history and culture, and discover the best sights and activities during your visit to Vothonas.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/bartlesville/</link>
 	<description>Find out the best things to do, places to visit, where to eat, and everything else you need to plan your trip to Bartlesville, Oklahoma.</description>
 	<pubDate>2024-06-01T16:04:04+03:00</pubDate>
-</item><item>
-	<title>Gulf Islands National Park Reserve Travel Guide (Southern Gulf Islands/Vancouver Island/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/vancouver-island/southern-gulf-islands/gulf-islands-national-park-reserve/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Gulf Islands National Park Reserve in British Columbia, Canada. Plan your trip with this travel guide.</description>
-	<pubDate>2024-06-01T15:56:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
