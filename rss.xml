@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T07:12:01+03:00</pubDate>
-        <lastBuildDate>2024-06-01T07:12:01+03:00</lastBuildDate>
+        <pubDate>2024-06-01T07:52:59+03:00</pubDate>
+        <lastBuildDate>2024-06-01T07:52:59+03:00</lastBuildDate>
 
         <item>
+	<title>Morris Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/morris/</link>
+	<description>Explore Morris, a charming city that offers a mixture of cultural and natural attractions, food and drink scene, and much more. Our travel guide will lead you to the best places to visit, hike, dine, shop, and stay in Morris.</description>
+	<pubDate>2024-06-01T07:52:59+03:00</pubDate>
+</item><item>
 	<title>Fort Pierce Travel Guide (Treasure Coast/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/fort-pierce/</link>
 	<description>Plan your trip to Fort Pierce with our comprehensive travel guide and discover the best things to do, places to stay, where to eat, how to get around and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/eastern-idaho/island-park/</link>
 	<description>Explore the best of Island Park, Idaho with our comprehensive travel guide highlighting its natural attractions, hiking/biking routes, food and drink scene, local culture, and more!</description>
 	<pubDate>2024-06-01T03:03:36+03:00</pubDate>
-</item><item>
-	<title>Gilford Travel Guide (Lakes Region/New Hampshire/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/lakes-region/gilford/</link>
-	<description>Explore the natural attractions, cultural landmarks, food scene, and local customs of Gilford. Discover the best things to do, places to stay, and transportation options in this comprehensive travel guide.</description>
-	<pubDate>2024-06-01T02:39:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
