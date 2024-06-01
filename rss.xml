@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T11:28:38+03:00</pubDate>
-        <lastBuildDate>2024-06-01T11:28:38+03:00</lastBuildDate>
+        <pubDate>2024-06-01T11:55:39+03:00</pubDate>
+        <lastBuildDate>2024-06-01T11:55:39+03:00</lastBuildDate>
 
         <item>
+	<title>Twentynine Palms Travel Guide (Desert/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/twentynine-palms/</link>
+	<description>Everything you need to know about Twentynine Palms, from where to stay, what to eat, and what to see and do, to local customs and safety tips.</description>
+	<pubDate>2024-06-01T11:55:39+03:00</pubDate>
+</item><item>
 	<title>Yubari Travel Guide (Central Circuit/Hokkaido/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/central-circuit/yubari/</link>
 	<description>Discover the natural attractions, cultural landmarks, local food scene, and logistics of Yubari, Japan. Plan your trip with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/fort-pierce/</link>
 	<description>Plan your trip to Fort Pierce with our comprehensive travel guide and discover the best things to do, places to stay, where to eat, how to get around and more.</description>
 	<pubDate>2024-06-01T07:12:01+03:00</pubDate>
-</item><item>
-	<title>Mount Revelstoke National Park Travel Guide (Columbia-Rockies/Kootenays/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/columbia-rockies/mount-revelstoke-national-park/</link>
-	<description>Plan your trip to Mount Revelstoke National Park with this comprehensive guide that includes information on places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, and more.</description>
-	<pubDate>2024-06-01T06:35:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
