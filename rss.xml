@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T05:29:58+03:00</pubDate>
-        <lastBuildDate>2024-06-01T05:29:58+03:00</lastBuildDate>
+        <pubDate>2024-06-01T05:55:10+03:00</pubDate>
+        <lastBuildDate>2024-06-01T05:55:10+03:00</lastBuildDate>
 
         <item>
+	<title>Towner Travel Guide (Lakes and Gardens/North Dakota/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/lakes-and-gardens/towner/</link>
+	<description>Plan your trip to Towner, North Dakota with this comprehensive tour guide covering top attractions, hiking and biking routes, food and drink scene, local culture and customs and much more.</description>
+	<pubDate>2024-06-01T05:55:10+03:00</pubDate>
+</item><item>
 	<title>Brighton Seminole Indian Reservation Travel Guide (Florida Heartland/Inland Florida/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/florida-heartland/brighton-seminole-indian-reservation/</link>
 	<description>Read this guide to learn about the culturally important attractions, natural wonders, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options in Brighton Seminole Indian Reservation.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/central-massachusetts/south-county/charlton/</link>
 	<description>Planning a trip to Charlton and want to know everything there is to do and see? This comprehensive travel guide will give you all the information you need to plan the perfect trip.</description>
 	<pubDate>2024-06-01T01:30:17+03:00</pubDate>
-</item><item>
-	<title>City West Travel Guide (Berlin/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/berlin/city-west/</link>
-	<description>Discover the best attractions, activities, and local culture of City West in Berlin, Germany, with this comprehensive tour guide. Learn where to stay, what to eat, and how to get around while experiencing the vibrant energy of this Central European city.</description>
-	<pubDate>2024-06-01T00:33:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
