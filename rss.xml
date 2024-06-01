@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-01T18:21:56+03:00</pubDate>
-        <lastBuildDate>2024-06-01T18:21:56+03:00</lastBuildDate>
+        <pubDate>2024-06-01T18:42:59+03:00</pubDate>
+        <lastBuildDate>2024-06-01T18:42:59+03:00</lastBuildDate>
 
         <item>
+	<title>Nazareth Travel Guide (Lower Galilee/Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/lower-galilee/nazareth/</link>
+	<description>This travel guide to Nazareth in Israel covers everything from places to visit, outdoor adventures, food and drink, dos and don'ts, safety, and how to get there and around.</description>
+	<pubDate>2024-06-01T18:42:59+03:00</pubDate>
+</item><item>
 	<title>Milne Bay Travel Guide (Papua New Guinea/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/papua-new-guinea/milne-bay/</link>
 	<description>Plan your trip to Milne Bay with this comprehensive travel guide featuring must-visit attractions, activities, accommodations, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/derbyshire/edale/</link>
 	<description>Plan your next trip to Edale with this comprehensive guide featuring top attractions, hiking/biking routes, food and drink scene, accommodations, and more.</description>
 	<pubDate>2024-06-01T14:04:30+03:00</pubDate>
-</item><item>
-	<title>Rome (Georgia) Travel Guide (West High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/west-high-country/rome-georgia/</link>
-	<description>Plan your trip to Rome (Georgia) with our comprehensive travel guide. Discover the best things to do, places to visit, local culture, and more!</description>
-	<pubDate>2024-06-01T13:33:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
