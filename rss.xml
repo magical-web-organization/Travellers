@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T14:06:57+03:00</pubDate>
-        <lastBuildDate>2024-06-02T14:06:57+03:00</lastBuildDate>
+        <pubDate>2024-06-02T14:59:15+03:00</pubDate>
+        <lastBuildDate>2024-06-02T14:59:15+03:00</lastBuildDate>
 
         <item>
+	<title>Flandrau State Park Travel Guide (Southern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/flandrau-state-park/</link>
+	<description>Discover the beauty of Flandrau State Park in Southern Minnesota. From outdoor adventures to cultural attractions, this travel guide has everything you need to plan the perfect trip.</description>
+	<pubDate>2024-06-02T14:59:15+03:00</pubDate>
+</item><item>
 	<title>Old Town-Mission Valley Travel Guide (San Diego/San Diego County/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/san-diego/old-town-mission-valley/</link>
 	<description>A comprehensive travel guide for Old Town-Mission Valley, including attractions, activities, accommodations, and more. Plan your trip to this historic neighborhood in San Diego.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/southwest-missouri/licking/</link>
 	<description>Explore the charming town of Licking, Missouri with this comprehensive travel guide, featuring top attractions, best things to do, where to stay and eat and more.</description>
 	<pubDate>2024-06-02T10:12:54+03:00</pubDate>
-</item><item>
-	<title>Arvilla Travel Guide (Red River Valley/North Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/red-river-valley/arvilla/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and local culture of Arvilla, North Dakota with this comprehensive travel guide.</description>
-	<pubDate>2024-06-02T10:02:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
