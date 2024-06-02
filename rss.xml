@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T16:37:05+03:00</pubDate>
-        <lastBuildDate>2024-06-02T16:37:05+03:00</lastBuildDate>
+        <pubDate>2024-06-02T17:30:55+03:00</pubDate>
+        <lastBuildDate>2024-06-02T17:30:55+03:00</lastBuildDate>
 
         <item>
+	<title>Lowell Travel Guide (Grand Rapids Area/West Michigan/Michigan/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/grand-rapids-area/lowell/</link>
+	<description>Plan your next adventure to Lowell, Michigan with our comprehensive travel guide. Explore the Grand Rapids Area with our list of must-visit cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, local culture, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-06-02T17:30:55+03:00</pubDate>
+</item><item>
 	<title>Brentwood Travel Guide (Central Tennessee/Tennessee/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/central-tennessee/brentwood/</link>
 	<description>Explore the best things to do in Brentwood, including outdoor adventures, cultural attractions, and food scenes. Read this guide to plan your visit now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-sligo/enniscrone/</link>
 	<description>Explore the best of Enniscrone, including cultural and natural attractions, food scene, accommodation options, and transportation logistics with this comprehensive travel guide.</description>
 	<pubDate>2024-06-02T12:44:25+03:00</pubDate>
-</item><item>
-	<title>Hampton Travel Guide (Hampton Roads/Eastern Virginia/Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/eastern-virginia/hampton-roads/hampton/</link>
-	<description>Visit the culturally and naturally rich city of Hampton in Virginia. Explore the museums, outdoor adventures, and culinary scene, and learn about the local customs and dos and don'ts.</description>
-	<pubDate>2024-06-02T12:15:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
