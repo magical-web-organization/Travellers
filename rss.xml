@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T03:40:27+03:00</pubDate>
-        <lastBuildDate>2024-06-02T03:40:27+03:00</lastBuildDate>
+        <pubDate>2024-06-02T04:12:03+03:00</pubDate>
+        <lastBuildDate>2024-06-02T04:12:03+03:00</lastBuildDate>
 
         <item>
+	<title>Financial District Travel Guide (Manhattan/New York City/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/new-york-city/manhattan/financial-district/</link>
+	<description>Discover the best places to visit, food and drink scene, where to stay, and tips for safety in Financial District, Manhattan, New York.</description>
+	<pubDate>2024-06-02T04:12:03+03:00</pubDate>
+</item><item>
 	<title>Diamer Travel Guide (Gilgit-Baltistan/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/gilgit-baltistan/diamer/</link>
 	<description>Plan your trip to Diamer with this comprehensive travel guide featuring top places to visit, hiking and biking routes, food and drink scene, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/north-west-province/potchefstroom/</link>
 	<description>Explore the stunning cultural and natural attractions of Potchefstroom in North West Province, South Africa. Our guide provides a comprehensive itinerary of the best places to visit, things to do, where to eat and stay, and more. Plan your dream adventure today!</description>
 	<pubDate>2024-06-01T23:41:23+03:00</pubDate>
-</item><item>
-	<title>St. Francisville Travel Guide (Florida Parishes/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/florida-parishes/st-francisville/</link>
-	<description>Plan your perfect trip to St. Francisville, Louisiana with this comprehensive travel guide. Discover the best things to do, places to stay and explore, and much more.</description>
-	<pubDate>2024-06-01T23:10:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
