@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T18:12:46+03:00</pubDate>
-        <lastBuildDate>2024-06-02T18:12:46+03:00</lastBuildDate>
+        <pubDate>2024-06-02T18:58:32+03:00</pubDate>
+        <lastBuildDate>2024-06-02T18:58:32+03:00</lastBuildDate>
 
         <item>
+	<title>Torre Annunziata Travel Guide (Metropolitan Naples/Campania/Southern Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/metropolitan-naples/torre-annunziata/</link>
+	<description>Plan your trip to Torre Annunziata, Italy with ease using this informative guide featuring top attractions, must-try dishes, transportation options, and more.</description>
+	<pubDate>2024-06-02T18:58:32+03:00</pubDate>
+</item><item>
 	<title>Covington Travel Guide (Northern Ohio River Region/Kentucky/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/northern-ohio-river-region/covington/</link>
 	<description>Discover the best things to do and see in Covington, including its cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/san-diego/old-town-mission-valley/</link>
 	<description>A comprehensive travel guide for Old Town-Mission Valley, including attractions, activities, accommodations, and more. Plan your trip to this historic neighborhood in San Diego.</description>
 	<pubDate>2024-06-02T14:06:57+03:00</pubDate>
-</item><item>
-	<title>Forest of Bowland Travel Guide (Lancashire/North West England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/lancashire/forest-of-bowland/</link>
-	<description>Discover the beauty of Forest of Bowland in Lancashire, UK through this comprehensive travel guide. Learn about the places to visit, activities to do, food and drink scene, local culture, safety tips, and more.</description>
-	<pubDate>2024-06-02T14:02:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
