@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T06:48:36+03:00</pubDate>
-        <lastBuildDate>2024-06-02T06:48:36+03:00</lastBuildDate>
+        <pubDate>2024-06-02T07:12:05+03:00</pubDate>
+        <lastBuildDate>2024-06-02T07:12:05+03:00</lastBuildDate>
 
         <item>
+	<title>Wenatchee Travel Guide (North Cascades/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/wenatchee/</link>
+	<description>Discover the beauty of Wenatchee with this comprehensive travel guide. From outdoor adventures to cultural attractions, this guide provides everything you need to plan the perfect trip to Wenatchee.</description>
+	<pubDate>2024-06-02T07:12:05+03:00</pubDate>
+</item><item>
 	<title>Wyckoff Travel Guide (Bergen County/Gateway/New Jersey/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/gateway/bergen-county/wyckoff/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with this ultimate travel guide for Wyckoff, New Jersey.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/southwest-louisiana/jennings/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Jennings, Louisiana with our in-depth tour guide.</description>
 	<pubDate>2024-06-02T02:52:15+03:00</pubDate>
-</item><item>
-	<title>Vilhena Travel Guide (Rondônia/North/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/north/rondonia/vilhena/</link>
-	<description>Plan your trip to Vilhena with this comprehensive travel guide that includes information on places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-06-02T02:20:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
