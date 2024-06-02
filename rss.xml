@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T19:39:11+03:00</pubDate>
-        <lastBuildDate>2024-06-02T19:39:11+03:00</lastBuildDate>
+        <pubDate>2024-06-02T20:20:35+03:00</pubDate>
+        <lastBuildDate>2024-06-02T20:20:35+03:00</lastBuildDate>
 
         <item>
+	<title>Grosseto Travel Guide (Grosseto (province)/Tuscany/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/grosseto-province/grosseto/</link>
+	<description>Explore the best of Grosseto with our comprehensive travel guide. Discover the top attractions, best places to stay, local cuisine, and much more. Learn about the culture, customs, and logistics of this beautiful destination in Tuscany, Italy.</description>
+	<pubDate>2024-06-02T20:20:35+03:00</pubDate>
+</item><item>
 	<title>Lake Placid Travel Guide (Florida Heartland/Inland Florida/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/florida-heartland/lake-placid/</link>
 	<description>Discover the beautiful Lake Placid, its cultural and natural landmarks, best things to do, eating and drinking scene, where to stay, and more in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/colyton/</link>
 	<description>Plan the perfect trip to Colyton with this comprehensive travel guide. Discover the best places to visit, activities, food, and more in Colyton, Devon, UK.</description>
 	<pubDate>2024-06-02T16:00:44+03:00</pubDate>
-</item><item>
-	<title>County Leitrim Travel Guide (Northwest Ireland and Lakelands/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-leitrim/</link>
-	<description>Discover the best attractions, activities, and accommodations in County Leitrim, Ireland. Uncover local culture, cuisine, and insider tips for a perfect vacation.</description>
-	<pubDate>2024-06-02T15:20:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
