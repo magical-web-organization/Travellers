@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T08:53:54+03:00</pubDate>
-        <lastBuildDate>2024-06-02T08:53:54+03:00</lastBuildDate>
+        <pubDate>2024-06-02T09:29:12+03:00</pubDate>
+        <lastBuildDate>2024-06-02T09:29:12+03:00</lastBuildDate>
 
         <item>
+	<title>Gouda Travel Guide (Groene Hart/South Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/south-holland/groene-hart/gouda/</link>
+	<description>Discover the best places to visit, food to try, and things to do in Gouda, Netherlands through this comprehensive travel guide.</description>
+	<pubDate>2024-06-02T09:29:12+03:00</pubDate>
+</item><item>
 	<title>Thaton Travel Guide (Chiang Mai Province/Northern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/chiang-mai-province/thaton/</link>
 	<description>Discover the beautiful town of Thaton, located in Northern Thailand with our comprehensive travel guide. Learn about the best places to visit, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/saarland/merzig/</link>
 	<description>Plan a trip to the charming town of Merzig, Germany. Explore its natural beauty, rich culture, and unique gastronomy with this comprehensive travel guide.</description>
 	<pubDate>2024-06-02T04:52:25+03:00</pubDate>
-</item><item>
-	<title>Financial District Travel Guide (Manhattan/New York City/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/new-york-city/manhattan/financial-district/</link>
-	<description>Discover the best places to visit, food and drink scene, where to stay, and tips for safety in Financial District, Manhattan, New York.</description>
-	<pubDate>2024-06-02T04:12:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
