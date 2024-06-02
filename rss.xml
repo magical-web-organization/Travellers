@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T16:32:24+03:00</pubDate>
-        <lastBuildDate>2024-06-02T16:32:24+03:00</lastBuildDate>
+        <pubDate>2024-06-02T16:37:05+03:00</pubDate>
+        <lastBuildDate>2024-06-02T16:37:05+03:00</lastBuildDate>
 
         <item>
+	<title>Brentwood Travel Guide (Central Tennessee/Tennessee/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/central-tennessee/brentwood/</link>
+	<description>Explore the best things to do in Brentwood, including outdoor adventures, cultural attractions, and food scenes. Read this guide to plan your visit now!</description>
+	<pubDate>2024-06-02T16:37:05+03:00</pubDate>
+</item><item>
 	<title>Ninety Mile Beach Travel Guide (Far Far North/Northland/North Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/northland/far-far-north/ninety-mile-beach/</link>
 	<description>Plan your trip to Ninety Mile Beach with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/eastern-virginia/hampton-roads/hampton/</link>
 	<description>Visit the culturally and naturally rich city of Hampton in Virginia. Explore the museums, outdoor adventures, and culinary scene, and learn about the local customs and dos and don'ts.</description>
 	<pubDate>2024-06-02T12:15:16+03:00</pubDate>
-</item><item>
-	<title>Époisses Travel Guide (Bourgogne-Franche-Comté/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/bourgogne-franche-comte/epoisses/</link>
-	<description>Explore the stunning Époisses in Bourgogne-Franche-Comté, France with our comprehensive travel guide. From natural attractions to cultural landmarks, hiking trails to cuisine, we have it all covered!</description>
-	<pubDate>2024-06-02T11:58:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
