@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-02T20:20:35+03:00</pubDate>
-        <lastBuildDate>2024-06-02T20:20:35+03:00</lastBuildDate>
+        <pubDate>2024-06-02T20:55:13+03:00</pubDate>
+        <lastBuildDate>2024-06-02T20:55:13+03:00</lastBuildDate>
 
         <item>
+	<title>Avon (New York) Travel Guide (Western Finger Lakes/Finger Lakes/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/western-finger-lakes/avon-new-york/</link>
+	<description>Discover the best places to visit, eat, and stay in Avon, New York. Plan your perfect trip with our comprehensive travel guide.</description>
+	<pubDate>2024-06-02T20:55:13+03:00</pubDate>
+</item><item>
 	<title>Grosseto Travel Guide (Grosseto (province)/Tuscany/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/grosseto-province/grosseto/</link>
 	<description>Explore the best of Grosseto with our comprehensive travel guide. Discover the top attractions, best places to stay, local cuisine, and much more. Learn about the culture, customs, and logistics of this beautiful destination in Tuscany, Italy.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/northland/far-far-north/ninety-mile-beach/</link>
 	<description>Plan your trip to Ninety Mile Beach with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-02T16:32:24+03:00</pubDate>
-</item><item>
-	<title>Colyton Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/colyton/</link>
-	<description>Plan the perfect trip to Colyton with this comprehensive travel guide. Discover the best places to visit, activities, food, and more in Colyton, Devon, UK.</description>
-	<pubDate>2024-06-02T16:00:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
