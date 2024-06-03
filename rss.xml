@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T00:46:10+03:00</pubDate>
-        <lastBuildDate>2024-06-04T00:46:10+03:00</lastBuildDate>
+        <pubDate>2024-06-04T01:06:30+03:00</pubDate>
+        <lastBuildDate>2024-06-04T01:06:30+03:00</lastBuildDate>
 
         <item>
+	<title>Barabar and Nagarjuni Hill Caves Travel Guide (Magadha/Bihar/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/barabar-and-nagarjuni-hill-caves/</link>
+	<description>Your comprehensive travel guide to Barabar and Nagarjuni Hill Caves in Bihar, India including information on cultural attractions, natural attractions, hiking and biking routes, accommodations, local culture, safety and health, transportation options and nearby destinations.</description>
+	<pubDate>2024-06-04T01:06:30+03:00</pubDate>
+</item><item>
 	<title>Campinas Travel Guide (Campinas Region/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/campinas-region/campinas/</link>
 	<description>Discover the best things to do and see in Campinas, the gateway to São Paulo. Learn about local culture, food, and travel logistics in this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/delta-state/asaba/</link>
 	<description>Explore the beauty of Asaba with our comprehensive travel guide. Discover the best things to do, where to stay, where to go next, and more. Plan your trip today!</description>
 	<pubDate>2024-06-03T20:15:37+03:00</pubDate>
-</item><item>
-	<title>Hobe Sound Travel Guide (Treasure Coast/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/hobe-sound/</link>
-	<description>Explore the cultural and natural attractions, hiking and biking routes, food and drink scene, accommodation options, local customs, safety, and logistics of Hobe Sound, Florida, USA.</description>
-	<pubDate>2024-06-03T19:54:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
