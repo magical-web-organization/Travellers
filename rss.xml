@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T02:50:46+03:00</pubDate>
-        <lastBuildDate>2024-06-03T02:50:46+03:00</lastBuildDate>
+        <pubDate>2024-06-03T03:12:13+03:00</pubDate>
+        <lastBuildDate>2024-06-03T03:12:13+03:00</lastBuildDate>
 
         <item>
+	<title>Mount Elgon National Park Travel Guide (East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/mount-elgon-national-park/</link>
+	<description>Discover the natural and cultural attractions of Mount Elgon National Park, including hiking routes, outdoor adventures, must-try dishes, and safety tips. Plan your trip to this East African national park today!</description>
+	<pubDate>2024-06-03T03:12:13+03:00</pubDate>
+</item><item>
 	<title>Shuili Travel Guide (Nantou County/Central Taiwan/Taiwan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/central-taiwan/nantou-county/shuili/</link>
 	<description>Discover the charming town of Shuili with our comprehensive guide filled with information on top tourist spots, exciting activities, local cuisine, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/limpopo/hoedspruit/</link>
 	<description>Explore the best of Hoedspruit, South Africa with this comprehensive tour guide covering its top tourist attractions, outdoor adventures, food and drink scene, accommodation options, local culture, safety and health, transportation options and nearby destinations.</description>
 	<pubDate>2024-06-02T22:33:44+03:00</pubDate>
-</item><item>
-	<title>Port Gamble Travel Guide (Kitsap Peninsula/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/port-gamble/</link>
-	<description>Explore the culturally rich and naturally stunning Port Gamble in Washington State with our comprehensive travel guide. Discover the best places to visit, stay, eat, shop, and more in our exhaustive itinerary.</description>
-	<pubDate>2024-06-02T22:14:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
