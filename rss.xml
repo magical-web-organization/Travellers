@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T23:18:55+03:00</pubDate>
-        <lastBuildDate>2024-06-03T23:18:55+03:00</lastBuildDate>
+        <pubDate>2024-06-04T00:01:16+03:00</pubDate>
+        <lastBuildDate>2024-06-04T00:01:16+03:00</lastBuildDate>
 
         <item>
+	<title>Amherstburg Travel Guide (Essex County/Southwestern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/essex-county/amherstburg/</link>
+	<description>Discover the best things to do, where to stay, where to eat and drink, and how to get around in Amherstburg, Ontario.</description>
+	<pubDate>2024-06-04T00:01:16+03:00</pubDate>
+</item><item>
 	<title>Lanaudière Travel Guide (Southwestern Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/lanaudiere/</link>
 	<description>Plan your perfect trip to Lanaudière with this comprehensive travel guide, including the top things to do, places to stay, and local dishes to try.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/udupi-district/byndoor/</link>
 	<description>Plan your trip to Byndoor with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-03T18:52:26+03:00</pubDate>
-</item><item>
-	<title>Montabaur Travel Guide (North-East Rhineland-Palatinate/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/north-east-rhineland-palatinate/montabaur/</link>
-	<description>Discover the best things to do and see in Montabaur, from cultural attractions to outdoor adventures, food and drink highlights, hotels and hostels, local customs, safety and health, and transportation options.</description>
-	<pubDate>2024-06-03T18:10:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
