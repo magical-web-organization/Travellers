@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T13:07:46+03:00</pubDate>
-        <lastBuildDate>2024-06-03T13:07:46+03:00</lastBuildDate>
+        <pubDate>2024-06-03T13:57:11+03:00</pubDate>
+        <lastBuildDate>2024-06-03T13:57:11+03:00</lastBuildDate>
 
         <item>
+	<title>Vadnagar Travel Guide (North Gujarat/Gujarat/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/gujarat/north-gujarat/vadnagar/</link>
+	<description>Guide to Vadnagar, Gujarat, including things to do, places to visit, food, culture, safety, health, and transportation options.</description>
+	<pubDate>2024-06-03T13:57:11+03:00</pubDate>
+</item><item>
 	<title>Blue Mountains Travel Guide (Surrey County/Jamaica/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/jamaica/surrey-county/blue-mountains/</link>
 	<description>A comprehensive guide to Blue Mountains in Jamaica, including places to visit, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/osun-state/ifetedo/</link>
 	<description>Discover the culturally and naturally rich town of Ifetedo in Nigeria with this comprehensive travel guide. Explore the top attractions, best things to do, local cuisine, where to stay, and more.</description>
 	<pubDate>2024-06-03T09:12:43+03:00</pubDate>
-</item><item>
-	<title>Isla Malpelo Travel Guide (Colombian Islands/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/colombian-islands/isla-malpelo/</link>
-	<description>Learn about the natural and cultural attractions, outdoor adventures, hiking trails, food and drinks, where to stay, when to visit, safety and health, and transportation options of Isla Malpelo in this comprehensive travel guide.</description>
-	<pubDate>2024-06-03T09:02:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
