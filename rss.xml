@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T04:02:45+03:00</pubDate>
-        <lastBuildDate>2024-06-03T04:02:45+03:00</lastBuildDate>
+        <pubDate>2024-06-03T04:33:02+03:00</pubDate>
+        <lastBuildDate>2024-06-03T04:33:02+03:00</lastBuildDate>
 
         <item>
+	<title>Exmouth Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/exmouth/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Exmouth, a charming seaside town in Devon, United Kingdom. Plan the perfect itinerary with our comprehensive travel guide.</description>
+	<pubDate>2024-06-03T04:33:02+03:00</pubDate>
+</item><item>
 	<title>Damascus Travel Guide (Hauran/Syria/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/syria/hauran/damascus/</link>
 	<description>Discover the best cultural attractions, natural wonders, food and drink scene, where to stay, and how to get around Damascus, Syria.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/twin-cities/burnsville/</link>
 	<description>Plan your itinerary with our comprehensive guide. Discover the best places to visit, eat, and stay during your trip to Burnsville.</description>
 	<pubDate>2024-06-02T23:43:13+03:00</pubDate>
-</item><item>
-	<title>Seabrook Travel Guide (Seacoast/New Hampshire/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/seacoast/seabrook/</link>
-	<description>Discover the best things to do, places to visit, and where to stay in Seabrook, New Hampshire, with this comprehensive guide covering outdoor adventures, natural attractions, local food, and culture.</description>
-	<pubDate>2024-06-02T23:19:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
