@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T11:09:03+03:00</pubDate>
-        <lastBuildDate>2024-06-03T11:09:03+03:00</lastBuildDate>
+        <pubDate>2024-06-03T11:53:12+03:00</pubDate>
+        <lastBuildDate>2024-06-03T11:53:12+03:00</lastBuildDate>
 
         <item>
+	<title>Freedom Travel Guide (Northeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northeast-wisconsin/freedom/</link>
+	<description>Plan your trip to Freedom, Wisconsin with our comprehensive travel guide featuring top attractions, activities, food, and local culture.</description>
+	<pubDate>2024-06-03T11:53:12+03:00</pubDate>
+</item><item>
 	<title>Berchtesgaden Travel Guide (Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/berchtesgaden/</link>
 	<description>Explore the best of Berchtesgaden with this comprehensive travel guide. From places to visit to food and drink recommendations, hiking and biking trails to cultural customs, this guide covers everything you need to know for your trip to Berchtesgaden.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/southeastern-quebec/gaspe-peninsula/gaspesian-coast/</link>
 	<description>Plan your trip to Gaspesian Coast, Quebec with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-03T07:10:58+03:00</pubDate>
-</item><item>
-	<title>Mid-City and Esplanade Ridge Travel Guide (New Orleans/Greater New Orleans/Louisiana/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/greater-new-orleans/new-orleans/mid-city-and-esplanade-ridge/</link>
-	<description>A comprehensive tour guide for Mid-City and Esplanade Ridge: list of places to visit, hiking/biking routes, food, where to stay, local culture, safety, getting here, and more.</description>
-	<pubDate>2024-06-03T06:43:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
