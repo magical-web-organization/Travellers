@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T01:06:30+03:00</pubDate>
-        <lastBuildDate>2024-06-04T01:06:30+03:00</lastBuildDate>
+        <pubDate>2024-06-04T01:37:52+03:00</pubDate>
+        <lastBuildDate>2024-06-04T01:37:52+03:00</lastBuildDate>
 
         <item>
+	<title>West Travel Guide (Atlanta/Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/atlanta/west/</link>
+	<description>Explore the culturally rich and scenic beauty of West, Atlanta with this comprehensive travel guide. Discover historical landmarks, outdoor adventures, food scene, accommodation options, and nearby destinations to plan your perfect trip.</description>
+	<pubDate>2024-06-04T01:37:52+03:00</pubDate>
+</item><item>
 	<title>Barabar and Nagarjuni Hill Caves Travel Guide (Magadha/Bihar/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/barabar-and-nagarjuni-hill-caves/</link>
 	<description>Your comprehensive travel guide to Barabar and Nagarjuni Hill Caves in Bihar, India including information on cultural attractions, natural attractions, hiking and biking routes, accommodations, local culture, safety and health, transportation options and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/la-union/san-juan/</link>
 	<description>Discover San Juan, a small town in La Union, Philippines, known for its rich cultural history, natural wonders, and outdoor adventures. From historic sites and museums to beautiful beaches and scenic mountain views, this comprehensive travel guide has everything you need to plan your next trip to San Juan.</description>
 	<pubDate>2024-06-03T21:03:28+03:00</pubDate>
-</item><item>
-	<title>Asaba Travel Guide (Delta State/South South Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-south-nigeria/delta-state/asaba/</link>
-	<description>Explore the beauty of Asaba with our comprehensive travel guide. Discover the best things to do, where to stay, where to go next, and more. Plan your trip today!</description>
-	<pubDate>2024-06-03T20:15:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
