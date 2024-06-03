@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T04:33:02+03:00</pubDate>
-        <lastBuildDate>2024-06-03T04:33:02+03:00</lastBuildDate>
+        <pubDate>2024-06-03T04:35:08+03:00</pubDate>
+        <lastBuildDate>2024-06-03T04:35:08+03:00</lastBuildDate>
 
         <item>
+	<title>Green Cove Springs Travel Guide (First Coast/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/first-coast/green-cove-springs/</link>
+	<description>Plan your trip to Green Cove Springs, Florida with our comprehensive travel guide. Discover the best attractions, activities, and accommodations for your next visit.</description>
+	<pubDate>2024-06-03T04:35:08+03:00</pubDate>
+</item><item>
 	<title>Exmouth Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/exmouth/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Exmouth, a charming seaside town in Devon, United Kingdom. Plan the perfect itinerary with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/stuttgart-region/sindelfingen/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat and buy, and how to get around in Sindelfingen, Germany.</description>
 	<pubDate>2024-06-03T00:09:40+03:00</pubDate>
-</item><item>
-	<title>Burnsville Travel Guide (Twin Cities/Minnesota/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/twin-cities/burnsville/</link>
-	<description>Plan your itinerary with our comprehensive guide. Discover the best places to visit, eat, and stay during your trip to Burnsville.</description>
-	<pubDate>2024-06-02T23:43:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
