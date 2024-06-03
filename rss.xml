@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T17:21:09+03:00</pubDate>
-        <lastBuildDate>2024-06-03T17:21:09+03:00</lastBuildDate>
+        <pubDate>2024-06-03T17:48:40+03:00</pubDate>
+        <lastBuildDate>2024-06-03T17:48:40+03:00</lastBuildDate>
 
         <item>
+	<title>Dhanaulti Travel Guide (Garhwal/Uttarakhand/Himalayan North/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/dhanaulti/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in this comprehensive travel guide to Dhanaulti, Uttarakhand, India.</description>
+	<pubDate>2024-06-03T17:48:40+03:00</pubDate>
+</item><item>
 	<title>Pensacola Travel Guide (West Florida/Florida Panhandle/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-panhandle/west-florida/pensacola/</link>
 	<description>Explore Pensacola, Florida with this comprehensive travel guide. Discover its rich history, natural wonders, best things to do, complete itinerary, food and drink scene, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/jamaica/surrey-county/blue-mountains/</link>
 	<description>A comprehensive guide to Blue Mountains in Jamaica, including places to visit, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
 	<pubDate>2024-06-03T13:07:46+03:00</pubDate>
-</item><item>
-	<title>Ooty Travel Guide (Western Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/western-tamil-nadu/ooty/</link>
-	<description>Plan your visit to Ooty, Tamil Nadu, India with this informative travel guide. Explore the best places to visit, hike, eat, and stay while discovering local culture and customs.</description>
-	<pubDate>2024-06-03T12:49:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
