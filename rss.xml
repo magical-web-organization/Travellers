@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-03T18:10:40+03:00</pubDate>
-        <lastBuildDate>2024-06-03T18:10:40+03:00</lastBuildDate>
+        <pubDate>2024-06-03T18:52:26+03:00</pubDate>
+        <lastBuildDate>2024-06-03T18:52:26+03:00</lastBuildDate>
 
         <item>
+	<title>Byndoor Travel Guide (Udupi (district)/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/udupi-district/byndoor/</link>
+	<description>Plan your trip to Byndoor with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-06-03T18:52:26+03:00</pubDate>
+</item><item>
 	<title>Montabaur Travel Guide (North-East Rhineland-Palatinate/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/north-east-rhineland-palatinate/montabaur/</link>
 	<description>Discover the best things to do and see in Montabaur, from cultural attractions to outdoor adventures, food and drink highlights, hotels and hostels, local customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/frontier-country/greater-oklahoma-city/arcadia/</link>
 	<description>A comprehensive tour guide for Arcadia, including the best places to visit, things to do, where to stay, and local culture.</description>
 	<pubDate>2024-06-03T14:06:28+03:00</pubDate>
-</item><item>
-	<title>Vadnagar Travel Guide (North Gujarat/Gujarat/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/gujarat/north-gujarat/vadnagar/</link>
-	<description>Guide to Vadnagar, Gujarat, including things to do, places to visit, food, culture, safety, health, and transportation options.</description>
-	<pubDate>2024-06-03T13:57:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
