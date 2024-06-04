@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T03:05:12+03:00</pubDate>
-        <lastBuildDate>2024-06-04T03:05:12+03:00</lastBuildDate>
+        <pubDate>2024-06-04T03:43:56+03:00</pubDate>
+        <lastBuildDate>2024-06-04T03:43:56+03:00</lastBuildDate>
 
         <item>
+	<title>Ísafjörður Travel Guide (Westfjords/Iceland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/westfjords/isafjordur/</link>
+	<description>Plan your trip to Ísafjörður with our ultimate travel guide, featuring top attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture, safety and health, transportation options, and nearby excursions.</description>
+	<pubDate>2024-06-04T03:43:56+03:00</pubDate>
+</item><item>
 	<title>Táchira Travel Guide (Andes/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/andes/tachira/</link>
 	<description>Welcome to the ultimate guide to Táchira, Venezuela: Tips, places to visit, things to do, hiking routes and a lot more logistics to help make your trip amazing.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/lanaudiere/</link>
 	<description>Plan your perfect trip to Lanaudière with this comprehensive travel guide, including the top things to do, places to stay, and local dishes to try.</description>
 	<pubDate>2024-06-03T23:18:55+03:00</pubDate>
-</item><item>
-	<title>Napoleon Travel Guide (Northwest Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northwest-ohio/napoleon/</link>
-	<description>Discover the best things to do, see, and eat in Napoleon, located in Northwest Ohio. Plan your trip with our comprehensive tour guide.</description>
-	<pubDate>2024-06-03T23:01:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
