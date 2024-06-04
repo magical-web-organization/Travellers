@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T19:23:23+03:00</pubDate>
-        <lastBuildDate>2024-06-04T19:23:23+03:00</lastBuildDate>
+        <pubDate>2024-06-04T19:48:17+03:00</pubDate>
+        <lastBuildDate>2024-06-04T19:48:17+03:00</lastBuildDate>
 
         <item>
+	<title>Waya Lailai Travel Guide (Yasawa Islands/Fiji/Melanesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/melanesia/fiji/yasawa-islands/waya-lailai/</link>
+	<description>Explore the hidden gem of Waya Lailai located in the Yasawa Islands, Fiji. Discover the culture, natural wonders, food and drink scene, itinerary, accommodations and much more in our comprehensive guide.</description>
+	<pubDate>2024-06-04T19:48:17+03:00</pubDate>
+</item><item>
 	<title>Dapoli Travel Guide (South Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/south-konkan/dapoli/</link>
 	<description>Discover the best things to do in Dapoli, including outdoor adventures, cultural attractions, and where to stay and eat in this picturesque town in Maharashtra.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/la-montana/las-marias/</link>
 	<description>Discover the best things to do in Las Marías, Puerto Rico. From cultural attractions and natural wonders to local cuisine and accommodations, this guide will help you plan your trip to Las Marías.</description>
 	<pubDate>2024-06-04T15:07:54+03:00</pubDate>
-</item><item>
-	<title>Pagosa Springs Travel Guide (Southwestern Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/southwestern-colorado/pagosa-springs/</link>
-	<description>Discover the best places to visit, where to stay, what to eat, and things to do in Pagosa Springs, Colorado. Plan your trip now!</description>
-	<pubDate>2024-06-04T14:48:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
