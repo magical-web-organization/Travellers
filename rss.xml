@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T00:11:52+03:00</pubDate>
-        <lastBuildDate>2024-06-05T00:11:52+03:00</lastBuildDate>
+        <pubDate>2024-06-05T00:38:07+03:00</pubDate>
+        <lastBuildDate>2024-06-05T00:38:07+03:00</lastBuildDate>
 
         <item>
+	<title>Hyde Park (New York) Travel Guide (Dutchess County/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/dutchess-county/hyde-park-new-york/</link>
+	<description>Discover the best things to do, places to visit, food to eat, and accommodations to stay at in Hyde Park, New York with this comprehensive tour guide.</description>
+	<pubDate>2024-06-05T00:38:07+03:00</pubDate>
+</item><item>
 	<title>Winfield Travel Guide (Central Kansas/Kansas/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/central-kansas/winfield/</link>
 	<description>Plan your trip to Winfield with our comprehensive travel guide. Discover the best things to do, places to visit, and where to stay in Central Kansas.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/north/tocantins/natividade/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and how to get around in Natividade, Tocantins, Brazil, with this comprehensive travel guide.</description>
 	<pubDate>2024-06-04T20:19:18+03:00</pubDate>
-</item><item>
-	<title>Waya Lailai Travel Guide (Yasawa Islands/Fiji/Melanesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/melanesia/fiji/yasawa-islands/waya-lailai/</link>
-	<description>Explore the hidden gem of Waya Lailai located in the Yasawa Islands, Fiji. Discover the culture, natural wonders, food and drink scene, itinerary, accommodations and much more in our comprehensive guide.</description>
-	<pubDate>2024-06-04T19:48:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
