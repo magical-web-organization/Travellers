@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T07:46:22+03:00</pubDate>
-        <lastBuildDate>2024-06-04T07:46:22+03:00</lastBuildDate>
+        <pubDate>2024-06-04T08:03:34+03:00</pubDate>
+        <lastBuildDate>2024-06-04T08:03:34+03:00</lastBuildDate>
 
         <item>
+	<title>Yamaguchi Travel Guide (Yamaguchi (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/yamaguchi-prefecture/yamaguchi/</link>
+	<description>Explore Japan's stunning Yamaguchi prefecture with this ultimate travel guide. Discover the best places to visit, stay, and dine, as well as cultural customs, safety tips, and transportation options.</description>
+	<pubDate>2024-06-04T08:03:34+03:00</pubDate>
+</item><item>
 	<title>Weedsport Travel Guide (Eastern Finger Lakes/Finger Lakes/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/eastern-finger-lakes/weedsport/</link>
 	<description>Plan your trip to Weedsport, New York with this comprehensive tour guide. Discover the best places to visit, top things to do, where to eat, stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/westfjords/isafjordur/</link>
 	<description>Plan your trip to Ísafjörður with our ultimate travel guide, featuring top attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture, safety and health, transportation options, and nearby excursions.</description>
 	<pubDate>2024-06-04T03:43:56+03:00</pubDate>
-</item><item>
-	<title>Táchira Travel Guide (Andes/Venezuela/South America)</title>
-	<link>https://travellers.wiki/en/south-america/venezuela/andes/tachira/</link>
-	<description>Welcome to the ultimate guide to Táchira, Venezuela: Tips, places to visit, things to do, hiking routes and a lot more logistics to help make your trip amazing.</description>
-	<pubDate>2024-06-04T03:05:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
