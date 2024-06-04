@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T15:07:54+03:00</pubDate>
-        <lastBuildDate>2024-06-04T15:07:54+03:00</lastBuildDate>
+        <pubDate>2024-06-04T15:53:19+03:00</pubDate>
+        <lastBuildDate>2024-06-04T15:53:19+03:00</lastBuildDate>
 
         <item>
+	<title>Třeboň Travel Guide (South Bohemia/Czech Republic/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/south-bohemia/trebon/</link>
+	<description>Discover the best things to do, places to visit, food to eat, and where to stay in Třeboň, as well as travel tips and local customs.</description>
+	<pubDate>2024-06-04T15:53:19+03:00</pubDate>
+</item><item>
 	<title>Las Marías Travel Guide (La Montaña/Puerto Rico/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/la-montana/las-marias/</link>
 	<description>Discover the best things to do in Las Marías, Puerto Rico. From cultural attractions and natural wonders to local cuisine and accommodations, this guide will help you plan your trip to Las Marías.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/northwestern-yunnan/xidang/</link>
 	<description>Discover Xidang with our comprehensive travel guide. Learn about the best places to visit, food, accommodations, culture, and more.</description>
 	<pubDate>2024-06-04T11:07:48+03:00</pubDate>
-</item><item>
-	<title>Little Fatra Travel Guide (Central Slovakia/Slovakia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/little-fatra/</link>
-	<description>Discover the best things to do, places to visit, and food to try in Little Fatra, Slovakia. Learn how to get there and where to stay, and get insider tips on local customs and safety.</description>
-	<pubDate>2024-06-04T10:37:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
