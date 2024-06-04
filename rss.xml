@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T06:15:25+03:00</pubDate>
-        <lastBuildDate>2024-06-04T06:15:25+03:00</lastBuildDate>
+        <pubDate>2024-06-04T06:54:12+03:00</pubDate>
+        <lastBuildDate>2024-06-04T06:54:12+03:00</lastBuildDate>
 
         <item>
+	<title>Rochester (New York) Travel Guide (Rochester and Suburbs/Finger Lakes/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/rochester-and-suburbs/rochester-new-york/</link>
+	<description>Explore the best attractions, local culture, food scene, and accommodations in Rochester (New York) with our comprehensive guide.</description>
+	<pubDate>2024-06-04T06:54:12+03:00</pubDate>
+</item><item>
 	<title>Mendocino National Forest Travel Guide (North Coast/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/north-coast/mendocino-national-forest/</link>
 	<description>Explore the stunning natural beauty and cultural attractions of Mendocino National Forest with our extensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/friuli-venezia-giulia/trieste/</link>
 	<description>Plan your trip to Trieste with our comprehensive travel guide, featuring all the must-visit places, best things to do, where to stay and more.</description>
 	<pubDate>2024-06-04T02:23:03+03:00</pubDate>
-</item><item>
-	<title>West Travel Guide (Atlanta/Metro Atlanta/Georgia (state)/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/metro-atlanta/atlanta/west/</link>
-	<description>Explore the culturally rich and scenic beauty of West, Atlanta with this comprehensive travel guide. Discover historical landmarks, outdoor adventures, food scene, accommodation options, and nearby destinations to plan your perfect trip.</description>
-	<pubDate>2024-06-04T01:37:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
