@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T21:26:48+03:00</pubDate>
-        <lastBuildDate>2024-06-04T21:26:48+03:00</lastBuildDate>
+        <pubDate>2024-06-04T21:55:35+03:00</pubDate>
+        <lastBuildDate>2024-06-04T21:55:35+03:00</lastBuildDate>
 
         <item>
+	<title>Lyman Travel Guide (Southwest Wyoming/Wyoming/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/wyoming/southwest-wyoming/lyman/</link>
+	<description>Discover the best things to do in Lyman, Wyoming, from outdoor adventures to local foodie hotspots, with our comprehensive travel guide. Plan your trip to Lyman today!</description>
+	<pubDate>2024-06-04T21:55:35+03:00</pubDate>
+</item><item>
 	<title>Udon Thani Travel Guide (Northern Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/northern-isaan/udon-thani/</link>
 	<description>Plan your trip to Udon Thani with our comprehensive travel guide. Discover the best things to see, do, and eat in this Northern Isaan city in Thailand.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/elephant-coast/</link>
 	<description>Discover the best things to do in Elephant Coast, including hiking/biking routes, cultural and natural attractions, where to stay, what to eat, and more. Plan a trip to this incredible destination in South Africa today!</description>
 	<pubDate>2024-06-04T17:27:28+03:00</pubDate>
-</item><item>
-	<title>Melrose Travel Guide (Scottish Borders/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-borders/melrose/</link>
-	<description>Discover the best activities, attractions, places to stay, and more in Melrose, Scotland in this comprehensive travel guide.</description>
-	<pubDate>2024-06-04T16:35:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
