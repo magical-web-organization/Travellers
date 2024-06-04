@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T17:27:28+03:00</pubDate>
-        <lastBuildDate>2024-06-04T17:27:28+03:00</lastBuildDate>
+        <pubDate>2024-06-04T17:41:39+03:00</pubDate>
+        <lastBuildDate>2024-06-04T17:41:39+03:00</lastBuildDate>
 
         <item>
+	<title>Willow Tree Travel Guide (Southern New England/New England/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/southern-new-england/willow-tree/</link>
+	<description>Discover the best cultural attractions, natural wonders, outdoor adventures, food and drink scene, accommodation options, cultural norms, safety and health tips, and logistics of visiting Willow Tree, a charming town in Southern New England.</description>
+	<pubDate>2024-06-04T17:41:39+03:00</pubDate>
+</item><item>
 	<title>Elephant Coast Travel Guide (KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/elephant-coast/</link>
 	<description>Discover the best things to do in Elephant Coast, including hiking/biking routes, cultural and natural attractions, where to stay, what to eat, and more. Plan a trip to this incredible destination in South Africa today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/prescott-russell/russell/</link>
 	<description>Get a comprehensive tour guide of Russell, Ontario including places to visit, hiking and biking routes, best things to do, food and drink, where to stay, and more.</description>
 	<pubDate>2024-06-04T13:22:29+03:00</pubDate>
-</item><item>
-	<title>Wadhurst Travel Guide (East Sussex/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/east-sussex/wadhurst/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Wadhurst, East Sussex. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-06-04T12:34:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
