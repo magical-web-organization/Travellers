@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T08:55:40+03:00</pubDate>
-        <lastBuildDate>2024-06-04T08:55:40+03:00</lastBuildDate>
+        <pubDate>2024-06-04T09:11:05+03:00</pubDate>
+        <lastBuildDate>2024-06-04T09:11:05+03:00</lastBuildDate>
 
         <item>
+	<title>Bregenz Travel Guide (Vorarlberg/Austria/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/austria/vorarlberg/bregenz/</link>
+	<description>Discover the beauty of Bregenz, Austria with this comprehensive travel guide, featuring a list of places to visit, hiking/biking routes, local food, culture, safety and health tips, transportation options, and more.</description>
+	<pubDate>2024-06-04T09:11:05+03:00</pubDate>
+</item><item>
 	<title>Dateland Travel Guide (Western Arizona/Arizona/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/western-arizona/dateland/</link>
 	<description>Discover Dateland, Arizona with our comprehensive travel guide. Learn about the best things to do, where to stay, how to get around, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/central-thailand/chao-phraya-basin/nakhon-nayok/</link>
 	<description>Discover the hidden gems of Central Thailand with our detailed travel guide to Nakhon Nayok, including the top places to visit, hiking and biking routes, activities, local food and culture, and transportation options.</description>
 	<pubDate>2024-06-04T04:57:41+03:00</pubDate>
-</item><item>
-	<title>Mirdita Travel Guide (Northeastern Albania/Albania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/albania/northeastern-albania/mirdita/</link>
-	<description>Discover the hidden gems of Mirdita, Albania with this comprehensive travel guide. Explore the best places to visit, stay, eat, and experience the local culture and customs.</description>
-	<pubDate>2024-06-04T04:16:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
