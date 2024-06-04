@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T05:17:37+03:00</pubDate>
-        <lastBuildDate>2024-06-04T05:17:37+03:00</lastBuildDate>
+        <pubDate>2024-06-04T05:52:56+03:00</pubDate>
+        <lastBuildDate>2024-06-04T05:52:56+03:00</lastBuildDate>
 
         <item>
+	<title>Catemaco Travel Guide (Veracruz (state)/Central Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/veracruz-state/catemaco/</link>
+	<description>Catemaco, a beautiful city in Veracruz, Central Mexico, is a treasure trove of natural wonders, cultural heritage, and rich local customs. Discover the best places to visit, things to do, where to stay, and much more with our comprehensive travel guide.</description>
+	<pubDate>2024-06-04T05:52:56+03:00</pubDate>
+</item><item>
 	<title>Bacalar Travel Guide (Quintana Roo/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/bacalar/</link>
 	<description>Discover the culture, natural beauty, and adventure of Bacalar, Quintana Roo, Mexico with this comprehensive travel guide. Learn about the best things to do, where to stay, and how to get around this picturesque town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/barabar-and-nagarjuni-hill-caves/</link>
 	<description>Your comprehensive travel guide to Barabar and Nagarjuni Hill Caves in Bihar, India including information on cultural attractions, natural attractions, hiking and biking routes, accommodations, local culture, safety and health, transportation options and nearby destinations.</description>
 	<pubDate>2024-06-04T01:06:30+03:00</pubDate>
-</item><item>
-	<title>Campinas Travel Guide (Campinas Region/São Paulo (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/campinas-region/campinas/</link>
-	<description>Discover the best things to do and see in Campinas, the gateway to São Paulo. Learn about local culture, food, and travel logistics in this comprehensive guide.</description>
-	<pubDate>2024-06-04T00:46:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
