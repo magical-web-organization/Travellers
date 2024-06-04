@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-04T16:35:18+03:00</pubDate>
-        <lastBuildDate>2024-06-04T16:35:18+03:00</lastBuildDate>
+        <pubDate>2024-06-04T17:27:28+03:00</pubDate>
+        <lastBuildDate>2024-06-04T17:27:28+03:00</lastBuildDate>
 
         <item>
+	<title>Elephant Coast Travel Guide (KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/elephant-coast/</link>
+	<description>Discover the best things to do in Elephant Coast, including hiking/biking routes, cultural and natural attractions, where to stay, what to eat, and more. Plan a trip to this incredible destination in South Africa today!</description>
+	<pubDate>2024-06-04T17:27:28+03:00</pubDate>
+</item><item>
 	<title>Melrose Travel Guide (Scottish Borders/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-borders/melrose/</link>
 	<description>Discover the best activities, attractions, places to stay, and more in Melrose, Scotland in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/east-sussex/wadhurst/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Wadhurst, East Sussex. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-06-04T12:34:21+03:00</pubDate>
-</item><item>
-	<title>Bunkyo Travel Guide (Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/bunkyo/</link>
-	<description>Discover the top attractions, food scene, accommodations, and transportation options for the culturally-rich Bunkyo neighborhood in Tokyo.</description>
-	<pubDate>2024-06-04T12:10:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
