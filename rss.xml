@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T19:58:07+03:00</pubDate>
-        <lastBuildDate>2024-06-05T19:58:07+03:00</lastBuildDate>
+        <pubDate>2024-06-05T20:12:46+03:00</pubDate>
+        <lastBuildDate>2024-06-05T20:12:46+03:00</lastBuildDate>
 
         <item>
+	<title>Niihama Travel Guide (Ehime/Shikoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/ehime/niihama/</link>
+	<description>Discover Niihama, Japan with this comprehensive travel guide that includes where to go, what to do, where to stay, and more.</description>
+	<pubDate>2024-06-05T20:12:46+03:00</pubDate>
+</item><item>
 	<title>Salinópolis Travel Guide (Pará/North/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/north/para/salinopolis/</link>
 	<description>Salinópolis is a beautiful coastal city in Brazil. Explore this comprehensive travel guide to know where to go, what to do and where to stay in Salinópolis.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Bayonne, France, with this complete travel guide.</description>
 	<pubDate>2024-06-05T15:48:22+03:00</pubDate>
-</item><item>
-	<title>Pilani Travel Guide (Jaipur Division/Rajasthan/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/rajasthan/jaipur-division/pilani/</link>
-	<description>Discover Pilani, Rajasthan with this travel guide featuring top attractions, hiking/biking routes, a week-long itinerary, food recommendations, and transportation options.</description>
-	<pubDate>2024-06-05T15:18:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
