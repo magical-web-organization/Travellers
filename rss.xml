@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T17:54:36+03:00</pubDate>
-        <lastBuildDate>2024-06-05T17:54:36+03:00</lastBuildDate>
+        <pubDate>2024-06-05T18:21:44+03:00</pubDate>
+        <lastBuildDate>2024-06-05T18:21:44+03:00</lastBuildDate>
 
         <item>
+	<title>Chongwen Travel Guide (Beijing/North China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/beijing/chongwen/</link>
+	<description>Plan your next trip to Chongwen, Beijing with this comprehensive travel guide! From top attractions to local culture and customs, we've got everything you need to know.</description>
+	<pubDate>2024-06-05T18:21:44+03:00</pubDate>
+</item><item>
 	<title>Zionsville Travel Guide (Nine-County Region/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/nine-county-region/zionsville/</link>
 	<description>Discover the best places to stay, eat, and explore in Zionsville, Indiana with our comprehensive travel guide. From hiking trails to cultural landmarks, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/awadh/kanpur/</link>
 	<description>Discover the top attractions, things to do, where to stay, and travel tips in Kanpur, India.</description>
 	<pubDate>2024-06-05T14:01:38+03:00</pubDate>
-</item><item>
-	<title>Singaraja Travel Guide (North Bali/Bali/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/north-bali/singaraja/</link>
-	<description>This guide provides detailed information on the attractions, activities, food, culture, and logistics of visiting Singaraja, Bali, Indonesia.</description>
-	<pubDate>2024-06-05T13:07:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
