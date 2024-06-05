@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T05:17:34+03:00</pubDate>
-        <lastBuildDate>2024-06-05T05:17:34+03:00</lastBuildDate>
+        <pubDate>2024-06-05T05:41:42+03:00</pubDate>
+        <lastBuildDate>2024-06-05T05:41:42+03:00</lastBuildDate>
 
         <item>
+	<title>Hämeenlinna Travel Guide (Tavastia Proper/Southern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/tavastia-proper/hameenlinna/</link>
+	<description>Plan your trip to Hämeenlinna with this comprehensive travel guide featuring must-visit attractions, outdoor adventures, dining options, and more.</description>
+	<pubDate>2024-06-05T05:41:42+03:00</pubDate>
+</item><item>
 	<title>Madurai Travel Guide (Southwestern Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/southwestern-tamil-nadu/madurai/</link>
 	<description>Planning a trip to Madurai? Read our comprehensive guide for a list of places to visit, food to eat, hotels to stay at, and things to do in Madurai.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/ko-pha-ngan/ban-tai/</link>
 	<description>Plan your trip to Ban Tai with our comprehensive travel guide. Discover the best places to visit, things to do, and where to stay in Ban Tai, Thailand.</description>
 	<pubDate>2024-06-05T01:10:15+03:00</pubDate>
-</item><item>
-	<title>Hyde Park (New York) Travel Guide (Dutchess County/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/dutchess-county/hyde-park-new-york/</link>
-	<description>Discover the best things to do, places to visit, food to eat, and accommodations to stay at in Hyde Park, New York with this comprehensive tour guide.</description>
-	<pubDate>2024-06-05T00:38:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
