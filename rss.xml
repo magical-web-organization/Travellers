@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T12:27:15+03:00</pubDate>
-        <lastBuildDate>2024-06-05T12:27:15+03:00</lastBuildDate>
+        <pubDate>2024-06-05T12:59:07+03:00</pubDate>
+        <lastBuildDate>2024-06-05T12:59:07+03:00</lastBuildDate>
 
         <item>
+	<title>Spiritwood Travel Guide (Northern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/northern-saskatchewan/spiritwood/</link>
+	<description>A detailed guide to everything you need to know to plan your trip to Spiritwood, including places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture, safety and health, getting there, and more.</description>
+	<pubDate>2024-06-05T12:59:07+03:00</pubDate>
+</item><item>
 	<title>Coatzalcocos Travel Guide (Veracruz (state)/Central Mexico/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/veracruz-state/coatzalcocos/</link>
 	<description>Discover the best things to see and do in Coatzalcocos, Veracruz, Mexico. Read our comprehensive travel guide and plan your itinerary now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/eshowe/</link>
 	<description>Explore the best of Eshowe, KwaZulu-Natal with this informative travel guide. Discover must-see places, outdoor adventures, local culture, food and drink scene, transportation options and more!</description>
 	<pubDate>2024-06-05T08:09:12+03:00</pubDate>
-</item><item>
-	<title>Thoddoo Travel Guide (Ari/Maldives/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/maldives/ari/thoddoo/</link>
-	<description>Discover Thoddoo Island, located in the Maldives, through this comprehensive travel guide. Find out about the best places to visit, things to do, where to stay, transportation options, and more.</description>
-	<pubDate>2024-06-05T07:34:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
