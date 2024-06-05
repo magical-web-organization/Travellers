@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T15:48:22+03:00</pubDate>
-        <lastBuildDate>2024-06-05T15:48:22+03:00</lastBuildDate>
+        <pubDate>2024-06-05T16:05:55+03:00</pubDate>
+        <lastBuildDate>2024-06-05T16:05:55+03:00</lastBuildDate>
 
         <item>
+	<title>Sodwana Bay Travel Guide (Elephant Coast/KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/elephant-coast/sodwana-bay/</link>
+	<description>Read our comprehensive travel guide to Sodwana Bay and learn about the best places to visit, things to do, where to eat and stay, local culture, and more!</description>
+	<pubDate>2024-06-05T16:05:55+03:00</pubDate>
+</item><item>
 	<title>Bayonne Travel Guide (Pyrénées-Atlantiques/Nouvelle-Aquitaine/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/pyrenees-atlantiques/bayonne/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Bayonne, France, with this complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/romsey/</link>
 	<description>Plan an unforgettable trip to Romsey, Hampshire, UK with our comprehensive travel guide, filled with information on top attractions, best places to eat, stay and shop, as well as insider tips and practical advice on transport, safety and more.</description>
 	<pubDate>2024-06-05T11:54:23+03:00</pubDate>
-</item><item>
-	<title>Haĺšany Travel Guide (Grodno Oblast/Belarus/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/grodno-oblast/halsany/</link>
-	<description>Haĺšany in Belarus is a hidden gem in Eastern Europe. Explore its cultural attractions, natural wonders, food scene, and transportation options in this comprehensive travel guide.</description>
-	<pubDate>2024-06-05T11:05:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
