@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T14:01:38+03:00</pubDate>
-        <lastBuildDate>2024-06-05T14:01:38+03:00</lastBuildDate>
+        <pubDate>2024-06-05T14:11:45+03:00</pubDate>
+        <lastBuildDate>2024-06-05T14:11:45+03:00</lastBuildDate>
 
         <item>
+	<title>Kumily Travel Guide (Northern Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/northern-travancore/kumily/</link>
+	<description>Plan your trip to Kumily, India with our comprehensive travel guide featuring top attractions, activities, where to stay, and more!</description>
+	<pubDate>2024-06-05T14:11:45+03:00</pubDate>
+</item><item>
 	<title>Kanpur Travel Guide (Awadh/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/awadh/kanpur/</link>
 	<description>Discover the top attractions, things to do, where to stay, and travel tips in Kanpur, India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/cobh/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Cobh, Ireland, with our comprehensive travel guide.</description>
 	<pubDate>2024-06-05T09:49:58+03:00</pubDate>
-</item><item>
-	<title>Zangon Kataf Travel Guide (Kaduna State/North West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/kaduna-state/zangon-kataf/</link>
-	<description>Discover the best places to visit, things to do, foods to try, and cultural experiences in Zangon Kataf, Nigeria. Plan your next adventure with this complete travel guide.</description>
-	<pubDate>2024-06-05T09:17:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
