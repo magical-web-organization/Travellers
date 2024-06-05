@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T10:35:58+03:00</pubDate>
-        <lastBuildDate>2024-06-05T10:35:58+03:00</lastBuildDate>
+        <pubDate>2024-06-05T11:05:06+03:00</pubDate>
+        <lastBuildDate>2024-06-05T11:05:06+03:00</lastBuildDate>
 
         <item>
+	<title>Haĺšany Travel Guide (Grodno Oblast/Belarus/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/grodno-oblast/halsany/</link>
+	<description>Haĺšany in Belarus is a hidden gem in Eastern Europe. Explore its cultural attractions, natural wonders, food scene, and transportation options in this comprehensive travel guide.</description>
+	<pubDate>2024-06-05T11:05:06+03:00</pubDate>
+</item><item>
 	<title>Hietzing Travel Guide (Vienna/Austria/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/austria/vienna/hietzing/</link>
 	<description>Discover Hietzing, Vienna's greenest district, with our comprehensive travel guide. Explore cultural and natural attractions, hiking and biking routes, local food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/horn-of-africa/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and cultural sites in Horn of Africa. Plan your trip today with this comprehensive guide.</description>
 	<pubDate>2024-06-05T06:37:59+03:00</pubDate>
-</item><item>
-	<title>Upcountry Árnessýsla Travel Guide (South Iceland/Iceland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/south-iceland/upcountry-arnessysla/</link>
-	<description>Travel guide for Upcountry Árnessýsla in South Iceland, including places to visit, hiking/biking routes, activities, food and drink, where to stay, cultural customs, safety, and transportation options.</description>
-	<pubDate>2024-06-05T06:24:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
