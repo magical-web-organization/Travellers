@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T01:24:40+03:00</pubDate>
-        <lastBuildDate>2024-06-06T01:24:40+03:00</lastBuildDate>
+        <pubDate>2024-06-06T01:46:29+03:00</pubDate>
+        <lastBuildDate>2024-06-06T01:46:29+03:00</lastBuildDate>
 
         <item>
+	<title>Portmagee Travel Guide (County Kerry/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-kerry/portmagee/</link>
+	<description>Plan your perfect trip to Portmagee with our comprehensive travel guide. From exploring natural attractions to trying local dishes, this guide covers it all.</description>
+	<pubDate>2024-06-06T01:46:29+03:00</pubDate>
+</item><item>
 	<title>Laurium and Calumet Travel Guide (Keweenaw Peninsula/Upper Peninsula/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/keweenaw-peninsula/laurium-and-calumet/</link>
 	<description>Discover the best places to visit, eat, stay, and things to do in Laurium and Calumet in Michigan's Upper Peninsula.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/ethiopia/southern-ethiopia/awasa/</link>
 	<description>Discover the best places to visit, things to do, where to eat, stay, and buy souvenirs in Awasa, Ethiopia, with this comprehensive travel guide. Learn about local culture, customs, safety, health, transportation, and nearby attractions.</description>
 	<pubDate>2024-06-05T21:19:16+03:00</pubDate>
-</item><item>
-	<title>Preah Vihear Travel Guide (North-western Cambodia/Cambodia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/cambodia/north-western-cambodia/preah-vihear/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to Preah Vihear, Cambodia. Find out everything you need to know to plan your trip.</description>
-	<pubDate>2024-06-05T20:34:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
