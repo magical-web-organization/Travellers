@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T06:24:51+03:00</pubDate>
-        <lastBuildDate>2024-06-05T06:24:51+03:00</lastBuildDate>
+        <pubDate>2024-06-05T06:37:59+03:00</pubDate>
+        <lastBuildDate>2024-06-05T06:37:59+03:00</lastBuildDate>
 
         <item>
+	<title>Horn of Africa Travel Guide (East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/horn-of-africa/</link>
+	<description>Discover the best places to visit, activities to do, food to try, and cultural sites in Horn of Africa. Plan your trip today with this comprehensive guide.</description>
+	<pubDate>2024-06-05T06:37:59+03:00</pubDate>
+</item><item>
 	<title>Upcountry Árnessýsla Travel Guide (South Iceland/Iceland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/south-iceland/upcountry-arnessysla/</link>
 	<description>Travel guide for Upcountry Árnessýsla in South Iceland, including places to visit, hiking/biking routes, activities, food and drink, where to stay, cultural customs, safety, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/east-parahyangan/pangandaran/</link>
 	<description>Plan an unforgettable trip to Pangandaran with our comprehensive guide! Get insider tips, discover the best attractions, food & drink scene, where to stay, culture, and more! Adventure awaits in Western Java.</description>
 	<pubDate>2024-06-05T02:12:11+03:00</pubDate>
-</item><item>
-	<title>Banda Aceh Travel Guide (Aceh/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/aceh/banda-aceh/</link>
-	<description>Discover the best places to visit, hike and bike routes, food and drink scene, cultural customs, and safety tips for Banda Aceh, Indonesia.</description>
-	<pubDate>2024-06-05T01:37:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
