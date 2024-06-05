@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T23:57:38+03:00</pubDate>
-        <lastBuildDate>2024-06-05T23:57:38+03:00</lastBuildDate>
+        <pubDate>2024-06-06T00:12:09+03:00</pubDate>
+        <lastBuildDate>2024-06-06T00:12:09+03:00</lastBuildDate>
 
         <item>
+	<title>Baie-Johan-Beetz Travel Guide (North Shore/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/baie-johan-beetz/</link>
+	<description>Discover the natural and cultural attractions of Baie-Johan-Beetz, Quebec and learn about the best things to do, where to stay, what to buy, and more with this comprehensive travel guide.</description>
+	<pubDate>2024-06-06T00:12:09+03:00</pubDate>
+</item><item>
 	<title>Trefriw Travel Guide (Conwy (county borough)/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/conwy-county-borough/trefriw/</link>
 	<description>Discover the best things to do, see, and experience in Trefriw, North Wales, in this ultimate travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/north/para/salinopolis/</link>
 	<description>Salinópolis is a beautiful coastal city in Brazil. Explore this comprehensive travel guide to know where to go, what to do and where to stay in Salinópolis.</description>
 	<pubDate>2024-06-05T19:58:07+03:00</pubDate>
-</item><item>
-	<title>Kuruma Travel Guide (Coastal Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/coastal-odisha/kuruma/</link>
-	<description>Discover the cultural and outdoor adventure destinations of Kuruma, Odisha, and learn the best things to do, where to stay, and how to get there in this comprehensive travel guide.</description>
-	<pubDate>2024-06-05T19:05:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
