@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T09:49:58+03:00</pubDate>
-        <lastBuildDate>2024-06-05T09:49:58+03:00</lastBuildDate>
+        <pubDate>2024-06-05T10:07:05+03:00</pubDate>
+        <lastBuildDate>2024-06-05T10:07:05+03:00</lastBuildDate>
 
         <item>
+	<title>Belluno (province) Travel Guide (Veneto/Northeast Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/belluno-province/</link>
+	<description>Discover the cultural attractions, natural wonders, hiking and biking routes, food and drink scene, and local culture of Belluno (province), Italy. Learn about the best time to visit, transportation options, where to stay, and nearby destinations to explore.</description>
+	<pubDate>2024-06-05T10:07:05+03:00</pubDate>
+</item><item>
 	<title>Cobh Travel Guide (County Cork/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/cobh/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Cobh, Ireland, with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/tavastia-proper/hameenlinna/</link>
 	<description>Plan your trip to Hämeenlinna with this comprehensive travel guide featuring must-visit attractions, outdoor adventures, dining options, and more.</description>
 	<pubDate>2024-06-05T05:41:42+03:00</pubDate>
-</item><item>
-	<title>Madurai Travel Guide (Southwestern Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/southwestern-tamil-nadu/madurai/</link>
-	<description>Planning a trip to Madurai? Read our comprehensive guide for a list of places to visit, food to eat, hotels to stay at, and things to do in Madurai.</description>
-	<pubDate>2024-06-05T05:17:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
