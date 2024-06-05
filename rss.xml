@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T14:39:12+03:00</pubDate>
-        <lastBuildDate>2024-06-05T14:39:12+03:00</lastBuildDate>
+        <pubDate>2024-06-05T15:18:42+03:00</pubDate>
+        <lastBuildDate>2024-06-05T15:18:42+03:00</lastBuildDate>
 
         <item>
+	<title>Pilani Travel Guide (Jaipur Division/Rajasthan/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/rajasthan/jaipur-division/pilani/</link>
+	<description>Discover Pilani, Rajasthan with this travel guide featuring top attractions, hiking/biking routes, a week-long itinerary, food recommendations, and transportation options.</description>
+	<pubDate>2024-06-05T15:18:42+03:00</pubDate>
+</item><item>
 	<title>Hood River Travel Guide (Mount Hood and Columbia Gorge/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/mount-hood-and-columbia-gorge/hood-river/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more with our comprehensive travel guide to Hood River, Oregon.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/austria/vienna/hietzing/</link>
 	<description>Discover Hietzing, Vienna's greenest district, with our comprehensive travel guide. Explore cultural and natural attractions, hiking and biking routes, local food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-06-05T10:35:58+03:00</pubDate>
-</item><item>
-	<title>Belluno (province) Travel Guide (Veneto/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/belluno-province/</link>
-	<description>Discover the cultural attractions, natural wonders, hiking and biking routes, food and drink scene, and local culture of Belluno (province), Italy. Learn about the best time to visit, transportation options, where to stay, and nearby destinations to explore.</description>
-	<pubDate>2024-06-05T10:07:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
