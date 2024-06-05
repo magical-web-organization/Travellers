@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T06:37:59+03:00</pubDate>
-        <lastBuildDate>2024-06-05T06:37:59+03:00</lastBuildDate>
+        <pubDate>2024-06-05T07:20:21+03:00</pubDate>
+        <lastBuildDate>2024-06-05T07:20:21+03:00</lastBuildDate>
 
         <item>
+	<title>Mims Travel Guide (Space Coast/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/space-coast/mims/</link>
+	<description>Discover the best places to visit, things to do, and local culture and customs in Mims, Florida. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-06-05T07:20:21+03:00</pubDate>
+</item><item>
 	<title>Horn of Africa Travel Guide (East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/horn-of-africa/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and cultural sites in Horn of Africa. Plan your trip today with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/north-country/plattsburgh/</link>
 	<description>Check out our comprehensive Plattsburgh travel guide for an all-inclusive tour of the city. Discover all the top attractions, things to do, and places to stay in Plattsburgh.</description>
 	<pubDate>2024-06-05T02:34:40+03:00</pubDate>
-</item><item>
-	<title>Pangandaran Travel Guide (East Parahyangan/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/east-parahyangan/pangandaran/</link>
-	<description>Plan an unforgettable trip to Pangandaran with our comprehensive guide! Get insider tips, discover the best attractions, food & drink scene, where to stay, culture, and more! Adventure awaits in Western Java.</description>
-	<pubDate>2024-06-05T02:12:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
