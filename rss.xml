@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T02:06:40+03:00</pubDate>
-        <lastBuildDate>2024-06-06T02:06:40+03:00</lastBuildDate>
+        <pubDate>2024-06-06T02:49:29+03:00</pubDate>
+        <lastBuildDate>2024-06-06T02:49:29+03:00</lastBuildDate>
 
         <item>
+	<title>Lefkara Travel Guide (Larnaca district/Cyprus/Europe)</title>
+	<link>https://travellers.wiki/en/europe/cyprus/larnaca-district/lefkara/</link>
+	<description>Plan your trip to Lefkara with this comprehensive guide, including must-see attractions, hiking routes, food and drink scene, local culture, transportation options, and more.</description>
+	<pubDate>2024-06-06T02:49:29+03:00</pubDate>
+</item><item>
 	<title>Hongcun Travel Guide (Anhui/South-central China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/anhui/hongcun/</link>
 	<description>Explore the culturally important attractions, natural wonders, food and drink scene, local culture and customs, and logistics of Hongcun through this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/mount-rainier-national-park/</link>
 	<description>Discover the beauty of Mount Rainier National Park with our comprehensive guide. From the best places to visit and hike to the food and accommodation scene, we've got you covered. Read on for more!</description>
 	<pubDate>2024-06-05T22:18:36+03:00</pubDate>
-</item><item>
-	<title>Libo County Travel Guide (Guizhou/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/guizhou/libo-county/</link>
-	<description>Plan your trip to Libo County with this comprehensive travel guide featuring must-see attractions, hiking/biking routes, food and drink scene, accommodations, local culture, and logistics.</description>
-	<pubDate>2024-06-05T21:41:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
