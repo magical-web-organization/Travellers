@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T02:34:40+03:00</pubDate>
-        <lastBuildDate>2024-06-05T02:34:40+03:00</lastBuildDate>
+        <pubDate>2024-06-05T03:30:14+03:00</pubDate>
+        <lastBuildDate>2024-06-05T03:30:14+03:00</lastBuildDate>
 
         <item>
+	<title>Vordingborg Travel Guide (South Zealand/Zealand/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/south-zealand/vordingborg/</link>
+	<description>Explore the historically rich and scenic Vordingborg in Denmark with our tour guide. Discover the must-visit places, cultural attractions, natural wonders, and more.</description>
+	<pubDate>2024-06-05T03:30:14+03:00</pubDate>
+</item><item>
 	<title>Plattsburgh Travel Guide (North Country/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/north-country/plattsburgh/</link>
 	<description>Check out our comprehensive Plattsburgh travel guide for an all-inclusive tour of the city. Discover all the top attractions, things to do, and places to stay in Plattsburgh.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/slovakia/eastern-slovakia/slovak-karst-national-park/</link>
 	<description>Discover the hidden gem of Slovakia with this comprehensive travel guide to Slovak Karst National Park, including places to visit, hiking and biking routes, food and drink scene, accommodations, local culture, and more.</description>
 	<pubDate>2024-06-04T22:44:28+03:00</pubDate>
-</item><item>
-	<title>Nyahururu Travel Guide (Southern Rift Valley/Kenya/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/kenya/southern-rift-valley/nyahururu/</link>
-	<description>Explore the natural and cultural attractions of Nyahururu, Kenya, and discover the best things to do, see, eat, and buy in this charming town with our comprehensive travel guide.</description>
-	<pubDate>2024-06-04T22:31:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
