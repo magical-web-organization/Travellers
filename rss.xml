@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T03:35:38+03:00</pubDate>
-        <lastBuildDate>2024-06-05T03:35:38+03:00</lastBuildDate>
+        <pubDate>2024-06-05T04:19:30+03:00</pubDate>
+        <lastBuildDate>2024-06-05T04:19:30+03:00</lastBuildDate>
 
         <item>
+	<title>Badanaguppe Travel Guide (Chamarajanagar (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/chamarajanagar-district/badanaguppe/</link>
+	<description>Explore the cultural and natural attractions, food and drink scene, places to stay, and more in Badanaguppe, a hidden gem in Karnataka, India.</description>
+	<pubDate>2024-06-05T04:19:30+03:00</pubDate>
+</item><item>
 	<title>Lund Travel Guide (Sunshine Coast/Lower Mainland/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/sunshine-coast/lund/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Lund, BC. Learn about the local culture and customs, safety and health, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/iran/western-iran/lorestan/khorramabad/</link>
 	<description>Planning to visit Khorramabad in Lorestan, Iran? Check out our comprehensive travel guide for information on tourist attractions, hiking routes, food and drink scenes, hotels, transportation, safety, and culture.</description>
 	<pubDate>2024-06-04T23:54:34+03:00</pubDate>
-</item><item>
-	<title>Hamilton Travel Guide (North Shore/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/north-shore/hamilton/</link>
-	<description>Explore the best places to visit, hike/bike routes, food, accommodation, local culture, safety, transportation in Hamilton. Plan your perfect vacation in Hamilton with this detailed travel guide by your side.</description>
-	<pubDate>2024-06-04T23:21:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
