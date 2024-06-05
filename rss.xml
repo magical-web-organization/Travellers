@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-05T16:47:21+03:00</pubDate>
-        <lastBuildDate>2024-06-05T16:47:21+03:00</lastBuildDate>
+        <pubDate>2024-06-05T17:33:12+03:00</pubDate>
+        <lastBuildDate>2024-06-05T17:33:12+03:00</lastBuildDate>
 
         <item>
+	<title>Sparks Travel Guide (Western Nevada/Nevada/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/nevada/western-nevada/sparks/</link>
+	<description>Plan your trip to Sparks, Nevada with our comprehensive travel guide featuring attractions, activities, best places to eat and stay, and more.</description>
+	<pubDate>2024-06-05T17:33:12+03:00</pubDate>
+</item><item>
 	<title>Droitwich Travel Guide (Worcestershire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/worcestershire/droitwich/</link>
 	<description>Planning a trip to Droitwich? This guide covers all the essential information you need, including top places to visit, best things to do, where to stay, and more. Explore Droitwich like a local and make the most of your trip!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/northern-saskatchewan/spiritwood/</link>
 	<description>A detailed guide to everything you need to know to plan your trip to Spiritwood, including places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture, safety and health, getting there, and more.</description>
 	<pubDate>2024-06-05T12:59:07+03:00</pubDate>
-</item><item>
-	<title>Coatzalcocos Travel Guide (Veracruz (state)/Central Mexico/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/veracruz-state/coatzalcocos/</link>
-	<description>Discover the best things to see and do in Coatzalcocos, Veracruz, Mexico. Read our comprehensive travel guide and plan your itinerary now!</description>
-	<pubDate>2024-06-05T12:27:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
