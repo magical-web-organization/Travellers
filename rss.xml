@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T10:23:38+03:00</pubDate>
-        <lastBuildDate>2024-06-06T10:23:38+03:00</lastBuildDate>
+        <pubDate>2024-06-06T10:36:13+03:00</pubDate>
+        <lastBuildDate>2024-06-06T10:36:13+03:00</lastBuildDate>
 
         <item>
+	<title>Warrumbungle National Park Travel Guide (Central West/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/warrumbungle-national-park/</link>
+	<description>Plan your next adventure to Warrumbungle National Park with this comprehensive guide, featuring information on places to visit, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and more.</description>
+	<pubDate>2024-06-06T10:36:13+03:00</pubDate>
+</item><item>
 	<title>Chambord Travel Guide (Centre-Val de Loire/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/centre-val-de-loire/chambord/</link>
 	<description>Plan your trip to Chambord with our comprehensive travel guide. Discover the best things to do, places to visit, and where to stay in this beautiful French city.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/belize/cayo/belmopan/</link>
 	<description>Discover the best things to do, see, and eat in Belmopan, Belize, with this comprehensive travel guide. Learn about the top attractions, dining scene, accommodations, and more.</description>
 	<pubDate>2024-06-06T06:21:05+03:00</pubDate>
-</item><item>
-	<title>Boipeba Travel Guide (South/Bahia/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/south/boipeba/</link>
-	<description>Discover everything you need to know for a fun-filled trip to Boipeba, Brazil. Explore the natural attractions, hiking/biking routes, local culture, safety tips, and more.</description>
-	<pubDate>2024-06-06T05:53:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
