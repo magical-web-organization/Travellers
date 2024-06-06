@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T11:51:15+03:00</pubDate>
-        <lastBuildDate>2024-06-06T11:51:15+03:00</lastBuildDate>
+        <pubDate>2024-06-06T12:30:56+03:00</pubDate>
+        <lastBuildDate>2024-06-06T12:30:56+03:00</lastBuildDate>
 
         <item>
+	<title>Westmount–Notre-Dame-de-Grâce Travel Guide (Montreal/Southwestern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/montreal/westmount-notre-dame-de-grace/</link>
+	<description>Explore the culturally and naturally rich Westmount–Notre-Dame-de-Grâce through this comprehensive travel guide. Find information on places to visit, hiking/biking routes, best things to do, food and drink scene, where to stay, and much more. Plan your trip now!</description>
+	<pubDate>2024-06-06T12:30:56+03:00</pubDate>
+</item><item>
 	<title>Campbell Travel Guide (South Bay/Bay Area/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/south-bay/campbell/</link>
 	<description>Plan your trip to Campbell with our comprehensive travel guide, including the best places to visit, where to stay, what to eat, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/kennebec-and-moose-river-valleys/monmouth/</link>
 	<description>Discover the best places to visit, things to do, food and drink, accommodations, and local culture in Monmouth with this comprehensive travel guide.</description>
 	<pubDate>2024-06-06T07:34:23+03:00</pubDate>
-</item><item>
-	<title>Sant'Angelo Dei Lombardi Travel Guide (Avellino (province)/Campania/Southern Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/avellino-province/sant-angelo-dei-lombardi/</link>
-	<description>Discover the best places to visit, activities, hiking routes, food, culture, safety, transportation options, and nearby destinations in Sant'Angelo Dei Lombardi, Italy in this comprehensive travel guide.</description>
-	<pubDate>2024-06-06T07:03:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
