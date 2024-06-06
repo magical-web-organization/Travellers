@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T22:56:46+03:00</pubDate>
-        <lastBuildDate>2024-06-06T22:56:46+03:00</lastBuildDate>
+        <pubDate>2024-06-06T23:15:01+03:00</pubDate>
+        <lastBuildDate>2024-06-06T23:15:01+03:00</lastBuildDate>
 
         <item>
+	<title>Madeira Beach Travel Guide (Pinellas County/Tampa Bay Area/Florida West Coast/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-west-coast/tampa-bay-area/pinellas-county/madeira-beach/</link>
+	<description>Explore the natural beauty and cultural attractions of Madeira Beach with our comprehensive travel guide. Discover the best things to do, places to visit, and where to stay, eat, and shop.</description>
+	<pubDate>2024-06-06T23:15:01+03:00</pubDate>
+</item><item>
 	<title>Coshocton Travel Guide (Southeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/southeast-ohio/coshocton/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Coshocton, Ohio. Learn about its cultural and natural attractions, local food and drink scene, local culture, and customs, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/chamba-district/bharmour/</link>
 	<description>Plan your trip to Bharmour with this comprehensive guide, including a list of attractions, hiking and biking routes, things to do, where to stay, what to buy, and more.</description>
 	<pubDate>2024-06-06T18:56:32+03:00</pubDate>
-</item><item>
-	<title>Oliver Travel Guide (Okanagan/Thompson-Okanagan/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/okanagan/oliver/</link>
-	<description>Discover the best things to do and see in Oliver, a town located in the heart of the Thompson-Okanagan region in British Columbia, Canada.</description>
-	<pubDate>2024-06-06T18:10:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
