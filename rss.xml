@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T16:02:12+03:00</pubDate>
-        <lastBuildDate>2024-06-06T16:02:12+03:00</lastBuildDate>
+        <pubDate>2024-06-06T16:30:46+03:00</pubDate>
+        <lastBuildDate>2024-06-06T16:30:46+03:00</lastBuildDate>
 
         <item>
+	<title>Swabian cultural region Travel Guide (Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/swabian-cultural-region/</link>
+	<description>Plan your perfect trip to Swabian Cultural Region with our comprehensive travel guide featuring the best places to visit, hiking/biking routes, food and drink scene and much more.</description>
+	<pubDate>2024-06-06T16:30:46+03:00</pubDate>
+</item><item>
 	<title>Middlesbrough Travel Guide (North Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/north-yorkshire/middlesbrough/</link>
 	<description>Discover the best attractions, activities, food, accommodations, and practical information about Middlesbrough, a vibrant town in North Yorkshire, UK, with our ultimate tour guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/south-bay/campbell/</link>
 	<description>Plan your trip to Campbell with our comprehensive travel guide, including the best places to visit, where to stay, what to eat, and more!</description>
 	<pubDate>2024-06-06T11:51:15+03:00</pubDate>
-</item><item>
-	<title>Aizuwakamatsu Travel Guide (Fukushima (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/fukushima-prefecture/aizuwakamatsu/</link>
-	<description>Plan your trip to Aizuwakamatsu with this comprehensive guide featuring top attractions, hiking and biking routes, food and drink scene, and more.</description>
-	<pubDate>2024-06-06T11:16:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
