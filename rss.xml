@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T00:11:11+03:00</pubDate>
-        <lastBuildDate>2024-06-07T00:11:11+03:00</lastBuildDate>
+        <pubDate>2024-06-07T01:00:59+03:00</pubDate>
+        <lastBuildDate>2024-06-07T01:00:59+03:00</lastBuildDate>
 
         <item>
+	<title>Limassol Travel Guide (Limassol district/Cyprus/Europe)</title>
+	<link>https://travellers.wiki/en/europe/cyprus/limassol-district/limassol/</link>
+	<description>Discover the best places to visit, food and drink scene, where to stay, and more in Limassol, Cyprus. Plan your trip with our detailed travel guide.</description>
+	<pubDate>2024-06-07T01:00:59+03:00</pubDate>
+</item><item>
 	<title>Arendal Travel Guide (Agder/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/agder/arendal/</link>
 	<description>Plan your trip to Arendal, Norway with our comprehensive guide that includes information on top attractions, places to stay, food and drink scene, local culture, safety measures, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/tamil-nadu-north-coast/karaikal/</link>
 	<description>Plan your trip to Karaikal, Tamil Nadu North Coast with our comprehensive travel guide. Discover cultural and natural attractions, food and drinks, where to stay, and transportation options.</description>
 	<pubDate>2024-06-06T20:04:04+03:00</pubDate>
-</item><item>
-	<title>Ukpo Travel Guide (Anambra State/South East Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/anambra-state/ukpo/</link>
-	<description>Explore the cultural, natural, and adventurous attractions of Ukpo in Anambra State, Nigeria with our helpful travel guide.</description>
-	<pubDate>2024-06-06T19:57:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
