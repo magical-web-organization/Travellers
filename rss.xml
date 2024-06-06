@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T18:56:32+03:00</pubDate>
-        <lastBuildDate>2024-06-06T18:56:32+03:00</lastBuildDate>
+        <pubDate>2024-06-06T19:25:29+03:00</pubDate>
+        <lastBuildDate>2024-06-06T19:25:29+03:00</lastBuildDate>
 
         <item>
+	<title>Hajar Mountains Travel Guide (Northern Oman/Oman/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/oman/northern-oman/hajar-mountains/</link>
+	<description>Discover the culturally rich and naturally breathtaking Hajar Mountains of Oman with our comprehensive travel guide. Learn about the best places to stay, things to do, local culture, safety tips, and more.</description>
+	<pubDate>2024-06-06T19:25:29+03:00</pubDate>
+</item><item>
 	<title>Bharmour Travel Guide (Chamba (district)/Himachal Pradesh/Himalayan North/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/chamba-district/bharmour/</link>
 	<description>Plan your trip to Bharmour with this comprehensive guide, including a list of attractions, hiking and biking routes, things to do, where to stay, what to buy, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/stanislaus-county/modesto/</link>
 	<description>Discover the best things to do and places to visit in Modesto, California. From natural attractions to cultural landmarks, this comprehensive travel guide highlights all that Modesto has to offer.</description>
 	<pubDate>2024-06-06T14:42:32+03:00</pubDate>
-</item><item>
-	<title>Imperial Beach Travel Guide (South Bay/San Diego County/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/south-bay/imperial-beach/</link>
-	<description>Read this comprehensive travel guide to Imperial Beach, California to learn about the best places to visit, hike, bike, eat, drink, stay, and much more. Experience the richness of California's hidden gem like never before.</description>
-	<pubDate>2024-06-06T14:07:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
