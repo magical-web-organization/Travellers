@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T05:53:32+03:00</pubDate>
-        <lastBuildDate>2024-06-06T05:53:32+03:00</lastBuildDate>
+        <pubDate>2024-06-06T06:21:05+03:00</pubDate>
+        <lastBuildDate>2024-06-06T06:21:05+03:00</lastBuildDate>
 
         <item>
+	<title>Belmopan Travel Guide (Cayo/Belize/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/belize/cayo/belmopan/</link>
+	<description>Discover the best things to do, see, and eat in Belmopan, Belize, with this comprehensive travel guide. Learn about the top attractions, dining scene, accommodations, and more.</description>
+	<pubDate>2024-06-06T06:21:05+03:00</pubDate>
+</item><item>
 	<title>Boipeba Travel Guide (South/Bahia/Northeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/bahia/south/boipeba/</link>
 	<description>Discover everything you need to know for a fun-filled trip to Boipeba, Brazil. Explore the natural attractions, hiking/biking routes, local culture, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-kerry/portmagee/</link>
 	<description>Plan your perfect trip to Portmagee with our comprehensive travel guide. From exploring natural attractions to trying local dishes, this guide covers it all.</description>
 	<pubDate>2024-06-06T01:46:29+03:00</pubDate>
-</item><item>
-	<title>Laurium and Calumet Travel Guide (Keweenaw Peninsula/Upper Peninsula/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/keweenaw-peninsula/laurium-and-calumet/</link>
-	<description>Discover the best places to visit, eat, stay, and things to do in Laurium and Calumet in Michigan's Upper Peninsula.</description>
-	<pubDate>2024-06-06T01:24:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
