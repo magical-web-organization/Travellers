@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T12:57:25+03:00</pubDate>
-        <lastBuildDate>2024-06-06T12:57:25+03:00</lastBuildDate>
+        <pubDate>2024-06-06T13:20:59+03:00</pubDate>
+        <lastBuildDate>2024-06-06T13:20:59+03:00</lastBuildDate>
 
         <item>
+	<title>Herzberg am Harz Travel Guide (Southern Lower Saxony/Lower Saxony/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/southern-lower-saxony/herzberg-am-harz/</link>
+	<description>Explore the culturally and naturally rich Herzberg am Harz in Southern Lower Saxony, Germany. Read our comprehensive travel guide for information on places to visit, hiking/biking routes, food and drink, accommodations, and more!</description>
+	<pubDate>2024-06-06T13:20:59+03:00</pubDate>
+</item><item>
 	<title>Songpan Travel Guide (Aba (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/aba-prefecture/songpan/</link>
 	<description>Discover the best things to do, places to stay, and where to eat in Songpan. Learn about its culture and customs, safety concerns, and transportation options in this complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/venezuela/central/caracas/</link>
 	<description>Explore the culturally rich and adventurous city of Caracas with this comprehensive travel guide. Get detailed information on places to visit, things to do, local food and drink, accommodation options, cultural customs, safety, transportation, and nearby excursions.</description>
 	<pubDate>2024-06-06T08:35:05+03:00</pubDate>
-</item><item>
-	<title>Hora Sfakion Travel Guide (Chania (regional unit)/Crete/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/crete/chania-regional-unit/hora-sfakion/</link>
-	<description>Discover the best places to visit, things to do, and local food and drink scene in Hora Sfakion, Crete. Learn about its hiking and biking routes, nearby excursions, and cultural attractions.</description>
-	<pubDate>2024-06-06T08:25:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
