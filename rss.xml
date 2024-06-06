@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T10:36:13+03:00</pubDate>
-        <lastBuildDate>2024-06-06T10:36:13+03:00</lastBuildDate>
+        <pubDate>2024-06-06T11:16:04+03:00</pubDate>
+        <lastBuildDate>2024-06-06T11:16:04+03:00</lastBuildDate>
 
         <item>
+	<title>Aizuwakamatsu Travel Guide (Fukushima (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/fukushima-prefecture/aizuwakamatsu/</link>
+	<description>Plan your trip to Aizuwakamatsu with this comprehensive guide featuring top attractions, hiking and biking routes, food and drink scene, and more.</description>
+	<pubDate>2024-06-06T11:16:04+03:00</pubDate>
+</item><item>
 	<title>Warrumbungle National Park Travel Guide (Central West/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/warrumbungle-national-park/</link>
 	<description>Plan your next adventure to Warrumbungle National Park with this comprehensive guide, featuring information on places to visit, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/west-coast/paparoa-national-park/</link>
 	<description>Discover the beautiful Paparoa National Park in New Zealand with our comprehensive tour guide. Learn about the must-visit places, natural attractions, hiking and biking routes, food and drink scene, where to stay, local culture, and more.</description>
 	<pubDate>2024-06-06T06:43:38+03:00</pubDate>
-</item><item>
-	<title>Belmopan Travel Guide (Cayo/Belize/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/belize/cayo/belmopan/</link>
-	<description>Discover the best things to do, see, and eat in Belmopan, Belize, with this comprehensive travel guide. Learn about the top attractions, dining scene, accommodations, and more.</description>
-	<pubDate>2024-06-06T06:21:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
