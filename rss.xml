@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T21:01:58+03:00</pubDate>
-        <lastBuildDate>2024-06-06T21:01:58+03:00</lastBuildDate>
+        <pubDate>2024-06-06T21:28:45+03:00</pubDate>
+        <lastBuildDate>2024-06-06T21:28:45+03:00</lastBuildDate>
 
         <item>
+	<title>Sodere Travel Guide (Central Ethiopia/Ethiopia/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/ethiopia/central-ethiopia/sodere/</link>
+	<description>Plan your trip to Sodere with this comprehensive travel guide, featuring everything from cultural attractions to outdoor adventures.</description>
+	<pubDate>2024-06-06T21:28:45+03:00</pubDate>
+</item><item>
 	<title>Western Visayas Travel Guide (Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/western-visayas/</link>
 	<description>Discover the best things to do, eat, and explore in Western Visayas. Find out where to stay and how to get around with our complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/bouches-du-rhone/la-ciotat/</link>
 	<description>Plan your trip to La Ciotat with this comprehensive guide, including places to visit, things to do, where to stay, and local customs.</description>
 	<pubDate>2024-06-06T17:00:46+03:00</pubDate>
-</item><item>
-	<title>Swabian cultural region Travel Guide (Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/swabian-cultural-region/</link>
-	<description>Plan your perfect trip to Swabian Cultural Region with our comprehensive travel guide featuring the best places to visit, hiking/biking routes, food and drink scene and much more.</description>
-	<pubDate>2024-06-06T16:30:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
