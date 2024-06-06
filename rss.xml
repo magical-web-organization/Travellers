@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T08:35:05+03:00</pubDate>
-        <lastBuildDate>2024-06-06T08:35:05+03:00</lastBuildDate>
+        <pubDate>2024-06-06T09:07:24+03:00</pubDate>
+        <lastBuildDate>2024-06-06T09:07:24+03:00</lastBuildDate>
 
         <item>
+	<title>South Travel Guide (Austin/Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/austin/south/</link>
+	<description>This comprehensive travel guide for South, Austin will give you all the insider details about the best places to visit, where to stay, what to eat, local customs, and much more.</description>
+	<pubDate>2024-06-06T09:07:24+03:00</pubDate>
+</item><item>
 	<title>Caracas Travel Guide (Central/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/central/caracas/</link>
 	<description>Explore the culturally rich and adventurous city of Caracas with this comprehensive travel guide. Get detailed information on places to visit, things to do, local food and drink, accommodation options, cultural customs, safety, transportation, and nearby excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/cowbridge/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and more in Cowbridge, South Wales. This ultimate guide covers everything you need to know before planning your trip.</description>
 	<pubDate>2024-06-06T04:54:14+03:00</pubDate>
-</item><item>
-	<title>Palma de Mallorca Travel Guide (Mallorca/Balearic Islands/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/mallorca/palma-de-mallorca/</link>
-	<description>Explore Palma de Mallorca with this complete travel guide, including top attractions, hiking and biking routes, food and drink scene, accommodation options, safety and health tips, transportation options, and nearby destinations to explore.</description>
-	<pubDate>2024-06-06T04:08:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
