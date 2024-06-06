@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T03:41:20+03:00</pubDate>
-        <lastBuildDate>2024-06-06T03:41:20+03:00</lastBuildDate>
+        <pubDate>2024-06-06T04:08:57+03:00</pubDate>
+        <lastBuildDate>2024-06-06T04:08:57+03:00</lastBuildDate>
 
         <item>
+	<title>Palma de Mallorca Travel Guide (Mallorca/Balearic Islands/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/mallorca/palma-de-mallorca/</link>
+	<description>Explore Palma de Mallorca with this complete travel guide, including top attractions, hiking and biking routes, food and drink scene, accommodation options, safety and health tips, transportation options, and nearby destinations to explore.</description>
+	<pubDate>2024-06-06T04:08:57+03:00</pubDate>
+</item><item>
 	<title>Charleville Travel Guide (Outback Queensland/Queensland/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/queensland/outback-queensland/charleville/</link>
 	<description>Plan your visit with this informative travel guide to Charleville, Outback Queensland. Discover the best places to visit, things to do, where to stay, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/conwy-county-borough/trefriw/</link>
 	<description>Discover the best things to do, see, and experience in Trefriw, North Wales, in this ultimate travel guide.</description>
 	<pubDate>2024-06-05T23:57:38+03:00</pubDate>
-</item><item>
-	<title>Kanye Travel Guide (Southeast/Botswana/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/botswana/southeast/kanye/</link>
-	<description>This travel guide covers everything you need to know about visiting Kanye in Botswana. Discover the top places to visit, best things to do, where to stay, and more.</description>
-	<pubDate>2024-06-05T23:32:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
