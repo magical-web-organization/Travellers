@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-06T21:40:30+03:00</pubDate>
-        <lastBuildDate>2024-06-06T21:40:30+03:00</lastBuildDate>
+        <pubDate>2024-06-06T22:03:38+03:00</pubDate>
+        <lastBuildDate>2024-06-06T22:03:38+03:00</lastBuildDate>
 
         <item>
+	<title>Keld Travel Guide (North Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/north-yorkshire/keld/</link>
+	<description>Discover the best places to visit, outdoor adventures, hiking/biking routes, where to stay, what to eat, local culture and customs, safety and health, transportation options, and nearby destinations in Keld, North Yorkshire.</description>
+	<pubDate>2024-06-06T22:03:38+03:00</pubDate>
+</item><item>
 	<title>Château-du-Loir Travel Guide (Pays de la Loire/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/pays-de-la-loire/chateau-du-loir/</link>
 	<description>Plan your visit to Château-du-Loir in Pays de la Loire with our comprehensive travel guide. Discover the best places to visit, activities, food, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/brunei/tutong/</link>
 	<description>Plan your trip to Tutong, Brunei with our comprehensive guide featuring top attractions, things to do, where to stay, local culture and customs, safety and health, transportation options and logistics, and nearby destinations.</description>
 	<pubDate>2024-06-06T17:58:25+03:00</pubDate>
-</item><item>
-	<title>Bernal Heights Travel Guide (San Francisco/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/san-francisco/bernal-heights/</link>
-	<description>Explore the hidden gems of Bernal Heights, San Francisco with our comprehensive travel guide. Find out the best things to do, places to stay, and where to eat in Bernal Heights.</description>
-	<pubDate>2024-06-06T17:10:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
