@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T16:55:18+03:00</pubDate>
-        <lastBuildDate>2024-06-07T16:55:18+03:00</lastBuildDate>
+        <pubDate>2024-06-07T17:08:45+03:00</pubDate>
+        <lastBuildDate>2024-06-07T17:08:45+03:00</lastBuildDate>
 
         <item>
+	<title>Monticello Travel Guide (Canyon Country/Utah/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/canyon-country/monticello/</link>
+	<description>Discover the best places to visit, eat, stay, hike, and more in Monticello, UT. Plan your trip to this beautiful destination today!</description>
+	<pubDate>2024-06-07T17:08:45+03:00</pubDate>
+</item><item>
 	<title>Samye Travel Guide (Shannan (prefecture)/Tibet/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/shannan-prefecture/samye/</link>
 	<description>Explore the best things to see and do in Samye, Tibet with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/metropolitan-venice/venice/castello/</link>
 	<description>Explore the culturally rich neighborhood of Castello in Venice with this comprehensive travel guide. Discover the top attractions, outdoor adventures, food scene, accommodations, safety tips, and more.</description>
 	<pubDate>2024-06-07T12:45:40+03:00</pubDate>
-</item><item>
-	<title>Misasa Travel Guide (Tottori (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/tottori-prefecture/misasa/</link>
-	<description>Discover the best things to do, see, and eat in Misasa, Japan with our comprehensive travel guide. Plan your trip with our tips on where to stay, how to get around, and more.</description>
-	<pubDate>2024-06-07T12:32:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
