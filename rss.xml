@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T12:45:40+03:00</pubDate>
-        <lastBuildDate>2024-06-07T12:45:40+03:00</lastBuildDate>
+        <pubDate>2024-06-07T13:16:17+03:00</pubDate>
+        <lastBuildDate>2024-06-07T13:16:17+03:00</lastBuildDate>
 
         <item>
+	<title>Nouakchott Travel Guide (Coastal Mauritania/Mauritania/Sahel/Africa)</title>
+	<link>https://travellers.wiki/en/africa/sahel/mauritania/coastal-mauritania/nouakchott/</link>
+	<description>Plan the perfect trip to Nouakchott with this comprehensive tour guide. Discover culturally important attractions, natural wonders, great food and drink choices, where to stay, and much more.</description>
+	<pubDate>2024-06-07T13:16:17+03:00</pubDate>
+</item><item>
 	<title>Castello Travel Guide (Venice/Metropolitan Venice/Veneto/Northeast Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/metropolitan-venice/venice/castello/</link>
 	<description>Explore the culturally rich neighborhood of Castello in Venice with this comprehensive travel guide. Discover the top attractions, outdoor adventures, food scene, accommodations, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/povardarie/negotino/</link>
 	<description>Plan your travel to Negotino, North Macedonia, with our complete travel guide featuring top attractions, things to do, where to stay, and more!</description>
 	<pubDate>2024-06-07T09:00:37+03:00</pubDate>
-</item><item>
-	<title>Begur Wildlife Sanctuary Travel Guide (Wayanad/Malabar/Kerala/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/wayanad/begur-wildlife-sanctuary/</link>
-	<description>Check out our comprehensive guide to the Begur Wildlife Sanctuary, located in Malabar, Kerala, India. Learn about the best things to do, see, and eat, as well as transportation options and logistics.</description>
-	<pubDate>2024-06-07T08:08:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
