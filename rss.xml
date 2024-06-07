@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T05:41:14+03:00</pubDate>
-        <lastBuildDate>2024-06-07T05:41:14+03:00</lastBuildDate>
+        <pubDate>2024-06-07T06:13:29+03:00</pubDate>
+        <lastBuildDate>2024-06-07T06:13:29+03:00</lastBuildDate>
 
         <item>
+	<title>Batam Centre Travel Guide (Batam/Riau Islands/Sumatra/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/riau-islands/batam/batam-centre/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around Batam Centre, Indonesia, with this comprehensive travel guide.</description>
+	<pubDate>2024-06-07T06:13:29+03:00</pubDate>
+</item><item>
 	<title>Middleport Travel Guide (Niagara County/Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/niagara-county/middleport/</link>
 	<description>Plan your trip to Middleport, NY with this comprehensive travel guide featuring top attractions, activities, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/victoria-state/melbourne/western-suburbs/</link>
 	<description>Plan your trip to the Western suburbs of Melbourne, Australia with this comprehensive travel guide. Discover the best things to do, where to stay, and where to eat in Western suburbs.</description>
 	<pubDate>2024-06-07T02:01:13+03:00</pubDate>
-</item><item>
-	<title>Coos Bay Travel Guide (Southern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/southern-oregon-coast/coos-bay/</link>
-	<description>Explore Coos Bay with this comprehensive travel guide featuring top attractions, outdoor adventures, hiking/biking routes, food and drink scene, local culture, safety and health, and transportation options.</description>
-	<pubDate>2024-06-07T01:10:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
