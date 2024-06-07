@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T00:02:53+03:00</pubDate>
-        <lastBuildDate>2024-06-08T00:02:53+03:00</lastBuildDate>
+        <pubDate>2024-06-08T00:11:52+03:00</pubDate>
+        <lastBuildDate>2024-06-08T00:11:52+03:00</lastBuildDate>
 
         <item>
+	<title>Jacareí Travel Guide (Grande São Paulo/São Paulo (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/grande-sao-paulo/jacarei/</link>
+	<description>Planning a trip to Jacareí, Brazil? Read this comprehensive travel guide for information on the best things to do, places to visit, where to stay, and more!</description>
+	<pubDate>2024-06-08T00:11:52+03:00</pubDate>
+</item><item>
 	<title>Mount Pleasant Travel Guide (Central Utah/Utah/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/central-utah/mount-pleasant/</link>
 	<description>Everything you need to know about Mount Pleasant - from things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/central-alberta/east-central-alberta/vermilion/</link>
 	<description>Discover the best places to visit, things to do, local culture, and tips for a safe and memorable trip to Vermilion, Alberta.</description>
 	<pubDate>2024-06-07T20:01:55+03:00</pubDate>
-</item><item>
-	<title>Baclayon Travel Guide (Bohol/Visayas/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/bohol/baclayon/</link>
-	<description>Discover Baclayon's top attractions, food options, accommodations, local culture, and important safety tips in this comprehensive travel guide.</description>
-	<pubDate>2024-06-07T19:24:55+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
