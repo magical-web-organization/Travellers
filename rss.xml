@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T21:16:14+03:00</pubDate>
-        <lastBuildDate>2024-06-07T21:16:14+03:00</lastBuildDate>
+        <pubDate>2024-06-07T21:51:34+03:00</pubDate>
+        <lastBuildDate>2024-06-07T21:51:34+03:00</lastBuildDate>
 
         <item>
+	<title>Roseville Travel Guide (Placer County/Gold Country/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/gold-country/placer-county/roseville/</link>
+	<description>Discover the best things to do, places to visit, where to stay, and more in Roseville, California. Read on for a complete travel guide!</description>
+	<pubDate>2024-06-07T21:51:34+03:00</pubDate>
+</item><item>
 	<title>Bombarral Travel Guide (Oeste/Estremadura/Tagus Valley/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/estremadura/oeste/bombarral/</link>
 	<description>Plan your trip to Bombarral with our comprehensive travel guide. Discover top attractions, hiking routes, activities, local cuisine, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/tibet/shannan-prefecture/samye/</link>
 	<description>Explore the best things to see and do in Samye, Tibet with our comprehensive travel guide.</description>
 	<pubDate>2024-06-07T16:55:18+03:00</pubDate>
-</item><item>
-	<title>Perpignan Travel Guide (Pyrénées-Orientales/Occitanie/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/occitanie/pyrenees-orientales/perpignan/</link>
-	<description>Explore the beautiful city of Perpignan in Pyrénées-Orientales, France. Discover the best places to visit, things to do, food scene, and transportation options in this comprehensive travel guide.</description>
-	<pubDate>2024-06-07T16:19:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
