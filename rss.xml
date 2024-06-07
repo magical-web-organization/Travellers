@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T10:58:24+03:00</pubDate>
-        <lastBuildDate>2024-06-07T10:58:24+03:00</lastBuildDate>
+        <pubDate>2024-06-07T11:14:44+03:00</pubDate>
+        <lastBuildDate>2024-06-07T11:14:44+03:00</lastBuildDate>
 
         <item>
+	<title>Higüey Travel Guide (Eastern Dominican Republic/Dominican Republic/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/dominican-republic/eastern-dominican-republic/higuey/</link>
+	<description>Plan your visit to Higüey, Dominican Republic with this comprehensive travel guide featuring top attractions, best things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-06-07T11:14:44+03:00</pubDate>
+</item><item>
 	<title>Negros Occidental Travel Guide (Negros/Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/negros/negros-occidental/</link>
 	<description>Plan your trip to Negros Occidental with this comprehensive tour guide packed with information about places to visit, things to do, food and drink scene, and local culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/north-goa/sinquerim/</link>
 	<description>A comprehensive guide to Sinquerim, including places to visit, things to do, where to stay, and tips for a safe and enjoyable trip.</description>
 	<pubDate>2024-06-07T07:00:53+03:00</pubDate>
-</item><item>
-	<title>Batam Centre Travel Guide (Batam/Riau Islands/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/riau-islands/batam/batam-centre/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and how to get around Batam Centre, Indonesia, with this comprehensive travel guide.</description>
-	<pubDate>2024-06-07T06:13:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
