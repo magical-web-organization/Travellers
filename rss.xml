@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T19:24:55+03:00</pubDate>
-        <lastBuildDate>2024-06-07T19:24:55+03:00</lastBuildDate>
+        <pubDate>2024-06-07T20:01:55+03:00</pubDate>
+        <lastBuildDate>2024-06-07T20:01:55+03:00</lastBuildDate>
 
         <item>
+	<title>Vermilion Travel Guide (East Central Alberta/Central Alberta/Alberta/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/central-alberta/east-central-alberta/vermilion/</link>
+	<description>Discover the best places to visit, things to do, local culture, and tips for a safe and memorable trip to Vermilion, Alberta.</description>
+	<pubDate>2024-06-07T20:01:55+03:00</pubDate>
+</item><item>
 	<title>Baclayon Travel Guide (Bohol/Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/bohol/baclayon/</link>
 	<description>Discover Baclayon's top attractions, food options, accommodations, local culture, and important safety tips in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/south-bali/denpasar/</link>
 	<description>Explore the best things to do, places to visit, where to stay, what to buy, and local culture and customs of Denpasar. Plan your itinerary and make the most out of your trip to this beautiful South Bali destination.</description>
 	<pubDate>2024-06-07T14:58:00+03:00</pubDate>
-</item><item>
-	<title>Jenolan Caves Travel Guide (Blue Mountains/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/blue-mountains/jenolan-caves/</link>
-	<description>Discover the best things to do in Jenolan Caves, the picturesque Blue Mountains destination in New South Wales, Australia. This comprehensive guide covers all you need to know about the must-see attractions, hiking routes, tours, accommodation options, food & drink scene, local culture, and more.</description>
-	<pubDate>2024-06-07T14:10:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
