@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T17:08:45+03:00</pubDate>
-        <lastBuildDate>2024-06-07T17:08:45+03:00</lastBuildDate>
+        <pubDate>2024-06-07T17:37:34+03:00</pubDate>
+        <lastBuildDate>2024-06-07T17:37:34+03:00</lastBuildDate>
 
         <item>
+	<title>Tsuruga Travel Guide (Fukui (prefecture)/Chubu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/fukui-prefecture/tsuruga/</link>
+	<description>Plan your trip to Tsuruga with our comprehensive travel guide. Explore culturally important attractions, natural wonders, cuisine, accommodation, and more.</description>
+	<pubDate>2024-06-07T17:37:34+03:00</pubDate>
+</item><item>
 	<title>Monticello Travel Guide (Canyon Country/Utah/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/canyon-country/monticello/</link>
 	<description>Discover the best places to visit, eat, stay, hike, and more in Monticello, UT. Plan your trip to this beautiful destination today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/sahel/mauritania/coastal-mauritania/nouakchott/</link>
 	<description>Plan the perfect trip to Nouakchott with this comprehensive tour guide. Discover culturally important attractions, natural wonders, great food and drink choices, where to stay, and much more.</description>
 	<pubDate>2024-06-07T13:16:17+03:00</pubDate>
-</item><item>
-	<title>Castello Travel Guide (Venice/Metropolitan Venice/Veneto/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/metropolitan-venice/venice/castello/</link>
-	<description>Explore the culturally rich neighborhood of Castello in Venice with this comprehensive travel guide. Discover the top attractions, outdoor adventures, food scene, accommodations, safety tips, and more.</description>
-	<pubDate>2024-06-07T12:45:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
