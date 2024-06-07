@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-07T13:16:17+03:00</pubDate>
-        <lastBuildDate>2024-06-07T13:16:17+03:00</lastBuildDate>
+        <pubDate>2024-06-07T13:40:19+03:00</pubDate>
+        <lastBuildDate>2024-06-07T13:40:19+03:00</lastBuildDate>
 
         <item>
+	<title>Selkirk Travel Guide (Interlake/Manitoba/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/interlake/selkirk/</link>
+	<description>Discover the best places to visit, eat, stay, and things to do in the charming town of Selkirk, Manitoba in Canada. Read on for a detailed travel guide.</description>
+	<pubDate>2024-06-07T13:40:19+03:00</pubDate>
+</item><item>
 	<title>Nouakchott Travel Guide (Coastal Mauritania/Mauritania/Sahel/Africa)</title>
 	<link>https://travellers.wiki/en/africa/sahel/mauritania/coastal-mauritania/nouakchott/</link>
 	<description>Plan the perfect trip to Nouakchott with this comprehensive tour guide. Discover culturally important attractions, natural wonders, great food and drink choices, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/bali/west-bali/pemuteran/</link>
 	<description>Plan your perfect trip to Pemuteran, Bali with this comprehensive travel guide including top attractions, where to stay, where to eat, and more.</description>
 	<pubDate>2024-06-07T09:32:51+03:00</pubDate>
-</item><item>
-	<title>Negotino Travel Guide (Povardarie/North Macedonia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/povardarie/negotino/</link>
-	<description>Plan your travel to Negotino, North Macedonia, with our complete travel guide featuring top attractions, things to do, where to stay, and more!</description>
-	<pubDate>2024-06-07T09:00:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
