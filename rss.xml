@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T01:31:02+03:00</pubDate>
-        <lastBuildDate>2024-06-08T01:31:02+03:00</lastBuildDate>
+        <pubDate>2024-06-08T01:45:03+03:00</pubDate>
+        <lastBuildDate>2024-06-08T01:45:03+03:00</lastBuildDate>
 
         <item>
+	<title>Pulilan Travel Guide (Bulacan/Central Luzon/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/central-luzon/bulacan/pulilan/</link>
+	<description>Discover the best places to visit, food and drink scene, accommodations, and local culture and customs in Pulilan. Learn about transportation options, nearby destinations, and more in this comprehensive travel guide.</description>
+	<pubDate>2024-06-08T01:45:03+03:00</pubDate>
+</item><item>
 	<title>Marion Travel Guide (West Central Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/west-central-ohio/marion/</link>
 	<description>Discover the best places to visit, activities to do, food scene, where to stay, transportation options, and safety tips in Marion, Ohio.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/estremadura/oeste/bombarral/</link>
 	<description>Plan your trip to Bombarral with our comprehensive travel guide. Discover top attractions, hiking routes, activities, local cuisine, where to stay, and more.</description>
 	<pubDate>2024-06-07T21:16:14+03:00</pubDate>
-</item><item>
-	<title>Townsend Travel Guide (Gold West Country/Montana/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/gold-west-country/townsend/</link>
-	<description>Discover the best things to do, see, and eat in Townsend, Montana with this comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
-	<pubDate>2024-06-07T20:51:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
