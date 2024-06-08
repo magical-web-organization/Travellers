@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T19:09:16+03:00</pubDate>
-        <lastBuildDate>2024-06-08T19:09:16+03:00</lastBuildDate>
+        <pubDate>2024-06-08T19:46:38+03:00</pubDate>
+        <lastBuildDate>2024-06-08T19:46:38+03:00</lastBuildDate>
 
         <item>
+	<title>El Gouna Travel Guide (Red Sea Coast/Egypt/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/egypt/red-sea-coast/el-gouna/</link>
+	<description>Discover the best places to visit, activities to do, and cultural experiences to have in El Gouna. Learn about local customs, safety tips, and transportation options in this comprehensive travel guide.</description>
+	<pubDate>2024-06-08T19:46:38+03:00</pubDate>
+</item><item>
 	<title>Pilar de Goiás Travel Guide (Goiás/Central West/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/central-west/goias/pilar-de-goias/</link>
 	<description>Read this comprehensive guide to Pilar de Goiás to plan your trip to this culturally rich and naturally beautiful city in Central West, Brazil. Discover the top places to visit, things to do, where to stay, what to buy, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/palestinian-territories/west-bank/tulkarm/</link>
 	<description>Plan your trip to Tulkarm with a comprehensive travel guide covering top attractions, where to stay, what to do, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-06-08T15:15:54+03:00</pubDate>
-</item><item>
-	<title>Begusarai Travel Guide (Mithila/Bihar/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/mithila/begusarai/</link>
-	<description>Discover the best places to visit, eat, stay and explore in Begusarai, Bihar. Follow this guide to make the most of your visit to this culturally rich and historically significant city in India.</description>
-	<pubDate>2024-06-08T14:49:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
