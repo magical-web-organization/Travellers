@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T13:02:38+03:00</pubDate>
-        <lastBuildDate>2024-06-08T13:02:38+03:00</lastBuildDate>
+        <pubDate>2024-06-08T13:15:01+03:00</pubDate>
+        <lastBuildDate>2024-06-08T13:15:01+03:00</lastBuildDate>
 
         <item>
+	<title>Barranquilla Travel Guide (Western Costa Norte/Costa Norte/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/costa-norte/western-costa-norte/barranquilla/</link>
+	<description>Discover the best places to visit, things to do, and tips for exploring the vibrant city of Barranquilla in Colombia. Read on for our complete travel guide.</description>
+	<pubDate>2024-06-08T13:15:01+03:00</pubDate>
+</item><item>
 	<title>Togo Travel Guide (West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/togo/</link>
 	<description>Discover the vibrant culture, stunning nature, and rich history of Togo with this comprehensive travel guide. Plan your itinerary with our list of must-visit attractions, hiking/biking routes, and best things to do in Togo. Learn about local culture and customs, where to stay, what to buy, and how to stay safe and healthy while traveling in Togo.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/oahu/central-oahu/</link>
 	<description>A comprehensive travel guide for Central Oahu in Hawaii with information on top attractions, activities, food, accommodations, and more.</description>
 	<pubDate>2024-06-08T08:39:11+03:00</pubDate>
-</item><item>
-	<title>Jinggangshan Travel Guide (Jiangxi/South-central China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/jiangxi/jinggangshan/</link>
-	<description>Plan your trip to Jinggangshan with our comprehensive travel guide, featuring information on top attractions, hiking and biking routes, where to stay and eat, and more.</description>
-	<pubDate>2024-06-08T08:04:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
