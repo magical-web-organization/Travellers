@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T09:05:38+03:00</pubDate>
-        <lastBuildDate>2024-06-08T09:05:38+03:00</lastBuildDate>
+        <pubDate>2024-06-08T09:45:23+03:00</pubDate>
+        <lastBuildDate>2024-06-08T09:45:23+03:00</lastBuildDate>
 
         <item>
+	<title>Moga Travel Guide (Malwa/Punjab/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/malwa/moga/</link>
+	<description>Discover the beauty of Moga, a city in Punjab, India. Explore its cultural and natural attractions, food and drink scene, accommodations, and travel logistics.</description>
+	<pubDate>2024-06-08T09:45:23+03:00</pubDate>
+</item><item>
 	<title>São Tomé and Príncipe Travel Guide (Central Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/central-africa/sao-tome-and-principe/</link>
 	<description>Discover the best places to visit, things to do, food and drink, culture and customs, safety and health, and transportation options in São Tomé and Príncipe with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/argentina/mesopotamia/entre-rios/chajari/</link>
 	<description>Discover the best cultural and natural attractions, outdoor adventures, local foods, and customs in Chajari, Argentina. Plan your trip with our week-long itinerary.</description>
 	<pubDate>2024-06-08T05:17:57+03:00</pubDate>
-</item><item>
-	<title>Kinsale Travel Guide (County Cork/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/kinsale/</link>
-	<description>Plan your next trip with our ultimate guide to Kinsale. Discover top attractions, accommodations, local culture, best time to visit, and more!</description>
-	<pubDate>2024-06-08T04:34:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
