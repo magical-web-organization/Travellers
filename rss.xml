@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T03:26:14+03:00</pubDate>
-        <lastBuildDate>2024-06-08T03:26:14+03:00</lastBuildDate>
+        <pubDate>2024-06-08T03:33:59+03:00</pubDate>
+        <lastBuildDate>2024-06-08T03:33:59+03:00</lastBuildDate>
 
         <item>
+	<title>Inari Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/inari/</link>
+	<description>Discover the stunning natural attractions, cultural landmarks, and outdoor adventures in Inari, Finland with our comprehensive travel guide.</description>
+	<pubDate>2024-06-08T03:33:59+03:00</pubDate>
+</item><item>
 	<title>Central Business District Travel Guide (New Orleans/Greater New Orleans/Louisiana/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/greater-new-orleans/new-orleans/central-business-district/</link>
 	<description>Plan the ultimate trip to Central Business District in New Orleans with our comprehensive travel guide. Explore top attractions, hotels, food scenes, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/holbox/</link>
 	<description>Plan your trip to Holbox, Mexico with this comprehensive travel guide featuring top attractions, food and drink scene, accommodations, and more.</description>
 	<pubDate>2024-06-07T23:10:59+03:00</pubDate>
-</item><item>
-	<title>Belle Fourche Travel Guide (Badlands and Black Hills/South Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/south-dakota/badlands-and-black-hills/belle-fourche/</link>
-	<description>Belle Fourche travel guide includes top tourist attractions, hiking/biking routes, food and drink scene, where to stay, and local culture in South Dakota.</description>
-	<pubDate>2024-06-07T22:46:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
