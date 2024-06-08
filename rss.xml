@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T20:07:47+03:00</pubDate>
-        <lastBuildDate>2024-06-08T20:07:47+03:00</lastBuildDate>
+        <pubDate>2024-06-08T20:57:43+03:00</pubDate>
+        <lastBuildDate>2024-06-08T20:57:43+03:00</lastBuildDate>
 
         <item>
+	<title>Kuala Terengganu Travel Guide (Terengganu/East Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/terengganu/kuala-terengganu/</link>
+	<description>Discover the best things to do and see in Kuala Terengganu, Malaysia with this ultimate travel guide. From cultural attractions, natural wonders, food and drink scene, to where to stay and local customs, plan your perfect trip with us.</description>
+	<pubDate>2024-06-08T20:57:43+03:00</pubDate>
+</item><item>
 	<title>Gaborone Travel Guide (Southeast/Botswana/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/botswana/southeast/gaborone/</link>
 	<description>Plan your trip to Gaborone with this comprehensive tour guide, including top sights, activities, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/coal-region/shickshinny/</link>
 	<description>Explore the culturally rich and naturally stunning town of Shickshinny with the help of this comprehensive travel guide. Find the best places to visit, eat, stay, and more, along with helpful tips and safety information.</description>
 	<pubDate>2024-06-08T16:10:36+03:00</pubDate>
-</item><item>
-	<title>Waycross Travel Guide (Coastal Georgia/Georgia (state)/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/coastal-georgia/waycross/</link>
-	<description>Planning a trip to Waycross in Georgia? Our comprehensive travel guide has everything you need to know to have an unforgettable experience exploring its museums, outdoor adventures, and cultural attractions.</description>
-	<pubDate>2024-06-08T15:46:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
