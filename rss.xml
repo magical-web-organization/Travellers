@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T13:56:27+03:00</pubDate>
-        <lastBuildDate>2024-06-08T13:56:27+03:00</lastBuildDate>
+        <pubDate>2024-06-08T14:07:05+03:00</pubDate>
+        <lastBuildDate>2024-06-08T14:07:05+03:00</lastBuildDate>
 
         <item>
+	<title>Rantau Panjang Travel Guide (Kelantan/East Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/kelantan/rantau-panjang/</link>
+	<description>Discover the culturally rich and natural attractions of Rantau Panjang in Kelantan, Malaysia. From must-visit museums and historical sites to outdoor adventures and scenic views, this guide provides a detailed itinerary for travelers.</description>
+	<pubDate>2024-06-08T14:07:05+03:00</pubDate>
+</item><item>
 	<title>Pleasanton Travel Guide (Alameda County/East Bay/Bay Area/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/alameda-county/pleasanton/</link>
 	<description>Discover the vibrant city of Pleasanton in Alameda County, California, with our detailed travel guide. Find out where to visit, eat, and stay, and learn about the local culture and customs of this charming East Bay gem.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/malwa/moga/</link>
 	<description>Discover the beauty of Moga, a city in Punjab, India. Explore its cultural and natural attractions, food and drink scene, accommodations, and travel logistics.</description>
 	<pubDate>2024-06-08T09:45:23+03:00</pubDate>
-</item><item>
-	<title>São Tomé and Príncipe Travel Guide (Central Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/central-africa/sao-tome-and-principe/</link>
-	<description>Discover the best places to visit, things to do, food and drink, culture and customs, safety and health, and transportation options in São Tomé and Príncipe with our comprehensive travel guide.</description>
-	<pubDate>2024-06-08T09:05:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
