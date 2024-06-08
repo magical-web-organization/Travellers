@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T22:00:47+03:00</pubDate>
-        <lastBuildDate>2024-06-08T22:00:47+03:00</lastBuildDate>
+        <pubDate>2024-06-08T22:29:54+03:00</pubDate>
+        <lastBuildDate>2024-06-08T22:29:54+03:00</lastBuildDate>
 
         <item>
+	<title>Central Travel Guide (Jakarta/Greater Jakarta/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/greater-jakarta/jakarta/central/</link>
+	<description>Discover the best places to visit, food to try, and exciting things to do in Central, Jakarta. Plan your itinerary with our comprehensive travel guide.</description>
+	<pubDate>2024-06-08T22:29:54+03:00</pubDate>
+</item><item>
 	<title>Brandon Travel Guide (Southern Vermont/Vermont/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/brandon/</link>
 	<description>Brandon, Vermont, is a popular destination for travelers seeking outdoor adventure, cultural experiences, and delicious food. Read our comprehensive travel guide to plan your trip to Brandon.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/south-australia/adelaide-region/adelaide/city-and-north-adelaide/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in City and North Adelaide with our comprehensive travel guide. Explore the cultural attractions, outdoor adventures, food and drink scene and more!</description>
 	<pubDate>2024-06-08T18:00:59+03:00</pubDate>
-</item><item>
-	<title>Wamena Travel Guide (Papua/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/papua/wamena/</link>
-	<description>Plan your trip with our comprehensive tour guide for Wamena including the best places to visit, things to do, food scene, accommodations, and more.</description>
-	<pubDate>2024-06-08T17:27:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
