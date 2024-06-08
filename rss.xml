@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T07:02:01+03:00</pubDate>
-        <lastBuildDate>2024-06-08T07:02:01+03:00</lastBuildDate>
+        <pubDate>2024-06-08T07:07:39+03:00</pubDate>
+        <lastBuildDate>2024-06-08T07:07:39+03:00</lastBuildDate>
 
         <item>
+	<title>Corfe Castle Travel Guide (Dorset/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/dorset/corfe-castle/</link>
+	<description>Discover the best things to do, places to visit, where to stay, and more in this comprehensive travel guide for Corfe Castle.</description>
+	<pubDate>2024-06-08T07:07:39+03:00</pubDate>
+</item><item>
 	<title>Huntley Travel Guide (Custer Country/Montana/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/custer-country/huntley/</link>
 	<description>Discover the best places to visit, hike, bike and eat in Huntley, Montana. Find tips on where to stay, cultural customs, safety, transportation options, and nearby destinations. A comprehensive tourist guide for adventurers of all levels.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-travancore/vaikom/</link>
 	<description>Read our guide to Vaikom, Kerala to discover the best places to visit, exciting activities to do, the local cuisine, where to stay, and how to get around Vaikom.</description>
 	<pubDate>2024-06-08T02:52:39+03:00</pubDate>
-</item><item>
-	<title>Kirishima (Kagoshima) Travel Guide (Kagoshima (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/kagoshima-prefecture/kirishima-kagoshima/</link>
-	<description>Plan a perfect trip to Kirishima in Kagoshima, Kyushu, Japan with our comprehensive travel guide. Explore natural and cultural attractions, food and drink scene, best time to visit, etc.</description>
-	<pubDate>2024-06-08T02:16:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
