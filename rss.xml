@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-08T15:46:43+03:00</pubDate>
-        <lastBuildDate>2024-06-08T15:46:43+03:00</lastBuildDate>
+        <pubDate>2024-06-08T16:10:36+03:00</pubDate>
+        <lastBuildDate>2024-06-08T16:10:36+03:00</lastBuildDate>
 
         <item>
+	<title>Shickshinny Travel Guide (Coal Region/Northeastern Pennsylvania/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/coal-region/shickshinny/</link>
+	<description>Explore the culturally rich and naturally stunning town of Shickshinny with the help of this comprehensive travel guide. Find the best places to visit, eat, stay, and more, along with helpful tips and safety information.</description>
+	<pubDate>2024-06-08T16:10:36+03:00</pubDate>
+</item><item>
 	<title>Waycross Travel Guide (Coastal Georgia/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/coastal-georgia/waycross/</link>
 	<description>Planning a trip to Waycross in Georgia? Our comprehensive travel guide has everything you need to know to have an unforgettable experience exploring its museums, outdoor adventures, and cultural attractions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/belgium/flanders/limburg/tongeren/</link>
 	<description>Discover the best things to do in Tongeren, a charming town in Limburg, Belgium. Explore its cultural, natural, and culinary attractions, and learn about its history, customs, and logistics.</description>
 	<pubDate>2024-06-08T11:49:16+03:00</pubDate>
-</item><item>
-	<title>Llanddona Travel Guide (Anglesey/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/anglesey/llanddona/</link>
-	<description>Looking for a peaceful retreat away from the hustle and bustle of city life? Explore the hidden gem of North Wales - Llanddona with our comprehensive travel guide that covers everything from cultural attractions, outdoor adventures, food and drink, where to stay, and more.</description>
-	<pubDate>2024-06-08T11:17:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
