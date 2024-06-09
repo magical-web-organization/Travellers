@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T18:54:44+03:00</pubDate>
-        <lastBuildDate>2024-06-09T18:54:44+03:00</lastBuildDate>
+        <pubDate>2024-06-09T19:30:06+03:00</pubDate>
+        <lastBuildDate>2024-06-09T19:30:06+03:00</lastBuildDate>
 
         <item>
+	<title>Mashhad Ardehal Travel Guide (Isfahan (province)/Central Iran/Iran/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iran/central-iran/isfahan-province/mashhad-ardehal/</link>
+	<description>Planning a trip to Mashhad Ardehal? Our comprehensive travel guide covers the best things to do, see, and eat in this charming city in Isfahan province, Iran.</description>
+	<pubDate>2024-06-09T19:30:06+03:00</pubDate>
+</item><item>
 	<title>Anguilla Travel Guide (Lesser Antilles/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/anguilla/</link>
 	<description>Discover the must-visit sights, food, accommodations, and culture of Anguilla with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/willamette-valley/monmouth/</link>
 	<description>Explore the best attractions, activities, and transportation options in Monmouth, Oregon with our detailed travel guide.</description>
 	<pubDate>2024-06-09T14:45:45+03:00</pubDate>
-</item><item>
-	<title>Nantou Travel Guide (Nantou County/Central Taiwan/Taiwan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/taiwan/central-taiwan/nantou-county/nantou/</link>
-	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and more in Nantou, Taiwan.</description>
-	<pubDate>2024-06-09T14:30:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
