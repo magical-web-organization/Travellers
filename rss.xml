@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T04:04:24+03:00</pubDate>
-        <lastBuildDate>2024-06-09T04:04:24+03:00</lastBuildDate>
+        <pubDate>2024-06-09T04:59:52+03:00</pubDate>
+        <lastBuildDate>2024-06-09T04:59:52+03:00</lastBuildDate>
 
         <item>
+	<title>Kushimoto Travel Guide (Wakayama (prefecture)/Kansai/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/wakayama-prefecture/kushimoto/</link>
+	<description>Explore the best things to do, places to visit, and where to stay in Kushimoto. Discover the local culture, food scene, transportation options, and more in this ultimate travel guide.</description>
+	<pubDate>2024-06-09T04:59:52+03:00</pubDate>
+</item><item>
 	<title>Linden Travel Guide (Guyana/South America)</title>
 	<link>https://travellers.wiki/en/south-america/guyana/linden/</link>
 	<description>Plan your trip to Linden in Guyana with this comprehensive travel guide, including natural attractions, cultural landmarks, food and drink scene, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/northwest-missouri/cameron/</link>
 	<description>Discover the best places to visit, things to do, and local culture in Cameron, Missouri. Plan your trip with this ultimate travel guide.</description>
 	<pubDate>2024-06-09T00:03:35+03:00</pubDate>
-</item><item>
-	<title>Newberry Travel Guide (Upper Peninsula/Michigan/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/newberry/</link>
-	<description>Discover the best places to visit, things to do, where to stay, what to buy, local culture, safety, and transportation options in Newberry.</description>
-	<pubDate>2024-06-08T23:58:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
