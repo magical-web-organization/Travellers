@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T05:39:13+03:00</pubDate>
-        <lastBuildDate>2024-06-09T05:39:13+03:00</lastBuildDate>
+        <pubDate>2024-06-09T06:27:57+03:00</pubDate>
+        <lastBuildDate>2024-06-09T06:27:57+03:00</lastBuildDate>
 
         <item>
+	<title>Ventimiglia Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/ventimiglia/</link>
+	<description>Discover the best places to visit, things to do, and local customs in Ventimiglia, Italy. Plan your itinerary or week-long adventure with this comprehensive travel guide.</description>
+	<pubDate>2024-06-09T06:27:57+03:00</pubDate>
+</item><item>
 	<title>Racine Travel Guide (Racine County/Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/racine-county/racine/</link>
 	<description>Plan your trip to Racine with our comprehensive travel guide. Learn about the top attractions, hiking/biking routes, food scene, where to stay, and much more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/burntisland/</link>
 	<description>Plan your trip to Burntisland with our comprehensive guide featuring top attractions, cultural experiences, hiking and biking routes, food and drink scene, and more.</description>
 	<pubDate>2024-06-09T01:35:33+03:00</pubDate>
-</item><item>
-	<title>Bozel Travel Guide (Savoie/Auvergne-Rhône-Alpes/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/auvergne-rhone-alpes/savoie/bozel/</link>
-	<description>Discover the best attractions, outdoor adventures, food and drinks, local culture, and logistics of Bozel, France. Plan your next trip with this comprehensive travel guide.</description>
-	<pubDate>2024-06-09T01:29:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
