@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T21:21:24+03:00</pubDate>
-        <lastBuildDate>2024-06-09T21:21:24+03:00</lastBuildDate>
+        <pubDate>2024-06-09T21:54:34+03:00</pubDate>
+        <lastBuildDate>2024-06-09T21:54:34+03:00</lastBuildDate>
 
         <item>
+	<title>Ängelholm Travel Guide (Scania/Götaland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/scania/angelholm/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and travel tips in Ängelholm, Sweden.</description>
+	<pubDate>2024-06-09T21:54:34+03:00</pubDate>
+</item><item>
 	<title>Donegal Travel Guide (Laurel Highlands/Pittsburgh Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pittsburgh-region/laurel-highlands/donegal/</link>
 	<description>Explore the beauty of Donegal, a small town located in Laurel Highlands, Pennsylvania with this ultimate travel guide, including places to visit, where to stay, eat, and what to do.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/nova-scotia/cape-breton-island/sydney/</link>
 	<description>Plan your trip to Sydney with our comprehensive tour guide, including a list of places to visit, hiking and biking routes, best things to do, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-06-09T17:19:53+03:00</pubDate>
-</item><item>
-	<title>Tuttlingen Travel Guide (Swabian Mountains/Baden-Württemberg/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/swabian-mountains/tuttlingen/</link>
-	<description>Plan your trip to Tuttlingen with this comprehensive travel guide featuring top places to visit, best things to do, food and drink scene, where to stay, local culture, safety tips and more.</description>
-	<pubDate>2024-06-09T16:55:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
