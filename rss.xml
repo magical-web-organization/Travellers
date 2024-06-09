@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T18:08:46+03:00</pubDate>
-        <lastBuildDate>2024-06-09T18:08:46+03:00</lastBuildDate>
+        <pubDate>2024-06-09T18:54:44+03:00</pubDate>
+        <lastBuildDate>2024-06-09T18:54:44+03:00</lastBuildDate>
 
         <item>
+	<title>Anguilla Travel Guide (Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/anguilla/</link>
+	<description>Discover the must-visit sights, food, accommodations, and culture of Anguilla with this comprehensive guide.</description>
+	<pubDate>2024-06-09T18:54:44+03:00</pubDate>
+</item><item>
 	<title>Gaya Travel Guide (Magadha/Bihar/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/gaya/</link>
 	<description>Explore the culturally significant and natural attractions, hiking and biking routes, food and drink scene, and local customs of Gaya in Bihar, India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/central-taiwan/nantou-county/nantou/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and more in Nantou, Taiwan.</description>
 	<pubDate>2024-06-09T14:30:48+03:00</pubDate>
-</item><item>
-	<title>Hami Travel Guide (Dzungarian/Xinjiang/Northwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/xinjiang/dzungarian/hami/</link>
-	<description>Plan your itinerary with our comprehensive guide to Hami, featuring top things to do, places to stay, must-try food and local customs.</description>
-	<pubDate>2024-06-09T13:43:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
