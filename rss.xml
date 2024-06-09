@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T12:53:32+03:00</pubDate>
-        <lastBuildDate>2024-06-09T12:53:32+03:00</lastBuildDate>
+        <pubDate>2024-06-09T13:06:56+03:00</pubDate>
+        <lastBuildDate>2024-06-09T13:06:56+03:00</lastBuildDate>
 
         <item>
+	<title>Dobruja Travel Guide (Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/dobruja/</link>
+	<description>Discover the culturally rich and stunningly beautiful region of Dobruja with our comprehensive travel guide. Learn about the best places to visit, things to do, and where to stay. Plan your trip today and experience the best of Dobruja!</description>
+	<pubDate>2024-06-09T13:06:56+03:00</pubDate>
+</item><item>
 	<title>Marojejy National Park Travel Guide (Antsiranana Province/Madagascar/East African Islands/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/antsiranana-province/marojejy-national-park/</link>
 	<description>This travel guide is a comprehensive resource for visiting Marojejy National Park in Madagascar, including information on places to visit, hiking and biking routes, food and drink scene, where to stay, local customs, safety and health, transportation options, and nearby excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/metropolitan-rome/capena/</link>
 	<description>Plan your next trip with this comprehensive guide to Capena, Italy! Discover the best things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-06-09T08:54:03+03:00</pubDate>
-</item><item>
-	<title>Coconut Grove Travel Guide (Miami/Miami-Dade County/Greater Miami/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/miami-dade-county/miami/coconut-grove/</link>
-	<description>Explore the cultural and natural attractions of Coconut Grove. Find out the best things to do, eat, and see, where to stay, how to get around, and more.</description>
-	<pubDate>2024-06-09T08:08:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
