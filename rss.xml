@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T06:27:57+03:00</pubDate>
-        <lastBuildDate>2024-06-09T06:27:57+03:00</lastBuildDate>
+        <pubDate>2024-06-09T06:49:25+03:00</pubDate>
+        <lastBuildDate>2024-06-09T06:49:25+03:00</lastBuildDate>
 
         <item>
+	<title>Broadstairs Travel Guide (Kent/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/kent/broadstairs/</link>
+	<description>Explore the beautiful town of Broadstairs located in Kent, South East England. Discover its rich history, natural attractions, food and drink scene, and more with our comprehensive travel guide.</description>
+	<pubDate>2024-06-09T06:49:25+03:00</pubDate>
+</item><item>
 	<title>Ventimiglia Travel Guide (Liguria/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/liguria/ventimiglia/</link>
 	<description>Discover the best places to visit, things to do, and local customs in Ventimiglia, Italy. Plan your itinerary or week-long adventure with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/monmouth-county/ocean-grove/</link>
 	<description>Discover the best attractions, activities, accommodations, and food in Ocean Grove with our comprehensive travel guide. Explore museums, beaches, hiking trails, and more!</description>
 	<pubDate>2024-06-09T02:31:06+03:00</pubDate>
-</item><item>
-	<title>Burntisland Travel Guide (Fife/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/fife/burntisland/</link>
-	<description>Plan your trip to Burntisland with our comprehensive guide featuring top attractions, cultural experiences, hiking and biking routes, food and drink scene, and more.</description>
-	<pubDate>2024-06-09T01:35:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
