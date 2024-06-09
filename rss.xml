@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T15:32:39+03:00</pubDate>
-        <lastBuildDate>2024-06-09T15:32:39+03:00</lastBuildDate>
+        <pubDate>2024-06-09T15:51:14+03:00</pubDate>
+        <lastBuildDate>2024-06-09T15:51:14+03:00</lastBuildDate>
 
         <item>
+	<title>Humpty Doo Travel Guide (Top End/Northern Territory/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/northern-territory/top-end/humpty-doo/</link>
+	<description>This comprehensive travel guide for Humpty Doo, Northern Territory, Australia covers everything from the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-06-09T15:51:14+03:00</pubDate>
+</item><item>
 	<title>North Fork Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/north-fork/</link>
 	<description>Plan your dream vacation with our comprehensive guide to North Fork, including must-visit destinations, hiking routes, the food and drink scene, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/fujian/east-fujian/fuding/</link>
 	<description>Plan a trip to Fuding with this comprehensive travel guide featuring everything you need to know to make the most of your visit!</description>
 	<pubDate>2024-06-09T11:16:18+03:00</pubDate>
-</item><item>
-	<title>Cle Elum Travel Guide (North Cascades/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/cle-elum/</link>
-	<description>A comprehensive guide to Cle Elum with information about places to visit, outdoor activities, food, accommodations, culture, safety, and transportation options.</description>
-	<pubDate>2024-06-09T11:03:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
