@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T22:42:45+03:00</pubDate>
-        <lastBuildDate>2024-06-09T22:42:45+03:00</lastBuildDate>
+        <pubDate>2024-06-09T23:09:00+03:00</pubDate>
+        <lastBuildDate>2024-06-09T23:09:00+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Pierre Travel Guide (Saint Pierre and Miquelon/North America)</title>
+	<link>https://travellers.wiki/en/north-america/saint-pierre-and-miquelon/saint-pierre/</link>
+	<description>Discover the breathtaking natural scenery, rich culture, and mouth-watering dishes of Saint-Pierre in this comprehensive travel guide.</description>
+	<pubDate>2024-06-09T23:09:00+03:00</pubDate>
+</item><item>
 	<title>Bad Bergzabern Travel Guide (Palatinate/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/palatinate/bad-bergzabern/</link>
 	<description>Plan your perfect trip to Bad Bergzabern with this comprehensive travel guide featuring top attractions, hiking/biking routes, food/drink scene, where to stay, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/anguilla/</link>
 	<description>Discover the must-visit sights, food, accommodations, and culture of Anguilla with this comprehensive guide.</description>
 	<pubDate>2024-06-09T18:54:44+03:00</pubDate>
-</item><item>
-	<title>Gaya Travel Guide (Magadha/Bihar/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/magadha/gaya/</link>
-	<description>Explore the culturally significant and natural attractions, hiking and biking routes, food and drink scene, and local customs of Gaya in Bihar, India.</description>
-	<pubDate>2024-06-09T18:08:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
