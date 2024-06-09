@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T14:45:45+03:00</pubDate>
-        <lastBuildDate>2024-06-09T14:45:45+03:00</lastBuildDate>
+        <pubDate>2024-06-09T15:32:39+03:00</pubDate>
+        <lastBuildDate>2024-06-09T15:32:39+03:00</lastBuildDate>
 
         <item>
+	<title>North Fork Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/north-fork/</link>
+	<description>Plan your dream vacation with our comprehensive guide to North Fork, including must-visit destinations, hiking routes, the food and drink scene, and much more.</description>
+	<pubDate>2024-06-09T15:32:39+03:00</pubDate>
+</item><item>
 	<title>Monmouth Travel Guide (Willamette Valley/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/willamette-valley/monmouth/</link>
 	<description>Explore the best attractions, activities, and transportation options in Monmouth, Oregon with our detailed travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/cle-elum/</link>
 	<description>A comprehensive guide to Cle Elum with information about places to visit, outdoor activities, food, accommodations, culture, safety, and transportation options.</description>
 	<pubDate>2024-06-09T11:03:08+03:00</pubDate>
-</item><item>
-	<title>Manasquan Travel Guide (Monmouth County/Jersey Shore/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/monmouth-county/manasquan/</link>
-	<description>Plan your trip to Manasquan, New Jersey with this comprehensive travel guide covering places to visit, hiking/biking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-06-09T10:18:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
