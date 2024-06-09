@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-09T15:51:14+03:00</pubDate>
-        <lastBuildDate>2024-06-09T15:51:14+03:00</lastBuildDate>
+        <pubDate>2024-06-09T16:29:12+03:00</pubDate>
+        <lastBuildDate>2024-06-09T16:29:12+03:00</lastBuildDate>
 
         <item>
+	<title>Williamsburg Travel Guide (Hampton Roads/Eastern Virginia/Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/eastern-virginia/hampton-roads/williamsburg/</link>
+	<description>Discover the rich cultural heritage of Williamsburg, VA with our comprehensive travel guide. Find the best things to do, food to try, and places to stay and shop.</description>
+	<pubDate>2024-06-09T16:29:12+03:00</pubDate>
+</item><item>
 	<title>Humpty Doo Travel Guide (Top End/Northern Territory/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/northern-territory/top-end/humpty-doo/</link>
 	<description>This comprehensive travel guide for Humpty Doo, Northern Territory, Australia covers everything from the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/nowy-wisnicz/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and more in Nowy Wiśnicz, a charming town in Małopolskie, Poland.</description>
 	<pubDate>2024-06-09T11:38:41+03:00</pubDate>
-</item><item>
-	<title>Fuding Travel Guide (East Fujian/Fujian/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/fujian/east-fujian/fuding/</link>
-	<description>Plan a trip to Fuding with this comprehensive travel guide featuring everything you need to know to make the most of your visit!</description>
-	<pubDate>2024-06-09T11:16:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
