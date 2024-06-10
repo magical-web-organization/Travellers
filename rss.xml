@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-10T19:28:17+03:00</pubDate>
-        <lastBuildDate>2024-06-10T19:28:17+03:00</lastBuildDate>
+        <pubDate>2024-06-10T19:57:12+03:00</pubDate>
+        <lastBuildDate>2024-06-10T19:57:12+03:00</lastBuildDate>
 
         <item>
+	<title>Port Ghalib Travel Guide (Red Sea Coast/Egypt/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/egypt/red-sea-coast/port-ghalib/</link>
+	<description>Explore the best places to see, things to do, and where to stay in Port Ghalib, Egypt. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-06-10T19:57:12+03:00</pubDate>
+</item><item>
 	<title>Padua Travel Guide (Padova (province)/Veneto/Northeast Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/padova-province/padua/</link>
 	<description>Discover the best places to visit, eat, stay, and explore in Padua, Italy with our comprehensive travel guide. Learn about local culture, customs, do's and don'ts, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/kumaon/pithoragarh/</link>
 	<description>Plan your trip to Pithoragarh, Uttarakhand with our comprehensive travel guide featuring top-rated tourist attractions, things to do, hiking routes, local culture, and more.</description>
 	<pubDate>2024-06-10T15:12:42+03:00</pubDate>
-</item><item>
-	<title>Naozhou Island Travel Guide (Western Guangdong/Guangdong/South China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangdong/western-guangdong/naozhou-island/</link>
-	<description>Discover the hidden gem of Naozhou Island with our travel guide. From cultural attractions to outdoor adventures, this guide covers everything you need to plan your trip.</description>
-	<pubDate>2024-06-10T14:42:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
