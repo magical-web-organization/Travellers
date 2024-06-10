@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-10T12:33:08+03:00</pubDate>
-        <lastBuildDate>2024-06-10T12:33:08+03:00</lastBuildDate>
+        <pubDate>2024-06-10T13:01:36+03:00</pubDate>
+        <lastBuildDate>2024-06-10T13:01:36+03:00</lastBuildDate>
 
         <item>
+	<title>Matlock Travel Guide (Derbyshire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/derbyshire/matlock/</link>
+	<description>Plan your trip to Matlock, England with this comprehensive tour guide. Find out the best things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-06-10T13:01:36+03:00</pubDate>
+</item><item>
 	<title>Kevo Strict Nature Reserve Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/kevo-strict-nature-reserve/</link>
 	<description>Explore the beauty and adventure of Kevo Strict Nature Reserve in Finnish Lapland with our comprehensive travel guide, including a list of places to visit, hiking/biking routes, food and drink scene, local culture, safety, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/cixi-city/</link>
 	<description>Plan your trip to Cixi City and explore its culturally important attractions, natural sites, food scene, and more with our comprehensive travel guide.</description>
 	<pubDate>2024-06-10T08:22:08+03:00</pubDate>
-</item><item>
-	<title>Sceaux Travel Guide (Île-de-France/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/ile-de-france/sceaux/</link>
-	<description>Discover the best things to do, places to stay, and food and drink scene in Sceaux, a charming town in Île-de-France.</description>
-	<pubDate>2024-06-10T07:54:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
