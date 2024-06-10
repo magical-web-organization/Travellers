@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-10T15:50:45+03:00</pubDate>
-        <lastBuildDate>2024-06-10T15:50:45+03:00</lastBuildDate>
+        <pubDate>2024-06-10T16:10:13+03:00</pubDate>
+        <lastBuildDate>2024-06-10T16:10:13+03:00</lastBuildDate>
 
         <item>
+	<title>Royal Wootton Bassett Travel Guide (Wiltshire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/wiltshire/royal-wootton-bassett/</link>
+	<description>Discover the beautiful town of Royal Wootton Bassett with our comprehensive travel guide. From cultural attractions to outdoor adventures, food and drink scene to local customs, this guide has it all.</description>
+	<pubDate>2024-06-10T16:10:13+03:00</pubDate>
+</item><item>
 	<title>Candolim Travel Guide (North Goa/Goa/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/goa/north-goa/candolim/</link>
 	<description>Discover the best things to do, places to visit, local culture, and more in Candolim, North Goa - India's scenic beach destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/western-norway/rogaland/hellvik/</link>
 	<description>Explore the beauty of Hellvik with our comprehensive travel guide. Discover its stunning natural landscapes, cultural attractions, local cuisine, and more.</description>
 	<pubDate>2024-06-10T11:58:22+03:00</pubDate>
-</item><item>
-	<title>Hudson Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/hudson/</link>
-	<description>Discover the best places to visit, food and drink scene, hiking and biking routes, local culture and customs, and transportation options in Hudson, Wisconsin.</description>
-	<pubDate>2024-06-10T11:27:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
