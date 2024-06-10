@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-10T20:39:48+03:00</pubDate>
-        <lastBuildDate>2024-06-10T20:39:48+03:00</lastBuildDate>
+        <pubDate>2024-06-10T21:05:38+03:00</pubDate>
+        <lastBuildDate>2024-06-10T21:05:38+03:00</lastBuildDate>
 
         <item>
+	<title>Moorea Travel Guide (Society Islands/French Polynesia/Polynesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/polynesia/french-polynesia/society-islands/moorea/</link>
+	<description>Plan a perfect trip to Moorea with this complete travel guide, which includes information on the best places to visit, food and culture, safety, transportation options, and more.</description>
+	<pubDate>2024-06-10T21:05:38+03:00</pubDate>
+</item><item>
 	<title>Soho Travel Guide (London/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/london/soho/</link>
 	<description>Discover Soho's culture, cuisine, landmarks, best time to visit, and transportation options in this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/free-state/ficksburg/</link>
 	<description>Discover the beauty of Ficksburg. Find out what to do, where to stay, and what to eat in this comprehensive travel guide.</description>
 	<pubDate>2024-06-10T17:00:14+03:00</pubDate>
-</item><item>
-	<title>Royal Wootton Bassett Travel Guide (Wiltshire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/wiltshire/royal-wootton-bassett/</link>
-	<description>Discover the beautiful town of Royal Wootton Bassett with our comprehensive travel guide. From cultural attractions to outdoor adventures, food and drink scene to local customs, this guide has it all.</description>
-	<pubDate>2024-06-10T16:10:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
