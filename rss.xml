@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-10T07:54:20+03:00</pubDate>
-        <lastBuildDate>2024-06-10T07:54:20+03:00</lastBuildDate>
+        <pubDate>2024-06-10T08:22:08+03:00</pubDate>
+        <lastBuildDate>2024-06-10T08:22:08+03:00</lastBuildDate>
 
         <item>
+	<title>Cixi City Travel Guide (Zhejiang/East China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/zhejiang/cixi-city/</link>
+	<description>Plan your trip to Cixi City and explore its culturally important attractions, natural sites, food scene, and more with our comprehensive travel guide.</description>
+	<pubDate>2024-06-10T08:22:08+03:00</pubDate>
+</item><item>
 	<title>Sceaux Travel Guide (Île-de-France/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/ile-de-france/sceaux/</link>
 	<description>Discover the best things to do, places to stay, and food and drink scene in Sceaux, a charming town in Île-de-France.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/westray/</link>
 	<description>Discover the best things to do, see, eat, and experience in Westray through this comprehensive tour guide for travelers.</description>
 	<pubDate>2024-06-10T03:41:46+03:00</pubDate>
-</item><item>
-	<title>Keith Travel Guide (Limestone Coast/South Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/south-australia/limestone-coast/keith/</link>
-	<description>Discover the best things to do in Keith, Limestone Coast, South Australia, including natural attractions, museums, hiking and biking routes, food and drinks, where to stay, local culture, safety tips, and transportation options.</description>
-	<pubDate>2024-06-10T03:16:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
