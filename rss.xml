@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-10T03:16:52+03:00</pubDate>
-        <lastBuildDate>2024-06-10T03:16:52+03:00</lastBuildDate>
+        <pubDate>2024-06-10T03:41:46+03:00</pubDate>
+        <lastBuildDate>2024-06-10T03:41:46+03:00</lastBuildDate>
 
         <item>
+	<title>Westray Travel Guide (Orkney Islands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/westray/</link>
+	<description>Discover the best things to do, see, eat, and experience in Westray through this comprehensive tour guide for travelers.</description>
+	<pubDate>2024-06-10T03:41:46+03:00</pubDate>
+</item><item>
 	<title>Keith Travel Guide (Limestone Coast/South Australia/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/south-australia/limestone-coast/keith/</link>
 	<description>Discover the best things to do in Keith, Limestone Coast, South Australia, including natural attractions, museums, hiking and biking routes, food and drinks, where to stay, local culture, safety tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/saint-pierre-and-miquelon/saint-pierre/</link>
 	<description>Discover the breathtaking natural scenery, rich culture, and mouth-watering dishes of Saint-Pierre in this comprehensive travel guide.</description>
 	<pubDate>2024-06-09T23:09:00+03:00</pubDate>
-</item><item>
-	<title>Bad Bergzabern Travel Guide (Palatinate/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/palatinate/bad-bergzabern/</link>
-	<description>Plan your perfect trip to Bad Bergzabern with this comprehensive travel guide featuring top attractions, hiking/biking routes, food/drink scene, where to stay, and transportation options.</description>
-	<pubDate>2024-06-09T22:42:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
