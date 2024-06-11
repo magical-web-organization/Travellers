@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T00:27:27+03:00</pubDate>
-        <lastBuildDate>2024-06-12T00:27:27+03:00</lastBuildDate>
+        <pubDate>2024-06-12T00:53:40+03:00</pubDate>
+        <lastBuildDate>2024-06-12T00:53:40+03:00</lastBuildDate>
 
         <item>
+	<title>Manistee Travel Guide (Lake Michigan Beachtowns/West Michigan/Michigan/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/lake-michigan-beachtowns/manistee/</link>
+	<description>Explore the best cultural and natural attractions, outdoor adventures, hiking/biking routes, food and drink scene, shopping, local culture and traditions, safety and health, transportation options of Manistee, Michigan, USA.</description>
+	<pubDate>2024-06-12T00:53:40+03:00</pubDate>
+</item><item>
 	<title>Sierre Travel Guide (Valais/Switzerland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/valais/sierre/</link>
 	<description>Discover Sierre, Switzerland with a comprehensive travel guide featuring top tourist attractions, activities, local cuisine, and travel logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/semarang/</link>
 	<description>Explore the diverse and rich culture of Semarang, Indonesia with our comprehensive travel guide. Discover the best places to visit, stay, and eat, as well as safety tips and transportation options.</description>
 	<pubDate>2024-06-11T20:08:11+03:00</pubDate>
-</item><item>
-	<title>Sungai Pinang Travel Guide (West Sumatra/Sumatra/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/west-sumatra/sungai-pinang/</link>
-	<description>A comprehensive travel guide to Sungai Pinang, including information on places to visit, hiking/biking routes, food scene, where to stay, and more.</description>
-	<pubDate>2024-06-11T19:37:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
