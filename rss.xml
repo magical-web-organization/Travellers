@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-11T15:24:00+03:00</pubDate>
-        <lastBuildDate>2024-06-11T15:24:00+03:00</lastBuildDate>
+        <pubDate>2024-06-11T15:53:45+03:00</pubDate>
+        <lastBuildDate>2024-06-11T15:53:45+03:00</lastBuildDate>
 
         <item>
+	<title>Masuda Travel Guide (Shimane/Chugoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/shimane/masuda/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, accommodations, local culture and customs, safety and health, and transportation options in Masuda, Shimane, Japan.</description>
+	<pubDate>2024-06-11T15:53:45+03:00</pubDate>
+</item><item>
 	<title>Chichiriviche Travel Guide (Falcón/Northwest/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/northwest/falcon/chichiriviche/</link>
 	<description>A comprehensive travel guide for Chichiriviche, including recommendations on places to visit, things to do, hiking/biking routes, food and drink scenes, where to stay and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/south-coast/glenholme-nature-reserve/</link>
 	<description>Plan your trip to Glenholme Nature Reserve in South Africa with our comprehensive guide, including information on places to visit, hiking and biking routes, accommodations, food options, and more.</description>
 	<pubDate>2024-06-11T10:58:12+03:00</pubDate>
-</item><item>
-	<title>Paulino Neves Travel Guide (Northern Maranhão/Maranhão/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/maranhao/northern-maranhao/paulino-neves/</link>
-	<description>Discover the best places to visit, things to do, food to try, and tips for traveling safely in Paulino Neves, Maranhão, Brazil.</description>
-	<pubDate>2024-06-11T10:24:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
