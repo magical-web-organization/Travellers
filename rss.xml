@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-11T05:58:17+03:00</pubDate>
-        <lastBuildDate>2024-06-11T05:58:17+03:00</lastBuildDate>
+        <pubDate>2024-06-11T06:05:18+03:00</pubDate>
+        <lastBuildDate>2024-06-11T06:05:18+03:00</lastBuildDate>
 
         <item>
+	<title>Nampa Travel Guide (Southwestern Idaho/Idaho/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/southwestern-idaho/nampa/</link>
+	<description>Discover the best things to do, see, eat, and where to stay in Nampa, Idaho. Explore the city's culture, natural attractions, and local customs.</description>
+	<pubDate>2024-06-11T06:05:18+03:00</pubDate>
+</item><item>
 	<title>Tring Travel Guide (Hertfordshire/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/hertfordshire/tring/</link>
 	<description>Discover the best places to visit, where to stay, what to eat, and important cultural customs in Tring, United Kingdom. Find helpful tips on transportation, safety, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/miri/</link>
 	<description>Explore the culturally rich and adventurous city of Miri with our comprehensive guide featuring top attractions, food, accommodations, and more.</description>
 	<pubDate>2024-06-11T02:02:59+03:00</pubDate>
-</item><item>
-	<title>Roblin Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/roblin/</link>
-	<description>Discover the best places to visit, things to do, and cultural customs of Roblin, Manitoba. This comprehensive travel guide includes information on transportation options, local cuisine, and hiking/biking routes.</description>
-	<pubDate>2024-06-11T01:28:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
