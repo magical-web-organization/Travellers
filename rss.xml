@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-11T18:03:30+03:00</pubDate>
-        <lastBuildDate>2024-06-11T18:03:30+03:00</lastBuildDate>
+        <pubDate>2024-06-11T18:33:36+03:00</pubDate>
+        <lastBuildDate>2024-06-11T18:33:36+03:00</lastBuildDate>
 
         <item>
+	<title>Takengon Travel Guide (Aceh/Sumatra/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/aceh/takengon/</link>
+	<description>Discover the best things to do in Takengon, from cultural and natural attractions to food and drink scene, where to stay, and safety tips. Read our comprehensive guide now!</description>
+	<pubDate>2024-06-11T18:33:36+03:00</pubDate>
+</item><item>
 	<title>South Travel Guide (Kolkata/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/kolkata/south/</link>
 	<description>Plan your trip to South Kolkata with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/bluegrass-region/richmond/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay and local culture and customs of Richmond. Plan your trip with our week-long itinerary and transportation options.</description>
 	<pubDate>2024-06-11T14:11:46+03:00</pubDate>
-</item><item>
-	<title>Cachoeiras de Macacu Travel Guide (Grande Rio/Rio de Janeiro (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/rio-de-janeiro-state/grande-rio/cachoeiras-de-macacu/</link>
-	<description>Discover the top places to visit, things to do, where to stay, what to eat, and more in Cachoeiras de Macacu, Brazil.</description>
-	<pubDate>2024-06-11T14:01:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
