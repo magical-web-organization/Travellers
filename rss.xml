@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T00:53:40+03:00</pubDate>
-        <lastBuildDate>2024-06-12T00:53:40+03:00</lastBuildDate>
+        <pubDate>2024-06-12T01:32:12+03:00</pubDate>
+        <lastBuildDate>2024-06-12T01:32:12+03:00</lastBuildDate>
 
         <item>
+	<title>Mittagong Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/mittagong/</link>
+	<description>Discover the best things to do, where to stay, what to eat, and more in Mittagong, Southern Highlands, New South Wales, Australia.</description>
+	<pubDate>2024-06-12T01:32:12+03:00</pubDate>
+</item><item>
 	<title>Manistee Travel Guide (Lake Michigan Beachtowns/West Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/west-michigan/lake-michigan-beachtowns/manistee/</link>
 	<description>Explore the best cultural and natural attractions, outdoor adventures, hiking/biking routes, food and drink scene, shopping, local culture and traditions, safety and health, transportation options of Manistee, Michigan, USA.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/northtowns/lancaster-new-york/</link>
 	<description>Discover the top places to visit, things to do, where to stay, and more in Lancaster (New York). Plan your trip with this comprehensive guide.</description>
 	<pubDate>2024-06-11T20:53:09+03:00</pubDate>
-</item><item>
-	<title>Semarang Travel Guide (Semarang Metropolitan Area/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/semarang/</link>
-	<description>Explore the diverse and rich culture of Semarang, Indonesia with our comprehensive travel guide. Discover the best places to visit, stay, and eat, as well as safety tips and transportation options.</description>
-	<pubDate>2024-06-11T20:08:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
