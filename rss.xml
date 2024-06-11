@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-11T06:49:28+03:00</pubDate>
-        <lastBuildDate>2024-06-11T06:49:28+03:00</lastBuildDate>
+        <pubDate>2024-06-11T07:29:56+03:00</pubDate>
+        <lastBuildDate>2024-06-11T07:29:56+03:00</lastBuildDate>
 
         <item>
+	<title>Madron and Sancreed Travel Guide (Cornwall/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/cornwall/madron-and-sancreed/</link>
+	<description>Plan your visit to Madron and Sancreed in Cornwall with our comprehensive travel guide. Explore natural attractions, cultural landmarks, food and drink scene, and more.</description>
+	<pubDate>2024-06-11T07:29:56+03:00</pubDate>
+</item><item>
 	<title>Davie Travel Guide (Broward County/Greater Miami/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/broward-county/davie/</link>
 	<description>Discover the best things to do, eat, and see in Davie, Florida with this detailed travel guide. From natural attractions to cultural landmarks, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/sporades-islands/skopelos/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, local culture and customs, and essential travel tips for Skopelos Island, Greece.</description>
 	<pubDate>2024-06-11T02:57:09+03:00</pubDate>
-</item><item>
-	<title>Indialantic Travel Guide (Space Coast/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/space-coast/indialantic/</link>
-	<description>Explore the best of Space Coast with our comprehensive Indialantic travel guide. Discover natural attractions, cultural landmarks, hiking routes, food and drink scene, and more.</description>
-	<pubDate>2024-06-11T02:12:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
