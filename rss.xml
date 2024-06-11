@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-11T19:37:23+03:00</pubDate>
-        <lastBuildDate>2024-06-11T19:37:23+03:00</lastBuildDate>
+        <pubDate>2024-06-11T20:08:11+03:00</pubDate>
+        <lastBuildDate>2024-06-11T20:08:11+03:00</lastBuildDate>
 
         <item>
+	<title>Semarang Travel Guide (Semarang Metropolitan Area/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/semarang/</link>
+	<description>Explore the diverse and rich culture of Semarang, Indonesia with our comprehensive travel guide. Discover the best places to visit, stay, and eat, as well as safety tips and transportation options.</description>
+	<pubDate>2024-06-11T20:08:11+03:00</pubDate>
+</item><item>
 	<title>Sungai Pinang Travel Guide (West Sumatra/Sumatra/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/west-sumatra/sungai-pinang/</link>
 	<description>A comprehensive travel guide to Sungai Pinang, including information on places to visit, hiking/biking routes, food scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/shimane/masuda/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, accommodations, local culture and customs, safety and health, and transportation options in Masuda, Shimane, Japan.</description>
 	<pubDate>2024-06-11T15:53:45+03:00</pubDate>
-</item><item>
-	<title>Chichiriviche Travel Guide (Falcón/Northwest/Venezuela/South America)</title>
-	<link>https://travellers.wiki/en/south-america/venezuela/northwest/falcon/chichiriviche/</link>
-	<description>A comprehensive travel guide for Chichiriviche, including recommendations on places to visit, things to do, hiking/biking routes, food and drink scenes, where to stay and more.</description>
-	<pubDate>2024-06-11T15:24:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
