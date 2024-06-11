@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-11T20:53:09+03:00</pubDate>
-        <lastBuildDate>2024-06-11T20:53:09+03:00</lastBuildDate>
+        <pubDate>2024-06-11T21:26:46+03:00</pubDate>
+        <lastBuildDate>2024-06-11T21:26:46+03:00</lastBuildDate>
 
         <item>
+	<title>Ohakune Travel Guide (Central North Island/North Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/central-north-island/ohakune/</link>
+	<description>Explore Ohakune with our informative and detailed travel guide, including where to stay in Ohakune, things to do, and how to get around.</description>
+	<pubDate>2024-06-11T21:26:46+03:00</pubDate>
+</item><item>
 	<title>Lancaster (New York) Travel Guide (Northtowns/Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/northtowns/lancaster-new-york/</link>
 	<description>Discover the top places to visit, things to do, where to stay, and more in Lancaster (New York). Plan your trip with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/norrbotten-county/gallivare/</link>
 	<description>Plan your trip to Gällivare, Sweden with our comprehensive travel guide. Discover cultural attractions, natural wonders, hiking and biking routes, local food and drink, accommodations, and more.</description>
 	<pubDate>2024-06-11T16:51:41+03:00</pubDate>
-</item><item>
-	<title>Sainte-Anne-de-Beaupré Travel Guide (Quebec Region/Central Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/quebec-region/sainte-anne-de-beaupre/</link>
-	<description>Plan your trip to Sainte-Anne-de-Beaupré with our comprehensive travel guide, featuring top attractions, hiking and biking routes, food and drink scene, where to stay and more.</description>
-	<pubDate>2024-06-11T16:21:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
