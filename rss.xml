@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-11T09:51:18+03:00</pubDate>
-        <lastBuildDate>2024-06-11T09:51:18+03:00</lastBuildDate>
+        <pubDate>2024-06-11T10:24:29+03:00</pubDate>
+        <lastBuildDate>2024-06-11T10:24:29+03:00</lastBuildDate>
 
         <item>
+	<title>Paulino Neves Travel Guide (Northern Maranhão/Maranhão/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/maranhao/northern-maranhao/paulino-neves/</link>
+	<description>Discover the best places to visit, things to do, food to try, and tips for traveling safely in Paulino Neves, Maranhão, Brazil.</description>
+	<pubDate>2024-06-11T10:24:29+03:00</pubDate>
+</item><item>
 	<title>Serengeti National Park Travel Guide (Northeast Tanzania/Tanzania/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/tanzania/northeast-tanzania/serengeti-national-park/</link>
 	<description>Plan your trip to Serengeti National Park with this comprehensive travel guide featuring the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/hertfordshire/tring/</link>
 	<description>Discover the best places to visit, where to stay, what to eat, and important cultural customs in Tring, United Kingdom. Find helpful tips on transportation, safety, and nearby destinations.</description>
 	<pubDate>2024-06-11T05:58:17+03:00</pubDate>
-</item><item>
-	<title>Changde Travel Guide (Hunan/South-central China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/hunan/changde/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Changde with our comprehensive travel guide.</description>
-	<pubDate>2024-06-11T05:29:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
