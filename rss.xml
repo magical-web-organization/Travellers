@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T01:40:15+03:00</pubDate>
-        <lastBuildDate>2024-06-13T01:40:15+03:00</lastBuildDate>
+        <pubDate>2024-06-13T02:20:10+03:00</pubDate>
+        <lastBuildDate>2024-06-13T02:20:10+03:00</lastBuildDate>
 
         <item>
+	<title>Hanas National Nature Reserve Travel Guide (Dzungarian/Xinjiang/Northwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/xinjiang/dzungarian/hanas-national-nature-reserve/</link>
+	<description>Discover the natural and cultural wonders of Hanas National Nature Reserve in Xinjiang, China. From outdoor adventures to local cuisine, plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-06-13T02:20:10+03:00</pubDate>
+</item><item>
 	<title>Espanola Travel Guide (Near North/Northern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/near-north/espanola/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Espanola, a town in Northern Ontario, Canada, with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/waikato/te-kuiti/</link>
 	<description>Explore the natural and cultural attractions of Te Kuiti on the North Island of New Zealand. Discover the best things to do, places to stay, and food to try in this charming town in Waikato.</description>
 	<pubDate>2024-06-12T21:50:54+03:00</pubDate>
-</item><item>
-	<title>Camperdown Travel Guide (South West Coast (Victoria)/Victoria (state)/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/victoria-state/south-west-coast-victoria/camperdown/</link>
-	<description>Discover the beauty of Camperdown, Victoria with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking trails to delicious cuisine, Camperdown offers something for everyone.</description>
-	<pubDate>2024-06-12T21:24:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
