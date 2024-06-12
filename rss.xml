@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T12:00:35+03:00</pubDate>
-        <lastBuildDate>2024-06-12T12:00:35+03:00</lastBuildDate>
+        <pubDate>2024-06-12T12:29:05+03:00</pubDate>
+        <lastBuildDate>2024-06-12T12:29:05+03:00</lastBuildDate>
 
         <item>
+	<title>Kruununhaka and Katajanokka Travel Guide (Helsinki/Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/helsinki/kruununhaka-and-katajanokka/</link>
+	<description>Discover the best places to visit, things to do, and food to try in Kruununhaka and Katajanokka, Helsinki. Plan your trip with our comprehensive guide today!</description>
+	<pubDate>2024-06-12T12:29:05+03:00</pubDate>
+</item><item>
 	<title>Perryville Travel Guide (Eastern Shore/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/eastern-shore/perryville/</link>
 	<description>Read about the top attractions, activities, food scene, and accommodations in Perryville, Maryland. Plan your next trip to this scenic Eastern Shore destination in the Mid-Atlantic region of the United States.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/staffordshire/stafford/</link>
 	<description>Discover the best things to see and do in Stafford, from cultural attractions to scenic hikes and local cuisine.</description>
 	<pubDate>2024-06-12T08:01:09+03:00</pubDate>
-</item><item>
-	<title>Athens Travel Guide (Southeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/southeast-ohio/athens/</link>
-	<description>Discover the best things to see and do in Athens, Ohio with this comprehensive travel guide. From hiking and biking to food and culture, we've got you covered.</description>
-	<pubDate>2024-06-12T07:21:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
