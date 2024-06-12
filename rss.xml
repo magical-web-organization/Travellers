@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T19:03:37+03:00</pubDate>
-        <lastBuildDate>2024-06-12T19:03:37+03:00</lastBuildDate>
+        <pubDate>2024-06-12T19:46:39+03:00</pubDate>
+        <lastBuildDate>2024-06-12T19:46:39+03:00</lastBuildDate>
 
         <item>
+	<title>Winooski Travel Guide (Chittenden County/Northwest Vermont/Vermont/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/northwest-vermont/chittenden-county/winooski/</link>
+	<description>Discover the hidden gems of Winooski, Vermont with our comprehensive travel guide. From natural attractions to cultural landmarks and delicious local cuisine, we've got everything you need for an unforgettable trip.</description>
+	<pubDate>2024-06-12T19:46:39+03:00</pubDate>
+</item><item>
 	<title>Palm Springs Travel Guide (Riverside County/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/riverside-county/palm-springs/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Palm Springs, California, with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/chile/southern-chile/chiloe-island/ancud/</link>
 	<description>Discover the top attractions, activities, and local culture of Ancud, Chile. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-06-12T15:15:40+03:00</pubDate>
-</item><item>
-	<title>Roi Et Travel Guide (Central Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/central-isaan/roi-et/</link>
-	<description>Discover the most popular attractions, best things to do, places to stay, dining options, and local customs in Roi Et, Thailand.</description>
-	<pubDate>2024-06-12T14:45:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
