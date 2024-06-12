@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T22:51:10+03:00</pubDate>
-        <lastBuildDate>2024-06-12T22:51:10+03:00</lastBuildDate>
+        <pubDate>2024-06-12T23:24:31+03:00</pubDate>
+        <lastBuildDate>2024-06-12T23:24:31+03:00</lastBuildDate>
 
         <item>
+	<title>Centro Travel Guide (Buenos Aires/Buenos Aires (province)/Pampas/Argentina/South America)</title>
+	<link>https://travellers.wiki/en/south-america/argentina/pampas/buenos-aires-province/buenos-aires/centro/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Centro, Buenos Aires. A comprehensive travel guide with insider tips and recommendations.</description>
+	<pubDate>2024-06-12T23:24:31+03:00</pubDate>
+</item><item>
 	<title>Ali Chur Travel Guide (Pamirs/Tajikistan/Central Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/central-asia/tajikistan/pamirs/ali-chur/</link>
 	<description>Plan your trip to Ali Chur, Tajikistan with our comprehensive travel guide. Discover the best things to see, do, and eat in this beautiful and culturally rich destination in Central Asia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/campos-do-jordao/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in the breathtaking Campos do Jordão, Brazil.</description>
 	<pubDate>2024-06-12T18:59:45+03:00</pubDate>
-</item><item>
-	<title>Guía de Isora Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/guia-de-isora/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Guía de Isora with our comprehensive travel guide.</description>
-	<pubDate>2024-06-12T18:13:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
