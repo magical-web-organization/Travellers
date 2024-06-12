@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T13:36:32+03:00</pubDate>
-        <lastBuildDate>2024-06-12T13:36:32+03:00</lastBuildDate>
+        <pubDate>2024-06-12T14:15:29+03:00</pubDate>
+        <lastBuildDate>2024-06-12T14:15:29+03:00</lastBuildDate>
 
         <item>
+	<title>Dasol Travel Guide (Pangasinan/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/pangasinan/dasol/</link>
+	<description>Explore the natural beauty, rich culture, and thrilling adventures that await you in Dasol, Pangasinan. Our comprehensive travel guide offers tips on the best places to visit, things to do, and where to stay in the area.</description>
+	<pubDate>2024-06-12T14:15:29+03:00</pubDate>
+</item><item>
 	<title>Grover Beach Travel Guide (San Luis Obispo County/Central Coast/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/grover-beach/</link>
 	<description>Read on for a comprehensive guide to Grover Beach, California, including must-visit places, hiking and biking trails, food and drink options, accommodation recommendations, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/mpumalanga/white-river/</link>
 	<description>Explore the culturally rich and naturally beautiful city of White River, Mpumalanga. Read on for a detailed guide on the best things to do, places to visit, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-06-12T09:59:00+03:00</pubDate>
-</item><item>
-	<title>La Boca & Barracas Travel Guide (Buenos Aires/Buenos Aires (province)/Pampas/Argentina/South America)</title>
-	<link>https://travellers.wiki/en/south-america/argentina/pampas/buenos-aires-province/buenos-aires/la-boca-barracas/</link>
-	<description>Discover the culturally rich neighborhoods of La Boca & Barracas in Buenos Aires, Argentina through this comprehensive travel guide, covering top places to visit, things to do, where to stay, and safety tips.</description>
-	<pubDate>2024-06-12T09:11:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
