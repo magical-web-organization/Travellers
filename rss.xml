@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T12:29:05+03:00</pubDate>
-        <lastBuildDate>2024-06-12T12:29:05+03:00</lastBuildDate>
+        <pubDate>2024-06-12T12:33:53+03:00</pubDate>
+        <lastBuildDate>2024-06-12T12:33:53+03:00</lastBuildDate>
 
         <item>
+	<title>Sakata Travel Guide (Yamagata (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/yamagata-prefecture/sakata/</link>
+	<description>Plan your visit to Sakata with our comprehensive travel guide, including a list of must-visit attractions, hiking and biking routes, food and drink scene, where to stay, local customs, safety and health, and transportation options.</description>
+	<pubDate>2024-06-12T12:33:53+03:00</pubDate>
+</item><item>
 	<title>Kruununhaka and Katajanokka Travel Guide (Helsinki/Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/helsinki/kruununhaka-and-katajanokka/</link>
 	<description>Discover the best places to visit, things to do, and food to try in Kruununhaka and Katajanokka, Helsinki. Plan your trip with our comprehensive guide today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-columbus/worthington/</link>
 	<description>Plan your trip to Worthington with this comprehensive travel guide. Discover the best things to do, places to visit, and local food scene in Worthington.</description>
 	<pubDate>2024-06-12T08:15:12+03:00</pubDate>
-</item><item>
-	<title>Stafford Travel Guide (Staffordshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/staffordshire/stafford/</link>
-	<description>Discover the best things to see and do in Stafford, from cultural attractions to scenic hikes and local cuisine.</description>
-	<pubDate>2024-06-12T08:01:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
