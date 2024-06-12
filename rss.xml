@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T19:46:39+03:00</pubDate>
-        <lastBuildDate>2024-06-12T19:46:39+03:00</lastBuildDate>
+        <pubDate>2024-06-12T20:29:13+03:00</pubDate>
+        <lastBuildDate>2024-06-12T20:29:13+03:00</lastBuildDate>
 
         <item>
+	<title>Brahmatal Lake Travel Guide (Garhwal/Uttarakhand/Himalayan North/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/brahmatal-lake/</link>
+	<description>Explore the beauty of Brahmatal Lake in Uttarakhand with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-06-12T20:29:13+03:00</pubDate>
+</item><item>
 	<title>Winooski Travel Guide (Chittenden County/Northwest Vermont/Vermont/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/northwest-vermont/chittenden-county/winooski/</link>
 	<description>Discover the hidden gems of Winooski, Vermont with our comprehensive travel guide. From natural attractions to cultural landmarks and delicious local cuisine, we've got everything you need for an unforgettable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/bosanska-krajina/bosanska-krupa/</link>
 	<description>This travel guide for Bosanska Krupa provides information on the best places to visit, things to do, where to stay, and more. Get a comprehensive tour of the beautiful Balkan destination!</description>
 	<pubDate>2024-06-12T15:58:24+03:00</pubDate>
-</item><item>
-	<title>Ancud Travel Guide (Chiloé Island/Southern Chile/Chile/South America)</title>
-	<link>https://travellers.wiki/en/south-america/chile/southern-chile/chiloe-island/ancud/</link>
-	<description>Discover the top attractions, activities, and local culture of Ancud, Chile. Plan your trip with this comprehensive travel guide.</description>
-	<pubDate>2024-06-12T15:15:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
