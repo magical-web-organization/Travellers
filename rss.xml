@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T16:38:14+03:00</pubDate>
-        <lastBuildDate>2024-06-12T16:38:14+03:00</lastBuildDate>
+        <pubDate>2024-06-12T17:06:59+03:00</pubDate>
+        <lastBuildDate>2024-06-12T17:06:59+03:00</lastBuildDate>
 
         <item>
+	<title>Larnaca Travel Guide (Larnaca district/Cyprus/Europe)</title>
+	<link>https://travellers.wiki/en/europe/cyprus/larnaca-district/larnaca/</link>
+	<description>Discover the best places to visit, things to do, local food and drinks, accommodations, and more in our comprehensive travel guide to Larnaca, Cyprus.</description>
+	<pubDate>2024-06-12T17:06:59+03:00</pubDate>
+</item><item>
 	<title>Thái Nguyên Travel Guide (Northern Vietnam/Vietnam/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/northern-vietnam/thai-nguyen/</link>
 	<description>Discover the culturally and naturally rich province of Thái Nguyên, Vietnam. Find out about the best places to visit, food and drink scene, where to stay, and much more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/yamagata-prefecture/sakata/</link>
 	<description>Plan your visit to Sakata with our comprehensive travel guide, including a list of must-visit attractions, hiking and biking routes, food and drink scene, where to stay, local customs, safety and health, and transportation options.</description>
 	<pubDate>2024-06-12T12:33:53+03:00</pubDate>
-</item><item>
-	<title>Kruununhaka and Katajanokka Travel Guide (Helsinki/Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/helsinki/kruununhaka-and-katajanokka/</link>
-	<description>Discover the best places to visit, things to do, and food to try in Kruununhaka and Katajanokka, Helsinki. Plan your trip with our comprehensive guide today!</description>
-	<pubDate>2024-06-12T12:29:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
