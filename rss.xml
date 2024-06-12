@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-12T18:13:27+03:00</pubDate>
-        <lastBuildDate>2024-06-12T18:13:27+03:00</lastBuildDate>
+        <pubDate>2024-06-12T18:59:45+03:00</pubDate>
+        <lastBuildDate>2024-06-12T18:59:45+03:00</lastBuildDate>
 
         <item>
+	<title>Campos do Jordão Travel Guide (North Coast (São Paulo)/São Paulo (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/campos-do-jordao/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in the breathtaking Campos do Jordão, Brazil.</description>
+	<pubDate>2024-06-12T18:59:45+03:00</pubDate>
+</item><item>
 	<title>Guía de Isora Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/guia-de-isora/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Guía de Isora with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/pangasinan/dasol/</link>
 	<description>Explore the natural beauty, rich culture, and thrilling adventures that await you in Dasol, Pangasinan. Our comprehensive travel guide offers tips on the best places to visit, things to do, and where to stay in the area.</description>
 	<pubDate>2024-06-12T14:15:29+03:00</pubDate>
-</item><item>
-	<title>Grover Beach Travel Guide (San Luis Obispo County/Central Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/grover-beach/</link>
-	<description>Read on for a comprehensive guide to Grover Beach, California, including must-visit places, hiking and biking trails, food and drink options, accommodation recommendations, and transportation options.</description>
-	<pubDate>2024-06-12T13:36:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
