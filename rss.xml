@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T02:49:15+03:00</pubDate>
-        <lastBuildDate>2024-06-13T02:49:15+03:00</lastBuildDate>
+        <pubDate>2024-06-13T03:32:49+03:00</pubDate>
+        <lastBuildDate>2024-06-13T03:32:49+03:00</lastBuildDate>
 
         <item>
+	<title>Masjed Solayman Travel Guide (Southwestern Iran/Western Iran/Iran/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iran/western-iran/southwestern-iran/masjed-solayman/</link>
+	<description>Discover the best places to visit, eat and stay in Masjed Solayman, Iran. Get tips on culture, safety, transportation, hiking, food and more.</description>
+	<pubDate>2024-06-13T03:32:49+03:00</pubDate>
+</item><item>
 	<title>Blue Spring State Park Travel Guide (Volusia County/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/blue-spring-state-park/</link>
 	<description>Discover the top attractions, best things to do, where to stay, what to eat and drink, and safety tips for exploring Blue Spring State Park in Florida.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/central-asia/tajikistan/pamirs/ali-chur/</link>
 	<description>Plan your trip to Ali Chur, Tajikistan with our comprehensive travel guide. Discover the best things to see, do, and eat in this beautiful and culturally rich destination in Central Asia.</description>
 	<pubDate>2024-06-12T22:51:10+03:00</pubDate>
-</item><item>
-	<title>Eagle Nest Travel Guide (North Central New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/north-central-new-mexico/eagle-nest/</link>
-	<description>Discover the top attractions, must-try food and drink, where to stay, local culture, and safety tips in Eagle Nest, New Mexico with our tour guide.</description>
-	<pubDate>2024-06-12T22:06:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
