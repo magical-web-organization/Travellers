@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T20:16:08+03:00</pubDate>
-        <lastBuildDate>2024-06-13T20:16:08+03:00</lastBuildDate>
+        <pubDate>2024-06-13T20:40:34+03:00</pubDate>
+        <lastBuildDate>2024-06-13T20:40:34+03:00</lastBuildDate>
 
         <item>
+	<title>El Paso Travel Guide (Trans-Pecos/Big Bend Country/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/big-bend-country/trans-pecos/el-paso/</link>
+	<description>Plan your trip to El Paso with this comprehensive tour guide featuring information on attractions, activities, accommodations, and more.</description>
+	<pubDate>2024-06-13T20:40:34+03:00</pubDate>
+</item><item>
 	<title>Castro Urdiales Travel Guide (Cantabria/Green Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/cantabria/castro-urdiales/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and what to eat in Castro Urdiales with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/east-bohemia/litomysl/</link>
 	<description>Plan your trip to Litomyšl with this comprehensive travel guide featuring top attractions, activities, accommodations, and tips to make the most of your visit.</description>
 	<pubDate>2024-06-13T16:06:38+03:00</pubDate>
-</item><item>
-	<title>Mespelbrunn Travel Guide (Lower Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/lower-franconia/mespelbrunn/</link>
-	<description>Explore the natural and cultural attractions of Mespelbrunn in Lower Franconia, Bavaria, Germany. Discover the best things to do, where to stay, what to eat and drink, and how to get around.</description>
-	<pubDate>2024-06-13T15:36:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
