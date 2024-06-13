@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-14T01:25:14+03:00</pubDate>
-        <lastBuildDate>2024-06-14T01:25:14+03:00</lastBuildDate>
+        <pubDate>2024-06-14T02:02:58+03:00</pubDate>
+        <lastBuildDate>2024-06-14T02:02:58+03:00</lastBuildDate>
 
         <item>
+	<title>Squamish Travel Guide (Sea to Sky/Lower Mainland/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/sea-to-sky/squamish/</link>
+	<description>Learn about the best things to do, see, and taste in Squamish, BC. Discover the rich culture and beauty of Sea to Sky's stunning destination.</description>
+	<pubDate>2024-06-14T02:02:58+03:00</pubDate>
+</item><item>
 	<title>Metro Valley Travel Guide (West Virginia/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/west-virginia/metro-valley/</link>
 	<description>Discover Metro Valley in West Virginia, USA with this comprehensive travel guide. Explore the cultural attractions, natural wonders, local cuisine, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/leicestershire/castle-donington/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in the charming town of Castle Donington located in East Midlands, England.</description>
 	<pubDate>2024-06-13T21:11:24+03:00</pubDate>
-</item><item>
-	<title>El Paso Travel Guide (Trans-Pecos/Big Bend Country/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/big-bend-country/trans-pecos/el-paso/</link>
-	<description>Plan your trip to El Paso with this comprehensive tour guide featuring information on attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-06-13T20:40:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
