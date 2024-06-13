@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T14:16:20+03:00</pubDate>
-        <lastBuildDate>2024-06-13T14:16:20+03:00</lastBuildDate>
+        <pubDate>2024-06-13T14:47:29+03:00</pubDate>
+        <lastBuildDate>2024-06-13T14:47:29+03:00</lastBuildDate>
 
         <item>
+	<title>Elbe Sandstone Mountains Travel Guide (Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/elbe-sandstone-mountains/</link>
+	<description>Discover the best cultural and natural attractions, hiking routes, activities, food and drink scene, accommodation options, local culture and customs, safety and health tips, and transportation logistics for an unforgettable trip to Elbe Sandstone Mountains.</description>
+	<pubDate>2024-06-13T14:47:29+03:00</pubDate>
+</item><item>
 	<title>Itu Travel Guide (Sorocabana/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/sorocabana/itu/</link>
 	<description>Discover the best cultural attractions, natural wonders, hiking routes, food and drink scenes, accommodations, and more in Itu, Brazil. Plan your perfect trip to this enchanting destination with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/auckland-region/auckland/west-auckland/</link>
 	<description>Discover the best natural attractions, hiking routes, cultural attractions, food and drink scene, where to stay, and more with this comprehensive travel guide for West Auckland, New Zealand.</description>
 	<pubDate>2024-06-13T10:13:45+03:00</pubDate>
-</item><item>
-	<title>Sant Julia de Loria Travel Guide (Andorra/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/andorra/sant-julia-de-loria/</link>
-	<description>Explore Sant Julia de Loria in Andorra with this comprehensive travel guide. Discover the top places to visit, hiking and biking routes, must-try dishes, where to stay, local culture, safety and health tips, and more.</description>
-	<pubDate>2024-06-13T09:41:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
