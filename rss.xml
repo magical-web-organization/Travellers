@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T13:27:17+03:00</pubDate>
-        <lastBuildDate>2024-06-13T13:27:17+03:00</lastBuildDate>
+        <pubDate>2024-06-13T13:42:50+03:00</pubDate>
+        <lastBuildDate>2024-06-13T13:42:50+03:00</lastBuildDate>
 
         <item>
+	<title>Letterkenny Travel Guide (County Donegal/Northwest Ireland and Lakelands/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-donegal/letterkenny/</link>
+	<description>Get to know Letterkenny, a charming town in County Donegal, Ireland. Discover its cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, and local customs.</description>
+	<pubDate>2024-06-13T13:42:50+03:00</pubDate>
+</item><item>
 	<title>Yelagiri Travel Guide (Northern Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/northern-tamil-nadu/yelagiri/</link>
 	<description>Plan your adventure to beautiful Yelagiri with our comprehensive travel guide. Discover the best things to see and do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/kumamoto-prefecture/kumamoto/</link>
 	<description>Discover the beautiful city of Kumamoto in Kyushu, known for its cultural significance, natural beauty, delicious food and much more. Our comprehensive guide will help you explore the best of Kumamoto.</description>
 	<pubDate>2024-06-13T09:04:06+03:00</pubDate>
-</item><item>
-	<title>Panglao Town Travel Guide (Panglao Island/Bohol/Visayas/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/bohol/panglao-island/panglao-town/</link>
-	<description>Looking for an adventure-filled vacation? Check out Panglao Town in Bohol, Philippines! Discover the top places to visit, hiking and biking routes, food scene, where to stay, culture, and more in this comprehensive guide.</description>
-	<pubDate>2024-06-13T09:02:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
