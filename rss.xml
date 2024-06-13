@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T08:15:50+03:00</pubDate>
-        <lastBuildDate>2024-06-13T08:15:50+03:00</lastBuildDate>
+        <pubDate>2024-06-13T09:02:21+03:00</pubDate>
+        <lastBuildDate>2024-06-13T09:02:21+03:00</lastBuildDate>
 
         <item>
+	<title>Panglao Town Travel Guide (Panglao Island/Bohol/Visayas/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/bohol/panglao-island/panglao-town/</link>
+	<description>Looking for an adventure-filled vacation? Check out Panglao Town in Bohol, Philippines! Discover the top places to visit, hiking and biking routes, food scene, where to stay, culture, and more in this comprehensive guide.</description>
+	<pubDate>2024-06-13T09:02:21+03:00</pubDate>
+</item><item>
 	<title>Rogers Park Travel Guide (Chicago/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/chicago/rogers-park/</link>
 	<description>Plan your trip to Rogers Park with our comprehensive travel guide featuring must-visit attractions, best hiking/biking routes, food and drink scene, where to stay, and travel logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/granada-province/la-alpujarra/</link>
 	<description>Discover the beauty of La Alpujarra with our comprehensive travel guide. From natural to cultural attractions, best things to do and more, plan your next trip to Spain's Granada province now!</description>
 	<pubDate>2024-06-13T04:20:32+03:00</pubDate>
-</item><item>
-	<title>Small Carpathians Wine Region Travel Guide (Western Slovakia/Slovakia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovakia/western-slovakia/small-carpathians-wine-region/</link>
-	<description>Plan your trip to Small Carpathians Wine Region with this comprehensive tour guide. Learn about the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-06-13T03:45:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
