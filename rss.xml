@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T07:24:58+03:00</pubDate>
-        <lastBuildDate>2024-06-13T07:24:58+03:00</lastBuildDate>
+        <pubDate>2024-06-13T07:48:19+03:00</pubDate>
+        <lastBuildDate>2024-06-13T07:48:19+03:00</lastBuildDate>
 
         <item>
+	<title>Les Diablerets Travel Guide (Vaud/Western Switzerland/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/western-switzerland/vaud/les-diablerets/</link>
+	<description>Explore the natural and cultural attractions, outdoor adventures, and food and drink scene of Les Diablerets in Switzerland. Learn about the best things to do, where to stay, how to get there, and more with this comprehensive guide.</description>
+	<pubDate>2024-06-13T07:48:19+03:00</pubDate>
+</item><item>
 	<title>Thermopolis Travel Guide (Northwest Wyoming/Wyoming/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/wyoming/northwest-wyoming/thermopolis/</link>
 	<description>Explore Thermopolis, a charming town in Wyoming's Rocky Mountains. This comprehensive travel guide includes a list of places to visit, top things to do, local culture and customs, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/iran/western-iran/southwestern-iran/masjed-solayman/</link>
 	<description>Discover the best places to visit, eat and stay in Masjed Solayman, Iran. Get tips on culture, safety, transportation, hiking, food and more.</description>
 	<pubDate>2024-06-13T03:32:49+03:00</pubDate>
-</item><item>
-	<title>Blue Spring State Park Travel Guide (Volusia County/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/blue-spring-state-park/</link>
-	<description>Discover the top attractions, best things to do, where to stay, what to eat and drink, and safety tips for exploring Blue Spring State Park in Florida.</description>
-	<pubDate>2024-06-13T02:49:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
