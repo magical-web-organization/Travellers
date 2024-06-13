@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T15:08:20+03:00</pubDate>
-        <lastBuildDate>2024-06-13T15:08:20+03:00</lastBuildDate>
+        <pubDate>2024-06-13T15:36:54+03:00</pubDate>
+        <lastBuildDate>2024-06-13T15:36:54+03:00</lastBuildDate>
 
         <item>
+	<title>Mespelbrunn Travel Guide (Lower Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/lower-franconia/mespelbrunn/</link>
+	<description>Explore the natural and cultural attractions of Mespelbrunn in Lower Franconia, Bavaria, Germany. Discover the best things to do, where to stay, what to eat and drink, and how to get around.</description>
+	<pubDate>2024-06-13T15:36:54+03:00</pubDate>
+</item><item>
 	<title>Odigbo Travel Guide (Ondo State/South West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/ondo-state/odigbo/</link>
 	<description>Explore the culturally important attractions, natural wonders, food and drink scenes, and more of Odigbo with this comprehensive travel guide. Find out the best time to visit and where to stay, and discover the must-try dishes and souvenirs to take home.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/space-coast/malabar/</link>
 	<description>Plan your trip to Malabar, Space Coast, Florida with our comprehensive travel guide featuring top attractions, activities, accommodations, and local insights.</description>
 	<pubDate>2024-06-13T11:18:18+03:00</pubDate>
-</item><item>
-	<title>Troy Travel Guide (Miami - Scioto basins/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/miami-scioto-basins/troy/</link>
-	<description>Plan your perfect trip to Troy, Ohio with this comprehensive travel guide that features a list of places to visit, natural attractions, hiking and biking routes, local cuisine, where to stay, and more.</description>
-	<pubDate>2024-06-13T10:53:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
