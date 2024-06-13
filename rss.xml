@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T18:30:16+03:00</pubDate>
-        <lastBuildDate>2024-06-13T18:30:16+03:00</lastBuildDate>
+        <pubDate>2024-06-13T18:59:19+03:00</pubDate>
+        <lastBuildDate>2024-06-13T18:59:19+03:00</lastBuildDate>
 
         <item>
+	<title>Smith Rock State Park Travel Guide (Central Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/central-oregon/smith-rock-state-park/</link>
+	<description>Plan your visit to Smith Rock State Park with our comprehensive travel guide. Discover natural attractions, hiking and biking routes, local culture, and more!</description>
+	<pubDate>2024-06-13T18:59:19+03:00</pubDate>
+</item><item>
 	<title>Guanaja Travel Guide (Bay Islands/Caribbean Honduras/Honduras/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/honduras/caribbean-honduras/bay-islands/guanaja/</link>
 	<description>Plan your next adventure to Guanaja with our comprehensive travel guide, including a list of places to visit, hiking and biking routes, best things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/sorocabana/itu/</link>
 	<description>Discover the best cultural attractions, natural wonders, hiking routes, food and drink scenes, accommodations, and more in Itu, Brazil. Plan your perfect trip to this enchanting destination with our comprehensive travel guide.</description>
 	<pubDate>2024-06-13T14:16:20+03:00</pubDate>
-</item><item>
-	<title>Letterkenny Travel Guide (County Donegal/Northwest Ireland and Lakelands/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-donegal/letterkenny/</link>
-	<description>Get to know Letterkenny, a charming town in County Donegal, Ireland. Discover its cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, and local customs.</description>
-	<pubDate>2024-06-13T13:42:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
