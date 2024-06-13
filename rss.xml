@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T21:11:24+03:00</pubDate>
-        <lastBuildDate>2024-06-13T21:11:24+03:00</lastBuildDate>
+        <pubDate>2024-06-13T21:43:57+03:00</pubDate>
+        <lastBuildDate>2024-06-13T21:43:57+03:00</lastBuildDate>
 
         <item>
+	<title>North Beach Travel Guide (Miami Beach/Miami-Dade County/Greater Miami/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/miami-dade-county/miami-beach/north-beach/</link>
+	<description>Discover the best things to do, see, eat and experience in North Beach Miami with our comprehensive travel guide. Plan your trip today!</description>
+	<pubDate>2024-06-13T21:43:57+03:00</pubDate>
+</item><item>
 	<title>Castle Donington Travel Guide (Leicestershire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/leicestershire/castle-donington/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in the charming town of Castle Donington located in East Midlands, England.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/lynton-and-lynmouth/</link>
 	<description>Discover the best things to see, do, eat, and experience in Lynton and Lynmouth with our comprehensive travel guide. Plan your trip with our tips and recommendations.</description>
 	<pubDate>2024-06-13T17:31:07+03:00</pubDate>
-</item><item>
-	<title>Gaithersburg Travel Guide (Montgomery County/Capital Region/Maryland/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/montgomery-county/gaithersburg/</link>
-	<description>Discover the vibrant city of Gaithersburg with our comprehensive travel guide. Find out the best places to visit, where to stay, what to eat, and more.</description>
-	<pubDate>2024-06-13T16:54:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
