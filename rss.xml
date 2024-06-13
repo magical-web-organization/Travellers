@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-13T23:39:20+03:00</pubDate>
-        <lastBuildDate>2024-06-13T23:39:20+03:00</lastBuildDate>
+        <pubDate>2024-06-14T00:05:58+03:00</pubDate>
+        <lastBuildDate>2024-06-14T00:05:58+03:00</lastBuildDate>
 
         <item>
+	<title>Klang Travel Guide (Selangor/West Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/selangor/klang/</link>
+	<description>Discover the best places to visit, things to do, where to stay and eat, and how to get around in Klang, Malaysia.</description>
+	<pubDate>2024-06-14T00:05:58+03:00</pubDate>
+</item><item>
 	<title>Sliema Travel Guide (Malta Island/Malta/Europe)</title>
 	<link>https://travellers.wiki/en/europe/malta/malta-island/sliema/</link>
 	<description>Plan a visit to the picturesque coastal town of Sliema with this ultimate travel guide. From exploring local culture to outdoor adventures, find everything you need to know about this gem in Malta.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/croatia/dalmatia/dubrovnik-neretva/komarna/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Komarna, Croatia. Learn about the local culture, food, transportation options, safety tips, and more in our comprehensive travel guide.</description>
 	<pubDate>2024-06-13T19:35:48+03:00</pubDate>
-</item><item>
-	<title>Dibulla Travel Guide (La Guajira/Costa Norte/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/costa-norte/la-guajira/dibulla/</link>
-	<description>Explore the hidden gem of Dibulla located in La Guajira, Colombia. This comprehensive travel guide covers everything from places to visit, hiking and biking routes, food and drink scene, where to stay and more.</description>
-	<pubDate>2024-06-13T19:08:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
