@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-14T03:31:19+03:00</pubDate>
-        <lastBuildDate>2024-06-14T03:31:19+03:00</lastBuildDate>
+        <pubDate>2024-06-14T03:48:05+03:00</pubDate>
+        <lastBuildDate>2024-06-14T03:48:05+03:00</lastBuildDate>
 
         <item>
+	<title>Lyngen Travel Guide (Troms/Northern Norway/Norway/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/norway/northern-norway/troms/lyngen/</link>
+	<description>Discover the hidden gems of Lyngen in Northern Norway with our comprehensive travel guide. From cultural attractions to outdoor adventures, we've got it all!</description>
+	<pubDate>2024-06-14T03:48:05+03:00</pubDate>
+</item><item>
 	<title>Uda Travel Guide (Nara (prefecture)/Kansai/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/nara-prefecture/uda/</link>
 	<description>Explore the culturally rich Uda, Japan with our comprehensive travel guide featuring the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/san-francisco/fisherman-s-wharf/</link>
 	<description>Discover the best places to visit in Fisherman's Wharf, San Francisco with our expert travel guide. Learn about cultural attractions, natural wonders, outdoor adventures, hiking and biking routes, food and drink scene, accommodations, shopping, local customs, safety, transportation, and nearby excursions.</description>
 	<pubDate>2024-06-13T23:14:04+03:00</pubDate>
-</item><item>
-	<title>Eden Prairie Travel Guide (Twin Cities/Minnesota/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/twin-cities/eden-prairie/</link>
-	<description>Discover the best things to do, places to visit, and local culture in Eden Prairie, Minnesota with our comprehensive travel guide.</description>
-	<pubDate>2024-06-13T22:47:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
