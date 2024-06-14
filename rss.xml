@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-14T16:42:55+03:00</pubDate>
-        <lastBuildDate>2024-06-14T16:42:55+03:00</lastBuildDate>
+        <pubDate>2024-06-14T17:28:23+03:00</pubDate>
+        <lastBuildDate>2024-06-14T17:28:23+03:00</lastBuildDate>
 
         <item>
+	<title>Siloam Springs Travel Guide (Ozarks/Arkansas/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/ozarks/siloam-springs/</link>
+	<description>Discover the best places to visit, eat, stay, and more in the charming town of Siloam Springs, Arkansas. Read on for insider tips and recommendations.</description>
+	<pubDate>2024-06-14T17:28:23+03:00</pubDate>
+</item><item>
 	<title>Paldiski Travel Guide (North Estonia/Estonia/Baltic states/Europe)</title>
 	<link>https://travellers.wiki/en/europe/baltic-states/estonia/north-estonia/paldiski/</link>
 	<description>Discover the best places to visit, things to do, where to stay, local culture, and more in this complete travel guide to Paldiski, Estonia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/schwabach/</link>
 	<description>Discover the best places to visit, things to do, and cultural customs of Schwabach, Middle Franconia, Bavaria, Germany. Plan your trip with this ultimate travel guide.</description>
 	<pubDate>2024-06-14T12:43:15+03:00</pubDate>
-</item><item>
-	<title>Hatteras Travel Guide (Outer Banks/North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/outer-banks/hatteras/</link>
-	<description>Discover the hidden gems of Hatteras, North Carolina - from culturally significant museums and historical places to outdoor adventures, scenic hikes, and local food delights. Learn the dos and don'ts of Hatteras, how to stay safe, where to stay, and how to get around.</description>
-	<pubDate>2024-06-14T12:08:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
