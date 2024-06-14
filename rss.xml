@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-14T08:22:36+03:00</pubDate>
-        <lastBuildDate>2024-06-14T08:22:36+03:00</lastBuildDate>
+        <pubDate>2024-06-14T08:40:40+03:00</pubDate>
+        <lastBuildDate>2024-06-14T08:40:40+03:00</lastBuildDate>
 
         <item>
+	<title>Orchard Park Travel Guide (Southtowns/Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/southtowns/orchard-park/</link>
+	<description>A comprehensive travel guide to Orchard Park, including top attractions, hiking/biking routes, food scene, accommodation options, local culture and customs, safety and health, and transportation options.</description>
+	<pubDate>2024-06-14T08:40:40+03:00</pubDate>
+</item><item>
 	<title>Sanaag Travel Guide (Somaliland/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/somaliland/sanaag/</link>
 	<description>Plan your trip to Sanaag with this comprehensive travel guide. Explore the cultural and natural attractions, best things to do, food and drink scene, transportation options, safety, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/bouches-du-rhone/saintes-maries-de-la-mer/</link>
 	<description>Plan your trip to Saintes Maries de la Mer with our comprehensive travel guide. Discover the best things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-06-14T04:30:23+03:00</pubDate>
-</item><item>
-	<title>Lyngen Travel Guide (Troms/Northern Norway/Norway/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/norway/northern-norway/troms/lyngen/</link>
-	<description>Discover the hidden gems of Lyngen in Northern Norway with our comprehensive travel guide. From cultural attractions to outdoor adventures, we've got it all!</description>
-	<pubDate>2024-06-14T03:48:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
