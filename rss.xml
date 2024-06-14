@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T00:36:58+03:00</pubDate>
-        <lastBuildDate>2024-06-15T00:36:58+03:00</lastBuildDate>
+        <pubDate>2024-06-15T01:10:57+03:00</pubDate>
+        <lastBuildDate>2024-06-15T01:10:57+03:00</lastBuildDate>
 
         <item>
+	<title>Anaga Rural Park Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/anaga-rural-park/</link>
+	<description>Plan your perfect trip to Anaga Rural Park with our extensive travel guide, including information on places to visit, hiking and biking routes, food and drink scene, accommodations, and local culture.</description>
+	<pubDate>2024-06-15T01:10:57+03:00</pubDate>
+</item><item>
 	<title>Boonville Travel Guide (Central Missouri/Missouri/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/central-missouri/boonville/</link>
 	<description>Discover the natural beauty, rich history and vibrant culture of Boonville with our comprehensive travel guide. Find out where to stay, what to do, and how to get there!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/upper-peninsula/keweenaw-peninsula/copper-harbor/</link>
 	<description>Discover Copper Harbor, a charming town in Michigan's Upper Peninsula, with this detailed guide featuring top places to visit, hiking and biking trails, food and drink scenes, local culture, safety tips, transportation options, and nearby destinations.</description>
 	<pubDate>2024-06-14T20:38:04+03:00</pubDate>
-</item><item>
-	<title>Aliso Viejo Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/aliso-viejo/</link>
-	<description>Explore all the attractions, activities, and culture of Aliso Viejo with our comprehensive travel guide. Plan your trip with our tips and recommendations for an unforgettable experience.</description>
-	<pubDate>2024-06-14T20:18:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
