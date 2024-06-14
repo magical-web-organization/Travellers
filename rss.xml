@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-14T13:37:40+03:00</pubDate>
-        <lastBuildDate>2024-06-14T13:37:40+03:00</lastBuildDate>
+        <pubDate>2024-06-14T14:12:19+03:00</pubDate>
+        <lastBuildDate>2024-06-14T14:12:19+03:00</lastBuildDate>
 
         <item>
+	<title>Amandola Travel Guide (Fermo (province)/Marche/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/marche/fermo-province/amandola/</link>
+	<description>Amandola is a beautiful town in Marche, Central Italy. This comprehensive guide includes information on the best places to visit, hiking and biking routes, food and drink options, accommodations, and more.</description>
+	<pubDate>2024-06-14T14:12:19+03:00</pubDate>
+</item><item>
 	<title>Smolyan Travel Guide (Rhodope Mountains/Europe)</title>
 	<link>https://travellers.wiki/en/europe/rhodope-mountains/smolyan/</link>
 	<description>Explore Smolyan, a stunning mountain town situated in Rhodope Mountains, Bulgaria. Learn about the best things to do, attractions to visit, local food and drink, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/telangana/warangal/</link>
 	<description>Discover the best places to visit, food to try, where to stay, how to get around, and more in Warangal, India.</description>
 	<pubDate>2024-06-14T09:55:54+03:00</pubDate>
-</item><item>
-	<title>Râmnicu Vâlcea Travel Guide (Oltenia/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/oltenia/ramnicu-valcea/</link>
-	<description>Discover everything you need to know about Râmnicu Vâlcea in this comprehensive tour guide, including top attractions, hiking routes, itinerary, food scene, where to stay, and more.</description>
-	<pubDate>2024-06-14T09:27:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
