@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T14:24:19+03:00</pubDate>
-        <lastBuildDate>2024-06-15T14:24:19+03:00</lastBuildDate>
+        <pubDate>2024-06-15T14:47:23+03:00</pubDate>
+        <lastBuildDate>2024-06-15T14:47:23+03:00</lastBuildDate>
 
         <item>
+	<title>Cape Carteret Travel Guide (Crystal Coast/North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/crystal-coast/cape-carteret/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Cape Carteret, North Carolina, in this comprehensive travel guide.</description>
+	<pubDate>2024-06-15T14:47:23+03:00</pubDate>
+</item><item>
 	<title>Balaklava Travel Guide (Crimea/Southern Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/crimea/balaklava/</link>
 	<description>Discover the best places to visit, where to stay, what to eat, and how to get around in Balaklava, Crimea's hidden gem in Southern Russia. Find out about the rich cultural and historical attractions, breathtaking natural sights, and exciting outdoor adventures.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/custer-country/glendive/</link>
 	<description>Discover the natural beauty and cultural attractions of Glendive, Montana with our comprehensive travel guide. Plan your trip today.</description>
 	<pubDate>2024-06-15T09:52:03+03:00</pubDate>
-</item><item>
-	<title>Longue-Pointe-de-Mingan Travel Guide (North Shore/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/longue-pointe-de-mingan/</link>
-	<description>Plan your trip to Longue-Pointe-de-Mingan, Quebec, Canada with this comprehensive travel guide featuring top attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-06-15T09:29:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
