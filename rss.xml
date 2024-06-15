@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T10:16:54+03:00</pubDate>
-        <lastBuildDate>2024-06-15T10:16:54+03:00</lastBuildDate>
+        <pubDate>2024-06-15T10:37:10+03:00</pubDate>
+        <lastBuildDate>2024-06-15T10:37:10+03:00</lastBuildDate>
 
         <item>
+	<title>Wilmington Travel Guide (North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/wilmington/</link>
+	<description>Explore Wilmington, North Carolina with this comprehensive travel guide that includes a list of top attractions, hiking/biking routes, food and drink scene, places to stay, and everything else you need to know for the perfect trip.</description>
+	<pubDate>2024-06-15T10:37:10+03:00</pubDate>
+</item><item>
 	<title>Okinawa Island Travel Guide (Okinawa/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/okinawa/okinawa-island/</link>
 	<description>Explore the cultural landmarks, natural wonders, food scene, local customs and everything to make the most of your trip to Okinawa Island, Japan</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/anti-atlas/tiznit/</link>
 	<description>Discover the best places to stay, eat, and visit in Tiznit, Morocco, while learning about the cultural significance of this beautiful destination.</description>
 	<pubDate>2024-06-15T06:27:53+03:00</pubDate>
-</item><item>
-	<title>Royal Natal National Park Travel Guide (Ukhahlamba Drakensberg/KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/ukhahlamba-drakensberg/royal-natal-national-park/</link>
-	<description>Discover the natural and cultural attractions of Royal Natal National Park in South Africa. Plan your trip with our comprehensive tour guide covering the best things to do, where to stay, when to visit, and more.</description>
-	<pubDate>2024-06-15T05:43:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
