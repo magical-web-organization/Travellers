@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T02:52:30+03:00</pubDate>
-        <lastBuildDate>2024-06-15T02:52:30+03:00</lastBuildDate>
+        <pubDate>2024-06-15T03:14:25+03:00</pubDate>
+        <lastBuildDate>2024-06-15T03:14:25+03:00</lastBuildDate>
 
         <item>
+	<title>Bykhaw Travel Guide (Mogilev Oblast/Belarus/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/mogilev-oblast/bykhaw/</link>
+	<description>Plan your trip to Bykhaw with this comprehensive travel guide featuring recommendations for places to visit, activities to do, where to stay, and more.</description>
+	<pubDate>2024-06-15T03:14:25+03:00</pubDate>
+</item><item>
 	<title>Erskine Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/erskine/</link>
 	<description>Explore Erskine, Minnesota with this complete guide featuring top attractions, best things to do, hiking/biking routes, where to stay, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/umbria/trevi/</link>
 	<description>Plan your trip to Trevi with our comprehensive travel guide to explore this charming town tucked away in the heart of Umbria, Italy. From natural attractions to historical landmarks and local cuisines, we've got you covered.</description>
 	<pubDate>2024-06-14T22:40:31+03:00</pubDate>
-</item><item>
-	<title>Sainte-Anne Travel Guide (Martinique/Lesser Antilles/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/martinique/sainte-anne/</link>
-	<description>Discover the best beaches, attractions, hiking routes, food, and local culture with our tour guide. Plan your trip to Sainte-Anne with ease.</description>
-	<pubDate>2024-06-14T22:22:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
