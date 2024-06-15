@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T22:34:03+03:00</pubDate>
-        <lastBuildDate>2024-06-15T22:34:03+03:00</lastBuildDate>
+        <pubDate>2024-06-15T23:21:08+03:00</pubDate>
+        <lastBuildDate>2024-06-15T23:21:08+03:00</lastBuildDate>
 
         <item>
+	<title>Costești Travel Guide (Wallachian Plain/Muntenia/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/wallachian-plain/costesti/</link>
+	<description>Plan your trip to Costești with this comprehensive travel guide including attractions, activities, accommodation, food, transportation options, and more.</description>
+	<pubDate>2024-06-15T23:21:08+03:00</pubDate>
+</item><item>
 	<title>Turtle Islands Park Travel Guide (Sabah/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sabah/turtle-islands-park/</link>
 	<description>A detailed travel guide to Turtle Islands Park, covering places to visit, things to do, where to stay, and more. Plan your trip with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/belize/stann-creek/mayflower-bocawina-national-park/</link>
 	<description>Discover the breathtaking beauty and rich culture of Mayflower Bocawina National Park in Belize with our comprehensive guide. From natural attractions and adventure activities to local food and accommodations, this guide covers everything you need to know for a memorable trip.</description>
 	<pubDate>2024-06-15T18:51:12+03:00</pubDate>
-</item><item>
-	<title>Aksa Travel Guide (Mumbai/North Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/mumbai/aksa/</link>
-	<description>Discover the hidden treasures of Aksa in Maharashtra, India. From cultural and natural attractions to food, lodging and safety tips, our travel guide will have you covered for your trip to Aksa.</description>
-	<pubDate>2024-06-15T18:26:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
