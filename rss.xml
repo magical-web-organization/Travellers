@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T17:42:01+03:00</pubDate>
-        <lastBuildDate>2024-06-15T17:42:01+03:00</lastBuildDate>
+        <pubDate>2024-06-15T18:26:43+03:00</pubDate>
+        <lastBuildDate>2024-06-15T18:26:43+03:00</lastBuildDate>
 
         <item>
+	<title>Aksa Travel Guide (Mumbai/North Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/mumbai/aksa/</link>
+	<description>Discover the hidden treasures of Aksa in Maharashtra, India. From cultural and natural attractions to food, lodging and safety tips, our travel guide will have you covered for your trip to Aksa.</description>
+	<pubDate>2024-06-15T18:26:43+03:00</pubDate>
+</item><item>
 	<title>Eston Travel Guide (West Central Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/west-central-saskatchewan/eston/</link>
 	<description>Discover the best places to visit, activities to do, where to stay, and what to eat in Eston, a charming town in Saskatchewan, Canada. Plan your perfect trip with our complete travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/frontier-country/greater-oklahoma-city/oklahoma-city/northeast/</link>
 	<description>A comprehensive travel guide for Northeast Oklahoma City, with information on places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-15T13:42:54+03:00</pubDate>
-</item><item>
-	<title>Sun City Travel Guide (Greater Phoenix/Arizona/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/greater-phoenix/sun-city/</link>
-	<description>Discover the best attractions, hiking routes, activities, food, accommodation, and local customs in Sun City, Arizona with our week-long itinerary, tips, and travel information.</description>
-	<pubDate>2024-06-15T13:11:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
