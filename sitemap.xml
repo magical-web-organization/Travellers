@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/moselle-valley/</loc>
+        <lastmod>2024-06-16T02:39:16+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/copenhagen/osterbro/</loc>
         <lastmod>2024-06-16T02:25:26+03:00</lastmod>
     </url>
