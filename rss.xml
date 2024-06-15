@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T17:23:00+03:00</pubDate>
-        <lastBuildDate>2024-06-15T17:23:00+03:00</lastBuildDate>
+        <pubDate>2024-06-15T17:42:01+03:00</pubDate>
+        <lastBuildDate>2024-06-15T17:42:01+03:00</lastBuildDate>
 
         <item>
+	<title>Eston Travel Guide (West Central Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/west-central-saskatchewan/eston/</link>
+	<description>Discover the best places to visit, activities to do, where to stay, and what to eat in Eston, a charming town in Saskatchewan, Canada. Plan your perfect trip with our complete travel guide.</description>
+	<pubDate>2024-06-15T17:42:01+03:00</pubDate>
+</item><item>
 	<title>Maysville Travel Guide (Northern Ohio River Region/Kentucky/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/northern-ohio-river-region/maysville/</link>
 	<description>Explore the beauty of Maysville with our comprehensive travel guide. Find information on places to visit, best things to do, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/greater-phoenix/sun-city/</link>
 	<description>Discover the best attractions, hiking routes, activities, food, accommodation, and local customs in Sun City, Arizona with our week-long itinerary, tips, and travel information.</description>
 	<pubDate>2024-06-15T13:11:53+03:00</pubDate>
-</item><item>
-	<title>Vaihingen an der Enz Travel Guide (Stuttgart Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/stuttgart-region/vaihingen-an-der-enz/</link>
-	<description>Discover the best places to visit, activities to do, where to stay, and what to eat in Vaihingen an der Enz, Germany with our comprehensive travel guide.</description>
-	<pubDate>2024-06-15T12:54:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
