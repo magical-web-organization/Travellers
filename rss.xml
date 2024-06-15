@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T10:37:10+03:00</pubDate>
-        <lastBuildDate>2024-06-15T10:37:10+03:00</lastBuildDate>
+        <pubDate>2024-06-15T11:33:28+03:00</pubDate>
+        <lastBuildDate>2024-06-15T11:33:28+03:00</lastBuildDate>
 
         <item>
+	<title>Kota Kinabalu Travel Guide (Sabah/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sabah/kota-kinabalu/</link>
+	<description>Plan your trip to Kota Kinabalu with the help of this comprehensive travel guide that covers everything from food and accommodations to places to visit and natural attractions to explore.</description>
+	<pubDate>2024-06-15T11:33:28+03:00</pubDate>
+</item><item>
 	<title>Wilmington Travel Guide (North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/wilmington/</link>
 	<description>Explore Wilmington, North Carolina with this comprehensive travel guide that includes a list of top attractions, hiking/biking routes, food and drink scene, places to stay, and everything else you need to know for the perfect trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/north-bohemia/rip/</link>
 	<description>Plan your trip to Říp with our comprehensive travel guide. Discover top attractions, hiking routes, food and drink scene, culture, and more.</description>
 	<pubDate>2024-06-15T06:42:50+03:00</pubDate>
-</item><item>
-	<title>Tiznit Travel Guide (Anti Atlas/Morocco/North Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/north-africa/morocco/anti-atlas/tiznit/</link>
-	<description>Discover the best places to stay, eat, and visit in Tiznit, Morocco, while learning about the cultural significance of this beautiful destination.</description>
-	<pubDate>2024-06-15T06:27:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
