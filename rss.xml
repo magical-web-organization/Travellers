@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T09:29:26+03:00</pubDate>
-        <lastBuildDate>2024-06-15T09:29:26+03:00</lastBuildDate>
+        <pubDate>2024-06-15T09:52:03+03:00</pubDate>
+        <lastBuildDate>2024-06-15T09:52:03+03:00</lastBuildDate>
 
         <item>
+	<title>Glendive Travel Guide (Custer Country/Montana/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/montana/custer-country/glendive/</link>
+	<description>Discover the natural beauty and cultural attractions of Glendive, Montana with our comprehensive travel guide. Plan your trip today.</description>
+	<pubDate>2024-06-15T09:52:03+03:00</pubDate>
+</item><item>
 	<title>Longue-Pointe-de-Mingan Travel Guide (North Shore/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/longue-pointe-de-mingan/</link>
 	<description>Plan your trip to Longue-Pointe-de-Mingan, Quebec, Canada with this comprehensive travel guide featuring top attractions, activities, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/gateway-cities-los-angeles-county/norwalk/</link>
 	<description>Discover the best things to do, see, and eat in Norwalk, Los Angeles, with our comprehensive travel guide for this Southern Californian gem.</description>
 	<pubDate>2024-06-15T05:15:37+03:00</pubDate>
-</item><item>
-	<title>Novafeltria Travel Guide (Rimini (province)/Emilia-Romagna/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/rimini-province/novafeltria/</link>
-	<description>Discover the hidden gems of Novafeltria, Italy with our comprehensive travel guide, featuring top attractions, hiking and biking routes, food and drink scene, and more.</description>
-	<pubDate>2024-06-15T04:38:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
