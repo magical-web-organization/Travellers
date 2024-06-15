@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T11:33:28+03:00</pubDate>
-        <lastBuildDate>2024-06-15T11:33:28+03:00</lastBuildDate>
+        <pubDate>2024-06-15T12:09:46+03:00</pubDate>
+        <lastBuildDate>2024-06-15T12:09:46+03:00</lastBuildDate>
 
         <item>
+	<title>San Francisco Travel Guide (Pacific West/Panama/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/san-francisco/</link>
+	<description>Explore San Francisco with our comprehensive travel guide, featuring things to do, where to stay, and more.</description>
+	<pubDate>2024-06-15T12:09:46+03:00</pubDate>
+</item><item>
 	<title>Kota Kinabalu Travel Guide (Sabah/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sabah/kota-kinabalu/</link>
 	<description>Plan your trip to Kota Kinabalu with the help of this comprehensive travel guide that covers everything from food and accommodations to places to visit and natural attractions to explore.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/rhine-neckar/schwabisch-hall/</link>
 	<description>Plan your trip to Schwäbisch Hall with our comprehensive travel guide. Discover things to do, places to visit, where to stay, and more.</description>
 	<pubDate>2024-06-15T07:24:20+03:00</pubDate>
-</item><item>
-	<title>Říp Travel Guide (North Bohemia/Czech Republic/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/north-bohemia/rip/</link>
-	<description>Plan your trip to Říp with our comprehensive travel guide. Discover top attractions, hiking routes, food and drink scene, culture, and more.</description>
-	<pubDate>2024-06-15T06:42:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
