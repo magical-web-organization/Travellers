@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-15T12:09:46+03:00</pubDate>
-        <lastBuildDate>2024-06-15T12:09:46+03:00</lastBuildDate>
+        <pubDate>2024-06-15T12:54:58+03:00</pubDate>
+        <lastBuildDate>2024-06-15T12:54:58+03:00</lastBuildDate>
 
         <item>
+	<title>Vaihingen an der Enz Travel Guide (Stuttgart Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/stuttgart-region/vaihingen-an-der-enz/</link>
+	<description>Discover the best places to visit, activities to do, where to stay, and what to eat in Vaihingen an der Enz, Germany with our comprehensive travel guide.</description>
+	<pubDate>2024-06-15T12:54:58+03:00</pubDate>
+</item><item>
 	<title>San Francisco Travel Guide (Pacific West/Panama/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/san-francisco/</link>
 	<description>Explore San Francisco with our comprehensive travel guide, featuring things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/central-bohemia/kralupy-nad-vltavou/</link>
 	<description>Plan your next trip to Kralupy nad Vltavou with our comprehensive travel guide. From attractions to transportation, we've got you covered.</description>
 	<pubDate>2024-06-15T07:38:27+03:00</pubDate>
-</item><item>
-	<title>Schwäbisch Hall Travel Guide (Rhine-Neckar/Baden-Württemberg/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/rhine-neckar/schwabisch-hall/</link>
-	<description>Plan your trip to Schwäbisch Hall with our comprehensive travel guide. Discover things to do, places to visit, where to stay, and more.</description>
-	<pubDate>2024-06-15T07:24:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
