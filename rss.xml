@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T19:36:23+03:00</pubDate>
-        <lastBuildDate>2024-06-16T19:36:23+03:00</lastBuildDate>
+        <pubDate>2024-06-16T20:18:37+03:00</pubDate>
+        <lastBuildDate>2024-06-16T20:18:37+03:00</lastBuildDate>
 
         <item>
+	<title>Norwich (New York) Travel Guide (Central New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/central-new-york/norwich-new-york/</link>
+	<description>A comprehensive travel guide to Norwich (New York) featuring the best places to visit, things to do, food, and more.</description>
+	<pubDate>2024-06-16T20:18:37+03:00</pubDate>
+</item><item>
 	<title>Palmarin Travel Guide (Central Senegal/Senegal/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/senegal/central-senegal/palmarin/</link>
 	<description>Plan your trip to Palmarin, Senegal with our comprehensive travel guide featuring the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/la-montana/maricao/</link>
 	<description>Discover the best things to do, places to visit, where to stay, what to eat, and much more in Maricao, one of Puerto Rico's hidden gems located in the stunning La Montaña region.</description>
 	<pubDate>2024-06-16T15:51:48+03:00</pubDate>
-</item><item>
-	<title>Shlisselburg Travel Guide (Central Leningrad Oblast/Leningrad Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/leningrad-oblast/central-leningrad-oblast/shlisselburg/</link>
-	<description>Discover the best things to do, places to visit, and local culture of Shlisselburg. Read our comprehensive travel guide to plan your trip to Leningrad Oblast.</description>
-	<pubDate>2024-06-16T15:05:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
