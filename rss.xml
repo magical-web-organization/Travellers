@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T18:23:31+03:00</pubDate>
-        <lastBuildDate>2024-06-16T18:23:31+03:00</lastBuildDate>
+        <pubDate>2024-06-16T18:42:00+03:00</pubDate>
+        <lastBuildDate>2024-06-16T18:42:00+03:00</lastBuildDate>
 
         <item>
+	<title>Lakeview Travel Guide (Eastern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/eastern-oregon/lakeview/</link>
+	<description>Discover the cultural and natural attractions of Lakeview. Enjoy outdoor adventures, try local dishes and stay in top hotels. Plan your trip with our complete travel guide.</description>
+	<pubDate>2024-06-16T18:42:00+03:00</pubDate>
+</item><item>
 	<title>Mallow Travel Guide (County Cork/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/mallow/</link>
 	<description>Plan your trip to Mallow in County Cork, Ireland with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/central-africa/cameroon/northwest-highlands/foumban/</link>
 	<description>Plan your perfect trip with our comprehensive guide to Foumban in Cameroon, covering everything from where to stay and what to eat, to cultural attractions, natural wonders, and tourist itinerary ideas.</description>
 	<pubDate>2024-06-16T14:25:18+03:00</pubDate>
-</item><item>
-	<title>Komsomolsk-on-Amur Travel Guide (Khabarovsk Krai/Russian Far East/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/khabarovsk-krai/komsomolsk-on-amur/</link>
-	<description>Discover the cultural attractions, natural wonders, adventure activities, accommodation options, and more, in Komsomolsk-on-Amur with our comprehensive travel guide.</description>
-	<pubDate>2024-06-16T14:03:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
