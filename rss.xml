@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T22:16:16+03:00</pubDate>
-        <lastBuildDate>2024-06-16T22:16:16+03:00</lastBuildDate>
+        <pubDate>2024-06-16T22:41:39+03:00</pubDate>
+        <lastBuildDate>2024-06-16T22:41:39+03:00</lastBuildDate>
 
         <item>
+	<title>Jordaan Travel Guide (Amsterdam/Amstelland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/amstelland/amsterdam/jordaan/</link>
+	<description>Plan your trip to Amsterdam's Jordaan district with this comprehensive travel guide. Discover the best places to visit, hiking and biking routes, food, and more.</description>
+	<pubDate>2024-06-16T22:41:39+03:00</pubDate>
+</item><item>
 	<title>Katsina-ala Travel Guide (Benue State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/benue-state/katsina-ala/</link>
 	<description>Discover the best things to do, places to visit, hikes to take, where to stay and how to get there in Katsina-ala. Our comprehensive travel guide will show you the culturally important attractions, natural wonders, local cuisine and customs, safety tips and nearby destinations to visit in the region.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/mallow/</link>
 	<description>Plan your trip to Mallow in County Cork, Ireland with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-16T18:23:31+03:00</pubDate>
-</item><item>
-	<title>Gagauzia Travel Guide (Moldova/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/moldova/gagauzia/</link>
-	<description>Plan your trip to Gagauzia with this informative travel guide. Explore culturally significant museums, natural attractions, try local food and drink, and more. Find out the best time to visit, how to get there, and where to stay.</description>
-	<pubDate>2024-06-16T17:57:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
