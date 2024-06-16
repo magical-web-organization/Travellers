@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T06:38:22+03:00</pubDate>
-        <lastBuildDate>2024-06-16T06:38:22+03:00</lastBuildDate>
+        <pubDate>2024-06-16T07:06:12+03:00</pubDate>
+        <lastBuildDate>2024-06-16T07:06:12+03:00</lastBuildDate>
 
         <item>
+	<title>Shibayama Travel Guide (Chiba (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/chiba-prefecture/shibayama/</link>
+	<description>Discover the culturally important attractions, natural wonders, food, and drink scene, where to stay, and transportation options for Shibayama, Japan. Explore Shibayama's rich cultural heritage through its museums, historical places, outdoor adventures, scenic views, hiking or biking routes, and local cuisine.</description>
+	<pubDate>2024-06-16T07:06:12+03:00</pubDate>
+</item><item>
 	<title>Kurunegala Travel Guide (North Western Province/Sri Lanka/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/north-western-province/kurunegala/</link>
 	<description>Explore the top sights, food and drink scene, and cultural customs of Kurunegala with this comprehensive travel guide. Learn where to stay, how to get around, and how to stay safe while exploring this stunning Sri Lankan city.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/moselle-valley/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Moselle Valley. Learn about its local culture, customs, and food scene.</description>
 	<pubDate>2024-06-16T02:39:16+03:00</pubDate>
-</item><item>
-	<title>Østerbro Travel Guide (Copenhagen/Zealand/Denmark/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/copenhagen/osterbro/</link>
-	<description>Discover the best things to do, places to stay, foods to try, and much more in the beautiful neighborhood of Østerbro.</description>
-	<pubDate>2024-06-16T02:25:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
