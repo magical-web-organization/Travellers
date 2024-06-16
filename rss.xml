@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T08:00:34+03:00</pubDate>
-        <lastBuildDate>2024-06-16T08:00:34+03:00</lastBuildDate>
+        <pubDate>2024-06-16T08:18:33+03:00</pubDate>
+        <lastBuildDate>2024-06-16T08:18:33+03:00</lastBuildDate>
 
         <item>
+	<title>Whitewood Travel Guide (Southeastern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/southeastern-saskatchewan/whitewood/</link>
+	<description>Plan your trip to Whitewood in Saskatchewan, Canada with this complete travel guide that covers places to visit, things to do, where to eat and stay, local culture, and more.</description>
+	<pubDate>2024-06-16T08:18:33+03:00</pubDate>
+</item><item>
 	<title>Coalville Travel Guide (Leicestershire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/leicestershire/coalville/</link>
 	<description>Plan your next trip to Coalville, UK with our comprehensive travel guide featuring must-visit places, hiking trails, local culture, food, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/lower-northern-thailand/kamphaeng-phet/</link>
 	<description>Plan your trip to Kamphaeng Phet with our comprehensive travel guide, featuring information on places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-16T04:01:23+03:00</pubDate>
-</item><item>
-	<title>Phonsavan Travel Guide (Central Laos/Laos/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/laos/central-laos/phonsavan/</link>
-	<description>Discover Phonsavan, Laos with our comprehensive travel guide that includes things to do, places to visit, food to eat, where to stay, and more!</description>
-	<pubDate>2024-06-16T03:33:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
