@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T23:41:02+03:00</pubDate>
-        <lastBuildDate>2024-06-16T23:41:02+03:00</lastBuildDate>
+        <pubDate>2024-06-17T00:08:59+03:00</pubDate>
+        <lastBuildDate>2024-06-17T00:08:59+03:00</lastBuildDate>
 
         <item>
+	<title>San José Travel Guide (Northern Lowlands/Guatemala/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/guatemala/northern-lowlands/san-jose/</link>
+	<description>Plan your trip to San José, Guatemala with our comprehensive tour guide featuring must-see attractions, local culture, food and drink scenes, transportation options and more.</description>
+	<pubDate>2024-06-17T00:08:59+03:00</pubDate>
+</item><item>
 	<title>Ogrodzieniec Travel Guide (Silesian Voivodeship/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/ogrodzieniec/</link>
 	<description>Plan your trip to Ogrodzieniec with this comprehensive travel guide. Discover the best things to do, places to stay, and food to try in this charming Polish town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/senegal/central-senegal/palmarin/</link>
 	<description>Plan your trip to Palmarin, Senegal with our comprehensive travel guide featuring the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-16T19:36:23+03:00</pubDate>
-</item><item>
-	<title>Hvaler Travel Guide (Østfold/East Norway/Norway/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/ostfold/hvaler/</link>
-	<description>Discover the natural and cultural attractions of Hvaler, Norway, and get tips on what to see and do, where to stay, and how to get there.</description>
-	<pubDate>2024-06-16T19:04:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
