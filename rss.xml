@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T14:25:18+03:00</pubDate>
-        <lastBuildDate>2024-06-16T14:25:18+03:00</lastBuildDate>
+        <pubDate>2024-06-16T14:50:07+03:00</pubDate>
+        <lastBuildDate>2024-06-16T14:50:07+03:00</lastBuildDate>
 
         <item>
+	<title>King of Prussia Travel Guide (Montgomery County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/montgomery-county/king-of-prussia/</link>
+	<description>Discover the best things to see, do, and eat in King of Prussia, Montgomery County, Pennsylvania, with our helpful and informative travel guide. From historical sites to outdoor adventures, we've got you covered.</description>
+	<pubDate>2024-06-16T14:50:07+03:00</pubDate>
+</item><item>
 	<title>Foumban Travel Guide (Northwest Highlands/Cameroon/Central Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/central-africa/cameroon/northwest-highlands/foumban/</link>
 	<description>Plan your perfect trip with our comprehensive guide to Foumban in Cameroon, covering everything from where to stay and what to eat, to cultural attractions, natural wonders, and tourist itinerary ideas.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/boston/outer-neighborhoods/</link>
 	<description>Explore the culturally rich and scenically beautiful Outer Neighborhoods of Boston with our comprehensive travel guide. Discover top attractions, food and drink scene, where to stay, local customs, and more!</description>
 	<pubDate>2024-06-16T10:31:07+03:00</pubDate>
-</item><item>
-	<title>Pyrénées National Park Travel Guide (Hautes-Pyrénées/Occitanie/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/occitanie/hautes-pyrenees/pyrenees-national-park/</link>
-	<description>Find everything you need to know about Pyrénées National Park, from top attractions to hiking trails and local culture.</description>
-	<pubDate>2024-06-16T09:48:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
