@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T17:03:57+03:00</pubDate>
-        <lastBuildDate>2024-06-16T17:03:57+03:00</lastBuildDate>
+        <pubDate>2024-06-16T17:57:39+03:00</pubDate>
+        <lastBuildDate>2024-06-16T17:57:39+03:00</lastBuildDate>
 
         <item>
+	<title>Gagauzia Travel Guide (Moldova/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/moldova/gagauzia/</link>
+	<description>Plan your trip to Gagauzia with this informative travel guide. Explore culturally significant museums, natural attractions, try local food and drink, and more. Find out the best time to visit, how to get there, and where to stay.</description>
+	<pubDate>2024-06-16T17:57:39+03:00</pubDate>
+</item><item>
 	<title>Alicante Travel Guide (Costa Blanca/Alicante (province)/Valencian Community/Eastern Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/alicante-province/costa-blanca/alicante/</link>
 	<description>Plan your trip to Alicante with our comprehensive travel guide. Discover the best places to visit, food to eat, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/jepara-rembang/kudus/</link>
 	<description>Discover the natural and cultural wonders of Kudus, Central Java, Indonesia with our comprehensive travel guide. Find the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-16T13:22:29+03:00</pubDate>
-</item><item>
-	<title>Chuuk Travel Guide (Federated States of Micronesia/Micronesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/micronesia/federated-states-of-micronesia/chuuk/</link>
-	<description>Read this comprehensive travel guide to Chuuk to plan your adventure and explore the culturally important attractions, outdoor adventures, and scenic views.</description>
-	<pubDate>2024-06-16T12:45:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
