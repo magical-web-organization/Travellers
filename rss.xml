@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-16T08:48:07+03:00</pubDate>
-        <lastBuildDate>2024-06-16T08:48:07+03:00</lastBuildDate>
+        <pubDate>2024-06-16T09:08:39+03:00</pubDate>
+        <lastBuildDate>2024-06-16T09:08:39+03:00</lastBuildDate>
 
         <item>
+	<title>Bishnupur Travel Guide (Manipur/North-Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/north-eastern-india/manipur/bishnupur/</link>
+	<description>Plan your trip to Bishnupur with our comprehensive guide featuring must-visit attractions, hiking routes, best things to do, local culture and customs, safety tips, transportation options, and more.</description>
+	<pubDate>2024-06-16T09:08:39+03:00</pubDate>
+</item><item>
 	<title>Qawra Travel Guide (Malta Island/Malta/Europe)</title>
 	<link>https://travellers.wiki/en/europe/malta/malta-island/qawra/</link>
 	<description>Discover the best things to do in Qawra, Malta. This comprehensive travel guide covers top attractions, hiking and biking routes, where to stay, local food and drinks, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/uusikaupunki/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture in Uusikaupunki, Finland. Plan your next trip to this beautiful destination in Europe.</description>
 	<pubDate>2024-06-16T05:03:16+03:00</pubDate>
-</item><item>
-	<title>Barra de Santo Antônio Travel Guide (Alagoas/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/alagoas/barra-de-santo-antonio/</link>
-	<description>Discover the best things to see, do, eat, and experience in Barra de Santo Antônio, Brazil with this comprehensive travel guide. From cultural sites to outdoor adventures, this guide has it all.</description>
-	<pubDate>2024-06-16T04:13:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
