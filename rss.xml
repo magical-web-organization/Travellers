@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T01:23:07+03:00</pubDate>
-        <lastBuildDate>2024-06-17T01:23:07+03:00</lastBuildDate>
+        <pubDate>2024-06-17T01:34:44+03:00</pubDate>
+        <lastBuildDate>2024-06-17T01:34:44+03:00</lastBuildDate>
 
         <item>
+	<title>Kalocsa Travel Guide (Bács-Kiskun County/Southern Great Plain/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/southern-great-plain/bacs-kiskun-county/kalocsa/</link>
+	<description>Explore the hidden gems of Kalocsa through this comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and more.</description>
+	<pubDate>2024-06-17T01:34:44+03:00</pubDate>
+</item><item>
 	<title>Mittenwald Travel Guide (Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/mittenwald/</link>
 	<description>Plan your trip to Mittenwald, Germany with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, what to eat, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andaman-and-nicobar-islands/north-and-middle-andaman/diglipur/</link>
 	<description>Plan your visit to Diglipur, Andaman and Nicobar Islands with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking routes to local cuisine, learn everything you need to know about Diglipur.</description>
 	<pubDate>2024-06-16T21:19:02+03:00</pubDate>
-</item><item>
-	<title>Huntersville Travel Guide (Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/huntersville/</link>
-	<description>Read our travel guide before you explore Huntersville in Charlotte Metro, North Carolina, USA. Our guide includes the best things to do, places to stay, local culture, safety tips, and more.</description>
-	<pubDate>2024-06-16T20:43:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
