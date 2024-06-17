@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T19:09:18+03:00</pubDate>
-        <lastBuildDate>2024-06-17T19:09:18+03:00</lastBuildDate>
+        <pubDate>2024-06-17T19:34:41+03:00</pubDate>
+        <lastBuildDate>2024-06-17T19:34:41+03:00</lastBuildDate>
 
         <item>
+	<title>Thanbyuzayat Travel Guide (Southeastern Myanmar/Myanmar/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/southeastern-myanmar/thanbyuzayat/</link>
+	<description>Plan your trip to Thanbyuzayat with our comprehensive travel guide. Discover local culture, natural attractions, activities, food scene, and more!</description>
+	<pubDate>2024-06-17T19:34:41+03:00</pubDate>
+</item><item>
 	<title>Conway Travel Guide (High Plains/Texas Panhandle/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/high-plains/conway/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Conway, Texas, with our comprehensive travel guide. Plan your trip now and explore the top attractions this fascinating city has to offer.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/montenegro/montenegrin-south-coast/bar/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, and local culture and customs in Bar, Montenegro. Plus, transportation options, nearby destinations, and more.</description>
 	<pubDate>2024-06-17T15:19:40+03:00</pubDate>
-</item><item>
-	<title>Campo Grande Travel Guide (Mato Grosso do Sul/Central West/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/central-west/mato-grosso-do-sul/campo-grande/</link>
-	<description>Discover the best places to visit, eat, stay, and experience in Campo Grande, Brazil. This comprehensive travel guide covers everything you need to know before visiting this Central West city.</description>
-	<pubDate>2024-06-17T14:38:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
