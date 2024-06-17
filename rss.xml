@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T06:58:52+03:00</pubDate>
-        <lastBuildDate>2024-06-17T06:58:52+03:00</lastBuildDate>
+        <pubDate>2024-06-17T07:10:25+03:00</pubDate>
+        <lastBuildDate>2024-06-17T07:10:25+03:00</lastBuildDate>
 
         <item>
+	<title>Montville Travel Guide (Morris County/Skylands/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/morris-county/montville/</link>
+	<description>Explore the culturally rich and naturally beautiful Montville in New Jersey. Discover the must-visit places, explore outdoor activities, and savor the local food and beverages in this ultimate travel guide.</description>
+	<pubDate>2024-06-17T07:10:25+03:00</pubDate>
+</item><item>
 	<title>Pannonhalma Travel Guide (Győr-Moson-Sopron County/Western Transdanubia/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/western-transdanubia/gyor-moson-sopron-county/pannonhalma/</link>
 	<description>Discover the charming town of Pannonhalma in Western Transdanubia, Hungary. Learn about its cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, what to buy, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/northwest-odisha/barpali/</link>
 	<description>Plan your trip to Barpali, a charming town in Northwest Odisha, with our comprehensive travel guide featuring must-see attractions, best food and drink spots, local customs, and travel logistics.</description>
 	<pubDate>2024-06-17T02:54:43+03:00</pubDate>
-</item><item>
-	<title>Land's End Travel Guide (Gaspé Peninsula/Southeastern Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/southeastern-quebec/gaspe-peninsula/land-s-end/</link>
-	<description>Discover the best attractions, activities, and local tips to plan your trip to Land's End, Quebec, in Canada. Enjoy the breathtaking natural beauty, cultural landmarks, and outdoor adventures of this stunning destination.</description>
-	<pubDate>2024-06-17T02:23:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
