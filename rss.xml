@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T15:39:16+03:00</pubDate>
-        <lastBuildDate>2024-06-17T15:39:16+03:00</lastBuildDate>
+        <pubDate>2024-06-17T16:21:12+03:00</pubDate>
+        <lastBuildDate>2024-06-17T16:21:12+03:00</lastBuildDate>
 
         <item>
+	<title>Tenterden Travel Guide (Kent/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/kent/tenterden/</link>
+	<description>Plan your next trip to Tenterden with our comprehensive travel guide that includes where to stay, places to visit, and things to do in Tenterden.</description>
+	<pubDate>2024-06-17T16:21:12+03:00</pubDate>
+</item><item>
 	<title>Pechora Travel Guide (Komi Republic/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/komi-republic/pechora/</link>
 	<description>Plan your trip to Pechora, Russia with this comprehensive travel guide filled with information on attractions, food, lodging, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/beijing/yanqing/</link>
 	<description>Discover Yanqing in Beijing, China - from cultural attractions, outdoor adventures, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, getting there, and nearby destinations.</description>
 	<pubDate>2024-06-17T11:51:23+03:00</pubDate>
-</item><item>
-	<title>Torquay (Victoria) Travel Guide (South West Coast (Victoria)/Victoria (state)/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/victoria-state/south-west-coast-victoria/torquay-victoria/</link>
-	<description>Explore Torquay, Victoria - A comprehensive travel guide that covers everything from local culture and customs, best things to do, food and drink scene, where to stay and much more. Read on for more details.</description>
-	<pubDate>2024-06-17T11:29:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
