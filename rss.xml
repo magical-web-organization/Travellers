@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T22:19:08+03:00</pubDate>
-        <lastBuildDate>2024-06-17T22:19:08+03:00</lastBuildDate>
+        <pubDate>2024-06-17T22:59:45+03:00</pubDate>
+        <lastBuildDate>2024-06-17T22:59:45+03:00</lastBuildDate>
 
         <item>
+	<title>Sant'Omero Travel Guide (Teramo (province)/Abruzzo/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/teramo-province/sant-omero/</link>
+	<description>Plan your trip to Sant'Omero with this comprehensive travel guide that includes top attractions, outdoor adventures, food and drink scene, safety tips, and more.</description>
+	<pubDate>2024-06-17T22:59:45+03:00</pubDate>
+</item><item>
 	<title>Changchun Travel Guide (Jilin/Northeast China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/jilin/changchun/</link>
 	<description>Plan your trip to Changchun with this comprehensive travel guide featuring top attractions, food and drink scene, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/south-central-idaho/burley/</link>
 	<description>Plan a perfect trip with this comprehensive travel guide to Burley, Idaho. Discover top attractions, best things to do, hiking and biking routes, food and drink scene, where to stay and more.</description>
 	<pubDate>2024-06-17T18:07:42+03:00</pubDate>
-</item><item>
-	<title>Pingxiang Travel Guide (Central Guangxi/Guangxi/South China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangxi/central-guangxi/pingxiang/</link>
-	<description>Plan a memorable trip to Pingxiang with this comprehensive travel guide that covers must-visit attractions, activities, local culture, travel logistics, and more.</description>
-	<pubDate>2024-06-17T18:02:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
