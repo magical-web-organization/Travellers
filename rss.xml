@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T20:29:52+03:00</pubDate>
-        <lastBuildDate>2024-06-17T20:29:52+03:00</lastBuildDate>
+        <pubDate>2024-06-17T20:54:45+03:00</pubDate>
+        <lastBuildDate>2024-06-17T20:54:45+03:00</lastBuildDate>
 
         <item>
+	<title>Pello Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/pello/</link>
+	<description>Plan your next adventure in Pello, Northern Finland with our comprehensive travel guide. Discover things to see and do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-06-17T20:54:45+03:00</pubDate>
+</item><item>
 	<title>Xpujil Travel Guide (Campeche (state)/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/campeche-state/xpujil/</link>
 	<description>Discover all the amazing attractions, activities, accommodations, and travel tips for Xpujil, Mexico in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/kent/tenterden/</link>
 	<description>Plan your next trip to Tenterden with our comprehensive travel guide that includes where to stay, places to visit, and things to do in Tenterden.</description>
 	<pubDate>2024-06-17T16:21:12+03:00</pubDate>
-</item><item>
-	<title>Pechora Travel Guide (Komi Republic/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/komi-republic/pechora/</link>
-	<description>Plan your trip to Pechora, Russia with this comprehensive travel guide filled with information on attractions, food, lodging, transportation, and more.</description>
-	<pubDate>2024-06-17T15:39:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
