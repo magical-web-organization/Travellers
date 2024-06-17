@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T15:19:40+03:00</pubDate>
-        <lastBuildDate>2024-06-17T15:19:40+03:00</lastBuildDate>
+        <pubDate>2024-06-17T15:39:16+03:00</pubDate>
+        <lastBuildDate>2024-06-17T15:39:16+03:00</lastBuildDate>
 
         <item>
+	<title>Pechora Travel Guide (Komi Republic/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/komi-republic/pechora/</link>
+	<description>Plan your trip to Pechora, Russia with this comprehensive travel guide filled with information on attractions, food, lodging, transportation, and more.</description>
+	<pubDate>2024-06-17T15:39:16+03:00</pubDate>
+</item><item>
 	<title>Bar Travel Guide (Montenegrin South Coast/Montenegro/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/montenegro/montenegrin-south-coast/bar/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, and local culture and customs in Bar, Montenegro. Plus, transportation options, nearby destinations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/victoria-state/south-west-coast-victoria/torquay-victoria/</link>
 	<description>Explore Torquay, Victoria - A comprehensive travel guide that covers everything from local culture and customs, best things to do, food and drink scene, where to stay and much more. Read on for more details.</description>
 	<pubDate>2024-06-17T11:29:35+03:00</pubDate>
-</item><item>
-	<title>Dolores Travel Guide (Northern Lowlands/Guatemala/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/guatemala/northern-lowlands/dolores/</link>
-	<description>Discover the best cultural and natural attractions, hiking and biking routes, activities and tours, food and drink scenes, accommodation options, and travel tips in Dolores, Northern Lowlands, Guatemala.</description>
-	<pubDate>2024-06-17T10:54:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
