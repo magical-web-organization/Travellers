@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T09:31:40+03:00</pubDate>
-        <lastBuildDate>2024-06-17T09:31:40+03:00</lastBuildDate>
+        <pubDate>2024-06-17T09:48:10+03:00</pubDate>
+        <lastBuildDate>2024-06-17T09:48:10+03:00</lastBuildDate>
 
         <item>
+	<title>Mandi Travel Guide (Central Himachal Pradesh/Himachal Pradesh/Himalayan North/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/central-himachal-pradesh/mandi/</link>
+	<description>Plan your trip to Mandi, Himachal Pradesh with this comprehensive travel guide, including top things to do, where to stay, and how to get around.</description>
+	<pubDate>2024-06-17T09:48:10+03:00</pubDate>
+</item><item>
 	<title>Congleton Travel Guide (Cheshire/North West England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/cheshire/congleton/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and helpful travel tips in Congleton, Cheshire, UK.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/interior-alaska/fairbanks-north-star-borough/fairbanks/</link>
 	<description>Fairbanks is one of the most thrilling cities to explore in Alaska, known for its Northern Lights, vast wilderness, snow-capped mountains and diverse wildlife. Read on to discover a comprehensive travel guide for Fairbanks.</description>
 	<pubDate>2024-06-17T05:30:48+03:00</pubDate>
-</item><item>
-	<title>Islamorada Travel Guide (Florida Keys/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-keys/islamorada/</link>
-	<description>Plan your perfect trip to Islamorada, Florida Keys with this comprehensive travel guide. Discover the best attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-06-17T04:56:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
