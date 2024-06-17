@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T00:53:27+03:00</pubDate>
-        <lastBuildDate>2024-06-18T00:53:27+03:00</lastBuildDate>
+        <pubDate>2024-06-18T01:14:10+03:00</pubDate>
+        <lastBuildDate>2024-06-18T01:14:10+03:00</lastBuildDate>
 
         <item>
+	<title>Paanajärvi National Park Travel Guide (Karelia/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/karelia/paanajarvi-national-park/</link>
+	<description>A comprehensive travel guide to Paanajärvi National Park in Karelia, northwestern Russia. Learn about the park's attractions, activities, accommodations, local culture, and travel logistics.</description>
+	<pubDate>2024-06-18T01:14:10+03:00</pubDate>
+</item><item>
 	<title>Skopelos (town) Travel Guide (Skopelos/Sporades Islands/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/sporades-islands/skopelos/skopelos-town/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Skopelos town. Read on for a week-long itinerary, hiking/biking routes, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/pello/</link>
 	<description>Plan your next adventure in Pello, Northern Finland with our comprehensive travel guide. Discover things to see and do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-06-17T20:54:45+03:00</pubDate>
-</item><item>
-	<title>Xpujil Travel Guide (Campeche (state)/Yucatán and the South/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/campeche-state/xpujil/</link>
-	<description>Discover all the amazing attractions, activities, accommodations, and travel tips for Xpujil, Mexico in this comprehensive travel guide.</description>
-	<pubDate>2024-06-17T20:29:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
