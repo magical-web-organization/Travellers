@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T07:10:25+03:00</pubDate>
-        <lastBuildDate>2024-06-17T07:10:25+03:00</lastBuildDate>
+        <pubDate>2024-06-17T08:02:45+03:00</pubDate>
+        <lastBuildDate>2024-06-17T08:02:45+03:00</lastBuildDate>
 
         <item>
+	<title>St Kilda Travel Guide (Melbourne/Victoria (state)/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/victoria-state/melbourne/st-kilda/</link>
+	<description>Explore the best of St Kilda, Melbourne with our comprehensive tour guide. Discover top attractions, hiking routes, food scene, and travel tips for St Kilda today.</description>
+	<pubDate>2024-06-17T08:02:45+03:00</pubDate>
+</item><item>
 	<title>Montville Travel Guide (Morris County/Skylands/New Jersey/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/morris-county/montville/</link>
 	<description>Explore the culturally rich and naturally beautiful Montville in New Jersey. Discover the must-visit places, explore outdoor activities, and savor the local food and beverages in this ultimate travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/lower-cape/</link>
 	<description>Discover the best things to do, see, and eat in Lower Cape, Massachusetts. Learn about the cultural and natural attractions, food and drink scene, accommodations, local culture, safety tips, and transportation options in this comprehensive travel guide.</description>
 	<pubDate>2024-06-17T03:23:03+03:00</pubDate>
-</item><item>
-	<title>Barpali Travel Guide (Northwest Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/northwest-odisha/barpali/</link>
-	<description>Plan your trip to Barpali, a charming town in Northwest Odisha, with our comprehensive travel guide featuring must-see attractions, best food and drink spots, local customs, and travel logistics.</description>
-	<pubDate>2024-06-17T02:54:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
