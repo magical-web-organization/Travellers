@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-17T03:50:16+03:00</pubDate>
-        <lastBuildDate>2024-06-17T03:50:16+03:00</lastBuildDate>
+        <pubDate>2024-06-17T04:27:02+03:00</pubDate>
+        <lastBuildDate>2024-06-17T04:27:02+03:00</lastBuildDate>
 
         <item>
+	<title>Ingå Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/inga/</link>
+	<description>Discover what Ingå has to offer with this comprehensive travel guide. From cultural attractions to outdoor adventures, food and drink, and transportation options, plan your perfect trip to this hidden gem in Southern Finland.</description>
+	<pubDate>2024-06-17T04:27:02+03:00</pubDate>
+</item><item>
 	<title>Bengtskär Travel Guide (Archipelago Sea/Finland Proper/West Coast/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/archipelago-sea/bengtskar/</link>
 	<description>Discover everything you need to know about Bengtskär, including the best places to visit, food and drink scene, where to stay, and more with our travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/ogrodzieniec/</link>
 	<description>Plan your trip to Ogrodzieniec with this comprehensive travel guide. Discover the best things to do, places to stay, and food to try in this charming Polish town.</description>
 	<pubDate>2024-06-16T23:41:02+03:00</pubDate>
-</item><item>
-	<title>Portree Travel Guide (Skye/Inner Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/inner-hebrides/skye/portree/</link>
-	<description>Discover the natural and cultural attractions of Portree, Scotland with this comprehensive travel guide, including must-try dishes, where to stay, and logistical tips for your visit.</description>
-	<pubDate>2024-06-16T23:04:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
