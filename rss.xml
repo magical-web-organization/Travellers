@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T03:53:45+03:00</pubDate>
-        <lastBuildDate>2024-06-18T03:53:45+03:00</lastBuildDate>
+        <pubDate>2024-06-18T04:20:11+03:00</pubDate>
+        <lastBuildDate>2024-06-18T04:20:11+03:00</lastBuildDate>
 
         <item>
+	<title>Elafonisos Travel Guide (Laconia/Peloponnese/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/peloponnese/laconia/elafonisos/</link>
+	<description>Discover the stunning island of Elafonisos in Greece with our comprehensive travel guide, featuring attractions, activities, accommodations, local culture, safety tips, and transportation guide.</description>
+	<pubDate>2024-06-18T04:20:11+03:00</pubDate>
+</item><item>
 	<title>Moretonhampstead Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/moretonhampstead/</link>
 	<description>Discover Moretonhampstead, a charming town in Devon, England. Read our comprehensive travel guide for the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/western-norway/hordaland/voss/</link>
 	<description>Discover the best things to do, see, eat, and stay in Voss, Norway with our comprehensive travel guide. From natural attractions to culturally important museums, explore the beauty of Voss.</description>
 	<pubDate>2024-06-17T23:41:57+03:00</pubDate>
-</item><item>
-	<title>Mestre Travel Guide (Metropolitan Venice/Veneto/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/metropolitan-venice/mestre/</link>
-	<description>Discover the best things to do and see in Mestre, Italy with this comprehensive travel guide. From culturally significant attractions to scenic hikes, and local food to transportation options, everything you need to plan your trip to Mestre is included.</description>
-	<pubDate>2024-06-17T23:24:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
