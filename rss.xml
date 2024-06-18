@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T17:03:43+03:00</pubDate>
-        <lastBuildDate>2024-06-18T17:03:43+03:00</lastBuildDate>
+        <pubDate>2024-06-18T17:34:02+03:00</pubDate>
+        <lastBuildDate>2024-06-18T17:34:02+03:00</lastBuildDate>
 
         <item>
+	<title>Torrey Travel Guide (Canyon Country/Utah/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/canyon-country/torrey/</link>
+	<description>Discover the best of Torrey, Utah with this comprehensive travel guide. Find the top attractions, best hiking and biking routes, food and drink scene, where to stay and more.</description>
+	<pubDate>2024-06-18T17:34:02+03:00</pubDate>
+</item><item>
 	<title>Mount Koya Travel Guide (Wakayama (prefecture)/Kansai/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/wakayama-prefecture/mount-koya/</link>
 	<description>Discover the beauty of Mount Koya in Wakayama, Japan. Our travel guide offers details about the best places to see, things to do, food to try, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/marmara-region/eastern-thrace/gokceada/</link>
 	<description>Discover the hidden island gem of Turkey with our Gökçeada travel guide. From breathtaking natural beauty to historic landmarks and local culture, find out everything you need to know before you go.</description>
 	<pubDate>2024-06-18T13:25:34+03:00</pubDate>
-</item><item>
-	<title>Mogi das Cruzes Travel Guide (Grande São Paulo/São Paulo (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/grande-sao-paulo/mogi-das-cruzes/</link>
-	<description>Discover the top attractions, hiking and biking routes, food and drink scene, local culture, and more in Mogi das Cruzes, Brazil. Plan your trip today with our comprehensive travel guide.</description>
-	<pubDate>2024-06-18T12:45:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
