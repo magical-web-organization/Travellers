@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T23:38:38+03:00</pubDate>
-        <lastBuildDate>2024-06-18T23:38:38+03:00</lastBuildDate>
+        <pubDate>2024-06-19T00:16:07+03:00</pubDate>
+        <lastBuildDate>2024-06-19T00:16:07+03:00</lastBuildDate>
 
         <item>
+	<title>Pecos Travel Guide (North Central New Mexico/New Mexico/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/north-central-new-mexico/pecos/</link>
+	<description>Discover the culture, history, outdoor adventures, food, and accommodations of Pecos, North Central New Mexico.</description>
+	<pubDate>2024-06-19T00:16:07+03:00</pubDate>
+</item><item>
 	<title>Chiba Travel Guide (Chiba (prefecture)/Kanto/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/chiba-prefecture/chiba/</link>
 	<description>Discover the best places to visit, eat, and stay in Chiba, Japan. Plus, learn about local customs, transportation options, and nearby excursions in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/lake-mead-national-recreation-area/</link>
 	<description>Discover the culturally and naturally rich Lake Mead National Recreation Area with our comprehensive guide. Explore the must-visit attractions, indulge in local food and drink, and make the most of your journey with our week-long itinerary and do's and don'ts.</description>
 	<pubDate>2024-06-18T19:37:01+03:00</pubDate>
-</item><item>
-	<title>Siikainen Travel Guide (Satakunta/West Coast/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/satakunta/siikainen/</link>
-	<description>Plan your trip to Siikainen with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-06-18T19:30:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
