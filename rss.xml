@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T14:14:38+03:00</pubDate>
-        <lastBuildDate>2024-06-18T14:14:38+03:00</lastBuildDate>
+        <pubDate>2024-06-18T14:50:32+03:00</pubDate>
+        <lastBuildDate>2024-06-18T14:50:32+03:00</lastBuildDate>
 
         <item>
+	<title>Cannaregio Travel Guide (Venice/Metropolitan Venice/Veneto/Northeast Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/metropolitan-venice/venice/cannaregio/</link>
+	<description>Discover the best places to visit, things to do, food to try, and cultural experiences in Cannaregio, Venice. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-06-18T14:50:32+03:00</pubDate>
+</item><item>
 	<title>Burlington Travel Guide (Halton/Greater Toronto Area/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/halton/burlington/</link>
 	<description>Explore the beauty of Burlington, Ontario with this comprehensive guide. Discover the best places to visit, exciting activities to do, what to eat, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-waterlands/aurora/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Aurora, Kentucky. Learn about the local culture, food, and customs. Find out how to get there and get around. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-06-18T10:06:23+03:00</pubDate>
-</item><item>
-	<title>Tettnang Travel Guide (Bodensee Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/bodensee-region/tettnang/</link>
-	<description>Discover the best places to visit, food to try, things to do, and more in Tettnang, Germany with this comprehensive travel guide.</description>
-	<pubDate>2024-06-18T09:47:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
