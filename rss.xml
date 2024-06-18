@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T23:21:59+03:00</pubDate>
-        <lastBuildDate>2024-06-18T23:21:59+03:00</lastBuildDate>
+        <pubDate>2024-06-18T23:38:38+03:00</pubDate>
+        <lastBuildDate>2024-06-18T23:38:38+03:00</lastBuildDate>
 
         <item>
+	<title>Chiba Travel Guide (Chiba (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/chiba-prefecture/chiba/</link>
+	<description>Discover the best places to visit, eat, and stay in Chiba, Japan. Plus, learn about local customs, transportation options, and nearby excursions in this comprehensive travel guide.</description>
+	<pubDate>2024-06-18T23:38:38+03:00</pubDate>
+</item><item>
 	<title>Budakeszi Travel Guide (Pest County/Central Hungary/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/central-hungary/pest-county/budakeszi/</link>
 	<description>Whether it's hiking, biking, sightseeing or experiencing local culture and cuisine, Budakeszi has something to offer everyone. Read this guide to make the most of your visit to this beautiful town in Hungary.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/satakunta/siikainen/</link>
 	<description>Plan your trip to Siikainen with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-18T19:30:04+03:00</pubDate>
-</item><item>
-	<title>Manisa Travel Guide (Central Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/central-aegean/manisa/</link>
-	<description>Discover everything you need to know about Manisa, a hidden gem located in the Central Aegean region of Turkey.</description>
-	<pubDate>2024-06-18T18:54:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
