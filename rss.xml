@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T11:24:31+03:00</pubDate>
-        <lastBuildDate>2024-06-18T11:24:31+03:00</lastBuildDate>
+        <pubDate>2024-06-18T11:36:17+03:00</pubDate>
+        <lastBuildDate>2024-06-18T11:36:17+03:00</lastBuildDate>
 
         <item>
+	<title>Roseau Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/roseau/</link>
+	<description>A comprehensive travel guide for Roseau, including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, and more.</description>
+	<pubDate>2024-06-18T11:36:17+03:00</pubDate>
+</item><item>
 	<title>Kootenay National Park Travel Guide (East Kootenays/Kootenays/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/east-kootenays/kootenay-national-park/</link>
 	<description>Discover the attractions, activities, food, accommodations, transportation, and safety tips to enjoy Kootenay National Park to the fullest.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/kenya/western-kenya/vihiga/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Vihiga, Kenya. Learn about the local culture, customs and safety tips for an unforgettable journey.</description>
 	<pubDate>2024-06-18T07:16:30+03:00</pubDate>
-</item><item>
-	<title>Kutchan Travel Guide (Central Circuit/Hokkaido/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/central-circuit/kutchan/</link>
-	<description>This comprehensive travel guide provides all the information you need to plan your trip to the stunning town of Kutchan, Hokkaido, Japan.</description>
-	<pubDate>2024-06-18T06:39:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
