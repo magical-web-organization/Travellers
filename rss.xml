@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-18T20:55:10+03:00</pubDate>
-        <lastBuildDate>2024-06-18T20:55:10+03:00</lastBuildDate>
+        <pubDate>2024-06-18T21:30:11+03:00</pubDate>
+        <lastBuildDate>2024-06-18T21:30:11+03:00</lastBuildDate>
 
         <item>
+	<title>Vienna Travel Guide (Fairfax County/Northern Virginia/Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/northern-virginia/fairfax-county/vienna/</link>
+	<description>Planning a trip to Vienna? Check out our comprehensive guide to discover the top attractions, hotels, food, culture, safety tips and more.</description>
+	<pubDate>2024-06-18T21:30:11+03:00</pubDate>
+</item><item>
 	<title>Regent Travel Guide (Western North Dakota/North Dakota/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/western-north-dakota/regent/</link>
 	<description>Discover the best places to visit in Regent, where to stay, what to eat and drink, and how to get there. Read our comprehensive travel guide for Regent and plan your trip today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/south-county/matunuck/</link>
 	<description>Discover the best attractions, activities, accommodations, and more in our comprehensive travel guide to Matunuck, Rhode Island.</description>
 	<pubDate>2024-06-18T16:45:10+03:00</pubDate>
-</item><item>
-	<title>South Sichuan Travel Guide (Sichuan/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/south-sichuan/</link>
-	<description>Discover the best places to visit, things to do, and local culture and customs in South Sichuan, China. Plan your trip with this travel guide.</description>
-	<pubDate>2024-06-18T16:07:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
