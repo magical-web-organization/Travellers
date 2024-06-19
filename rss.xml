@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T12:34:33+03:00</pubDate>
-        <lastBuildDate>2024-06-19T12:34:33+03:00</lastBuildDate>
+        <pubDate>2024-06-19T13:13:24+03:00</pubDate>
+        <lastBuildDate>2024-06-19T13:13:24+03:00</lastBuildDate>
 
         <item>
+	<title>Zirakpur Travel Guide (Malwa/Punjab/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/malwa/zirakpur/</link>
+	<description>Discover the culturally important attractions, natural wonders, food and drink scene, local culture, safety and health, transportation options, and nearby excursions of Zirakpur with this comprehensive tour guide.</description>
+	<pubDate>2024-06-19T13:13:24+03:00</pubDate>
+</item><item>
 	<title>Grand Canyon–Parashant National Monument Travel Guide (Northern Arizona/Arizona/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/northern-arizona/grand-canyon-parashant-national-monument/</link>
 	<description>Explore the beauty of Grand Canyon-Parashant National Monument with this comprehensive guide including must-visit places, itinerary, hiking routes, food, accommodations, safety, and transportation.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/roha/</link>
 	<description>Explore the culturally rich and naturally beautiful town of Roha in Maharashtra, India with our comprehensive travel guide. Find out about top places to visit, hiking and biking routes, local culture and customs, and more.</description>
 	<pubDate>2024-06-19T08:47:08+03:00</pubDate>
-</item><item>
-	<title>Lymington Travel Guide (Hampshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/lymington/</link>
-	<description>Explore Lymington, a charming coastal town in Hampshire, England. Discover its natural attractions, cultural landmarks, food and drink scene, and more.</description>
-	<pubDate>2024-06-19T08:14:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
