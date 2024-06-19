@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T15:48:30+03:00</pubDate>
-        <lastBuildDate>2024-06-19T15:48:30+03:00</lastBuildDate>
+        <pubDate>2024-06-19T16:12:08+03:00</pubDate>
+        <lastBuildDate>2024-06-19T16:12:08+03:00</lastBuildDate>
 
         <item>
+	<title>Osterwieck Travel Guide (Saxony-Anhalt/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony-anhalt/osterwieck/</link>
+	<description>Plan your trip to Osterwieck with this comprehensive travel guide, covering the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-06-19T16:12:08+03:00</pubDate>
+</item><item>
 	<title>Roccamontepiano Travel Guide (Chieti (province)/Abruzzo/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/chieti-province/roccamontepiano/</link>
 	<description>Plan the perfect trip to Roccamontepiano, Abruzzo with this comprehensive guide featuring top attractions, hiking routes, things to do, food scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/stowmarket/</link>
 	<description>Plan your trip to Stowmarket with our comprehensive travel guide. Discover the best things to see and do, where to stay, and more.</description>
 	<pubDate>2024-06-19T11:48:06+03:00</pubDate>
-</item><item>
-	<title>Tam Kỳ Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/tam-ky/</link>
-	<description>Planning a trip to Tam Kỳ, Vietnam? Check out our comprehensive travel guide for the best places to visit, things to do, and more.</description>
-	<pubDate>2024-06-19T11:07:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
