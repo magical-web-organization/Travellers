@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T02:47:03+03:00</pubDate>
-        <lastBuildDate>2024-06-19T02:47:03+03:00</lastBuildDate>
+        <pubDate>2024-06-19T03:11:24+03:00</pubDate>
+        <lastBuildDate>2024-06-19T03:11:24+03:00</lastBuildDate>
 
         <item>
+	<title>12th arrondissement Travel Guide (Paris/Île-de-France/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/ile-de-france/paris/12th-arrondissement/</link>
+	<description>Discover the best things to do, see, eat, and explore in the 12th arrondissement of Paris, France.</description>
+	<pubDate>2024-06-19T03:11:24+03:00</pubDate>
+</item><item>
 	<title>Kilcreggan Travel Guide (Argyll and Bute/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/argyll-and-bute/kilcreggan/</link>
 	<description>Plan your trip to Kilcreggan with this detailed guide, featuring top attractions, must-try food and drink, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/chhattisgarh/jagdalpur/</link>
 	<description>Discover the best things to do, places to visit, and foods to try in Jagdalpur, Chhattisgarh, India. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-06-18T22:50:32+03:00</pubDate>
-</item><item>
-	<title>Mar del Plata Travel Guide (Buenos Aires (province)/Pampas/Argentina/South America)</title>
-	<link>https://travellers.wiki/en/south-america/argentina/pampas/buenos-aires-province/mar-del-plata/</link>
-	<description>Discover all the attractions and must-visit places in Mar del Plata, including its cultural landmarks, natural beauty spots, top food and drink recommendations, local culture, customs, safety and health tips, getting around guide, and other helpful advice for travelers.</description>
-	<pubDate>2024-06-18T22:27:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
