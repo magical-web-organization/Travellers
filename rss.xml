@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T14:08:04+03:00</pubDate>
-        <lastBuildDate>2024-06-19T14:08:04+03:00</lastBuildDate>
+        <pubDate>2024-06-19T14:49:32+03:00</pubDate>
+        <lastBuildDate>2024-06-19T14:49:32+03:00</lastBuildDate>
 
         <item>
+	<title>Seabeck (Washington) Travel Guide (Kitsap Peninsula/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/seabeck-washington/</link>
+	<description>Discover the best things to do in Seabeck, Washington with our comprehensive travel guide. From outdoor adventures to must-try local dishes, we've got you covered.</description>
+	<pubDate>2024-06-19T14:49:32+03:00</pubDate>
+</item><item>
 	<title>Limbe Travel Guide (Coastal Cameroon/Cameroon/Central Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/central-africa/cameroon/coastal-cameroon/limbe/</link>
 	<description>Discover the beauty of Limbe, Cameroon with this comprehensive travel guide. Explore cultural attractions, natural wonders, food and drink, accommodations, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/southern-province/mirissa/</link>
 	<description>Your ultimate guide for exploring the natural and cultural attractions of Mirissa, Sri Lanka's stunning coastal town. Find information on accommodations, transportation options, local cuisine, and more.</description>
 	<pubDate>2024-06-19T10:14:20+03:00</pubDate>
-</item><item>
-	<title>Babeldaob Travel Guide (Palau/Micronesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/micronesia/palau/babeldaob/</link>
-	<description>Discover the culturally rich and naturally beautiful island of Babeldaob in Palau with our comprehensive travel guide. Plan your itinerary, explore must-visit attractions, try local food and drinks, and find accommodation and transportation options.</description>
-	<pubDate>2024-06-19T09:55:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
