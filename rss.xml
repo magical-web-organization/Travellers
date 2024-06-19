@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T04:03:32+03:00</pubDate>
-        <lastBuildDate>2024-06-19T04:03:32+03:00</lastBuildDate>
+        <pubDate>2024-06-19T04:49:31+03:00</pubDate>
+        <lastBuildDate>2024-06-19T04:49:31+03:00</lastBuildDate>
 
         <item>
+	<title>Pornainen Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/pornainen/</link>
+	<description>Plan your trip to Pornainen, Finland with this comprehensive travel guide. Discover the best places to visit, activities, food, and more.</description>
+	<pubDate>2024-06-19T04:49:31+03:00</pubDate>
+</item><item>
 	<title>Gallipolis Travel Guide (Southeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/southeast-ohio/gallipolis/</link>
 	<description>Discover the best things to see and do in Gallipolis, Ohio, with our comprehensive travel guide, including recommendations on where to eat, sleep, and explore.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/north-central-new-mexico/pecos/</link>
 	<description>Discover the culture, history, outdoor adventures, food, and accommodations of Pecos, North Central New Mexico.</description>
 	<pubDate>2024-06-19T00:16:07+03:00</pubDate>
-</item><item>
-	<title>Chiba Travel Guide (Chiba (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/chiba-prefecture/chiba/</link>
-	<description>Discover the best places to visit, eat, and stay in Chiba, Japan. Plus, learn about local customs, transportation options, and nearby excursions in this comprehensive travel guide.</description>
-	<pubDate>2024-06-18T23:38:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
