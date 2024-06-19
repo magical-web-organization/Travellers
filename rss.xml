@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T20:44:55+03:00</pubDate>
-        <lastBuildDate>2024-06-19T20:44:55+03:00</lastBuildDate>
+        <pubDate>2024-06-19T21:17:34+03:00</pubDate>
+        <lastBuildDate>2024-06-19T21:17:34+03:00</lastBuildDate>
 
         <item>
+	<title>San Luis Rio Colorado Travel Guide (Sonora/Northern Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/sonora/san-luis-rio-colorado/</link>
+	<description>Discover the culturally-rich and breathtaking natural attractions of San Luis Rio Colorado with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and more!</description>
+	<pubDate>2024-06-19T21:17:34+03:00</pubDate>
+</item><item>
 	<title>Montefeltro Travel Guide (Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/montefeltro/</link>
 	<description>Discover the stunning beauty of Montefeltro in Italy with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/twin-cities/st-louis-park/</link>
 	<description>Explore the culturally rich and scenic St. Louis Park, Minnesota with this comprehensive travel guide, including natural attractions, hiking routes, food scene, and transportation options.</description>
 	<pubDate>2024-06-19T16:57:50+03:00</pubDate>
-</item><item>
-	<title>Osterwieck Travel Guide (Saxony-Anhalt/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony-anhalt/osterwieck/</link>
-	<description>Plan your trip to Osterwieck with this comprehensive travel guide, covering the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-06-19T16:12:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
