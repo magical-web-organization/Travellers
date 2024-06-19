@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T11:07:29+03:00</pubDate>
-        <lastBuildDate>2024-06-19T11:07:29+03:00</lastBuildDate>
+        <pubDate>2024-06-19T11:48:06+03:00</pubDate>
+        <lastBuildDate>2024-06-19T11:48:06+03:00</lastBuildDate>
 
         <item>
+	<title>Stowmarket Travel Guide (Suffolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/stowmarket/</link>
+	<description>Plan your trip to Stowmarket with our comprehensive travel guide. Discover the best things to see and do, where to stay, and more.</description>
+	<pubDate>2024-06-19T11:48:06+03:00</pubDate>
+</item><item>
 	<title>Tam Kỳ Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/tam-ky/</link>
 	<description>Planning a trip to Tam Kỳ, Vietnam? Check out our comprehensive travel guide for the best places to visit, things to do, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/southern-illinois/cairo/</link>
 	<description>A comprehensive Cairo travel guide to explore the culturally and naturally rich areas of Southern Illinois.</description>
 	<pubDate>2024-06-19T07:29:48+03:00</pubDate>
-</item><item>
-	<title>Querétaro Travel Guide (Querétaro (state)/Bajío/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/bajio/queretaro-state/queretaro/</link>
-	<description>Discover the best places to visit in Querétaro, Mexico, and get insider tips for the perfect trip. Our travel guide features cultural landmarks, natural attractions, hiking and biking routes, must-try cuisine, accommodation options, and much more.</description>
-	<pubDate>2024-06-19T06:42:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
