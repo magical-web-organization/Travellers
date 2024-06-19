@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-19T22:15:13+03:00</pubDate>
-        <lastBuildDate>2024-06-19T22:15:13+03:00</lastBuildDate>
+        <pubDate>2024-06-19T22:51:22+03:00</pubDate>
+        <lastBuildDate>2024-06-19T22:51:22+03:00</lastBuildDate>
 
         <item>
+	<title>Khiva Travel Guide (Northern Uzbekistan/Uzbekistan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/uzbekistan/northern-uzbekistan/khiva/</link>
+	<description>Travel to Khiva, Uzbekistan in Central Asia and discover its culturally rich history, natural beauty, and adventurous activities.</description>
+	<pubDate>2024-06-19T22:51:22+03:00</pubDate>
+</item><item>
 	<title>Minamidaito Travel Guide (Daito Islands/Okinawa/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/okinawa/daito-islands/minamidaito/</link>
 	<description>A comprehensive travel guide for Minamidaito featuring must-visit places, best things to do, where to stay, transportation, safety, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/northern-thailand/northern-river-valleys/nan/</link>
 	<description>Discover the best things to do and see in Nan, Thailand, from cultural attractions to outdoor adventures and hiking trails. Find out about local food and beverage, where to stay, and how to get around.</description>
 	<pubDate>2024-06-19T18:31:55+03:00</pubDate>
-</item><item>
-	<title>Hokuei Travel Guide (Tottori (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/tottori-prefecture/hokuei/</link>
-	<description>Plan your trip to Hokuei with our comprehensive travel guide that covers all the major attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-06-19T17:55:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
