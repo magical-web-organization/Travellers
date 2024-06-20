@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-20T18:42:19+03:00</pubDate>
-        <lastBuildDate>2024-06-20T18:42:19+03:00</lastBuildDate>
+        <pubDate>2024-06-20T19:26:57+03:00</pubDate>
+        <lastBuildDate>2024-06-20T19:26:57+03:00</lastBuildDate>
 
         <item>
+	<title>Falera Travel Guide (Surselva/Graubünden/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/graubunden/surselva/falera/</link>
+	<description>Discover the beauty of Falera, Switzerland with our comprehensive travel guide. Find the best things to do, places to stay, and cultural customs to make your trip unforgettable.</description>
+	<pubDate>2024-06-20T19:26:57+03:00</pubDate>
+</item><item>
 	<title>Punto Fijo Travel Guide (Falcón/Northwest/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/northwest/falcon/punto-fijo/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Punto Fijo, Venezuela with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/merrimack-valley/methuen/</link>
 	<description>Explore the cultural and natural attractions, food and drink scene, accommodations, transportation options, safety and health, and nearby destinations in Methuen, Massachusetts.</description>
 	<pubDate>2024-06-20T14:48:21+03:00</pubDate>
-</item><item>
-	<title>Edessa Travel Guide (Macedonia/Northern Greece/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/edessa/</link>
-	<description>Plan your trip to Edessa with this comprehensive travel guide covering all the must-see attractions, best hiking and biking routes, food and drink scene, and more.</description>
-	<pubDate>2024-06-20T14:04:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
