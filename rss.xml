@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-20T16:09:15+03:00</pubDate>
-        <lastBuildDate>2024-06-20T16:09:15+03:00</lastBuildDate>
+        <pubDate>2024-06-20T16:38:15+03:00</pubDate>
+        <lastBuildDate>2024-06-20T16:38:15+03:00</lastBuildDate>
 
         <item>
+	<title>Kharmang Travel Guide (Gilgit-Baltistan/Pakistan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/pakistan/gilgit-baltistan/kharmang/</link>
+	<description>Discover the best places to visit, food to try, where to stay and how to get around in Kharmang, Pakistan. Read on to plan your Kharmang itinerary.</description>
+	<pubDate>2024-06-20T16:38:15+03:00</pubDate>
+</item><item>
 	<title>Katwa Travel Guide (Rarh/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/rarh/katwa/</link>
 	<description>Discover the cultural and natural attractions, best things to do, local food and drink scene, where to stay, and more when visiting Katwa, West Bengal, India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/similkameen/cawston/</link>
 	<description>Plan your trip to Cawston, British Columbia with this comprehensive travel guide. Discover the top attractions, natural wonders, hiking routes, food scene, and more in this quaint village.</description>
 	<pubDate>2024-06-20T12:08:36+03:00</pubDate>
-</item><item>
-	<title>Östergötland Travel Guide (Götaland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/ostergotland/</link>
-	<description>Explore the culturally important attractions, natural wonders, hiking/biking routes, food and drink scene, local culture and customs, and much more in the scenic destination of Östergötland, Sweden.</description>
-	<pubDate>2024-06-20T11:36:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
