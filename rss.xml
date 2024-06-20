@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T00:01:10+03:00</pubDate>
-        <lastBuildDate>2024-06-21T00:01:10+03:00</lastBuildDate>
+        <pubDate>2024-06-21T00:14:02+03:00</pubDate>
+        <lastBuildDate>2024-06-21T00:14:02+03:00</lastBuildDate>
 
         <item>
+	<title>Kalikiri Travel Guide (Rayalaseema/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/rayalaseema/kalikiri/</link>
+	<description>Kalikiri is a hidden gem in Andhra Pradesh, Southern India. This guide provides information about places to visit, hiking/biking routes, best things to do, food and drinks, accommodation options, local culture, safety and health, transportation options, and nearby destinations and excursions.</description>
+	<pubDate>2024-06-21T00:14:02+03:00</pubDate>
+</item><item>
 	<title>Dazaifu Travel Guide (Fukuoka (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/fukuoka-prefecture/dazaifu/</link>
 	<description>Get ready to explore one of the cultural and natural gems of Japan with our comprehensive travel guide to Dazaifu, Fukuoka. Discover must-see attractions, local dishes, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/northwest/passo-fundo/</link>
 	<description>Discover the best places to visit, things to do, food to try, and more in Passo Fundo, Brazil. Learn about the city's culture, customs, safety, and transportation options.</description>
 	<pubDate>2024-06-20T19:49:54+03:00</pubDate>
-</item><item>
-	<title>Falera Travel Guide (Surselva/Graubünden/Switzerland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/switzerland/graubunden/surselva/falera/</link>
-	<description>Discover the beauty of Falera, Switzerland with our comprehensive travel guide. Find the best things to do, places to stay, and cultural customs to make your trip unforgettable.</description>
-	<pubDate>2024-06-20T19:26:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
