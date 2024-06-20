@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-20T15:28:40+03:00</pubDate>
-        <lastBuildDate>2024-06-20T15:28:40+03:00</lastBuildDate>
+        <pubDate>2024-06-20T15:53:10+03:00</pubDate>
+        <lastBuildDate>2024-06-20T15:53:10+03:00</lastBuildDate>
 
         <item>
+	<title>Jakobstad Travel Guide (Ostrobothnia/West Coast/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/ostrobothnia/jakobstad/</link>
+	<description>Discover the best of Finland by exploring Jakobstad with our comprehensive travel guide. Find out about the top places to visit, things to do, where to eat, stay, and buy souvenirs. Plan your trip to Jakobstad with our detailed itinerary and transportation guide.</description>
+	<pubDate>2024-06-20T15:53:10+03:00</pubDate>
+</item><item>
 	<title>Aldeburgh Travel Guide (Suffolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/aldeburgh/</link>
 	<description>Explore the culturally rich and scenic beauty of Aldeburgh with this comprehensive travel guide. Discover the top attractions, hiking/biking routes, best things to do, where to stay, and much more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/central-tennessee/antioch/</link>
 	<description>Explore Antioch, Tennessee with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more in this charming Southern town.</description>
 	<pubDate>2024-06-20T11:05:57+03:00</pubDate>
-</item><item>
-	<title>Kokubunji Travel Guide (Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/kokubunji/</link>
-	<description>Explore Kokubunji with this comprehensive travel guide. Discover the top attractions, best things to do, where to stay, what to eat, local culture and customs, safety tips, and much more.</description>
-	<pubDate>2024-06-20T10:44:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
