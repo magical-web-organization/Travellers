@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-20T04:35:57+03:00</pubDate>
-        <lastBuildDate>2024-06-20T04:35:57+03:00</lastBuildDate>
+        <pubDate>2024-06-20T05:27:16+03:00</pubDate>
+        <lastBuildDate>2024-06-20T05:27:16+03:00</lastBuildDate>
 
         <item>
+	<title>Yekaterinburg Travel Guide (Sverdlovsk Oblast/Urals/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/sverdlovsk-oblast/yekaterinburg/</link>
+	<description>Yekaterinburg is a stunning city located in the Urals, Eastern Europe's most industrial region. This travel guide has everything you need to know about Yekaterinburg, from must-visit attractions to local customs, transportation, and nearby excursions.</description>
+	<pubDate>2024-06-20T05:27:16+03:00</pubDate>
+</item><item>
 	<title>Lost Hills Travel Guide (Kern County/San Joaquin Valley/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/kern-county/lost-hills/</link>
 	<description>Discover the natural and cultural attractions, best things to do, food and drink scene, and tips for traveling to Lost Hills, California.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/queensland/far-north-queensland/undara-volcanic-national-park/</link>
 	<description>Explore the natural and cultural attractions of Undara Volcanic National Park with this comprehensive travel guide. Discover the best things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-06-20T01:03:20+03:00</pubDate>
-</item><item>
-	<title>Hillsborough Travel Guide (Research Triangle/Piedmont/North Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/research-triangle/hillsborough/</link>
-	<description>Discover the beautiful city of Hillsborough, North Carolina through this comprehensive travel guide that includes must-visit attractions, outdoor adventures, food and drink scene, where to stay and more.</description>
-	<pubDate>2024-06-20T00:22:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
