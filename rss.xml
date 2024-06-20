@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-20T13:45:29+03:00</pubDate>
-        <lastBuildDate>2024-06-20T13:45:29+03:00</lastBuildDate>
+        <pubDate>2024-06-20T14:04:41+03:00</pubDate>
+        <lastBuildDate>2024-06-20T14:04:41+03:00</lastBuildDate>
 
         <item>
+	<title>Edessa Travel Guide (Macedonia/Northern Greece/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/edessa/</link>
+	<description>Plan your trip to Edessa with this comprehensive travel guide covering all the must-see attractions, best hiking and biking routes, food and drink scene, and more.</description>
+	<pubDate>2024-06-20T14:04:41+03:00</pubDate>
+</item><item>
 	<title>Vanua Levu Travel Guide (Fiji/Melanesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/melanesia/fiji/vanua-levu/</link>
 	<description>Discover the best things to do in Vanua Levu, Fiji's second-largest island. Plan your trip with our comprehensive travel guide featuring must-see attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/gulf-coast/bayous/nederland/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Nederland, Texas. Also, get helpful tips on local culture, food and drink scene, transportation options, safety, and nearby excursions.</description>
 	<pubDate>2024-06-20T10:00:23+03:00</pubDate>
-</item><item>
-	<title>Eguisheim Travel Guide (Grand Est/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/grand-est/eguisheim/</link>
-	<description>Discover the charming medieval town of Eguisheim in Grand Est, France. Our comprehensive guide includes top things to do, places to visit, where to stay, and more.</description>
-	<pubDate>2024-06-20T09:27:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
