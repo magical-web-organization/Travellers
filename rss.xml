@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-20T22:56:24+03:00</pubDate>
-        <lastBuildDate>2024-06-20T22:56:24+03:00</lastBuildDate>
+        <pubDate>2024-06-20T23:05:36+03:00</pubDate>
+        <lastBuildDate>2024-06-20T23:05:36+03:00</lastBuildDate>
 
         <item>
+	<title>Marie-Jean-Eudes Ecological Reserve Travel Guide (Mauricie/Central Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/marie-jean-eudes-ecological-reserve/</link>
+	<description>Explore Marie-Jean-Eudes Ecological Reserve with our comprehensive travel guide. Discover its natural and cultural attractions, hiking routes, things to do, where to stay, food and drink scene, and more. Plan your trip now!</description>
+	<pubDate>2024-06-20T23:05:36+03:00</pubDate>
+</item><item>
 	<title>Haapsalu Travel Guide (West Estonia and Islands/Estonia/Baltic states/Europe)</title>
 	<link>https://travellers.wiki/en/europe/baltic-states/estonia/west-estonia-and-islands/haapsalu/</link>
 	<description>Discover the best things to do and see in Haapsalu, Estonia, including cultural attractions, natural wonders, food and drink, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/venezuela/northwest/falcon/punto-fijo/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Punto Fijo, Venezuela with our comprehensive travel guide.</description>
 	<pubDate>2024-06-20T18:42:19+03:00</pubDate>
-</item><item>
-	<title>Searsmont Travel Guide (Waldo County/Mid Coast/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/waldo-county/searsmont/</link>
-	<description>Plan your visit to Searsmont, Maine with our comprehensive travel guide. Discover the best things to do, see, and eat, as well as important cultural attractions, safety and health tips, and transportation options.</description>
-	<pubDate>2024-06-20T18:22:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
