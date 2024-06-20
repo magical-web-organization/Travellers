@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-20T12:53:01+03:00</pubDate>
-        <lastBuildDate>2024-06-20T12:53:01+03:00</lastBuildDate>
+        <pubDate>2024-06-20T13:15:26+03:00</pubDate>
+        <lastBuildDate>2024-06-20T13:15:26+03:00</lastBuildDate>
 
         <item>
+	<title>Gicumbi Travel Guide (Rwanda/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/rwanda/gicumbi/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more with this comprehensive travel guide to Gicumbi, Rwanda.</description>
+	<pubDate>2024-06-20T13:15:26+03:00</pubDate>
+</item><item>
 	<title>Wiener Neustadt Travel Guide (Lower Austria/Austria/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/austria/lower-austria/wiener-neustadt/</link>
 	<description>Plan your trip to Wiener Neustadt with our comprehensive guide, featuring top attractions, activities, accommodations, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/south-bay/los-gatos/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Los Gatos, California.</description>
 	<pubDate>2024-06-20T08:48:32+03:00</pubDate>
-</item><item>
-	<title>Bulgan Travel Guide (Northern Mongolia/Mongolia/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/mongolia/northern-mongolia/bulgan/</link>
-	<description>Discover everything you need to know before traveling to Bulgan in Mongolia, including the best places to visit, things to do, where to stay, and cultural insights.</description>
-	<pubDate>2024-06-20T08:23:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
