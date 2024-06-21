@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T00:23:58+03:00</pubDate>
-        <lastBuildDate>2024-06-22T00:23:58+03:00</lastBuildDate>
+        <pubDate>2024-06-22T00:50:02+03:00</pubDate>
+        <lastBuildDate>2024-06-22T00:50:02+03:00</lastBuildDate>
 
         <item>
+	<title>Ansbach Travel Guide (Middle Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/ansbach/</link>
+	<description>Planning a trip to Ansbach? Our travel guide provides an extensive list of places to visit, things to do, and more to make the most out of your vacation to the heart of Franconia.</description>
+	<pubDate>2024-06-22T00:50:02+03:00</pubDate>
+</item><item>
 	<title>Bajoga Travel Guide (Gombe State/North East Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/gombe-state/bajoga/</link>
 	<description>Planning a trip to Bajoga, Nigeria? This comprehensive travel guide will help you explore the must-visit places, local culture, food, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/yajiang/</link>
 	<description>Planning a trip to Yajiang, China? Learn about the must-see attractions, best hiking/biking routes, food and drink scene, where to stay, local culture, safety tips, and more in our comprehensive Yajiang travel guide.</description>
 	<pubDate>2024-06-21T20:09:19+03:00</pubDate>
-</item><item>
-	<title>Levant Travel Guide (Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/levant/</link>
-	<description>Get ready to discover the natural beauty, rich cultural heritage, and warm hospitality of Levant with this comprehensive travel guide. From the top attractions to the best hikes, food and drink scene, and local customs, we've got you covered.</description>
-	<pubDate>2024-06-21T19:43:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
