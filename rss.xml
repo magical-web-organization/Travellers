@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T18:56:31+03:00</pubDate>
-        <lastBuildDate>2024-06-21T18:56:31+03:00</lastBuildDate>
+        <pubDate>2024-06-21T19:12:52+03:00</pubDate>
+        <lastBuildDate>2024-06-21T19:12:52+03:00</lastBuildDate>
 
         <item>
+	<title>Chachapoyas Travel Guide (Peruvian Amazon/Peru/South America)</title>
+	<link>https://travellers.wiki/en/south-america/peru/peruvian-amazon/chachapoyas/</link>
+	<description>Discover the hidden gem of Chachapoyas in Peru with our comprehensive travel guide. Explore the natural and cultural attractions, outdoor adventures, food scene, accommodation options, and more!</description>
+	<pubDate>2024-06-21T19:12:52+03:00</pubDate>
+</item><item>
 	<title>La Ceiba Travel Guide (Caribbean Honduras/Honduras/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/honduras/caribbean-honduras/la-ceiba/</link>
 	<description>Plan your trip to La Ceiba with this comprehensive travel guide. Explore the best places to visit, things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/papua-new-guinea/bougainville/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Bougainville, Papua New Guinea. Learn about the local culture, cuisine, and safety tips for your next adventure.</description>
 	<pubDate>2024-06-21T14:42:06+03:00</pubDate>
-</item><item>
-	<title>Dauphin Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/dauphin/</link>
-	<description>Discover the best places to visit, foods to try, activities to do, and cultural experiences to have in Dauphin, Manitoba.</description>
-	<pubDate>2024-06-21T14:23:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
