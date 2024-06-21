@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T15:24:10+03:00</pubDate>
-        <lastBuildDate>2024-06-21T15:24:10+03:00</lastBuildDate>
+        <pubDate>2024-06-21T15:39:59+03:00</pubDate>
+        <lastBuildDate>2024-06-21T15:39:59+03:00</lastBuildDate>
 
         <item>
+	<title>Ste. Rose du Lac Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/ste-rose-du-lac/</link>
+	<description>Read this travel guide on Ste. Rose du Lac, Manitoba for an in-depth review of its cultural and natural attractions, hiking and biking routes, food and drink scene, accommodation options, and nearby destinations.</description>
+	<pubDate>2024-06-21T15:39:59+03:00</pubDate>
+</item><item>
 	<title>Dudhu Chak Travel Guide (Northern Punjab/Punjab/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/northern-punjab/dudhu-chak/</link>
 	<description>Your ultimate guide to exploring Dudhu Chak, a beautiful destination in Punjab, Pakistan. Discover the best places to visit, activities to do, food to eat, and where to stay in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/north-coast-nechako/tatshenshini-alsek-provincial-park/</link>
 	<description>Discover the beauty of Tatshenshini-Alsek Provincial Park in British Columbia, Canada with our comprehensive travel guide, featuring a list of places to visit, hiking/biking routes, activities, local culture and customs, safety tips, and more.</description>
 	<pubDate>2024-06-21T11:29:57+03:00</pubDate>
-</item><item>
-	<title>Vibo Valentia Travel Guide (Calabria/Southern Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/southern-italy/calabria/vibo-valentia/</link>
-	<description>Discover the best things to do, places to visit, where to stay, and what to eat in Vibo Valentia, Southern Italy. Explore the beautiful region and enjoy its rich culture, outdoor activities, and stunning scenery.</description>
-	<pubDate>2024-06-21T10:56:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
