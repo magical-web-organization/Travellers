@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T19:43:30+03:00</pubDate>
-        <lastBuildDate>2024-06-21T19:43:30+03:00</lastBuildDate>
+        <pubDate>2024-06-21T20:09:19+03:00</pubDate>
+        <lastBuildDate>2024-06-21T20:09:19+03:00</lastBuildDate>
 
         <item>
+	<title>Yajiang Travel Guide (Ganzi (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/yajiang/</link>
+	<description>Planning a trip to Yajiang, China? Learn about the must-see attractions, best hiking/biking routes, food and drink scene, where to stay, local culture, safety tips, and more in our comprehensive Yajiang travel guide.</description>
+	<pubDate>2024-06-21T20:09:19+03:00</pubDate>
+</item><item>
 	<title>Levant Travel Guide (Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/levant/</link>
 	<description>Get ready to discover the natural beauty, rich cultural heritage, and warm hospitality of Levant with this comprehensive travel guide. From the top attractions to the best hikes, food and drink scene, and local customs, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/ste-rose-du-lac/</link>
 	<description>Read this travel guide on Ste. Rose du Lac, Manitoba for an in-depth review of its cultural and natural attractions, hiking and biking routes, food and drink scene, accommodation options, and nearby destinations.</description>
 	<pubDate>2024-06-21T15:39:59+03:00</pubDate>
-</item><item>
-	<title>Dudhu Chak Travel Guide (Northern Punjab/Punjab/Pakistan/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/pakistan/punjab/northern-punjab/dudhu-chak/</link>
-	<description>Your ultimate guide to exploring Dudhu Chak, a beautiful destination in Punjab, Pakistan. Discover the best places to visit, activities to do, food to eat, and where to stay in this comprehensive travel guide.</description>
-	<pubDate>2024-06-21T15:24:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
