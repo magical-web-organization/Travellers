@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T07:44:47+03:00</pubDate>
-        <lastBuildDate>2024-06-21T07:44:47+03:00</lastBuildDate>
+        <pubDate>2024-06-21T08:32:03+03:00</pubDate>
+        <lastBuildDate>2024-06-21T08:32:03+03:00</lastBuildDate>
 
         <item>
+	<title>Jhansi Travel Guide (Awadh/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/awadh/jhansi/</link>
+	<description>Plan your trip to Jhansi with our comprehensive travel guide. Discover the best places to visit, things to do, where to eat and stay, and much more!</description>
+	<pubDate>2024-06-21T08:32:03+03:00</pubDate>
+</item><item>
 	<title>Sutton Travel Guide (Mountains and Lakes Country/West Virginia/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/west-virginia/mountains-and-lakes-country/sutton/</link>
 	<description>Discover the best things to do, places to visit, hiking routes, food and drink scene, where to stay, and more in Sutton, West Virginia, in Mountains and Lakes Country. Plan your visit with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/angoori/</link>
 	<description>Explore the culturally and naturally rich city of Angoori in Khyber Pakhtunkhwa, Pakistan with our comprehensive guide, including information on places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-21T03:36:45+03:00</pubDate>
-</item><item>
-	<title>Bangui Travel Guide (Ilocos Norte/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/ilocos-norte/bangui/</link>
-	<description>Discover the hidden gems of Bangui through this ultimate travel guide. From the best things to do to safety tips, this guide covers everything you need to know about your visit to this charming city in the Philippines.</description>
-	<pubDate>2024-06-21T03:11:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
