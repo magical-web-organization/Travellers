@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T01:30:24+03:00</pubDate>
-        <lastBuildDate>2024-06-22T01:30:24+03:00</lastBuildDate>
+        <pubDate>2024-06-22T01:46:39+03:00</pubDate>
+        <lastBuildDate>2024-06-22T01:46:39+03:00</lastBuildDate>
 
         <item>
+	<title>North Berwick Travel Guide (The Lothians/Central Belt/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/the-lothians/north-berwick/</link>
+	<description>Explore North Berwick, a charming coastal town in The Lothians, with our comprehensive travel guide. From culture and nature to food and lodging, we've got you covered!</description>
+	<pubDate>2024-06-22T01:46:39+03:00</pubDate>
+</item><item>
 	<title>Kosai Travel Guide (Shizuoka (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/kosai/</link>
 	<description>Planning a trip to Kosai, Japan? Our travel guide provides all the information you need to know about where to go, what to see, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/negros/negros-occidental/sagay/</link>
 	<description>Plan your trip to Sagay, Negros Occidental with this comprehensive tour guide featuring places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-21T21:20:37+03:00</pubDate>
-</item><item>
-	<title>Shiodome Travel Guide (Minato/Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/minato/shiodome/</link>
-	<description>Explore the best of Shiodome, Tokyo with our comprehensive travel guide featuring top attractions, activities, accommodations, food, and more.</description>
-	<pubDate>2024-06-21T20:55:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
