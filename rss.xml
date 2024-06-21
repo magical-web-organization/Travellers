@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T13:42:54+03:00</pubDate>
-        <lastBuildDate>2024-06-21T13:42:54+03:00</lastBuildDate>
+        <pubDate>2024-06-21T14:23:35+03:00</pubDate>
+        <lastBuildDate>2024-06-21T14:23:35+03:00</lastBuildDate>
 
         <item>
+	<title>Dauphin Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/dauphin/</link>
+	<description>Discover the best places to visit, foods to try, activities to do, and cultural experiences to have in Dauphin, Manitoba.</description>
+	<pubDate>2024-06-21T14:23:35+03:00</pubDate>
+</item><item>
 	<title>Temanggung Travel Guide (Kedu/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/kedu/temanggung/</link>
 	<description>Read our comprehensive guide to Temanggung, Central Java, Indonesia. Discover the top places to visit, things to do, and tips for staying safe and healthy while traveling.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-travancore/mallapally/</link>
 	<description>Discover the top attractions, activities, culture, and local tips with our comprehensive guide to Mallapally, Kerala – perfect for planning your next vacation!</description>
 	<pubDate>2024-06-21T10:01:21+03:00</pubDate>
-</item><item>
-	<title>Brossard Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/brossard/</link>
-	<description>Explore the rich cultural and natural attractions of Brossard, Quebec with our comprehensive guide. Learn about the best things to do, where to stay and eat, local culture, safety, and transportation options to make the most of your trip.</description>
-	<pubDate>2024-06-21T09:12:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
