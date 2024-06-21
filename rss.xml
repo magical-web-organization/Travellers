@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T06:28:11+03:00</pubDate>
-        <lastBuildDate>2024-06-21T06:28:11+03:00</lastBuildDate>
+        <pubDate>2024-06-21T06:41:39+03:00</pubDate>
+        <lastBuildDate>2024-06-21T06:41:39+03:00</lastBuildDate>
 
         <item>
+	<title>Gyöngyös Travel Guide (Heves County/Northern Hungary/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/heves-county/gyongyos/</link>
+	<description>Plan a memorable trip to Gyöngyös, Hungary with our ultimate travel guide featuring top attractions, accommodations, food and drink options, as well as cultural insights, safety and transportation tips, and more.</description>
+	<pubDate>2024-06-21T06:41:39+03:00</pubDate>
+</item><item>
 	<title>Mauke Travel Guide (Southern Cook Islands/Cook Islands/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/cook-islands/southern-cook-islands/mauke/</link>
 	<description>Plan your visit to Mauke Island with our comprehensive travel guide. Discover all the must-see attractions, top things to do, best places to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southeastern-alaska/haines/</link>
 	<description>Comprehensive travel guide for Haines, Alaska with information on attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-06-21T02:08:48+03:00</pubDate>
-</item><item>
-	<title>Holmfirth Travel Guide (West Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/west-yorkshire/holmfirth/</link>
-	<description>Explore the scenic beauty of Holmfirth, a picturesque town in West Yorkshire, England. Dive into its culture, food, attractions, and more!</description>
-	<pubDate>2024-06-21T01:52:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
