@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T20:09:19+03:00</pubDate>
-        <lastBuildDate>2024-06-21T20:09:19+03:00</lastBuildDate>
+        <pubDate>2024-06-21T20:55:12+03:00</pubDate>
+        <lastBuildDate>2024-06-21T20:55:12+03:00</lastBuildDate>
 
         <item>
+	<title>Shiodome Travel Guide (Minato/Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/minato/shiodome/</link>
+	<description>Explore the best of Shiodome, Tokyo with our comprehensive travel guide featuring top attractions, activities, accommodations, food, and more.</description>
+	<pubDate>2024-06-21T20:55:12+03:00</pubDate>
+</item><item>
 	<title>Yajiang Travel Guide (Ganzi (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/yajiang/</link>
 	<description>Planning a trip to Yajiang, China? Learn about the must-see attractions, best hiking/biking routes, food and drink scene, where to stay, local culture, safety tips, and more in our comprehensive Yajiang travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/iwate/iwaizumi/</link>
 	<description>Plan your trip to Iwaizumi with this comprehensive travel guide. Discover the cultural and natural attractions of Iwaizumi, including museums, outdoor adventures, hiking and biking trails, and local cuisine. Find useful information on transport, accommodation, and shopping.</description>
 	<pubDate>2024-06-21T16:33:09+03:00</pubDate>
-</item><item>
-	<title>Ste. Rose du Lac Travel Guide (Prairie Mountain/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/prairie-mountain/ste-rose-du-lac/</link>
-	<description>Read this travel guide on Ste. Rose du Lac, Manitoba for an in-depth review of its cultural and natural attractions, hiking and biking routes, food and drink scene, accommodation options, and nearby destinations.</description>
-	<pubDate>2024-06-21T15:39:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
