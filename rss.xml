@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T03:11:38+03:00</pubDate>
-        <lastBuildDate>2024-06-21T03:11:38+03:00</lastBuildDate>
+        <pubDate>2024-06-21T03:36:45+03:00</pubDate>
+        <lastBuildDate>2024-06-21T03:36:45+03:00</lastBuildDate>
 
         <item>
+	<title>Angoori Travel Guide (Khyber Pakhtunkhwa/Pakistan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/pakistan/khyber-pakhtunkhwa/angoori/</link>
+	<description>Explore the culturally and naturally rich city of Angoori in Khyber Pakhtunkhwa, Pakistan with our comprehensive guide, including information on places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-06-21T03:36:45+03:00</pubDate>
+</item><item>
 	<title>Bangui Travel Guide (Ilocos Norte/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/ilocos-norte/bangui/</link>
 	<description>Discover the hidden gems of Bangui through this ultimate travel guide. From the best things to do to safety tips, this guide covers everything you need to know about your visit to this charming city in the Philippines.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/marie-jean-eudes-ecological-reserve/</link>
 	<description>Explore Marie-Jean-Eudes Ecological Reserve with our comprehensive travel guide. Discover its natural and cultural attractions, hiking routes, things to do, where to stay, food and drink scene, and more. Plan your trip now!</description>
 	<pubDate>2024-06-20T23:05:36+03:00</pubDate>
-</item><item>
-	<title>Haapsalu Travel Guide (West Estonia and Islands/Estonia/Baltic states/Europe)</title>
-	<link>https://travellers.wiki/en/europe/baltic-states/estonia/west-estonia-and-islands/haapsalu/</link>
-	<description>Discover the best things to do and see in Haapsalu, Estonia, including cultural attractions, natural wonders, food and drink, where to stay, and much more.</description>
-	<pubDate>2024-06-20T22:56:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
