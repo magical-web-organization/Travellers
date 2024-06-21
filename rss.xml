@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T12:38:32+03:00</pubDate>
-        <lastBuildDate>2024-06-21T12:38:32+03:00</lastBuildDate>
+        <pubDate>2024-06-21T13:04:00+03:00</pubDate>
+        <lastBuildDate>2024-06-21T13:04:00+03:00</lastBuildDate>
 
         <item>
+	<title>Union (Washington) Travel Guide (Kitsap Peninsula/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/union-washington/</link>
+	<description>Plan a trip to Union, Washington with our extensive travel guide. Discover natural attractions, hiking routes, where to stay, local food, and more.</description>
+	<pubDate>2024-06-21T13:04:00+03:00</pubDate>
+</item><item>
 	<title>Ericeira Travel Guide (Greater Lisbon/Estremadura/Tagus Valley/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/tagus-valley/estremadura/greater-lisbon/ericeira/</link>
 	<description>A comprehensive travel guide to Ericeira, Portugal, including places to visit, hiking/biking routes, activities and tours, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/greater-wellington/wairarapa/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Wairarapa, along with recommendations for food and drink, safety, and transportation options.</description>
 	<pubDate>2024-06-21T08:48:24+03:00</pubDate>
-</item><item>
-	<title>Jhansi Travel Guide (Awadh/Uttar Pradesh/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/uttar-pradesh/awadh/jhansi/</link>
-	<description>Plan your trip to Jhansi with our comprehensive travel guide. Discover the best places to visit, things to do, where to eat and stay, and much more!</description>
-	<pubDate>2024-06-21T08:32:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
