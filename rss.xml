@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-21T09:12:57+03:00</pubDate>
-        <lastBuildDate>2024-06-21T09:12:57+03:00</lastBuildDate>
+        <pubDate>2024-06-21T10:01:21+03:00</pubDate>
+        <lastBuildDate>2024-06-21T10:01:21+03:00</lastBuildDate>
 
         <item>
+	<title>Mallapally Travel Guide (Central Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-travancore/mallapally/</link>
+	<description>Discover the top attractions, activities, culture, and local tips with our comprehensive guide to Mallapally, Kerala – perfect for planning your next vacation!</description>
+	<pubDate>2024-06-21T10:01:21+03:00</pubDate>
+</item><item>
 	<title>Brossard Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/brossard/</link>
 	<description>Explore the rich cultural and natural attractions of Brossard, Quebec with our comprehensive guide. Learn about the best things to do, where to stay and eat, local culture, safety, and transportation options to make the most of your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/svalbard/indre-wijdefjorden-national-park/</link>
 	<description>Discover the breathtaking natural landscapes, exciting outdoor adventures, and rich culture of Indre Wijdefjorden National Park in Norway with our comprehensive guide.</description>
 	<pubDate>2024-06-21T05:23:22+03:00</pubDate>
-</item><item>
-	<title>Fort Walton Beach Travel Guide (Emerald Coast/Florida Panhandle/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-panhandle/emerald-coast/fort-walton-beach/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Fort Walton Beach, Florida with this comprehensive tour guide.</description>
-	<pubDate>2024-06-21T04:59:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
