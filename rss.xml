@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T07:00:58+03:00</pubDate>
-        <lastBuildDate>2024-06-22T07:00:58+03:00</lastBuildDate>
+        <pubDate>2024-06-22T07:27:52+03:00</pubDate>
+        <lastBuildDate>2024-06-22T07:27:52+03:00</lastBuildDate>
 
         <item>
+	<title>Kharga Oasis Travel Guide (Western Desert/Egypt/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/egypt/western-desert/kharga-oasis/</link>
+	<description>Plan your trip to Kharga Oasis with our comprehensive travel guide, featuring top attractions, activities, accommodations, and more.</description>
+	<pubDate>2024-06-22T07:27:52+03:00</pubDate>
+</item><item>
 	<title>Southern Uzbekistan Travel Guide (Uzbekistan/Central Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/central-asia/uzbekistan/southern-uzbekistan/</link>
 	<description>Discover the rich cultural and natural attractions of Southern Uzbekistan. Learn about the best things to do, where to stay, local culture and customs, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/north-sound/lynnwood/</link>
 	<description>From cultural attractions to natural wonders, discover all that Lynnwood, Washington has to offer with our comprehensive travel guide. Plan your next trip today!</description>
 	<pubDate>2024-06-22T02:35:34+03:00</pubDate>
-</item><item>
-	<title>Marlborough Sounds Travel Guide (Marlborough/South Island/New Zealand/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/marlborough/marlborough-sounds/</link>
-	<description>Marlborough Sounds, located in New Zealand's South Island, is a beautiful destination for outdoor adventures, scenic views, and cultural experiences. This guide includes must-visit places, hiking/biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety tips, and logistics.</description>
-	<pubDate>2024-06-22T02:33:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
