@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T16:42:16+03:00</pubDate>
-        <lastBuildDate>2024-06-22T16:42:16+03:00</lastBuildDate>
+        <pubDate>2024-06-22T17:04:14+03:00</pubDate>
+        <lastBuildDate>2024-06-22T17:04:14+03:00</lastBuildDate>
 
         <item>
+	<title>Clayton (Georgia) Travel Guide (Northeast High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/northeast-high-country/clayton-georgia/</link>
+	<description>Read this comprehensive Clayton (Georgia) travel guide to explore the culturally significant attractions, natural wonders, food & drink scene, and much more!</description>
+	<pubDate>2024-06-22T17:04:14+03:00</pubDate>
+</item><item>
 	<title>Tacuarembó Travel Guide (Northern Interior/Uruguay/South America)</title>
 	<link>https://travellers.wiki/en/south-america/uruguay/northern-interior/tacuarembo/</link>
 	<description>Plan your trip to Tacuarembó with our comprehensive travel guide. From natural attractions and outdoor adventures to cultural landmarks and local cuisine, discover the best things to do and see in this beautiful region of Uruguay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/olympic-peninsula/olympic-national-park/</link>
 	<description>Discover the natural and historical attractions of Olympic National Park with this detailed travel guide. Learn about must-visit places, hiking and biking routes, outdoor adventures, local food and drink scene, where to stay, and much more.</description>
 	<pubDate>2024-06-22T12:43:40+03:00</pubDate>
-</item><item>
-	<title>Little India Travel Guide (Singapore/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/singapore/little-india/</link>
-	<description>From cultural attractions and natural adventures to food and shopping, this guide covers all aspects of Little India in Singapore.</description>
-	<pubDate>2024-06-22T12:11:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
