@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T20:39:04+03:00</pubDate>
-        <lastBuildDate>2024-06-22T20:39:04+03:00</lastBuildDate>
+        <pubDate>2024-06-22T21:27:02+03:00</pubDate>
+        <lastBuildDate>2024-06-22T21:27:02+03:00</lastBuildDate>
 
         <item>
+	<title>Jiaoxi Travel Guide (Yilan County/Eastern Taiwan/Taiwan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/taiwan/eastern-taiwan/yilan-county/jiaoxi/</link>
+	<description>Discover the best places to visit, food and drink scene, local culture and customs, and more in Jiaoxi, Taiwan with our helpful tour guide.</description>
+	<pubDate>2024-06-22T21:27:02+03:00</pubDate>
+</item><item>
 	<title>Okhotsk Travel Guide (Khabarovsk Krai/Russian Far East/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/khabarovsk-krai/okhotsk/</link>
 	<description>Discover the best sights to see, things to do, and places to stay in Okhotsk with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/uruguay/northern-interior/tacuarembo/</link>
 	<description>Plan your trip to Tacuarembó with our comprehensive travel guide. From natural attractions and outdoor adventures to cultural landmarks and local cuisine, discover the best things to do and see in this beautiful region of Uruguay.</description>
 	<pubDate>2024-06-22T16:42:16+03:00</pubDate>
-</item><item>
-	<title>Tlalpan Travel Guide (Mexico City/Central Mexico/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/mexico-city/tlalpan/</link>
-	<description>Discover the beauty of Tlalpan, Mexico City with our comprehensive tour guide, including must-visit attractions, outdoor adventures, food and drink scene, local culture, safety and health tips, and transportation options.</description>
-	<pubDate>2024-06-22T16:25:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
