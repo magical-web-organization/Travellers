@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T08:52:12+03:00</pubDate>
-        <lastBuildDate>2024-06-22T08:52:12+03:00</lastBuildDate>
+        <pubDate>2024-06-22T09:09:24+03:00</pubDate>
+        <lastBuildDate>2024-06-22T09:09:24+03:00</lastBuildDate>
 
         <item>
+	<title>Chaguanas Travel Guide (Trinidad/Trinidad and Tobago/Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/trinidad-and-tobago/trinidad/chaguanas/</link>
+	<description>Explore Chaguanas, Trinidad and Tobago with our comprehensive travel guide, discover local culture, best things to do, where to stay, and how to get around.</description>
+	<pubDate>2024-06-22T09:09:24+03:00</pubDate>
+</item><item>
 	<title>Fryeburg Travel Guide (Lakes and Mountains/Maine/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/lakes-and-mountains/fryeburg/</link>
 	<description>Discover the best things to see, do, eat, and experience in Fryeburg, Maine with this comprehensive tour guide. Plan your trip with our travel tips, must-visit destinations, and local recommendations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/minle/</link>
 	<description>Explore the beauty of Minle, a city in Gansu, Northwest China. Uncover its culturally important and natural attractions, hiking/biking routes, food and drink scene, where to stay, and how to get there, and more.</description>
 	<pubDate>2024-06-22T04:58:56+03:00</pubDate>
-</item><item>
-	<title>Mebbin National Park Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/mebbin-national-park/</link>
-	<description>Plan your trip to Mebbin National Park with this comprehensive travel guide. Discover the cultural and natural attractions, hiking and biking trails, food and drink scene, places to stay, and more.</description>
-	<pubDate>2024-06-22T04:32:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
