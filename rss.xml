@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T04:32:56+03:00</pubDate>
-        <lastBuildDate>2024-06-22T04:32:56+03:00</lastBuildDate>
+        <pubDate>2024-06-22T04:58:56+03:00</pubDate>
+        <lastBuildDate>2024-06-22T04:58:56+03:00</lastBuildDate>
 
         <item>
+	<title>Minle Travel Guide (Gansu/Northwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/minle/</link>
+	<description>Explore the beauty of Minle, a city in Gansu, Northwest China. Uncover its culturally important and natural attractions, hiking/biking routes, food and drink scene, where to stay, and how to get there, and more.</description>
+	<pubDate>2024-06-22T04:58:56+03:00</pubDate>
+</item><item>
 	<title>Mebbin National Park Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/mebbin-national-park/</link>
 	<description>Plan your trip to Mebbin National Park with this comprehensive travel guide. Discover the cultural and natural attractions, hiking and biking trails, food and drink scene, places to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/gombe-state/bajoga/</link>
 	<description>Planning a trip to Bajoga, Nigeria? This comprehensive travel guide will help you explore the must-visit places, local culture, food, and much more.</description>
 	<pubDate>2024-06-22T00:23:58+03:00</pubDate>
-</item><item>
-	<title>Truman Travel Guide (Southern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/southern-minnesota/truman/</link>
-	<description>Explore the best of Southern Minnesota with this comprehensive guide to Truman, including must-visit places, hiking/biking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-06-21T23:38:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
