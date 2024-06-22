@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T02:35:34+03:00</pubDate>
-        <lastBuildDate>2024-06-22T02:35:34+03:00</lastBuildDate>
+        <pubDate>2024-06-22T03:29:43+03:00</pubDate>
+        <lastBuildDate>2024-06-22T03:29:43+03:00</lastBuildDate>
 
         <item>
+	<title>Fuji-Hakone-Izu National Park Travel Guide (Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/fuji-hakone-izu-national-park/</link>
+	<description>Plan your trip to Japan's Fuji-Hakone-Izu National Park with this comprehensive travel guide. Explore natural and cultural attractions, outdoor adventures, hiking and biking routes, food and drink scene, accommodations, customs, and safety tips.</description>
+	<pubDate>2024-06-22T03:29:43+03:00</pubDate>
+</item><item>
 	<title>Lynnwood Travel Guide (North Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/north-sound/lynnwood/</link>
 	<description>From cultural attractions to natural wonders, discover all that Lynnwood, Washington has to offer with our comprehensive travel guide. Plan your next trip today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/taunus/</link>
 	<description>Explore the beautiful Taunus in Hesse, Germany with our comprehensive travel guide. Discover the best places to visit, things to do, where to eat, stay and much more.</description>
 	<pubDate>2024-06-21T22:43:37+03:00</pubDate>
-</item><item>
-	<title>Narromine Travel Guide (Central West/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/central-west/narromine/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Narromine, Australia. Get tips on local culture, transportation, safety, and more in this comprehensive Narromine travel guide.</description>
-	<pubDate>2024-06-21T22:08:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
