@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T17:04:14+03:00</pubDate>
-        <lastBuildDate>2024-06-22T17:04:14+03:00</lastBuildDate>
+        <pubDate>2024-06-22T17:39:27+03:00</pubDate>
+        <lastBuildDate>2024-06-22T17:39:27+03:00</lastBuildDate>
 
         <item>
+	<title>Irvine Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/irvine/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Irvine, California with our comprehensive travel guide.</description>
+	<pubDate>2024-06-22T17:39:27+03:00</pubDate>
+</item><item>
 	<title>Clayton (Georgia) Travel Guide (Northeast High Country/Historic High Country/Georgia (state)/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/historic-high-country/northeast-high-country/clayton-georgia/</link>
 	<description>Read this comprehensive Clayton (Georgia) travel guide to explore the culturally significant attractions, natural wonders, food & drink scene, and much more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/northwest-new-mexico/gallup/</link>
 	<description>Read our comprehensive travel guide for Gallup, New Mexico, and discover the best places to visit, things to do, where to stay, what to eat, and more. Plan your perfect vacation now!</description>
 	<pubDate>2024-06-22T13:26:26+03:00</pubDate>
-</item><item>
-	<title>Olympic National Park Travel Guide (Olympic Peninsula/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/olympic-peninsula/olympic-national-park/</link>
-	<description>Discover the natural and historical attractions of Olympic National Park with this detailed travel guide. Learn about must-visit places, hiking and biking routes, outdoor adventures, local food and drink scene, where to stay, and much more.</description>
-	<pubDate>2024-06-22T12:43:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
