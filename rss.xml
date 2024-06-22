@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-22T15:31:32+03:00</pubDate>
-        <lastBuildDate>2024-06-22T15:31:32+03:00</lastBuildDate>
+        <pubDate>2024-06-22T15:35:07+03:00</pubDate>
+        <lastBuildDate>2024-06-22T15:35:07+03:00</lastBuildDate>
 
         <item>
+	<title>Socorro (São Paulo) Travel Guide (Campinas Region/São Paulo (state)/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/campinas-region/socorro-sao-paulo/</link>
+	<description>Plan a trip to Socorro (São Paulo), Brazil with this comprehensive travel guide. Discover top attractions, activities, accommodations, food, and more in this charming city.</description>
+	<pubDate>2024-06-22T15:35:07+03:00</pubDate>
+</item><item>
 	<title>Luling Travel Guide (Post Oak Savannah/Prairies and Lakes/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/post-oak-savannah/luling/</link>
 	<description>Plan your perfect trip with our comprehensive Luling travel guide. Explore the outdoor beauty, historic sites and cultural attractions with our top recommendations and insider tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/minas-gerais/zona-da-mata/vicosa/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Viçosa, Brazil with this comprehensive travel guide.</description>
 	<pubDate>2024-06-22T11:27:41+03:00</pubDate>
-</item><item>
-	<title>Deming Travel Guide (Southwest New Mexico/New Mexico/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southwest-new-mexico/deming/</link>
-	<description>Explore the best of Deming, New Mexico with our comprehensive travel guide - including top attractions, hiking and biking routes, must-try dishes, safety tips, and more.</description>
-	<pubDate>2024-06-22T10:37:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
