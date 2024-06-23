@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T12:44:32+03:00</pubDate>
-        <lastBuildDate>2024-06-23T12:44:32+03:00</lastBuildDate>
+        <pubDate>2024-06-23T13:13:23+03:00</pubDate>
+        <lastBuildDate>2024-06-23T13:13:23+03:00</lastBuildDate>
 
         <item>
+	<title>Ureki Travel Guide (Southwestern Georgia/Georgia (country)/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/southwestern-georgia/ureki/</link>
+	<description>Discover the best places to visit, food and drink, local culture, safety tips, transportation options, and much more in Ureki, a hidden gem in Southwestern Georgia.</description>
+	<pubDate>2024-06-23T13:13:23+03:00</pubDate>
+</item><item>
 	<title>Levin Travel Guide (Manawatu/North Island/New Zealand/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/manawatu/levin/</link>
 	<description>Discover all the best things to do, places to visit, and local culture of Levin, New Zealand. Plan your trip to this picturesque town with our comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/nova-scotia/south-shore/mahone-bay/</link>
 	<description>Explore the culturally rich and scenic spots of Mahone Bay with our comprehensive guide featuring top tourist destinations, outdoor adventures, local cuisine, and tips for a safe and enjoyable journey.</description>
 	<pubDate>2024-06-23T08:33:57+03:00</pubDate>
-</item><item>
-	<title>Coarsegold Travel Guide (Madera County/San Joaquin Valley/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/madera-county/coarsegold/</link>
-	<description>Plan your next vacation with this extensive Coarsegold travel guide. Discover the best things to do, where to stay, and how to get there.</description>
-	<pubDate>2024-06-23T08:07:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
