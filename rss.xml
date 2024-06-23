@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T22:49:43+03:00</pubDate>
-        <lastBuildDate>2024-06-23T22:49:43+03:00</lastBuildDate>
+        <pubDate>2024-06-23T23:33:27+03:00</pubDate>
+        <lastBuildDate>2024-06-23T23:33:27+03:00</lastBuildDate>
 
         <item>
+	<title>Ikwuano Travel Guide (Abia State/South East Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/abia-state/ikwuano/</link>
+	<description>This comprehensive travel guide to Ikwuano in Abia State, Nigeria, includes a list of places to visit, hiking and biking routes, local culture and customs, safety and health tips, transportation options and logistics, and nearby destinations to explore.</description>
+	<pubDate>2024-06-23T23:33:27+03:00</pubDate>
+</item><item>
 	<title>Visakhapatnam Travel Guide (Northern Coast/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/northern-coast/visakhapatnam/</link>
 	<description>Plan a trip to Visakhapatnam with our detailed travel guide, featuring museums, historical places, natural attractions, food scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/western-new-england/delungra/</link>
 	<description>Discover the hidden gems of Delungra with this comprehensive travel guide. Explore natural attractions, cultural landmarks, food and drink scene, accommodations, and more!</description>
 	<pubDate>2024-06-23T18:57:42+03:00</pubDate>
-</item><item>
-	<title>Chuvashia Travel Guide (Volga Region/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/chuvashia/</link>
-	<description>Discover the hidden gems of Chuvashia with our comprehensive travel guide. From cultural attractions to natural wonders, we've got it all covered.</description>
-	<pubDate>2024-06-23T18:23:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
