@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T08:07:04+03:00</pubDate>
-        <lastBuildDate>2024-06-23T08:07:04+03:00</lastBuildDate>
+        <pubDate>2024-06-23T08:33:57+03:00</pubDate>
+        <lastBuildDate>2024-06-23T08:33:57+03:00</lastBuildDate>
 
         <item>
+	<title>Mahone Bay Travel Guide (South Shore/Nova Scotia/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/nova-scotia/south-shore/mahone-bay/</link>
+	<description>Explore the culturally rich and scenic spots of Mahone Bay with our comprehensive guide featuring top tourist destinations, outdoor adventures, local cuisine, and tips for a safe and enjoyable journey.</description>
+	<pubDate>2024-06-23T08:33:57+03:00</pubDate>
+</item><item>
 	<title>Coarsegold Travel Guide (Madera County/San Joaquin Valley/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/madera-county/coarsegold/</link>
 	<description>Plan your next vacation with this extensive Coarsegold travel guide. Discover the best things to do, where to stay, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/oakland-county/birmingham/</link>
 	<description>Discover the top attractions, food and drink scene, best things to do, where to stay, and much more with our comprehensive travel guide to Birmingham in Michigan. Plan your next adventure with ease and make the most of your trip.</description>
 	<pubDate>2024-06-23T04:25:43+03:00</pubDate>
-</item><item>
-	<title>Sorell Travel Guide (Tasman and South East/Southern Tasmania/Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/tasman-and-south-east/sorell/</link>
-	<description>Discover the best things to do, sites to see, and where to stay in Sorell, Tasmania. Explore museums, national parks, hiking trails and more in this comprehensive travel guide.</description>
-	<pubDate>2024-06-23T03:41:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
