@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T11:00:53+03:00</pubDate>
-        <lastBuildDate>2024-06-23T11:00:53+03:00</lastBuildDate>
+        <pubDate>2024-06-23T11:18:56+03:00</pubDate>
+        <lastBuildDate>2024-06-23T11:18:56+03:00</lastBuildDate>
 
         <item>
+	<title>Walcha Travel Guide (Southern New England/New England/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/southern-new-england/walcha/</link>
+	<description>Discover the top attractions, activities, accommodations, and travel tips in Walcha, a charming town in Southern New England, New South Wales.</description>
+	<pubDate>2024-06-23T11:18:56+03:00</pubDate>
+</item><item>
 	<title>Morrow Travel Guide (Warren County/Greater Cincinnati/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/warren-county/morrow/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture in Morrow, Ohio with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/haryana/ambala-division/panchkula/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Panchkula, Haryana with our comprehensive guide. Learn about the local culture and customs, food and drink scene, and transportation options.</description>
 	<pubDate>2024-06-23T07:00:03+03:00</pubDate>
-</item><item>
-	<title>Tuusula Travel Guide (Uusimaa/Southern Finland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/southern-finland/uusimaa/tuusula/</link>
-	<description>Discover the beauty and culture of Tuusula in Southern Finland with our comprehensive travel guide. Find the top attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-06-23T06:30:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
