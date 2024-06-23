@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T23:42:35+03:00</pubDate>
-        <lastBuildDate>2024-06-23T23:42:35+03:00</lastBuildDate>
+        <pubDate>2024-06-24T00:23:59+03:00</pubDate>
+        <lastBuildDate>2024-06-24T00:23:59+03:00</lastBuildDate>
 
         <item>
+	<title>Listvyanka Travel Guide (Irkutsk Oblast/Eastern Siberia/Siberia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/siberia/eastern-siberia/irkutsk-oblast/listvyanka/</link>
+	<description>Discover the best things to do, see, eat, and stay in beautiful Listvyanka with our travel guide. Find top attractions, hiking and biking routes, itineraries, food recommendations, and more. Plan your next Siberian adventure today.</description>
+	<pubDate>2024-06-24T00:23:59+03:00</pubDate>
+</item><item>
 	<title>Murtosa Travel Guide (Beira Litoral/Beiras/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/beiras/beira-litoral/murtosa/</link>
 	<description>Discover the cultural and natural attractions of Murtosa, Portugal with our comprehensive travel guide. Plan your trip with our recommendations for activities, accommodation, food, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/labrador/forteau/</link>
 	<description>Discover the best things to do, places to stay, and where to eat in Forteau with our comprehensive travel guide. Explore the scenic views and natural wonders of this beautiful destination.</description>
 	<pubDate>2024-06-23T19:53:51+03:00</pubDate>
-</item><item>
-	<title>North Arm Travel Guide (Falkland Islands/South America)</title>
-	<link>https://travellers.wiki/en/south-america/falkland-islands/north-arm/</link>
-	<description>Discover everything you need to know about North Arm, Falkland Islands. Explore must-visit tourist attractions, natural wonders, hiking routes, and more with our comprehensive travel guide.</description>
-	<pubDate>2024-06-23T19:19:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
