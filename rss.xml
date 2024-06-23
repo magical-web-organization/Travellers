@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T11:18:56+03:00</pubDate>
-        <lastBuildDate>2024-06-23T11:18:56+03:00</lastBuildDate>
+        <pubDate>2024-06-23T12:02:56+03:00</pubDate>
+        <lastBuildDate>2024-06-23T12:02:56+03:00</lastBuildDate>
 
         <item>
+	<title>Schweinfurt Travel Guide (Lower Franconia/Franconia/Bavaria/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/lower-franconia/schweinfurt/</link>
+	<description>Explore the culturally-rich and natural beauty of Schweinfurt in Lower Franconia, Bavaria, Germany. Find out the best places to visit, stay, and eat, and learn about the local culture and customs.</description>
+	<pubDate>2024-06-23T12:02:56+03:00</pubDate>
+</item><item>
 	<title>Walcha Travel Guide (Southern New England/New England/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/southern-new-england/walcha/</link>
 	<description>Discover the top attractions, activities, accommodations, and travel tips in Walcha, a charming town in Southern New England, New South Wales.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/northern-michigan/grand-traverse-bay-area/honor/</link>
 	<description>Plan your next trip to Honor in Michigan with our comprehensive travel guide. Find out about the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-23T07:25:51+03:00</pubDate>
-</item><item>
-	<title>Panchkula Travel Guide (Ambala Division/Haryana/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/haryana/ambala-division/panchkula/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Panchkula, Haryana with our comprehensive guide. Learn about the local culture and customs, food and drink scene, and transportation options.</description>
-	<pubDate>2024-06-23T07:00:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
