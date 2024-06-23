@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T09:50:17+03:00</pubDate>
-        <lastBuildDate>2024-06-23T09:50:17+03:00</lastBuildDate>
+        <pubDate>2024-06-23T10:19:51+03:00</pubDate>
+        <lastBuildDate>2024-06-23T10:19:51+03:00</lastBuildDate>
 
         <item>
+	<title>Havant Travel Guide (Hampshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/havant/</link>
+	<description>Discover the best places to visit, things to do, and cultural customs of Havant in Hampshire, England with this comprehensive travel guide.</description>
+	<pubDate>2024-06-23T10:19:51+03:00</pubDate>
+</item><item>
 	<title>Jutiapa Travel Guide (Eastern Guatemala/Guatemala/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/guatemala/eastern-guatemala/jutiapa/</link>
 	<description>Plan your trip to Jutiapa, Guatemala with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/caucasus/azerbaijan/sheki-region/goychay/</link>
 	<description>Discover the beautiful city of Goychay in Azerbaijan, filled with cultural and natural attractions, delicious cuisine, and friendly locals.</description>
 	<pubDate>2024-06-23T05:49:10+03:00</pubDate>
-</item><item>
-	<title>Mungo National Park Travel Guide (Lower Darling/Outback New South Wales/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/lower-darling/mungo-national-park/</link>
-	<description>Plan your trip with our comprehensive Mungo National Park travel guide. Discover the culturally important attractions, natural wonders, outdoor activities, and local food and drink scenes of Mungo National Park while learning about local customs, safety tips, and transportation options.</description>
-	<pubDate>2024-06-23T05:14:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
