@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-24T01:18:55+03:00</pubDate>
-        <lastBuildDate>2024-06-24T01:18:55+03:00</lastBuildDate>
+        <pubDate>2024-06-24T01:47:59+03:00</pubDate>
+        <lastBuildDate>2024-06-24T01:47:59+03:00</lastBuildDate>
 
         <item>
+	<title>Hellertown Travel Guide (Lehigh Valley/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/lehigh-valley/hellertown/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Hellertown, Pennsylvania. Read our comprehensive tour guide to plan your trip now.</description>
+	<pubDate>2024-06-24T01:47:59+03:00</pubDate>
+</item><item>
 	<title>Eymet Travel Guide (Dordogne/Nouvelle-Aquitaine/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/dordogne/eymet/</link>
 	<description>Discover the best things to do and places to visit in Eymet, France, with our comprehensive travel guide. Explore cultural attractions, natural wonders, hiking and biking routes, food and drink scene, local culture, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/mandya-district/mandya/</link>
 	<description>Plan your next vacation to Mandya, India with this comprehensive guide. Discover the must-see attractions, best things to do, food and drink scene, getting around, and more.</description>
 	<pubDate>2024-06-23T21:24:05+03:00</pubDate>
-</item><item>
-	<title>Tutuila Travel Guide (American Samoa/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/american-samoa/tutuila/</link>
-	<description>Looking for the ultimate travel guide to Tutuila? This guide will provide you with everything you need to know to plan your trip, from activities and attractions to where to stay and eat.</description>
-	<pubDate>2024-06-23T20:50:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
