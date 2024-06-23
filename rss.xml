@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-23T18:02:26+03:00</pubDate>
-        <lastBuildDate>2024-06-23T18:02:26+03:00</lastBuildDate>
+        <pubDate>2024-06-23T18:23:58+03:00</pubDate>
+        <lastBuildDate>2024-06-23T18:23:58+03:00</lastBuildDate>
 
         <item>
+	<title>Chuvashia Travel Guide (Volga Region/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/chuvashia/</link>
+	<description>Discover the hidden gems of Chuvashia with our comprehensive travel guide. From cultural attractions to natural wonders, we've got it all covered.</description>
+	<pubDate>2024-06-23T18:23:58+03:00</pubDate>
+</item><item>
 	<title>Narachansky National Park Travel Guide (Minsk Region/Belarus/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/minsk-region/narachansky-national-park/</link>
 	<description>Discover the best things to do, see, and eat in Narachansky National Park, Belarus. Explore cultural and natural attractions, outdoor activities, and hiking/biking routes.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/tanzania/pembwe-and-the-southeast/dar-es-salaam/</link>
 	<description>Discover the best cultural attractions, natural sights, food and drink, accommodations, transportation options, and health and safety tips in Dar es Salaam, Tanzania.</description>
 	<pubDate>2024-06-23T13:40:11+03:00</pubDate>
-</item><item>
-	<title>Ureki Travel Guide (Southwestern Georgia/Georgia (country)/Caucasus/Asia)</title>
-	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/southwestern-georgia/ureki/</link>
-	<description>Discover the best places to visit, food and drink, local culture, safety tips, transportation options, and much more in Ureki, a hidden gem in Southwestern Georgia.</description>
-	<pubDate>2024-06-23T13:13:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
