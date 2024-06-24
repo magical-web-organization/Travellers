@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-24T19:03:07+03:00</pubDate>
-        <lastBuildDate>2024-06-24T19:03:07+03:00</lastBuildDate>
+        <pubDate>2024-06-24T19:13:03+03:00</pubDate>
+        <lastBuildDate>2024-06-24T19:13:03+03:00</lastBuildDate>
 
         <item>
+	<title>Wicker Park Travel Guide (Chicago/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/chicago/wicker-park/</link>
+	<description>Discover the best activities, attractions, food and drink, accommodations, and tips for a perfect trip to Wicker Park, Chicago.</description>
+	<pubDate>2024-06-24T19:13:03+03:00</pubDate>
+</item><item>
 	<title>Terra Nova National Park Travel Guide (Eastern Newfoundland/Newfoundland and Labrador/Atlantic Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/eastern-newfoundland/terra-nova-national-park/</link>
 	<description>A comprehensive travel guide for Terra Nova National Park, including recommendations for places to visit, things to do, where to stay, and safety tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/northern-greece/macedonia/chalkidiki/mount-athos/</link>
 	<description>Discover the history, culture, and outdoor activities that Mount Athos has to offer with our comprehensive tour guide. Learn about the best places to visit, stay, and eat, and get practical tips and advice for your next trip.</description>
 	<pubDate>2024-06-24T14:55:31+03:00</pubDate>
-</item><item>
-	<title>Birsay Travel Guide (Orkney Islands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/birsay/</link>
-	<description>Explore the cultural and natural attractions, hiking and biking routes, food and drink scene, and local customs of Birsay in Scotland with our comprehensive travel guide.</description>
-	<pubDate>2024-06-24T14:13:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
