@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T01:58:45+03:00</pubDate>
-        <lastBuildDate>2024-06-25T01:58:45+03:00</lastBuildDate>
+        <pubDate>2024-06-25T02:20:40+03:00</pubDate>
+        <lastBuildDate>2024-06-25T02:20:40+03:00</lastBuildDate>
 
         <item>
+	<title>Magnolia Travel Guide (North Barrier Coast/Gulf Coast/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/gulf-coast/north-barrier-coast/magnolia/</link>
+	<description>Discover the best places to visit, things to do, and where to eat and stay in Magnolia, Texas. Plan your trip with our week-long itinerary, transportation options, and top tips for a safe and enjoyable travel experience.</description>
+	<pubDate>2024-06-25T02:20:40+03:00</pubDate>
+</item><item>
 	<title>Glengarriff Travel Guide (County Cork/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/glengarriff/</link>
 	<description>Explore the best of Glengarriff with our comprehensive travel guide. From natural attractions, hiking routes, and local culture to food and drink scene and transportation options, we cover it all.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/valais/brig/</link>
 	<description>Discover the best things to do in Brig, Valais, Switzerland. From hiking and outdoor adventures to locally sourced cuisine and cultural attractions, this guide has everything you need for an unforgettable trip.</description>
 	<pubDate>2024-06-24T21:59:35+03:00</pubDate>
-</item><item>
-	<title>Solunto Travel Guide (Palermo (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/palermo-province/solunto/</link>
-	<description>Discover the best places to visit, things to do, and do's and don'ts in Solunto. Experience its rich culture, breathtaking natural beauty, and culinary scene for a memorable trip to Sicily.</description>
-	<pubDate>2024-06-24T21:18:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
