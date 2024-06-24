@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T00:32:08+03:00</pubDate>
-        <lastBuildDate>2024-06-25T00:32:08+03:00</lastBuildDate>
+        <pubDate>2024-06-25T00:42:29+03:00</pubDate>
+        <lastBuildDate>2024-06-25T00:42:29+03:00</lastBuildDate>
 
         <item>
+	<title>Galkacyo Travel Guide (Galmudug/Somalia/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/somalia/galmudug/galkacyo/</link>
+	<description>Discover the hidden beauties of Galkacyo, Somalia with this comprehensive travel guide. Explore the cultural, natural, and historical attractions, hike or bike around the city, taste the local cuisine, and immerse yourself in the local culture and customs.</description>
+	<pubDate>2024-06-25T00:42:29+03:00</pubDate>
+</item><item>
 	<title>Tara Travel Guide (Saga (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/saga-prefecture/tara/</link>
 	<description>Plan your trip to Tara in Kyushu, Japan with our comprehensive travel guide covering best places to visit, activities, food and drink scene, local customs, safety and health, transportation options, nearby destinations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/canton-massillion-metropolitan-area/green/</link>
 	<description>This tour guide for Green, Ohio is a comprehensive overview of all the must-visit attractions, outdoor activities, food and drink scene, and local culture and customs to help travelers plan their trip accordingly.</description>
 	<pubDate>2024-06-24T20:25:46+03:00</pubDate>
-</item><item>
-	<title>Leeward Antilles Travel Guide (Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/leeward-antilles/</link>
-	<description>Explore the beauty of Caribbean with our comprehensive Leeward Antilles travel guide. From natural attractions to cultural landmarks, this guide covers it all.</description>
-	<pubDate>2024-06-24T19:59:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
