@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-24T23:58:08+03:00</pubDate>
-        <lastBuildDate>2024-06-24T23:58:08+03:00</lastBuildDate>
+        <pubDate>2024-06-25T00:32:08+03:00</pubDate>
+        <lastBuildDate>2024-06-25T00:32:08+03:00</lastBuildDate>
 
         <item>
+	<title>Tara Travel Guide (Saga (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/saga-prefecture/tara/</link>
+	<description>Plan your trip to Tara in Kyushu, Japan with our comprehensive travel guide covering best places to visit, activities, food and drink scene, local customs, safety and health, transportation options, nearby destinations, and more.</description>
+	<pubDate>2024-06-25T00:32:08+03:00</pubDate>
+</item><item>
 	<title>Mukachevo Travel Guide (Zakarpatska Oblast/Western Ukraine/Ukraine/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/western-ukraine/zakarpatska-oblast/mukachevo/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Mukachevo, Ukraine with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/leeward-antilles/</link>
 	<description>Explore the beauty of Caribbean with our comprehensive Leeward Antilles travel guide. From natural attractions to cultural landmarks, this guide covers it all.</description>
 	<pubDate>2024-06-24T19:59:20+03:00</pubDate>
-</item><item>
-	<title>Wicker Park Travel Guide (Chicago/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/chicago/wicker-park/</link>
-	<description>Discover the best activities, attractions, food and drink, accommodations, and tips for a perfect trip to Wicker Park, Chicago.</description>
-	<pubDate>2024-06-24T19:13:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
