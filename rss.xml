@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T00:42:29+03:00</pubDate>
-        <lastBuildDate>2024-06-25T00:42:29+03:00</lastBuildDate>
+        <pubDate>2024-06-25T01:08:27+03:00</pubDate>
+        <lastBuildDate>2024-06-25T01:08:27+03:00</lastBuildDate>
 
         <item>
+	<title>Pohorje-Savinjska Travel Guide (Slovenia/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/slovenia/pohorje-savinjska/</link>
+	<description>Discover the amazing natural beauty, rich culture, and fascinating history of Pohorje-Savinjska, Slovenia with our comprehensive travel guide.</description>
+	<pubDate>2024-06-25T01:08:27+03:00</pubDate>
+</item><item>
 	<title>Galkacyo Travel Guide (Galmudug/Somalia/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/somalia/galmudug/galkacyo/</link>
 	<description>Discover the hidden beauties of Galkacyo, Somalia with this comprehensive travel guide. Explore the cultural, natural, and historical attractions, hike or bike around the city, taste the local cuisine, and immerse yourself in the local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/central-africa/south-sudan/greater-upper-nile/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Greater Upper Nile with our comprehensive travel guide.</description>
 	<pubDate>2024-06-24T20:42:13+03:00</pubDate>
-</item><item>
-	<title>Green Travel Guide (Canton-Massillion Metropolitan Area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/canton-massillion-metropolitan-area/green/</link>
-	<description>This tour guide for Green, Ohio is a comprehensive overview of all the must-visit attractions, outdoor activities, food and drink scene, and local culture and customs to help travelers plan their trip accordingly.</description>
-	<pubDate>2024-06-24T20:25:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
