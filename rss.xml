@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-24T23:26:24+03:00</pubDate>
-        <lastBuildDate>2024-06-24T23:26:24+03:00</lastBuildDate>
+        <pubDate>2024-06-24T23:58:08+03:00</pubDate>
+        <lastBuildDate>2024-06-24T23:58:08+03:00</lastBuildDate>
 
         <item>
+	<title>Mukachevo Travel Guide (Zakarpatska Oblast/Western Ukraine/Ukraine/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/western-ukraine/zakarpatska-oblast/mukachevo/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Mukachevo, Ukraine with this comprehensive travel guide.</description>
+	<pubDate>2024-06-24T23:58:08+03:00</pubDate>
+</item><item>
 	<title>Tuktoyaktuk Travel Guide (Northwest Territories/Northern Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/northern-canada/northwest-territories/tuktoyaktuk/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Tuktoyaktuk, Northwest Territories, Canada.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/chicago/wicker-park/</link>
 	<description>Discover the best activities, attractions, food and drink, accommodations, and tips for a perfect trip to Wicker Park, Chicago.</description>
 	<pubDate>2024-06-24T19:13:03+03:00</pubDate>
-</item><item>
-	<title>Terra Nova National Park Travel Guide (Eastern Newfoundland/Newfoundland and Labrador/Atlantic Canada/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/eastern-newfoundland/terra-nova-national-park/</link>
-	<description>A comprehensive travel guide for Terra Nova National Park, including recommendations for places to visit, things to do, where to stay, and safety tips.</description>
-	<pubDate>2024-06-24T19:03:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
