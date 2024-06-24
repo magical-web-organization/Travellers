@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-24T13:15:32+03:00</pubDate>
-        <lastBuildDate>2024-06-24T13:15:32+03:00</lastBuildDate>
+        <pubDate>2024-06-24T13:42:53+03:00</pubDate>
+        <lastBuildDate>2024-06-24T13:42:53+03:00</lastBuildDate>
 
         <item>
+	<title>Verona Travel Guide (Seaway Region/Eastern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/seaway-region/verona/</link>
+	<description>A comprehensive travel guide to Verona, Ontario, including a list of places to visit, hiking and biking routes, food and drink scene, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
+	<pubDate>2024-06-24T13:42:53+03:00</pubDate>
+</item><item>
 	<title>Jomsom Travel Guide (Annapurna/Himalayas/Nepal/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/nepal/himalayas/annapurna/jomsom/</link>
 	<description>Plan your perfect trip to Jomsom with this comprehensive travel guide that covers its cultural and natural attractions, outdoor activities, hiking and biking routes, and local cuisine.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/southern-maryland/la-plata/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in La Plata, Maryland. Find helpful travel tips and recommendations for your next trip.</description>
 	<pubDate>2024-06-24T09:13:33+03:00</pubDate>
-</item><item>
-	<title>Green River Travel Guide (Northeastern Utah/Utah/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/northeastern-utah/green-river/</link>
-	<description>Discover the best things to do and see in Green River, Utah with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
-	<pubDate>2024-06-24T08:33:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
