@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-24T18:30:40+03:00</pubDate>
-        <lastBuildDate>2024-06-24T18:30:40+03:00</lastBuildDate>
+        <pubDate>2024-06-24T19:03:07+03:00</pubDate>
+        <lastBuildDate>2024-06-24T19:03:07+03:00</lastBuildDate>
 
         <item>
+	<title>Terra Nova National Park Travel Guide (Eastern Newfoundland/Newfoundland and Labrador/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/eastern-newfoundland/terra-nova-national-park/</link>
+	<description>A comprehensive travel guide for Terra Nova National Park, including recommendations for places to visit, things to do, where to stay, and safety tips.</description>
+	<pubDate>2024-06-24T19:03:07+03:00</pubDate>
+</item><item>
 	<title>Nanao Travel Guide (Noto Peninsula/Ishikawa/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/ishikawa/noto-peninsula/nanao/</link>
 	<description>Plan your trip to Nanao, Japan with this comprehensive guide featuring must-visit attractions, outdoor adventures, food, accommodations, transportation options, and cultural customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/orkney-islands/birsay/</link>
 	<description>Explore the cultural and natural attractions, hiking and biking routes, food and drink scene, and local customs of Birsay in Scotland with our comprehensive travel guide.</description>
 	<pubDate>2024-06-24T14:13:52+03:00</pubDate>
-</item><item>
-	<title>Verona Travel Guide (Seaway Region/Eastern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/seaway-region/verona/</link>
-	<description>A comprehensive travel guide to Verona, Ontario, including a list of places to visit, hiking and biking routes, food and drink scene, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
-	<pubDate>2024-06-24T13:42:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
