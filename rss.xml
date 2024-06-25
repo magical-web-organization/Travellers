@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T20:31:34+03:00</pubDate>
-        <lastBuildDate>2024-06-25T20:31:34+03:00</lastBuildDate>
+        <pubDate>2024-06-25T21:02:06+03:00</pubDate>
+        <lastBuildDate>2024-06-25T21:02:06+03:00</lastBuildDate>
 
         <item>
+	<title>Llangynwyd Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/llangynwyd/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Llangynwyd, South Wales.</description>
+	<pubDate>2024-06-25T21:02:06+03:00</pubDate>
+</item><item>
 	<title>Kavalande Travel Guide (Mysore (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/mysore-district/kavalande/</link>
 	<description>Plan your visit to Kavalande, Karnataka with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/olympic-peninsula/potlatch/</link>
 	<description>Your ultimate Potlatch travel guide, including attractions, activities, food and drink, accommodations, local customs and safety tips, transportation options, and nearby destinations.</description>
 	<pubDate>2024-06-25T16:09:10+03:00</pubDate>
-</item><item>
-	<title>Western Barbados Travel Guide (Barbados/Lesser Antilles/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/barbados/western-barbados/</link>
-	<description>Plan your trip to Western Barbados with this comprehensive tour guide. Learn about the best places to visit, things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-06-25T15:36:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
