@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T00:18:50+03:00</pubDate>
-        <lastBuildDate>2024-06-26T00:18:50+03:00</lastBuildDate>
+        <pubDate>2024-06-26T00:41:43+03:00</pubDate>
+        <lastBuildDate>2024-06-26T00:41:43+03:00</lastBuildDate>
 
         <item>
+	<title>Maun Travel Guide (Okavango-Chobe/Botswana/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/botswana/okavango-chobe/maun/</link>
+	<description>Explore the culturally important and natural attractions, hiking/biking routes, best things to do, food and drink scene, where to stay, what to buy, local culture and customs, safety and health, and transport options in Maun, Botswana.</description>
+	<pubDate>2024-06-26T00:41:43+03:00</pubDate>
+</item><item>
 	<title>Banha Travel Guide (Lower Egypt/Egypt/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/banha/</link>
 	<description>Plan your trip to Banha with this comprehensive travel guide. Discover the top cultural and natural attractions, outdoor adventures, local cuisine, safety tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/mysore-district/kavalande/</link>
 	<description>Plan your visit to Kavalande, Karnataka with our comprehensive travel guide.</description>
 	<pubDate>2024-06-25T20:31:34+03:00</pubDate>
-</item><item>
-	<title>Sea Lion Island Travel Guide (Falkland Islands/South America)</title>
-	<link>https://travellers.wiki/en/south-america/falkland-islands/sea-lion-island/</link>
-	<description>Discover the natural and cultural attractions, hiking/biking routes, food and drink scene, safety and health tips, and transportation options of Sea Lion Island.</description>
-	<pubDate>2024-06-25T20:02:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
