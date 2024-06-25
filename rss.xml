@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T02:36:18+03:00</pubDate>
-        <lastBuildDate>2024-06-25T02:36:18+03:00</lastBuildDate>
+        <pubDate>2024-06-25T03:22:33+03:00</pubDate>
+        <lastBuildDate>2024-06-25T03:22:33+03:00</lastBuildDate>
 
         <item>
+	<title>San Juan Bautista Travel Guide (San Benito County/Central Coast/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-benito-county/san-juan-bautista/</link>
+	<description>Plan your trip to San Juan Bautista and discover its cultural and natural attractions, hiking and biking routes, food and drink scene, local customs, safety information, transportation options, and nearby excursions.</description>
+	<pubDate>2024-06-25T03:22:33+03:00</pubDate>
+</item><item>
 	<title>Port Stanley Travel Guide (Lake Erie Shore/Southwestern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/lake-erie-shore/port-stanley/</link>
 	<description>Discover the top attractions, activities, places to stay, and transportation options in Port Stanley, Ontario in this comprehensive tour guide. Plan your trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/somalia/khatumo/</link>
 	<description>This travel guide provides information on Khatumo, Somalia's culture, natural and cultural attractions, places to stay, local cuisine, safety and health, transportation options, and more.</description>
 	<pubDate>2024-06-24T22:35:31+03:00</pubDate>
-</item><item>
-	<title>Cornwood Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/cornwood/</link>
-	<description>Discover the best things to see and do in Cornwood, Devon, with our comprehensive travel guide featuring information on local attractions, culture, food, and more.</description>
-	<pubDate>2024-06-24T22:26:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
