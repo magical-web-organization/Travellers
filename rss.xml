@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T05:19:00+03:00</pubDate>
-        <lastBuildDate>2024-06-25T05:19:00+03:00</lastBuildDate>
+        <pubDate>2024-06-25T05:59:53+03:00</pubDate>
+        <lastBuildDate>2024-06-25T05:59:53+03:00</lastBuildDate>
 
         <item>
+	<title>Sambalpur Travel Guide (Northwest Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/northwest-odisha/sambalpur/</link>
+	<description>A comprehensive travel guide to Sambalpur including places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-06-25T05:59:53+03:00</pubDate>
+</item><item>
 	<title>Butaritari Travel Guide (Gilbert Islands/Kiribati/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/kiribati/gilbert-islands/butaritari/</link>
 	<description>Explore the picturesque island of Butaritari, Kiribati with our comprehensive guide that covers its history, culture, food, attractions and travel tips. Plan your trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/slovenia/pohorje-savinjska/</link>
 	<description>Discover the amazing natural beauty, rich culture, and fascinating history of Pohorje-Savinjska, Slovenia with our comprehensive travel guide.</description>
 	<pubDate>2024-06-25T01:08:27+03:00</pubDate>
-</item><item>
-	<title>Galkacyo Travel Guide (Galmudug/Somalia/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/somalia/galmudug/galkacyo/</link>
-	<description>Discover the hidden beauties of Galkacyo, Somalia with this comprehensive travel guide. Explore the cultural, natural, and historical attractions, hike or bike around the city, taste the local cuisine, and immerse yourself in the local culture and customs.</description>
-	<pubDate>2024-06-25T00:42:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
