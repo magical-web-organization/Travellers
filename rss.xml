@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T21:23:36+03:00</pubDate>
-        <lastBuildDate>2024-06-25T21:23:36+03:00</lastBuildDate>
+        <pubDate>2024-06-25T21:56:19+03:00</pubDate>
+        <lastBuildDate>2024-06-25T21:56:19+03:00</lastBuildDate>
 
         <item>
+	<title>Mikumi National Park Travel Guide (Central Tanzania/Tanzania/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/tanzania/central-tanzania/mikumi-national-park/</link>
+	<description>Discover the best places to visit, things to do, and tips for traveling to Mikumi National Park in Tanzania. Get ready for an adventure-filled trip with this comprehensive guide.</description>
+	<pubDate>2024-06-25T21:56:19+03:00</pubDate>
+</item><item>
 	<title>Zaruma Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
 	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/zaruma/</link>
 	<description>Read on for a complete travel guide to Zaruma, including places to visit, activities to do, and cultural insights.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/teramo-province/montorio-al-vomano/</link>
 	<description>A complete guide to Montorio al Vomano, including its attractions, itinerary, food and drink scene, accommodations, and transportation options for tourists.</description>
 	<pubDate>2024-06-25T17:12:11+03:00</pubDate>
-</item><item>
-	<title>Bautzen Travel Guide (Upper Lusatia/Saxony/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/upper-lusatia/bautzen/</link>
-	<description>Explore the historic city of Bautzen with our comprehensive travel guide. Find things to do, places to stay, and local tips for your upcoming trip.</description>
-	<pubDate>2024-06-25T16:37:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
