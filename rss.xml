@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T12:51:22+03:00</pubDate>
-        <lastBuildDate>2024-06-25T12:51:22+03:00</lastBuildDate>
+        <pubDate>2024-06-25T13:25:20+03:00</pubDate>
+        <lastBuildDate>2024-06-25T13:25:20+03:00</lastBuildDate>
 
         <item>
+	<title>Soledad Travel Guide (Monterey County/Central Coast/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/monterey-county/soledad/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and how to get around in Soledad, California.</description>
+	<pubDate>2024-06-25T13:25:20+03:00</pubDate>
+</item><item>
 	<title>Kabak Travel Guide (Lycia/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/lycia/kabak/</link>
 	<description>Discover the best places to visit, food to try, where to stay and how to get around Kabak, Turkey. This comprehensive travel guide covers it all including nearby destinations and excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/southern-bangladesh/jessore/</link>
 	<description>Explore Jessore, a hidden gem in southern Bangladesh with this comprehensive travel guide. Discover top attractions, hiking/biking routes, food scene, where to stay, culture and customs, transportation options, nearby destinations, and more!</description>
 	<pubDate>2024-06-25T08:37:34+03:00</pubDate>
-</item><item>
-	<title>La Punta Travel Guide (San Luis (province, Argentina)/Cuyo/Argentina/South America)</title>
-	<link>https://travellers.wiki/en/south-america/argentina/cuyo/san-luis-province-argentina/la-punta/</link>
-	<description>Discover all the must-visit places, activities, and experiences in La Punta, San Luis, Argentina. Learn about the local culture, food and drink scene, safety and health tips, and transportation options.</description>
-	<pubDate>2024-06-25T08:27:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
