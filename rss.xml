@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T18:18:41+03:00</pubDate>
-        <lastBuildDate>2024-06-25T18:18:41+03:00</lastBuildDate>
+        <pubDate>2024-06-25T18:45:18+03:00</pubDate>
+        <lastBuildDate>2024-06-25T18:45:18+03:00</lastBuildDate>
 
         <item>
+	<title>Dibba Travel Guide (Musandam Peninsula/Northern Oman/Oman/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/oman/northern-oman/musandam-peninsula/dibba/</link>
+	<description>Explore the natural beauty and rich culture of Dibba, Oman, with this comprehensive travel guide. Discover top attractions, outdoor adventures, local food, and more.</description>
+	<pubDate>2024-06-25T18:45:18+03:00</pubDate>
+</item><item>
 	<title>Montague Travel Guide (Pioneer Valley/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/pioneer-valley/montague/</link>
 	<description>Discover the beautiful town of Montague, MA with our helpful travel guide. Learn about the best places to visit, eat, and stay, and gain insight into the local customs and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/moldova/ungheni/</link>
 	<description>Discover the hidden gems of Ungheni, Moldova with this complete travel guide. Explore the best attractions, food scene, local culture, and more.</description>
 	<pubDate>2024-06-25T14:07:27+03:00</pubDate>
-</item><item>
-	<title>Danville Travel Guide (Contra Costa County/East Bay/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/contra-costa-county/danville/</link>
-	<description>Plan a perfect trip to Danville, California, with our comprehensive travel guide. From top attractions to outdoor adventures, food and drink scene, transportation options, and nearby destinations, we have got you covered.</description>
-	<pubDate>2024-06-25T13:41:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
