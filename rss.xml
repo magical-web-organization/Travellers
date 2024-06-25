@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T15:32:25+03:00</pubDate>
-        <lastBuildDate>2024-06-25T15:32:25+03:00</lastBuildDate>
+        <pubDate>2024-06-25T15:36:53+03:00</pubDate>
+        <lastBuildDate>2024-06-25T15:36:53+03:00</lastBuildDate>
 
         <item>
+	<title>Western Barbados Travel Guide (Barbados/Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/barbados/western-barbados/</link>
+	<description>Plan your trip to Western Barbados with this comprehensive tour guide. Learn about the best places to visit, things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-06-25T15:36:53+03:00</pubDate>
+</item><item>
 	<title>Talent Travel Guide (Southern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/southern-oregon/talent/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, and more in Talent, Oregon with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/tras-os-montes-e-alto-douro/lamego/</link>
 	<description>Plan your trip to Lamego with this comprehensive travel guide. Discover cultural and natural attractions, hiking and biking routes, the food and drink scene, and local culture and customs.</description>
 	<pubDate>2024-06-25T11:32:45+03:00</pubDate>
-</item><item>
-	<title>Murwillumbah Travel Guide (Northern Rivers/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/northern-rivers/murwillumbah/</link>
-	<description>Explore Murwillumbah's rich culture, natural attractions, hiking & biking routes, food scene, accommodations, local products, do's and don'ts, safety, transportation, nearby destinations, and more with our comprehensive travel guide.</description>
-	<pubDate>2024-06-25T10:59:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
