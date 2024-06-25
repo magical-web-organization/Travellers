@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T12:04:14+03:00</pubDate>
-        <lastBuildDate>2024-06-25T12:04:14+03:00</lastBuildDate>
+        <pubDate>2024-06-25T12:51:22+03:00</pubDate>
+        <lastBuildDate>2024-06-25T12:51:22+03:00</lastBuildDate>
 
         <item>
+	<title>Kabak Travel Guide (Lycia/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/lycia/kabak/</link>
+	<description>Discover the best places to visit, food to try, where to stay and how to get around Kabak, Turkey. This comprehensive travel guide covers it all including nearby destinations and excursions.</description>
+	<pubDate>2024-06-25T12:51:22+03:00</pubDate>
+</item><item>
 	<title>Olomouc Travel Guide (North Moravia and Silesia/Czech Republic/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/north-moravia-and-silesia/olomouc/</link>
 	<description>Discover the best things to do, places to visit, food and drink scene, and local culture of Olomouc in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/argentina/cuyo/san-luis-province-argentina/la-punta/</link>
 	<description>Discover all the must-visit places, activities, and experiences in La Punta, San Luis, Argentina. Learn about the local culture, food and drink scene, safety and health tips, and transportation options.</description>
 	<pubDate>2024-06-25T08:27:12+03:00</pubDate>
-</item><item>
-	<title>Gruyères Travel Guide (Western Switzerland/Switzerland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/switzerland/western-switzerland/gruyeres/</link>
-	<description>Plan your trip to Gruyères with this complete travel guide featuring top attractions, activities, food, accommodation, culture, transportation, and more.</description>
-	<pubDate>2024-06-25T07:51:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
