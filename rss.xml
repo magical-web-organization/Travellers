@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T13:25:20+03:00</pubDate>
-        <lastBuildDate>2024-06-25T13:25:20+03:00</lastBuildDate>
+        <pubDate>2024-06-25T13:41:21+03:00</pubDate>
+        <lastBuildDate>2024-06-25T13:41:21+03:00</lastBuildDate>
 
         <item>
+	<title>Danville Travel Guide (Contra Costa County/East Bay/Bay Area/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/east-bay/contra-costa-county/danville/</link>
+	<description>Plan a perfect trip to Danville, California, with our comprehensive travel guide. From top attractions to outdoor adventures, food and drink scene, transportation options, and nearby destinations, we have got you covered.</description>
+	<pubDate>2024-06-25T13:41:21+03:00</pubDate>
+</item><item>
 	<title>Soledad Travel Guide (Monterey County/Central Coast/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/monterey-county/soledad/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and how to get around in Soledad, California.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/osun-state/ifon-osun/</link>
 	<description>Discover the best things to do in Ifon Osun, find places to visit, hiking/biking routes, local culture, where to stay, and more in this comprehensive travel guide.</description>
 	<pubDate>2024-06-25T09:24:22+03:00</pubDate>
-</item><item>
-	<title>Jessore Travel Guide (Southern Bangladesh/Bangladesh/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/southern-bangladesh/jessore/</link>
-	<description>Explore Jessore, a hidden gem in southern Bangladesh with this comprehensive travel guide. Discover top attractions, hiking/biking routes, food scene, where to stay, culture and customs, transportation options, nearby destinations, and more!</description>
-	<pubDate>2024-06-25T08:37:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
