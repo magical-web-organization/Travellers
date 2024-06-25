@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T04:14:05+03:00</pubDate>
-        <lastBuildDate>2024-06-25T04:14:05+03:00</lastBuildDate>
+        <pubDate>2024-06-25T05:00:44+03:00</pubDate>
+        <lastBuildDate>2024-06-25T05:00:44+03:00</lastBuildDate>
 
         <item>
+	<title>New Forest Travel Guide (Hampshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/new-forest/</link>
+	<description>Plan your trip to New Forest with this comprehensive travel guide that includes information on places to visit, hiking/biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-06-25T05:00:44+03:00</pubDate>
+</item><item>
 	<title>Liuzhou Travel Guide (North Guangxi/Guangxi/South China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangxi/north-guangxi/liuzhou/</link>
 	<description>Explore Liuzhou in South China with our comprehensive travel guide. Discover the natural and cultural attractions, food scene, local culture, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/saga-prefecture/tara/</link>
 	<description>Plan your trip to Tara in Kyushu, Japan with our comprehensive travel guide covering best places to visit, activities, food and drink scene, local customs, safety and health, transportation options, nearby destinations, and more.</description>
 	<pubDate>2024-06-25T00:32:08+03:00</pubDate>
-</item><item>
-	<title>Mukachevo Travel Guide (Zakarpatska Oblast/Western Ukraine/Ukraine/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/western-ukraine/zakarpatska-oblast/mukachevo/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Mukachevo, Ukraine with this comprehensive travel guide.</description>
-	<pubDate>2024-06-24T23:58:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
