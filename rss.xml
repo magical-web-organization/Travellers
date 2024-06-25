@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T09:57:17+03:00</pubDate>
-        <lastBuildDate>2024-06-25T09:57:17+03:00</lastBuildDate>
+        <pubDate>2024-06-25T10:13:03+03:00</pubDate>
+        <lastBuildDate>2024-06-25T10:13:03+03:00</lastBuildDate>
 
         <item>
+	<title>El Tajin Travel Guide (Veracruz (state)/Central Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/central-mexico/veracruz-state/el-tajin/</link>
+	<description>Discover the culturally rich, beautiful nature, and adventurous sites in El Tajin with our comprehensive guide.</description>
+	<pubDate>2024-06-25T10:13:03+03:00</pubDate>
+</item><item>
 	<title>Winnipeg Travel Guide (Manitoba/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/winnipeg/</link>
 	<description>Plan your trip to Winnipeg with our comprehensive travel guide, featuring attractions, itinerary, food, lodging, culture, safety and health tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/northwest-odisha/sambalpur/</link>
 	<description>A comprehensive travel guide to Sambalpur including places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-06-25T05:59:53+03:00</pubDate>
-</item><item>
-	<title>Butaritari Travel Guide (Gilbert Islands/Kiribati/Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/kiribati/gilbert-islands/butaritari/</link>
-	<description>Explore the picturesque island of Butaritari, Kiribati with our comprehensive guide that covers its history, culture, food, attractions and travel tips. Plan your trip now!</description>
-	<pubDate>2024-06-25T05:19:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
