@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-25T16:37:30+03:00</pubDate>
-        <lastBuildDate>2024-06-25T16:37:30+03:00</lastBuildDate>
+        <pubDate>2024-06-25T17:12:11+03:00</pubDate>
+        <lastBuildDate>2024-06-25T17:12:11+03:00</lastBuildDate>
 
         <item>
+	<title>Montorio al Vomano Travel Guide (Teramo (province)/Abruzzo/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/teramo-province/montorio-al-vomano/</link>
+	<description>A complete guide to Montorio al Vomano, including its attractions, itinerary, food and drink scene, accommodations, and transportation options for tourists.</description>
+	<pubDate>2024-06-25T17:12:11+03:00</pubDate>
+</item><item>
 	<title>Bautzen Travel Guide (Upper Lusatia/Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/upper-lusatia/bautzen/</link>
 	<description>Explore the historic city of Bautzen with our comprehensive travel guide. Find things to do, places to stay, and local tips for your upcoming trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/lycia/kabak/</link>
 	<description>Discover the best places to visit, food to try, where to stay and how to get around Kabak, Turkey. This comprehensive travel guide covers it all including nearby destinations and excursions.</description>
 	<pubDate>2024-06-25T12:51:22+03:00</pubDate>
-</item><item>
-	<title>Olomouc Travel Guide (North Moravia and Silesia/Czech Republic/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/north-moravia-and-silesia/olomouc/</link>
-	<description>Discover the best things to do, places to visit, food and drink scene, and local culture of Olomouc in this comprehensive travel guide.</description>
-	<pubDate>2024-06-25T12:04:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
