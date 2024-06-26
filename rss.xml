@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T20:02:05+03:00</pubDate>
-        <lastBuildDate>2024-06-26T20:02:05+03:00</lastBuildDate>
+        <pubDate>2024-06-26T20:27:45+03:00</pubDate>
+        <lastBuildDate>2024-06-26T20:27:45+03:00</lastBuildDate>
 
         <item>
+	<title>Port Campbell National Park Travel Guide (South West Coast (Victoria)/Victoria (state)/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/victoria-state/south-west-coast-victoria/port-campbell-national-park/</link>
+	<description>Discover the best places to visit, things to do, hiking and biking routes, food and drink scene, cultural attractions, safety tips, and transportation options of Port Campbell National Park in Victoria, Australia.</description>
+	<pubDate>2024-06-26T20:27:45+03:00</pubDate>
+</item><item>
 	<title>Three parallel rivers Travel Guide (Northwestern Yunnan/Yunnan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/northwestern-yunnan/three-parallel-rivers/</link>
 	<description>A comprehensive travel guide for Three Parallel Rivers, including top attractions, activities, itinerary, accommodation, food, culture, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/oripaa/</link>
 	<description>Explore the culturally rich and naturally scenic town of Oripää in Finland with our comprehensive travel guide filled with activities, places to visit, local food, customs, and more.</description>
 	<pubDate>2024-06-26T15:45:54+03:00</pubDate>
-</item><item>
-	<title>Rafina Travel Guide (Attica/Central Greece/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/central-greece/attica/rafina/</link>
-	<description>Discover the rich culture, natural beauty, and culinary delights of Rafina, Greece with our comprehensive travel guide.</description>
-	<pubDate>2024-06-26T15:30:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
