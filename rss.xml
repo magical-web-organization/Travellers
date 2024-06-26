@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T04:07:40+03:00</pubDate>
-        <lastBuildDate>2024-06-26T04:07:40+03:00</lastBuildDate>
+        <pubDate>2024-06-26T04:36:53+03:00</pubDate>
+        <lastBuildDate>2024-06-26T04:36:53+03:00</lastBuildDate>
 
         <item>
+	<title>Los Alamitos Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/los-alamitos/</link>
+	<description>Discover the best places to visit, eat, stay, and explore in Los Alamitos, California. This travel guide offers tips and recommendations for an unforgettable trip.</description>
+	<pubDate>2024-06-26T04:36:53+03:00</pubDate>
+</item><item>
 	<title>Mansfield Travel Guide (Nottinghamshire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/nottinghamshire/mansfield/</link>
 	<description>Planning a trip to Mansfield? This guide covers the best places to visit, things to do, where to stay, and more to make your trip a success.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/banha/</link>
 	<description>Plan your trip to Banha with this comprehensive travel guide. Discover the top cultural and natural attractions, outdoor adventures, local cuisine, safety tips, and transportation options.</description>
 	<pubDate>2024-06-26T00:18:50+03:00</pubDate>
-</item><item>
-	<title>Hlotse Travel Guide (Lesotho/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/lesotho/hlotse/</link>
-	<description>Plan your trip to Hlotse with our comprehensive travel guide that covers places to visit, things to do, where to stay and more.</description>
-	<pubDate>2024-06-25T23:47:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
