@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T16:45:07+03:00</pubDate>
-        <lastBuildDate>2024-06-26T16:45:07+03:00</lastBuildDate>
+        <pubDate>2024-06-26T17:20:47+03:00</pubDate>
+        <lastBuildDate>2024-06-26T17:20:47+03:00</lastBuildDate>
 
         <item>
+	<title>Coquimbo Travel Guide (Northern Chile/Chile/South America)</title>
+	<link>https://travellers.wiki/en/south-america/chile/northern-chile/coquimbo/</link>
+	<description>Plan your trip to Coquimbo, Chile with our comprehensive travel guide. Discover the best attractions, outdoor adventures, food and drink scene, cultural customs, and more.</description>
+	<pubDate>2024-06-26T17:20:47+03:00</pubDate>
+</item><item>
 	<title>Buzău Travel Guide (Wallachian Plain/Muntenia/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/wallachian-plain/buzau/</link>
 	<description>Discover the natural beauty, cultural attractions, hiking and biking routes, and local food scene of Buzău, Romania with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/southern-wisconsin-river-valley/prairie-du-chien/</link>
 	<description>Discover the best things to do in Prairie du Chien, a charming town in Southern Wisconsin River Valley. From cultural attractions to outdoor adventures, this comprehensive guide has everything you need to plan your trip.</description>
 	<pubDate>2024-06-26T12:47:59+03:00</pubDate>
-</item><item>
-	<title>Kustavi Travel Guide (Finland Proper/West Coast/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/kustavi/</link>
-	<description>Plan your trip to Kustavi, Finland with this helpful guide. Discover the best places to visit, things to do, where to eat, stay, and more.</description>
-	<pubDate>2024-06-26T12:24:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
