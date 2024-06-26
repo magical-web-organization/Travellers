@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T05:56:26+03:00</pubDate>
-        <lastBuildDate>2024-06-26T05:56:26+03:00</lastBuildDate>
+        <pubDate>2024-06-26T06:15:32+03:00</pubDate>
+        <lastBuildDate>2024-06-26T06:15:32+03:00</lastBuildDate>
 
         <item>
+	<title>Edremit Travel Guide (Northern Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/northern-aegean/edremit/</link>
+	<description>Discover the rich history and natural beauty of Edremit, Turkey with our comprehensive tour guide. Find the best places to visit, things to do, where to stay, and tips for a safe and enjoyable trip.</description>
+	<pubDate>2024-06-26T06:15:32+03:00</pubDate>
+</item><item>
 	<title>Merang Travel Guide (Terengganu/East Coast/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/terengganu/merang/</link>
 	<description>Discover the best places to visit, things to do, food to try, and tips for your trip to Merang, Malaysia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/canyon-country/capitol-reef-national-park/</link>
 	<description>A comprehensive travel guide to Capitol Reef National Park, including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-06-26T01:36:13+03:00</pubDate>
-</item><item>
-	<title>Santa Monica Mountains National Recreation Area Travel Guide (Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/santa-monica-mountains-national-recreation-area/</link>
-	<description>A comprehensive guide to visiting Santa Monica Mountains National Recreation Area, including things to do, where to stay, and transportation options.</description>
-	<pubDate>2024-06-26T01:29:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
