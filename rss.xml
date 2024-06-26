@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T22:56:49+03:00</pubDate>
-        <lastBuildDate>2024-06-26T22:56:49+03:00</lastBuildDate>
+        <pubDate>2024-06-26T23:20:01+03:00</pubDate>
+        <lastBuildDate>2024-06-26T23:20:01+03:00</lastBuildDate>
 
         <item>
+	<title>Plön Travel Guide (Kiel Bay/Schleswig-Holstein/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/kiel-bay/plon/</link>
+	<description>Explore the cultural, natural, food, and drink scene of Plön, Germany, with this ultimate travel guide. Discover the best activities, tours, and accommodations and plan your perfect trip to Central Europe.</description>
+	<pubDate>2024-06-26T23:20:01+03:00</pubDate>
+</item><item>
 	<title>Stubaier Gletscher Travel Guide (Tyrol/Austria/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/stubaier-gletscher/</link>
 	<description>Plan your trip to Stubaier Gletscher with our comprehensive travel guide. Discover the best places to visit, activities, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/okinawa/kumejima/</link>
 	<description>Explore Kumejima, a serene island in Okinawa, Japan, known for its stunning beaches, hiking trails, museums, and local culture. Learn about the best places to visit, where to stay, what to eat, and useful travel tips.</description>
 	<pubDate>2024-06-26T18:57:19+03:00</pubDate>
-</item><item>
-	<title>Balkh Travel Guide (Northwest Afghanistan/Afghanistan/Central Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/central-asia/afghanistan/northwest-afghanistan/balkh/</link>
-	<description>Explore the historical city of Balkh with our comprehensive travel guide. Discover the best attractions, food, accommodation, and more to make the most of your trip.</description>
-	<pubDate>2024-06-26T18:30:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
