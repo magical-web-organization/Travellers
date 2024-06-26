@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T02:25:18+03:00</pubDate>
-        <lastBuildDate>2024-06-27T02:25:18+03:00</lastBuildDate>
+        <pubDate>2024-06-27T02:48:27+03:00</pubDate>
+        <lastBuildDate>2024-06-27T02:48:27+03:00</lastBuildDate>
 
         <item>
+	<title>Ambato Travel Guide (Andean Highlands/Ecuador/South America)</title>
+	<link>https://travellers.wiki/en/south-america/ecuador/andean-highlands/ambato/</link>
+	<description>Ambato is a beautiful destination in the Andean Highlands of Ecuador that offers a mix of culture, history, and outdoor adventures. Plan your trip with this comprehensive travel guide.</description>
+	<pubDate>2024-06-27T02:48:27+03:00</pubDate>
+</item><item>
 	<title>Newark-on-Trent Travel Guide (Nottinghamshire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/nottinghamshire/newark-on-trent/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Newark-on-Trent. Plan your trip with our comprehensive travel guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/bolivia/altiplano/la-paz-department-bolivia/madidi-national-park/</link>
 	<description>Plan your perfect trip to Madidi National Park with our comprehensive guide, filled with information on places to visit, things to do, food and drink, where to stay, local culture and customs, safety and health, and much more.</description>
 	<pubDate>2024-06-26T22:12:22+03:00</pubDate>
-</item><item>
-	<title>Camiguin Travel Guide (Northern Mindanao/Mindanao/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/northern-mindanao/camiguin/</link>
-	<description>Explore Camiguin with this comprehensive travel guide including places to visit, hiking/biking routes, activities, where to eat, where to stay, and more. Plan your perfect trip to Camiguin now!</description>
-	<pubDate>2024-06-26T21:36:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
