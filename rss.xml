@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T19:29:18+03:00</pubDate>
-        <lastBuildDate>2024-06-26T19:29:18+03:00</lastBuildDate>
+        <pubDate>2024-06-26T20:02:05+03:00</pubDate>
+        <lastBuildDate>2024-06-26T20:02:05+03:00</lastBuildDate>
 
         <item>
+	<title>Three parallel rivers Travel Guide (Northwestern Yunnan/Yunnan/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/northwestern-yunnan/three-parallel-rivers/</link>
+	<description>A comprehensive travel guide for Three Parallel Rivers, including top attractions, activities, itinerary, accommodation, food, culture, transportation, and more.</description>
+	<pubDate>2024-06-26T20:02:05+03:00</pubDate>
+</item><item>
 	<title>Baqueira-Beret Travel Guide (Lleida (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/lleida-province/baqueira-beret/</link>
 	<description>Discover Baqueira-Beret, a hidden gem located in the province of Lleida, Catalonia, Eastern Spain. Our comprehensive travel guide covers everything you need to know to plan your trip, including places to visit, hiking/biking routes, where to stay, what to eat and drink, and local customs and traditions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/central-greece/attica/rafina/</link>
 	<description>Discover the rich culture, natural beauty, and culinary delights of Rafina, Greece with our comprehensive travel guide.</description>
 	<pubDate>2024-06-26T15:30:08+03:00</pubDate>
-</item><item>
-	<title>Great Swamp National Wildlife Refuge Travel Guide (Morris County/Skylands/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/morris-county/great-swamp-national-wildlife-refuge/</link>
-	<description>Explore the great outdoors and learn about the rich cultural history of Great Swamp National Wildlife Refuge with this comprehensive tour guide. Discover museums, hiking and biking trails, natural attractions, local cuisine, lodging options, and tips for a safe and exciting trip.</description>
-	<pubDate>2024-06-26T14:49:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
