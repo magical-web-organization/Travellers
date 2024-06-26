@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T20:53:28+03:00</pubDate>
-        <lastBuildDate>2024-06-26T20:53:28+03:00</lastBuildDate>
+        <pubDate>2024-06-26T21:12:39+03:00</pubDate>
+        <lastBuildDate>2024-06-26T21:12:39+03:00</lastBuildDate>
 
         <item>
+	<title>Mohali Travel Guide (Malwa/Punjab/Plains/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/malwa/mohali/</link>
+	<description>Explore the cultural, natural attractions, hiking/biking routes, food and drink, accommodation options, local culture, customs, safety tips, transportation options, and more in Mohali.</description>
+	<pubDate>2024-06-26T21:12:39+03:00</pubDate>
+</item><item>
 	<title>Skellefteå Travel Guide (Västerbotten County/Norrland/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/vasterbotten-county/skelleftea/</link>
 	<description>Discover the best things to do and see in Skellefteå, explore natural attractions, local culture and customs, food and drink scene, safety, health, how to get around, where to stay, and nearby destinations for excursions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/wallachian-plain/buzau/</link>
 	<description>Discover the natural beauty, cultural attractions, hiking and biking routes, and local food scene of Buzău, Romania with our comprehensive travel guide.</description>
 	<pubDate>2024-06-26T16:45:07+03:00</pubDate>
-</item><item>
-	<title>Grants Pass Travel Guide (Southern Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/southern-oregon/grants-pass/</link>
-	<description>Explore the natural beauty, rich culture, food scene, and adventure activities of Grants Pass with our travel guide. Plan your itinerary, know where to stay, what to buy and try, and get insider tips for a safe and fun trip.</description>
-	<pubDate>2024-06-26T16:15:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
