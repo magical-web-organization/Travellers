@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T00:04:34+03:00</pubDate>
-        <lastBuildDate>2024-06-27T00:04:34+03:00</lastBuildDate>
+        <pubDate>2024-06-27T00:48:41+03:00</pubDate>
+        <lastBuildDate>2024-06-27T00:48:41+03:00</lastBuildDate>
 
         <item>
+	<title>Pskov Travel Guide (Pskov Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/pskov-oblast/pskov/</link>
+	<description>Plan your trip to Pskov with our comprehensive travel guide, featuring top attractions, accommodations, and tips for a safe and enjoyable trip.</description>
+	<pubDate>2024-06-27T00:48:41+03:00</pubDate>
+</item><item>
 	<title>Lesvos Travel Guide (East Aegean Islands/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/east-aegean-islands/lesvos/</link>
 	<description>Discover the best things to do, see, eat and more in Lesvos with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/victoria-state/south-west-coast-victoria/port-campbell-national-park/</link>
 	<description>Discover the best places to visit, things to do, hiking and biking routes, food and drink scene, cultural attractions, safety tips, and transportation options of Port Campbell National Park in Victoria, Australia.</description>
 	<pubDate>2024-06-26T20:27:45+03:00</pubDate>
-</item><item>
-	<title>Three parallel rivers Travel Guide (Northwestern Yunnan/Yunnan/Southwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/yunnan/northwestern-yunnan/three-parallel-rivers/</link>
-	<description>A comprehensive travel guide for Three Parallel Rivers, including top attractions, activities, itinerary, accommodation, food, culture, transportation, and more.</description>
-	<pubDate>2024-06-26T20:02:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
