@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T17:43:44+03:00</pubDate>
-        <lastBuildDate>2024-06-26T17:43:44+03:00</lastBuildDate>
+        <pubDate>2024-06-26T18:30:26+03:00</pubDate>
+        <lastBuildDate>2024-06-26T18:30:26+03:00</lastBuildDate>
 
         <item>
+	<title>Balkh Travel Guide (Northwest Afghanistan/Afghanistan/Central Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/central-asia/afghanistan/northwest-afghanistan/balkh/</link>
+	<description>Explore the historical city of Balkh with our comprehensive travel guide. Discover the best attractions, food, accommodation, and more to make the most of your trip.</description>
+	<pubDate>2024-06-26T18:30:26+03:00</pubDate>
+</item><item>
 	<title>Sveti Stefan Travel Guide (Budva Riviera/Montenegro/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/montenegro/budva-riviera/sveti-stefan/</link>
 	<description>Plan your perfect trip to Sveti Stefan, Montenegro with this ultimate travel guide. Explore the top attractions, understand the local culture, and learn insider tips for a wonderful journey.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/opole-voivodeship/prudnik/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, and other useful information about Prudnik, Poland. Plan your trip with this comprehensive guide today!</description>
 	<pubDate>2024-06-26T13:41:47+03:00</pubDate>
-</item><item>
-	<title>Halebidu Travel Guide (Hassan (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/hassan-district/halebidu/</link>
-	<description>Discover the rich cultural heritage of Southern India with our comprehensive Halebidu travel guide. Explore the best things to do, places to stay, food scene, and more!</description>
-	<pubDate>2024-06-26T13:09:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
