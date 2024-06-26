@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-26T13:41:47+03:00</pubDate>
-        <lastBuildDate>2024-06-26T13:41:47+03:00</lastBuildDate>
+        <pubDate>2024-06-26T14:27:22+03:00</pubDate>
+        <lastBuildDate>2024-06-26T14:27:22+03:00</lastBuildDate>
 
         <item>
+	<title>Bourton-on-the-Water Travel Guide (Gloucestershire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/bourton-on-the-water/</link>
+	<description>Discover the best things to do, places to visit, hiking/biking routes, food and drink, where to stay, and local culture and customs in Bourton-on-the-Water, England.</description>
+	<pubDate>2024-06-26T14:27:22+03:00</pubDate>
+</item><item>
 	<title>Prudnik Travel Guide (Opole Voivodeship/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/opole-voivodeship/prudnik/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, and other useful information about Prudnik, Poland. Plan your trip with this comprehensive guide today!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/liberia/robertsport/</link>
 	<description>Explore Robertsport in Liberia with our comprehensive travel guide. Discover the best things to do, see, and eat, as well as where to stay, how to get around, and more.</description>
 	<pubDate>2024-06-26T09:55:37+03:00</pubDate>
-</item><item>
-	<title>Schmallenberg Travel Guide (South Westphalia/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/south-westphalia/schmallenberg/</link>
-	<description>Discover the best things to do, see, eat, and stay in Schmallenberg with our comprehensive travel guide. Explore the cultural and natural attractions, outdoor adventures, food and drink scene, and nearby destinations.</description>
-	<pubDate>2024-06-26T09:18:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
