@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/southwest-washington/vancouver-washington/</loc>
+        <lastmod>2024-06-27T15:05:49+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/east-central-saskatchewan/hudson-bay/</loc>
         <lastmod>2024-06-27T14:40:24+03:00</lastmod>
     </url>
