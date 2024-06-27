@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T10:54:23+03:00</pubDate>
-        <lastBuildDate>2024-06-27T10:54:23+03:00</lastBuildDate>
+        <pubDate>2024-06-27T11:04:06+03:00</pubDate>
+        <lastBuildDate>2024-06-27T11:04:06+03:00</lastBuildDate>
 
         <item>
+	<title>Sayre Travel Guide (Great Plains Country/Oklahoma/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/great-plains-country/sayre/</link>
+	<description>A comprehensive travel guide for Sayre, Oklahoma, including a list of places to visit, hiking/biking routes, food and drink recommendations, where to stay, and more.</description>
+	<pubDate>2024-06-27T11:04:06+03:00</pubDate>
+</item><item>
 	<title>Mülheim an der Ruhr Travel Guide (Ruhr/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/ruhr/mulheim-an-der-ruhr/</link>
 	<description>Your complete guide to Mülheim an der Ruhr, Germany including places to visit, hiking/biking routes, the food and drink scene, local culture and customs, safety and health, transportation and logistics, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/charlevoix/notre-dame-des-monts/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Notre-Dame-des-Monts, Charlevoix, Quebec. Learn about its culture, local customs, safety and health, transportation options, nearby destinations, and more.</description>
 	<pubDate>2024-06-27T06:51:08+03:00</pubDate>
-</item><item>
-	<title>Ho Chi Minh City Travel Guide (Southern Vietnam/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/southern-vietnam/ho-chi-minh-city/</link>
-	<description>Discover the best things to do, places to eat and stay, hiking and biking routes, and tips for traveling safely and culturally respectfully in Ho Chi Minh City.</description>
-	<pubDate>2024-06-27T06:20:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
