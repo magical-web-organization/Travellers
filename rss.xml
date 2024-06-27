@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T20:05:42+03:00</pubDate>
-        <lastBuildDate>2024-06-27T20:05:42+03:00</lastBuildDate>
+        <pubDate>2024-06-27T20:48:56+03:00</pubDate>
+        <lastBuildDate>2024-06-27T20:48:56+03:00</lastBuildDate>
 
         <item>
+	<title>Milton (New York) Travel Guide (Ulster County/Catskills/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/catskills/ulster-county/milton-new-york/</link>
+	<description>Plan your trip to Milton (New York) with our comprehensive travel guide, including the best things to do, where to stay, and local tips.</description>
+	<pubDate>2024-06-27T20:48:56+03:00</pubDate>
+</item><item>
 	<title>Tapachula Travel Guide (Chiapas/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/chiapas/tapachula/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, and safety and health tips of Tapachula, Chiapas, Mexico.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/lorain-county/amherst/</link>
 	<description>Plan your trip to Amherst with our comprehensive travel guide featuring top attractions, hiking routes, food and drink scene, and more.</description>
 	<pubDate>2024-06-27T16:31:51+03:00</pubDate>
-</item><item>
-	<title>Singida Travel Guide (Central Tanzania/Tanzania/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/tanzania/central-tanzania/singida/</link>
-	<description>Discover the best places to visit, things to do, local culture, and practical tips for your trip to Singida, Tanzania. Plan your next adventure with our comprehensive Singida travel guide.</description>
-	<pubDate>2024-06-27T16:00:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
