@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T09:16:51+03:00</pubDate>
-        <lastBuildDate>2024-06-27T09:16:51+03:00</lastBuildDate>
+        <pubDate>2024-06-27T09:57:30+03:00</pubDate>
+        <lastBuildDate>2024-06-27T09:57:30+03:00</lastBuildDate>
 
         <item>
+	<title>Newburgh (New York) Travel Guide (Orange County (New York)/Catskills/Mid-Hudson and Catskills/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/mid-hudson-and-catskills/catskills/orange-county-new-york/newburgh-new-york/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more with our comprehensive tour guide to Newburgh, New York.</description>
+	<pubDate>2024-06-27T09:57:30+03:00</pubDate>
+</item><item>
 	<title>Bihać Travel Guide (Bosanska Krajina/Bosnia and Herzegovina/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/bosnia-and-herzegovina/bosanska-krajina/bihac/</link>
 	<description>Explore Bihać, a hidden gem in the Balkans, with our comprehensive travel guide. Discover the best places to visit, hiking and biking routes, food and drink scene, local culture and customs, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/northern-ireland/county-antrim/rathlin-island/</link>
 	<description>Discover the beauty of Rathlin Island with our comprehensive travel guide. Learn about its culture, attractions, food, where to stay, and more.</description>
 	<pubDate>2024-06-27T05:32:44+03:00</pubDate>
-</item><item>
-	<title>Urubamba Travel Guide (Sacred Valley of the Incas/Southern Sierra/Peru/South America)</title>
-	<link>https://travellers.wiki/en/south-america/peru/southern-sierra/sacred-valley-of-the-incas/urubamba/</link>
-	<description>Explore the best of Urubamba with our in-depth travel guide. Find out what to see, where to stay, what to eat, and more.</description>
-	<pubDate>2024-06-27T05:02:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
