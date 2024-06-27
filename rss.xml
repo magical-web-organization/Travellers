@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T16:31:51+03:00</pubDate>
-        <lastBuildDate>2024-06-27T16:31:51+03:00</lastBuildDate>
+        <pubDate>2024-06-27T16:55:57+03:00</pubDate>
+        <lastBuildDate>2024-06-27T16:55:57+03:00</lastBuildDate>
 
         <item>
+	<title>San Blas Islands Travel Guide (Eastern Panama/Panama/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/panama/eastern-panama/san-blas-islands/</link>
+	<description>Discover the beauty of San Blas Islands with our comprehensive travel guide featuring the top things to do, places to stay, and more.</description>
+	<pubDate>2024-06-27T16:55:57+03:00</pubDate>
+</item><item>
 	<title>Amherst Travel Guide (Lorain County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/lorain-county/amherst/</link>
 	<description>Plan your trip to Amherst with our comprehensive travel guide featuring top attractions, hiking routes, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/high-atlas/tacheddirt/</link>
 	<description>Welcome to Tacheddirt, Morocco! Discover the best things to do, see, eat, and where to stay in this comprehensive Tacheddirt travel guide.</description>
 	<pubDate>2024-06-27T12:18:24+03:00</pubDate>
-</item><item>
-	<title>Tracy City Travel Guide (Central Tennessee/Tennessee/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/central-tennessee/tracy-city/</link>
-	<description>Explore Tracy City with our comprehensive travel guide. Discover the best places to visit, food, accommodations, and more.</description>
-	<pubDate>2024-06-27T11:57:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
