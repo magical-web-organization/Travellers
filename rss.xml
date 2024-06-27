@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T05:32:44+03:00</pubDate>
-        <lastBuildDate>2024-06-27T05:32:44+03:00</lastBuildDate>
+        <pubDate>2024-06-27T05:39:37+03:00</pubDate>
+        <lastBuildDate>2024-06-27T05:39:37+03:00</lastBuildDate>
 
         <item>
+	<title>Angeles National Forest Travel Guide (San Gabriel Valley/Los Angeles/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/san-gabriel-valley/angeles-national-forest/</link>
+	<description>Plan your perfect trip to Angeles National Forest with our guide. Discover the best places to visit, things to do, and where to stay in this Southern California gem. Read on for hiking/biking routes, food and drink, culture, safety tips, and more.</description>
+	<pubDate>2024-06-27T05:39:37+03:00</pubDate>
+</item><item>
 	<title>Rathlin Island Travel Guide (County Antrim/Northern Ireland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/northern-ireland/county-antrim/rathlin-island/</link>
 	<description>Discover the beauty of Rathlin Island with our comprehensive travel guide. Learn about its culture, attractions, food, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-atlantic-ocean/madeira/porto-santo/</link>
 	<description>Discover the beauty and charm of Porto Santo with this comprehensive travel guide. From cultural attractions to outdoor adventures, we've got you covered!</description>
 	<pubDate>2024-06-27T01:15:59+03:00</pubDate>
-</item><item>
-	<title>Pskov Travel Guide (Pskov Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/pskov-oblast/pskov/</link>
-	<description>Plan your trip to Pskov with our comprehensive travel guide, featuring top attractions, accommodations, and tips for a safe and enjoyable trip.</description>
-	<pubDate>2024-06-27T00:48:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
