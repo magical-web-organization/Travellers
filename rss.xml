@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-27T18:26:41+03:00</pubDate>
-        <lastBuildDate>2024-06-27T18:26:41+03:00</lastBuildDate>
+        <pubDate>2024-06-27T18:50:32+03:00</pubDate>
+        <lastBuildDate>2024-06-27T18:50:32+03:00</lastBuildDate>
 
         <item>
+	<title>Purnululu National Park Travel Guide (Kimberley/Western Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/western-australia/kimberley/purnululu-national-park/</link>
+	<description>Discover the natural beauty, cultural highlights, and practical information for visiting Purnululu National Park in Western Australia. Find the best places to visit, things to do, and where to stay in this travel guide.</description>
+	<pubDate>2024-06-27T18:50:32+03:00</pubDate>
+</item><item>
 	<title>Saxmundham Travel Guide (Suffolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/saxmundham/</link>
 	<description>Plan your trip to Saxmundham with our comprehensive travel guide. Discover the top tourist attractions, places to stay, local cuisine, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/azad-kashmir/muzaffarabad/</link>
 	<description>Explore the beauty of Muzaffarabad in Azad Kashmir with our comprehensive travel guide. Discover the best places to visit, must-try dishes, local culture, transportation options, and more.</description>
 	<pubDate>2024-06-27T14:28:39+03:00</pubDate>
-</item><item>
-	<title>Faridkot Travel Guide (Punjab/Plains/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/faridkot/</link>
-	<description>Plan your visit to Faridkot with our comprehensive travel guide featuring top tourist attractions, best places to stay, local foods, and more.</description>
-	<pubDate>2024-06-27T13:36:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
