@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-28T07:20:36+03:00</pubDate>
-        <lastBuildDate>2024-06-28T07:20:36+03:00</lastBuildDate>
+        <pubDate>2024-06-28T07:43:10+03:00</pubDate>
+        <lastBuildDate>2024-06-28T07:43:10+03:00</lastBuildDate>
 
         <item>
+	<title>Feodosiya Travel Guide (Crimea/Southern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/crimea/feodosiya/</link>
+	<description>Discover the hidden gems of Feodosiya through this travel guide. Find out the best places to visit, things to do, and local culture and customs in this beautiful city in Crimea, Southern Russia.</description>
+	<pubDate>2024-06-28T07:43:10+03:00</pubDate>
+</item><item>
 	<title>Gwacheon Travel Guide (Gyeonggi/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gyeonggi/gwacheon/</link>
 	<description>Discover the best things to do, places to visit, food and drink scene, and local culture and customs of Gwacheon in this travel guide. Safety and health, transportation options, and nearby destinations are also covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/wakayama-prefecture/kudoyama/</link>
 	<description>Discover the best cultural attractions, scenic views, outdoor adventures, and more in Kudoyama with our in-depth travel guide.</description>
 	<pubDate>2024-06-28T03:05:49+03:00</pubDate>
-</item><item>
-	<title>Round Mountain Travel Guide (Shasta County/Shasta Cascades/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/shasta-cascades/shasta-county/round-mountain/</link>
-	<description>This comprehensive travel guide to Round Mountain includes the best places to visit, things to do, where to stay, and local tips to make the most of your trip.</description>
-	<pubDate>2024-06-28T02:38:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
