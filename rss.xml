@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-28T15:22:15+03:00</pubDate>
-        <lastBuildDate>2024-06-28T15:22:15+03:00</lastBuildDate>
+        <pubDate>2024-06-28T16:00:32+03:00</pubDate>
+        <lastBuildDate>2024-06-28T16:00:32+03:00</lastBuildDate>
 
         <item>
+	<title>Nasushiobara Travel Guide (Tochigi (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tochigi-prefecture/nasushiobara/</link>
+	<description>Discover Nasushiobara, a beautiful city in Tochigi Prefecture, Japan. From natural attractions to cultural landmarks, this comprehensive travel guide has all the information you need to plan your trip.</description>
+	<pubDate>2024-06-28T16:00:32+03:00</pubDate>
+</item><item>
 	<title>Morpeth Travel Guide (Northumberland/North East England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-east-england/northumberland/morpeth/</link>
 	<description>Plan your trip to Morpeth with this comprehensive travel guide. Discover the best places to visit, where to stay, what to eat and drink, and how to get around.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/hiroshima-prefecture/kure/</link>
 	<description>Explore the culturally rich and naturally beautiful city of Kure in Hiroshima, Japan with our detailed travel guide featuring a list of places to visit, outdoor adventures, local culture, food scene, and more.</description>
 	<pubDate>2024-06-28T11:04:27+03:00</pubDate>
-</item><item>
-	<title>Northern Senegal Travel Guide (Senegal/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/senegal/northern-senegal/</link>
-	<description>Plan your trip to Northern Senegal with our comprehensive travel guide including attractions, activities, food, culture, safety and transportation options.</description>
-	<pubDate>2024-06-28T10:37:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
