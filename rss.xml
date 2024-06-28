@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-28T14:38:06+03:00</pubDate>
-        <lastBuildDate>2024-06-28T14:38:06+03:00</lastBuildDate>
+        <pubDate>2024-06-28T15:22:15+03:00</pubDate>
+        <lastBuildDate>2024-06-28T15:22:15+03:00</lastBuildDate>
 
         <item>
+	<title>Morpeth Travel Guide (Northumberland/North East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-east-england/northumberland/morpeth/</link>
+	<description>Plan your trip to Morpeth with this comprehensive travel guide. Discover the best places to visit, where to stay, what to eat and drink, and how to get around.</description>
+	<pubDate>2024-06-28T15:22:15+03:00</pubDate>
+</item><item>
 	<title>São Leopoldo Travel Guide (Grande Porto Alegre/Rio Grande do Sul/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/grande-porto-alegre/sao-leopoldo/</link>
 	<description>Explore the culturally rich and naturally stunning city of São Leopoldo, Brazil with our comprehensive travel guide featuring all must-visit attractions, activities, food, and accommodations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/senegal/northern-senegal/</link>
 	<description>Plan your trip to Northern Senegal with our comprehensive travel guide including attractions, activities, food, culture, safety and transportation options.</description>
 	<pubDate>2024-06-28T10:37:44+03:00</pubDate>
-</item><item>
-	<title>Axum Travel Guide (Northern Ethiopia/Ethiopia/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/ethiopia/northern-ethiopia/axum/</link>
-	<description>Discover the best things to do in Axum, Ethiopia, from visiting culturally significant museums and historical sites, to experiencing natural outdoor adventures and scenic views.</description>
-	<pubDate>2024-06-28T10:32:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
