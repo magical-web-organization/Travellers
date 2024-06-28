@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-28T23:07:46+03:00</pubDate>
-        <lastBuildDate>2024-06-28T23:07:46+03:00</lastBuildDate>
+        <pubDate>2024-06-28T23:41:49+03:00</pubDate>
+        <lastBuildDate>2024-06-28T23:41:49+03:00</lastBuildDate>
 
         <item>
+	<title>Colon Travel Guide (Entre Rios/Mesopotamia/Argentina/South America)</title>
+	<link>https://travellers.wiki/en/south-america/argentina/mesopotamia/entre-rios/colon/</link>
+	<description>Discover Colon, Argentina with our comprehensive travel guide. Learn about the best things to do, places to stay, and food to try in Colon.</description>
+	<pubDate>2024-06-28T23:41:49+03:00</pubDate>
+</item><item>
 	<title>Sierra de la Ventana Travel Guide (Buenos Aires (province)/Pampas/Argentina/South America)</title>
 	<link>https://travellers.wiki/en/south-america/argentina/pampas/buenos-aires-province/sierra-de-la-ventana/</link>
 	<description>Explore natural and cultural attractions, hiking and biking routes, food and drinks, accommodation, and safety tips in Sierra de la Ventana, a hidden gem in Argentina.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/lower-mainland/vancouver/yaletown-false-creek/</link>
 	<description>Explore the cultural attractions, outdoor adventures, best things to do, food and drink scene, where to stay, and transportation options in Yaletown-False Creek, Vancouver.</description>
 	<pubDate>2024-06-28T19:30:52+03:00</pubDate>
-</item><item>
-	<title>Passo do Lontra Travel Guide (Mato Grosso do Sul/Central West/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/central-west/mato-grosso-do-sul/passo-do-lontra/</link>
-	<description>Explore the culturally important attractions, natural attractions, food and drink scene, places to stay, and do's & dont's of Passo do Lontra.</description>
-	<pubDate>2024-06-28T18:59:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
