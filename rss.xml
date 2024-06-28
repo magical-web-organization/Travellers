@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T02:23:06+03:00</pubDate>
-        <lastBuildDate>2024-06-29T02:23:06+03:00</lastBuildDate>
+        <pubDate>2024-06-29T02:49:46+03:00</pubDate>
+        <lastBuildDate>2024-06-29T02:49:46+03:00</lastBuildDate>
 
         <item>
+	<title>West Allis Travel Guide (Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/west-allis/</link>
+	<description>Explore the best of West Allis with this comprehensive travel guide, from outdoor adventures to museums and local cuisine.</description>
+	<pubDate>2024-06-29T02:49:46+03:00</pubDate>
+</item><item>
 	<title>Spartanburg Travel Guide (Upcountry South Carolina/South Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/upcountry-south-carolina/spartanburg/</link>
 	<description>Discover the top things to do, places to visit, where to stay, and local culture of Spartanburg, South Carolina. Plan your visit today with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/miami-dade-county/miami/mimo-boulevard/</link>
 	<description>Discover the best places to visit, things to do, hiking/biking routes, food and drink scene, where to stay, and local culture and customs in Miami's MiMo Boulevard.</description>
 	<pubDate>2024-06-28T22:10:34+03:00</pubDate>
-</item><item>
-	<title>Snagov Travel Guide (Wallachian Plain/Muntenia/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/wallachian-plain/snagov/</link>
-	<description>Plan your trip to Snagov, Romania with our comprehensive travel guide. Find things to do, places to stay, where to eat, and more.</description>
-	<pubDate>2024-06-28T21:43:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
