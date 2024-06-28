@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-28T05:22:35+03:00</pubDate>
-        <lastBuildDate>2024-06-28T05:22:35+03:00</lastBuildDate>
+        <pubDate>2024-06-28T05:57:05+03:00</pubDate>
+        <lastBuildDate>2024-06-28T05:57:05+03:00</lastBuildDate>
 
         <item>
+	<title>Bako National Park Travel Guide (Sarawak/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/bako-national-park/</link>
+	<description>Discover the beauty of Bako National Park in Malaysia with helpful travel tips and itinerary suggestions. Learn about cultural and natural attractions, outdoor adventures, food scene, safety guidelines, transportation, and nearby excursions.</description>
+	<pubDate>2024-06-28T05:57:05+03:00</pubDate>
+</item><item>
 	<title>Muenster Travel Guide (Cross Timbers/Prairies and Lakes/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/cross-timbers/muenster/</link>
 	<description>Plan an unforgettable trip to Muenster! Discover the top things to do, best hotels, delicious food, and hidden gems in our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/georgia-state/classic-heartland-of-georgia/cordele/</link>
 	<description>Discover the best places to visit, food scenes, hikes, and cultural experiences in Cordele, Georgia. Learn about the best time to visit, transportation options, and nearby destinations.</description>
 	<pubDate>2024-06-28T01:04:09+03:00</pubDate>
-</item><item>
-	<title>Huedin Travel Guide (Cluj County/Transylvania/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/cluj-county/huedin/</link>
-	<description>Explore the culturally-rich and scenic town of Huedin in Transylvania, Romania with this comprehensive travel guide.</description>
-	<pubDate>2024-06-28T00:55:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
