@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T02:03:55+03:00</pubDate>
-        <lastBuildDate>2024-06-30T02:03:55+03:00</lastBuildDate>
+        <pubDate>2024-06-30T02:40:00+03:00</pubDate>
+        <lastBuildDate>2024-06-30T02:40:00+03:00</lastBuildDate>
 
         <item>
+	<title>Cádiz Travel Guide (Cadiz (province)/Andalusia/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/cadiz-province/cadiz/</link>
+	<description>Explore the culturally rich and scenic city of Cádiz with our comprehensive travel guide. From historical landmarks to natural attractions, we cover everything you need to know for an unforgettable trip.</description>
+	<pubDate>2024-06-30T02:40:00+03:00</pubDate>
+</item><item>
 	<title>Mahahual Travel Guide (Quintana Roo/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/mahahual/</link>
 	<description>Plan your dream vacation to Mahahual with this comprehensive travel guide covering the best attractions, food scene, accommodations, local culture, and transport options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/river-parishes/laplace/</link>
 	<description>Discover the best places to visit, eat, and stay in LaPlace, Louisiana. Get insights on the local culture, customs, and outdoor adventures of the River Parishes.</description>
 	<pubDate>2024-06-29T22:25:18+03:00</pubDate>
-</item><item>
-	<title>Ugo Travel Guide (Akita (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/akita-prefecture/ugo/</link>
-	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and more in Ugo, Japan. Plan your trip with this comprehensive travel guide.</description>
-	<pubDate>2024-06-29T21:41:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
