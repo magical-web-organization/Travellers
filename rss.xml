@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T08:15:37+03:00</pubDate>
-        <lastBuildDate>2024-06-29T08:15:37+03:00</lastBuildDate>
+        <pubDate>2024-06-29T08:52:38+03:00</pubDate>
+        <lastBuildDate>2024-06-29T08:52:38+03:00</lastBuildDate>
 
         <item>
+	<title>Comerío Travel Guide (La Montaña/Puerto Rico/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/la-montana/comerio/</link>
+	<description>Plan your next vacation to Comerío with our comprehensive travel guide, featuring recommendations on where to stay, what to do, and where to eat in the area.</description>
+	<pubDate>2024-06-29T08:52:38+03:00</pubDate>
+</item><item>
 	<title>Pitlochry Travel Guide (Perth and Kinross/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/perth-and-kinross/pitlochry/</link>
 	<description>Discover the stunning natural beauty, rich cultural heritage, and vibrant food and drink scene of Pitlochry, Scotland with this comprehensive travel guide. Find out what to see, do, eat, and buy in Pitlochry and get tips on transportation, safety, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/north-west-england/cumbria/ulverston/</link>
 	<description>Explore Ulverston, the cultural and natural gem in Cumbria, UK. Discover its historical sites, outdoor adventures, local dishes, accommodations, customs, and transportation.</description>
 	<pubDate>2024-06-29T04:32:40+03:00</pubDate>
-</item><item>
-	<title>Rishiri-Rebun-Sarobetsu National Park Travel Guide (Northern Circuit/Hokkaido/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/northern-circuit/rishiri-rebun-sarobetsu-national-park/</link>
-	<description>Discover the natural beauty and cultural attractions of Rishiri-Rebun-Sarobetsu National Park in Hokkaido, Japan. Plan your trip with our comprehensive travel guide including things to do, where to stay, and more.</description>
-	<pubDate>2024-06-29T03:41:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
