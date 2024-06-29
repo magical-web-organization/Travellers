@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T12:11:52+03:00</pubDate>
-        <lastBuildDate>2024-06-29T12:11:52+03:00</lastBuildDate>
+        <pubDate>2024-06-29T13:00:01+03:00</pubDate>
+        <lastBuildDate>2024-06-29T13:00:01+03:00</lastBuildDate>
 
         <item>
+	<title>Rawalakot Travel Guide (Azad Kashmir/Pakistan/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/pakistan/azad-kashmir/rawalakot/</link>
+	<description>Get to know Rawalakot, a city tucked away in Azad Kashmir, Pakistan. Explore its best attractions, enjoy delicious local cuisine, and learn about its vibrant culture with our comprehensive tour guide.</description>
+	<pubDate>2024-06-29T13:00:01+03:00</pubDate>
+</item><item>
 	<title>Cauayan Travel Guide (Negros Occidental/Negros/Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/negros/negros-occidental/cauayan/</link>
 	<description>Plan your trip to Cauayan, Philippines with our comprehensive guide to the best places to visit, things to do, where to eat and stay, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/perth-and-kinross/pitlochry/</link>
 	<description>Discover the stunning natural beauty, rich cultural heritage, and vibrant food and drink scene of Pitlochry, Scotland with this comprehensive travel guide. Find out what to see, do, eat, and buy in Pitlochry and get tips on transportation, safety, and local customs.</description>
 	<pubDate>2024-06-29T08:15:37+03:00</pubDate>
-</item><item>
-	<title>Placentia Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/placentia/</link>
-	<description>Discover the top attractions, activities, accommodations, and culinary experiences in Placentia, Orange County, California.</description>
-	<pubDate>2024-06-29T07:51:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
