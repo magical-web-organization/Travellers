@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T13:00:01+03:00</pubDate>
-        <lastBuildDate>2024-06-29T13:00:01+03:00</lastBuildDate>
+        <pubDate>2024-06-29T13:05:10+03:00</pubDate>
+        <lastBuildDate>2024-06-29T13:05:10+03:00</lastBuildDate>
 
         <item>
+	<title>Chalcis Travel Guide (Evvia/Central Greece/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/central-greece/evvia/chalcis/</link>
+	<description>Explore the cultural and natural attractions, food and drink scene, accommodation, transportation, and other helpful tips for visiting the beautiful city of Chalcis in Greece.</description>
+	<pubDate>2024-06-29T13:05:10+03:00</pubDate>
+</item><item>
 	<title>Rawalakot Travel Guide (Azad Kashmir/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/azad-kashmir/rawalakot/</link>
 	<description>Get to know Rawalakot, a city tucked away in Azad Kashmir, Pakistan. Explore its best attractions, enjoy delicious local cuisine, and learn about its vibrant culture with our comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/la-montana/comerio/</link>
 	<description>Plan your next vacation to Comerío with our comprehensive travel guide, featuring recommendations on where to stay, what to do, and where to eat in the area.</description>
 	<pubDate>2024-06-29T08:52:38+03:00</pubDate>
-</item><item>
-	<title>Pitlochry Travel Guide (Perth and Kinross/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/perth-and-kinross/pitlochry/</link>
-	<description>Discover the stunning natural beauty, rich cultural heritage, and vibrant food and drink scene of Pitlochry, Scotland with this comprehensive travel guide. Find out what to see, do, eat, and buy in Pitlochry and get tips on transportation, safety, and local customs.</description>
-	<pubDate>2024-06-29T08:15:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
