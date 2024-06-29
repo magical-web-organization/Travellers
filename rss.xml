@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T16:18:29+03:00</pubDate>
-        <lastBuildDate>2024-06-29T16:18:29+03:00</lastBuildDate>
+        <pubDate>2024-06-29T16:42:00+03:00</pubDate>
+        <lastBuildDate>2024-06-29T16:42:00+03:00</lastBuildDate>
 
         <item>
+	<title>Watch Hill Travel Guide (South County/Rhode Island/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/south-county/watch-hill/</link>
+	<description>Explore the scenic town of Watch Hill and its attractions, food, accommodations, culture, safety tips, transportation options, and nearby destinations.</description>
+	<pubDate>2024-06-29T16:42:00+03:00</pubDate>
+</item><item>
 	<title>Payette-Fruitland Travel Guide (Southwestern Idaho/Idaho/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/idaho/southwestern-idaho/payette-fruitland/</link>
 	<description>Discover the best places to visit, food to try, activities to do, and culture to experience in Payette-Fruitland, Idaho, with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/negros/negros-occidental/cauayan/</link>
 	<description>Plan your trip to Cauayan, Philippines with our comprehensive guide to the best places to visit, things to do, where to eat and stay, and more!</description>
 	<pubDate>2024-06-29T12:11:52+03:00</pubDate>
-</item><item>
-	<title>Bidar Travel Guide (Northern Karnataka/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/northern-karnataka/bidar/</link>
-	<description>Plan your perfect trip to Bidar, Karnataka with this comprehensive travel guide - explore the top attractions, outdoor adventures, local cuisine, and more!</description>
-	<pubDate>2024-06-29T11:58:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
