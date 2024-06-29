@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T11:12:06+03:00</pubDate>
-        <lastBuildDate>2024-06-29T11:12:06+03:00</lastBuildDate>
+        <pubDate>2024-06-29T11:58:40+03:00</pubDate>
+        <lastBuildDate>2024-06-29T11:58:40+03:00</lastBuildDate>
 
         <item>
+	<title>Bidar Travel Guide (Northern Karnataka/Karnataka/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/northern-karnataka/bidar/</link>
+	<description>Plan your perfect trip to Bidar, Karnataka with this comprehensive travel guide - explore the top attractions, outdoor adventures, local cuisine, and more!</description>
+	<pubDate>2024-06-29T11:58:40+03:00</pubDate>
+</item><item>
 	<title>Hamamatsu Travel Guide (Shizuoka (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/hamamatsu/</link>
 	<description>Explore the culturally and naturally rich city of Hamamatsu with our travel guide. Discover top destinations, outdoor adventures, local cuisine, and more. Plan your itinerary with ease.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/east-holstein/lubeck/</link>
 	<description>Explore Lübeck with our comprehensive travel guide! Discover the best places to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-06-29T07:33:14+03:00</pubDate>
-</item><item>
-	<title>Kaysersberg Travel Guide (Grand Est/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/grand-est/kaysersberg/</link>
-	<description>Explore Kaysersberg with our detailed travel guide. Discover the best places to visit, hike and bike routes, must-try dishes and local culture.</description>
-	<pubDate>2024-06-29T07:00:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
