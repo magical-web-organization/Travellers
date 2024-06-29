@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T07:33:14+03:00</pubDate>
-        <lastBuildDate>2024-06-29T07:33:14+03:00</lastBuildDate>
+        <pubDate>2024-06-29T07:51:44+03:00</pubDate>
+        <lastBuildDate>2024-06-29T07:51:44+03:00</lastBuildDate>
 
         <item>
+	<title>Placentia Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/placentia/</link>
+	<description>Discover the top attractions, activities, accommodations, and culinary experiences in Placentia, Orange County, California.</description>
+	<pubDate>2024-06-29T07:51:44+03:00</pubDate>
+</item><item>
 	<title>Lübeck Travel Guide (East Holstein/Schleswig-Holstein/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/east-holstein/lubeck/</link>
 	<description>Explore Lübeck with our comprehensive travel guide! Discover the best places to visit, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/north-aegean-islands/agios-efstratios/</link>
 	<description>Get detailed information on Agios Efstratios, including places to visit, things to do, where to stay, food scene, cultural heritage, safety, health, transportation, and nearby destinations. Make your trip unforgettable.</description>
 	<pubDate>2024-06-29T03:10:12+03:00</pubDate>
-</item><item>
-	<title>West Allis Travel Guide (Southeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southeast-wisconsin/west-allis/</link>
-	<description>Explore the best of West Allis with this comprehensive travel guide, from outdoor adventures to museums and local cuisine.</description>
-	<pubDate>2024-06-29T02:49:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
