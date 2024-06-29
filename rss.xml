@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T07:51:44+03:00</pubDate>
-        <lastBuildDate>2024-06-29T07:51:44+03:00</lastBuildDate>
+        <pubDate>2024-06-29T08:15:37+03:00</pubDate>
+        <lastBuildDate>2024-06-29T08:15:37+03:00</lastBuildDate>
 
         <item>
+	<title>Pitlochry Travel Guide (Perth and Kinross/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/perth-and-kinross/pitlochry/</link>
+	<description>Discover the stunning natural beauty, rich cultural heritage, and vibrant food and drink scene of Pitlochry, Scotland with this comprehensive travel guide. Find out what to see, do, eat, and buy in Pitlochry and get tips on transportation, safety, and local customs.</description>
+	<pubDate>2024-06-29T08:15:37+03:00</pubDate>
+</item><item>
 	<title>Placentia Travel Guide (Inland Cities/Orange County/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/orange-county/inland-cities/placentia/</link>
 	<description>Discover the top attractions, activities, accommodations, and culinary experiences in Placentia, Orange County, California.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/northern-circuit/rishiri-rebun-sarobetsu-national-park/</link>
 	<description>Discover the natural beauty and cultural attractions of Rishiri-Rebun-Sarobetsu National Park in Hokkaido, Japan. Plan your trip with our comprehensive travel guide including things to do, where to stay, and more.</description>
 	<pubDate>2024-06-29T03:41:14+03:00</pubDate>
-</item><item>
-	<title>Agios Efstratios Travel Guide (North Aegean Islands/Greek Islands/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/greek-islands/north-aegean-islands/agios-efstratios/</link>
-	<description>Get detailed information on Agios Efstratios, including places to visit, things to do, where to stay, food scene, cultural heritage, safety, health, transportation, and nearby destinations. Make your trip unforgettable.</description>
-	<pubDate>2024-06-29T03:10:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
