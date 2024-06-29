@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T23:50:11+03:00</pubDate>
-        <lastBuildDate>2024-06-29T23:50:11+03:00</lastBuildDate>
+        <pubDate>2024-06-30T00:16:46+03:00</pubDate>
+        <lastBuildDate>2024-06-30T00:16:46+03:00</lastBuildDate>
 
         <item>
+	<title>Sulina Travel Guide (Northern Dobruja/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/northern-dobruja/sulina/</link>
+	<description>Plan your visit to Sulina, Romania with this comprehensive travel guide that covers everything from places to visit, best things to do, where to stay, local culture, and safety tips.</description>
+	<pubDate>2024-06-30T00:16:46+03:00</pubDate>
+</item><item>
 	<title>Circle Travel Guide (Interior Alaska/Alaska/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/interior-alaska/circle/</link>
 	<description>Discover the natural beauty of Circle, Alaska with our comprehensive travel guide. From hiking and biking routes to delicious local cuisine, this guide covers everything you need to know to plan your next Alaskan adventure.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/treasure-coast/port-st-lucie/</link>
 	<description>Discover the culturally important attractions, natural wonders, outdoor adventures, and scenic views that this North American city has to offer along with where to stay, what to eat, and transportation options. Find out the best time to visit and safety tips to make your journey safe and sound.</description>
 	<pubDate>2024-06-29T19:58:16+03:00</pubDate>
-</item><item>
-	<title>Jizan Travel Guide (Asir/Saudi Arabia/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/saudi-arabia/asir/jizan/</link>
-	<description>Discover the best places to visit, things to do, food and drink scene, and travel tips in Jizan, Saudi Arabia. Plan your next adventure in this city located in the Asir region, Middle East.</description>
-	<pubDate>2024-06-29T19:12:38+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
