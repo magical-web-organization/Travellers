@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T17:46:32+03:00</pubDate>
-        <lastBuildDate>2024-06-29T17:46:32+03:00</lastBuildDate>
+        <pubDate>2024-06-29T18:12:08+03:00</pubDate>
+        <lastBuildDate>2024-06-29T18:12:08+03:00</lastBuildDate>
 
         <item>
+	<title>Shelter Island Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/shelter-island/</link>
+	<description>Discover Shelter Island, New York's hidden gem with this comprehensive travel guide. Find the best places to visit, things to do, and places to stay with insider tips and advice.</description>
+	<pubDate>2024-06-29T18:12:08+03:00</pubDate>
+</item><item>
 	<title>Fort William Travel Guide (The Great Glen and Strathspey/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/the-great-glen-and-strathspey/fort-william/</link>
 	<description>Plan your trip to Fort William, Scotland with this comprehensive travel guide. Discover cultural attractions, natural wonders, hiking and biking routes, food and drink scene, accommodation options, local culture, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/mississippi/mississippi-hills/tupelo/</link>
 	<description>Discover the best places to visit, things to do, and local culture in Tupelo, Mississippi, with this comprehensive travel guide.</description>
 	<pubDate>2024-06-29T13:50:11+03:00</pubDate>
-</item><item>
-	<title>Chalcis Travel Guide (Evvia/Central Greece/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/central-greece/evvia/chalcis/</link>
-	<description>Explore the cultural and natural attractions, food and drink scene, accommodation, transportation, and other helpful tips for visiting the beautiful city of Chalcis in Greece.</description>
-	<pubDate>2024-06-29T13:05:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
