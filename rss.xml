@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-29T10:42:18+03:00</pubDate>
-        <lastBuildDate>2024-06-29T10:42:18+03:00</lastBuildDate>
+        <pubDate>2024-06-29T11:12:06+03:00</pubDate>
+        <lastBuildDate>2024-06-29T11:12:06+03:00</lastBuildDate>
 
         <item>
+	<title>Hamamatsu Travel Guide (Shizuoka (prefecture)/Chubu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/shizuoka-prefecture/hamamatsu/</link>
+	<description>Explore the culturally and naturally rich city of Hamamatsu with our travel guide. Discover top destinations, outdoor adventures, local cuisine, and more. Plan your itinerary with ease.</description>
+	<pubDate>2024-06-29T11:12:06+03:00</pubDate>
+</item><item>
 	<title>North Coast Travel Guide (KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/north-coast/</link>
 	<description>Plan your ultimate trip to North Coast with our comprehensive tour guide, covering everything from cultural attractions to outdoor adventures, food and drink scenes to transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/grand-est/kaysersberg/</link>
 	<description>Explore Kaysersberg with our detailed travel guide. Discover the best places to visit, hike and bike routes, must-try dishes and local culture.</description>
 	<pubDate>2024-06-29T07:00:22+03:00</pubDate>
-</item><item>
-	<title>New London Travel Guide (Mystic-Eastern/Connecticut/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/mystic-eastern/new-london/</link>
-	<description>Plan your trip and explore the culturally rich and natural attractions of New London, Connecticut. Learn about the best things to do, where to stay, what to eat, and how to get around in this comprehensive travel guide.</description>
-	<pubDate>2024-06-29T06:19:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
