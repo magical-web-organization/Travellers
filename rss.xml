@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T22:38:20+03:00</pubDate>
-        <lastBuildDate>2024-06-30T22:38:20+03:00</lastBuildDate>
+        <pubDate>2024-06-30T23:21:10+03:00</pubDate>
+        <lastBuildDate>2024-06-30T23:21:10+03:00</lastBuildDate>
 
         <item>
+	<title>Santana do Livramento Travel Guide (Southwest/Rio Grande do Sul/South/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/southwest/santana-do-livramento/</link>
+	<description>A comprehensive tour guide to Santana do Livramento, including places to visit, activities, hotels, and cultural insights to make the most of your visit.</description>
+	<pubDate>2024-06-30T23:21:10+03:00</pubDate>
+</item><item>
 	<title>Mirepoix/Tarn Travel Guide (Haute-Garonne/Occitanie/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/occitanie/haute-garonne/mirepoix-tarn/</link>
 	<description>Read on to explore the beautiful destination of Mirepoix/Tarn, which offers a plethora of cultural attractions, outdoor adventures, and delicious local cuisine.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/yamanouchi/</link>
 	<description>Explore the culturally rich and natural wonders of Yamanouchi, Japan, with our comprehensive travel guide. Discover hiking and biking routes, scenic views, cultural attractions, and more.</description>
 	<pubDate>2024-06-30T18:52:16+03:00</pubDate>
-</item><item>
-	<title>Tidaholm Travel Guide (Västergötland/Götaland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/vastergotland/tidaholm/</link>
-	<description>Discover the hidden gems of Tidaholm in Sweden with this comprehensive travel guide that covers the best places to visit, things to do, where to stay, and more. Start planning your trip now!</description>
-	<pubDate>2024-06-30T18:25:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
