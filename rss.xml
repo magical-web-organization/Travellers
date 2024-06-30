@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T21:08:09+03:00</pubDate>
-        <lastBuildDate>2024-06-30T21:08:09+03:00</lastBuildDate>
+        <pubDate>2024-06-30T21:57:54+03:00</pubDate>
+        <lastBuildDate>2024-06-30T21:57:54+03:00</lastBuildDate>
 
         <item>
+	<title>Uçhisar Travel Guide (Cappadocia/Central Anatolia/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/central-anatolia/cappadocia/uchisar/</link>
+	<description>Discover the best attractions, activities, food, and lodging options in Uçhisar, along with safety and logistics tips, for an unforgettable visit to this charming town in Cappadocia, Turkey.</description>
+	<pubDate>2024-06-30T21:57:54+03:00</pubDate>
+</item><item>
 	<title>Valleyview Travel Guide (Peace Country/Northern Alberta/Alberta/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/northern-alberta/peace-country/valleyview/</link>
 	<description>A comprehensive travel guide for Valleyview in Northern Alberta, Canada. Discover the best things to do, places to visit, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/north-hesse/bad-orb/</link>
 	<description>Discover the best of Bad Orb, a hidden gem in North Hesse, Germany. Explore cultural attractions, natural wonders, hiking/biking routes, must-try dishes, accommodations, and more. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-06-30T17:27:24+03:00</pubDate>
-</item><item>
-	<title>Negombo Travel Guide (Western Province/Sri Lanka/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/western-province/negombo/</link>
-	<description>Discover the best places to visit, things to do, where to eat and stay in Negombo Sri Lanka. Plan your next trip with our comprehensive travel guide.</description>
-	<pubDate>2024-06-30T16:49:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
