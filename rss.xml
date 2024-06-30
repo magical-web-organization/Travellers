@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T20:12:33+03:00</pubDate>
-        <lastBuildDate>2024-06-30T20:12:33+03:00</lastBuildDate>
+        <pubDate>2024-06-30T20:43:30+03:00</pubDate>
+        <lastBuildDate>2024-06-30T20:43:30+03:00</lastBuildDate>
 
         <item>
+	<title>Lisht Travel Guide (Lower Egypt/Egypt/North Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/lisht/</link>
+	<description>Explore the culturally rich and naturally beautiful city of Lisht, Egypt – a hidden gem of North Africa. Discover its must-see attractions, hiking and biking routes, delectable cuisine, and more.</description>
+	<pubDate>2024-06-30T20:43:30+03:00</pubDate>
+</item><item>
 	<title>Mercersburg Travel Guide (Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/mercersburg/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and where to stay in Mercersburg, Pennsylvania with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/pudong-new-area/</link>
 	<description>Discover the best attractions, activities, food, and accommodations in Pudong New Area in this comprehensive travel guide. With helpful tips and information, plan your next trip to this bustling area of Shanghai.</description>
 	<pubDate>2024-06-30T16:12:47+03:00</pubDate>
-</item><item>
-	<title>Soča Valley Travel Guide (Julian Alps/Slovenia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovenia/julian-alps/soca-valley/</link>
-	<description>Plan your trip to Soča Valley in Slovenia with this comprehensive travel guide. Discover the best things to do, places to visit, where to stay, and more.</description>
-	<pubDate>2024-06-30T15:52:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
