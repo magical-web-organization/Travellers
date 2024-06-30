@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T06:31:14+03:00</pubDate>
-        <lastBuildDate>2024-06-30T06:31:14+03:00</lastBuildDate>
+        <pubDate>2024-06-30T06:41:14+03:00</pubDate>
+        <lastBuildDate>2024-06-30T06:41:14+03:00</lastBuildDate>
 
         <item>
+	<title>Greater Columbia Travel Guide (South Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/greater-columbia/</link>
+	<description>A comprehensive travel guide for Greater Columbia, including a list of places to visit, things to do, hiking & biking routes, where to stay, what to buy, safety & health, and more.</description>
+	<pubDate>2024-06-30T06:41:14+03:00</pubDate>
+</item><item>
 	<title>Milton Travel Guide (West Florida/Florida Panhandle/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-panhandle/west-florida/milton/</link>
 	<description>Discover the best things to do, places to stay, and eat in Milton, Florida. Plan your trip with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/mahahual/</link>
 	<description>Plan your dream vacation to Mahahual with this comprehensive travel guide covering the best attractions, food scene, accommodations, local culture, and transport options.</description>
 	<pubDate>2024-06-30T02:03:55+03:00</pubDate>
-</item><item>
-	<title>Battersea Travel Guide (Seaway Region/Eastern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/seaway-region/battersea/</link>
-	<description>Battersea is a beautiful town located in Seaway Region, Ontario, Canada. This travel guide covers everything you need to know about exploring the town, including the best places to visit, where to stay, food and drink, local customs, and more.</description>
-	<pubDate>2024-06-30T01:56:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
