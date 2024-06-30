@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-01T00:14:16+03:00</pubDate>
-        <lastBuildDate>2024-07-01T00:14:16+03:00</lastBuildDate>
+        <pubDate>2024-07-01T00:52:22+03:00</pubDate>
+        <lastBuildDate>2024-07-01T00:52:22+03:00</lastBuildDate>
 
         <item>
+	<title>Syracuse Travel Guide (Northern Indiana/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/northern-indiana/syracuse/</link>
+	<description>Plan your trip to Syracuse with our comprehensive travel guide including a list of must-see attractions, best things to do, where to stay, and more.</description>
+	<pubDate>2024-07-01T00:52:22+03:00</pubDate>
+</item><item>
 	<title>Balatonfüred Travel Guide (Lake Balaton/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/lake-balaton/balatonfured/</link>
 	<description>Plan your trip to Balatonfüred with this comprehensive travel guide. Explore natural attractions, outdoor adventures, culturally important attractions, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/mercersburg/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and where to stay in Mercersburg, Pennsylvania with this comprehensive travel guide.</description>
 	<pubDate>2024-06-30T20:12:33+03:00</pubDate>
-</item><item>
-	<title>Geraldton Travel Guide (Northeastern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northeastern-ontario/geraldton/</link>
-	<description>Explore the natural beauty and rich culture of Geraldton, Ontario with this complete travel guide. From top attractions to hiking trails, food and drink scene to where to stay and more, plan your perfect Ontario adventure here.</description>
-	<pubDate>2024-06-30T19:46:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
