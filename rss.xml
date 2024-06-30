@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T19:10:01+03:00</pubDate>
-        <lastBuildDate>2024-06-30T19:10:01+03:00</lastBuildDate>
+        <pubDate>2024-06-30T19:46:36+03:00</pubDate>
+        <lastBuildDate>2024-06-30T19:46:36+03:00</lastBuildDate>
 
         <item>
+	<title>Geraldton Travel Guide (Northeastern Ontario/Northern Ontario/Ontario/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/northeastern-ontario/geraldton/</link>
+	<description>Explore the natural beauty and rich culture of Geraldton, Ontario with this complete travel guide. From top attractions to hiking trails, food and drink scene to where to stay and more, plan your perfect Ontario adventure here.</description>
+	<pubDate>2024-06-30T19:46:36+03:00</pubDate>
+</item><item>
 	<title>Kazanlak Travel Guide (Balkan Mountains/Bulgaria/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/bulgaria/balkan-mountains/kazanlak/</link>
 	<description>Plan your trip to Kazanlak with our comprehensive travel guide. Discover the best things to do, places to visit, where to stay, what to eat, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/surakarta/sukoharjo/</link>
 	<description>Discover the best places to visit, eat, and stay in Sukoharjo, Central Java. We provide you with a complete guide to plan your trip, including transportation options and safety tips.</description>
 	<pubDate>2024-06-30T15:07:05+03:00</pubDate>
-</item><item>
-	<title>New Market Travel Guide (Shenandoah Valley/Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/shenandoah-valley/new-market/</link>
-	<description>Discover everything New Market has to offer, including its history, culture, outdoor adventures, food, and more. Plan your visit using our comprehensive guide.</description>
-	<pubDate>2024-06-30T14:44:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
