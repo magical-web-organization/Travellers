@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T20:43:30+03:00</pubDate>
-        <lastBuildDate>2024-06-30T20:43:30+03:00</lastBuildDate>
+        <pubDate>2024-06-30T21:08:09+03:00</pubDate>
+        <lastBuildDate>2024-06-30T21:08:09+03:00</lastBuildDate>
 
         <item>
+	<title>Valleyview Travel Guide (Peace Country/Northern Alberta/Alberta/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/northern-alberta/peace-country/valleyview/</link>
+	<description>A comprehensive travel guide for Valleyview in Northern Alberta, Canada. Discover the best things to do, places to visit, where to stay, and much more.</description>
+	<pubDate>2024-06-30T21:08:09+03:00</pubDate>
+</item><item>
 	<title>Lisht Travel Guide (Lower Egypt/Egypt/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/egypt/lower-egypt/lisht/</link>
 	<description>Explore the culturally rich and naturally beautiful city of Lisht, Egypt – a hidden gem of North Africa. Discover its must-see attractions, hiking and biking routes, delectable cuisine, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/western-province/negombo/</link>
 	<description>Discover the best places to visit, things to do, where to eat and stay in Negombo Sri Lanka. Plan your next trip with our comprehensive travel guide.</description>
 	<pubDate>2024-06-30T16:49:15+03:00</pubDate>
-</item><item>
-	<title>Pudong New Area Travel Guide (Shanghai/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/pudong-new-area/</link>
-	<description>Discover the best attractions, activities, food, and accommodations in Pudong New Area in this comprehensive travel guide. With helpful tips and information, plan your next trip to this bustling area of Shanghai.</description>
-	<pubDate>2024-06-30T16:12:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
