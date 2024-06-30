@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T17:47:14+03:00</pubDate>
-        <lastBuildDate>2024-06-30T17:47:14+03:00</lastBuildDate>
+        <pubDate>2024-06-30T18:25:26+03:00</pubDate>
+        <lastBuildDate>2024-06-30T18:25:26+03:00</lastBuildDate>
 
         <item>
+	<title>Tidaholm Travel Guide (Västergötland/Götaland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/vastergotland/tidaholm/</link>
+	<description>Discover the hidden gems of Tidaholm in Sweden with this comprehensive travel guide that covers the best places to visit, things to do, where to stay, and more. Start planning your trip now!</description>
+	<pubDate>2024-06-30T18:25:26+03:00</pubDate>
+</item><item>
 	<title>Shima Travel Guide (Mie/Kansai/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/mie/shima/</link>
 	<description>A comprehensive travel guide to Shima, including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture and customs, and logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/marlborough/renwick/</link>
 	<description>Plan your trip to Renwick, Marlborough, New Zealand with this comprehensive travel guide. Find places to visit, must-try dishes, where to sty, and more.</description>
 	<pubDate>2024-06-30T13:44:05+03:00</pubDate>
-</item><item>
-	<title>Kilifi Travel Guide (Coastal Kenya/Kenya/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/kilifi/</link>
-	<description>Plan your ultimate vacation in Kilifi, Kenya. Explore its natural attractions, cultural heritages, local cuisines, and much more.</description>
-	<pubDate>2024-06-30T13:22:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
