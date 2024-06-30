@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T08:22:46+03:00</pubDate>
-        <lastBuildDate>2024-06-30T08:22:46+03:00</lastBuildDate>
+        <pubDate>2024-06-30T08:56:55+03:00</pubDate>
+        <lastBuildDate>2024-06-30T08:56:55+03:00</lastBuildDate>
 
         <item>
+	<title>Gamla stan Travel Guide (Stockholm/Stockholm County/Svealand/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/stockholm-county/stockholm/gamla-stan/</link>
+	<description>Discover the best things to do and places to visit in Gamla stan, Stockholm's Old Town. From cultural attractions to scenic views, hotels to food, this guide covers everything you need to know for your trip.</description>
+	<pubDate>2024-06-30T08:56:55+03:00</pubDate>
+</item><item>
 	<title>Ilorin Travel Guide (Kwara State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/ilorin/</link>
 	<description>Discover the best things to do in Ilorin, Nigeria. This comprehensive travel guide includes a list of places to visit, hiking/biking routes, where to stay, what to eat and buy, safety and health tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/lakes-region/moultonboro/</link>
 	<description>Explore the natural beauty, cultural attractions, and local customs of Moultonboro with our comprehensive travel guide. Discover the best things to do, see, and eat in this stunning Lakes Region destination.</description>
 	<pubDate>2024-06-30T04:06:33+03:00</pubDate>
-</item><item>
-	<title>Zonkwa Travel Guide (Kaduna State/North West Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-west-nigeria/kaduna-state/zonkwa/</link>
-	<description>Discover the best things to do, places to visit, and where to stay in Zonkwa, Kaduna State, Nigeria. Read our comprehensive travel guide now.</description>
-	<pubDate>2024-06-30T03:45:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
