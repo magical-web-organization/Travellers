@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-06-30T09:33:54+03:00</pubDate>
-        <lastBuildDate>2024-06-30T09:33:54+03:00</lastBuildDate>
+        <pubDate>2024-06-30T10:26:25+03:00</pubDate>
+        <lastBuildDate>2024-06-30T10:26:25+03:00</lastBuildDate>
 
         <item>
+	<title>Seligman Travel Guide (Northern Arizona/Arizona/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/northern-arizona/seligman/</link>
+	<description>Explore Seligman, a charming town in Northern Arizona, with our comprehensive travel guide. Discover the top things to do, places to visit, where to stay, and more.</description>
+	<pubDate>2024-06-30T10:26:25+03:00</pubDate>
+</item><item>
 	<title>Kingston upon Hull Travel Guide (East Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/east-yorkshire/kingston-upon-hull/</link>
 	<description>Discover the best things to do, places to visit, and tips for traveling to Kingston upon Hull. Plan your perfect trip to this charming city in East Yorkshire with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/southwest-wisconsin/baraboo-river-valley/camp-douglas/</link>
 	<description>Explore the beautiful Camp Douglas in Southwest Wisconsin with this comprehensive travel guide. Learn about the best places to visit, things to do, eat, and buy, local culture and customs, safety and health, and how to get there and around.</description>
 	<pubDate>2024-06-30T05:34:46+03:00</pubDate>
-</item><item>
-	<title>Boston Bar Travel Guide (Thompson-Nicola/Thompson-Okanagan/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/thompson-nicola/boston-bar/</link>
-	<description>Discover the best things to do in Boston Bar, from hiking and biking to exploring museums and historical landmarks. Plan your trip today!</description>
-	<pubDate>2024-06-30T05:26:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
