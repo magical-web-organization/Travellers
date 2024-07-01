@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-01T13:14:04+03:00</pubDate>
-        <lastBuildDate>2024-07-01T13:14:04+03:00</lastBuildDate>
+        <pubDate>2024-07-01T13:41:18+03:00</pubDate>
+        <lastBuildDate>2024-07-01T13:41:18+03:00</lastBuildDate>
 
         <item>
+	<title>Coral Springs Travel Guide (Broward County/Greater Miami/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/broward-county/coral-springs/</link>
+	<description>Discover Coral Springs, Florida with this comprehensive tour guide, including a list of places to visit, hiking/biking routes, food and drink scene, and transportation options.</description>
+	<pubDate>2024-07-01T13:41:18+03:00</pubDate>
+</item><item>
 	<title>Albrandswaard Travel Guide (Rotterdam-The Hague Metropolitan Region/South Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/south-holland/rotterdam-the-hague-metropolitan-region/albrandswaard/</link>
 	<description>Your ultimate travel guide to Albrandswaard, Netherlands. Explore the culturally significant attractions, natural wonders, hiking and biking routes, best things to do, food and drink scene, where to stay, what to buy, local culture and customs, safety and health, getting around, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/ocean-isle-beach/</link>
 	<description>Your comprehensive guide to Ocean Isle Beach, including places to visit, hiking/biking routes, food and drink scene, where to stay, local culture and customs, and transportation options.</description>
 	<pubDate>2024-07-01T09:27:21+03:00</pubDate>
-</item><item>
-	<title>St George Travel Guide (Darling Downs/Queensland/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/queensland/darling-downs/st-george/</link>
-	<description>Explore St George, Queensland, Australia's beautiful natural attractions, delicious cuisine, rich culture and heritage with the best travel guide. Get travel tips, itineraries, places to visit, where to stay, and more!</description>
-	<pubDate>2024-07-01T08:39:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
