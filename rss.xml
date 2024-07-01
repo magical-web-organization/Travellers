@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-01T18:44:55+03:00</pubDate>
-        <lastBuildDate>2024-07-01T18:44:55+03:00</lastBuildDate>
+        <pubDate>2024-07-01T19:09:37+03:00</pubDate>
+        <lastBuildDate>2024-07-01T19:09:37+03:00</lastBuildDate>
 
         <item>
+	<title>Bryn Mawr Travel Guide (Haverford Township/Delaware County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/delaware-county/haverford-township/bryn-mawr/</link>
+	<description>Planning a trip to Bryn Mawr, Pennsylvania? Check out our travel guide for tips on where to stay, what to do, and how to get there.</description>
+	<pubDate>2024-07-01T19:09:37+03:00</pubDate>
+</item><item>
 	<title>Douglas Travel Guide (Isle of Man/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/isle-of-man/douglas/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Douglas Isle of Man with our travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kannur-district/kannapuram/</link>
 	<description>Read our complete travel guide to Kannapuram and discover the top attractions, hiking and biking routes, best things to do, food and drink scene, where to stay, and much more. Plan your Southern India journey with us!</description>
 	<pubDate>2024-07-01T14:33:55+03:00</pubDate>
-</item><item>
-	<title>The Forks Travel Guide (Kennebec and Moose River Valleys/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/kennebec-and-moose-river-valleys/the-forks/</link>
-	<description>Explore The Forks in Maine with our comprehensive travel guide. Learn about cultural attractions, outdoor adventures, hiking and biking routes, food and drink scene, where to stay, and much more.</description>
-	<pubDate>2024-07-01T14:19:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
