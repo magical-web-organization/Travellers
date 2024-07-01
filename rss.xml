@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-01T10:10:22+03:00</pubDate>
-        <lastBuildDate>2024-07-01T10:10:22+03:00</lastBuildDate>
+        <pubDate>2024-07-01T11:01:43+03:00</pubDate>
+        <lastBuildDate>2024-07-01T11:01:43+03:00</lastBuildDate>
 
         <item>
+	<title>Huánuco Travel Guide (Central Sierra/Peru/South America)</title>
+	<link>https://travellers.wiki/en/south-america/peru/central-sierra/huanuco/</link>
+	<description>Discover the cultural, natural, and adventure attractions of Huánuco, Peru, as well as tips for hotels, transportation, and local customs.</description>
+	<pubDate>2024-07-01T11:01:43+03:00</pubDate>
+</item><item>
 	<title>Kirthar National Park Travel Guide (Southern Sindh/Sindh/Pakistan/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/sindh/southern-sindh/kirthar-national-park/</link>
 	<description>Explore the culturally vibrant and naturally rich Kirthar National Park with our comprehensive travel guide featuring must-visit places, food scene, stay options, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/westlake/</link>
 	<description>Discover the best places to visit, things to do, and local culture of Westlake, Ohio. Our travel guide covers the natural attractions, hiking and biking routes, must-try dishes, where to stay, safety tips, and transport options in Westlake.</description>
 	<pubDate>2024-07-01T06:06:44+03:00</pubDate>
-</item><item>
-	<title>Line Islands Travel Guide (Kiribati/Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/kiribati/line-islands/</link>
-	<description>Discover the top attractions, activities, accommodations, and tips for visiting Line Islands.</description>
-	<pubDate>2024-07-01T05:53:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
