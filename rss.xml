@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-01T15:11:33+03:00</pubDate>
-        <lastBuildDate>2024-07-01T15:11:33+03:00</lastBuildDate>
+        <pubDate>2024-07-01T15:51:57+03:00</pubDate>
+        <lastBuildDate>2024-07-01T15:51:57+03:00</lastBuildDate>
 
         <item>
+	<title>Odaesan National Park Travel Guide (Gangwon/South Korea/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gangwon/odaesan-national-park/</link>
+	<description>Explore Odaesan National Park in South Korea with our comprehensive travel guide. Learn about the best things to do, places to visit, food and drink scene, local culture, transportation, and more.</description>
+	<pubDate>2024-07-01T15:51:57+03:00</pubDate>
+</item><item>
 	<title>Lake Iseo Travel Guide (Lombardian Alps and Prealps/Lombardy/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/lombardian-alps-and-prealps/lake-iseo/</link>
 	<description>Explore the Lombardy region in Northwest Italy and discover the beauty of Lake Iseo. From natural attractions to food and drink scenes, hiking trails to cultural hotspots, find everything you need to know in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/cuba/central-cuba/camaguey/</link>
 	<description>Explore the culturally rich city of Camagüey in Cuba with our comprehensive travel guide. Discover the top attractions, best places to stay and eat, local culture and customs, transportation options, and nearby destinations.</description>
 	<pubDate>2024-07-01T11:11:28+03:00</pubDate>
-</item><item>
-	<title>Huánuco Travel Guide (Central Sierra/Peru/South America)</title>
-	<link>https://travellers.wiki/en/south-america/peru/central-sierra/huanuco/</link>
-	<description>Discover the cultural, natural, and adventure attractions of Huánuco, Peru, as well as tips for hotels, transportation, and local customs.</description>
-	<pubDate>2024-07-01T11:01:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
