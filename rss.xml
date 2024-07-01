@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-01T15:51:57+03:00</pubDate>
-        <lastBuildDate>2024-07-01T15:51:57+03:00</lastBuildDate>
+        <pubDate>2024-07-01T16:13:32+03:00</pubDate>
+        <lastBuildDate>2024-07-01T16:13:32+03:00</lastBuildDate>
 
         <item>
+	<title>New Plymouth Travel Guide (Taranaki/North Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/taranaki/new-plymouth/</link>
+	<description>Discover the best places to visit, natural attractions, local culture, and tips for your trip to New Plymouth, Taranaki, New Zealand.</description>
+	<pubDate>2024-07-01T16:13:32+03:00</pubDate>
+</item><item>
 	<title>Odaesan National Park Travel Guide (Gangwon/South Korea/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/gangwon/odaesan-national-park/</link>
 	<description>Explore Odaesan National Park in South Korea with our comprehensive travel guide. Learn about the best things to do, places to visit, food and drink scene, local culture, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/kumaon/bigul/</link>
 	<description>Explore the culturally rich and naturally beautiful Bigul in Uttarakhand. Discover the best places to visit, hike, bike, eat, stay, and more in our comprehensive tour guide for Bigul.</description>
 	<pubDate>2024-07-01T12:01:53+03:00</pubDate>
-</item><item>
-	<title>Camagüey Travel Guide (Central Cuba/Cuba/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/cuba/central-cuba/camaguey/</link>
-	<description>Explore the culturally rich city of Camagüey in Cuba with our comprehensive travel guide. Discover the top attractions, best places to stay and eat, local culture and customs, transportation options, and nearby destinations.</description>
-	<pubDate>2024-07-01T11:11:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
