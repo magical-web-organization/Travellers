@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T01:46:43+03:00</pubDate>
-        <lastBuildDate>2024-07-02T01:46:43+03:00</lastBuildDate>
+        <pubDate>2024-07-02T02:27:51+03:00</pubDate>
+        <lastBuildDate>2024-07-02T02:27:51+03:00</lastBuildDate>
 
         <item>
+	<title>Miami Gardens Travel Guide (Miami-Dade County/Greater Miami/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/greater-miami/miami-dade-county/miami-gardens/</link>
+	<description>Discover the hidden gems and top attractions of Miami Gardens with our comprehensive travel guide. From museums to outdoor adventures, we've got you covered.</description>
+	<pubDate>2024-07-02T02:27:51+03:00</pubDate>
+</item><item>
 	<title>Pretoria Travel Guide (Tshwane/Gauteng/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/gauteng/tshwane/pretoria/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Pretoria, South Africa. Plan your trip with our guide today.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/stirlingshire-and-clackmannanshire/falkirk/</link>
 	<description>Discover the best things to do and see in Falkirk, including cultural attractions, natural wonders, hiking/biking routes, food scene, accommodations, and more.</description>
 	<pubDate>2024-07-01T21:38:49+03:00</pubDate>
-</item><item>
-	<title>Oqaatsut Travel Guide (Western Greenland/Greenland/North America)</title>
-	<link>https://travellers.wiki/en/north-america/greenland/western-greenland/oqaatsut/</link>
-	<description>Plan your trip to Oqaatsut with our comprehensive travel guide that covers everything from must-see attractions to where to stay and what to buy.</description>
-	<pubDate>2024-07-01T21:28:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
