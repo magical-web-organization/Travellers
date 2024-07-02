@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T02:12:50+03:00</pubDate>
-        <lastBuildDate>2024-07-03T02:12:50+03:00</lastBuildDate>
+        <pubDate>2024-07-03T02:54:26+03:00</pubDate>
+        <lastBuildDate>2024-07-03T02:54:26+03:00</lastBuildDate>
 
         <item>
+	<title>Vredefort Travel Guide (Free State/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/free-state/vredefort/</link>
+	<description>Plan your trip to Vredefort, South Africa with this comprehensive travel guide featuring top attractions, hiking/biking routes, itinerary suggestions, food and drink recommendations, where to stay, local culture and customs, safety and health tips, and transportation options.</description>
+	<pubDate>2024-07-03T02:54:26+03:00</pubDate>
+</item><item>
 	<title>Baliwag Travel Guide (Bulacan/Central Luzon/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/central-luzon/bulacan/baliwag/</link>
 	<description>Plan your next trip to Baliwag with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, local food and culture, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/inland/la-mesa/</link>
 	<description>Discover the best places to visit, things to do, and where to eat in La Mesa, California. Plan your trip to this Southern California gem with our comprehensive travel guide.</description>
 	<pubDate>2024-07-02T22:24:56+03:00</pubDate>
-</item><item>
-	<title>Cheboksary Travel Guide (Chuvashia/Volga Region/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/chuvashia/cheboksary/</link>
-	<description>Plan your trip to Cheboksary with our comprehensive guide featuring must-see attractions, hiking/biking routes, local food and drink scene, cultural insights, safety tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-07-02T21:55:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
