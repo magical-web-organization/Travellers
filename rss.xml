@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T14:10:37+03:00</pubDate>
-        <lastBuildDate>2024-07-02T14:10:37+03:00</lastBuildDate>
+        <pubDate>2024-07-02T14:42:12+03:00</pubDate>
+        <lastBuildDate>2024-07-02T14:42:12+03:00</lastBuildDate>
 
         <item>
+	<title>Northern Mariana Islands Travel Guide (Micronesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/micronesia/northern-mariana-islands/</link>
+	<description>Plan your perfect holiday to Northern Mariana Islands! Discover its history, culture, food, outdoor activities, best time to visit, and much more.</description>
+	<pubDate>2024-07-02T14:42:12+03:00</pubDate>
+</item><item>
 	<title>Largs Travel Guide (Ayrshire/South West/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/south-west/ayrshire/largs/</link>
 	<description>Explore the beauty of Largs, Scotland with this comprehensive tour guide. Discover the best places to visit, activities, food, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/metropolitan-alabama/homewood/</link>
 	<description>Discover the best things to do in Homewood, Alabama with our comprehensive travel guide. From hiking and biking routes to local eats and cultural attractions, we've got you covered.</description>
 	<pubDate>2024-07-02T10:07:21+03:00</pubDate>
-</item><item>
-	<title>Beragala Travel Guide (Uva/Sri Lanka/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/uva/beragala/</link>
-	<description>Plan your trip to Beragala, Sri Lanka with this comprehensive travel guide featuring must-see destinations, outdoor activities, cultural attractions, best places to eat and drink, where to stay, and more.</description>
-	<pubDate>2024-07-02T09:48:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
