@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T09:48:31+03:00</pubDate>
-        <lastBuildDate>2024-07-02T09:48:31+03:00</lastBuildDate>
+        <pubDate>2024-07-02T10:07:21+03:00</pubDate>
+        <lastBuildDate>2024-07-02T10:07:21+03:00</lastBuildDate>
 
         <item>
+	<title>Homewood Travel Guide (Metropolitan Alabama/Alabama/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/metropolitan-alabama/homewood/</link>
+	<description>Discover the best things to do in Homewood, Alabama with our comprehensive travel guide. From hiking and biking routes to local eats and cultural attractions, we've got you covered.</description>
+	<pubDate>2024-07-02T10:07:21+03:00</pubDate>
+</item><item>
 	<title>Beragala Travel Guide (Uva/Sri Lanka/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/uva/beragala/</link>
 	<description>Plan your trip to Beragala, Sri Lanka with this comprehensive travel guide featuring must-see destinations, outdoor activities, cultural attractions, best places to eat and drink, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/northern-illinois/illinois-driftless-area/galena/</link>
 	<description>Explore the culturally and naturally rich Galena, Illinois with our comprehensive travel guide. Find the best things to do, places to visit, food and drink scene, local culture, safety guidelines, and much more in Galena.</description>
 	<pubDate>2024-07-02T05:45:15+03:00</pubDate>
-</item><item>
-	<title>O'Fallon Travel Guide (St. Louis Metro East/Illinois/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/st-louis-metro-east/o-fallon/</link>
-	<description>Plan your trip to O'Fallon, Illinois with this comprehensive travel guide. Discover the top attractions, things to do, where to stay, what to eat and drink, and more!</description>
-	<pubDate>2024-07-02T05:04:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
