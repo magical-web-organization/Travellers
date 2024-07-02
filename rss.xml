@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T22:24:56+03:00</pubDate>
-        <lastBuildDate>2024-07-02T22:24:56+03:00</lastBuildDate>
+        <pubDate>2024-07-02T23:03:05+03:00</pubDate>
+        <lastBuildDate>2024-07-02T23:03:05+03:00</lastBuildDate>
 
         <item>
+	<title>Sydney Olympic Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/sydney-olympic-park/</link>
+	<description>Explore the beauty of Sydney Olympic Park with this ultimate travel guide. Discover its cultural and natural attractions, hiking and biking trails, must-do activities and tours, food and drink scene, where to stay, and getting around options.</description>
+	<pubDate>2024-07-02T23:03:05+03:00</pubDate>
+</item><item>
 	<title>La Mesa Travel Guide (Inland/San Diego County/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/inland/la-mesa/</link>
 	<description>Discover the best places to visit, things to do, and where to eat in La Mesa, California. Plan your trip to this Southern California gem with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/israel/negev/sde-boker/</link>
 	<description>Discover off-the-beaten-path Sde Boker, its ancient history, lush oases, stunning views, and exciting adventures. Plan your trip with our ultimate Sde Boker travel guide.</description>
 	<pubDate>2024-07-02T18:25:41+03:00</pubDate>
-</item><item>
-	<title>Tengboche Travel Guide (Khumbu/Himalayas/Nepal/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/nepal/himalayas/khumbu/tengboche/</link>
-	<description>Discover the best places to visit, things to do, food, and cultural experiences in Tengboche, Nepal with our comprehensive travel guide.</description>
-	<pubDate>2024-07-02T17:41:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
