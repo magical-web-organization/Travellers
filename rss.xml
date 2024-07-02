@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T08:55:34+03:00</pubDate>
-        <lastBuildDate>2024-07-02T08:55:34+03:00</lastBuildDate>
+        <pubDate>2024-07-02T09:07:13+03:00</pubDate>
+        <lastBuildDate>2024-07-02T09:07:13+03:00</lastBuildDate>
 
         <item>
+	<title>Mount Carmel Junction Travel Guide (Canyon Country/Utah/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/canyon-country/mount-carmel-junction/</link>
+	<description>Discover the beauty and adventure of Mount Carmel Junction in Canyon Country, Utah, with our comprehensive travel guide. Find out where to go, what to do, and how to get there.</description>
+	<pubDate>2024-07-02T09:07:13+03:00</pubDate>
+</item><item>
 	<title>Suifenhe Travel Guide (Heilongjiang/Northeast China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/suifenhe/</link>
 	<description>Plan your trip to Suifenhe with our comprehensive travel guide! You'll find all the information you need about top attractions, hiking trails, local cuisine, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/southwestern-colorado/durango/</link>
 	<description>Explore the best things to do, see, eat, and experience in Durango, Colorado, USA with this comprehensive travel guide.</description>
 	<pubDate>2024-07-02T04:59:53+03:00</pubDate>
-</item><item>
-	<title>Ushguli Travel Guide (Northwestern Georgia/Georgia (country)/Caucasus/Asia)</title>
-	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/northwestern-georgia/ushguli/</link>
-	<description>Plan your trip to Ushguli with our comprehensive tour guide. Discover the must-visit places, hiking/biking routes, food and drink scene, cultural customs, and transportation options in this charming mountain village.</description>
-	<pubDate>2024-07-02T04:09:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
