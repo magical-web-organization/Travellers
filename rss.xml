@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T08:21:19+03:00</pubDate>
-        <lastBuildDate>2024-07-02T08:21:19+03:00</lastBuildDate>
+        <pubDate>2024-07-02T08:55:34+03:00</pubDate>
+        <lastBuildDate>2024-07-02T08:55:34+03:00</lastBuildDate>
 
         <item>
+	<title>Suifenhe Travel Guide (Heilongjiang/Northeast China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/suifenhe/</link>
+	<description>Plan your trip to Suifenhe with our comprehensive travel guide! You'll find all the information you need about top attractions, hiking trails, local cuisine, and more.</description>
+	<pubDate>2024-07-02T08:55:34+03:00</pubDate>
+</item><item>
 	<title>Aamby Valley City Travel Guide (South Maharashtra/Maharashtra/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/south-maharashtra/aamby-valley-city/</link>
 	<description>Plan your trip to Aamby Valley City with our comprehensive travel guide, including a list of places to visit, must-try dishes, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/northwestern-georgia/ushguli/</link>
 	<description>Plan your trip to Ushguli with our comprehensive tour guide. Discover the must-visit places, hiking/biking routes, food and drink scene, cultural customs, and transportation options in this charming mountain village.</description>
 	<pubDate>2024-07-02T04:09:29+03:00</pubDate>
-</item><item>
-	<title>Paraná Plateau Travel Guide (Paraguay/South America)</title>
-	<link>https://travellers.wiki/en/south-america/paraguay/parana-plateau/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Paraná Plateau, Paraguay with our comprehensive travel guide.</description>
-	<pubDate>2024-07-02T03:56:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
