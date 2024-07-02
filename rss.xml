@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T13:25:41+03:00</pubDate>
-        <lastBuildDate>2024-07-02T13:25:41+03:00</lastBuildDate>
+        <pubDate>2024-07-02T13:39:18+03:00</pubDate>
+        <lastBuildDate>2024-07-02T13:39:18+03:00</lastBuildDate>
 
         <item>
+	<title>Altoona Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/altoona/</link>
+	<description>Discover the beauty of Altoona through this comprehensive travel guide. From natural attractions to cultural landmarks, this guide covers everything you need to know to plan your next trip to Altoona.</description>
+	<pubDate>2024-07-02T13:39:18+03:00</pubDate>
+</item><item>
 	<title>Altenkirchen (Mecklenburg-Vorpommern) Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/altenkirchen-mecklenburg-vorpommern/</link>
 	<description>Discover the top tourist attractions, activities, food, culture, accommodations, transportation, and safety tips for Altenkirchen, Mecklenburg-Vorpommern with this ultimate travel guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/canyon-country/mount-carmel-junction/</link>
 	<description>Discover the beauty and adventure of Mount Carmel Junction in Canyon Country, Utah, with our comprehensive travel guide. Find out where to go, what to do, and how to get there.</description>
 	<pubDate>2024-07-02T09:07:13+03:00</pubDate>
-</item><item>
-	<title>Suifenhe Travel Guide (Heilongjiang/Northeast China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/heilongjiang/suifenhe/</link>
-	<description>Plan your trip to Suifenhe with our comprehensive travel guide! You'll find all the information you need about top attractions, hiking trails, local cuisine, and more.</description>
-	<pubDate>2024-07-02T08:55:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
