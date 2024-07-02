@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T17:41:17+03:00</pubDate>
-        <lastBuildDate>2024-07-02T17:41:17+03:00</lastBuildDate>
+        <pubDate>2024-07-02T18:25:41+03:00</pubDate>
+        <lastBuildDate>2024-07-02T18:25:41+03:00</lastBuildDate>
 
         <item>
+	<title>Sde Boker Travel Guide (Negev/Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/negev/sde-boker/</link>
+	<description>Discover off-the-beaten-path Sde Boker, its ancient history, lush oases, stunning views, and exciting adventures. Plan your trip with our ultimate Sde Boker travel guide.</description>
+	<pubDate>2024-07-02T18:25:41+03:00</pubDate>
+</item><item>
 	<title>Tengboche Travel Guide (Khumbu/Himalayas/Nepal/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/nepal/himalayas/khumbu/tengboche/</link>
 	<description>Discover the best places to visit, things to do, food, and cultural experiences in Tengboche, Nepal with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/altoona/</link>
 	<description>Discover the beauty of Altoona through this comprehensive travel guide. From natural attractions to cultural landmarks, this guide covers everything you need to know to plan your next trip to Altoona.</description>
 	<pubDate>2024-07-02T13:39:18+03:00</pubDate>
-</item><item>
-	<title>Altenkirchen (Mecklenburg-Vorpommern) Travel Guide (Rügen/Mecklenburg-Western Pomerania/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/mecklenburg-western-pomerania/rugen/altenkirchen-mecklenburg-vorpommern/</link>
-	<description>Discover the top tourist attractions, activities, food, culture, accommodations, transportation, and safety tips for Altenkirchen, Mecklenburg-Vorpommern with this ultimate travel guide!</description>
-	<pubDate>2024-07-02T13:25:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
