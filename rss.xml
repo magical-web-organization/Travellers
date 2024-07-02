@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T02:46:20+03:00</pubDate>
-        <lastBuildDate>2024-07-02T02:46:20+03:00</lastBuildDate>
+        <pubDate>2024-07-02T03:29:41+03:00</pubDate>
+        <lastBuildDate>2024-07-02T03:29:41+03:00</lastBuildDate>
 
         <item>
+	<title>Hartford Travel Guide (Western Coal Fields/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-coal-fields/hartford/</link>
+	<description>Plan your visit to Hartford, Kentucky with this helpful travel guide. Discover the best places to visit, eat, and stay, along with helpful tips and recommendations.</description>
+	<pubDate>2024-07-02T03:29:41+03:00</pubDate>
+</item><item>
 	<title>Birdsville Travel Guide (Outback Queensland/Queensland/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/queensland/outback-queensland/birdsville/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and must-eat dishes in Birdsville, Outback Queensland. Plan your next adventure now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/bernese-highlands/gimmelwald/</link>
 	<description>Discover the natural beauty, cultural landmarks, food scene, and local customs of Gimmelwald in this comprehensive travel guide.</description>
 	<pubDate>2024-07-01T22:55:27+03:00</pubDate>
-</item><item>
-	<title>Vukovar Travel Guide (Slavonia/Croatia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/croatia/slavonia/vukovar/</link>
-	<description>Explore the culturally important attractions, natural wonders, and outdoor adventures of Vukovar, Croatia with our comprehensive tour guide. Plan your itinerary and learn about the local culture and customs while enjoying the best food, shopping, and accommodations.</description>
-	<pubDate>2024-07-01T22:25:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
