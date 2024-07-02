@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-02T05:04:59+03:00</pubDate>
-        <lastBuildDate>2024-07-02T05:04:59+03:00</lastBuildDate>
+        <pubDate>2024-07-02T05:45:15+03:00</pubDate>
+        <lastBuildDate>2024-07-02T05:45:15+03:00</lastBuildDate>
 
         <item>
+	<title>Galena Travel Guide (Illinois Driftless Area/Northern Illinois/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/northern-illinois/illinois-driftless-area/galena/</link>
+	<description>Explore the culturally and naturally rich Galena, Illinois with our comprehensive travel guide. Find the best things to do, places to visit, food and drink scene, local culture, safety guidelines, and much more in Galena.</description>
+	<pubDate>2024-07-02T05:45:15+03:00</pubDate>
+</item><item>
 	<title>O'Fallon Travel Guide (St. Louis Metro East/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/st-louis-metro-east/o-fallon/</link>
 	<description>Plan your trip to O'Fallon, Illinois with this comprehensive travel guide. Discover the top attractions, things to do, where to stay, what to eat and drink, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/skylands/morris-county/chatham/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Chatham, New Jersey. Find out about the local culture, customs, and safety tips in this comprehensive travel guide.</description>
 	<pubDate>2024-07-02T01:17:26+03:00</pubDate>
-</item><item>
-	<title>Bridgeport (Washington) Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/bridgeport-washington/</link>
-	<description>Discover the best things to do, places to visit, and food to try in Bridgeport (Washington) with our comprehensive travel guide. Plan your trip today!</description>
-	<pubDate>2024-07-02T00:48:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
