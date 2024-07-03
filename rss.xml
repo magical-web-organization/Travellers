@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T18:11:08+03:00</pubDate>
-        <lastBuildDate>2024-07-03T18:11:08+03:00</lastBuildDate>
+        <pubDate>2024-07-03T18:57:54+03:00</pubDate>
+        <lastBuildDate>2024-07-03T18:57:54+03:00</lastBuildDate>
 
         <item>
+	<title>Joshua Tree Travel Guide (Desert/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/joshua-tree/</link>
+	<description>Discover the beauty of Joshua Tree with our helpful and informative tour guide. From must-see attractions to hiking routes and food scene, we've got you covered.</description>
+	<pubDate>2024-07-03T18:57:54+03:00</pubDate>
+</item><item>
 	<title>Pearl Islands Travel Guide (Central Panama/Panama/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/panama/central-panama/pearl-islands/</link>
 	<description>Read this travel guide to Pearl Islands to explore the culturally important attractions, natural attractions, things to do, food and drink scene, where to stay, local culture, safety and health, and logistics of Pearl Islands.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/tasmania/eastern-tasmania/mount-william-national-park/</link>
 	<description>Discover the natural and cultural attractions of Mount William National Park in Tasmania, including hiking and biking trails, outdoor adventures and scenic views, local food and drink scene, accommodations, and nearby destinations to visit.</description>
 	<pubDate>2024-07-03T14:33:08+03:00</pubDate>
-</item><item>
-	<title>Rockaway Beach Travel Guide (Northern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/northern-oregon-coast/rockaway-beach/</link>
-	<description>Read this comprehensive travel guide to Rockaway Beach, Oregon for an unforgettable trip filled with natural wonders, cultural attractions, and delicious cuisine.</description>
-	<pubDate>2024-07-03T13:59:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
