@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T08:16:30+03:00</pubDate>
-        <lastBuildDate>2024-07-03T08:16:30+03:00</lastBuildDate>
+        <pubDate>2024-07-03T08:42:39+03:00</pubDate>
+        <lastBuildDate>2024-07-03T08:42:39+03:00</lastBuildDate>
 
         <item>
+	<title>Carefree Travel Guide (Greater Phoenix/Arizona/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/greater-phoenix/carefree/</link>
+	<description>Plan an unforgettable trip to Carefree, Arizona with this comprehensive travel guide, which includes information on top attractions, outdoor adventures, dining and accommodations options, and more.</description>
+	<pubDate>2024-07-03T08:42:39+03:00</pubDate>
+</item><item>
 	<title>Easton Travel Guide (Lehigh Valley/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/lehigh-valley/easton/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, and more in Easton, Pennsylvania.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/dartmouth-lake-sunapee/new-london/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more in New London, New Hampshire with this comprehensive tour guide.</description>
 	<pubDate>2024-07-03T04:32:44+03:00</pubDate>
-</item><item>
-	<title>Belsh Travel Guide (Southeastern Albania/Albania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/albania/southeastern-albania/belsh/</link>
-	<description>Explore the culturally important attractions, outdoor adventures, food and drinks, where to stay, transportation options, and more in Belsh, Albania.</description>
-	<pubDate>2024-07-03T03:38:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
