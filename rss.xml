@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T14:56:16+03:00</pubDate>
-        <lastBuildDate>2024-07-03T14:56:16+03:00</lastBuildDate>
+        <pubDate>2024-07-03T15:12:25+03:00</pubDate>
+        <lastBuildDate>2024-07-03T15:12:25+03:00</lastBuildDate>
 
         <item>
+	<title>Nevyansk Travel Guide (Sverdlovsk Oblast/Urals/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/sverdlovsk-oblast/nevyansk/</link>
+	<description>Plan your trip to Nevyansk, Russia with this comprehensive travel guide. Discover the best things to do, places to stay, and local culture of Nevyansk.</description>
+	<pubDate>2024-07-03T15:12:25+03:00</pubDate>
+</item><item>
 	<title>Garzê Travel Guide (Ganzi (prefecture)/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/garze/</link>
 	<description>Plan your trip to Garzê, Sichuan with this comprehensive travel guide. Discover things to do, places to visit, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/eastern-myanmar/kengtung/</link>
 	<description>Comprehensive travel guide to Kengtung, Myanmar, including places to visit, activities, hiking/biking routes, food, accommodations, local culture, safety and health, transportation, excursions and more.</description>
 	<pubDate>2024-07-03T10:35:42+03:00</pubDate>
-</item><item>
-	<title>Shinhidaka Travel Guide (Central Circuit/Hokkaido/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/central-circuit/shinhidaka/</link>
-	<description>Plan your trip to Shinhidaka with our comprehensive travel guide. Discover the top attractions, outdoor adventures, local culture, and more in Hokkaido, Japan.</description>
-	<pubDate>2024-07-03T10:30:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
