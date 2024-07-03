@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T02:54:26+03:00</pubDate>
-        <lastBuildDate>2024-07-03T02:54:26+03:00</lastBuildDate>
+        <pubDate>2024-07-03T03:32:06+03:00</pubDate>
+        <lastBuildDate>2024-07-03T03:32:06+03:00</lastBuildDate>
 
         <item>
+	<title>Harrison (New York) Travel Guide (Westchester County/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/westchester-county/harrison-new-york/</link>
+	<description>Plan your perfect vacation to Harrison (New York) with our comprehensive travel guide. Discover the best things to do, places to stay, and local culture and customs.</description>
+	<pubDate>2024-07-03T03:32:06+03:00</pubDate>
+</item><item>
 	<title>Vredefort Travel Guide (Free State/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/free-state/vredefort/</link>
 	<description>Plan your trip to Vredefort, South Africa with this comprehensive travel guide featuring top attractions, hiking/biking routes, itinerary suggestions, food and drink recommendations, where to stay, local culture and customs, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/sydney-olympic-park/</link>
 	<description>Explore the beauty of Sydney Olympic Park with this ultimate travel guide. Discover its cultural and natural attractions, hiking and biking trails, must-do activities and tours, food and drink scene, where to stay, and getting around options.</description>
 	<pubDate>2024-07-02T23:03:05+03:00</pubDate>
-</item><item>
-	<title>La Mesa Travel Guide (Inland/San Diego County/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/inland/la-mesa/</link>
-	<description>Discover the best places to visit, things to do, and where to eat in La Mesa, California. Plan your trip to this Southern California gem with our comprehensive travel guide.</description>
-	<pubDate>2024-07-02T22:24:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
