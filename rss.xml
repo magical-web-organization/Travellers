@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T23:50:32+03:00</pubDate>
-        <lastBuildDate>2024-07-03T23:50:32+03:00</lastBuildDate>
+        <pubDate>2024-07-04T00:10:51+03:00</pubDate>
+        <lastBuildDate>2024-07-04T00:10:51+03:00</lastBuildDate>
 
         <item>
+	<title>Midland Travel Guide (Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/midland/</link>
+	<description>Discover the best things to do and see in Midland, North Carolina. Our travel guide features a list of places to visit, hiking and biking routes, and recommendations for accommodations, food, and local products.</description>
+	<pubDate>2024-07-04T00:10:51+03:00</pubDate>
+</item><item>
 	<title>Ile aux Nattes Travel Guide (Toamasina Province/Madagascar/East African Islands/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/toamasina-province/ile-aux-nattes/</link>
 	<description>Explore pristine beaches, outdoor adventures and island culture in Ile aux Nattes, Madagascar. Plan your trip with our comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/southeastern-alaska/misty-fjords-national-monument/</link>
 	<description>Explore the stunning natural beauty and cultural landmarks of Misty Fjords National Monument with our comprehensive travel guide. Find information on places to visit, things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-07-03T19:59:46+03:00</pubDate>
-</item><item>
-	<title>Orrville Travel Guide (Wooster area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/wooster-area/orrville/</link>
-	<description>Discover the best of Orrville's attractions, outdoor adventures, local culture, and cuisine with our comprehensive travel guide. Plan your perfect trip to Orrville, Ohio now!</description>
-	<pubDate>2024-07-03T19:19:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
