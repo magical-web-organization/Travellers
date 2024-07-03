@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T18:57:54+03:00</pubDate>
-        <lastBuildDate>2024-07-03T18:57:54+03:00</lastBuildDate>
+        <pubDate>2024-07-03T19:19:14+03:00</pubDate>
+        <lastBuildDate>2024-07-03T19:19:14+03:00</lastBuildDate>
 
         <item>
+	<title>Orrville Travel Guide (Wooster area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/wooster-area/orrville/</link>
+	<description>Discover the best of Orrville's attractions, outdoor adventures, local culture, and cuisine with our comprehensive travel guide. Plan your perfect trip to Orrville, Ohio now!</description>
+	<pubDate>2024-07-03T19:19:14+03:00</pubDate>
+</item><item>
 	<title>Joshua Tree Travel Guide (Desert/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/desert/joshua-tree/</link>
 	<description>Discover the beauty of Joshua Tree with our helpful and informative tour guide. From must-see attractions to hiking routes and food scene, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/ganzi-prefecture/garze/</link>
 	<description>Plan your trip to Garzê, Sichuan with this comprehensive travel guide. Discover things to do, places to visit, where to stay, and more.</description>
 	<pubDate>2024-07-03T14:56:16+03:00</pubDate>
-</item><item>
-	<title>Mount William National Park Travel Guide (Eastern Tasmania/Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/eastern-tasmania/mount-william-national-park/</link>
-	<description>Discover the natural and cultural attractions of Mount William National Park in Tasmania, including hiking and biking trails, outdoor adventures and scenic views, local food and drink scene, accommodations, and nearby destinations to visit.</description>
-	<pubDate>2024-07-03T14:33:08+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
