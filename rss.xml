@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T22:12:59+03:00</pubDate>
-        <lastBuildDate>2024-07-03T22:12:59+03:00</lastBuildDate>
+        <pubDate>2024-07-03T22:44:03+03:00</pubDate>
+        <lastBuildDate>2024-07-03T22:44:03+03:00</lastBuildDate>
 
         <item>
+	<title>Pedra Azul State Park Travel Guide (Central Espírito Santo/Espírito Santo/Southeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/central-espirito-santo/pedra-azul-state-park/</link>
+	<description>Discover the natural wonders, cultural hotspots, and adventure opportunities in Pedra Azul State Park. Plan your itinerary, learn about local cuisine and customs, and get practical travel tips in this ultimate guide.</description>
+	<pubDate>2024-07-03T22:44:03+03:00</pubDate>
+</item><item>
 	<title>Bahia de Loreto Travel Guide (Baja California Sur/Baja California/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-sur/bahia-de-loreto/</link>
 	<description>Discover the natural beauty, cultural attractions, outdoor adventures, food, drink, lodging and more in Bahia de Loreto, Mexico.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/panama/central-panama/pearl-islands/</link>
 	<description>Read this travel guide to Pearl Islands to explore the culturally important attractions, natural attractions, things to do, food and drink scene, where to stay, local culture, safety and health, and logistics of Pearl Islands.</description>
 	<pubDate>2024-07-03T18:11:08+03:00</pubDate>
-</item><item>
-	<title>Flinders Island Travel Guide (Tasmania/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/tasmania/flinders-island/</link>
-	<description>Discover the natural beauty, cultural attractions, food scene, and transportation options of Flinders Island in Tasmania, Australia. Plan your trip with this comprehensive travel guide.</description>
-	<pubDate>2024-07-03T17:43:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
