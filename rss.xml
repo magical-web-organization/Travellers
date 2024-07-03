@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T06:00:07+03:00</pubDate>
-        <lastBuildDate>2024-07-03T06:00:07+03:00</lastBuildDate>
+        <pubDate>2024-07-03T06:25:31+03:00</pubDate>
+        <lastBuildDate>2024-07-03T06:25:31+03:00</lastBuildDate>
 
         <item>
+	<title>Katori Travel Guide (Chiba (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/chiba-prefecture/katori/</link>
+	<description>Plan your trip to Katori with this comprehensive guide featuring things to do, where to stay, best time to visit, and more.</description>
+	<pubDate>2024-07-03T06:25:31+03:00</pubDate>
+</item><item>
 	<title>Ayer Hitam Travel Guide (Johor/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/johor/ayer-hitam/</link>
 	<description>Ayer Hitam is located in Johor, Malaysia. Read on to discover all the best things to do, places to visit, food to eat, where to stay, and how to get around in Ayer Hitam, as well as some safety and cultural tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/sunshine-coast/port-elizabeth/</link>
 	<description>Discover the best places to visit, activities to do, where to stay, what to eat, and more in Port Elizabeth, South Africa with our comprehensive travel guide.</description>
 	<pubDate>2024-07-03T01:33:32+03:00</pubDate>
-</item><item>
-	<title>Tonbridge Travel Guide (Kent/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/kent/tonbridge/</link>
-	<description>Discover the beauty, sights, and attractions of Tonbridge through this comprehensive travel guide featuring must-visit places, local customs, best things to do, and much more.</description>
-	<pubDate>2024-07-03T01:09:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
