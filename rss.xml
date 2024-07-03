@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T08:42:39+03:00</pubDate>
-        <lastBuildDate>2024-07-03T08:42:39+03:00</lastBuildDate>
+        <pubDate>2024-07-03T09:04:10+03:00</pubDate>
+        <lastBuildDate>2024-07-03T09:04:10+03:00</lastBuildDate>
 
         <item>
+	<title>Sunamganj Travel Guide (Northeastern Bangladesh/Bangladesh/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/northeastern-bangladesh/sunamganj/</link>
+	<description>Explore the natural beauty of Sunamganj, Bangladesh. Know the Best Places to Visit, Hike, Eat, Shop and Stay in Sunamganj.</description>
+	<pubDate>2024-07-03T09:04:10+03:00</pubDate>
+</item><item>
 	<title>Carefree Travel Guide (Greater Phoenix/Arizona/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/greater-phoenix/carefree/</link>
 	<description>Plan an unforgettable trip to Carefree, Arizona with this comprehensive travel guide, which includes information on top attractions, outdoor adventures, dining and accommodations options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/false-bay/gordon-s-bay/</link>
 	<description>Explore the best of Gordon's Bay, South Africa with this comprehensive tour guide featuring top attractions, activities, food, and accommodation options.</description>
 	<pubDate>2024-07-03T04:50:59+03:00</pubDate>
-</item><item>
-	<title>New London Travel Guide (Dartmouth Lake Sunapee/New Hampshire/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/dartmouth-lake-sunapee/new-london/</link>
-	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more in New London, New Hampshire with this comprehensive tour guide.</description>
-	<pubDate>2024-07-03T04:32:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
