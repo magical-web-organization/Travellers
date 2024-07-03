@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-03T03:32:06+03:00</pubDate>
-        <lastBuildDate>2024-07-03T03:32:06+03:00</lastBuildDate>
+        <pubDate>2024-07-03T03:38:24+03:00</pubDate>
+        <lastBuildDate>2024-07-03T03:38:24+03:00</lastBuildDate>
 
         <item>
+	<title>Belsh Travel Guide (Southeastern Albania/Albania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/albania/southeastern-albania/belsh/</link>
+	<description>Explore the culturally important attractions, outdoor adventures, food and drinks, where to stay, transportation options, and more in Belsh, Albania.</description>
+	<pubDate>2024-07-03T03:38:24+03:00</pubDate>
+</item><item>
 	<title>Harrison (New York) Travel Guide (Westchester County/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/westchester-county/harrison-new-york/</link>
 	<description>Plan your perfect vacation to Harrison (New York) with our comprehensive travel guide. Discover the best things to do, places to stay, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/shimane/izumo/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Izumo, Japan with our comprehensive travel guide. Find out about the rich cultural heritage, outdoor adventures, local food scene, and more.</description>
 	<pubDate>2024-07-02T23:16:21+03:00</pubDate>
-</item><item>
-	<title>Sydney Olympic Park Travel Guide (Sydney/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/sydney/sydney-olympic-park/</link>
-	<description>Explore the beauty of Sydney Olympic Park with this ultimate travel guide. Discover its cultural and natural attractions, hiking and biking trails, must-do activities and tours, food and drink scene, where to stay, and getting around options.</description>
-	<pubDate>2024-07-02T23:03:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
