@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-04T05:25:56+03:00</pubDate>
-        <lastBuildDate>2024-07-04T05:25:56+03:00</lastBuildDate>
+        <pubDate>2024-07-04T05:43:02+03:00</pubDate>
+        <lastBuildDate>2024-07-04T05:43:02+03:00</lastBuildDate>
 
         <item>
+	<title>Port Erin Travel Guide (Isle of Man/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/isle-of-man/port-erin/</link>
+	<description>Discover the hidden gems of Port Erin and explore the natural, cultural, and culinary highlights of the quaint seaside town with this comprehensive travel guide.</description>
+	<pubDate>2024-07-04T05:43:02+03:00</pubDate>
+</item><item>
 	<title>Sângeorz-Băi Travel Guide (Bistrița-Năsăud County/Transylvania/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/bistrita-nasaud-county/sangeorz-bai/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Sângeorz-Băi, Romania, in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/ruhr/hagen/</link>
 	<description>Explore Hagen, a city in Ruhr, North Rhine-Westphalia, Germany with this comprehensive travel guide. From must-visit attractions to local cuisine and customs, find everything you need to plan your trip.</description>
 	<pubDate>2024-07-04T01:20:23+03:00</pubDate>
-</item><item>
-	<title>Merseburg Travel Guide (Saxony-Anhalt/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony-anhalt/merseburg/</link>
-	<description>Plan your trip to Merseburg with this comprehensive travel guide featuring the best things to see, do, eat, and more!</description>
-	<pubDate>2024-07-04T00:58:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
