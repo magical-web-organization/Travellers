@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-04T18:20:48+03:00</pubDate>
-        <lastBuildDate>2024-07-04T18:20:48+03:00</lastBuildDate>
+        <pubDate>2024-07-04T18:47:54+03:00</pubDate>
+        <lastBuildDate>2024-07-04T18:47:54+03:00</lastBuildDate>
 
         <item>
+	<title>Cozumel Travel Guide (Quintana Roo/Yucatán and the South/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/cozumel/</link>
+	<description>Plan your trip to Cozumel with this comprehensive tour guide including a list of places to visit, best things to do, food and drink scene, where to stay, and more!</description>
+	<pubDate>2024-07-04T18:47:54+03:00</pubDate>
+</item><item>
 	<title>Mount Pearl Travel Guide (Eastern Newfoundland/Newfoundland and Labrador/Atlantic Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/eastern-newfoundland/mount-pearl/</link>
 	<description>Discover the top attractions, activities, and accommodations in Mount Pearl, Newfoundland with this comprehensive travel guide. From hiking and biking routes to cultural landmarks and delicious cuisine, this guide has everything you need to plan the perfect trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/smithtown/</link>
 	<description>Discover the best things to do, places to stay, local culture and customs, and travel tips in Smithtown, New York, with our comprehensive travel guide.</description>
 	<pubDate>2024-07-04T14:07:08+03:00</pubDate>
-</item><item>
-	<title>Kurdistan Travel Guide (Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/kurdistan/</link>
-	<description>Planning a trip to Kurdistan? Check out our comprehensive travel guide to explore the best places to visit, things to do, local culture and customs, safety and health tips, and transportation options.</description>
-	<pubDate>2024-07-04T13:53:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
