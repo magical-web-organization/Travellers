@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-04T06:22:02+03:00</pubDate>
-        <lastBuildDate>2024-07-04T06:22:02+03:00</lastBuildDate>
+        <pubDate>2024-07-04T06:42:57+03:00</pubDate>
+        <lastBuildDate>2024-07-04T06:42:57+03:00</lastBuildDate>
 
         <item>
+	<title>Nicobar Islands Travel Guide (Andaman and Nicobar Islands/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andaman-and-nicobar-islands/nicobar-islands/</link>
+	<description>Explore the beauty of Nicobar Islands with this comprehensive travel guide featuring top attractions, cultural experiences, activities, lodging options, and more.</description>
+	<pubDate>2024-07-04T06:42:57+03:00</pubDate>
+</item><item>
 	<title>Zhongshan Travel Guide (Taipei/Northern Taiwan/Taiwan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/taipei/zhongshan/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture and customs of Zhongshan, Taipei with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/austria/vienna/outer-south/</link>
 	<description>Explore the best of Outer South, Vienna with our comprehensive travel guide. From museums and outdoor adventures to local cuisine and hidden gems, plan your trip now!</description>
 	<pubDate>2024-07-04T02:29:10+03:00</pubDate>
-</item><item>
-	<title>Sotenäs Travel Guide (Bohuslän/Götaland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/bohuslan/sotenas/</link>
-	<description>Discover the best things to do, see, eat, and stay in Sotenäs, Sweden with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered!</description>
-	<pubDate>2024-07-04T01:58:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
