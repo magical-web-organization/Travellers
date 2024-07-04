@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T01:53:45+03:00</pubDate>
-        <lastBuildDate>2024-07-05T01:53:45+03:00</lastBuildDate>
+        <pubDate>2024-07-05T02:31:57+03:00</pubDate>
+        <lastBuildDate>2024-07-05T02:31:57+03:00</lastBuildDate>
 
         <item>
+	<title>Ballater Travel Guide (Aberdeenshire/North East Scotland/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/aberdeenshire/ballater/</link>
+	<description>Plan your trip to Ballater with our comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, and more.</description>
+	<pubDate>2024-07-05T02:31:57+03:00</pubDate>
+</item><item>
 	<title>Rochester Travel Guide (Southern Vermont/Vermont/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/rochester/</link>
 	<description>Discover the best places to visit, stay, eat, and things to do in Rochester, Vermont to plan your perfect trip to this charming town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/pamphylia/side/</link>
 	<description>Discover the best places to visit, things to do, where to stay, local culture and customs, and more in Side, Turkey.</description>
 	<pubDate>2024-07-04T21:48:34+03:00</pubDate>
-</item><item>
-	<title>Cheongsong County Travel Guide (North Gyeongsang/South Korea/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-gyeongsang/cheongsong-county/</link>
-	<description>Discover Cheongsong County in North Gyeongsang, South Korea with this comprehensive travel guide. Learn about the best places to visit, hike and bike routes, must-try dishes, where to stay and more.</description>
-	<pubDate>2024-07-04T21:31:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
