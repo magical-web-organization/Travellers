@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-04T13:06:21+03:00</pubDate>
-        <lastBuildDate>2024-07-04T13:06:21+03:00</lastBuildDate>
+        <pubDate>2024-07-04T13:53:15+03:00</pubDate>
+        <lastBuildDate>2024-07-04T13:53:15+03:00</lastBuildDate>
 
         <item>
+	<title>Kurdistan Travel Guide (Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/kurdistan/</link>
+	<description>Planning a trip to Kurdistan? Check out our comprehensive travel guide to explore the best places to visit, things to do, local culture and customs, safety and health tips, and transportation options.</description>
+	<pubDate>2024-07-04T13:53:15+03:00</pubDate>
+</item><item>
 	<title>Lurgan Travel Guide (County Armagh/Northern Ireland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/northern-ireland/county-armagh/lurgan/</link>
 	<description>Plan a perfect trip to Lurgan, Northern Ireland, with our comprehensive travel guide that covers everything from top attractions to do's and don'ts, best time to visit, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/aquiraz/</link>
 	<description>Discover the best places to visit, things to do, and insider tips for experiencing Aquiraz, Brazil.</description>
 	<pubDate>2024-07-04T09:12:19+03:00</pubDate>
-</item><item>
-	<title>Comayagua Travel Guide (Honduran Highlands/Honduras/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/honduras/honduran-highlands/comayagua/</link>
-	<description>Discover the best places to visit, things to do, and travel tips for a memorable trip to Comayagua, Honduras.</description>
-	<pubDate>2024-07-04T08:36:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
