@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-04T13:53:15+03:00</pubDate>
-        <lastBuildDate>2024-07-04T13:53:15+03:00</lastBuildDate>
+        <pubDate>2024-07-04T14:07:08+03:00</pubDate>
+        <lastBuildDate>2024-07-04T14:07:08+03:00</lastBuildDate>
 
         <item>
+	<title>Smithtown Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/smithtown/</link>
+	<description>Discover the best things to do, places to stay, local culture and customs, and travel tips in Smithtown, New York, with our comprehensive travel guide.</description>
+	<pubDate>2024-07-04T14:07:08+03:00</pubDate>
+</item><item>
 	<title>Kurdistan Travel Guide (Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/kurdistan/</link>
 	<description>Planning a trip to Kurdistan? Check out our comprehensive travel guide to explore the best places to visit, things to do, local culture and customs, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/new-taipei/xindian/</link>
 	<description>Explore Xindian, Taiwan with our comprehensive travel guide. Discover the must-see attractions, food and drink scenes, local customs, safety tips, how to get there and more.</description>
 	<pubDate>2024-07-04T09:59:02+03:00</pubDate>
-</item><item>
-	<title>Aquiraz Travel Guide (Ceará/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/aquiraz/</link>
-	<description>Discover the best places to visit, things to do, and insider tips for experiencing Aquiraz, Brazil.</description>
-	<pubDate>2024-07-04T09:12:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
