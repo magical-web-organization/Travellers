@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-04T02:56:37+03:00</pubDate>
-        <lastBuildDate>2024-07-04T02:56:37+03:00</lastBuildDate>
+        <pubDate>2024-07-04T03:04:08+03:00</pubDate>
+        <lastBuildDate>2024-07-04T03:04:08+03:00</lastBuildDate>
 
         <item>
+	<title>North Harbour Travel Guide (Auckland/Auckland Region/North Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/auckland-region/auckland/north-harbour/</link>
+	<description>Plan your trip to North Harbour with our helpful travel guide, featuring must-visit attractions, hiking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-07-04T03:04:08+03:00</pubDate>
+</item><item>
 	<title>Rodeo Travel Guide (Southwest New Mexico/New Mexico/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southwest-new-mexico/rodeo/</link>
 	<description>Discover the natural beauty, cultural heritage, and outdoor adventure of Rodeo, Southwest New Mexico. Find out the best places to visit, hike/bike routes, food and drink scene, where to stay, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/central-espirito-santo/pedra-azul-state-park/</link>
 	<description>Discover the natural wonders, cultural hotspots, and adventure opportunities in Pedra Azul State Park. Plan your itinerary, learn about local cuisine and customs, and get practical travel tips in this ultimate guide.</description>
 	<pubDate>2024-07-03T22:44:03+03:00</pubDate>
-</item><item>
-	<title>Bahia de Loreto Travel Guide (Baja California Sur/Baja California/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/baja-california/baja-california-sur/bahia-de-loreto/</link>
-	<description>Discover the natural beauty, cultural attractions, outdoor adventures, food, drink, lodging and more in Bahia de Loreto, Mexico.</description>
-	<pubDate>2024-07-03T22:12:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
