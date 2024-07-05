@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T16:45:34+03:00</pubDate>
-        <lastBuildDate>2024-07-05T16:45:34+03:00</lastBuildDate>
+        <pubDate>2024-07-05T17:07:54+03:00</pubDate>
+        <lastBuildDate>2024-07-05T17:07:54+03:00</lastBuildDate>
 
         <item>
+	<title>Downey Travel Guide (Gateway Cities (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/gateway-cities-los-angeles-county/downey/</link>
+	<description>Exploring Downey, a city located in Gateway Cities (Los Angeles County), Los Angeles, Southern California, United States of America. Learn about its cultural and natural attractions, hiking/biking routes, food and drink scene, where to stay, what to buy, local customs, safety and health, transportation options, nearby destinations, and more.</description>
+	<pubDate>2024-07-05T17:07:54+03:00</pubDate>
+</item><item>
 	<title>Haight Travel Guide (San Francisco/Bay Area/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/san-francisco/haight/</link>
 	<description>Explore Haight, San Francisco's vibrant neighborhood known for its culturally important attractions, scenic natural views, delicious food, and unique shopping spots with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/buskerud/hemsedal/</link>
 	<description>Discover the natural beauty and cultural attractions of Hemsedal, Norway, with this comprehensive travel guide. From outdoor adventures to local cuisine, this guide has everything you need for an unforgettable trip.</description>
 	<pubDate>2024-07-05T12:56:18+03:00</pubDate>
-</item><item>
-	<title>Woodside Travel Guide (Peninsula/Bay Area/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/woodside/</link>
-	<description>Discover the top attractions, activities, food, culture, safety tips, transportation options, and more in Woodside, California in this comprehensive travel guide.</description>
-	<pubDate>2024-07-05T12:17:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
