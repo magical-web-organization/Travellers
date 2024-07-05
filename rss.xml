@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T20:24:31+03:00</pubDate>
-        <lastBuildDate>2024-07-05T20:24:31+03:00</lastBuildDate>
+        <pubDate>2024-07-05T20:42:05+03:00</pubDate>
+        <lastBuildDate>2024-07-05T20:42:05+03:00</lastBuildDate>
 
         <item>
+	<title>Pampatar Travel Guide (Margarita Island/Nueva Esparta/Caribbean Islands/Venezuela/South America)</title>
+	<link>https://travellers.wiki/en/south-america/venezuela/caribbean-islands/nueva-esparta/margarita-island/pampatar/</link>
+	<description>Your ultimate travel guide to Pampatar, featuring the best attractions, activities, accommodations, local cuisine, and travel tips.</description>
+	<pubDate>2024-07-05T20:42:05+03:00</pubDate>
+</item><item>
 	<title>Loveland Travel Guide (Front Range/Colorado/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/front-range/loveland/</link>
 	<description>A comprehensive tour guide for Loveland, Colorado, including information on places to visit, outdoor adventures, hiking and biking trails, food scene, local culture, safety tips, transportation, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/central-himachal-pradesh/khir-ganga/</link>
 	<description>Plan your trip to Khir Ganga with this comprehensive guide that covers the best things to do, food and drink scene, where to stay, and much more.</description>
 	<pubDate>2024-07-05T16:17:34+03:00</pubDate>
-</item><item>
-	<title>Konz Travel Guide (Moselle Valley/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/moselle-valley/konz/</link>
-	<description>Discover all the amazing sights and experiences Konz has to offer, from its cultural and natural attractions, to its hiking and biking routes and local cuisine.</description>
-	<pubDate>2024-07-05T15:59:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
