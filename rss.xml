@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T17:38:13+03:00</pubDate>
-        <lastBuildDate>2024-07-05T17:38:13+03:00</lastBuildDate>
+        <pubDate>2024-07-05T18:26:15+03:00</pubDate>
+        <lastBuildDate>2024-07-05T18:26:15+03:00</lastBuildDate>
 
         <item>
+	<title>Polmont Travel Guide (Stirlingshire and Clackmannanshire/Central Belt/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/stirlingshire-and-clackmannanshire/polmont/</link>
+	<description>Discover the best things to do, places to visit, hiking/biking routes, food and drink scene, where to stay, and more in Polmont, Stirlingshire and Clackmannanshire, Scotland.</description>
+	<pubDate>2024-07-05T18:26:15+03:00</pubDate>
+</item><item>
 	<title>Alsfeld Travel Guide (North Hesse/Hesse/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/north-hesse/alsfeld/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and how to get around in Alsfeld with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/saudi-arabia/eastern-province/dhahran/</link>
 	<description>Discover the best things to do, the top attractions, where to stay, and local customs and culture of Dhahran in Saudi Arabia.</description>
 	<pubDate>2024-07-05T13:53:48+03:00</pubDate>
-</item><item>
-	<title>Trenton Travel Guide (Quinte-Northumberland/Eastern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/eastern-ontario/quinte-northumberland/trenton/</link>
-	<description>Discover the best places to stay, eat, and visit in Trenton, Ontario. This comprehensive travel guide contains everything you need to know to plan your trip to Trenton.</description>
-	<pubDate>2024-07-05T13:29:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
