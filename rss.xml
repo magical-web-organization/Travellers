@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T20:42:05+03:00</pubDate>
-        <lastBuildDate>2024-07-05T20:42:05+03:00</lastBuildDate>
+        <pubDate>2024-07-05T21:14:05+03:00</pubDate>
+        <lastBuildDate>2024-07-05T21:14:05+03:00</lastBuildDate>
 
         <item>
+	<title>Montañita Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
+	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/montanita/</link>
+	<description>Montañita is a surf town in Coastal Lowlands. This travel guide has information on all the best things to do, see, eat and more when visiting Montañita, Ecuador.</description>
+	<pubDate>2024-07-05T21:14:05+03:00</pubDate>
+</item><item>
 	<title>Pampatar Travel Guide (Margarita Island/Nueva Esparta/Caribbean Islands/Venezuela/South America)</title>
 	<link>https://travellers.wiki/en/south-america/venezuela/caribbean-islands/nueva-esparta/margarita-island/pampatar/</link>
 	<description>Your ultimate travel guide to Pampatar, featuring the best attractions, activities, accommodations, local cuisine, and travel tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/san-francisco/haight/</link>
 	<description>Explore Haight, San Francisco's vibrant neighborhood known for its culturally important attractions, scenic natural views, delicious food, and unique shopping spots with our comprehensive travel guide.</description>
 	<pubDate>2024-07-05T16:45:34+03:00</pubDate>
-</item><item>
-	<title>Khir Ganga Travel Guide (Central Himachal Pradesh/Himachal Pradesh/Himalayan North/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/central-himachal-pradesh/khir-ganga/</link>
-	<description>Plan your trip to Khir Ganga with this comprehensive guide that covers the best things to do, food and drink scene, where to stay, and much more.</description>
-	<pubDate>2024-07-05T16:17:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
