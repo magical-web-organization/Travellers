@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T22:16:57+03:00</pubDate>
-        <lastBuildDate>2024-07-05T22:16:57+03:00</lastBuildDate>
+        <pubDate>2024-07-05T22:51:13+03:00</pubDate>
+        <lastBuildDate>2024-07-05T22:51:13+03:00</lastBuildDate>
 
         <item>
+	<title>Traun Travel Guide (Upper Austria/Austria/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/austria/upper-austria/traun/</link>
+	<description>Plan your trip to Traun with this comprehensive travel guide. Learn about the top attractions, activities, hotels, and more in this beautiful town in Upper Austria.</description>
+	<pubDate>2024-07-05T22:51:13+03:00</pubDate>
+</item><item>
 	<title>Mangpoo Travel Guide (Darjeeling Hills/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/darjeeling-hills/mangpoo/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Mangpoo, West Bengal.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/stirlingshire-and-clackmannanshire/polmont/</link>
 	<description>Discover the best things to do, places to visit, hiking/biking routes, food and drink scene, where to stay, and more in Polmont, Stirlingshire and Clackmannanshire, Scotland.</description>
 	<pubDate>2024-07-05T18:26:15+03:00</pubDate>
-</item><item>
-	<title>Alsfeld Travel Guide (North Hesse/Hesse/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/north-hesse/alsfeld/</link>
-	<description>Discover the best things to do, places to visit, where to stay, and how to get around in Alsfeld with our comprehensive travel guide.</description>
-	<pubDate>2024-07-05T17:38:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
