@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T09:01:52+03:00</pubDate>
-        <lastBuildDate>2024-07-05T09:01:52+03:00</lastBuildDate>
+        <pubDate>2024-07-05T09:13:06+03:00</pubDate>
+        <lastBuildDate>2024-07-05T09:13:06+03:00</lastBuildDate>
 
         <item>
+	<title>Wągrowiec Travel Guide (Wielkopolskie/Poland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/poland/wielkopolskie/wagrowiec/</link>
+	<description>Discover the culturally rich and beautiful town of Wągrowiec, Poland with this comprehensive travel guide. From historical sites and natural attractions to local cuisine and accommodations, plan your perfect trip to this charming region in Central Europe.</description>
+	<pubDate>2024-07-05T09:13:06+03:00</pubDate>
+</item><item>
 	<title>Sakon Nakhon Travel Guide (Northern Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/northern-isaan/sakon-nakhon/</link>
 	<description>Discover the best places to visit, things to do, and stay in Sakon Nakhon, Thailand with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-travancore/mannadi/</link>
 	<description>Discover the best things to do, places to visit, where to stay, eat, and shop in Mannadi, Kerala, India. Get a complete travel guide with information on hiking routes, transportation options, safety, and culture.</description>
 	<pubDate>2024-07-05T04:38:04+03:00</pubDate>
-</item><item>
-	<title>Vík í Mýrdal Travel Guide (South Iceland/Iceland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/iceland/south-iceland/vik-i-myrdal/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Vík í Mýrdal, Iceland. Explore the local culture and customs, learn about transportation options, and more in this comprehensive travel guide.</description>
-	<pubDate>2024-07-05T04:23:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
