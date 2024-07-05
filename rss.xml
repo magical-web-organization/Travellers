@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T04:38:04+03:00</pubDate>
-        <lastBuildDate>2024-07-05T04:38:04+03:00</lastBuildDate>
+        <pubDate>2024-07-05T05:13:57+03:00</pubDate>
+        <lastBuildDate>2024-07-05T05:13:57+03:00</lastBuildDate>
 
         <item>
+	<title>Kingussie Travel Guide (The Great Glen and Strathspey/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/the-great-glen-and-strathspey/kingussie/</link>
+	<description>Plan your perfect trip to Kingussie in The Great Glen and Strathspey, Scottish Highlands with our comprehensive travel guide featuring top attractions, hiking routes, where to stay, local culture and customs, safety tips and more.</description>
+	<pubDate>2024-07-05T05:13:57+03:00</pubDate>
+</item><item>
 	<title>Mannadi Travel Guide (Central Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-travancore/mannadi/</link>
 	<description>Discover the best things to do, places to visit, where to stay, eat, and shop in Mannadi, Kerala, India. Get a complete travel guide with information on hiking routes, transportation options, safety, and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/lebanon/bekaa/zahle/</link>
 	<description>Explore the culturally rich and natural attractions of Zahle, Lebanon with this comprehensive travel guide featuring a list of places to visit, outdoor adventures, must-try dishes, transportation options, and more.</description>
 	<pubDate>2024-07-05T00:54:55+03:00</pubDate>
-</item><item>
-	<title>Bramhapuri Travel Guide (Vidarbha/Maharashtra/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/vidarbha/bramhapuri/</link>
-	<description>Plan your trip to Bramhapuri with our informative travel guide featuring must-see sights, top experiences, places to stay, and practical tips for travelers.</description>
-	<pubDate>2024-07-05T00:09:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
