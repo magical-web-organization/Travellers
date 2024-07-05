@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T00:38:17+03:00</pubDate>
-        <lastBuildDate>2024-07-06T00:38:17+03:00</lastBuildDate>
+        <pubDate>2024-07-06T01:26:46+03:00</pubDate>
+        <lastBuildDate>2024-07-06T01:26:46+03:00</lastBuildDate>
 
         <item>
+	<title>Galena Travel Guide (Southeastern Kansas/Kansas/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/southeastern-kansas/galena/</link>
+	<description>Discover the best of Southeastern Kansas with our comprehensive travel guide to Galena. Find out where to go, what to do, and what to eat in this charming town.</description>
+	<pubDate>2024-07-06T01:26:46+03:00</pubDate>
+</item><item>
 	<title>Waynesburg Travel Guide (Canton-Massillion Metropolitan Area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/canton-massillion-metropolitan-area/waynesburg/</link>
 	<description>Plan your trip to Waynesburg, Ohio with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/venezuela/caribbean-islands/nueva-esparta/margarita-island/pampatar/</link>
 	<description>Your ultimate travel guide to Pampatar, featuring the best attractions, activities, accommodations, local cuisine, and travel tips.</description>
 	<pubDate>2024-07-05T20:42:05+03:00</pubDate>
-</item><item>
-	<title>Loveland Travel Guide (Front Range/Colorado/Rocky Mountains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/front-range/loveland/</link>
-	<description>A comprehensive tour guide for Loveland, Colorado, including information on places to visit, outdoor adventures, hiking and biking trails, food scene, local culture, safety tips, transportation, and nearby destinations.</description>
-	<pubDate>2024-07-05T20:24:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
