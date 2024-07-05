@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T11:34:26+03:00</pubDate>
-        <lastBuildDate>2024-07-05T11:34:26+03:00</lastBuildDate>
+        <pubDate>2024-07-05T12:17:09+03:00</pubDate>
+        <lastBuildDate>2024-07-05T12:17:09+03:00</lastBuildDate>
 
         <item>
+	<title>Woodside Travel Guide (Peninsula/Bay Area/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/peninsula/woodside/</link>
+	<description>Discover the top attractions, activities, food, culture, safety tips, transportation options, and more in Woodside, California in this comprehensive travel guide.</description>
+	<pubDate>2024-07-05T12:17:09+03:00</pubDate>
+</item><item>
 	<title>Setti Fatma Travel Guide (High Atlas/Morocco/North Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/north-africa/morocco/high-atlas/setti-fatma/</link>
 	<description>Discover natural attractions, cultural treasures, hiking/biking routes, food, and local culture in Setti Fatma, Morocco! A comprehensive travel guide for your next adventure.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/central-africa/cameroon/northwest-highlands/dschang/</link>
 	<description>Discover what to do, where to stay, and what to eat in Dschang, Cameroon. See the museums, natural attractions, and cultural landmarks that make it unique. Learn about local customs and things to keep in mind for a safe and enjoyable trip.</description>
 	<pubDate>2024-07-05T07:56:37+03:00</pubDate>
-</item><item>
-	<title>Pakhal Lake Travel Guide (Telangana/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/telangana/pakhal-lake/</link>
-	<description>Discover the best places to visit, where to stay, what to do, and more at Pakhal Lake, Telangana, India.</description>
-	<pubDate>2024-07-05T07:09:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
