@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T23:17:38+03:00</pubDate>
-        <lastBuildDate>2024-07-05T23:17:38+03:00</lastBuildDate>
+        <pubDate>2024-07-05T23:35:33+03:00</pubDate>
+        <lastBuildDate>2024-07-05T23:35:33+03:00</lastBuildDate>
 
         <item>
+	<title>Nizamabad Travel Guide (Telangana/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/telangana/nizamabad/</link>
+	<description>Get a comprehensive tour guide for Nizamabad, including list of places to visit, hiking/biking routes, food scene, local culture, safety, getting around, and nearby destinations to explore.</description>
+	<pubDate>2024-07-05T23:35:33+03:00</pubDate>
+</item><item>
 	<title>Ostrów Lednicki Travel Guide (Wielkopolskie/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/wielkopolskie/ostrow-lednicki/</link>
 	<description>Discover the hidden treasures of Ostrów Lednicki with this comprehensive travel guide that includes a list of places to visit, hiking/biking routes, food scene, where to stay, local culture and customs, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/cuba/western-cuba/reserva-de-la-biosfera-sierra-del-rosario/</link>
 	<description>Reserva de la Biosfera Sierra del Rosario is a must-visit destination in Western Cuba. Read our comprehensive travel guide for tips and recommendations on the best places to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-07-05T19:18:48+03:00</pubDate>
-</item><item>
-	<title>Lagosa Travel Guide (Northwest Tanzania/Tanzania/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/tanzania/northwest-tanzania/lagosa/</link>
-	<description>A comprehensive tour guide for Lagosa, Tanzania including places to visit, hiking/biking routes, local culture, where to stay, food and drink scene, and more.</description>
-	<pubDate>2024-07-05T18:54:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
