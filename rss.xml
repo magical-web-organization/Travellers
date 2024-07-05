@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T01:26:46+03:00</pubDate>
-        <lastBuildDate>2024-07-06T01:26:46+03:00</lastBuildDate>
+        <pubDate>2024-07-06T01:47:31+03:00</pubDate>
+        <lastBuildDate>2024-07-06T01:47:31+03:00</lastBuildDate>
 
         <item>
+	<title>Ise Travel Guide (Mie/Kansai/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/mie/ise/</link>
+	<description>Explore the culturally-rich and natural wonders of Ise with our week-long itinerary. Discover places to visit, things to do, and more!</description>
+	<pubDate>2024-07-06T01:47:31+03:00</pubDate>
+</item><item>
 	<title>Galena Travel Guide (Southeastern Kansas/Kansas/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/kansas/southeastern-kansas/galena/</link>
 	<description>Discover the best of Southeastern Kansas with our comprehensive travel guide to Galena. Find out where to go, what to do, and what to eat in this charming town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/montanita/</link>
 	<description>Montañita is a surf town in Coastal Lowlands. This travel guide has information on all the best things to do, see, eat and more when visiting Montañita, Ecuador.</description>
 	<pubDate>2024-07-05T21:14:05+03:00</pubDate>
-</item><item>
-	<title>Pampatar Travel Guide (Margarita Island/Nueva Esparta/Caribbean Islands/Venezuela/South America)</title>
-	<link>https://travellers.wiki/en/south-america/venezuela/caribbean-islands/nueva-esparta/margarita-island/pampatar/</link>
-	<description>Your ultimate travel guide to Pampatar, featuring the best attractions, activities, accommodations, local cuisine, and travel tips.</description>
-	<pubDate>2024-07-05T20:42:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
