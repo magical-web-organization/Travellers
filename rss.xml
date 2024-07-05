@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T10:37:20+03:00</pubDate>
-        <lastBuildDate>2024-07-05T10:37:20+03:00</lastBuildDate>
+        <pubDate>2024-07-05T11:18:46+03:00</pubDate>
+        <lastBuildDate>2024-07-05T11:18:46+03:00</lastBuildDate>
 
         <item>
+	<title>Urfa Travel Guide (Southeastern Anatolia/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/southeastern-anatolia/urfa/</link>
+	<description>Plan your perfect trip to Urfa with our comprehensive travel guide. Discover the best places to visit, eat and stay in Urfa, as well as all the practical information you need to plan your trip.</description>
+	<pubDate>2024-07-05T11:18:46+03:00</pubDate>
+</item><item>
 	<title>Sherkin Island Travel Guide (County Cork/Southwest Ireland/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southwest-ireland/county-cork/sherkin-island/</link>
 	<description>Discover the best places to visit, things to do, where to stay and eat, local culture, safety information and transport options in Sherkin Island, Ireland.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/turks-and-caicos-islands/providenciales/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Providenciales with this informative travel guide.</description>
 	<pubDate>2024-07-05T07:03:12+03:00</pubDate>
-</item><item>
-	<title>Lake Mary Travel Guide (Greater Orlando/Inland Florida/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/greater-orlando/lake-mary/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Lake Mary, Florida through this comprehensive tour guide. Learn about the local culture, safety and health tips, and transportation options to help plan your itinerary.</description>
-	<pubDate>2024-07-05T06:13:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
