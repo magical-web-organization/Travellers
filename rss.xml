@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-05T06:13:09+03:00</pubDate>
-        <lastBuildDate>2024-07-05T06:13:09+03:00</lastBuildDate>
+        <pubDate>2024-07-05T07:03:12+03:00</pubDate>
+        <lastBuildDate>2024-07-05T07:03:12+03:00</lastBuildDate>
 
         <item>
+	<title>Providenciales Travel Guide (Turks and Caicos Islands/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/turks-and-caicos-islands/providenciales/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Providenciales with this informative travel guide.</description>
+	<pubDate>2024-07-05T07:03:12+03:00</pubDate>
+</item><item>
 	<title>Lake Mary Travel Guide (Greater Orlando/Inland Florida/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/greater-orlando/lake-mary/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Lake Mary, Florida through this comprehensive tour guide. Learn about the local culture, safety and health tips, and transportation options to help plan your itinerary.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/north-east-scotland/aberdeenshire/ballater/</link>
 	<description>Plan your trip to Ballater with our comprehensive travel guide featuring top attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, and more.</description>
 	<pubDate>2024-07-05T02:31:57+03:00</pubDate>
-</item><item>
-	<title>Rochester Travel Guide (Southern Vermont/Vermont/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/vermont/southern-vermont/rochester/</link>
-	<description>Discover the best places to visit, stay, eat, and things to do in Rochester, Vermont to plan your perfect trip to this charming town.</description>
-	<pubDate>2024-07-05T01:53:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
