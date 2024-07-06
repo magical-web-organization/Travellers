@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T11:14:27+03:00</pubDate>
-        <lastBuildDate>2024-07-06T11:14:27+03:00</lastBuildDate>
+        <pubDate>2024-07-06T11:37:37+03:00</pubDate>
+        <lastBuildDate>2024-07-06T11:37:37+03:00</lastBuildDate>
 
         <item>
+	<title>Guachochi Travel Guide (Chihuahua (state)/Northern Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/chihuahua-state/guachochi/</link>
+	<description>Discover the stunning natural and cultural attractions of Guachochi, a city in the Northern Chihuahua state of Mexico, with this comprehensive travel guide.</description>
+	<pubDate>2024-07-06T11:37:37+03:00</pubDate>
+</item><item>
 	<title>Northern Suburbs Travel Guide (Madrid/Community of Madrid/Central Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/community-of-madrid/madrid/northern-suburbs/</link>
 	<description>Discover the culture, cuisine, natural attractions, hiking/biking routes, and best things to do in Northern Suburbs Madrid. Plan your visit with our comprehensive itinerary.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/san-joaquin-valley/san-joaquin-county/lathrop/</link>
 	<description>Plan your trip to Lathrop, California with our comprehensive travel guide. Explore the culture, food, and natural attractions of Lathrop.</description>
 	<pubDate>2024-07-06T07:03:53+03:00</pubDate>
-</item><item>
-	<title>Valkenburg aan de Geul Travel Guide (South Limburg/Limburg/Southern Netherlands/Netherlands/Benelux/Europe)</title>
-	<link>https://travellers.wiki/en/europe/benelux/netherlands/southern-netherlands/limburg/south-limburg/valkenburg-aan-de-geul/</link>
-	<description>Discover the best places to visit, things to do, where to stay, local food and drinks, and culture of Valkenburg aan de Geul, Netherlands.</description>
-	<pubDate>2024-07-06T06:46:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
