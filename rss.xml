@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T04:33:45+03:00</pubDate>
-        <lastBuildDate>2024-07-06T04:33:45+03:00</lastBuildDate>
+        <pubDate>2024-07-06T05:30:44+03:00</pubDate>
+        <lastBuildDate>2024-07-06T05:30:44+03:00</lastBuildDate>
 
         <item>
+	<title>Hamilton Travel Guide (Butler County/Greater Cincinnati/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/butler-county/hamilton/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Hamilton, Ohio. Read our travel guide for insider tips, recommendations and more!</description>
+	<pubDate>2024-07-06T05:30:44+03:00</pubDate>
+</item><item>
 	<title>Békés County Travel Guide (Southern Great Plain/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/southern-great-plain/bekes-county/</link>
 	<description>Discover the beauty of Békés County through this travel guide. Learn about the best attractions, activities, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/canton-massillion-metropolitan-area/waynesburg/</link>
 	<description>Plan your trip to Waynesburg, Ohio with this comprehensive travel guide. Discover the best places to visit, things to do, where to stay, what to eat, and more!</description>
 	<pubDate>2024-07-06T00:38:17+03:00</pubDate>
-</item><item>
-	<title>Yarm Travel Guide (North Yorkshire/Yorkshire/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/north-yorkshire/yarm/</link>
-	<description>Discover the hidden gems of Yarm in North Yorkshire with our comprehensive travel guide. From cultural attractions to outdoor adventures, delicious local cuisine to cozy accommodations, we've got you covered.</description>
-	<pubDate>2024-07-06T00:17:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
