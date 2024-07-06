@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T23:45:58+03:00</pubDate>
-        <lastBuildDate>2024-07-06T23:45:58+03:00</lastBuildDate>
+        <pubDate>2024-07-07T00:20:42+03:00</pubDate>
+        <lastBuildDate>2024-07-07T00:20:42+03:00</lastBuildDate>
 
         <item>
+	<title>Kochi Travel Guide (Kochi (prefecture)/Shikoku/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/kochi-prefecture/kochi/</link>
+	<description>Plan your trip to Kochi with our comprehensive guide, featuring must-see attractions, outdoor adventures, places to stay, and more.</description>
+	<pubDate>2024-07-07T00:20:42+03:00</pubDate>
+</item><item>
 	<title>Elizabethtown Travel Guide (North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/elizabethtown/</link>
 	<description>Plan your trip to Elizabethtown with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/turks-and-caicos-islands/south-caicos/</link>
 	<description>Discover the best things to do, places to visit, and tips for traveling to South Caicos in Turks and Caicos Islands. Explore the natural beauty, local culture, and must-try cuisine of this Caribbean paradise.</description>
 	<pubDate>2024-07-06T19:42:09+03:00</pubDate>
-</item><item>
-	<title>Jinja Travel Guide (Eastern Uganda/Uganda/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/uganda/eastern-uganda/jinja/</link>
-	<description>Jinja, a beautiful town in Eastern Uganda, is full of rich history, stunning natural beauty, and exciting attractions. Discover everything you need to know for a memorable visit with this comprehensive travel guide.</description>
-	<pubDate>2024-07-06T19:30:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
