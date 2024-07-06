@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T08:41:15+03:00</pubDate>
-        <lastBuildDate>2024-07-06T08:41:15+03:00</lastBuildDate>
+        <pubDate>2024-07-06T09:13:20+03:00</pubDate>
+        <lastBuildDate>2024-07-06T09:13:20+03:00</lastBuildDate>
 
         <item>
+	<title>West Coast Travel Guide (Suriname/South America)</title>
+	<link>https://travellers.wiki/en/south-america/suriname/west-coast/</link>
+	<description>Explore the rich culture, breathtaking natural beauty, and local cuisine of West Coast, Suriname with this comprehensive travel guide. Discover the must-see attractions, outdoor adventures, hiking and biking routes, and more.</description>
+	<pubDate>2024-07-06T09:13:20+03:00</pubDate>
+</item><item>
 	<title>Horsley Hills Travel Guide (Rayalaseema/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/rayalaseema/horsley-hills/</link>
 	<description>Plan your perfect getaway with our comprehensive travel guide to Horsley Hills. Explore top attractions, accommodation options, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/southern-great-plain/bekes-county/</link>
 	<description>Discover the beauty of Békés County through this travel guide. Learn about the best attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-07-06T04:33:45+03:00</pubDate>
-</item><item>
-	<title>Uig Travel Guide (Skye/Inner Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/inner-hebrides/skye/uig/</link>
-	<description>Explore the hidden gems of Skye with our comprehensive Uig travel guide. Discover the best things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-07-06T04:16:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
