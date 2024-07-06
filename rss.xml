@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T00:36:54+03:00</pubDate>
-        <lastBuildDate>2024-07-07T00:36:54+03:00</lastBuildDate>
+        <pubDate>2024-07-07T01:07:53+03:00</pubDate>
+        <lastBuildDate>2024-07-07T01:07:53+03:00</lastBuildDate>
 
         <item>
+	<title>Mariehamn Travel Guide (Åland/Finland/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/finland/aland/mariehamn/</link>
+	<description>Discover the best things to do, places to visit, where to stay, and tips for exploring Mariehamn, located in the beautiful Åland archipelago in Finland.</description>
+	<pubDate>2024-07-07T01:07:53+03:00</pubDate>
+</item><item>
 	<title>Quartzsite Travel Guide (Western Arizona/Arizona/Southwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/western-arizona/quartzsite/</link>
 	<description>Plan your next adventure with our travel guide to Quartzsite, Arizona. Discover the cultural, natural, and culinary delights of this western gem and get tips on where to stay and how to get around.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/northern-ireland/county-down/bangor/</link>
 	<description>This is a comprehensive travel guide for Bangor, Northern Ireland. It covers everything from places to visit, things to do, where to stay, and how to get there and around.</description>
 	<pubDate>2024-07-06T20:47:59+03:00</pubDate>
-</item><item>
-	<title>Lakselv Travel Guide (Finnmark/Northern Norway/Norway/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/norway/northern-norway/finnmark/lakselv/</link>
-	<description>Discover the rich culture and natural beauty of Lakselv with our informative travel guide. From outdoor adventures to local cuisine, we've got you covered.</description>
-	<pubDate>2024-07-06T20:25:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
