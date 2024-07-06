@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T13:06:07+03:00</pubDate>
-        <lastBuildDate>2024-07-06T13:06:07+03:00</lastBuildDate>
+        <pubDate>2024-07-06T13:49:06+03:00</pubDate>
+        <lastBuildDate>2024-07-06T13:49:06+03:00</lastBuildDate>
 
         <item>
+	<title>Berenty Reserve Travel Guide (Toliara Province/Madagascar/East African Islands/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-african-islands/madagascar/toliara-province/berenty-reserve/</link>
+	<description>Discover the best attractions, activities, hiking and biking routes, where to stay, food and drink scene, local culture and customs, safety and health measures, transportation, and nearby destinations in Berenty Reserve in Madagascar.</description>
+	<pubDate>2024-07-06T13:49:06+03:00</pubDate>
+</item><item>
 	<title>Tuxtla Gutiérrez Travel Guide (Chiapas/Yucatán and the South/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/chiapas/tuxtla-gutierrez/</link>
 	<description>Plan your trip to Tuxtla Gutiérrez with our comprehensive guide including where to stay, what to do, where to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/suriname/west-coast/</link>
 	<description>Explore the rich culture, breathtaking natural beauty, and local cuisine of West Coast, Suriname with this comprehensive travel guide. Discover the must-see attractions, outdoor adventures, hiking and biking routes, and more.</description>
 	<pubDate>2024-07-06T09:13:20+03:00</pubDate>
-</item><item>
-	<title>Horsley Hills Travel Guide (Rayalaseema/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/rayalaseema/horsley-hills/</link>
-	<description>Plan your perfect getaway with our comprehensive travel guide to Horsley Hills. Explore top attractions, accommodation options, local culture, and more.</description>
-	<pubDate>2024-07-06T08:41:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
