@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T15:03:03+03:00</pubDate>
-        <lastBuildDate>2024-07-06T15:03:03+03:00</lastBuildDate>
+        <pubDate>2024-07-06T15:11:00+03:00</pubDate>
+        <lastBuildDate>2024-07-06T15:11:00+03:00</lastBuildDate>
 
         <item>
+	<title>Itasca Travel Guide (Northwest Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/northwest-suburbs/itasca/</link>
+	<description>Plan your perfect trip to Itasca with this travel guide featuring attractions, accommodations, and transportation options.</description>
+	<pubDate>2024-07-06T15:11:00+03:00</pubDate>
+</item><item>
 	<title>Paithan Travel Guide (Marathwada/Maharashtra/Western India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/marathwada/paithan/</link>
 	<description>Explore the culturally rich town of Paithan in Maharashtra with this comprehensive travel guide, including places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/south-australia/adelaide-region/adelaide-hills/</link>
 	<description>Plan your trip to Adelaide Hills, South Australia with this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay.</description>
 	<pubDate>2024-07-06T10:37:05+03:00</pubDate>
-</item><item>
-	<title>Great Australian Bight Marine Park Travel Guide (South Australia/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/south-australia/great-australian-bight-marine-park/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Great Australian Bight Marine Park, South Australia, Oceania. Plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-07-06T10:19:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
