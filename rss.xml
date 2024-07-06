@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-06T09:13:20+03:00</pubDate>
-        <lastBuildDate>2024-07-06T09:13:20+03:00</lastBuildDate>
+        <pubDate>2024-07-06T09:39:55+03:00</pubDate>
+        <lastBuildDate>2024-07-06T09:39:55+03:00</lastBuildDate>
 
         <item>
+	<title>La Entrada Travel Guide (Honduran Highlands/Honduras/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/honduras/honduran-highlands/la-entrada/</link>
+	<description>Explore the culturally important attractions, natural wonders and outdoor adventures of La Entrada. Learn about the best things to do in La Entrada, where to stay, how to get around and more.</description>
+	<pubDate>2024-07-06T09:39:55+03:00</pubDate>
+</item><item>
 	<title>West Coast Travel Guide (Suriname/South America)</title>
 	<link>https://travellers.wiki/en/south-america/suriname/west-coast/</link>
 	<description>Explore the rich culture, breathtaking natural beauty, and local cuisine of West Coast, Suriname with this comprehensive travel guide. Discover the must-see attractions, outdoor adventures, hiking and biking routes, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/butler-county/hamilton/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Hamilton, Ohio. Read our travel guide for insider tips, recommendations and more!</description>
 	<pubDate>2024-07-06T05:30:44+03:00</pubDate>
-</item><item>
-	<title>Békés County Travel Guide (Southern Great Plain/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/southern-great-plain/bekes-county/</link>
-	<description>Discover the beauty of Békés County through this travel guide. Learn about the best attractions, activities, accommodations, and more.</description>
-	<pubDate>2024-07-06T04:33:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
