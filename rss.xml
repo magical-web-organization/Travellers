@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T23:18:02+03:00</pubDate>
-        <lastBuildDate>2024-07-07T23:18:02+03:00</lastBuildDate>
+        <pubDate>2024-07-07T23:48:16+03:00</pubDate>
+        <lastBuildDate>2024-07-07T23:48:16+03:00</lastBuildDate>
 
         <item>
+	<title>Nahant Travel Guide (North Shore/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/north-shore/nahant/</link>
+	<description>Nahant is a hidden gem on the North Shore of Massachusetts. Our travel guide covers the best places to visit, hike, eat, and stay, along with local customs and safety tips.</description>
+	<pubDate>2024-07-07T23:48:16+03:00</pubDate>
+</item><item>
 	<title>Peermade Travel Guide (Northern Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/northern-travancore/peermade/</link>
 	<description>Explore Peermade, a scenic and culturally rich destination in Northern Travancore, Kerala. Learn about its top attractions, food scene, where to stay, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/peloponnese/laconia/mystras/</link>
 	<description>Discover the best things to do, places to visit, and local culture in Mystras, a historical city in Greece. Plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-07-07T19:31:59+03:00</pubDate>
-</item><item>
-	<title>Gopalganj Travel Guide (Dhaka Division/Bangladesh/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/dhaka-division/gopalganj/</link>
-	<description>Discover the top places to visit, things to do, where to stay, and more in Gopalganj, Bangladesh.</description>
-	<pubDate>2024-07-07T18:34:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
