@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T08:12:25+03:00</pubDate>
-        <lastBuildDate>2024-07-07T08:12:25+03:00</lastBuildDate>
+        <pubDate>2024-07-07T09:03:00+03:00</pubDate>
+        <lastBuildDate>2024-07-07T09:03:00+03:00</lastBuildDate>
 
         <item>
+	<title>Horton Plains Travel Guide (Central Province/Sri Lanka/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/sri-lanka/central-province/horton-plains/</link>
+	<description>Travel to Horton Plains and discover its natural and cultural attractions, food and drink scene, accommodations, local culture and customs, safety and health tips, transportation options, and nearby destinations.</description>
+	<pubDate>2024-07-07T09:03:00+03:00</pubDate>
+</item><item>
 	<title>Salang Pass Travel Guide (Northwest Afghanistan/Afghanistan/Central Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/central-asia/afghanistan/northwest-afghanistan/salang-pass/</link>
 	<description>Discover the beauty of Salang Pass with our ultimate travel guide, including top attractions, local culture, safety tips, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/frontier-country/norman/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and tips for a safe and enjoyable trip to Norman, Oklahoma.</description>
 	<pubDate>2024-07-07T04:29:17+03:00</pubDate>
-</item><item>
-	<title>Pine Cay Travel Guide (Turks and Caicos Islands/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/turks-and-caicos-islands/pine-cay/</link>
-	<description>Plan your trip to Pine Cay with our ultimate travel guide. Find out about the best places to visit, things to do, where to eat and stay, and more!</description>
-	<pubDate>2024-07-07T03:42:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
