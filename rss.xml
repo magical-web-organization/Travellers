@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T02:15:20+03:00</pubDate>
-        <lastBuildDate>2024-07-07T02:15:20+03:00</lastBuildDate>
+        <pubDate>2024-07-07T03:00:09+03:00</pubDate>
+        <lastBuildDate>2024-07-07T03:00:09+03:00</lastBuildDate>
 
         <item>
+	<title>Red Wharf Bay Travel Guide (Anglesey/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/anglesey/red-wharf-bay/</link>
+	<description>Plan your trip to Red Wharf Bay with our comprehensive travel guide. Discover the best things to do, places to visit, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-07-07T03:00:09+03:00</pubDate>
+</item><item>
 	<title>Vileyka Travel Guide (Minsk Region/Belarus/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/minsk-region/vileyka/</link>
 	<description>Discover the hidden gems of Vileyka, a quaint town of Belarus, East Europe, as we offer a comprehensive guide to the best attractions, accommodations, local cuisine, and cultural experiences. Plan your itinerary to Vileyka with our useful travel tips and do's and don'ts.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/espirito-santo/northwest-espirito-santo/</link>
 	<description>Discover the cultural and natural attractions of Northwest Espírito Santo with this comprehensive tour guide. Plan your itinerary, find the best places to stay, and learn about the local culture and customs.</description>
 	<pubDate>2024-07-06T22:30:06+03:00</pubDate>
-</item><item>
-	<title>Salto Travel Guide (Northern Interior/Uruguay/South America)</title>
-	<link>https://travellers.wiki/en/south-america/uruguay/northern-interior/salto/</link>
-	<description>Plan your trip to Salto in Uruguay with our comprehensive travel guide. Find out the best places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-07-06T22:02:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
