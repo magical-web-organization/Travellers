@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T20:21:46+03:00</pubDate>
-        <lastBuildDate>2024-07-07T20:21:46+03:00</lastBuildDate>
+        <pubDate>2024-07-07T20:51:15+03:00</pubDate>
+        <lastBuildDate>2024-07-07T20:51:15+03:00</lastBuildDate>
 
         <item>
+	<title>Dengfeng Travel Guide (North Henan/Henan/North China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/henan/north-henan/dengfeng/</link>
+	<description>Discover the culture and nature of Dengfeng, China with our comprehensive travel guide. Learn about the must-visit places, food, accommodations, and logistics.</description>
+	<pubDate>2024-07-07T20:51:15+03:00</pubDate>
+</item><item>
 	<title>Yamoussoukro Travel Guide (Eastern Plantations/Côte d'Ivoire/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/cote-d-ivoire/eastern-plantations/yamoussoukro/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Yamoussoukro, Côte d'Ivoire, with our comprehensive travel guide. From cultural attractions to outdoor adventures, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/sicily/syracuse-province/noto/</link>
 	<description>Discover the best things to do, places to stay, food to try, and more in Noto, Sicily, with our travel guide.</description>
 	<pubDate>2024-07-07T16:12:21+03:00</pubDate>
-</item><item>
-	<title>Highlands Travel Guide (Papua New Guinea/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/papua-new-guinea/highlands/</link>
-	<description>Discover the best places to visit, top things to do, food and drink scene, where to stay, local customs, safety and health tips, and transportation options to explore the Highlands region of Papua New Guinea.</description>
-	<pubDate>2024-07-07T15:48:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
