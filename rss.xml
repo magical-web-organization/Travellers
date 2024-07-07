@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T14:49:20+03:00</pubDate>
-        <lastBuildDate>2024-07-07T14:49:20+03:00</lastBuildDate>
+        <pubDate>2024-07-07T15:07:19+03:00</pubDate>
+        <lastBuildDate>2024-07-07T15:07:19+03:00</lastBuildDate>
 
         <item>
+	<title>Aasiaat Travel Guide (Western Greenland/Greenland/North America)</title>
+	<link>https://travellers.wiki/en/north-america/greenland/western-greenland/aasiaat/</link>
+	<description>Discover the best places to visit, food to try, things to do, where to stay, and how to get around in Aasiaat, Greenland.</description>
+	<pubDate>2024-07-07T15:07:19+03:00</pubDate>
+</item><item>
 	<title>Exeter Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/exeter/</link>
 	<description>Discover the top places to visit, things to do, where to stay, and what to eat in Exeter, Devon, with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/laprairie/</link>
 	<description>Laprairie is a must-visit destination in Quebec, Canada. Discover the best things to do and see by checking out our comprehensive Laprairie travel guide.</description>
 	<pubDate>2024-07-07T10:42:47+03:00</pubDate>
-</item><item>
-	<title>Bavaro Travel Guide (Eastern Dominican Republic/Dominican Republic/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/dominican-republic/eastern-dominican-republic/bavaro/</link>
-	<description>Get a comprehensive guide to explore Bavaro, including a list of places to visit, activities to do, best time to visit, where to stay, and what to buy. Join us now!</description>
-	<pubDate>2024-07-07T10:21:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
