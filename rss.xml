@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T04:48:06+03:00</pubDate>
-        <lastBuildDate>2024-07-07T04:48:06+03:00</lastBuildDate>
+        <pubDate>2024-07-07T05:21:26+03:00</pubDate>
+        <lastBuildDate>2024-07-07T05:21:26+03:00</lastBuildDate>
 
         <item>
+	<title>Noyemberyan Travel Guide (Northern Armenia/Armenia/Caucasus/Asia)</title>
+	<link>https://travellers.wiki/en/asia/caucasus/armenia/northern-armenia/noyemberyan/</link>
+	<description>Discover the natural, cultural, and historical attractions of Noyemberyan in Northern Armenia with our comprehensive travel guide featuring tips, itineraries, and recommendations.</description>
+	<pubDate>2024-07-07T05:21:26+03:00</pubDate>
+</item><item>
 	<title>Samos Travel Guide (East Aegean Islands/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/east-aegean-islands/samos/</link>
 	<description>Are you planning a trip to Samos, Greece? Here's your ultimate travel guide covering everything from where to stay, what to eat, what to do, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/western-arizona/quartzsite/</link>
 	<description>Plan your next adventure with our travel guide to Quartzsite, Arizona. Discover the cultural, natural, and culinary delights of this western gem and get tips on where to stay and how to get around.</description>
 	<pubDate>2024-07-07T00:36:54+03:00</pubDate>
-</item><item>
-	<title>Kochi Travel Guide (Kochi (prefecture)/Shikoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/shikoku/kochi-prefecture/kochi/</link>
-	<description>Plan your trip to Kochi with our comprehensive guide, featuring must-see attractions, outdoor adventures, places to stay, and more.</description>
-	<pubDate>2024-07-07T00:20:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
