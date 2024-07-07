@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T13:37:39+03:00</pubDate>
-        <lastBuildDate>2024-07-07T13:37:39+03:00</lastBuildDate>
+        <pubDate>2024-07-07T14:25:17+03:00</pubDate>
+        <lastBuildDate>2024-07-07T14:25:17+03:00</lastBuildDate>
 
         <item>
+	<title>Benxi Travel Guide (Eastern Hills/Liaoning/Northeast China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/liaoning/eastern-hills/benxi/</link>
+	<description>Plan a trip to Benxi, China with this comprehensive travel guide featuring the must-visit places, the best things to do, the food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-07-07T14:25:17+03:00</pubDate>
+</item><item>
 	<title>Red Bank Travel Guide (Monmouth County/Jersey Shore/New Jersey/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/monmouth-county/red-bank/</link>
 	<description>Planning a trip to Red Bank? Read our comprehensive guide to discover the best things to do, places to stay, food to eat, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/canyon-country/grand-staircase-escalante-national-monument/</link>
 	<description>A comprehensive travel guide to Grand Staircase-Escalante National Monument, including places to visit, hiking routes, activities, food and drink, where to stay, and more.</description>
 	<pubDate>2024-07-07T09:57:58+03:00</pubDate>
-</item><item>
-	<title>Mikkeli Travel Guide (South Savonia/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/south-savonia/mikkeli/</link>
-	<description>Plan your trip to Mikkeli with our informative travel guide. Explore the cultural and natural attractions, food scene, accommodations, local culture, safety tips, transportation options and more.</description>
-	<pubDate>2024-07-07T09:07:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
