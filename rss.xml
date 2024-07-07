@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T20:51:15+03:00</pubDate>
-        <lastBuildDate>2024-07-07T20:51:15+03:00</lastBuildDate>
+        <pubDate>2024-07-07T21:31:36+03:00</pubDate>
+        <lastBuildDate>2024-07-07T21:31:36+03:00</lastBuildDate>
 
         <item>
+	<title>Santa Maria di Leuca Travel Guide (Lecce (province)/Apulia/Southern Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/lecce-province/santa-maria-di-leuca/</link>
+	<description>Plan your trip to Santa Maria di Leuca with our comprehensive guide. Discover the attractions, things to do, where to stay, and much more.</description>
+	<pubDate>2024-07-07T21:31:36+03:00</pubDate>
+</item><item>
 	<title>Dengfeng Travel Guide (North Henan/Henan/North China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/henan/north-henan/dengfeng/</link>
 	<description>Discover the culture and nature of Dengfeng, China with our comprehensive travel guide. Learn about the must-visit places, food, accommodations, and logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/central-circuit/otaru/</link>
 	<description>Discover the picturesque Otaru town in the Hokkaido region of Japan with this comprehensive travel guide. Find the best places to visit, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-07-07T16:38:11+03:00</pubDate>
-</item><item>
-	<title>Noto Travel Guide (Syracuse (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/syracuse-province/noto/</link>
-	<description>Discover the best things to do, places to stay, food to try, and more in Noto, Sicily, with our travel guide.</description>
-	<pubDate>2024-07-07T16:12:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
