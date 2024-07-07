@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-08T00:32:37+03:00</pubDate>
-        <lastBuildDate>2024-07-08T00:32:37+03:00</lastBuildDate>
+        <pubDate>2024-07-08T00:59:39+03:00</pubDate>
+        <lastBuildDate>2024-07-08T00:59:39+03:00</lastBuildDate>
 
         <item>
+	<title>Frasassi Caves Travel Guide (Ancona (province)/Marche/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/marche/ancona-province/frasassi-caves/</link>
+	<description>Explore the beautiful Frasassi Caves with this comprehensive tour guide, including top things to do, where to stay, what to eat, and how to get around. Discover the beauty of Ancona, Marche, Central Italy, and Europe.</description>
+	<pubDate>2024-07-08T00:59:39+03:00</pubDate>
+</item><item>
 	<title>Janjgir Travel Guide (Chhattisgarh/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/chhattisgarh/janjgir/</link>
 	<description>Explore the culturally rich and scenic Janjgir, Chhattisgarh with our comprehensive travel guide. Know about the list of places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/cote-d-ivoire/eastern-plantations/yamoussoukro/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Yamoussoukro, Côte d'Ivoire, with our comprehensive travel guide. From cultural attractions to outdoor adventures, we've got you covered.</description>
 	<pubDate>2024-07-07T20:21:46+03:00</pubDate>
-</item><item>
-	<title>Portlaoise Travel Guide (County Laois/East Coast and Midlands/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-laois/portlaoise/</link>
-	<description>Discover the best attractions, activities, local culture, and safety tips for a memorable visit to Portlaoise, Ireland.</description>
-	<pubDate>2024-07-07T20:03:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
