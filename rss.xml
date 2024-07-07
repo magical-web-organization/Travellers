@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T16:38:11+03:00</pubDate>
-        <lastBuildDate>2024-07-07T16:38:11+03:00</lastBuildDate>
+        <pubDate>2024-07-07T17:31:36+03:00</pubDate>
+        <lastBuildDate>2024-07-07T17:31:36+03:00</lastBuildDate>
 
         <item>
+	<title>Leominster Travel Guide (Herefordshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/herefordshire/leominster/</link>
+	<description>Explore the best of Leominster with our comprehensive travel guide, featuring top places to visit, hiking and biking trails, must-try dishes, where to stay, and more.</description>
+	<pubDate>2024-07-07T17:31:36+03:00</pubDate>
+</item><item>
 	<title>Otaru Travel Guide (Central Circuit/Hokkaido/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/central-circuit/otaru/</link>
 	<description>Discover the picturesque Otaru town in the Hokkaido region of Japan with this comprehensive travel guide. Find the best places to visit, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/eastern-arizona/holbrook/</link>
 	<description>Explore Holbrook, Arizona - a gateway to the Petrified Forest National Park, with a comprehensive travel guide including the best places to visit, hiking and biking routes, food scene, where to stay, and more. Discover it all!</description>
 	<pubDate>2024-07-07T12:57:17+03:00</pubDate>
-</item><item>
-	<title>International Falls Travel Guide (Northeastern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northeastern-minnesota/international-falls/</link>
-	<description>Discover the best things to do, where to stay, where to eat, and how to get around in International Falls.</description>
-	<pubDate>2024-07-07T12:30:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
