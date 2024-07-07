@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T10:21:30+03:00</pubDate>
-        <lastBuildDate>2024-07-07T10:21:30+03:00</lastBuildDate>
+        <pubDate>2024-07-07T10:42:47+03:00</pubDate>
+        <lastBuildDate>2024-07-07T10:42:47+03:00</lastBuildDate>
 
         <item>
+	<title>Laprairie Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/laprairie/</link>
+	<description>Laprairie is a must-visit destination in Quebec, Canada. Discover the best things to do and see by checking out our comprehensive Laprairie travel guide.</description>
+	<pubDate>2024-07-07T10:42:47+03:00</pubDate>
+</item><item>
 	<title>Bavaro Travel Guide (Eastern Dominican Republic/Dominican Republic/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/dominican-republic/eastern-dominican-republic/bavaro/</link>
 	<description>Get a comprehensive guide to explore Bavaro, including a list of places to visit, activities to do, best time to visit, where to stay, and what to buy. Join us now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/caribbean-nicaragua/pearl-lagoon/</link>
 	<description>Get ready to pack your bags and discover the gorgeous Pearl Lagoon in the heart of Central America. This comprehensive travel guide covers everything from cultural attractions to outdoor adventures, where to stay, what to eat, and much more.</description>
 	<pubDate>2024-07-07T06:09:17+03:00</pubDate>
-</item><item>
-	<title>Garki Travel Guide (Abuja/Federal Capital Territory/North Central Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/federal-capital-territory/abuja/garki/</link>
-	<description>Plan your trip to Garki, Abuja with this comprehensive travel guide featuring top attractions, things to do, where to stay, and more.</description>
-	<pubDate>2024-07-07T05:39:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
