@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T18:06:19+03:00</pubDate>
-        <lastBuildDate>2024-07-07T18:06:19+03:00</lastBuildDate>
+        <pubDate>2024-07-07T18:34:19+03:00</pubDate>
+        <lastBuildDate>2024-07-07T18:34:19+03:00</lastBuildDate>
 
         <item>
+	<title>Gopalganj Travel Guide (Dhaka Division/Bangladesh/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/dhaka-division/gopalganj/</link>
+	<description>Discover the top places to visit, things to do, where to stay, and more in Gopalganj, Bangladesh.</description>
+	<pubDate>2024-07-07T18:34:19+03:00</pubDate>
+</item><item>
 	<title>Inopacan Travel Guide (Leyte Island/Visayas/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/leyte-island/inopacan/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in beautiful Inopacan, Philippines with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/liaoning/eastern-hills/benxi/</link>
 	<description>Plan a trip to Benxi, China with this comprehensive travel guide featuring the must-visit places, the best things to do, the food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-07-07T14:25:17+03:00</pubDate>
-</item><item>
-	<title>Red Bank Travel Guide (Monmouth County/Jersey Shore/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/monmouth-county/red-bank/</link>
-	<description>Planning a trip to Red Bank? Read our comprehensive guide to discover the best things to do, places to stay, food to eat, and more!</description>
-	<pubDate>2024-07-07T13:37:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
