@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T18:34:19+03:00</pubDate>
-        <lastBuildDate>2024-07-07T18:34:19+03:00</lastBuildDate>
+        <pubDate>2024-07-07T19:31:59+03:00</pubDate>
+        <lastBuildDate>2024-07-07T19:31:59+03:00</lastBuildDate>
 
         <item>
+	<title>Mystras Travel Guide (Laconia/Peloponnese/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/peloponnese/laconia/mystras/</link>
+	<description>Discover the best things to do, places to visit, and local culture in Mystras, a historical city in Greece. Plan your trip with our comprehensive travel guide.</description>
+	<pubDate>2024-07-07T19:31:59+03:00</pubDate>
+</item><item>
 	<title>Gopalganj Travel Guide (Dhaka Division/Bangladesh/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/dhaka-division/gopalganj/</link>
 	<description>Discover the top places to visit, things to do, where to stay, and more in Gopalganj, Bangladesh.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/exeter/</link>
 	<description>Discover the top places to visit, things to do, where to stay, and what to eat in Exeter, Devon, with our comprehensive travel guide.</description>
 	<pubDate>2024-07-07T14:49:20+03:00</pubDate>
-</item><item>
-	<title>Benxi Travel Guide (Eastern Hills/Liaoning/Northeast China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northeast-china/liaoning/eastern-hills/benxi/</link>
-	<description>Plan a trip to Benxi, China with this comprehensive travel guide featuring the must-visit places, the best things to do, the food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-07-07T14:25:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
