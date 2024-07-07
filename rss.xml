@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T18:03:00+03:00</pubDate>
-        <lastBuildDate>2024-07-07T18:03:00+03:00</lastBuildDate>
+        <pubDate>2024-07-07T18:06:19+03:00</pubDate>
+        <lastBuildDate>2024-07-07T18:06:19+03:00</lastBuildDate>
 
         <item>
+	<title>Inopacan Travel Guide (Leyte Island/Visayas/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/leyte-island/inopacan/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in beautiful Inopacan, Philippines with this comprehensive travel guide.</description>
+	<pubDate>2024-07-07T18:06:19+03:00</pubDate>
+</item><item>
 	<title>Klausen Travel Guide (South Tyrol/Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/south-tyrol/klausen/</link>
 	<description>A comprehensive travel guide for Klausen, including cultural attractions, outdoor adventures, food and drink, where to stay, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/jersey-shore/monmouth-county/red-bank/</link>
 	<description>Planning a trip to Red Bank? Read our comprehensive guide to discover the best things to do, places to stay, food to eat, and more!</description>
 	<pubDate>2024-07-07T13:37:39+03:00</pubDate>
-</item><item>
-	<title>Sun Lakes-Dry Falls State Park Travel Guide (Columbia River Plateau/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/columbia-river-plateau/sun-lakes-dry-falls-state-park/</link>
-	<description>This travel guide provides helpful information and tips for visiting Sun Lakes-Dry Falls State Park, including a list of places to visit, hiking and biking routes, food and drink recommendations, where to stay, and more.</description>
-	<pubDate>2024-07-07T13:25:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
