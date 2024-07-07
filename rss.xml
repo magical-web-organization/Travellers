@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-07T07:33:14+03:00</pubDate>
-        <lastBuildDate>2024-07-07T07:33:14+03:00</lastBuildDate>
+        <pubDate>2024-07-07T07:42:08+03:00</pubDate>
+        <lastBuildDate>2024-07-07T07:42:08+03:00</lastBuildDate>
 
         <item>
+	<title>Uddevalla Travel Guide (Bohuslän/Götaland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/bohuslan/uddevalla/</link>
+	<description>Explore the charm of Uddevalla, a beautiful town in Bohuslän, Sweden, with this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay, along with local customs and safety tips.</description>
+	<pubDate>2024-07-07T07:42:08+03:00</pubDate>
+</item><item>
 	<title>Quill Lakes Travel Guide (East Central Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/east-central-saskatchewan/quill-lakes/</link>
 	<description>Planning a trip to Quill Lakes? This comprehensive travel guide covers everything you need to know about the destination, including the best things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-atlantic-ocean/azores/santa-maria/</link>
 	<description>Discover the best places to visit, things to do, local food, cultural customs and safety tips for your trip to Santa Maria, Azores.</description>
 	<pubDate>2024-07-07T03:25:12+03:00</pubDate>
-</item><item>
-	<title>Red Wharf Bay Travel Guide (Anglesey/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/anglesey/red-wharf-bay/</link>
-	<description>Plan your trip to Red Wharf Bay with our comprehensive travel guide. Discover the best things to do, places to visit, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-07-07T03:00:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
