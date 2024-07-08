@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-08T11:35:02+03:00</pubDate>
-        <lastBuildDate>2024-07-08T11:35:02+03:00</lastBuildDate>
+        <pubDate>2024-07-08T12:33:22+03:00</pubDate>
+        <lastBuildDate>2024-07-08T12:33:22+03:00</lastBuildDate>
 
         <item>
+	<title>Abilene Travel Guide (North Central Plains/Texas Panhandle/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/texas-panhandle/north-central-plains/abilene/</link>
+	<description>Plan your trip to Abilene, Texas with this comprehensive travel guide. Discover the best places to visit, eat, stay, and how to get there.</description>
+	<pubDate>2024-07-08T12:33:22+03:00</pubDate>
+</item><item>
 	<title>Belturbet Travel Guide (County Cavan/Northwest Ireland and Lakelands/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-cavan/belturbet/</link>
 	<description>Discover the hidden gems of Belturbet – from amazing outdoor adventures, delicious local dishes, and fascinating cultural sites, our complete Belturbet travel guide has everything you need to know.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/central-west/mata/</link>
 	<description>Plan your trip to Mata with this comprehensive guide. Discover the best places to visit, eat, stay, and more.</description>
 	<pubDate>2024-07-08T08:00:35+03:00</pubDate>
-</item><item>
-	<title>Tallahassee Travel Guide (Middle Florida/Florida Panhandle/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-panhandle/middle-florida/tallahassee/</link>
-	<description>Discover the best places to visit in Tallahassee - the Tallahassee Museum, the Florida Historic Capitol Museum, the Alfred B. Maclay Gardens State Park and much more. From hiking and biking paths to local food scene and souvenirs, experience the local culture with our guide.</description>
-	<pubDate>2024-07-08T07:26:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
