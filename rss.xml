@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T00:49:34+03:00</pubDate>
-        <lastBuildDate>2024-07-09T00:49:34+03:00</lastBuildDate>
+        <pubDate>2024-07-09T01:18:19+03:00</pubDate>
+        <lastBuildDate>2024-07-09T01:18:19+03:00</lastBuildDate>
 
         <item>
+	<title>Kidron Travel Guide (Wooster area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/wooster-area/kidron/</link>
+	<description>Discover the best things to do in Kidron, Ohio with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
+	<pubDate>2024-07-09T01:18:19+03:00</pubDate>
+</item><item>
 	<title>Cinnaminson Travel Guide (Burlington County/Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/burlington-county/cinnaminson/</link>
 	<description>Planning a trip to Cinnaminson? Check out our comprehensive travel guide with tips on where to stay, what to do, and how to get there.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/miyagi/kinkasan/</link>
 	<description>Plan your trip to Kinkasan with this comprehensive travel guide, covering all the essential aspects of sightseeing, food, accommodation, culture, safety, and transportation. Discover the best places to visit, things to do, when to go, and more.</description>
 	<pubDate>2024-07-08T20:51:04+03:00</pubDate>
-</item><item>
-	<title>Petrela Travel Guide (Northeastern Albania/Albania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/albania/northeastern-albania/petrela/</link>
-	<description>Plan your trip to Petrela in Albania with our comprehensive travel guide. Discover the best places to visit, hike, eat, and stay. Learn about the local culture, customs, and transportation options.</description>
-	<pubDate>2024-07-08T20:06:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
