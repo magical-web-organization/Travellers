@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-08T09:58:30+03:00</pubDate>
-        <lastBuildDate>2024-07-08T09:58:30+03:00</lastBuildDate>
+        <pubDate>2024-07-08T10:32:04+03:00</pubDate>
+        <lastBuildDate>2024-07-08T10:32:04+03:00</lastBuildDate>
 
         <item>
+	<title>Santa Teresa Travel Guide (Southwest New Mexico/New Mexico/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/southwest-new-mexico/santa-teresa/</link>
+	<description>Explore the historic and natural attractions, best things to do, food and drinks, accommodation, souvenirs, and customs of Santa Teresa, New Mexico in our comprehensive guide.</description>
+	<pubDate>2024-07-08T10:32:04+03:00</pubDate>
+</item><item>
 	<title>Jackson Travel Guide (Western Tennessee/Tennessee/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/western-tennessee/jackson/</link>
 	<description>Plan your trip to Jackson, Tennessee with our comprehensive travel guide. Discover the best attractions, hiking routes, activities, food scene, accommodations, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/saint-john-river-valley/perth-andover/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to buy, local culture, safety tips and more in Perth-Andover, New Brunswick, Canada.</description>
 	<pubDate>2024-07-08T05:34:52+03:00</pubDate>
-</item><item>
-	<title>New Canaan Travel Guide (Fairfield County/Connecticut/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/fairfield-county/new-canaan/</link>
-	<description>A comprehensive tour guide for New Canaan, including places to visit, hiking/biking routes, best things to do, where to stay, local culture, safety, and transportation options.</description>
-	<pubDate>2024-07-08T05:24:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
