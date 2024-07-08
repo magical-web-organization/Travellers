@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T01:59:40+03:00</pubDate>
-        <lastBuildDate>2024-07-09T01:59:40+03:00</lastBuildDate>
+        <pubDate>2024-07-09T02:12:11+03:00</pubDate>
+        <lastBuildDate>2024-07-09T02:12:11+03:00</lastBuildDate>
 
         <item>
+	<title>Paris Travel Guide (Ouachitas/Arkansas/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/ouachitas/paris/</link>
+	<description>Discover all the top attractions, food and drink scene, lodging options, travel tips, and more with this comprehensive travel guide to Paris.</description>
+	<pubDate>2024-07-09T02:12:11+03:00</pubDate>
+</item><item>
 	<title>Hitzacker Travel Guide (Lüneburg Heath/Lower Saxony/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/luneburg-heath/hitzacker/</link>
 	<description>Discover the top attractions, activities, places to stay, and local food scene of Hitzacker in this comprehensive travel guide. Plan your trip to the hidden gem of Lower Saxony with ease!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/omak/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Omak, Washington. Plan your trip with this comprehensive travel guide and explore the cultural and natural attractions of this beautiful city.</description>
 	<pubDate>2024-07-08T21:37:57+03:00</pubDate>
-</item><item>
-	<title>Exeter Travel Guide (South County/Rhode Island/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/south-county/exeter/</link>
-	<description>A detailed travel guide offering information on the places to visit, things to do, and other important details about Exeter, Rhode Island.</description>
-	<pubDate>2024-07-08T21:29:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
