@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-08T09:15:36+03:00</pubDate>
-        <lastBuildDate>2024-07-08T09:15:36+03:00</lastBuildDate>
+        <pubDate>2024-07-08T09:58:30+03:00</pubDate>
+        <lastBuildDate>2024-07-08T09:58:30+03:00</lastBuildDate>
 
         <item>
+	<title>Jackson Travel Guide (Western Tennessee/Tennessee/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/tennessee/western-tennessee/jackson/</link>
+	<description>Plan your trip to Jackson, Tennessee with our comprehensive travel guide. Discover the best attractions, hiking routes, activities, food scene, accommodations, and more!</description>
+	<pubDate>2024-07-08T09:58:30+03:00</pubDate>
+</item><item>
 	<title>Joliet Travel Guide (South Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/south-suburbs/joliet/</link>
 	<description>Read this comprehensive guide for a list of places to visit, the best things to do, food and drink scene, where to stay, and more info on Joliet, Illinois.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/fairfield-county/new-canaan/</link>
 	<description>A comprehensive tour guide for New Canaan, including places to visit, hiking/biking routes, best things to do, where to stay, local culture, safety, and transportation options.</description>
 	<pubDate>2024-07-08T05:24:22+03:00</pubDate>
-</item><item>
-	<title>Somers Travel Guide (Connecticut River Valley/Connecticut/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/connecticut-river-valley/somers/</link>
-	<description>Discover all the must-visit places, activities, food, and cultural experiences in Somers with our comprehensive travel guide. Plan your trip with transportation options and logistics and explore the best of Connecticut River Valley, in Connecticut, in New England, in United States of America, in North America.</description>
-	<pubDate>2024-07-08T04:42:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
