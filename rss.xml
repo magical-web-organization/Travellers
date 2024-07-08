@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-08T11:25:51+03:00</pubDate>
-        <lastBuildDate>2024-07-08T11:25:51+03:00</lastBuildDate>
+        <pubDate>2024-07-08T11:35:02+03:00</pubDate>
+        <lastBuildDate>2024-07-08T11:35:02+03:00</lastBuildDate>
 
         <item>
+	<title>Belturbet Travel Guide (County Cavan/Northwest Ireland and Lakelands/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/northwest-ireland-and-lakelands/county-cavan/belturbet/</link>
+	<description>Discover the hidden gems of Belturbet – from amazing outdoor adventures, delicious local dishes, and fascinating cultural sites, our complete Belturbet travel guide has everything you need to know.</description>
+	<pubDate>2024-07-08T11:35:02+03:00</pubDate>
+</item><item>
 	<title>Gavirate Travel Guide (Varese (province)/Lombardy/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/varese-province/gavirate/</link>
 	<description>Our guide to Gavirate provides you with the best places to visit, top things to do, and essential travel tips to help you make the most of your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/florida-panhandle/middle-florida/tallahassee/</link>
 	<description>Discover the best places to visit in Tallahassee - the Tallahassee Museum, the Florida Historic Capitol Museum, the Alfred B. Maclay Gardens State Park and much more. From hiking and biking paths to local food scene and souvenirs, experience the local culture with our guide.</description>
 	<pubDate>2024-07-08T07:26:36+03:00</pubDate>
-</item><item>
-	<title>Hazard Travel Guide (Daniel Boone Country/Kentucky/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/daniel-boone-country/hazard/</link>
-	<description>This comprehensive tour guide for Hazard, Kentucky covers all the best places to visit, things to do, where to stay, what to buy, local culture and much more.</description>
-	<pubDate>2024-07-08T06:40:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
