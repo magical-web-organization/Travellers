@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-08T21:29:00+03:00</pubDate>
-        <lastBuildDate>2024-07-08T21:29:00+03:00</lastBuildDate>
+        <pubDate>2024-07-08T21:37:57+03:00</pubDate>
+        <lastBuildDate>2024-07-08T21:37:57+03:00</lastBuildDate>
 
         <item>
+	<title>Omak Travel Guide (North Cascades/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/omak/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in Omak, Washington. Plan your trip with this comprehensive travel guide and explore the cultural and natural attractions of this beautiful city.</description>
+	<pubDate>2024-07-08T21:37:57+03:00</pubDate>
+</item><item>
 	<title>Exeter Travel Guide (South County/Rhode Island/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/rhode-island/south-county/exeter/</link>
 	<description>A detailed travel guide offering information on the places to visit, things to do, and other important details about Exeter, Rhode Island.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/south-holland/bollenstreek/oegstgeest/</link>
 	<description>Discover the charming town of Oegstgeest in the Netherlands with our comprehensive travel guide, including must-see attractions, things to do, dining options, accommodations, and more.</description>
 	<pubDate>2024-07-08T17:04:35+03:00</pubDate>
-</item><item>
-	<title>Mataró Travel Guide (Barcelona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/mataro/</link>
-	<description>Discover the best places to visit, things to do, and local culture in this comprehensive travel guide to Mataró, Spain.</description>
-	<pubDate>2024-07-08T16:45:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
