@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T00:06:49+03:00</pubDate>
-        <lastBuildDate>2024-07-09T00:06:49+03:00</lastBuildDate>
+        <pubDate>2024-07-09T00:49:34+03:00</pubDate>
+        <lastBuildDate>2024-07-09T00:49:34+03:00</lastBuildDate>
 
         <item>
+	<title>Cinnaminson Travel Guide (Burlington County/Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/burlington-county/cinnaminson/</link>
+	<description>Planning a trip to Cinnaminson? Check out our comprehensive travel guide with tips on where to stay, what to do, and how to get there.</description>
+	<pubDate>2024-07-09T00:49:34+03:00</pubDate>
+</item><item>
 	<title>Kodikunnu Travel Guide (Central Kerala/Kerala/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-kerala/kodikunnu/</link>
 	<description>Discover culturally rich Kodikunnu through our comprehensive travel guide. Find information on must-visit places, food, accommodations, culture, safety, and transportation options, among others.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/albania/northeastern-albania/petrela/</link>
 	<description>Plan your trip to Petrela in Albania with our comprehensive travel guide. Discover the best places to visit, hike, eat, and stay. Learn about the local culture, customs, and transportation options.</description>
 	<pubDate>2024-07-08T20:06:47+03:00</pubDate>
-</item><item>
-	<title>Ainsa Travel Guide (Aragon/Northern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/northern-spain/aragon/ainsa/</link>
-	<description>A detailed travel guide offering a list of places to visit, outdoor adventures, itinerary, food scene, and cultural customs in Ainsa, Spain.</description>
-	<pubDate>2024-07-08T19:41:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
