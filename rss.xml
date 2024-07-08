@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-08T05:34:52+03:00</pubDate>
-        <lastBuildDate>2024-07-08T05:34:52+03:00</lastBuildDate>
+        <pubDate>2024-07-08T06:09:03+03:00</pubDate>
+        <lastBuildDate>2024-07-08T06:09:03+03:00</lastBuildDate>
 
         <item>
+	<title>Bissau Travel Guide (Guinea-Bissau/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/guinea-bissau/bissau/</link>
+	<description>Discover the cultural attractions, natural wonders, and best things to do in Bissau. Get tips on food, lodging, transportation, and safety for a memorable trip to this West African gem.</description>
+	<pubDate>2024-07-08T06:09:03+03:00</pubDate>
+</item><item>
 	<title>Perth-Andover Travel Guide (Saint John River Valley/New Brunswick/Atlantic Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/new-brunswick/saint-john-river-valley/perth-andover/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to buy, local culture, safety tips and more in Perth-Andover, New Brunswick, Canada.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/quintana-roo/puerto-aventuras/</link>
 	<description>Plan your perfect vacation to Puerto Aventuras with this comprehensive travel guide. Discover the best places to visit, things to do, and where to eat and stay in Puerto Aventuras.</description>
 	<pubDate>2024-07-08T01:50:21+03:00</pubDate>
-</item><item>
-	<title>Sayabouly Travel Guide (Northern Laos/Laos/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/laos/northern-laos/sayabouly/</link>
-	<description>Explore the best of Sayabouly with our comprehensive travel guide. From natural attractions to local culture, we've got you covered.</description>
-	<pubDate>2024-07-08T01:23:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
