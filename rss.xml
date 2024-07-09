@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T17:12:36+03:00</pubDate>
-        <lastBuildDate>2024-07-09T17:12:36+03:00</lastBuildDate>
+        <pubDate>2024-07-09T17:41:12+03:00</pubDate>
+        <lastBuildDate>2024-07-09T17:41:12+03:00</lastBuildDate>
 
         <item>
+	<title>Garden Castle Nature Reserve Travel Guide (Ukhahlamba Drakensberg/KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/ukhahlamba-drakensberg/garden-castle-nature-reserve/</link>
+	<description>Discover the beauty and adventure of Garden Castle Nature Reserve with our comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-07-09T17:41:12+03:00</pubDate>
+</item><item>
 	<title>Chapinero-Zona G Travel Guide (Bogotá/Andino/Colombia/South America)</title>
 	<link>https://travellers.wiki/en/south-america/colombia/andino/bogota/chapinero-zona-g/</link>
 	<description>Explore the diverse attractions and experiences in Chapinero-Zona G, Bogotá, Colombia. Discover the best things to do, see, eat, and stay in Chapinero-Zona G with our comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/norrland/gavleborg-county/ockelbo/</link>
 	<description>Explore the best places to visit, food and drink scene, accommodations, transportation options, and more in the small town of Ockelbo, Sweden with our comprehensive travel guide.</description>
 	<pubDate>2024-07-09T13:14:02+03:00</pubDate>
-</item><item>
-	<title>Mount Carmel Travel Guide (Coal Region/Northeastern Pennsylvania/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/coal-region/mount-carmel/</link>
-	<description>Plan a perfect trip to Mount Carmel and explore its culturally important attractions, natural wonders, and outdoor adventures. Read our comprehensive travel guide.</description>
-	<pubDate>2024-07-09T12:52:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
