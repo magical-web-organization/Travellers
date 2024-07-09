@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T11:53:58+03:00</pubDate>
-        <lastBuildDate>2024-07-09T11:53:58+03:00</lastBuildDate>
+        <pubDate>2024-07-09T12:21:50+03:00</pubDate>
+        <lastBuildDate>2024-07-09T12:21:50+03:00</lastBuildDate>
 
         <item>
+	<title>Ubajara Travel Guide (Ceará/Northeast/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/ubajara/</link>
+	<description>Discover the best attractions, activities, local culture, and logistics of Ubajara, North Brazil, in this comprehensive travel guide.</description>
+	<pubDate>2024-07-09T12:21:50+03:00</pubDate>
+</item><item>
 	<title>Congonhas Travel Guide (Central East/Minas Gerais/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/minas-gerais/central-east/congonhas/</link>
 	<description>Plan a trip to Congonhas with this comprehensive travel guide featuring things to do, where to stay, how to get there, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/barbados/central-eastern-barbados/</link>
 	<description>Discover the charm of Central Eastern Barbados with our comprehensive travel guide that provides information on places to visit, best things to do, where to stay, local culture and customs, safety, health, transportation, and more.</description>
 	<pubDate>2024-07-09T08:00:38+03:00</pubDate>
-</item><item>
-	<title>Shaker Heights Travel Guide (Cuyahoga County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/shaker-heights/</link>
-	<description>Discover the best places to visit, things to do, food to try, and more in Shaker Heights! From cultural attractions to natural wonders, this guide has it all.</description>
-	<pubDate>2024-07-09T07:12:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
