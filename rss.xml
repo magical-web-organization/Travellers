@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T13:38:12+03:00</pubDate>
-        <lastBuildDate>2024-07-09T13:38:12+03:00</lastBuildDate>
+        <pubDate>2024-07-09T14:15:04+03:00</pubDate>
+        <lastBuildDate>2024-07-09T14:15:04+03:00</lastBuildDate>
 
         <item>
+	<title>Floyds Knobs Travel Guide (Southern Indiana/Indiana/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southern-indiana/floyds-knobs/</link>
+	<description>Discover Floyds Knobs, Indiana! Read this comprehensive travel guide to find the best attractions, activities, dining options, and local culture of Floyds Knobs, along with useful travel tips and recommendations.</description>
+	<pubDate>2024-07-09T14:15:04+03:00</pubDate>
+</item><item>
 	<title>Charlestown State Park Travel Guide (Southern Indiana/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southern-indiana/charlestown-state-park/</link>
 	<description>Discover the natural attractions, outdoor adventures, historical places, food and drink scene, local culture and customs, and safety and health tips of Charlestown State Park in Southern Indiana with this comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/western-newfoundland/stephenville/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Stephenville, Newfoundland and Labrador, Canada. Read our comprehensive travel guide now.</description>
 	<pubDate>2024-07-09T09:58:48+03:00</pubDate>
-</item><item>
-	<title>Brotas Travel Guide (São Paulo (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/brotas/</link>
-	<description>Explore the best things to do in Brotas, São Paulo, Brazil with this comprehensive travel guide. Discover natural wonders, cultural landmarks, local cuisine, accommodation options, and more.</description>
-	<pubDate>2024-07-09T09:10:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
