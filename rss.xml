@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T15:57:51+03:00</pubDate>
-        <lastBuildDate>2024-07-09T15:57:51+03:00</lastBuildDate>
+        <pubDate>2024-07-09T16:22:08+03:00</pubDate>
+        <lastBuildDate>2024-07-09T16:22:08+03:00</lastBuildDate>
 
         <item>
+	<title>Franconia Travel Guide (White Mountains/New Hampshire/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/white-mountains/franconia/</link>
+	<description>Explore Franconia with our comprehensive travel guide and learn about the best places to visit, stay, and more. From outdoor adventures to delicious food, we've got you covered!</description>
+	<pubDate>2024-07-09T16:22:08+03:00</pubDate>
+</item><item>
 	<title>Ostabat-Asme Travel Guide (Pyrénées-Atlantiques/Nouvelle-Aquitaine/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/pyrenees-atlantiques/ostabat-asme/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Ostabat-Asme, France. Explore the local culture, food scene, and nearby attractions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/minas-gerais/central-east/congonhas/</link>
 	<description>Plan a trip to Congonhas with this comprehensive travel guide featuring things to do, where to stay, how to get there, and more.</description>
 	<pubDate>2024-07-09T11:53:58+03:00</pubDate>
-</item><item>
-	<title>Divjaka-Karavasta National Park Travel Guide (Coastal Albania/Albania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/albania/coastal-albania/divjaka-karavasta-national-park/</link>
-	<description>Discover the best things to do, places to see, and where to stay in Divjaka-Karavasta National Park, Albania. Read this extensive guide for a memorable visit!</description>
-	<pubDate>2024-07-09T11:05:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
