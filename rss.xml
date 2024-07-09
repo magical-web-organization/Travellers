@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T18:46:44+03:00</pubDate>
-        <lastBuildDate>2024-07-09T18:46:44+03:00</lastBuildDate>
+        <pubDate>2024-07-09T19:30:36+03:00</pubDate>
+        <lastBuildDate>2024-07-09T19:30:36+03:00</lastBuildDate>
 
         <item>
+	<title>Rhoose Travel Guide (Glamorgan/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/glamorgan/rhoose/</link>
+	<description>Plan your trip to Rhoose with this travel guide, featuring top attractions, hiking routes, food spots, cultural insights, and safety information.</description>
+	<pubDate>2024-07-09T19:30:36+03:00</pubDate>
+</item><item>
 	<title>Uruguaiana Travel Guide (Southwest/Rio Grande do Sul/South/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/southwest/uruguaiana/</link>
 	<description>Discover the best places to visit, stay, eat, and experience in Uruguaiana, Rio Grande do Sul, Brazil. Plan your trip with our travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/bashkortostan/beloretsk/</link>
 	<description>Beloretsk is a beautiful city located in Bashkortostan, Russia, with numerous natural and cultural attractions, food, and drink scenes, and much more. Read on for a complete travel guide to Beloretsk.</description>
 	<pubDate>2024-07-09T14:38:28+03:00</pubDate>
-</item><item>
-	<title>Floyds Knobs Travel Guide (Southern Indiana/Indiana/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southern-indiana/floyds-knobs/</link>
-	<description>Discover Floyds Knobs, Indiana! Read this comprehensive travel guide to find the best attractions, activities, dining options, and local culture of Floyds Knobs, along with useful travel tips and recommendations.</description>
-	<pubDate>2024-07-09T14:15:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
