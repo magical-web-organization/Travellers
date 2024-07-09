@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T08:00:38+03:00</pubDate>
-        <lastBuildDate>2024-07-09T08:00:38+03:00</lastBuildDate>
+        <pubDate>2024-07-09T08:29:08+03:00</pubDate>
+        <lastBuildDate>2024-07-09T08:29:08+03:00</lastBuildDate>
 
         <item>
+	<title>Oka Travel Guide (Laurentians/Southwestern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/laurentians/oka/</link>
+	<description>Discover the best places to visit, things to do, where to stay, local culture, and more in this ultimate travel guide to Oka, Quebec.</description>
+	<pubDate>2024-07-09T08:29:08+03:00</pubDate>
+</item><item>
 	<title>Central Eastern Barbados Travel Guide (Barbados/Lesser Antilles/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/barbados/central-eastern-barbados/</link>
 	<description>Discover the charm of Central Eastern Barbados with our comprehensive travel guide that provides information on places to visit, best things to do, where to stay, local culture and customs, safety, health, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/tanzania/pembwe-and-the-southeast/kilwa/</link>
 	<description>Explore Kilwa, Tanzania with our comprehensive tour guide. Discover the best things to do, places to visit, where to stay, and how to get the most out of your trip to Kilwa.</description>
 	<pubDate>2024-07-09T03:51:51+03:00</pubDate>
-</item><item>
-	<title>Zhangjiakou Travel Guide (Hebei/North China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/hebei/zhangjiakou/</link>
-	<description>Looking to explore Zhangjiakou? Check out our comprehensive travel guide featuring things to do, places to visit, food and drink scenes, as well as local customs and safety tips.</description>
-	<pubDate>2024-07-09T03:05:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
