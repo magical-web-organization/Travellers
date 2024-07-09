@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T07:12:14+03:00</pubDate>
-        <lastBuildDate>2024-07-09T07:12:14+03:00</lastBuildDate>
+        <pubDate>2024-07-09T08:00:38+03:00</pubDate>
+        <lastBuildDate>2024-07-09T08:00:38+03:00</lastBuildDate>
 
         <item>
+	<title>Central Eastern Barbados Travel Guide (Barbados/Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/barbados/central-eastern-barbados/</link>
+	<description>Discover the charm of Central Eastern Barbados with our comprehensive travel guide that provides information on places to visit, best things to do, where to stay, local culture and customs, safety, health, transportation, and more.</description>
+	<pubDate>2024-07-09T08:00:38+03:00</pubDate>
+</item><item>
 	<title>Shaker Heights Travel Guide (Cuyahoga County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/shaker-heights/</link>
 	<description>Discover the best places to visit, things to do, food to try, and more in Shaker Heights! From cultural attractions to natural wonders, this guide has it all.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/hebei/zhangjiakou/</link>
 	<description>Looking to explore Zhangjiakou? Check out our comprehensive travel guide featuring things to do, places to visit, food and drink scenes, as well as local customs and safety tips.</description>
 	<pubDate>2024-07-09T03:05:12+03:00</pubDate>
-</item><item>
-	<title>Berd Travel Guide (Northern Armenia/Armenia/Caucasus/Asia)</title>
-	<link>https://travellers.wiki/en/asia/caucasus/armenia/northern-armenia/berd/</link>
-	<description>Discover the best things to see and do in Berd, Armenia. From cultural attractions to outdoor adventures and more, plan your trip with our comprehensive travel guide.</description>
-	<pubDate>2024-07-09T02:35:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
