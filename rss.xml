@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T14:15:04+03:00</pubDate>
-        <lastBuildDate>2024-07-09T14:15:04+03:00</lastBuildDate>
+        <pubDate>2024-07-09T14:38:28+03:00</pubDate>
+        <lastBuildDate>2024-07-09T14:38:28+03:00</lastBuildDate>
 
         <item>
+	<title>Beloretsk Travel Guide (Bashkortostan/Urals/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/urals/bashkortostan/beloretsk/</link>
+	<description>Beloretsk is a beautiful city located in Bashkortostan, Russia, with numerous natural and cultural attractions, food, and drink scenes, and much more. Read on for a complete travel guide to Beloretsk.</description>
+	<pubDate>2024-07-09T14:38:28+03:00</pubDate>
+</item><item>
 	<title>Floyds Knobs Travel Guide (Southern Indiana/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/southern-indiana/floyds-knobs/</link>
 	<description>Discover Floyds Knobs, Indiana! Read this comprehensive travel guide to find the best attractions, activities, dining options, and local culture of Floyds Knobs, along with useful travel tips and recommendations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/detroit-lakes/</link>
 	<description>Plan your trip to Detroit Lakes with this helpful guide covering places to visit, activities, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and more.</description>
 	<pubDate>2024-07-09T10:14:16+03:00</pubDate>
-</item><item>
-	<title>Stephenville Travel Guide (Western Newfoundland/Newfoundland and Labrador/Atlantic Canada/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/newfoundland-and-labrador/western-newfoundland/stephenville/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Stephenville, Newfoundland and Labrador, Canada. Read our comprehensive travel guide now.</description>
-	<pubDate>2024-07-09T09:58:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
