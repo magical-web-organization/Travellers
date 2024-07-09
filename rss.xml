@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T10:14:16+03:00</pubDate>
-        <lastBuildDate>2024-07-09T10:14:16+03:00</lastBuildDate>
+        <pubDate>2024-07-09T10:49:20+03:00</pubDate>
+        <lastBuildDate>2024-07-09T10:49:20+03:00</lastBuildDate>
 
         <item>
+	<title>Balassagyarmat Travel Guide (Nógrád County/Northern Hungary/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/nograd-county/balassagyarmat/</link>
+	<description>Discover the best of Balassagyarmat, Northern Hungary with our comprehensive travel guide. From cultural attractions to outdoor adventures, find everything you need to know about this hidden gem.</description>
+	<pubDate>2024-07-09T10:49:20+03:00</pubDate>
+</item><item>
 	<title>Detroit Lakes Travel Guide (Northwestern Minnesota/Minnesota/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/minnesota/northwestern-minnesota/detroit-lakes/</link>
 	<description>Plan your trip to Detroit Lakes with this helpful guide covering places to visit, activities, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/liptov/liptovsky-mikulas/</link>
 	<description>Discover the best of Liptovský Mikuláš, Slovakia with our comprehensive travel guide, including must-see attractions, outdoor adventures, cultural landmarks, top hotels and local food and drink scene.</description>
 	<pubDate>2024-07-09T06:27:00+03:00</pubDate>
-</item><item>
-	<title>Navassa Island Travel Guide (Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/navassa-island/</link>
-	<description>Explore the exotic Caribbean paradise, Navassa Island, with our in-depth travel guide. Find out about the best places to visit, things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-07-09T05:37:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
