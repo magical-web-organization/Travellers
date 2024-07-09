@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T02:14:57+03:00</pubDate>
-        <lastBuildDate>2024-07-10T02:14:57+03:00</lastBuildDate>
+        <pubDate>2024-07-10T02:57:04+03:00</pubDate>
+        <lastBuildDate>2024-07-10T02:57:04+03:00</lastBuildDate>
 
         <item>
+	<title>San Quirico d'Orcia Travel Guide (Val d'Orcia/Siena (province)/Tuscany/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/tuscany/siena-province/val-d-orcia/san-quirico-d-orcia/</link>
+	<description>Plan your dream Italian holiday with our comprehensive travel guide to San Quirico d'Orcia. Discover all the must-visit attractions, stunning outdoor adventures, and delicious local food and drink.</description>
+	<pubDate>2024-07-10T02:57:04+03:00</pubDate>
+</item><item>
 	<title>Kargopol Travel Guide (Arkhangelsk Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/arkhangelsk-oblast/kargopol/</link>
 	<description>Discover the best places to visit, activities to do, food to try, and where to stay in Kargopol, Russia. Learn about the culture and customs, safety and health, and transportation options to help plan your trip to this beautiful Northwestern Russian town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/zambia/northern-plateau/mpulungu/</link>
 	<description>Discover the hidden gems of Mpulungu, Zambia with this comprehensive travel guide. From cultural attractions to outdoor adventures, and local cuisine to transportation options, plan your perfect trip to Mpulungu.</description>
 	<pubDate>2024-07-09T22:19:54+03:00</pubDate>
-</item><item>
-	<title>Mengshan Travel Guide (Central Guangxi/Guangxi/South China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/south-china/guangxi/central-guangxi/mengshan/</link>
-	<description>Explore the culture, nature, food, and more with our travel guide to Mengshan in Guangxi, China. Plan your itinerary with outdoor adventures, museums, historical places, and more.</description>
-	<pubDate>2024-07-09T21:58:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
