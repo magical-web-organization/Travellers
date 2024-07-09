@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T05:33:14+03:00</pubDate>
-        <lastBuildDate>2024-07-09T05:33:14+03:00</lastBuildDate>
+        <pubDate>2024-07-09T05:37:34+03:00</pubDate>
+        <lastBuildDate>2024-07-09T05:37:34+03:00</lastBuildDate>
 
         <item>
+	<title>Navassa Island Travel Guide (Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/navassa-island/</link>
+	<description>Explore the exotic Caribbean paradise, Navassa Island, with our in-depth travel guide. Find out about the best places to visit, things to do, where to stay, what to eat, and more.</description>
+	<pubDate>2024-07-09T05:37:34+03:00</pubDate>
+</item><item>
 	<title>Arrecifes Travel Guide (Pampas/Argentina/South America)</title>
 	<link>https://travellers.wiki/en/south-america/argentina/pampas/arrecifes/</link>
 	<description>Plan your trip to Arrecifes with this comprehensive travel guide featuring a list of places to visit, things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/wooster-area/kidron/</link>
 	<description>Discover the best things to do in Kidron, Ohio with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
 	<pubDate>2024-07-09T01:18:19+03:00</pubDate>
-</item><item>
-	<title>Cinnaminson Travel Guide (Burlington County/Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/burlington-county/cinnaminson/</link>
-	<description>Planning a trip to Cinnaminson? Check out our comprehensive travel guide with tips on where to stay, what to do, and how to get there.</description>
-	<pubDate>2024-07-09T00:49:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
