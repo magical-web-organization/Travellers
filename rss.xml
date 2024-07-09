@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T05:37:34+03:00</pubDate>
-        <lastBuildDate>2024-07-09T05:37:34+03:00</lastBuildDate>
+        <pubDate>2024-07-09T06:27:00+03:00</pubDate>
+        <lastBuildDate>2024-07-09T06:27:00+03:00</lastBuildDate>
 
         <item>
+	<title>Liptovský Mikuláš Travel Guide (Liptov/Central Slovakia/Slovakia/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/slovakia/central-slovakia/liptov/liptovsky-mikulas/</link>
+	<description>Discover the best of Liptovský Mikuláš, Slovakia with our comprehensive travel guide, including must-see attractions, outdoor adventures, cultural landmarks, top hotels and local food and drink scene.</description>
+	<pubDate>2024-07-09T06:27:00+03:00</pubDate>
+</item><item>
 	<title>Navassa Island Travel Guide (Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/navassa-island/</link>
 	<description>Explore the exotic Caribbean paradise, Navassa Island, with our in-depth travel guide. Find out about the best places to visit, things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/luneburg-heath/hitzacker/</link>
 	<description>Discover the top attractions, activities, places to stay, and local food scene of Hitzacker in this comprehensive travel guide. Plan your trip to the hidden gem of Lower Saxony with ease!</description>
 	<pubDate>2024-07-09T01:59:40+03:00</pubDate>
-</item><item>
-	<title>Kidron Travel Guide (Wooster area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/wooster-area/kidron/</link>
-	<description>Discover the best things to do in Kidron, Ohio with our comprehensive travel guide. From outdoor adventures to cultural attractions, we've got you covered.</description>
-	<pubDate>2024-07-09T01:18:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
