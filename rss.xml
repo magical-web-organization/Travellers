@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T16:45:50+03:00</pubDate>
-        <lastBuildDate>2024-07-09T16:45:50+03:00</lastBuildDate>
+        <pubDate>2024-07-09T17:12:36+03:00</pubDate>
+        <lastBuildDate>2024-07-09T17:12:36+03:00</lastBuildDate>
 
         <item>
+	<title>Chapinero-Zona G Travel Guide (Bogotá/Andino/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/andino/bogota/chapinero-zona-g/</link>
+	<description>Explore the diverse attractions and experiences in Chapinero-Zona G, Bogotá, Colombia. Discover the best things to do, see, eat, and stay in Chapinero-Zona G with our comprehensive guide.</description>
+	<pubDate>2024-07-09T17:12:36+03:00</pubDate>
+</item><item>
 	<title>Karoo National Park Travel Guide (Cape Karoo/Western Cape/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-karoo/karoo-national-park/</link>
 	<description>Discover the culturally important attractions, natural beauty, hiking and biking routes, food scene, and local culture of Karoo National Park. Learn about the best time to visit, transportation options, and nearby destinations in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/coal-region/mount-carmel/</link>
 	<description>Plan a perfect trip to Mount Carmel and explore its culturally important attractions, natural wonders, and outdoor adventures. Read our comprehensive travel guide.</description>
 	<pubDate>2024-07-09T12:52:22+03:00</pubDate>
-</item><item>
-	<title>Ubajara Travel Guide (Ceará/Northeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/northeast/ceara/ubajara/</link>
-	<description>Discover the best attractions, activities, local culture, and logistics of Ubajara, North Brazil, in this comprehensive travel guide.</description>
-	<pubDate>2024-07-09T12:21:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
