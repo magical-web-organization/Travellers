@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T20:05:55+03:00</pubDate>
-        <lastBuildDate>2024-07-09T20:05:55+03:00</lastBuildDate>
+        <pubDate>2024-07-09T20:47:27+03:00</pubDate>
+        <lastBuildDate>2024-07-09T20:47:27+03:00</lastBuildDate>
 
         <item>
+	<title>Okanogan Travel Guide (North Cascades/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/north-cascades/okanogan/</link>
+	<description>Discover Okanogan, Washington's top attractions, hiking and biking routes, food and drink scene, local culture, safety tips, and getting there and around. Plan your trip now!</description>
+	<pubDate>2024-07-09T20:47:27+03:00</pubDate>
+</item><item>
 	<title>Uberaba Travel Guide (Triângulo Mineiro/Minas Gerais/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/minas-gerais/triangulo-mineiro/uberaba/</link>
 	<description>Discover the best places to visit, things to do, food to try, and more with this comprehensive travel guide to Uberaba, Brazil.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/white-mountains/franconia/</link>
 	<description>Explore Franconia with our comprehensive travel guide and learn about the best places to visit, stay, and more. From outdoor adventures to delicious food, we've got you covered!</description>
 	<pubDate>2024-07-09T16:22:08+03:00</pubDate>
-</item><item>
-	<title>Ostabat-Asme Travel Guide (Pyrénées-Atlantiques/Nouvelle-Aquitaine/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/nouvelle-aquitaine/pyrenees-atlantiques/ostabat-asme/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Ostabat-Asme, France. Explore the local culture, food scene, and nearby attractions.</description>
-	<pubDate>2024-07-09T15:57:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
