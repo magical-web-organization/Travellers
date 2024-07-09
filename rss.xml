@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-09T06:50:16+03:00</pubDate>
-        <lastBuildDate>2024-07-09T06:50:16+03:00</lastBuildDate>
+        <pubDate>2024-07-09T07:12:14+03:00</pubDate>
+        <lastBuildDate>2024-07-09T07:12:14+03:00</lastBuildDate>
 
         <item>
+	<title>Shaker Heights Travel Guide (Cuyahoga County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/shaker-heights/</link>
+	<description>Discover the best places to visit, things to do, food to try, and more in Shaker Heights! From cultural attractions to natural wonders, this guide has it all.</description>
+	<pubDate>2024-07-09T07:12:14+03:00</pubDate>
+</item><item>
 	<title>Marlinton Travel Guide (Potomac Highlands/West Virginia/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/west-virginia/potomac-highlands/marlinton/</link>
 	<description>Discover Marlinton, West Virginia through this comprehensive travel guide featuring the town's cultural attractions, natural treasures, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/caucasus/armenia/northern-armenia/berd/</link>
 	<description>Discover the best things to see and do in Berd, Armenia. From cultural attractions to outdoor adventures and more, plan your trip with our comprehensive travel guide.</description>
 	<pubDate>2024-07-09T02:35:30+03:00</pubDate>
-</item><item>
-	<title>Paris Travel Guide (Ouachitas/Arkansas/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/ouachitas/paris/</link>
-	<description>Discover all the top attractions, food and drink scene, lodging options, travel tips, and more with this comprehensive travel guide to Paris.</description>
-	<pubDate>2024-07-09T02:12:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
