@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T14:41:34+03:00</pubDate>
-        <lastBuildDate>2024-07-10T14:41:34+03:00</lastBuildDate>
+        <pubDate>2024-07-10T15:15:46+03:00</pubDate>
+        <lastBuildDate>2024-07-10T15:15:46+03:00</lastBuildDate>
 
         <item>
+	<title>Tarakeswar Travel Guide (Hooghly and Howrah/West Bengal/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/hooghly-and-howrah/tarakeswar/</link>
+	<description>A comprehensive guide to Tarakeswar including places to visit, things to do, where to stay, food and drink, local customs, and more.</description>
+	<pubDate>2024-07-10T15:15:46+03:00</pubDate>
+</item><item>
 	<title>Ljubljana Travel Guide (Central Slovenia/Slovenia/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/slovenia/central-slovenia/ljubljana/</link>
 	<description>Explore the beautiful city of Ljubljana with our comprehensive travel guide. Discover the top attractions, best things to do, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/central-asia/uzbekistan/northern-uzbekistan/urgench/</link>
 	<description>Discover the cultural, historical and natural attractions of Urgench, as well as the best places to stay, eat, and shop.</description>
 	<pubDate>2024-07-10T10:42:54+03:00</pubDate>
-</item><item>
-	<title>Præstø Travel Guide (South Zealand/Zealand/Denmark/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/zealand/south-zealand/praesto/</link>
-	<description>Discover the best of Præstø in Denmark with our comprehensive travel guide, featuring the top attractions, activities, hotels, local culture, safety tips, and more.</description>
-	<pubDate>2024-07-10T10:15:01+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
