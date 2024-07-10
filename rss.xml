@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T23:51:32+03:00</pubDate>
-        <lastBuildDate>2024-07-10T23:51:32+03:00</lastBuildDate>
+        <pubDate>2024-07-11T00:23:35+03:00</pubDate>
+        <lastBuildDate>2024-07-11T00:23:35+03:00</lastBuildDate>
 
         <item>
+	<title>Turpan Travel Guide (Dzungarian/Xinjiang/Northwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/xinjiang/dzungarian/turpan/</link>
+	<description>Discover the best things to do, see, eat, and where to stay in Turpan with our comprehensive guide for the ultimate travel experience!</description>
+	<pubDate>2024-07-11T00:23:35+03:00</pubDate>
+</item><item>
 	<title>Beaudesert Travel Guide (Scenic Rim/South East Queensland/Queensland/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/queensland/south-east-queensland/scenic-rim/beaudesert/</link>
 	<description>Explore the best things to do, places to visit, where to stay, what to eat, local culture, and customs of Beaudesert with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/western-australia/kimberley/warmun/</link>
 	<description>Plan your trip to Warmun with our comprehensive travel guide. Explore the best places to visit, things to do, where to stay, and more!</description>
 	<pubDate>2024-07-10T19:44:02+03:00</pubDate>
-</item><item>
-	<title>Ka'u Travel Guide (Big Island/Hawaii/Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/big-island/ka-u/</link>
-	<description>Discover the culturally significant attractions, natural wonders, hiking/biking routes, food and drink scene, and much more in Ka'u, Hawaii, with this comprehensive guide.</description>
-	<pubDate>2024-07-10T19:17:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
