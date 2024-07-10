@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T19:17:13+03:00</pubDate>
-        <lastBuildDate>2024-07-10T19:17:13+03:00</lastBuildDate>
+        <pubDate>2024-07-10T19:44:02+03:00</pubDate>
+        <lastBuildDate>2024-07-10T19:44:02+03:00</lastBuildDate>
 
         <item>
+	<title>Warmun Travel Guide (Kimberley/Western Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/western-australia/kimberley/warmun/</link>
+	<description>Plan your trip to Warmun with our comprehensive travel guide. Explore the best places to visit, things to do, where to stay, and more!</description>
+	<pubDate>2024-07-10T19:44:02+03:00</pubDate>
+</item><item>
 	<title>Ka'u Travel Guide (Big Island/Hawaii/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/big-island/ka-u/</link>
 	<description>Discover the culturally significant attractions, natural wonders, hiking/biking routes, food and drink scene, and much more in Ka'u, Hawaii, with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/hooghly-and-howrah/tarakeswar/</link>
 	<description>A comprehensive guide to Tarakeswar including places to visit, things to do, where to stay, food and drink, local customs, and more.</description>
 	<pubDate>2024-07-10T15:15:46+03:00</pubDate>
-</item><item>
-	<title>Ljubljana Travel Guide (Central Slovenia/Slovenia/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/slovenia/central-slovenia/ljubljana/</link>
-	<description>Explore the beautiful city of Ljubljana with our comprehensive travel guide. Discover the top attractions, best things to do, local culture, and more.</description>
-	<pubDate>2024-07-10T14:41:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
