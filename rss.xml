@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T03:43:31+03:00</pubDate>
-        <lastBuildDate>2024-07-10T03:43:31+03:00</lastBuildDate>
+        <pubDate>2024-07-10T04:15:14+03:00</pubDate>
+        <lastBuildDate>2024-07-10T04:15:14+03:00</lastBuildDate>
 
         <item>
+	<title>Kayamkulam Travel Guide (Central Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/central-travancore/kayamkulam/</link>
+	<description>Explore the hidden gems of Kayamkulam - a central Travancore town in Kerala, India that will surprise you with its cultural and natural beauty.</description>
+	<pubDate>2024-07-10T04:15:14+03:00</pubDate>
+</item><item>
 	<title>Berkhamsted Travel Guide (Hertfordshire/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/hertfordshire/berkhamsted/</link>
 	<description>Explore the beautiful town of Berkhamsted in Hertfordshire, England with our comprehensive travel guide. Discover cultural and natural attractions, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/marche/macerata-province/cingoli/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, accommodations, and local culture of Cingoli, Italy with our comprehensive travel guide.</description>
 	<pubDate>2024-07-09T23:34:21+03:00</pubDate>
-</item><item>
-	<title>Vaison-la-Romaine Travel Guide (Vaucluse/Provence-Alpes-Côte d'Azur/France/Europe)</title>
-	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/vaucluse/vaison-la-romaine/</link>
-	<description>Get ready for an adventure in Vaison-la-Romaine with this comprehensive travel guide that covers everything from cultural attractions to natural wonders and where to stay and eat.</description>
-	<pubDate>2024-07-09T23:17:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
