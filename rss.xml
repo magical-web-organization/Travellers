@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T04:50:13+03:00</pubDate>
-        <lastBuildDate>2024-07-10T04:50:13+03:00</lastBuildDate>
+        <pubDate>2024-07-10T05:18:57+03:00</pubDate>
+        <lastBuildDate>2024-07-10T05:18:57+03:00</lastBuildDate>
 
         <item>
+	<title>Gwagwalada Travel Guide (Federal Capital Territory/North Central Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/federal-capital-territory/gwagwalada/</link>
+	<description>Explore the best of Gwagwalada, Nigeria with our travel guide. Discover the top attractions, activities, hikes, and more.</description>
+	<pubDate>2024-07-10T05:18:57+03:00</pubDate>
+</item><item>
 	<title>Tal Afar Travel Guide (Northwestern Iraq/Iraq/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/iraq/northwestern-iraq/tal-afar/</link>
 	<description>Discover the best things to do, places to visit, hiking and biking routes, and local culture in Tal Afar. Plan your itinerary and travel logistics with this comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/rajshahi-division/jaipurhat/</link>
 	<description>Discover the best places to visit, things to do, and practical information in Jaipurhat, Bangladesh with our comprehensive travel guide.</description>
 	<pubDate>2024-07-10T00:38:05+03:00</pubDate>
-</item><item>
-	<title>Cotia Travel Guide (Grande São Paulo/São Paulo (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/grande-sao-paulo/cotia/</link>
-	<description>Plan your trip to Cotia, Brazil with this comprehensive travel guide. Discover the best things to see and do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-07-10T00:26:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
