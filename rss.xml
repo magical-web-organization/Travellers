@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T01:46:13+03:00</pubDate>
-        <lastBuildDate>2024-07-11T01:46:13+03:00</lastBuildDate>
+        <pubDate>2024-07-11T02:26:45+03:00</pubDate>
+        <lastBuildDate>2024-07-11T02:26:45+03:00</lastBuildDate>
 
         <item>
+	<title>Villasis Travel Guide (Pangasinan/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/pangasinan/villasis/</link>
+	<description>Discover the best places to visit, hike/bike routes, things to do, food and drink scene, where to stay, souvenirs to buy, local culture and customs, safety and health, transportation options, and nearby destinations to explore in Villasis</description>
+	<pubDate>2024-07-11T02:26:45+03:00</pubDate>
+</item><item>
 	<title>Marion Travel Guide (Delta/Arkansas/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/delta/marion/</link>
 	<description>Plan your trip to Marion, Arkansas! Explore the city's rich culture, scenic views, outdoor adventures, local cuisine, and more in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/north-central-new-mexico/taos-pueblo/</link>
 	<description>Discover Taos Pueblo with our comprehensive guide that includes information on things to do, where to stay, local customs, and much more.</description>
 	<pubDate>2024-07-10T21:33:59+03:00</pubDate>
-</item><item>
-	<title>Gold Beach Travel Guide (Southern Oregon Coast/Oregon Coast/Oregon/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/oregon-coast/southern-oregon-coast/gold-beach/</link>
-	<description>Our comprehensive travel guide to Gold Beach will introduce you to the rich cultural and natural attractions of this Southern Oregon gem. Read on for a detailed list of places to visit, hiking and biking routes, and the best things to do in Gold Beach.</description>
-	<pubDate>2024-07-10T21:20:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
