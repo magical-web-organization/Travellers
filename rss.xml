@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T22:37:50+03:00</pubDate>
-        <lastBuildDate>2024-07-10T22:37:50+03:00</lastBuildDate>
+        <pubDate>2024-07-10T23:21:06+03:00</pubDate>
+        <lastBuildDate>2024-07-10T23:21:06+03:00</lastBuildDate>
 
         <item>
+	<title>San Juan Travel Guide (Potosí (department)/Altiplano/Bolivia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/bolivia/altiplano/potosi-department/san-juan/</link>
+	<description>Plan your perfect trip to San Juan, Bolivia with our comprehensive travel guide. Find out about the best places to visit, things to do, where to stay, and more!</description>
+	<pubDate>2024-07-10T23:21:06+03:00</pubDate>
+</item><item>
 	<title>Ōkunoshima Travel Guide (Hiroshima (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/hiroshima-prefecture/okunoshima/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Ōkunoshima, Japan. This travel guide will cover everything you need to know to plan your trip to this incredible destination.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/north/para/ilha-do-marajo/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in the beautiful Ilha do Marajó in Pará, Brazil.</description>
 	<pubDate>2024-07-10T18:40:00+03:00</pubDate>
-</item><item>
-	<title>Bad Nauheim Travel Guide (North Hesse/Hesse/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/north-hesse/bad-nauheim/</link>
-	<description>Discover the attractions, activities, food, and culture of Bad Nauheim with this comprehensive travel guide. Plan your trip with our suggested itinerary and learn the Do's and Don'ts of the local culture.</description>
-	<pubDate>2024-07-10T18:10:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
