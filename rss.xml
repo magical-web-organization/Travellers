@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-10T18:10:49+03:00</pubDate>
-        <lastBuildDate>2024-07-10T18:10:49+03:00</lastBuildDate>
+        <pubDate>2024-07-10T18:40:00+03:00</pubDate>
+        <lastBuildDate>2024-07-10T18:40:00+03:00</lastBuildDate>
 
         <item>
+	<title>Ilha do Marajó Travel Guide (Pará/North/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/north/para/ilha-do-marajo/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in the beautiful Ilha do Marajó in Pará, Brazil.</description>
+	<pubDate>2024-07-10T18:40:00+03:00</pubDate>
+</item><item>
 	<title>Bad Nauheim Travel Guide (North Hesse/Hesse/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/hesse/north-hesse/bad-nauheim/</link>
 	<description>Discover the attractions, activities, food, and culture of Bad Nauheim with this comprehensive travel guide. Plan your trip with our suggested itinerary and learn the Do's and Don'ts of the local culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/silesian-voivodeship/ruda-slaska/</link>
 	<description>Discover the cultural attractions, natural wonders, food scene, and more in Ruda Śląska with this ultimate travel guide.</description>
 	<pubDate>2024-07-10T14:29:03+03:00</pubDate>
-</item><item>
-	<title>Kingman Travel Guide (Northern Arizona/Arizona/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/northern-arizona/kingman/</link>
-	<description>Discover the best places to visit, eat, and stay in Kingman, Arizona with our ultimate travel guide. Explore the natural attractions and cultural landmarks of the city and create the perfect itinerary for your trip to Kingman.</description>
-	<pubDate>2024-07-10T14:02:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
