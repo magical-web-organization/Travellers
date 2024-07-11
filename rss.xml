@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T03:32:47+03:00</pubDate>
-        <lastBuildDate>2024-07-11T03:32:47+03:00</lastBuildDate>
+        <pubDate>2024-07-11T03:48:36+03:00</pubDate>
+        <lastBuildDate>2024-07-11T03:48:36+03:00</lastBuildDate>
 
         <item>
+	<title>Bend Travel Guide (Central Oregon/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/central-oregon/bend/</link>
+	<description>Discover the best things to do, places to stay and eat, hiking, biking, and outdoor adventure routes, and much more in Bend, Oregon with our comprehensive travel guide.</description>
+	<pubDate>2024-07-11T03:48:36+03:00</pubDate>
+</item><item>
 	<title>ZEC Frémont Travel Guide (La Tuque Region/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/zec-fremont/</link>
 	<description>Discover the best things to do and places to visit in ZEC Frémont, Québec through our comprehensive travel guide. Read on for our recommended attractions, hiking routes, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/bolivia/altiplano/potosi-department/san-juan/</link>
 	<description>Plan your perfect trip to San Juan, Bolivia with our comprehensive travel guide. Find out about the best places to visit, things to do, where to stay, and more!</description>
 	<pubDate>2024-07-10T23:21:06+03:00</pubDate>
-</item><item>
-	<title>Ōkunoshima Travel Guide (Hiroshima (prefecture)/Chugoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chugoku/hiroshima-prefecture/okunoshima/</link>
-	<description>Discover the best things to do, places to visit, and where to stay in Ōkunoshima, Japan. This travel guide will cover everything you need to know to plan your trip to this incredible destination.</description>
-	<pubDate>2024-07-10T22:37:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
