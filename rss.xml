@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T15:46:22+03:00</pubDate>
-        <lastBuildDate>2024-07-11T15:46:22+03:00</lastBuildDate>
+        <pubDate>2024-07-11T16:24:57+03:00</pubDate>
+        <lastBuildDate>2024-07-11T16:24:57+03:00</lastBuildDate>
 
         <item>
+	<title>Northern Islands Travel Guide (Faroe Islands/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/faroe-islands/northern-islands/</link>
+	<description>Discover the best hiking trails, activities, cultural attractions, food and drink scene, and transportation options in Northern Islands, Faroe Islands.</description>
+	<pubDate>2024-07-11T16:24:57+03:00</pubDate>
+</item><item>
 	<title>Ouidah Travel Guide (Southern Benin/Benin/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/benin/southern-benin/ouidah/</link>
 	<description>Plan your trip to Ouidah with our comprehensive travel guide. Explore the cultural attractions, outdoor adventures, food scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/outaouais/grenville/</link>
 	<description>Explore Grenville, Quebec, Canada with this comprehensive travel guide featuring a list of places to visit, hiking/biking routes, must-try dishes, where to stay, and more.</description>
 	<pubDate>2024-07-11T11:48:18+03:00</pubDate>
-</item><item>
-	<title>Oku-Hida Onsen Villages Travel Guide (Gifu (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/gifu-prefecture/oku-hida-onsen-villages/</link>
-	<description>Plan your trip to Oku-Hida Onsen Villages with our comprehensive guide including itinerary, places to visit, things to do, food and drink scene, where to stay, culture and customs, safety tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-07-11T11:15:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
