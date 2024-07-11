@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T11:03:11+03:00</pubDate>
-        <lastBuildDate>2024-07-11T11:03:11+03:00</lastBuildDate>
+        <pubDate>2024-07-11T11:15:24+03:00</pubDate>
+        <lastBuildDate>2024-07-11T11:15:24+03:00</lastBuildDate>
 
         <item>
+	<title>Oku-Hida Onsen Villages Travel Guide (Gifu (prefecture)/Chubu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/gifu-prefecture/oku-hida-onsen-villages/</link>
+	<description>Plan your trip to Oku-Hida Onsen Villages with our comprehensive guide including itinerary, places to visit, things to do, food and drink scene, where to stay, culture and customs, safety tips, transportation options, and nearby destinations.</description>
+	<pubDate>2024-07-11T11:15:24+03:00</pubDate>
+</item><item>
 	<title>Slănic Moldova Travel Guide (Moldavia/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/moldavia/slanic-moldova/</link>
 	<description>Discover all the best attractions and activities in Slănic Moldova with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/dodecanese/karpathos/</link>
 	<description>Plan your trip to Karpathos, Greece with ease using this comprehensive guide which covers the best places to visit, things to do, and more!</description>
 	<pubDate>2024-07-11T06:54:16+03:00</pubDate>
-</item><item>
-	<title>Jurassic Coast Travel Guide (West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/jurassic-coast/</link>
-	<description>Explore the stunning Jurassic Coast in West Country, England with our comprehensive travel guide. Discover the best places to visit, natural attractions, hiking/biking routes, food scenes, where to stay, local culture, safety and health, transportation, and nearby destinations to explore.</description>
-	<pubDate>2024-07-11T06:23:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
