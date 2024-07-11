@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T00:04:25+03:00</pubDate>
-        <lastBuildDate>2024-07-12T00:04:25+03:00</lastBuildDate>
+        <pubDate>2024-07-12T00:54:30+03:00</pubDate>
+        <lastBuildDate>2024-07-12T00:54:30+03:00</lastBuildDate>
 
         <item>
+	<title>Hadleigh Travel Guide (Suffolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/hadleigh/</link>
+	<description>Discover the best of Hadleigh with our comprehensive tour guide, featuring top attractions, outdoor adventures, hiking/biking routes, food and drink scene, where to stay, what to buy, and more.</description>
+	<pubDate>2024-07-12T00:54:30+03:00</pubDate>
+</item><item>
 	<title>Pushkinskiye Gory Travel Guide (Pskov Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/pskov-oblast/pushkinskiye-gory/</link>
 	<description>Explore the beautiful Pushkinskiye Gory in Russia with our comprehensive travel guide. Discover the top places to visit, hiking and biking routes, local culture, food, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/murshidabad-and-nadia/ranaghat/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Ranaghat with our comprehensive travel guide.</description>
 	<pubDate>2024-07-11T20:20:14+03:00</pubDate>
-</item><item>
-	<title>Marvão Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/marvao/</link>
-	<description>Discover the best things to do, see, eat, and stay in Marvão with our comprehensive travel guide. Plan your adventures in this culturally rich and naturally beautiful Portuguese town today.</description>
-	<pubDate>2024-07-11T19:36:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
