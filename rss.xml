@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T05:53:31+03:00</pubDate>
-        <lastBuildDate>2024-07-11T05:53:31+03:00</lastBuildDate>
+        <pubDate>2024-07-11T06:23:16+03:00</pubDate>
+        <lastBuildDate>2024-07-11T06:23:16+03:00</lastBuildDate>
 
         <item>
+	<title>Jurassic Coast Travel Guide (West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/jurassic-coast/</link>
+	<description>Explore the stunning Jurassic Coast in West Country, England with our comprehensive travel guide. Discover the best places to visit, natural attractions, hiking/biking routes, food scenes, where to stay, local culture, safety and health, transportation, and nearby destinations to explore.</description>
+	<pubDate>2024-07-11T06:23:16+03:00</pubDate>
+</item><item>
 	<title>La Trinidad Travel Guide (Benguet/Luzon Cordilleras/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/luzon-cordilleras/benguet/la-trinidad/</link>
 	<description>Explore the culturally rich and natural beauty of La Trinidad with our comprehensive travel guide. Discover the must-visit places, food, accommodations, and transportation options for a memorable trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/arkansas/delta/marion/</link>
 	<description>Plan your trip to Marion, Arkansas! Explore the city's rich culture, scenic views, outdoor adventures, local cuisine, and more in this comprehensive travel guide.</description>
 	<pubDate>2024-07-11T01:46:13+03:00</pubDate>
-</item><item>
-	<title>Brú Na Bóinne Archaeological Park Travel Guide (County Meath/East Coast and Midlands/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-meath/bru-na-boinne-archaeological-park/</link>
-	<description>Discover the fascinating history and natural wonders of Brú Na Bóinne Archaeological Park with this comprehensive guide. From iconic landmarks to local cuisine, we've got you covered.</description>
-	<pubDate>2024-07-11T01:11:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
