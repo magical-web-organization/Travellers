@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T14:53:59+03:00</pubDate>
-        <lastBuildDate>2024-07-11T14:53:59+03:00</lastBuildDate>
+        <pubDate>2024-07-11T15:14:48+03:00</pubDate>
+        <lastBuildDate>2024-07-11T15:14:48+03:00</lastBuildDate>
 
         <item>
+	<title>Castellfollit de la Roca Travel Guide (Girona Pyrenees/Girona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/girona-province/girona-pyrenees/castellfollit-de-la-roca/</link>
+	<description>Discover the best things to do, see, and eat in Castellfollit de la Roca, a beautiful village perched atop a volcanic cliff in the Girona Pyrenees.</description>
+	<pubDate>2024-07-11T15:14:48+03:00</pubDate>
+</item><item>
 	<title>Suginami Travel Guide (Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/suginami/</link>
 	<description>Planning a trip to Suginami, Tokyo? This comprehensive travel guide covers everything you need to know - from must-visit places and unique hikes to local culture and customs, food, accommodations, transportation, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/romania/moldavia/slanic-moldova/</link>
 	<description>Discover all the best attractions and activities in Slănic Moldova with our comprehensive travel guide.</description>
 	<pubDate>2024-07-11T11:03:11+03:00</pubDate>
-</item><item>
-	<title>Mill Creek (Washington) Travel Guide (North Sound/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/north-sound/mill-creek-washington/</link>
-	<description>Discover the best things to do, see, eat, and explore in Mill Creek, Washington. Plan your trip with this comprehensive travel guide including local culture and customs, transportation options, and nearby destinations to explore.</description>
-	<pubDate>2024-07-11T10:25:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
