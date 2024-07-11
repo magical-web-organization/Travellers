@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T19:36:03+03:00</pubDate>
-        <lastBuildDate>2024-07-11T19:36:03+03:00</lastBuildDate>
+        <pubDate>2024-07-11T20:20:14+03:00</pubDate>
+        <lastBuildDate>2024-07-11T20:20:14+03:00</lastBuildDate>
 
         <item>
+	<title>Ranaghat Travel Guide (Murshidabad and Nadia/West Bengal/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/murshidabad-and-nadia/ranaghat/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Ranaghat with our comprehensive travel guide.</description>
+	<pubDate>2024-07-11T20:20:14+03:00</pubDate>
+</item><item>
 	<title>Marvão Travel Guide (Alto Alentejo/Alentejo/Portugal/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/portugal/alentejo/alto-alentejo/marvao/</link>
 	<description>Discover the best things to do, see, eat, and stay in Marvão with our comprehensive travel guide. Plan your adventures in this culturally rich and naturally beautiful Portuguese town today.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/benin/southern-benin/ouidah/</link>
 	<description>Plan your trip to Ouidah with our comprehensive travel guide. Explore the cultural attractions, outdoor adventures, food scene, and more.</description>
 	<pubDate>2024-07-11T15:46:22+03:00</pubDate>
-</item><item>
-	<title>Castellfollit de la Roca Travel Guide (Girona Pyrenees/Girona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/girona-province/girona-pyrenees/castellfollit-de-la-roca/</link>
-	<description>Discover the best things to do, see, and eat in Castellfollit de la Roca, a beautiful village perched atop a volcanic cliff in the Girona Pyrenees.</description>
-	<pubDate>2024-07-11T15:14:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
