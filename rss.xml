@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-11T08:34:31+03:00</pubDate>
-        <lastBuildDate>2024-07-11T08:34:31+03:00</lastBuildDate>
+        <pubDate>2024-07-11T09:27:28+03:00</pubDate>
+        <lastBuildDate>2024-07-11T09:27:28+03:00</lastBuildDate>
 
         <item>
+	<title>Nathon Travel Guide (Ko Samui/Central Gulf Coast/Southern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/southern-thailand/central-gulf-coast/ko-samui/nathon/</link>
+	<description>Discover the best places to visit, activities to do, food to try, and cultural customs in Nathon, Ko Samui, Thailand. Plan your trip with this comprehensive guide.</description>
+	<pubDate>2024-07-11T09:27:28+03:00</pubDate>
+</item><item>
 	<title>Interlochen Travel Guide (Grand Traverse Bay Area/Northern Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/northern-michigan/grand-traverse-bay-area/interlochen/</link>
 	<description>A comprehensive Interlochen travel guide with information on where to go, what to do, and where to stay in Interlochen, Michigan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/north-africa/algeria/northwest-algeria/oran/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in our comprehensive travel guide for Oran, Algeria.</description>
 	<pubDate>2024-07-11T04:51:38+03:00</pubDate>
-</item><item>
-	<title>Petrified Forest National Park Travel Guide (Eastern Arizona/Arizona/Southwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/arizona/eastern-arizona/petrified-forest-national-park/</link>
-	<description>Discover all the must-visit places, food and drink scene, where to stay, hiking and biking routes, local culture and customs, safety tips, transportation options and nearby destinations</description>
-	<pubDate>2024-07-11T04:12:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
