@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T18:36:43+03:00</pubDate>
-        <lastBuildDate>2024-07-12T18:36:43+03:00</lastBuildDate>
+        <pubDate>2024-07-12T19:22:55+03:00</pubDate>
+        <lastBuildDate>2024-07-12T19:22:55+03:00</lastBuildDate>
 
         <item>
+	<title>Aurora Travel Guide (Willamette Valley/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/willamette-valley/aurora/</link>
+	<description>Plan your trip to Aurora with this comprehensive travel guide. Find out the must-see attractions, best food and drink spots, where to stay, and more.</description>
+	<pubDate>2024-07-12T19:22:55+03:00</pubDate>
+</item><item>
 	<title>Sakunami Travel Guide (Miyagi/Tohoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/miyagi/sakunami/</link>
 	<description>Discover the hidden gems of Sakunami in Miyagi, Japan with our comprehensive travel guide. Explore natural wonders, indulge in local delicacies, and immerse yourself in the local culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/black-forest/gengenbach/</link>
 	<description>Plan your trip to Gengenbach with our ultimate travel guide. Explore the best places to visit, food and drink scene, where to stay, and more.</description>
 	<pubDate>2024-07-12T14:49:05+03:00</pubDate>
-</item><item>
-	<title>Scotts Bluff National Monument Travel Guide (Nebraska Panhandle/Nebraska/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/nebraska-panhandle/scotts-bluff-national-monument/</link>
-	<description>Discover the natural and cultural attractions, best hiking and biking trails, food and drink scene, accommodations, local culture, safety tips, transportation options, and neighboring destinations in this comprehensive guide to Scotts Bluff National Monument in Nebraska, United States.</description>
-	<pubDate>2024-07-12T14:25:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
