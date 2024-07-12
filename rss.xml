@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T09:09:36+03:00</pubDate>
-        <lastBuildDate>2024-07-12T09:09:36+03:00</lastBuildDate>
+        <pubDate>2024-07-12T09:42:33+03:00</pubDate>
+        <lastBuildDate>2024-07-12T09:42:33+03:00</lastBuildDate>
 
         <item>
+	<title>Gleno Travel Guide (Timorese North Coast/East Timor/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/east-timor/timorese-north-coast/gleno/</link>
+	<description>Explore Gleno, East Timor with this comprehensive travel guide that covers everything from cultural attractions to outdoor adventures, accommodations to local cuisine, and transportation options to nearby destinations.</description>
+	<pubDate>2024-07-12T09:42:33+03:00</pubDate>
+</item><item>
 	<title>Karkala Travel Guide (Udupi (district)/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/udupi-district/karkala/</link>
 	<description>Discover the Best Places to Visit, Food to Try, and Things to Do in Karkala with our Comprehensive Travel Guide. Find Out About Local Customs, Transportation Options, and Safety Tips for Your Next Trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/iwate/tono/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture and customs, and transportation options in Tono, Japan.</description>
 	<pubDate>2024-07-12T05:25:15+03:00</pubDate>
-</item><item>
-	<title>Rosslare Travel Guide (County Wexford/Southeast Ireland/Ireland/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southeast-ireland/county-wexford/rosslare/</link>
-	<description>Plan your trip to Rosslare, Ireland with our comprehensive travel guide. Discover the best things to do, places to stay, food to try, and more.</description>
-	<pubDate>2024-07-12T04:49:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
