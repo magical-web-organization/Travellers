@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T12:55:47+03:00</pubDate>
-        <lastBuildDate>2024-07-12T12:55:47+03:00</lastBuildDate>
+        <pubDate>2024-07-12T13:17:07+03:00</pubDate>
+        <lastBuildDate>2024-07-12T13:17:07+03:00</lastBuildDate>
 
         <item>
+	<title>Bolsward Travel Guide (Friesland/Northern Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/friesland/bolsward/</link>
+	<description>Discover the beauty of Bolsward with our ultimate travel guide. From must-visit attractions to hiking routes, food, and drink scene, as well as transportation options and logistics.</description>
+	<pubDate>2024-07-12T13:17:07+03:00</pubDate>
+</item><item>
 	<title>Milina Travel Guide (South Pelion/Mount Pelion/Magnesia/Thessaly/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/mount-pelion/south-pelion/milina/</link>
 	<description>A complete travel guide to Milina, including where to go, what to do, where to stay, and local customs and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/bajio/queretaro-state/cadereyta/</link>
 	<description>A comprehensive travel guide for Cadereyta in Querétaro, Mexico, featuring cultural attractions, natural wonders, outdoor activities, food and drink scene, accommodation options, local customs and more.</description>
 	<pubDate>2024-07-12T08:43:14+03:00</pubDate>
-</item><item>
-	<title>Salatiga Travel Guide (Semarang Metropolitan Area/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/salatiga/</link>
-	<description>Plan your trip to Salatiga, Central Java, with our comprehensive travel guide. Discover the best things to do, places to stay, and where to eat in Salatiga.</description>
-	<pubDate>2024-07-12T08:25:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
