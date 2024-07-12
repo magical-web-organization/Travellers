@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T12:26:08+03:00</pubDate>
-        <lastBuildDate>2024-07-12T12:26:08+03:00</lastBuildDate>
+        <pubDate>2024-07-12T12:55:47+03:00</pubDate>
+        <lastBuildDate>2024-07-12T12:55:47+03:00</lastBuildDate>
 
         <item>
+	<title>Milina Travel Guide (South Pelion/Mount Pelion/Magnesia/Thessaly/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/thessaly/magnesia/mount-pelion/south-pelion/milina/</link>
+	<description>A complete travel guide to Milina, including where to go, what to do, where to stay, and local customs and culture.</description>
+	<pubDate>2024-07-12T12:55:47+03:00</pubDate>
+</item><item>
 	<title>Atrani Travel Guide (Amalfi Coast/Salerno (province)/Campania/Southern Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/salerno-province/amalfi-coast/atrani/</link>
 	<description>This comprehensive Atrani travel guide will take you on an adventure to explore the hidden gem of Amalfi Coast, from cultural landmarks to natural attractions, food and drink scene, accommodation options, and transportation logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/salatiga/</link>
 	<description>Plan your trip to Salatiga, Central Java, with our comprehensive travel guide. Discover the best things to do, places to stay, and where to eat in Salatiga.</description>
 	<pubDate>2024-07-12T08:25:36+03:00</pubDate>
-</item><item>
-	<title>Marblehead Travel Guide (North Shore/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/north-shore/marblehead/</link>
-	<description>Plan your trip to Marblehead with our comprehensive travel guide, featuring things to do, places to stay, and local culture and customs. Discover the best of Marblehead's natural attractions, hiking and biking routes, and culinary scene.</description>
-	<pubDate>2024-07-12T07:45:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
