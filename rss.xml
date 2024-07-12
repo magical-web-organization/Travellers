@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-13T01:37:57+03:00</pubDate>
-        <lastBuildDate>2024-07-13T01:37:57+03:00</lastBuildDate>
+        <pubDate>2024-07-13T02:29:19+03:00</pubDate>
+        <lastBuildDate>2024-07-13T02:29:19+03:00</lastBuildDate>
 
         <item>
+	<title>Szolnok Travel Guide (Jász-Nagykun-Szolnok County/Northern Great Plain/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-great-plain/jasz-nagykun-szolnok-county/szolnok/</link>
+	<description>Discover the best activities, attractions, and accommodations in Szolnok with our comprehensive tour guide.</description>
+	<pubDate>2024-07-13T02:29:19+03:00</pubDate>
+</item><item>
 	<title>Central Florida Travel Guide (Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/central-florida/</link>
 	<description>A comprehensive travel guide for Central Florida including places to visit, natural attractions, hiking and biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/wiltshire/malmesbury/</link>
 	<description>Discover the best places to visit, eat, stay, and more in Malmesbury with our travel guide.</description>
 	<pubDate>2024-07-12T21:47:40+03:00</pubDate>
-</item><item>
-	<title>Pastavy Travel Guide (Vitebsk Oblast/Belarus/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/belarus/vitebsk-oblast/pastavy/</link>
-	<description>Plan an unforgettable vacation in Pastavy with this comprehensive travel guide featuring information on the town's attractions, food, culture, safety, transportation, and nearby destinations.</description>
-	<pubDate>2024-07-12T21:04:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
