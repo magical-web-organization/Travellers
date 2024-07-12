@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T13:55:47+03:00</pubDate>
-        <lastBuildDate>2024-07-12T13:55:47+03:00</lastBuildDate>
+        <pubDate>2024-07-12T14:25:06+03:00</pubDate>
+        <lastBuildDate>2024-07-12T14:25:06+03:00</lastBuildDate>
 
         <item>
+	<title>Scotts Bluff National Monument Travel Guide (Nebraska Panhandle/Nebraska/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/nebraska-panhandle/scotts-bluff-national-monument/</link>
+	<description>Discover the natural and cultural attractions, best hiking and biking trails, food and drink scene, accommodations, local culture, safety tips, transportation options, and neighboring destinations in this comprehensive guide to Scotts Bluff National Monument in Nebraska, United States.</description>
+	<pubDate>2024-07-12T14:25:06+03:00</pubDate>
+</item><item>
 	<title>Newhaven Travel Guide (East Sussex/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/east-sussex/newhaven/</link>
 	<description>Plan your trip to Newhaven with this helpful and informative travel guide, including a list of places to visit, hiking/biking routes, food and drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/east-timor/timorese-north-coast/gleno/</link>
 	<description>Explore Gleno, East Timor with this comprehensive travel guide that covers everything from cultural attractions to outdoor adventures, accommodations to local cuisine, and transportation options to nearby destinations.</description>
 	<pubDate>2024-07-12T09:42:33+03:00</pubDate>
-</item><item>
-	<title>Karkala Travel Guide (Udupi (district)/Karavali/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/udupi-district/karkala/</link>
-	<description>Discover the Best Places to Visit, Food to Try, and Things to Do in Karkala with our Comprehensive Travel Guide. Find Out About Local Customs, Transportation Options, and Safety Tips for Your Next Trip.</description>
-	<pubDate>2024-07-12T09:09:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
