@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T22:08:51+03:00</pubDate>
-        <lastBuildDate>2024-07-12T22:08:51+03:00</lastBuildDate>
+        <pubDate>2024-07-12T22:35:03+03:00</pubDate>
+        <lastBuildDate>2024-07-12T22:35:03+03:00</lastBuildDate>
 
         <item>
+	<title>Southport Travel Guide (Huon and Far South/Southern Tasmania/Tasmania/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/tasmania/southern-tasmania/huon-and-far-south/southport/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in Southport, Tasmania. Read on for information on the local culture, food scene, and transportation options.</description>
+	<pubDate>2024-07-12T22:35:03+03:00</pubDate>
+</item><item>
 	<title>Aragonda Travel Guide (Rayalaseema/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/rayalaseema/aragonda/</link>
 	<description>Plan your next trip to Aragonda, Southern India with our comprehensive travel guide. Explore the cultural and natural attractions, the best things to do, where to stay and eat, and practical tips to make your visit safe and enjoyable.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/czech-republic/highlands/jihlava/</link>
 	<description>Discover the best places to visit, things to do, food to eat, and where to stay in Jihlava. Plan your next adventure with our comprehensive travel guide.</description>
 	<pubDate>2024-07-12T18:20:20+03:00</pubDate>
-</item><item>
-	<title>Cascade Mountains Travel Guide (North America)</title>
-	<link>https://travellers.wiki/en/north-america/cascade-mountains/</link>
-	<description>Discover the majestic beauty and adventure of Cascade Mountains with this ultimate travel guide featuring a list of places to visit, hiking trails, local culture and customs, safety tips, transportation and nearby destinations.</description>
-	<pubDate>2024-07-12T17:36:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
