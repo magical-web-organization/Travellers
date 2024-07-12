@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T07:45:06+03:00</pubDate>
-        <lastBuildDate>2024-07-12T07:45:06+03:00</lastBuildDate>
+        <pubDate>2024-07-12T08:25:36+03:00</pubDate>
+        <lastBuildDate>2024-07-12T08:25:36+03:00</lastBuildDate>
 
         <item>
+	<title>Salatiga Travel Guide (Semarang Metropolitan Area/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/semarang-metropolitan-area/salatiga/</link>
+	<description>Plan your trip to Salatiga, Central Java, with our comprehensive travel guide. Discover the best things to do, places to stay, and where to eat in Salatiga.</description>
+	<pubDate>2024-07-12T08:25:36+03:00</pubDate>
+</item><item>
 	<title>Marblehead Travel Guide (North Shore/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/north-shore/marblehead/</link>
 	<description>Plan your trip to Marblehead with our comprehensive travel guide, featuring things to do, places to stay, and local culture and customs. Discover the best of Marblehead's natural attractions, hiking and biking routes, and culinary scene.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/delaware/claymont/</link>
 	<description>This article is a comprehensive tour guide for Claymont, Delaware including a list of places to visit in Claymont, hiking/biking routes, best things to do, food and drink scene, local culture and customs, and much more.</description>
 	<pubDate>2024-07-12T04:01:09+03:00</pubDate>
-</item><item>
-	<title>Shekhawati Travel Guide (Rajasthan/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/rajasthan/shekhawati/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Shekhawati with this comprehensive travel guide.</description>
-	<pubDate>2024-07-12T03:25:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
