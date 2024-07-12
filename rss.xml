@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T10:06:27+03:00</pubDate>
-        <lastBuildDate>2024-07-12T10:06:27+03:00</lastBuildDate>
+        <pubDate>2024-07-12T10:47:47+03:00</pubDate>
+        <lastBuildDate>2024-07-12T10:47:47+03:00</lastBuildDate>
 
         <item>
+	<title>Escárcega Travel Guide (Campeche (state)/Yucatán and the South/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/yucatan-and-the-south/campeche-state/escarcega/</link>
+	<description>Discover the best things to see, do, eat, and stay in Escárcega, Mexico with this comprehensive travel guide. Plan your itinerary today!</description>
+	<pubDate>2024-07-12T10:47:47+03:00</pubDate>
+</item><item>
 	<title>Hemet Travel Guide (Riverside County/Southern California/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/riverside-county/hemet/</link>
 	<description>Hemet, California is a hidden gem in Riverside County with plenty of outdoor adventures, rich history, and delicious cuisine. Discover the best places to visit, stay, and eat with our comprehensive guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/other-destinations/islands/islands-of-the-atlantic-ocean/azores/faial/</link>
 	<description>Explore Faial with our detailed guide. Learn about the best places to visit, things to do, where to stay, local culture and customs, and much more.</description>
 	<pubDate>2024-07-12T06:26:16+03:00</pubDate>
-</item><item>
-	<title>Shiroda Travel Guide (South Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/south-konkan/shiroda/</link>
-	<description>Discover the beauty and cultural richness of Shiroda, Maharashtra, with our comprehensive tour guide. From natural attractions to local cuisine, find all the information you need to plan your trip ahead.</description>
-	<pubDate>2024-07-12T05:43:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
