@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-12T13:17:07+03:00</pubDate>
-        <lastBuildDate>2024-07-12T13:17:07+03:00</lastBuildDate>
+        <pubDate>2024-07-12T13:55:47+03:00</pubDate>
+        <lastBuildDate>2024-07-12T13:55:47+03:00</lastBuildDate>
 
         <item>
+	<title>Newhaven Travel Guide (East Sussex/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/east-sussex/newhaven/</link>
+	<description>Plan your trip to Newhaven with this helpful and informative travel guide, including a list of places to visit, hiking/biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-07-12T13:55:47+03:00</pubDate>
+</item><item>
 	<title>Bolsward Travel Guide (Friesland/Northern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/friesland/bolsward/</link>
 	<description>Discover the beauty of Bolsward with our ultimate travel guide. From must-visit attractions to hiking routes, food, and drink scene, as well as transportation options and logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/karavali/udupi-district/karkala/</link>
 	<description>Discover the Best Places to Visit, Food to Try, and Things to Do in Karkala with our Comprehensive Travel Guide. Find Out About Local Customs, Transportation Options, and Safety Tips for Your Next Trip.</description>
 	<pubDate>2024-07-12T09:09:36+03:00</pubDate>
-</item><item>
-	<title>Cadereyta Travel Guide (Querétaro (state)/Bajío/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/bajio/queretaro-state/cadereyta/</link>
-	<description>A comprehensive travel guide for Cadereyta in Querétaro, Mexico, featuring cultural attractions, natural wonders, outdoor activities, food and drink scene, accommodation options, local customs and more.</description>
-	<pubDate>2024-07-12T08:43:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
