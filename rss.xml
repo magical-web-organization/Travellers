@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-13T05:10:44+03:00</pubDate>
-        <lastBuildDate>2024-07-13T05:10:44+03:00</lastBuildDate>
+        <pubDate>2024-07-13T05:52:15+03:00</pubDate>
+        <lastBuildDate>2024-07-13T05:52:15+03:00</lastBuildDate>
 
         <item>
+	<title>Pacific Palisades Travel Guide (Westside (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/westside-los-angeles-county/pacific-palisades/</link>
+	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and transportation options in Pacific Palisades.</description>
+	<pubDate>2024-07-13T05:52:15+03:00</pubDate>
+</item><item>
 	<title>Harstine Island Travel Guide (Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/harstine-island/</link>
 	<description>Plan your trip to Harstine Island with this comprehensive travel guide. Discover the best places to visit, outdoor adventures, food and drink scene, where to stay, local culture, safety tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/capital-district/sharon-springs-new-york/</link>
 	<description>Discover the best things to do, places to visit, and food to try in Sharon Springs, New York. This comprehensive guide includes travel tips and recommendations for a delightful trip.</description>
 	<pubDate>2024-07-13T01:08:50+03:00</pubDate>
-</item><item>
-	<title>Jhalawar Travel Guide (Kota Division/Rajasthan/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/rajasthan/kota-division/jhalawar/</link>
-	<description>Plan your trip to Jhalawar with this comprehensive travel guide that covers everything from the best places to visit to the local culture and customs.</description>
-	<pubDate>2024-07-13T00:35:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
