@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T00:05:08+03:00</pubDate>
-        <lastBuildDate>2024-07-14T00:05:08+03:00</lastBuildDate>
+        <pubDate>2024-07-14T00:43:58+03:00</pubDate>
+        <lastBuildDate>2024-07-14T00:43:58+03:00</lastBuildDate>
 
         <item>
+	<title>Topsail Beach Travel Guide (North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/topsail-beach/</link>
+	<description>Dive into the beauty of Topsail Beach, North Carolina with our comprehensive travel guide - know where to stay, where to go, where to eat.</description>
+	<pubDate>2024-07-14T00:43:58+03:00</pubDate>
+</item><item>
 	<title>Sperlonga Travel Guide (Latina (province)/Lazio/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/latina-province/sperlonga/</link>
 	<description>Discover the best attractions, activities, and accommodations in Sperlonga with our comprehensive travel guide. Explore the local culture, customs, and cuisine!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/north/para/fordlandia/</link>
 	<description>Discover Fordlândia, a hidden gem in the North of Brazil, with our comprehensive travel guide featuring must-see attractions, hiking routes, food and drink recommendations, and more.</description>
 	<pubDate>2024-07-13T20:17:16+03:00</pubDate>
-</item><item>
-	<title>Columbia Travel Guide (Central Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/central-maryland/columbia/</link>
-	<description>Discover the best cultural attractions, natural wonders, outdoor activities, food and drink scene, accommodations, and transportation options in Columbia.</description>
-	<pubDate>2024-07-13T20:03:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
