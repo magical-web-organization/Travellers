@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-13T22:06:20+03:00</pubDate>
-        <lastBuildDate>2024-07-13T22:06:20+03:00</lastBuildDate>
+        <pubDate>2024-07-13T23:03:01+03:00</pubDate>
+        <lastBuildDate>2024-07-13T23:03:01+03:00</lastBuildDate>
 
         <item>
+	<title>Koya Travel Guide (Erbil Governorate/Iraqi Kurdistan/Iraq/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/iraq/iraqi-kurdistan/erbil-governorate/koya/</link>
+	<description>Plan your trip to Koya, Iraq with this comprehensive travel guide. Discover top attractions, food and drink scene, where to stay, and how to get around in Koya.</description>
+	<pubDate>2024-07-13T23:03:01+03:00</pubDate>
+</item><item>
 	<title>See Travel Guide (Paznaun Valley/Tyrol/Austria/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/austria/tyrol/paznaun-valley/see/</link>
 	<description>Explore the natural beauty, cultural heritage, and thrilling adventures of See, Austria. Plan your trip with our comprehensive travel guide featuring attractions, hiking routes, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/chile/southern-chile/biobio/isla-mocha/</link>
 	<description>Plan your trip to Isla Mocha with this comprehensive guide that includes information about places to visit, activities, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-07-13T18:20:34+03:00</pubDate>
-</item><item>
-	<title>Barahona Travel Guide (Southern Dominican Republic/Dominican Republic/Caribbean/North America)</title>
-	<link>https://travellers.wiki/en/north-america/caribbean/dominican-republic/southern-dominican-republic/barahona/</link>
-	<description>Visit Barahona in the Dominican Republic and discover the cultural and natural attractions, hiking and biking trails, activities and tours, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-07-13T17:58:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
