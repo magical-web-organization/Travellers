@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T00:43:58+03:00</pubDate>
-        <lastBuildDate>2024-07-14T00:43:58+03:00</lastBuildDate>
+        <pubDate>2024-07-14T01:14:39+03:00</pubDate>
+        <lastBuildDate>2024-07-14T01:14:39+03:00</lastBuildDate>
 
         <item>
+	<title>Valentine Travel Guide (North Central Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/north-central-nebraska/valentine/</link>
+	<description>Discover the highlights of Valentine, Nebraska with our comprehensive travel guide that covers everything from natural attractions to cultural landmarks and local cuisine.</description>
+	<pubDate>2024-07-14T01:14:39+03:00</pubDate>
+</item><item>
 	<title>Topsail Beach Travel Guide (North Carolina Coastal Plain/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-coastal-plain/topsail-beach/</link>
 	<description>Dive into the beauty of Topsail Beach, North Carolina with our comprehensive travel guide - know where to stay, where to go, where to eat.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/sarawak/bintulu/</link>
 	<description>Discover the best places to visit, things to do, food to eat, where to stay, and how to get around in Bintulu, Sarawak, Malaysia, through this comprehensive tour guide.</description>
 	<pubDate>2024-07-13T20:55:43+03:00</pubDate>
-</item><item>
-	<title>Fordlândia Travel Guide (Pará/North/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/north/para/fordlandia/</link>
-	<description>Discover Fordlândia, a hidden gem in the North of Brazil, with our comprehensive travel guide featuring must-see attractions, hiking routes, food and drink recommendations, and more.</description>
-	<pubDate>2024-07-13T20:17:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
