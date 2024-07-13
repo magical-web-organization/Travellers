@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-13T16:54:56+03:00</pubDate>
-        <lastBuildDate>2024-07-13T16:54:56+03:00</lastBuildDate>
+        <pubDate>2024-07-13T17:04:55+03:00</pubDate>
+        <lastBuildDate>2024-07-13T17:04:55+03:00</lastBuildDate>
 
         <item>
+	<title>Lyndhurst Travel Guide (Hampshire/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/hampshire/lyndhurst/</link>
+	<description>Discover the best things to do, places to stay, and where to eat in Lyndhurst with this comprehensive travel guide. Learn about local culture, attractions, and transportation options in this South East England town.</description>
+	<pubDate>2024-07-13T17:04:55+03:00</pubDate>
+</item><item>
 	<title>Tiree Travel Guide (Inner Hebrides/Hebrides/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/hebrides/inner-hebrides/tiree/</link>
 	<description>Discover the beauty of Tiree through our comprehensive travel guide. From natural attractions to local culture and customs, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/tamaulipas/la-pesca/</link>
 	<description>Discover the hidden gems of La Pesca in Tamaulipas, Mexico. From outdoor adventures to cultural attractions, food scene to lodgings, plan your perfect trip with our comprehensive travel guide.</description>
 	<pubDate>2024-07-13T12:37:53+03:00</pubDate>
-</item><item>
-	<title>Guptipara Travel Guide (Hooghly and Howrah/West Bengal/Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/hooghly-and-howrah/guptipara/</link>
-	<description>Discover cultural and natural treasures of Guptipara with our comprehensive travel guide. Explore historical places, scenic vistas, outdoor adventures, local cuisine, and more.</description>
-	<pubDate>2024-07-13T12:31:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
