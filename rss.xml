@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-13T18:20:34+03:00</pubDate>
-        <lastBuildDate>2024-07-13T18:20:34+03:00</lastBuildDate>
+        <pubDate>2024-07-13T18:54:32+03:00</pubDate>
+        <lastBuildDate>2024-07-13T18:54:32+03:00</lastBuildDate>
 
         <item>
+	<title>Dénia Travel Guide (Costa Blanca/Alicante (province)/Valencian Community/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/alicante-province/costa-blanca/denia/</link>
+	<description>Explore the best that Dénia has to offer with this comprehensive travel guide. Discover the top cultural attractions, natural wonders, hiking and biking routes, food and drink scene, tips for where to stay and what to buy, and much more.</description>
+	<pubDate>2024-07-13T18:54:32+03:00</pubDate>
+</item><item>
 	<title>Isla Mocha Travel Guide (Biobío/Southern Chile/Chile/South America)</title>
 	<link>https://travellers.wiki/en/south-america/chile/southern-chile/biobio/isla-mocha/</link>
 	<description>Plan your trip to Isla Mocha with this comprehensive guide that includes information about places to visit, activities, where to stay, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/inland-florida/florida-heartland/moore-haven/</link>
 	<description>Discover the best things to do, places to stay, and local culture of Moore Haven, Florida with our comprehensive travel guide.</description>
 	<pubDate>2024-07-13T14:04:18+03:00</pubDate>
-</item><item>
-	<title>Pasir Salak Travel Guide (Perak/West Coast/Malaysia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/perak/pasir-salak/</link>
-	<description>Discover the best things to do, places to stay, and food to eat in Pasir Salak. From cultural attractions to outdoor adventures, this comprehensive travel guide has got you covered.</description>
-	<pubDate>2024-07-13T13:42:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
