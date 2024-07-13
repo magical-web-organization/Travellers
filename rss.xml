@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-13T23:25:56+03:00</pubDate>
-        <lastBuildDate>2024-07-13T23:25:56+03:00</lastBuildDate>
+        <pubDate>2024-07-13T23:57:27+03:00</pubDate>
+        <lastBuildDate>2024-07-13T23:57:27+03:00</lastBuildDate>
 
         <item>
+	<title>Caloocan Travel Guide (Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/caloocan/</link>
+	<description>Explore the culturally-rich and scenic Caloocan with our travel guide. Discover the must-visit attractions, food and drink scene, places to stay, and tips for your safety and health.</description>
+	<pubDate>2024-07-13T23:57:27+03:00</pubDate>
+</item><item>
 	<title>Enderby Travel Guide (Okanagan/Thompson-Okanagan/British Columbia/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/british-columbia/thompson-okanagan/okanagan/enderby/</link>
 	<description>Plan your trip to Enderby, British Columbia with this comprehensive travel guide. Discover the best attractions, hiking and biking routes, food scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/la-tuque-region/obedjiwan/</link>
 	<description>Plan your trip to Obedjiwan with this detailed travel guide covering places to visit, activities, food, accommodations, and more.</description>
 	<pubDate>2024-07-13T19:16:23+03:00</pubDate>
-</item><item>
-	<title>Dénia Travel Guide (Costa Blanca/Alicante (province)/Valencian Community/Eastern Spain/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/valencian-community/alicante-province/costa-blanca/denia/</link>
-	<description>Explore the best that Dénia has to offer with this comprehensive travel guide. Discover the top cultural attractions, natural wonders, hiking and biking routes, food and drink scene, tips for where to stay and what to buy, and much more.</description>
-	<pubDate>2024-07-13T18:54:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
