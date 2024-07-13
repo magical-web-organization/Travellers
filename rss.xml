@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-13T09:54:36+03:00</pubDate>
-        <lastBuildDate>2024-07-13T09:54:36+03:00</lastBuildDate>
+        <pubDate>2024-07-13T10:29:29+03:00</pubDate>
+        <lastBuildDate>2024-07-13T10:29:29+03:00</lastBuildDate>
 
         <item>
+	<title>Ciacova Travel Guide (Banat/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/banat/ciacova/</link>
+	<description>Plan your trip to Ciacova with the help of this comprehensive travel guide that includes top attractions, hiking routes, accommodations, food and drink scene, local culture, and more.</description>
+	<pubDate>2024-07-13T10:29:29+03:00</pubDate>
+</item><item>
 	<title>Spiro Travel Guide (Choctaw Country/Oklahoma/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/choctaw-country/spiro/</link>
 	<description>Plan your trip to Spiro in Oklahoma with our comprehensive travel guide. Explore the hidden gems of Choctaw Country and experience the natural beauty, history, and culture of Spiro.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/westside-los-angeles-county/pacific-palisades/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, and transportation options in Pacific Palisades.</description>
 	<pubDate>2024-07-13T05:52:15+03:00</pubDate>
-</item><item>
-	<title>Harstine Island Travel Guide (Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/harstine-island/</link>
-	<description>Plan your trip to Harstine Island with this comprehensive travel guide. Discover the best places to visit, outdoor adventures, food and drink scene, where to stay, local culture, safety tips, and transportation options.</description>
-	<pubDate>2024-07-13T05:10:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
