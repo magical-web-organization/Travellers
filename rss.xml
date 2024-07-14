@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T16:44:02+03:00</pubDate>
-        <lastBuildDate>2024-07-14T16:44:02+03:00</lastBuildDate>
+        <pubDate>2024-07-14T17:12:40+03:00</pubDate>
+        <lastBuildDate>2024-07-14T17:12:40+03:00</lastBuildDate>
 
         <item>
+	<title>Horezu Travel Guide (Oltenia/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/oltenia/horezu/</link>
+	<description>Plan your trip to Horezu, Romania with this comprehensive travel guide that covers everything from where to go to what to do, and even the culture and customs of this beautiful city.</description>
+	<pubDate>2024-07-14T17:12:40+03:00</pubDate>
+</item><item>
 	<title>Karaisalı-Pozantı Travel Guide (Cilician Plains/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/cilician-plains/karaisali-pozanti/</link>
 	<description>Discover the top things to see, do and eat in Karaisalı-Pozantı, Turkey with our detailed travel guide. From cultural attractions to natural wonders, we cover it all!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-kildare/athy/</link>
 	<description>Discover the best places to visit, stay, eat and drink, and activities to do in Athy, Ireland. Learn about the culture, customs, safety, and transportation options to help plan your trip.</description>
 	<pubDate>2024-07-14T12:59:09+03:00</pubDate>
-</item><item>
-	<title>Davenport Travel Guide (Eastern Iowa/Iowa/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/eastern-iowa/davenport/</link>
-	<description>Discover the hidden gems of Davenport, Iowa in this comprehensive travel guide. Explore the best activities, attractions, food, and accommodations the city has to offer.</description>
-	<pubDate>2024-07-14T12:26:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
