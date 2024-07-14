@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T08:07:16+03:00</pubDate>
-        <lastBuildDate>2024-07-14T08:07:16+03:00</lastBuildDate>
+        <pubDate>2024-07-14T08:36:29+03:00</pubDate>
+        <lastBuildDate>2024-07-14T08:36:29+03:00</lastBuildDate>
 
         <item>
+	<title>Mozia Travel Guide (Trapani (province)/Sicily/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/sicily/trapani-province/mozia/</link>
+	<description>Mozia is an island located in Sicily, Italy, which is famous for its outdoor activities, historical places, local food, and cultural attractions. This travel guide presents important places to visit, fun things to do, transportation options, local customs and culture, and much more in Mozia.</description>
+	<pubDate>2024-07-14T08:36:29+03:00</pubDate>
+</item><item>
 	<title>Auch Travel Guide (Gers/Occitanie/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/occitanie/gers/auch/</link>
 	<description>Discover Auch, a charming medieval city in France's Gers department with this in-depth travel guide. Explore the town's cultural attractions, outdoor adventures, local cuisine, and traditions.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/iran/khorasan/birjand/</link>
 	<description>Plan your trip to Birjand with our comprehensive travel guide, featuring recommendations on top attractions, hiking and biking routes, local culture and customs, food and drink scene and much more.</description>
 	<pubDate>2024-07-14T04:27:50+03:00</pubDate>
-</item><item>
-	<title>Bolzano Travel Guide (South Tyrol/Trentino-Alto Adige/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/south-tyrol/bolzano/</link>
-	<description>Plan your visit to Bolzano with this comprehensive travel guide. Find recommendations for places to visit, things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-07-14T03:47:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
