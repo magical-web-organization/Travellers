@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T02:32:26+03:00</pubDate>
-        <lastBuildDate>2024-07-15T02:32:26+03:00</lastBuildDate>
+        <pubDate>2024-07-15T02:56:51+03:00</pubDate>
+        <lastBuildDate>2024-07-15T02:56:51+03:00</lastBuildDate>
 
         <item>
+	<title>Pingliang Travel Guide (Gansu/Northwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/pingliang/</link>
+	<description>Discover the best places to visit, eat, stay and everything else in Pingliang. Read our comprehensive travel guide to plan your perfect trip to this historic city in China.</description>
+	<pubDate>2024-07-15T02:56:51+03:00</pubDate>
+</item><item>
 	<title>Uniontown Travel Guide (Canton-Massillion Metropolitan Area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/canton-massillion-metropolitan-area/uniontown/</link>
 	<description>Discover the best things to do, places to visit, food and drink scene, and local culture in Uniontown, Ohio - Your ultimate travel guide for the perfect getaway</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/mari-el/</link>
 	<description>Here's everything you need to know before visiting Mari El, including the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-07-14T22:12:57+03:00</pubDate>
-</item><item>
-	<title>Pori Travel Guide (Satakunta/West Coast/Finland/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/satakunta/pori/</link>
-	<description>Planning a trip to Pori, Finland? Check out this comprehensive travel guide that covers everything from places to visit to cultural customs and safety tips.</description>
-	<pubDate>2024-07-14T22:02:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
