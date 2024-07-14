@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T16:12:26+03:00</pubDate>
-        <lastBuildDate>2024-07-14T16:12:26+03:00</lastBuildDate>
+        <pubDate>2024-07-14T16:44:02+03:00</pubDate>
+        <lastBuildDate>2024-07-14T16:44:02+03:00</lastBuildDate>
 
         <item>
+	<title>Karaisalı-Pozantı Travel Guide (Cilician Plains/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/cilician-plains/karaisali-pozanti/</link>
+	<description>Discover the top things to see, do and eat in Karaisalı-Pozantı, Turkey with our detailed travel guide. From cultural attractions to natural wonders, we cover it all!</description>
+	<pubDate>2024-07-14T16:44:02+03:00</pubDate>
+</item><item>
 	<title>Chikuma Travel Guide (Nagano (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/chikuma/</link>
 	<description>Explore the rich culture, natural beauty, and adventure opportunities of Chikuma, Japan with this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay for an unforgettable journey.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/eastern-iowa/davenport/</link>
 	<description>Discover the hidden gems of Davenport, Iowa in this comprehensive travel guide. Explore the best activities, attractions, food, and accommodations the city has to offer.</description>
 	<pubDate>2024-07-14T12:26:05+03:00</pubDate>
-</item><item>
-	<title>Kamalapur Travel Guide (Northern Karnataka/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/northern-karnataka/kamalapur/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Kamalapur. Learn about the local culture and customs, safety, and health tips, and transportation options.</description>
-	<pubDate>2024-07-14T11:36:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
