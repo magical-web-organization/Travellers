@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T15:12:10+03:00</pubDate>
-        <lastBuildDate>2024-07-14T15:12:10+03:00</lastBuildDate>
+        <pubDate>2024-07-14T15:45:41+03:00</pubDate>
+        <lastBuildDate>2024-07-14T15:45:41+03:00</lastBuildDate>
 
         <item>
+	<title>Bentonville Travel Guide (Shenandoah Valley/Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/shenandoah-valley/bentonville/</link>
+	<description>Discover the best things to do in Bentonville, where to stay and eat, local culture, safety guidelines, transportation options and more.</description>
+	<pubDate>2024-07-14T15:45:41+03:00</pubDate>
+</item><item>
 	<title>Niğde Travel Guide (Central Anatolia/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/central-anatolia/nigde/</link>
 	<description>Discover the best things to do, where to stay, what to eat, and how to get around in Niğde, Turkey with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/seaton/</link>
 	<description>Discover the top attractions, best things to do, where to stay, and more with our comprehensive travel guide to Seaton - a hidden gem in Devon, United Kingdom.</description>
 	<pubDate>2024-07-14T11:10:50+03:00</pubDate>
-</item><item>
-	<title>Boca Brava Travel Guide (Pacific West/Panama/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/boca-brava/</link>
-	<description>Plan your trip to Boca Brava, Panama with our comprehensive travel guide. Discover the best things to do, places to visit, and where to stay in Boca Brava.</description>
-	<pubDate>2024-07-14T10:38:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
