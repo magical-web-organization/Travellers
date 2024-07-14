@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T07:49:02+03:00</pubDate>
-        <lastBuildDate>2024-07-14T07:49:02+03:00</lastBuildDate>
+        <pubDate>2024-07-14T08:07:16+03:00</pubDate>
+        <lastBuildDate>2024-07-14T08:07:16+03:00</lastBuildDate>
 
         <item>
+	<title>Auch Travel Guide (Gers/Occitanie/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/occitanie/gers/auch/</link>
+	<description>Discover Auch, a charming medieval city in France's Gers department with this in-depth travel guide. Explore the town's cultural attractions, outdoor adventures, local cuisine, and traditions.</description>
+	<pubDate>2024-07-14T08:07:16+03:00</pubDate>
+</item><item>
 	<title>Sari Travel Guide (Caspian Iran/Iran/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/iran/caspian-iran/sari/</link>
 	<description>Discover the hidden gem of Northern Iran with our comprehensive travel guide to Sari. From natural attractions to local culture, learn everything you need to plan your trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/trentino-alto-adige/south-tyrol/bolzano/</link>
 	<description>Plan your visit to Bolzano with this comprehensive travel guide. Find recommendations for places to visit, things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-07-14T03:47:48+03:00</pubDate>
-</item><item>
-	<title>Ithaca (New York) Travel Guide (Eastern Finger Lakes/Finger Lakes/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/finger-lakes/eastern-finger-lakes/ithaca-new-york/</link>
-	<description>Discover all the amazing things to do, see, eat, and experience in Ithaca (New York) with our comprehensive travel guide.</description>
-	<pubDate>2024-07-14T03:21:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
