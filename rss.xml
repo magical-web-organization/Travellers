@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T04:27:50+03:00</pubDate>
-        <lastBuildDate>2024-07-14T04:27:50+03:00</lastBuildDate>
+        <pubDate>2024-07-14T04:49:32+03:00</pubDate>
+        <lastBuildDate>2024-07-14T04:49:32+03:00</lastBuildDate>
 
         <item>
+	<title>Woodbridge Travel Guide (Suffolk/East of England/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-of-england/suffolk/woodbridge/</link>
+	<description>Discover the best things to do, places to visit, and local culture in Woodbridge, England.</description>
+	<pubDate>2024-07-14T04:49:32+03:00</pubDate>
+</item><item>
 	<title>Birjand Travel Guide (Khorasan/Iran/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/iran/khorasan/birjand/</link>
 	<description>Plan your trip to Birjand with our comprehensive travel guide, featuring recommendations on top attractions, hiking and biking routes, local culture and customs, food and drink scene and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/latina-province/sperlonga/</link>
 	<description>Discover the best attractions, activities, and accommodations in Sperlonga with our comprehensive travel guide. Explore the local culture, customs, and cuisine!</description>
 	<pubDate>2024-07-14T00:05:08+03:00</pubDate>
-</item><item>
-	<title>Caloocan Travel Guide (Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/caloocan/</link>
-	<description>Explore the culturally-rich and scenic Caloocan with our travel guide. Discover the must-visit attractions, food and drink scene, places to stay, and tips for your safety and health.</description>
-	<pubDate>2024-07-13T23:57:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
