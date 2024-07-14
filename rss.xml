@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T12:26:05+03:00</pubDate>
-        <lastBuildDate>2024-07-14T12:26:05+03:00</lastBuildDate>
+        <pubDate>2024-07-14T12:59:09+03:00</pubDate>
+        <lastBuildDate>2024-07-14T12:59:09+03:00</lastBuildDate>
 
         <item>
+	<title>Athy Travel Guide (County Kildare/East Coast and Midlands/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/east-coast-and-midlands/county-kildare/athy/</link>
+	<description>Discover the best places to visit, stay, eat and drink, and activities to do in Athy, Ireland. Learn about the culture, customs, safety, and transportation options to help plan your trip.</description>
+	<pubDate>2024-07-14T12:59:09+03:00</pubDate>
+</item><item>
 	<title>Davenport Travel Guide (Eastern Iowa/Iowa/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/iowa/eastern-iowa/davenport/</link>
 	<description>Discover the hidden gems of Davenport, Iowa in this comprehensive travel guide. Explore the best activities, attractions, food, and accommodations the city has to offer.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/france/occitanie/gers/auch/</link>
 	<description>Discover Auch, a charming medieval city in France's Gers department with this in-depth travel guide. Explore the town's cultural attractions, outdoor adventures, local cuisine, and traditions.</description>
 	<pubDate>2024-07-14T08:07:16+03:00</pubDate>
-</item><item>
-	<title>Sari Travel Guide (Caspian Iran/Iran/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/iran/caspian-iran/sari/</link>
-	<description>Discover the hidden gem of Northern Iran with our comprehensive travel guide to Sari. From natural attractions to local culture, learn everything you need to plan your trip.</description>
-	<pubDate>2024-07-14T07:49:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
