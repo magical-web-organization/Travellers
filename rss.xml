@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T20:24:32+03:00</pubDate>
-        <lastBuildDate>2024-07-14T20:24:32+03:00</lastBuildDate>
+        <pubDate>2024-07-14T20:54:37+03:00</pubDate>
+        <lastBuildDate>2024-07-14T20:54:37+03:00</lastBuildDate>
 
         <item>
+	<title>Valbona Valley National Park Travel Guide (Northeastern Albania/Albania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/albania/northeastern-albania/valbona-valley-national-park/</link>
+	<description>A detailed guide to Valbona Valley National Park, including where to stay, things to do and see, and important travel information.</description>
+	<pubDate>2024-07-14T20:54:37+03:00</pubDate>
+</item><item>
 	<title>Columbus Grove Travel Guide (Northwest Ohio/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northwest-ohio/columbus-grove/</link>
 	<description>Plan your trip to Columbus Grove with our comprehensive travel guide. Explore unique attractions, outdoor adventures, foodie hotspots, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/nagano-prefecture/chikuma/</link>
 	<description>Explore the rich culture, natural beauty, and adventure opportunities of Chikuma, Japan with this comprehensive travel guide. Discover the best places to visit, things to do, and where to stay for an unforgettable journey.</description>
 	<pubDate>2024-07-14T16:12:26+03:00</pubDate>
-</item><item>
-	<title>Bentonville Travel Guide (Shenandoah Valley/Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/shenandoah-valley/bentonville/</link>
-	<description>Discover the best things to do in Bentonville, where to stay and eat, local culture, safety guidelines, transportation options and more.</description>
-	<pubDate>2024-07-14T15:45:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
