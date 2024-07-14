@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T18:04:04+03:00</pubDate>
-        <lastBuildDate>2024-07-14T18:04:04+03:00</lastBuildDate>
+        <pubDate>2024-07-14T18:36:45+03:00</pubDate>
+        <lastBuildDate>2024-07-14T18:36:45+03:00</lastBuildDate>
 
         <item>
+	<title>Eger district Travel Guide (Heves County/Northern Hungary/Hungary/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/heves-county/eger-district/</link>
+	<description>Plan your trip to Eger district in Hungary with this comprehensive tour guide. Discover the cultural and natural attractions, outdoor adventures, hiking routes, local food and drinks, where to stay, and more.</description>
+	<pubDate>2024-07-14T18:36:45+03:00</pubDate>
+</item><item>
 	<title>Cupramontana Travel Guide (Ancona (province)/Marche/Central Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/central-italy/marche/ancona-province/cupramontana/</link>
 	<description>Plan your trip to Cupramontana with our comprehensive travel guide. Discover the best things to do, places to stay, and where to eat in this charming Italian town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/balearic-islands/mallorca/serra-de-tramuntana/andratx/</link>
 	<description>Plan your perfect trip to Andratx with our comprehensive travel guide that covers everything from top attractions to local culture, and from food and drink scene to accommodation options and logistics.</description>
 	<pubDate>2024-07-14T14:11:41+03:00</pubDate>
-</item><item>
-	<title>Wem Travel Guide (Shropshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/shropshire/wem/</link>
-	<description>Discover the best things to do and places to visit in Wem, West Midlands. Explore its rich cultural heritage, stunning natural landscapes, delectable cuisine, and more.</description>
-	<pubDate>2024-07-14T13:51:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
