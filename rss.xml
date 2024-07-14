@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T00:50:27+03:00</pubDate>
-        <lastBuildDate>2024-07-15T00:50:27+03:00</lastBuildDate>
+        <pubDate>2024-07-15T01:17:07+03:00</pubDate>
+        <lastBuildDate>2024-07-15T01:17:07+03:00</lastBuildDate>
 
         <item>
+	<title>Xiangyang Travel Guide (Hubei/South-central China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/south-central-china/hubei/xiangyang/</link>
+	<description>Discover the culturally rich and natural beauty of Xiangyang. Explore museums, hike mountains, indulge in local cuisine, and more with our comprehensive guide.</description>
+	<pubDate>2024-07-15T01:17:07+03:00</pubDate>
+</item><item>
 	<title>Lockhart Travel Guide (Riverina/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/riverina/lockhart/</link>
 	<description>Plan your ultimate trip to Lockhart in Riverina, New South Wales with our comprehensive travel guide. Discover the best things to see and do, where to stay, where to eat and drink, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/albania/northeastern-albania/valbona-valley-national-park/</link>
 	<description>A detailed guide to Valbona Valley National Park, including where to stay, things to do and see, and important travel information.</description>
 	<pubDate>2024-07-14T20:54:37+03:00</pubDate>
-</item><item>
-	<title>Columbus Grove Travel Guide (Northwest Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northwest-ohio/columbus-grove/</link>
-	<description>Plan your trip to Columbus Grove with our comprehensive travel guide. Explore unique attractions, outdoor adventures, foodie hotspots, and much more.</description>
-	<pubDate>2024-07-14T20:24:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
