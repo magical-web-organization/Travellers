@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T22:12:57+03:00</pubDate>
-        <lastBuildDate>2024-07-14T22:12:57+03:00</lastBuildDate>
+        <pubDate>2024-07-14T23:02:32+03:00</pubDate>
+        <lastBuildDate>2024-07-14T23:02:32+03:00</lastBuildDate>
 
         <item>
+	<title>Barra do Ribeiro Travel Guide (Grande Porto Alegre/Rio Grande do Sul/South/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/south/rio-grande-do-sul/grande-porto-alegre/barra-do-ribeiro/</link>
+	<description>Discover the cultural and natural attractions, food scene, where to stay, transportation options, and more in Barra do Ribeiro, Brazil with this comprehensive travel guide.</description>
+	<pubDate>2024-07-14T23:02:32+03:00</pubDate>
+</item><item>
 	<title>Mari El Travel Guide (Volga Region/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/volga-region/mari-el/</link>
 	<description>Here's everything you need to know before visiting Mari El, including the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/marche/ancona-province/cupramontana/</link>
 	<description>Plan your trip to Cupramontana with our comprehensive travel guide. Discover the best things to do, places to stay, and where to eat in this charming Italian town.</description>
 	<pubDate>2024-07-14T18:04:04+03:00</pubDate>
-</item><item>
-	<title>Chipping Campden Travel Guide (Gloucestershire/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/gloucestershire/chipping-campden/</link>
-	<description>Plan your trip to Chipping Campden with our comprehensive travel guide. Discover top attractions, hiking/biking routes, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-07-14T17:58:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
