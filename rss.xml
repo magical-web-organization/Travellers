@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-14T06:03:06+03:00</pubDate>
-        <lastBuildDate>2024-07-14T06:03:06+03:00</lastBuildDate>
+        <pubDate>2024-07-14T06:26:53+03:00</pubDate>
+        <lastBuildDate>2024-07-14T06:26:53+03:00</lastBuildDate>
 
         <item>
+	<title>Dujiangyan Travel Guide (East Sichuan/Sichuan/Southwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/east-sichuan/dujiangyan/</link>
+	<description>This guide provides all the information you need to plan your trip to Dujiangyan, China, including places to visit, hiking and biking routes, where to stay, what to buy, local culture and customs, safety and health, and transportation options.</description>
+	<pubDate>2024-07-14T06:26:53+03:00</pubDate>
+</item><item>
 	<title>Sevettijärvi Travel Guide (Finnish Lapland/Northern Finland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/finnish-lapland/sevettijarvi/</link>
 	<description>Discover the best of Sevettijärvi, Finland with this comprehensive travel guide that covers the town's culture, attractions, food, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/north-central-wisconsin/coloma/</link>
 	<description>Explore the culturally important attractions, natural wonders, food and drink scene, places to stay, and transportation options in Coloma, Wisconsin. Plan your itinerary with our guide.</description>
 	<pubDate>2024-07-14T01:54:32+03:00</pubDate>
-</item><item>
-	<title>Valentine Travel Guide (North Central Nebraska/Nebraska/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/nebraska/north-central-nebraska/valentine/</link>
-	<description>Discover the highlights of Valentine, Nebraska with our comprehensive travel guide that covers everything from natural attractions to cultural landmarks and local cuisine.</description>
-	<pubDate>2024-07-14T01:14:39+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
