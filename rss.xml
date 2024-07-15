@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T14:53:16+03:00</pubDate>
-        <lastBuildDate>2024-07-15T14:53:16+03:00</lastBuildDate>
+        <pubDate>2024-07-15T15:19:09+03:00</pubDate>
+        <lastBuildDate>2024-07-15T15:19:09+03:00</lastBuildDate>
 
         <item>
+	<title>Ribe Travel Guide (South Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/south-jutland/ribe/</link>
+	<description>Explore the culturally rich and scenic city of Ribe, Denmark with this comprehensive travel guide featuring top attractions, outdoor activities, food and drink scene, transportation options, and more.</description>
+	<pubDate>2024-07-15T15:19:09+03:00</pubDate>
+</item><item>
 	<title>West Seneca Travel Guide (Southtowns/Niagara Frontier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/niagara-frontier/southtowns/west-seneca/</link>
 	<description>Plan your perfect trip to West Seneca with this comprehensive travel guide, featuring information on top attractions, activities, accommodations, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/eastern-anatolia/darende/</link>
 	<description>Discover the best things to see and do, where to stay, what to eat, and how to get around in Darende, Turkey with this comprehensive travel guide.</description>
 	<pubDate>2024-07-15T11:02:35+03:00</pubDate>
-</item><item>
-	<title>Guayaramerín Travel Guide (Beni/Bolivia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/bolivia/beni/guayaramerin/</link>
-	<description>Get to know more about Guayaramerín in Bolivia with this comprehensive travel guide, which includes a list of places to visit, hiking and biking routes, accommodation options, food and drink scene, and more.</description>
-	<pubDate>2024-07-15T10:08:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
