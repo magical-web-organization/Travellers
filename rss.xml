@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T13:08:30+03:00</pubDate>
-        <lastBuildDate>2024-07-15T13:08:30+03:00</lastBuildDate>
+        <pubDate>2024-07-15T13:50:09+03:00</pubDate>
+        <lastBuildDate>2024-07-15T13:50:09+03:00</lastBuildDate>
 
         <item>
+	<title>Clarion Travel Guide (Pennsylvania Wilds/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-wilds/clarion/</link>
+	<description>Plan your next trip to Clarion, Pennsylvania with our complete travel guide. Discover the best things to do, where to stay, and what to eat in Clarion.</description>
+	<pubDate>2024-07-15T13:50:09+03:00</pubDate>
+</item><item>
 	<title>Gimli Travel Guide (Interlake/Manitoba/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/interlake/gimli/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Gimli, Manitoba. Plan your trip and have an unforgettable experience in this charming town in Canada's Prairies.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/sikkim/west-sikkim/yuksom/</link>
 	<description>Discover the best places to visit, hiking and biking routes, local food, culture and customs, safety and health, and transportation options to and from Yuksom, a hidden gem in Western Sikkim, India.</description>
 	<pubDate>2024-07-15T09:05:48+03:00</pubDate>
-</item><item>
-	<title>Cleveland Heights Travel Guide (Cuyahoga County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/cleveland-heights/</link>
-	<description>Discover the best things to do, see, eat, and stay in Cleveland Heights, Ohio. Plan your trip with this comprehensive travel guide.</description>
-	<pubDate>2024-07-15T08:56:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
