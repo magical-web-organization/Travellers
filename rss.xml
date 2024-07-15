@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T21:29:35+03:00</pubDate>
-        <lastBuildDate>2024-07-15T21:29:35+03:00</lastBuildDate>
+        <pubDate>2024-07-15T21:49:42+03:00</pubDate>
+        <lastBuildDate>2024-07-15T21:49:42+03:00</lastBuildDate>
 
         <item>
+	<title>Cadillac Travel Guide (Grand Traverse Bay Area/Northern Michigan/Michigan/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/northern-michigan/grand-traverse-bay-area/cadillac/</link>
+	<description>Get a comprehensive travel guide to Cadillac, Michigan, including a list of top attractions, hiking and biking routes, food and drink scene, where to stay, and much more.</description>
+	<pubDate>2024-07-15T21:49:42+03:00</pubDate>
+</item><item>
 	<title>Trobriand Islands Travel Guide (Milne Bay/Papua New Guinea/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/papua-new-guinea/milne-bay/trobriand-islands/</link>
 	<description>Your comprehensive guide to exploring the Trobriand Islands, including sights to see, activities to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/falkland-islands/new-island/</link>
 	<description>Explore the natural wonders of New Island in Falkland Islands with our in-depth travel guide featuring a list of places to visit, hiking/biking routes, food and drink scene, and more.</description>
 	<pubDate>2024-07-15T17:22:45+03:00</pubDate>
-</item><item>
-	<title>Maamigili Travel Guide (Ari/Maldives/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/maldives/ari/maamigili/</link>
-	<description>Discover the best things to do, places to visit, and local culture and customs in Maamigili. Plan your trip with this comprehensive travel guide.</description>
-	<pubDate>2024-07-15T16:59:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
