@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T12:38:49+03:00</pubDate>
-        <lastBuildDate>2024-07-15T12:38:49+03:00</lastBuildDate>
+        <pubDate>2024-07-15T13:08:30+03:00</pubDate>
+        <lastBuildDate>2024-07-15T13:08:30+03:00</lastBuildDate>
 
         <item>
+	<title>Gimli Travel Guide (Interlake/Manitoba/Prairies/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/interlake/gimli/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Gimli, Manitoba. Plan your trip and have an unforgettable experience in this charming town in Canada's Prairies.</description>
+	<pubDate>2024-07-15T13:08:30+03:00</pubDate>
+</item><item>
 	<title>Japan Alps Travel Guide (Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/japan-alps/</link>
 	<description>Discover beautiful Japan Alps with our comprehensive travel guide. Find out what to see, where to stay and what to taste!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/cleveland-heights/</link>
 	<description>Discover the best things to do, see, eat, and stay in Cleveland Heights, Ohio. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-07-15T08:56:54+03:00</pubDate>
-</item><item>
-	<title>Kaplıca Travel Guide (Famagusta district (North)/Northern Cyprus/Europe)</title>
-	<link>https://travellers.wiki/en/europe/northern-cyprus/famagusta-district-north/kaplica/</link>
-	<description>Plan your trip to Kaplıca with our complete travel guide, featuring top attractions, hiking routes, food and drink scene, transportation options, safety and health tips, and more.</description>
-	<pubDate>2024-07-15T08:18:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
