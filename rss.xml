@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T07:17:08+03:00</pubDate>
-        <lastBuildDate>2024-07-15T07:17:08+03:00</lastBuildDate>
+        <pubDate>2024-07-15T07:48:22+03:00</pubDate>
+        <lastBuildDate>2024-07-15T07:48:22+03:00</lastBuildDate>
 
         <item>
+	<title>Lake George Travel Guide (Adirondacks/New York (state)/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/adirondacks/lake-george/</link>
+	<description>Explore the beautiful Lake George in Adirondacks with our comprehensive travel guide. Discover the top attractions, hiking routes, best things to do, where to stay, and much more.</description>
+	<pubDate>2024-07-15T07:48:22+03:00</pubDate>
+</item><item>
 	<title>Brunnen Travel Guide (Central Switzerland/Switzerland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/switzerland/central-switzerland/brunnen/</link>
 	<description>Plan your next trip to Brunnen with our comprehensive travel guide. Discover the best natural and cultural attractions, hiking and biking routes, food and drink scene, and tips for safety and health.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/keyport-washington/</link>
 	<description>Discover the best of Keyport, from outdoor adventures and scenic views to cultural attractions and local cuisine. This comprehensive guide offers tips on where to stay, what to do, and how to get there.</description>
 	<pubDate>2024-07-15T03:12:33+03:00</pubDate>
-</item><item>
-	<title>Pingliang Travel Guide (Gansu/Northwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/pingliang/</link>
-	<description>Discover the best places to visit, eat, stay and everything else in Pingliang. Read our comprehensive travel guide to plan your perfect trip to this historic city in China.</description>
-	<pubDate>2024-07-15T02:56:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
