@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T23:42:58+03:00</pubDate>
-        <lastBuildDate>2024-07-15T23:42:58+03:00</lastBuildDate>
+        <pubDate>2024-07-16T00:22:32+03:00</pubDate>
+        <lastBuildDate>2024-07-16T00:22:32+03:00</lastBuildDate>
 
         <item>
+	<title>Saguenay-Saint Lawrence Marine Park Travel Guide (North Shore/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/saguenay-saint-lawrence-marine-park/</link>
+	<description>Plan your visit to Saguenay-Saint Lawrence Marine Park with our comprehensive travel guide. Discover the best attractions, activities, food, and tips for your trip.</description>
+	<pubDate>2024-07-16T00:22:32+03:00</pubDate>
+</item><item>
 	<title>Nexø Travel Guide (Bornholm/Denmark/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/bornholm/nexo/</link>
 	<description>Discover the best things to see, do, eat and experience in Nexø, Denmark – a charming small town located on the island of Bornholm.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/peru/southern-coast/ballestas-islands/</link>
 	<description>Plan a perfect trip to Ballestas Islands with this comprehensive travel guide. Discover the best things to do, see, and eat in the region, along with tips for getting around and staying safe.</description>
 	<pubDate>2024-07-15T19:36:50+03:00</pubDate>
-</item><item>
-	<title>Radebeul Travel Guide (Saxon Elbland/Saxony/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-elbland/radebeul/</link>
-	<description>Discover the best places to visit, food and drink, culture, safety, transportation, and more in Radebeul, Germany.</description>
-	<pubDate>2024-07-15T19:14:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
