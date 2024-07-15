@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T17:59:51+03:00</pubDate>
-        <lastBuildDate>2024-07-15T17:59:51+03:00</lastBuildDate>
+        <pubDate>2024-07-15T18:31:10+03:00</pubDate>
+        <lastBuildDate>2024-07-15T18:31:10+03:00</lastBuildDate>
 
         <item>
+	<title>Sovata Travel Guide (Mureș County/Szeklerland/Transylvania/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/szeklerland/mures-county/sovata/</link>
+	<description>Discover the best places to visit, food to try, activities to do, where to stay, and more in Sovata, one of the most beautiful destinations in Romania.</description>
+	<pubDate>2024-07-15T18:31:10+03:00</pubDate>
+</item><item>
 	<title>Bélapátfalva Travel Guide (Heves County/Northern Hungary/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/northern-hungary/heves-county/belapatfalva/</link>
 	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, accommodations, and logistics for a memorable trip to Bélapátfalva, Hungary.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-wilds/clarion/</link>
 	<description>Plan your next trip to Clarion, Pennsylvania with our complete travel guide. Discover the best things to do, where to stay, and what to eat in Clarion.</description>
 	<pubDate>2024-07-15T13:50:09+03:00</pubDate>
-</item><item>
-	<title>Gimli Travel Guide (Interlake/Manitoba/Prairies/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/interlake/gimli/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Gimli, Manitoba. Plan your trip and have an unforgettable experience in this charming town in Canada's Prairies.</description>
-	<pubDate>2024-07-15T13:08:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
