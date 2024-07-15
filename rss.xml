@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-16T01:20:38+03:00</pubDate>
-        <lastBuildDate>2024-07-16T01:20:38+03:00</lastBuildDate>
+        <pubDate>2024-07-16T01:35:16+03:00</pubDate>
+        <lastBuildDate>2024-07-16T01:35:16+03:00</lastBuildDate>
 
         <item>
+	<title>Fréjus Travel Guide (Var/Provence-Alpes-Côte d'Azur/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/provence-alpes-cote-d-azur/var/frejus/</link>
+	<description>A comprehensive travel guide to Fréjus, Provence-Alpes-Côte d'Azur that includes the best things to do, best places to stay, and the best food to enjoy.</description>
+	<pubDate>2024-07-16T01:35:16+03:00</pubDate>
+</item><item>
 	<title>Anaklia Travel Guide (Northwestern Georgia/Georgia (country)/Caucasus/Asia)</title>
 	<link>https://travellers.wiki/en/asia/caucasus/georgia-country/northwestern-georgia/anaklia/</link>
 	<description>Discover the best things to see and do in Anaklia, Georgia with our comprehensive travel guide, including top attractions, cultural experiences, local cuisine, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/papua-new-guinea/milne-bay/trobriand-islands/</link>
 	<description>Your comprehensive guide to exploring the Trobriand Islands, including sights to see, activities to do, where to stay, and more.</description>
 	<pubDate>2024-07-15T21:29:35+03:00</pubDate>
-</item><item>
-	<title>Gardner Travel Guide (North County/Central Massachusetts/Massachusetts/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/central-massachusetts/north-county/gardner/</link>
-	<description>Discover Gardner, Massachusetts with this comprehensive travel guide. Explore the best places to visit, things to do, and more in this North County town.</description>
-	<pubDate>2024-07-15T20:55:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
