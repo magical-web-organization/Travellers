@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-15T06:49:36+03:00</pubDate>
-        <lastBuildDate>2024-07-15T06:49:36+03:00</lastBuildDate>
+        <pubDate>2024-07-15T07:17:08+03:00</pubDate>
+        <lastBuildDate>2024-07-15T07:17:08+03:00</lastBuildDate>
 
         <item>
+	<title>Brunnen Travel Guide (Central Switzerland/Switzerland/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/switzerland/central-switzerland/brunnen/</link>
+	<description>Plan your next trip to Brunnen with our comprehensive travel guide. Discover the best natural and cultural attractions, hiking and biking routes, food and drink scene, and tips for safety and health.</description>
+	<pubDate>2024-07-15T07:17:08+03:00</pubDate>
+</item><item>
 	<title>Southern Wayne County Travel Guide (Wayne County/Metro Detroit/Southeast Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/southeast-michigan/metro-detroit/wayne-county/southern-wayne-county/</link>
 	<description>Explore the culturally important attractions, natural attractions, best things to do, food and drinks scene, and local culture of Southern Wayne County with our comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/gansu/pingliang/</link>
 	<description>Discover the best places to visit, eat, stay and everything else in Pingliang. Read our comprehensive travel guide to plan your perfect trip to this historic city in China.</description>
 	<pubDate>2024-07-15T02:56:51+03:00</pubDate>
-</item><item>
-	<title>Uniontown Travel Guide (Canton-Massillion Metropolitan Area/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/canton-massillion-metropolitan-area/uniontown/</link>
-	<description>Discover the best things to do, places to visit, food and drink scene, and local culture in Uniontown, Ohio - Your ultimate travel guide for the perfect getaway</description>
-	<pubDate>2024-07-15T02:32:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
