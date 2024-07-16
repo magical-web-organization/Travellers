@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-16T12:10:30+03:00</pubDate>
-        <lastBuildDate>2024-07-16T12:10:30+03:00</lastBuildDate>
+        <pubDate>2024-07-16T12:54:34+03:00</pubDate>
+        <lastBuildDate>2024-07-16T12:54:34+03:00</lastBuildDate>
 
         <item>
+	<title>DeLand Travel Guide (Volusia County/Florida/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/deland/</link>
+	<description>Plan your trip to DeLand with our comprehensive tour guide. Discover the best things to do, top attractions, and where to stay and eat in DeLand, Florida!</description>
+	<pubDate>2024-07-16T12:54:34+03:00</pubDate>
+</item><item>
 	<title>Idrija Travel Guide (Julian Alps/Slovenia/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/slovenia/julian-alps/idrija/</link>
 	<description>This article is all about discovering the best of Idrija in Slovenia, covering its culture, attractions, accommodations, food and drink scene, safety, health, transportation, and logistics. Get ready for an adventure of a lifetime!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/okinawa/kerama-islands/akajima/</link>
 	<description>Discover the natural beauty, cultural attractions, and must-see destinations of Akajima with this comprehensive travel guide. Find out the best places to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-07-16T08:31:47+03:00</pubDate>
-</item><item>
-	<title>Penmaenpool Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/penmaenpool/</link>
-	<description>Explore the best of Penmaenpool with our travel guide, including recommendations for activities, accommodations, dining and more. Plan your trip with us today!</description>
-	<pubDate>2024-07-16T08:02:48+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
