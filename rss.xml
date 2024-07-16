@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-16T17:48:04+03:00</pubDate>
-        <lastBuildDate>2024-07-16T17:48:04+03:00</lastBuildDate>
+        <pubDate>2024-07-16T18:10:18+03:00</pubDate>
+        <lastBuildDate>2024-07-16T18:10:18+03:00</lastBuildDate>
 
         <item>
+	<title>Gig Harbor Travel Guide (Kitsap Peninsula/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/kitsap-peninsula/gig-harbor/</link>
+	<description>Plan your next trip to Gig Harbor, Washington with our comprehensive travel guide featuring popular attractions, outdoor adventures, food and drink scene, where to stay, local culture, safety tips, and more.</description>
+	<pubDate>2024-07-16T18:10:18+03:00</pubDate>
+</item><item>
 	<title>Xichang Travel Guide (South Sichuan/Sichuan/Southwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/southwest-china/sichuan/south-sichuan/xichang/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Xichang, China with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/mpumalanga/mbombela/</link>
 	<description>Explore the best of Mbombela in Mpumalanga, South Africa with this comprehensive travel guide. Discover its cultural attractions, natural wonders, hiking/biking routes, food and drink scene, and more.</description>
 	<pubDate>2024-07-16T13:29:25+03:00</pubDate>
-</item><item>
-	<title>DeLand Travel Guide (Volusia County/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/deland/</link>
-	<description>Plan your trip to DeLand with our comprehensive tour guide. Discover the best things to do, top attractions, and where to stay and eat in DeLand, Florida!</description>
-	<pubDate>2024-07-16T12:54:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
