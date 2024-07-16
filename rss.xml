@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-16T04:28:47+03:00</pubDate>
-        <lastBuildDate>2024-07-16T04:28:47+03:00</lastBuildDate>
+        <pubDate>2024-07-16T04:54:29+03:00</pubDate>
+        <lastBuildDate>2024-07-16T04:54:29+03:00</lastBuildDate>
 
         <item>
+	<title>Ferapontovo Travel Guide (Vologda Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/vologda-oblast/ferapontovo/</link>
+	<description>Discover the best things to do, attractions, food, accommodations, and more in Ferapontovo – a charming town in Vologda Oblast, Russia.</description>
+	<pubDate>2024-07-16T04:54:29+03:00</pubDate>
+</item><item>
 	<title>Amiens Travel Guide (Hauts-de-France/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/hauts-de-france/amiens/</link>
 	<description>Explore the picturesque city of Amiens in Hauts-de-France with our comprehensive travel guide. Discover the best places to visit, eat, stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/saguenay-saint-lawrence-marine-park/</link>
 	<description>Plan your visit to Saguenay-Saint Lawrence Marine Park with our comprehensive travel guide. Discover the best attractions, activities, food, and tips for your trip.</description>
 	<pubDate>2024-07-16T00:22:32+03:00</pubDate>
-</item><item>
-	<title>Nexø Travel Guide (Bornholm/Denmark/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/bornholm/nexo/</link>
-	<description>Discover the best things to see, do, eat and experience in Nexø, Denmark – a charming small town located on the island of Bornholm.</description>
-	<pubDate>2024-07-15T23:42:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
