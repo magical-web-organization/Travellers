@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-16T23:24:08+03:00</pubDate>
-        <lastBuildDate>2024-07-16T23:24:08+03:00</lastBuildDate>
+        <pubDate>2024-07-16T23:58:53+03:00</pubDate>
+        <lastBuildDate>2024-07-16T23:58:53+03:00</lastBuildDate>
 
         <item>
+	<title>Dickinson Travel Guide (Western North Dakota/North Dakota/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/western-north-dakota/dickinson/</link>
+	<description>Explore the cultural and natural attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options of Dickinson, North Dakota.</description>
+	<pubDate>2024-07-16T23:58:53+03:00</pubDate>
+</item><item>
 	<title>Câmpulung Travel Guide (Mountainous North/Muntenia/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/mountainous-north/campulung/</link>
 	<description>Discover the best places to visit in Câmpulung, along with hiking and biking routes, local food, culture and customs, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/new-zealand/north-island/taranaki/stratford/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Stratford, a charming town in North Island, New Zealand.</description>
 	<pubDate>2024-07-16T19:21:34+03:00</pubDate>
-</item><item>
-	<title>Jaracuaro Travel Guide (Lake Patzcuaro/Michoacan/Pacific Coast/Mexico/North America)</title>
-	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/michoacan/lake-patzcuaro/jaracuaro/</link>
-	<description>Explore the culturally rich and naturally stunning town of Jaracuaro in Michoacan, Mexico with this comprehensive travel guide. Discover top attractions, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and more.</description>
-	<pubDate>2024-07-16T18:57:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
