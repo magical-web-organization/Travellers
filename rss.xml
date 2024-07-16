@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T01:10:20+03:00</pubDate>
-        <lastBuildDate>2024-07-17T01:10:20+03:00</lastBuildDate>
+        <pubDate>2024-07-17T01:47:23+03:00</pubDate>
+        <lastBuildDate>2024-07-17T01:47:23+03:00</lastBuildDate>
 
         <item>
+	<title>Hyden Travel Guide (Wheatbelt/Western Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/western-australia/wheatbelt/hyden/</link>
+	<description>Explore the natural beauty, culture, and history of Hyden, Western Australia. Discover where to stay, what to eat, and the best things to do in this scenic town.</description>
+	<pubDate>2024-07-17T01:47:23+03:00</pubDate>
+</item><item>
 	<title>Central Travel Guide (Hong Kong/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/hong-kong/central/</link>
 	<description>A comprehensive guide to Central in Hong Kong including places to visit, hiking and biking routes, food and drink, accommodations, local culture, transport options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/blue-mountains/oberon/</link>
 	<description>Plan your trip to Oberon, a serene town situated in the heart of Blue Mountains, New South Wales, known for majestic natural attractions, outdoor adventures, and cultural significance. Discover the best places to visit, things to do, where to stay, and local customs with our comprehensive travel guide.</description>
 	<pubDate>2024-07-16T21:28:07+03:00</pubDate>
-</item><item>
-	<title>Bolama Travel Guide (Bijagos Islands/Guinea-Bissau/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/guinea-bissau/bijagos-islands/bolama/</link>
-	<description>Discover the unspoiled beauty of Bolama Island in Guinea-Bissau, with this comprehensive travel guide. Learn about the must-see attractions, unique cultural experiences, and local food scene.</description>
-	<pubDate>2024-07-16T20:52:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
