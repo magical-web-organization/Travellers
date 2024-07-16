@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T00:55:18+03:00</pubDate>
-        <lastBuildDate>2024-07-17T00:55:18+03:00</lastBuildDate>
+        <pubDate>2024-07-17T01:10:20+03:00</pubDate>
+        <lastBuildDate>2024-07-17T01:10:20+03:00</lastBuildDate>
 
         <item>
+	<title>Central Travel Guide (Hong Kong/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/hong-kong/central/</link>
+	<description>A comprehensive guide to Central in Hong Kong including places to visit, hiking and biking routes, food and drink, accommodations, local culture, transport options, and nearby destinations.</description>
+	<pubDate>2024-07-17T01:10:20+03:00</pubDate>
+</item><item>
 	<title>Lashio Travel Guide (Eastern Myanmar/Myanmar/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/eastern-myanmar/lashio/</link>
 	<description>Your ultimate travel guide to Lashio, Myanmar. Explore the best attractions, food and drink scene, where to stay, and transportation options to make the most of your visit to Lashio.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/guinea-bissau/bijagos-islands/bolama/</link>
 	<description>Discover the unspoiled beauty of Bolama Island in Guinea-Bissau, with this comprehensive travel guide. Learn about the must-see attractions, unique cultural experiences, and local food scene.</description>
 	<pubDate>2024-07-16T20:52:51+03:00</pubDate>
-</item><item>
-	<title>Seosan Travel Guide (South Chungcheong/South Korea/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/south-korea/south-chungcheong/seosan/</link>
-	<description>Discover the best places to visit, eat, and stay in Seosan, and learn about the local culture and customs of this charming South Korean city.</description>
-	<pubDate>2024-07-16T20:16:23+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
