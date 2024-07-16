@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-16T07:12:39+03:00</pubDate>
-        <lastBuildDate>2024-07-16T07:12:39+03:00</lastBuildDate>
+        <pubDate>2024-07-16T08:02:48+03:00</pubDate>
+        <lastBuildDate>2024-07-16T08:02:48+03:00</lastBuildDate>
 
         <item>
+	<title>Penmaenpool Travel Guide (Gwynedd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/gwynedd/penmaenpool/</link>
+	<description>Explore the best of Penmaenpool with our travel guide, including recommendations for activities, accommodations, dining and more. Plan your trip with us today!</description>
+	<pubDate>2024-07-16T08:02:48+03:00</pubDate>
+</item><item>
 	<title>Stara Čaršija Travel Guide (Skopje/Povardarie/North Macedonia/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/povardarie/skopje/stara-carsija/</link>
 	<description>Explore the rich cultural, historical, and natural attractions in Stara Čaršija, North Macedonia with our ultimate travel guide. Find the best places to visit, food and drink to try, where to stay, and how to get around.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/highlands/orono/</link>
 	<description>Discover the best things to do, see, and eat in Orono, Maine. Our travel guide provides a comprehensive look at this charming town in the heart of New England.</description>
 	<pubDate>2024-07-16T03:13:06+03:00</pubDate>
-</item><item>
-	<title>Oxapampa Travel Guide (Central Sierra/Peru/South America)</title>
-	<link>https://travellers.wiki/en/south-america/peru/central-sierra/oxapampa/</link>
-	<description>Discover the wonders of Oxapampa, Peru with this comprehensive travel guide. From natural attractions to cultural landmarks, we highlight the best things to see, do, eat, and experience in this beautiful South American town.</description>
-	<pubDate>2024-07-16T02:59:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
