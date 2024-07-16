@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-16T04:54:29+03:00</pubDate>
-        <lastBuildDate>2024-07-16T04:54:29+03:00</lastBuildDate>
+        <pubDate>2024-07-16T05:20:04+03:00</pubDate>
+        <lastBuildDate>2024-07-16T05:20:04+03:00</lastBuildDate>
 
         <item>
+	<title>Coleambally Travel Guide (Riverina/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/riverina/coleambally/</link>
+	<description>Discover the best places to visit, things to do, where to eat, stay, and shop, and important travel information for Coleambally in New South Wales, Australia.</description>
+	<pubDate>2024-07-16T05:20:04+03:00</pubDate>
+</item><item>
 	<title>Ferapontovo Travel Guide (Vologda Oblast/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/vologda-oblast/ferapontovo/</link>
 	<description>Discover the best things to do, attractions, food, accommodations, and more in Ferapontovo – a charming town in Vologda Oblast, Russia.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/northern-circuit/shimukappu/</link>
 	<description>Explore the culturally rich and natural haven of Shimukappu with this comprehensive travel guide. Discover its hidden gems, learn about local customs, and find the best food, activities, and accommodations in the area.</description>
 	<pubDate>2024-07-16T00:56:30+03:00</pubDate>
-</item><item>
-	<title>Saguenay-Saint Lawrence Marine Park Travel Guide (North Shore/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/saguenay-saint-lawrence-marine-park/</link>
-	<description>Plan your visit to Saguenay-Saint Lawrence Marine Park with our comprehensive travel guide. Discover the best attractions, activities, food, and tips for your trip.</description>
-	<pubDate>2024-07-16T00:22:32+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
