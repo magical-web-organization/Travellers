@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T19:34:27+03:00</pubDate>
-        <lastBuildDate>2024-07-17T19:34:27+03:00</lastBuildDate>
+        <pubDate>2024-07-17T20:26:53+03:00</pubDate>
+        <lastBuildDate>2024-07-17T20:26:53+03:00</lastBuildDate>
 
         <item>
+	<title>Mars Hill Travel Guide (North Carolina Mountains/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-mountains/mars-hill/</link>
+	<description>Discover the best places to visit, things to do, hiking/biking routes, local food and drink scene, where to stay, and more in Mars Hill, North Carolina.</description>
+	<pubDate>2024-07-17T20:26:53+03:00</pubDate>
+</item><item>
 	<title>Resolute Travel Guide (Nunavut/Northern Canada/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/northern-canada/nunavut/resolute/</link>
 	<description>Explore the natural beauty, cultural attractions, and outdoor adventures of Resolute while discovering the must-try dishes, accommodations, and transportation options in the area.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/wyoming/northeast-wyoming/gillette/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, and more with our guide to Gillette, Wyoming, USA. Plan your trip today!</description>
 	<pubDate>2024-07-17T15:49:23+03:00</pubDate>
-</item><item>
-	<title>Cann River Travel Guide (East Gippsland/Gippsland/Victoria (state)/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/victoria-state/gippsland/east-gippsland/cann-river/</link>
-	<description>Discover the best things to do, where to stay, what to eat and more in Cann River, Victoria, Australia. Read on for tips on outdoor adventures, scenic views, cultural attractions, local customs, and logistics.</description>
-	<pubDate>2024-07-17T15:04:10+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
