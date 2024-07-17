@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T02:22:18+03:00</pubDate>
-        <lastBuildDate>2024-07-18T02:22:18+03:00</lastBuildDate>
+        <pubDate>2024-07-18T02:42:58+03:00</pubDate>
+        <lastBuildDate>2024-07-18T02:42:58+03:00</lastBuildDate>
 
         <item>
+	<title>La Candelaria Travel Guide (Bogotá/Andino/Colombia/South America)</title>
+	<link>https://travellers.wiki/en/south-america/colombia/andino/bogota/la-candelaria/</link>
+	<description>Read our comprehensive travel guide to La Candelaria in Bogotá, Colombia. Discover the best places to visit, things to do, food and drink scene, where to stay, and much more!</description>
+	<pubDate>2024-07-18T02:42:58+03:00</pubDate>
+</item><item>
 	<title>Burgos Travel Guide (Ilocos Norte/Ilocos/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/ilocos/ilocos-norte/burgos/</link>
 	<description>Plan the perfect trip to Burgos, Ilocos Norte, with this comprehensive travel guide covering the top attractions, activities, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/coal-region/pottsville/</link>
 	<description>Discover the best things to do, see, eat, and stay in Pottsville, PA with our comprehensive travel guide. From outdoor adventures to cultural attractions, we cover it all.</description>
 	<pubDate>2024-07-17T22:28:54+03:00</pubDate>
-</item><item>
-	<title>Prashar Lake Travel Guide (Central Himachal Pradesh/Himachal Pradesh/Himalayan North/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/himachal-pradesh/central-himachal-pradesh/prashar-lake/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Prashar Lake. Our comprehensive travel guide covers everything you need to know for a memorable trip to this beautiful destination.</description>
-	<pubDate>2024-07-17T21:56:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
