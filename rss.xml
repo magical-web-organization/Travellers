@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T04:58:06+03:00</pubDate>
-        <lastBuildDate>2024-07-17T04:58:06+03:00</lastBuildDate>
+        <pubDate>2024-07-17T05:04:56+03:00</pubDate>
+        <lastBuildDate>2024-07-17T05:04:56+03:00</lastBuildDate>
 
         <item>
+	<title>Katha Travel Guide (Northern Myanmar/Myanmar/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/northern-myanmar/katha/</link>
+	<description>Plan your trip to Katha with this helpful travel guide. Discover the best places to visit, things to do, where to eat and stay, and local customs and culture.</description>
+	<pubDate>2024-07-17T05:04:56+03:00</pubDate>
+</item><item>
 	<title>Treviso Travel Guide (Treviso (province)/Veneto/Northeast Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/veneto/treviso-province/treviso/</link>
 	<description>Plan the perfect trip to Treviso with our ultimate travel guide. Discover the best things to do, see and eat in Treviso, Italy, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/eastern-myanmar/lashio/</link>
 	<description>Your ultimate travel guide to Lashio, Myanmar. Explore the best attractions, food and drink scene, where to stay, and transportation options to make the most of your visit to Lashio.</description>
 	<pubDate>2024-07-17T00:55:18+03:00</pubDate>
-</item><item>
-	<title>Ipil Travel Guide (Zamboanga Peninsula/Mindanao/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/zamboanga-peninsula/ipil/</link>
-	<description>Discover the beauty of Ipil, Philippines. Find out what it has to offer in terms of culture, nature, food, and more in this comprehensive travel guide.</description>
-	<pubDate>2024-07-17T00:06:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
