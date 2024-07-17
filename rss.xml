@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T10:17:29+03:00</pubDate>
-        <lastBuildDate>2024-07-17T10:17:29+03:00</lastBuildDate>
+        <pubDate>2024-07-17T10:56:01+03:00</pubDate>
+        <lastBuildDate>2024-07-17T10:56:01+03:00</lastBuildDate>
 
         <item>
+	<title>Eastside Travel Guide (Portland/Portland Metropolitan Area/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/portland-metropolitan-area/portland/eastside/</link>
+	<description>Plan your trip to the Eastside of Portland Metropolitan Area with this comprehensive travel guide. Discover the best places to visit, eat, stay, and things to do in Eastside, Oregon.</description>
+	<pubDate>2024-07-17T10:56:01+03:00</pubDate>
+</item><item>
 	<title>Thurles Travel Guide (County Tipperary/Shannon Region/Ireland/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/shannon-region/county-tipperary/thurles/</link>
 	<description>Explore the best places to visit, food to try, activities to do, and tips for safety and transportation options in Thurles, Ireland with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/cicero/</link>
 	<description>Discover the best places to visit, food and drink scene, where to stay, and more. Start planning your trip to Cicero with this comprehensive travel guide.</description>
 	<pubDate>2024-07-17T06:19:18+03:00</pubDate>
-</item><item>
-	<title>Manizales Travel Guide (Zona Cafetera/Andino/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/andino/zona-cafetera/manizales/</link>
-	<description>Plan your trip to Manizales, Colombia with this comprehensive travel guide. Find things to do, places to visit, where to eat, and more.</description>
-	<pubDate>2024-07-17T05:49:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
