@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T00:32:00+03:00</pubDate>
-        <lastBuildDate>2024-07-18T00:32:00+03:00</lastBuildDate>
+        <pubDate>2024-07-18T00:43:00+03:00</pubDate>
+        <lastBuildDate>2024-07-18T00:43:00+03:00</lastBuildDate>
 
         <item>
+	<title>David Travel Guide (Pacific West/Panama/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/david/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to buy and local customs in David, Panama's Pacific West in this comprehensive travel guide.</description>
+	<pubDate>2024-07-18T00:43:00+03:00</pubDate>
+</item><item>
 	<title>Ma'alaea Travel Guide (Maui/Hawaii/Polynesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/maui/ma-alaea/</link>
 	<description>Discover the beauty and culture of Ma'alaea, Maui in Hawaii. Read our guide to find the best attractions, food, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-mountains/mars-hill/</link>
 	<description>Discover the best places to visit, things to do, hiking/biking routes, local food and drink scene, where to stay, and more in Mars Hill, North Carolina.</description>
 	<pubDate>2024-07-17T20:26:53+03:00</pubDate>
-</item><item>
-	<title>Resolute Travel Guide (Nunavut/Northern Canada/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/northern-canada/nunavut/resolute/</link>
-	<description>Explore the natural beauty, cultural attractions, and outdoor adventures of Resolute while discovering the must-try dishes, accommodations, and transportation options in the area.</description>
-	<pubDate>2024-07-17T19:34:27+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
