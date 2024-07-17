@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T08:31:53+03:00</pubDate>
-        <lastBuildDate>2024-07-17T08:31:53+03:00</lastBuildDate>
+        <pubDate>2024-07-17T09:02:38+03:00</pubDate>
+        <lastBuildDate>2024-07-17T09:02:38+03:00</lastBuildDate>
 
         <item>
+	<title>Cuenca Travel Guide (Castile-La Mancha/Central Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/central-spain/castile-la-mancha/cuenca/</link>
+	<description>Plan your trip to Cuenca, Spain with our comprehensive travel guide. Discover the best things to do, places to stay, and local culture and customs.</description>
+	<pubDate>2024-07-17T09:02:38+03:00</pubDate>
+</item><item>
 	<title>Vermillion Travel Guide (Southeast South Dakota/South Dakota/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/south-dakota/southeast-south-dakota/vermillion/</link>
 	<description>Plan your trip to Vermillion with our comprehensive travel guide featuring top things to do, places to stay, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/north-yorkshire/yorkshire-dales/</link>
 	<description>Plan your Yorkshire Dales adventure with this comprehensive travel guide. Explore stunning natural attractions and culturally important landmarks, try delicious local dishes and beverages, and learn about the local culture and customs.</description>
 	<pubDate>2024-07-17T04:11:06+03:00</pubDate>
-</item><item>
-	<title>Damavand Travel Guide (Tehran (province)/Central Iran/Iran/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/iran/central-iran/tehran-province/damavand/</link>
-	<description>Your ultimate travel guide to Damavand, Iran. Explore the cultural and natural attractions, outdoor adventures, food and drink scene, where to stay, what to buy, local culture and customs, safety, and transportation options of Damavand.</description>
-	<pubDate>2024-07-17T04:01:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
