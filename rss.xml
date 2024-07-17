@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T17:38:35+03:00</pubDate>
-        <lastBuildDate>2024-07-17T17:38:35+03:00</lastBuildDate>
+        <pubDate>2024-07-17T18:19:16+03:00</pubDate>
+        <lastBuildDate>2024-07-17T18:19:16+03:00</lastBuildDate>
 
         <item>
+	<title>Portsmouth Travel Guide (Dominica/Lesser Antilles/Caribbean/North America)</title>
+	<link>https://travellers.wiki/en/north-america/caribbean/lesser-antilles/dominica/portsmouth/</link>
+	<description>Discover the best places to visit, food, accommodations, local culture, and safety tips in Portsmouth, Dominica.</description>
+	<pubDate>2024-07-17T18:19:16+03:00</pubDate>
+</item><item>
 	<title>Aparecida Travel Guide (North Coast (São Paulo)/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-coast-sao-paulo/aparecida/</link>
 	<description>A guide to all the best things to do, see, eat, and experience in Aparecida, Brazil.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/northern-finland/kainuu-and-eastern-oulu-region/hyrynsalmi/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and what to eat in Hyrynsalmi, Finland with our comprehensive travel guide.</description>
 	<pubDate>2024-07-17T13:55:13+03:00</pubDate>
-</item><item>
-	<title>Taraz Travel Guide (Kazakh Desert/Kazakhstan/Central Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/central-asia/kazakhstan/kazakh-desert/taraz/</link>
-	<description>Discover Taraz, Kazakhstan with this ultimate travel guide. Learn about its culture, food, attractions, safety and health, transportation, and more.</description>
-	<pubDate>2024-07-17T13:13:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
