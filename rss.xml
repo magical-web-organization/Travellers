@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-17T05:49:21+03:00</pubDate>
-        <lastBuildDate>2024-07-17T05:49:21+03:00</lastBuildDate>
+        <pubDate>2024-07-17T06:19:18+03:00</pubDate>
+        <lastBuildDate>2024-07-17T06:19:18+03:00</lastBuildDate>
 
         <item>
+	<title>Cicero Travel Guide (Western Suburbs/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/western-suburbs/cicero/</link>
+	<description>Discover the best places to visit, food and drink scene, where to stay, and more. Start planning your trip to Cicero with this comprehensive travel guide.</description>
+	<pubDate>2024-07-17T06:19:18+03:00</pubDate>
+</item><item>
 	<title>Manizales Travel Guide (Zona Cafetera/Andino/Colombia/South America)</title>
 	<link>https://travellers.wiki/en/south-america/colombia/andino/zona-cafetera/manizales/</link>
 	<description>Plan your trip to Manizales, Colombia with this comprehensive travel guide. Find things to do, places to visit, where to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/oceania/australia/western-australia/wheatbelt/hyden/</link>
 	<description>Explore the natural beauty, culture, and history of Hyden, Western Australia. Discover where to stay, what to eat, and the best things to do in this scenic town.</description>
 	<pubDate>2024-07-17T01:47:23+03:00</pubDate>
-</item><item>
-	<title>Central Travel Guide (Hong Kong/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/hong-kong/central/</link>
-	<description>A comprehensive guide to Central in Hong Kong including places to visit, hiking and biking routes, food and drink, accommodations, local culture, transport options, and nearby destinations.</description>
-	<pubDate>2024-07-17T01:10:20+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
