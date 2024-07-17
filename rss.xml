@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T00:43:00+03:00</pubDate>
-        <lastBuildDate>2024-07-18T00:43:00+03:00</lastBuildDate>
+        <pubDate>2024-07-18T01:32:10+03:00</pubDate>
+        <lastBuildDate>2024-07-18T01:32:10+03:00</lastBuildDate>
 
         <item>
+	<title>Del Mar Travel Guide (North County/San Diego County/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/north-county/del-mar/</link>
+	<description>Discover everything you need to know to plan an unforgettable trip to Del Mar. Learn about the best landmarks, attractions, outdoor activities, local food and drinks, accommodations, and more.</description>
+	<pubDate>2024-07-18T01:32:10+03:00</pubDate>
+</item><item>
 	<title>David Travel Guide (Pacific West/Panama/Central America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/david/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to buy and local customs in David, Panama's Pacific West in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/northern-circuit/rishiri-island/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Rishiri Island. Our tour guide provides you with all the information you need to plan your trip.</description>
 	<pubDate>2024-07-17T20:58:31+03:00</pubDate>
-</item><item>
-	<title>Mars Hill Travel Guide (North Carolina Mountains/North Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-mountains/mars-hill/</link>
-	<description>Discover the best places to visit, things to do, hiking/biking routes, local food and drink scene, where to stay, and more in Mars Hill, North Carolina.</description>
-	<pubDate>2024-07-17T20:26:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
