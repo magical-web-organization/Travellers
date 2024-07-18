@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T20:37:31+03:00</pubDate>
-        <lastBuildDate>2024-07-18T20:37:31+03:00</lastBuildDate>
+        <pubDate>2024-07-18T21:04:52+03:00</pubDate>
+        <lastBuildDate>2024-07-18T21:04:52+03:00</lastBuildDate>
 
         <item>
+	<title>Quincy Travel Guide (Greater Boston/Eastern Massachusetts/Massachusetts/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/quincy/</link>
+	<description>A complete travel guide for Quincy, including places to visit, food, accommodation, culture, and safety information.</description>
+	<pubDate>2024-07-18T21:04:52+03:00</pubDate>
+</item><item>
 	<title>Nyungwe National Park Travel Guide (Rwanda/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/rwanda/nyungwe-national-park/</link>
 	<description>Discover the beauty of Nyungwe National Park in Rwanda. Our comprehensive tour guide covers everything from top attractions, hiking trails, local culture, safety tips, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/federal-capital-territory/abuja/kurudu/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Kurudu, Nigeria, with this comprehensive travel guide.</description>
 	<pubDate>2024-07-18T16:52:03+03:00</pubDate>
-</item><item>
-	<title>Majalengka Travel Guide (East Parahyangan/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/east-parahyangan/majalengka/</link>
-	<description>A comprehensive travel guide for Majalengka, including the best places to visit, things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
-	<pubDate>2024-07-18T16:03:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
