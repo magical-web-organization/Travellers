@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T11:21:20+03:00</pubDate>
-        <lastBuildDate>2024-07-18T11:21:20+03:00</lastBuildDate>
+        <pubDate>2024-07-18T11:57:00+03:00</pubDate>
+        <lastBuildDate>2024-07-18T11:57:00+03:00</lastBuildDate>
 
         <item>
+	<title>Tianshan Tianchi National Park Travel Guide (Dzungarian/Xinjiang/Northwest China/China/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/xinjiang/dzungarian/tianshan-tianchi-national-park/</link>
+	<description>Discover the best places to visit, activities, hiking routes, food, accommodation, shopping, cultural insights, safety tips, transportation options and more in Tianshan Tianchi National Park in China with our comprehensive travel guide.</description>
+	<pubDate>2024-07-18T11:57:00+03:00</pubDate>
+</item><item>
 	<title>Vigevano Travel Guide (Southern Lombardy/Lombardy/Northwest Italy/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/southern-lombardy/vigevano/</link>
 	<description>Plan your perfect trip to Vigevano - explore cultural attractions, natural wonders, must-try food, and local customs. Learn about transportation options, safety and health, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-sao-paulo/ribeirao-preto/</link>
 	<description>Discover the best things to do, places to visit, food to eat, and more with our comprehensive travel guide to Ribeirão Preto, Brazil.</description>
 	<pubDate>2024-07-18T07:32:52+03:00</pubDate>
-</item><item>
-	<title>San Simeon Travel Guide (San Luis Obispo County/Central Coast/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/san-simeon/</link>
-	<description>Explore the natural and cultural beauty of San Simeon, California with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and how to get there.</description>
-	<pubDate>2024-07-18T06:38:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
