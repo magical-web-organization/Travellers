@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T14:22:17+03:00</pubDate>
-        <lastBuildDate>2024-07-18T14:22:17+03:00</lastBuildDate>
+        <pubDate>2024-07-18T14:41:29+03:00</pubDate>
+        <lastBuildDate>2024-07-18T14:41:29+03:00</lastBuildDate>
 
         <item>
+	<title>Kumasi Travel Guide (Ashanti-Kwahu/Ghana/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/ghana/ashanti-kwahu/kumasi/</link>
+	<description>Read this travel guide to explore the best places to visit, things to do, and local culture and customs of Kumasi, Ghana.</description>
+	<pubDate>2024-07-18T14:41:29+03:00</pubDate>
+</item><item>
 	<title>Matsumae Travel Guide (Southern Circuit/Hokkaido/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/hokkaido/southern-circuit/matsumae/</link>
 	<description>Discover the best places to visit in Matsumae, Hokkaido, Japan. Explore the cultural attractions, natural wonders, hiking/biking routes, food and drink scene, accommodations, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/toronto/islands/</link>
 	<description>Planning a trip to Islands in Toronto? Check out our comprehensive tour guide that covers the best places to visit, things to do, food & drink scene, where to stay, culture, and much more.</description>
 	<pubDate>2024-07-18T10:30:10+03:00</pubDate>
-</item><item>
-	<title>Shringeri Travel Guide (Chikmagalur (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/chikmagalur-district/shringeri/</link>
-	<description>Discover the best things to do, places to visit, where to stay, and what to eat in Shringeri, Karnataka. Find out about local culture, safety tips, and transportation options for your trip.</description>
-	<pubDate>2024-07-18T10:00:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
