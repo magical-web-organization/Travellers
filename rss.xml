@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T16:03:42+03:00</pubDate>
-        <lastBuildDate>2024-07-18T16:03:42+03:00</lastBuildDate>
+        <pubDate>2024-07-18T16:52:03+03:00</pubDate>
+        <lastBuildDate>2024-07-18T16:52:03+03:00</lastBuildDate>
 
         <item>
+	<title>Kurudu Travel Guide (Abuja/Federal Capital Territory/North Central Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/federal-capital-territory/abuja/kurudu/</link>
+	<description>Discover the best places to visit, things to do, and where to stay in Kurudu, Nigeria, with this comprehensive travel guide.</description>
+	<pubDate>2024-07-18T16:52:03+03:00</pubDate>
+</item><item>
 	<title>Majalengka Travel Guide (East Parahyangan/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/east-parahyangan/majalengka/</link>
 	<description>A comprehensive travel guide for Majalengka, including the best places to visit, things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/san-francisco/golden-gate-national-recreation-area/</link>
 	<description>Plan your visit to Golden Gate National Recreation Area with our comprehensive guide. Discover the must-visit places, things to do, where to stay, and more.</description>
 	<pubDate>2024-07-18T12:17:39+03:00</pubDate>
-</item><item>
-	<title>Tianshan Tianchi National Park Travel Guide (Dzungarian/Xinjiang/Northwest China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/xinjiang/dzungarian/tianshan-tianchi-national-park/</link>
-	<description>Discover the best places to visit, activities, hiking routes, food, accommodation, shopping, cultural insights, safety tips, transportation options and more in Tianshan Tianchi National Park in China with our comprehensive travel guide.</description>
-	<pubDate>2024-07-18T11:57:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
