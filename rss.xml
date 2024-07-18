@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T21:39:52+03:00</pubDate>
-        <lastBuildDate>2024-07-18T21:39:52+03:00</lastBuildDate>
+        <pubDate>2024-07-18T22:28:54+03:00</pubDate>
+        <lastBuildDate>2024-07-18T22:28:54+03:00</lastBuildDate>
 
         <item>
+	<title>Huntington Travel Guide (Metro Valley/West Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/west-virginia/metro-valley/huntington/</link>
+	<description>Explore the best places to visit, things to do, and food and drink scene in Huntington with our comprehensive travel guide featuring hiking and biking routes, cultural and natural attractions, and more.</description>
+	<pubDate>2024-07-18T22:28:54+03:00</pubDate>
+</item><item>
 	<title>Sisophon Travel Guide (North-western Cambodia/Cambodia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/cambodia/north-western-cambodia/sisophon/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Sisophon, Cambodia with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/pakistan/sindh/southern-sindh/mirpur-khas/</link>
 	<description>Explore the cultural and natural attractions, best things to do, must-try food and drink, where to stay, and more in Mirpur Khas with our comprehensive travel guide.</description>
 	<pubDate>2024-07-18T17:48:49+03:00</pubDate>
-</item><item>
-	<title>Davis Travel Guide (Potomac Highlands/West Virginia/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/west-virginia/potomac-highlands/davis/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Davis, West Virginia with our comprehensive travel guide.</description>
-	<pubDate>2024-07-18T17:09:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
