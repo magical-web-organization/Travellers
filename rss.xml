@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T00:45:57+03:00</pubDate>
-        <lastBuildDate>2024-07-19T00:45:57+03:00</lastBuildDate>
+        <pubDate>2024-07-19T01:08:12+03:00</pubDate>
+        <lastBuildDate>2024-07-19T01:08:12+03:00</lastBuildDate>
 
         <item>
+	<title>Gasan Travel Guide (Marinduque/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/marinduque/gasan/</link>
+	<description>Gasan is a small town with a big cultural and natural heritage. Plan your trip to explore the museums, scenic routes, local culture, food, and nearby destinations.</description>
+	<pubDate>2024-07-19T01:08:12+03:00</pubDate>
+</item><item>
 	<title>Bojnice Travel Guide (Nitra (region)/Western Slovakia/Slovakia/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/slovakia/western-slovakia/nitra-region/bojnice/</link>
 	<description>Discover the best places to visit, things to do, and where to eat and stay in Bojnice, Slovakia. Plan your trip with this comprehensive travel guide!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/rwanda/nyungwe-national-park/</link>
 	<description>Discover the beauty of Nyungwe National Park in Rwanda. Our comprehensive tour guide covers everything from top attractions, hiking trails, local culture, safety tips, transportation options, and more.</description>
 	<pubDate>2024-07-18T20:37:31+03:00</pubDate>
-</item><item>
-	<title>Jeonju Travel Guide (North Jeolla/South Korea/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-jeolla/jeonju/</link>
-	<description>Explore the cultural and natural attractions of Jeonju, including popular places to visit, hiking and biking routes, must-try local dishes, accommodation options, transportation, and safety tips.</description>
-	<pubDate>2024-07-18T20:11:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
