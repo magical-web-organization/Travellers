@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T13:05:55+03:00</pubDate>
-        <lastBuildDate>2024-07-18T13:05:55+03:00</lastBuildDate>
+        <pubDate>2024-07-18T13:40:37+03:00</pubDate>
+        <lastBuildDate>2024-07-18T13:40:37+03:00</lastBuildDate>
 
         <item>
+	<title>Bad Bevensen Travel Guide (Lüneburg Heath/Lower Saxony/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/lower-saxony/luneburg-heath/bad-bevensen/</link>
+	<description>Discover the best things to do, places to visit, hiking/biking routes, food scene, and cultural customs in Bad Bevensen, Germany. Plan your itinerary, find transportation options, and prepare for a safe trip with our guide.</description>
+	<pubDate>2024-07-18T13:40:37+03:00</pubDate>
+</item><item>
 	<title>Tiruppur Travel Guide (Western Tamil Nadu/Tamil Nadu/Southern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/tamil-nadu/western-tamil-nadu/tiruppur/</link>
 	<description>Discover the best places to visit, things to do, foods to try, and where to stay in Tiruppur, Tamil Nadu.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/southern-italy/campania/salerno-province/casal-velino/</link>
 	<description>Plan your trip to Casal Velino with our helpful and informative travel guide, including a list of places to visit, hiking/biking routes, food and drink scene, local culture, safety and health, and transportation options and logistics.</description>
 	<pubDate>2024-07-18T09:21:08+03:00</pubDate>
-</item><item>
-	<title>Kinlochbervie Travel Guide (Caithness and Sutherland/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/caithness-and-sutherland/kinlochbervie/</link>
-	<description>Kinlochbervie is a hidden gem in the Scottish Highlands of the United Kingdom. Plan your trip with our comprehensive travel guide and explore its culturally important landmarks, natural attractions, hiking/biking routes, food and drink scenes, accommodations, and nearby destinations.</description>
-	<pubDate>2024-07-18T08:43:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
