@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T11:57:00+03:00</pubDate>
-        <lastBuildDate>2024-07-18T11:57:00+03:00</lastBuildDate>
+        <pubDate>2024-07-18T12:17:39+03:00</pubDate>
+        <lastBuildDate>2024-07-18T12:17:39+03:00</lastBuildDate>
 
         <item>
+	<title>Golden Gate National Recreation Area Travel Guide (San Francisco/Bay Area/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/bay-area/san-francisco/golden-gate-national-recreation-area/</link>
+	<description>Plan your visit to Golden Gate National Recreation Area with our comprehensive guide. Discover the must-visit places, things to do, where to stay, and more.</description>
+	<pubDate>2024-07-18T12:17:39+03:00</pubDate>
+</item><item>
 	<title>Tianshan Tianchi National Park Travel Guide (Dzungarian/Xinjiang/Northwest China/China/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/china/northwest-china/xinjiang/dzungarian/tianshan-tianchi-national-park/</link>
 	<description>Discover the best places to visit, activities, hiking routes, food, accommodation, shopping, cultural insights, safety tips, transportation options and more in Tianshan Tianchi National Park in China with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/honduras/honduran-highlands/juticalpa/</link>
 	<description>Discover the best places to visit, food and drinks to try, local culture and customs, safety requirements, transportation options, and nearby destinations of Juticalpa in Honduras with this comprehensive tour guide.</description>
 	<pubDate>2024-07-18T08:03:17+03:00</pubDate>
-</item><item>
-	<title>Ribeirão Preto Travel Guide (North São Paulo/São Paulo (state)/Southeast/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-sao-paulo/ribeirao-preto/</link>
-	<description>Discover the best things to do, places to visit, food to eat, and more with our comprehensive travel guide to Ribeirão Preto, Brazil.</description>
-	<pubDate>2024-07-18T07:32:52+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
