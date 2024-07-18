@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T19:10:10+03:00</pubDate>
-        <lastBuildDate>2024-07-18T19:10:10+03:00</lastBuildDate>
+        <pubDate>2024-07-18T19:56:37+03:00</pubDate>
+        <lastBuildDate>2024-07-18T19:56:37+03:00</lastBuildDate>
 
         <item>
+	<title>Bad Schandau Travel Guide (Saxon Switzerland/Saxony/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony/saxon-switzerland/bad-schandau/</link>
+	<description>Explore the natural beauty and rich culture of Bad Schandau, Germany. Discover the best things to do, places to visit, food and drink scene, and more.</description>
+	<pubDate>2024-07-18T19:56:37+03:00</pubDate>
+</item><item>
 	<title>South Travel Guide (Bandung/Parahyangan/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/parahyangan/bandung/south/</link>
 	<description>Discover the rich culture, natural wonders, and amazing food scene of South Bandung in Western Java, Indonesia. Explore the best places to see, top things to do, where to stay, what to eat, and how to get around in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/franconia/middle-franconia/furth/</link>
 	<description>A comprehensive tour guide for Fürth, Germany including places to visit, hiking routes, food and drink scene, where to stay, local customs, safety and health, transportation options and nearby destinations.</description>
 	<pubDate>2024-07-18T15:07:10+03:00</pubDate>
-</item><item>
-	<title>Kumasi Travel Guide (Ashanti-Kwahu/Ghana/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/ghana/ashanti-kwahu/kumasi/</link>
-	<description>Read this travel guide to explore the best places to visit, things to do, and local culture and customs of Kumasi, Ghana.</description>
-	<pubDate>2024-07-18T14:41:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
