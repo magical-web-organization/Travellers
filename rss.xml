@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T10:30:10+03:00</pubDate>
-        <lastBuildDate>2024-07-18T10:30:10+03:00</lastBuildDate>
+        <pubDate>2024-07-18T10:49:31+03:00</pubDate>
+        <lastBuildDate>2024-07-18T10:49:31+03:00</lastBuildDate>
 
         <item>
+	<title>Peak District Travel Guide (East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/peak-district/</link>
+	<description>Discover Peak District, UK with this comprehensive travel guide. Learn about the best places to visit, hiking/biking routes, food and drink scene, where to stay, and more in this ultimate guide.</description>
+	<pubDate>2024-07-18T10:49:31+03:00</pubDate>
+</item><item>
 	<title>Islands Travel Guide (Toronto/Greater Toronto Area/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/greater-toronto-area/toronto/islands/</link>
 	<description>Planning a trip to Islands in Toronto? Check out our comprehensive tour guide that covers the best places to visit, things to do, food & drink scene, where to stay, culture, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/jiangsu/changshu/</link>
 	<description>Explore Changshu with this comprehensive travel guide that covers places to visit, hiking and biking routes, things to do, food and drink scene, where to stay, local culture, safety and health, transportation options, and nearby destinations.</description>
 	<pubDate>2024-07-18T06:29:51+03:00</pubDate>
-</item><item>
-	<title>Huntington Park Travel Guide (Gateway Cities (Los Angeles County)/Los Angeles/Southern California/California/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/los-angeles/gateway-cities-los-angeles-county/huntington-park/</link>
-	<description>Huntington Park, a gateway city in Los Angeles County, is a hidden gem in Southern California. Discover the best places to visit, food to try, and things to do in this comprehensive travel guide.</description>
-	<pubDate>2024-07-18T05:36:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
