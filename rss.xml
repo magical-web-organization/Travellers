@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T08:08:56+03:00</pubDate>
-        <lastBuildDate>2024-07-18T08:08:56+03:00</lastBuildDate>
+        <pubDate>2024-07-18T08:43:40+03:00</pubDate>
+        <lastBuildDate>2024-07-18T08:43:40+03:00</lastBuildDate>
 
         <item>
+	<title>Kinlochbervie Travel Guide (Caithness and Sutherland/Scottish Highlands/Scotland/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/scottish-highlands/caithness-and-sutherland/kinlochbervie/</link>
+	<description>Kinlochbervie is a hidden gem in the Scottish Highlands of the United Kingdom. Plan your trip with our comprehensive travel guide and explore its culturally important landmarks, natural attractions, hiking/biking routes, food and drink scenes, accommodations, and nearby destinations.</description>
+	<pubDate>2024-07-18T08:43:40+03:00</pubDate>
+</item><item>
 	<title>Batavia Travel Guide (Clermont County/Greater Cincinnati/Ohio/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/greater-cincinnati/clermont-county/batavia/</link>
 	<description>Discover the top things to do, places to visit, where to stay, where to eat, and more in Batavia, Ohio.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/manitoba/interlake/winnipeg-beach/</link>
 	<description>Plan your next trip to Winnipeg Beach with our comprehensive tour guide. Explore the natural attractions, cultural landmarks, and find the best places to stay and eat.</description>
 	<pubDate>2024-07-18T04:16:08+03:00</pubDate>
-</item><item>
-	<title>Central and Harbour Suburbs Travel Guide (Mumbai/North Konkan/Maharashtra/Western India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/western-india/maharashtra/north-konkan/mumbai/central-and-harbour-suburbs/</link>
-	<description>A comprehensive tour guide for Central and Harbour Suburbs, including information on places to visit, hiking/biking routes, food and drink scene, where to stay, local culture, safety, transportation options, nearby destinations, and more.</description>
-	<pubDate>2024-07-18T03:58:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
