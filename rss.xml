@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T07:32:52+03:00</pubDate>
-        <lastBuildDate>2024-07-18T07:32:52+03:00</lastBuildDate>
+        <pubDate>2024-07-18T08:03:17+03:00</pubDate>
+        <lastBuildDate>2024-07-18T08:03:17+03:00</lastBuildDate>
 
         <item>
+	<title>Juticalpa Travel Guide (Honduran Highlands/Honduras/Central America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/central-america/honduras/honduran-highlands/juticalpa/</link>
+	<description>Discover the best places to visit, food and drinks to try, local culture and customs, safety requirements, transportation options, and nearby destinations of Juticalpa in Honduras with this comprehensive tour guide.</description>
+	<pubDate>2024-07-18T08:03:17+03:00</pubDate>
+</item><item>
 	<title>Ribeirão Preto Travel Guide (North São Paulo/São Paulo (state)/Southeast/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/southeast/sao-paulo-state/north-sao-paulo/ribeirao-preto/</link>
 	<description>Discover the best things to do, places to visit, food to eat, and more with our comprehensive travel guide to Ribeirão Preto, Brazil.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/eastern-massachusetts/greater-boston/boston/charlestown/</link>
 	<description>Discover the best things to do and see in Charlestown, Massachusetts. Learn about the local attractions, food scene, accommodations, and more with this comprehensive travel guide.</description>
 	<pubDate>2024-07-18T03:16:49+03:00</pubDate>
-</item><item>
-	<title>La Candelaria Travel Guide (Bogotá/Andino/Colombia/South America)</title>
-	<link>https://travellers.wiki/en/south-america/colombia/andino/bogota/la-candelaria/</link>
-	<description>Read our comprehensive travel guide to La Candelaria in Bogotá, Colombia. Discover the best places to visit, things to do, food and drink scene, where to stay, and much more!</description>
-	<pubDate>2024-07-18T02:42:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
