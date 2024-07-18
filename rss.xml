@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T04:51:11+03:00</pubDate>
-        <lastBuildDate>2024-07-18T04:51:11+03:00</lastBuildDate>
+        <pubDate>2024-07-18T05:07:19+03:00</pubDate>
+        <lastBuildDate>2024-07-18T05:07:19+03:00</lastBuildDate>
 
         <item>
+	<title>Ephrata Travel Guide (Lancaster County/Pennsylvania Dutch Country/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/lancaster-county/ephrata/</link>
+	<description>Discover the best things to do, places to visit, and local culture in Ephrata, Pennsylvania. Plan your trip with our comprehensive tour guide, including food and drink, where to stay, and transportation options.</description>
+	<pubDate>2024-07-18T05:07:19+03:00</pubDate>
+</item><item>
 	<title>Olbia Travel Guide (Sassari (province)/Sardinia/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/sardinia/sassari-province/olbia/</link>
 	<description>Planning a trip to Olbia, Sardinia? Our comprehensive travel guide will help you navigate the culture, food, attractions, and logistics of this Italian gem.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/central-america/panama/pacific-west/david/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to buy and local customs in David, Panama's Pacific West in this comprehensive travel guide.</description>
 	<pubDate>2024-07-18T00:43:00+03:00</pubDate>
-</item><item>
-	<title>Ma'alaea Travel Guide (Maui/Hawaii/Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/maui/ma-alaea/</link>
-	<description>Discover the beauty and culture of Ma'alaea, Maui in Hawaii. Read our guide to find the best attractions, food, accommodations, and more.</description>
-	<pubDate>2024-07-18T00:32:00+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
