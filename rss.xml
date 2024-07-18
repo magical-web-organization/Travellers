@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-18T10:49:31+03:00</pubDate>
-        <lastBuildDate>2024-07-18T10:49:31+03:00</lastBuildDate>
+        <pubDate>2024-07-18T11:21:20+03:00</pubDate>
+        <lastBuildDate>2024-07-18T11:21:20+03:00</lastBuildDate>
 
         <item>
+	<title>Vigevano Travel Guide (Southern Lombardy/Lombardy/Northwest Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/northwest-italy/lombardy/southern-lombardy/vigevano/</link>
+	<description>Plan your perfect trip to Vigevano - explore cultural attractions, natural wonders, must-try food, and local customs. Learn about transportation options, safety and health, and nearby destinations.</description>
+	<pubDate>2024-07-18T11:21:20+03:00</pubDate>
+</item><item>
 	<title>Peak District Travel Guide (East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/peak-district/</link>
 	<description>Discover Peak District, UK with this comprehensive travel guide. Learn about the best places to visit, hiking/biking routes, food and drink scene, where to stay, and more in this ultimate guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/san-simeon/</link>
 	<description>Explore the natural and cultural beauty of San Simeon, California with our comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and how to get there.</description>
 	<pubDate>2024-07-18T06:38:30+03:00</pubDate>
-</item><item>
-	<title>Changshu Travel Guide (Jiangsu/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/jiangsu/changshu/</link>
-	<description>Explore Changshu with this comprehensive travel guide that covers places to visit, hiking and biking routes, things to do, food and drink scene, where to stay, local culture, safety and health, transportation options, and nearby destinations.</description>
-	<pubDate>2024-07-18T06:29:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
