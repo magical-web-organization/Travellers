@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T06:52:23+03:00</pubDate>
-        <lastBuildDate>2024-07-19T06:52:23+03:00</lastBuildDate>
+        <pubDate>2024-07-19T07:12:00+03:00</pubDate>
+        <lastBuildDate>2024-07-19T07:12:00+03:00</lastBuildDate>
 
         <item>
+	<title>Lau Islands Travel Guide (Fiji/Melanesia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/melanesia/fiji/lau-islands/</link>
+	<description>Discover the hidden gems of Lau Islands in Fiji. From culturally important attractions to natural wonders, check out our guide to plan your trip to Lau Islands.</description>
+	<pubDate>2024-07-19T07:12:00+03:00</pubDate>
+</item><item>
 	<title>Otepää Travel Guide (South Estonia/Estonia/Baltic states/Europe)</title>
 	<link>https://travellers.wiki/en/europe/baltic-states/estonia/south-estonia/otepaa/</link>
 	<description>Discover the best places to visit, hiking and biking routes, activities, accommodation, local cuisine, and more in Otepää, Estonia with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/syria/rojava/jazira-canton/al-qamishli/</link>
 	<description>Discover the rich culture, natural attractions, and best things to do in Al-Qamishli with our comprehensive travel guide.</description>
 	<pubDate>2024-07-19T02:56:04+03:00</pubDate>
-</item><item>
-	<title>Kecskemét Travel Guide (Bács-Kiskun County/Southern Great Plain/Hungary/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/hungary/southern-great-plain/bacs-kiskun-county/kecskemet/</link>
-	<description>Discover the culturally rich and naturally beautiful Kecskemét with this comprehensive travel guide. Explore the best places to see, things to do, and where to stay and eat.</description>
-	<pubDate>2024-07-19T02:29:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
