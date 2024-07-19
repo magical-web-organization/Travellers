@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T12:24:05+03:00</pubDate>
-        <lastBuildDate>2024-07-19T12:24:05+03:00</lastBuildDate>
+        <pubDate>2024-07-19T12:55:31+03:00</pubDate>
+        <lastBuildDate>2024-07-19T12:55:31+03:00</lastBuildDate>
 
         <item>
+	<title>Paignton Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/paignton/</link>
+	<description>A comprehensive guide to Paignton in Devon, UK, including top places to visit, hiking/biking routes, food scene, where to stay, local culture, safety tips, and transportation options.</description>
+	<pubDate>2024-07-19T12:55:31+03:00</pubDate>
+</item><item>
 	<title>Reims Travel Guide (Grand Est/France/Europe)</title>
 	<link>https://travellers.wiki/en/europe/france/grand-est/reims/</link>
 	<description>Discover the best things to do, see, eat and drink in Reims. Plan your perfect trip with our week-long itinerary and insider tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/fukuoka-prefecture/kitakyushu/</link>
 	<description>Plan your trip to Kitakyushu with our comprehensive travel guide featuring top places to visit, hiking/biking routes, things to do and eat, where to stay, and more.</description>
 	<pubDate>2024-07-19T08:18:22+03:00</pubDate>
-</item><item>
-	<title>Msambweni Travel Guide (Coastal Kenya/Kenya/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/msambweni/</link>
-	<description>Read our comprehensive Msambweni travel guide to discover the best places to visit, things to do, local foods, and cultural experiences for an unforgettable journey.</description>
-	<pubDate>2024-07-19T08:02:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
