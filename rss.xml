@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T20:50:22+03:00</pubDate>
-        <lastBuildDate>2024-07-19T20:50:22+03:00</lastBuildDate>
+        <pubDate>2024-07-19T21:11:57+03:00</pubDate>
+        <lastBuildDate>2024-07-19T21:11:57+03:00</lastBuildDate>
 
         <item>
+	<title>Burke Travel Guide (Fairfax County/Northern Virginia/Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/northern-virginia/fairfax-county/burke/</link>
+	<description>Discover the best places to visit, things to do, food to try, and local culture to experience in Burke, Virginia. This tour guide covers everything you need to know to plan your trip.</description>
+	<pubDate>2024-07-19T21:11:57+03:00</pubDate>
+</item><item>
 	<title>Buraimi Travel Guide (Northern Oman/Oman/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/oman/northern-oman/buraimi/</link>
 	<description>This comprehensive travel guide for Buraimi, Oman, includes information on places to visit, hiking and biking routes, things to do, where to stay, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/caribbean/bermuda/southampton-parish/</link>
 	<description>Explore the natural and cultural attractions of Southampton Parish, Bermuda with our comprehensive tour guide. Find out the best things to do, see, and eat in Southampton Parish.</description>
 	<pubDate>2024-07-19T16:42:13+03:00</pubDate>
-</item><item>
-	<title>Kahta Travel Guide (Southeastern Anatolia/Turkey/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/turkey/southeastern-anatolia/kahta/</link>
-	<description>Discover the best of Kahta in Southeastern Anatolia with our comprehensive travel guide. From historic landmarks to outdoor adventures, we've covered it all for you.</description>
-	<pubDate>2024-07-19T16:22:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
