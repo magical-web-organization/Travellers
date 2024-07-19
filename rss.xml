@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T18:55:21+03:00</pubDate>
-        <lastBuildDate>2024-07-19T18:55:21+03:00</lastBuildDate>
+        <pubDate>2024-07-19T19:23:54+03:00</pubDate>
+        <lastBuildDate>2024-07-19T19:23:54+03:00</lastBuildDate>
 
         <item>
+	<title>Ballantyne Travel Guide (Charlotte/Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/charlotte/ballantyne/</link>
+	<description>Plan your trip to Ballantyne, a charming neighborhood in Charlotte Metro, with this comprehensive travel guide. Discover the best attractions, hiking/biking routes, food scene, accommodations, and travel logistics, among others.</description>
+	<pubDate>2024-07-19T19:23:54+03:00</pubDate>
+</item><item>
 	<title>Los Gigantes Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/los-gigantes/</link>
 	<description>Everything you need to know before planning a visit to Los Gigantes: where to stay, what to do, places to visit, and much more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/north-shore/northfield/</link>
 	<description>Learn about the top attractions, things to do, where to eat and stay, and transportation options in Northfield, Illinois.</description>
 	<pubDate>2024-07-19T14:47:04+03:00</pubDate>
-</item><item>
-	<title>Demir Kapija Travel Guide (Povardarie/North Macedonia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/povardarie/demir-kapija/</link>
-	<description>Plan your perfect vacation to Demir Kapija with this comprehensive travel guide, including information on where to stay, what to do and see, and local customs and culture.</description>
-	<pubDate>2024-07-19T14:24:49+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
