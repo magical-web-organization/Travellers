@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T10:11:36+03:00</pubDate>
-        <lastBuildDate>2024-07-19T10:11:36+03:00</lastBuildDate>
+        <pubDate>2024-07-19T10:48:03+03:00</pubDate>
+        <lastBuildDate>2024-07-19T10:48:03+03:00</lastBuildDate>
 
         <item>
+	<title>Bay Harbor Travel Guide (Mackinac Area/Northern Michigan/Michigan/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/northern-michigan/mackinac-area/bay-harbor/</link>
+	<description>Explore the beauty and culture of Bay Harbor, Michigan with our comprehensive travel guide. Discover its natural attractions, outdoor adventures, food and drink scene, and much more.</description>
+	<pubDate>2024-07-19T10:48:03+03:00</pubDate>
+</item><item>
 	<title>Ede Travel Guide (Veluwe/Gelderland/Eastern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/gelderland/veluwe/ede/</link>
 	<description>Discover the cultural, historical, and natural attractions of Ede, Netherlands, and learn about the best places to stay, eat, and explore.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/les-chenaux/saint-prosper-de-champlain/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and more in Saint-Prosper-de-Champlain, Quebec through this comprehensive travel guide.</description>
 	<pubDate>2024-07-19T06:12:07+03:00</pubDate>
-</item><item>
-	<title>Silistra Travel Guide (Southern Dobruja/Bulgaria/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/bulgaria/southern-dobruja/silistra/</link>
-	<description>Discover the hidden gems of Silistra with our travel guide. Find everything you need to know, including places to visit, food, transportation, and more.</description>
-	<pubDate>2024-07-19T05:52:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
