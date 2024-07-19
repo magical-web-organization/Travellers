@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T03:45:59+03:00</pubDate>
-        <lastBuildDate>2024-07-19T03:45:59+03:00</lastBuildDate>
+        <pubDate>2024-07-19T04:22:33+03:00</pubDate>
+        <lastBuildDate>2024-07-19T04:22:33+03:00</lastBuildDate>
 
         <item>
+	<title>Sulphur Travel Guide (Southwest Louisiana/Acadiana/Louisiana/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/louisiana/acadiana/southwest-louisiana/sulphur/</link>
+	<description>Explore the culturally rich and naturally beautiful city of Sulphur in Louisiana. Find the best things to do, places to stay and eat, and useful tips to make the most of your trip.</description>
+	<pubDate>2024-07-19T04:22:33+03:00</pubDate>
+</item><item>
 	<title>Danville Travel Guide (Alleghenies and Susquehanna Valley/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/alleghenies-and-susquehanna-valley/danville/</link>
 	<description>Plan your trip to Danville with this comprehensive travel guide, including top attractions, hiking and biking routes, food and drink recommendations, safety tips, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/bihar/mithila/bhagalpur/</link>
 	<description>Discover the best places to visit, food to try, where to stay, and how to get around in Bhagalpur, India. Explore its rich culture, history, and natural attractions with this comprehensive travel guide.</description>
 	<pubDate>2024-07-18T23:46:53+03:00</pubDate>
-</item><item>
-	<title>Olean Travel Guide (Cattaraugus County/Southern Tier/New York (state)/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/southern-tier/cattaraugus-county/olean/</link>
-	<description>Plan your trip to Olean, NY with our comprehensive tour guide featuring information on places to visit, things to do, where to stay, and more.</description>
-	<pubDate>2024-07-18T23:20:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
