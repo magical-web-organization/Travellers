@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T17:32:26+03:00</pubDate>
-        <lastBuildDate>2024-07-19T17:32:26+03:00</lastBuildDate>
+        <pubDate>2024-07-19T17:40:05+03:00</pubDate>
+        <lastBuildDate>2024-07-19T17:40:05+03:00</lastBuildDate>
 
         <item>
+	<title>Çeşme Travel Guide (Central Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/central-aegean/cesme/</link>
+	<description>Plan your trip to Çeşme with this comprehensive travel guide featuring top attractions, hiking/biking routes, best things to do, where to stay, local culture, and more.</description>
+	<pubDate>2024-07-19T17:40:05+03:00</pubDate>
+</item><item>
 	<title>Rupnagar Travel Guide (Malwa/Punjab/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/punjab/malwa/rupnagar/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Rupnagar , Punjab, India. Learn about local culture, food, and safety tips. Find out how to get there and where to go next.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/turtle-mountains/antler/</link>
 	<description>Read this detailed travel guide to Antler, North Dakota, which highlights all of the top attractions, activities, and must-see destinations in the area.</description>
 	<pubDate>2024-07-19T13:28:09+03:00</pubDate>
-</item><item>
-	<title>Paignton Travel Guide (Devon/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/devon/paignton/</link>
-	<description>A comprehensive guide to Paignton in Devon, UK, including top places to visit, hiking/biking routes, food scene, where to stay, local culture, safety tips, and transportation options.</description>
-	<pubDate>2024-07-19T12:55:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
