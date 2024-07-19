@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T23:24:43+03:00</pubDate>
-        <lastBuildDate>2024-07-19T23:24:43+03:00</lastBuildDate>
+        <pubDate>2024-07-19T23:49:09+03:00</pubDate>
+        <lastBuildDate>2024-07-19T23:49:09+03:00</lastBuildDate>
 
         <item>
+	<title>Quatro Barras Travel Guide (Grande Curitiba/Paraná/South/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/south/parana/grande-curitiba/quatro-barras/</link>
+	<description>Planning a trip to Quatro Barras, Brazil? This comprehensive travel guide will help you explore the hidden gems of the city and make the most out of your experience.</description>
+	<pubDate>2024-07-19T23:49:09+03:00</pubDate>
+</item><item>
 	<title>Glenmont Travel Guide (Montgomery County/Capital Region/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/capital-region/montgomery-county/glenmont/</link>
 	<description>Discover the top things to do, places to visit, and essential travel tips for Glenmont, Maryland. Plan your trip with our week-long itinerary, transportation options, and recommended accommodations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/charlotte/ballantyne/</link>
 	<description>Plan your trip to Ballantyne, a charming neighborhood in Charlotte Metro, with this comprehensive travel guide. Discover the best attractions, hiking/biking routes, food scene, accommodations, and travel logistics, among others.</description>
 	<pubDate>2024-07-19T19:23:54+03:00</pubDate>
-</item><item>
-	<title>Los Gigantes Travel Guide (Tenerife/Canary Islands/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/canary-islands/tenerife/los-gigantes/</link>
-	<description>Everything you need to know before planning a visit to Los Gigantes: where to stay, what to do, places to visit, and much more!</description>
-	<pubDate>2024-07-19T18:55:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
