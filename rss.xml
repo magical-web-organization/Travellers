@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T06:12:07+03:00</pubDate>
-        <lastBuildDate>2024-07-19T06:12:07+03:00</lastBuildDate>
+        <pubDate>2024-07-19T06:52:23+03:00</pubDate>
+        <lastBuildDate>2024-07-19T06:52:23+03:00</lastBuildDate>
 
         <item>
+	<title>Otepää Travel Guide (South Estonia/Estonia/Baltic states/Europe)</title>
+	<link>https://travellers.wiki/en/europe/baltic-states/estonia/south-estonia/otepaa/</link>
+	<description>Discover the best places to visit, hiking and biking routes, activities, accommodation, local cuisine, and more in Otepää, Estonia with our comprehensive travel guide.</description>
+	<pubDate>2024-07-19T06:52:23+03:00</pubDate>
+</item><item>
 	<title>Saint-Prosper-de-Champlain Travel Guide (Les Chenaux/Mauricie/Central Quebec/Quebec/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/quebec/central-quebec/mauricie/les-chenaux/saint-prosper-de-champlain/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and more in Saint-Prosper-de-Champlain, Quebec through this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/southern-great-plain/bacs-kiskun-county/kecskemet/</link>
 	<description>Discover the culturally rich and naturally beautiful Kecskemét with this comprehensive travel guide. Explore the best places to see, things to do, and where to stay and eat.</description>
 	<pubDate>2024-07-19T02:29:17+03:00</pubDate>
-</item><item>
-	<title>Cologne Travel Guide (Cologne Lowland/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/cologne-lowland/cologne/</link>
-	<description>Plan your trip to Cologne with this comprehensive tour guide. Explore the top attractions, outdoor adventures, and culinary delights of the city. Learn about local customs and logistics for getting around.</description>
-	<pubDate>2024-07-19T01:42:16+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
