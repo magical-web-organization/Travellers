@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T07:12:00+03:00</pubDate>
-        <lastBuildDate>2024-07-19T07:12:00+03:00</lastBuildDate>
+        <pubDate>2024-07-19T08:02:06+03:00</pubDate>
+        <lastBuildDate>2024-07-19T08:02:06+03:00</lastBuildDate>
 
         <item>
+	<title>Msambweni Travel Guide (Coastal Kenya/Kenya/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/msambweni/</link>
+	<description>Read our comprehensive Msambweni travel guide to discover the best places to visit, things to do, local foods, and cultural experiences for an unforgettable journey.</description>
+	<pubDate>2024-07-19T08:02:06+03:00</pubDate>
+</item><item>
 	<title>Lau Islands Travel Guide (Fiji/Melanesia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/melanesia/fiji/lau-islands/</link>
 	<description>Discover the hidden gems of Lau Islands in Fiji. From culturally important attractions to natural wonders, check out our guide to plan your trip to Lau Islands.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/east-africa/uganda/central-uganda/ssese-islands/</link>
 	<description>Discover the hidden gem of East Africa with this comprehensive travel guide to Ssese Islands. From cultural attractions to natural wonders, food and drink scene to getting around, this guide covers it all!</description>
 	<pubDate>2024-07-19T03:24:54+03:00</pubDate>
-</item><item>
-	<title>Al-Qamishli Travel Guide (Jazira Canton/Rojava/Syria/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/syria/rojava/jazira-canton/al-qamishli/</link>
-	<description>Discover the rich culture, natural attractions, and best things to do in Al-Qamishli with our comprehensive travel guide.</description>
-	<pubDate>2024-07-19T02:56:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
