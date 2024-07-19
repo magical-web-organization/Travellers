@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T08:02:06+03:00</pubDate>
-        <lastBuildDate>2024-07-19T08:02:06+03:00</lastBuildDate>
+        <pubDate>2024-07-19T08:18:22+03:00</pubDate>
+        <lastBuildDate>2024-07-19T08:18:22+03:00</lastBuildDate>
 
         <item>
+	<title>Kitakyushu Travel Guide (Fukuoka (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/fukuoka-prefecture/kitakyushu/</link>
+	<description>Plan your trip to Kitakyushu with our comprehensive travel guide featuring top places to visit, hiking/biking routes, things to do and eat, where to stay, and more.</description>
+	<pubDate>2024-07-19T08:18:22+03:00</pubDate>
+</item><item>
 	<title>Msambweni Travel Guide (Coastal Kenya/Kenya/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/msambweni/</link>
 	<description>Read our comprehensive Msambweni travel guide to discover the best places to visit, things to do, local foods, and cultural experiences for an unforgettable journey.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/alleghenies-and-susquehanna-valley/danville/</link>
 	<description>Plan your trip to Danville with this comprehensive travel guide, including top attractions, hiking and biking routes, food and drink recommendations, safety tips, and more.</description>
 	<pubDate>2024-07-19T03:45:59+03:00</pubDate>
-</item><item>
-	<title>Ssese Islands Travel Guide (Central Uganda/Uganda/East Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/east-africa/uganda/central-uganda/ssese-islands/</link>
-	<description>Discover the hidden gem of East Africa with this comprehensive travel guide to Ssese Islands. From cultural attractions to natural wonders, food and drink scene to getting around, this guide covers it all!</description>
-	<pubDate>2024-07-19T03:24:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
