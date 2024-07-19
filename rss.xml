@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T17:40:05+03:00</pubDate>
-        <lastBuildDate>2024-07-19T17:40:05+03:00</lastBuildDate>
+        <pubDate>2024-07-19T18:18:03+03:00</pubDate>
+        <lastBuildDate>2024-07-19T18:18:03+03:00</lastBuildDate>
 
         <item>
+	<title>West Travel Guide (Jerusalem/Jerusalem Hills/Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/jerusalem-hills/jerusalem/west/</link>
+	<description>Discover the best places to visit, things to do, hiking/biking routes, best accommodations, and transportation options in West, Jerusalem Hills, Israel.</description>
+	<pubDate>2024-07-19T18:18:03+03:00</pubDate>
+</item><item>
 	<title>Çeşme Travel Guide (Central Aegean/Aegean Turkey/Turkey/Middle East/Asia)</title>
 	<link>https://travellers.wiki/en/asia/middle-east/turkey/aegean-turkey/central-aegean/cesme/</link>
 	<description>Plan your trip to Çeşme with this comprehensive travel guide featuring top attractions, hiking/biking routes, best things to do, where to stay, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/benin/southern-benin/ketou/</link>
 	<description>Discover the culturally rich town of Kétou in Benin, Africa. Explore museums, historical places, natural attractions, hiking routes, food and drinks, accommodations, and more.</description>
 	<pubDate>2024-07-19T13:35:56+03:00</pubDate>
-</item><item>
-	<title>Antler Travel Guide (Turtle Mountains/North Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/turtle-mountains/antler/</link>
-	<description>Read this detailed travel guide to Antler, North Dakota, which highlights all of the top attractions, activities, and must-see destinations in the area.</description>
-	<pubDate>2024-07-19T13:28:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
