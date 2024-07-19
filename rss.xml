@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-19T14:24:49+03:00</pubDate>
-        <lastBuildDate>2024-07-19T14:24:49+03:00</lastBuildDate>
+        <pubDate>2024-07-19T14:47:04+03:00</pubDate>
+        <lastBuildDate>2024-07-19T14:47:04+03:00</lastBuildDate>
 
         <item>
+	<title>Northfield Travel Guide (North Shore/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/north-shore/northfield/</link>
+	<description>Learn about the top attractions, things to do, where to eat and stay, and transportation options in Northfield, Illinois.</description>
+	<pubDate>2024-07-19T14:47:04+03:00</pubDate>
+</item><item>
 	<title>Demir Kapija Travel Guide (Povardarie/North Macedonia/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/povardarie/demir-kapija/</link>
 	<description>Plan your perfect vacation to Demir Kapija with this comprehensive travel guide, including information on where to stay, what to do and see, and local customs and culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/eastern-netherlands/gelderland/veluwe/ede/</link>
 	<description>Discover the cultural, historical, and natural attractions of Ede, Netherlands, and learn about the best places to stay, eat, and explore.</description>
 	<pubDate>2024-07-19T10:11:36+03:00</pubDate>
-</item><item>
-	<title>Brynmawr Travel Guide (Monmouthshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/monmouthshire/brynmawr/</link>
-	<description>Discover the best places to visit and things to do in Brynmawr, Wales, along with helpful tips and recommendations for a safe and enjoyable trip.</description>
-	<pubDate>2024-07-19T09:38:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
