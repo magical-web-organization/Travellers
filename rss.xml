@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-20T12:23:12+03:00</pubDate>
-        <lastBuildDate>2024-07-20T12:23:12+03:00</lastBuildDate>
+        <pubDate>2024-07-20T12:41:28+03:00</pubDate>
+        <lastBuildDate>2024-07-20T12:41:28+03:00</lastBuildDate>
 
         <item>
+	<title>Zion National Park Travel Guide (Utah/Southwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/utah/zion-national-park/</link>
+	<description>Discover the best places to visit, things to do, and tips for a memorable trip at Zion National Park. This tour guide covers everything you need to know about the park from hiking routes, cultural attractions, accommodations, to local culture and customs.</description>
+	<pubDate>2024-07-20T12:41:28+03:00</pubDate>
+</item><item>
 	<title>Wray Travel Guide (Eastern Plains/Colorado/Rocky Mountains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/eastern-plains/wray/</link>
 	<description>Discover one of the charming, rustic towns of Colorado - Wray! Learn about its natural wonders, outdoor adventures, cultural and historical landmarks, food and drink scene, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/gombe-state/nafada/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Nafada, Gombe State, Nigeria. Read this comprehensive travel guide before you embark on your journey.</description>
 	<pubDate>2024-07-20T08:09:18+03:00</pubDate>
-</item><item>
-	<title>Novo Sancti Petri Travel Guide (Cadiz (province)/Andalusia/Spain/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/cadiz-province/novo-sancti-petri/</link>
-	<description>Discover the best things to do in Novo Sancti Petri, Andalusia, Spain, from natural attractions to cultural landmarks. Plan a perfect trip with our travel guide.</description>
-	<pubDate>2024-07-20T07:50:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
