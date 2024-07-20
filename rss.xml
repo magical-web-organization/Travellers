@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-20T14:08:46+03:00</pubDate>
-        <lastBuildDate>2024-07-20T14:08:46+03:00</lastBuildDate>
+        <pubDate>2024-07-20T14:43:58+03:00</pubDate>
+        <lastBuildDate>2024-07-20T14:43:58+03:00</lastBuildDate>
 
         <item>
+	<title>Thomastown Travel Guide (County Kilkenny/Southeast Ireland/Ireland/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/southeast-ireland/county-kilkenny/thomastown/</link>
+	<description>Discover the cultural and natural attractions, hiking and biking routes, food and drink scene, local culture and customs, as well as transportation options and logistics in the charming town of Thomastown, County Kilkenny, Ireland.</description>
+	<pubDate>2024-07-20T14:43:58+03:00</pubDate>
+</item><item>
 	<title>Manovo-Gounda St Floris National Park Travel Guide (Central African Republic/Central Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/central-africa/central-african-republic/manovo-gounda-st-floris-national-park/</link>
 	<description>A comprehensive travel guide to Manovo-Gounda St Floris National Park, including information on places to visit, hiking/biking routes, activities and tours, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/east-central-saskatchewan/watrous-manitou-beach/</link>
 	<description>Explore the natural, cultural and adventure attractions of Watrous-Manitou Beach in this comprehensive guide.</description>
 	<pubDate>2024-07-20T10:28:52+03:00</pubDate>
-</item><item>
-	<title>Vila do Conde Travel Guide (Douro Litoral/Northern Portugal/Portugal/Iberia/Europe)</title>
-	<link>https://travellers.wiki/en/europe/iberia/portugal/northern-portugal/douro-litoral/vila-do-conde/</link>
-	<description>Discover the best cultural attractions, outdoor adventures, local cuisine, and transportation options in Vila do Conde, on Portugal's Douro Litoral region.</description>
-	<pubDate>2024-07-20T09:44:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
