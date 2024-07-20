@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-20T07:08:13+03:00</pubDate>
-        <lastBuildDate>2024-07-20T07:08:13+03:00</lastBuildDate>
+        <pubDate>2024-07-20T07:50:18+03:00</pubDate>
+        <lastBuildDate>2024-07-20T07:50:18+03:00</lastBuildDate>
 
         <item>
+	<title>Novo Sancti Petri Travel Guide (Cadiz (province)/Andalusia/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/andalusia/cadiz-province/novo-sancti-petri/</link>
+	<description>Discover the best things to do in Novo Sancti Petri, Andalusia, Spain, from natural attractions to cultural landmarks. Plan a perfect trip with our travel guide.</description>
+	<pubDate>2024-07-20T07:50:18+03:00</pubDate>
+</item><item>
 	<title>La Paz Travel Guide (La Paz (department, Bolivia)/Altiplano/Bolivia/South America)</title>
 	<link>https://travellers.wiki/en/south-america/bolivia/altiplano/la-paz-department-bolivia/la-paz/</link>
 	<description>Planning a trip to La Paz? Read this comprehensive travel guide to discover the best things to do, places to visit, food to try, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/north-macedonia/eastern-north-macedonia/bogdanci/</link>
 	<description>Discover the best things to do in Bogdanci, Eastern North Macedonia, from its natural attractions to its cultural landmarks. Plan your trip with this comprehensive travel guide.</description>
 	<pubDate>2024-07-20T03:31:21+03:00</pubDate>
-</item><item>
-	<title>Beach Travel Guide (Badlands/North Dakota/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/north-dakota/badlands/beach/</link>
-	<description>Find out all the places to visit, things to do, where to stay, what to eat, and much more in Beach, North Dakota, USA with this comprehensive tour guide.</description>
-	<pubDate>2024-07-20T02:51:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
