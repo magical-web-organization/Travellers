@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-20T15:57:16+03:00</pubDate>
-        <lastBuildDate>2024-07-20T15:57:16+03:00</lastBuildDate>
+        <pubDate>2024-07-20T16:11:44+03:00</pubDate>
+        <lastBuildDate>2024-07-20T16:11:44+03:00</lastBuildDate>
 
         <item>
+	<title>Mount Hiei Travel Guide (Shiga/Kansai/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/shiga/mount-hiei/</link>
+	<description>Plan your trip to Mount Hiei, Japan with our comprehensive guide featuring top attractions, hiking/biking routes, best things to do, where to stay, local culture, safety tips, and more.</description>
+	<pubDate>2024-07-20T16:11:44+03:00</pubDate>
+</item><item>
 	<title>Henderson Travel Guide (Western Coal Fields/Kentucky/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-coal-fields/henderson/</link>
 	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, best things to do, food scene, where to stay, local culture, and transportation options of Henderson, Kentucky, in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/peloponnese/argolis/ermioni/</link>
 	<description>Plan your trip to Ermioni with our comprehensive travel guide that includes top attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, and more.</description>
 	<pubDate>2024-07-20T11:55:16+03:00</pubDate>
-</item><item>
-	<title>Subotica Travel Guide (Vojvodina/Serbia/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/serbia/vojvodina/subotica/</link>
-	<description>Explore the best attractions, food, culture, and logistics of Subotica with this helpful travel guide. Plan your trip with ease and make the most of your stay in this charming Vojvodina town.</description>
-	<pubDate>2024-07-20T11:10:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
