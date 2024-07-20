@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-20T05:24:54+03:00</pubDate>
-        <lastBuildDate>2024-07-20T05:24:54+03:00</lastBuildDate>
+        <pubDate>2024-07-20T05:50:09+03:00</pubDate>
+        <lastBuildDate>2024-07-20T05:50:09+03:00</lastBuildDate>
 
         <item>
+	<title>El Salto Travel Guide (Durango (state)/Northern Mexico/Mexico/North America)</title>
+	<link>https://travellers.wiki/en/north-america/mexico/northern-mexico/durango-state/el-salto/</link>
+	<description>Discover the best places to visit, things to do, food to try, and tips for visiting El Salto, Durango, Mexico - a hidden gem in Northern Mexico.</description>
+	<pubDate>2024-07-20T05:50:09+03:00</pubDate>
+</item><item>
 	<title>Ludwigshafen Travel Guide (Palatinate/Rhineland-Palatinate/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/rhineland-palatinate/palatinate/ludwigshafen/</link>
 	<description>Discover the best things to do, places to stay, food to eat and more with this comprehensive guide to Ludwigshafen, Germany.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/gunma/ota/</link>
 	<description>Explore Ota in Gunma, Japan with this comprehensive travel guide. Discover the best things to do, places to visit, food and drink scene, local culture, safety and health, and transportation options.</description>
 	<pubDate>2024-07-20T01:26:16+03:00</pubDate>
-</item><item>
-	<title>Caia Travel Guide (Central Mozambique/Mozambique/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/mozambique/central-mozambique/caia/</link>
-	<description>Discover the best things to do, where to stay, what to eat and drink, and how to get around in Caia, Mozambique. This comprehensive travel guide covers everything you need to know about Caia, Mozambique, including its cultural and natural attractions, hiking and biking routes, where to stay, and more.</description>
-	<pubDate>2024-07-20T00:56:45+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
