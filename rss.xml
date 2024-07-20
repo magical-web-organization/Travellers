@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-20T21:31:50+03:00</pubDate>
-        <lastBuildDate>2024-07-20T21:31:50+03:00</lastBuildDate>
+        <pubDate>2024-07-20T21:38:09+03:00</pubDate>
+        <lastBuildDate>2024-07-20T21:38:09+03:00</lastBuildDate>
 
         <item>
+	<title>Ashburn Travel Guide (Loudoun County/Northern Virginia/Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/northern-virginia/loudoun-county/ashburn/</link>
+	<description>Plan your trip to Ashburn with this informative guide, featuring top attractions, hiking/biking routes, accommodations, local cuisine, culture, safety, and transportation options.</description>
+	<pubDate>2024-07-20T21:38:09+03:00</pubDate>
+</item><item>
 	<title>Xlendi Travel Guide (Gozo/Malta/Europe)</title>
 	<link>https://travellers.wiki/en/europe/malta/gozo/xlendi/</link>
 	<description>Get to know about Xlendi, Gozo, a picturesque destination in Malta, Europe. Read this comprehensive travel guide to know about the prominent attractions, things to do, places to eat, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/barcelona/ciutat-vella/</link>
 	<description>Explore the historic district of Ciutat Vella in Barcelona, Spain with this comprehensive travel guide complete with a list of places to visit, hiking/biking routes, food and drink scene, local culture, and more.</description>
 	<pubDate>2024-07-20T17:30:44+03:00</pubDate>
-</item><item>
-	<title>Rach Gia Travel Guide (Southern Vietnam/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/southern-vietnam/rach-gia/</link>
-	<description>Plan your visit to Rach Gia, Vietnam with our comprehensive travel guide. Explore cultural and natural attractions, discover hiking and biking routes, sample local food and drink, and more.</description>
-	<pubDate>2024-07-20T16:51:21+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
