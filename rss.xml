@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T00:20:19+03:00</pubDate>
-        <lastBuildDate>2024-07-21T00:20:19+03:00</lastBuildDate>
+        <pubDate>2024-07-21T00:38:14+03:00</pubDate>
+        <lastBuildDate>2024-07-21T00:38:14+03:00</lastBuildDate>
 
         <item>
+	<title>Northwest Travel Guide (Austin/Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/austin/northwest/</link>
+	<description>Discover the culturally rich and vibrant Northwest Austin. From scenic views and hiking trails to museums and historic landmarks, find all the information you need to plan your perfect trip.</description>
+	<pubDate>2024-07-21T00:38:14+03:00</pubDate>
+</item><item>
 	<title>Lodwar Travel Guide (Northern Rift Valley/Kenya/East Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/east-africa/kenya/northern-rift-valley/lodwar/</link>
 	<description>Discover the top attractions, hiking routes, where to stay, what to eat, and local customs of Lodwar, Kenya. Learn travel tips and how to get to and around Lodwar.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/wallachian-plain/braila/</link>
 	<description>Explore the beauty of Brăila with our ultimate travel guide including the best things to do, places to stay, food to try, and more.</description>
 	<pubDate>2024-07-20T20:32:23+03:00</pubDate>
-</item><item>
-	<title>Byron Travel Guide (Oxford County/Lakes and Mountains/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/lakes-and-mountains/oxford-county/byron/</link>
-	<description>Planning a trip to Byron, Maine? Read our comprehensive guide for a list of places to visit, the best hiking/biking routes, food and drink scene, and more.</description>
-	<pubDate>2024-07-20T19:41:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
