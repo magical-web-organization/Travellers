@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-20T15:24:18+03:00</pubDate>
-        <lastBuildDate>2024-07-20T15:24:18+03:00</lastBuildDate>
+        <pubDate>2024-07-20T15:57:16+03:00</pubDate>
+        <lastBuildDate>2024-07-20T15:57:16+03:00</lastBuildDate>
 
         <item>
+	<title>Henderson Travel Guide (Western Coal Fields/Kentucky/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/kentucky/western-coal-fields/henderson/</link>
+	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, best things to do, food scene, where to stay, local culture, and transportation options of Henderson, Kentucky, in this comprehensive travel guide.</description>
+	<pubDate>2024-07-20T15:57:16+03:00</pubDate>
+</item><item>
 	<title>Bensalem Travel Guide (Bucks County/Philadelphia Region/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/philadelphia-region/bucks-county/bensalem/</link>
 	<description>Discover the best things to do, see, eat, and experience in Bensalem, Pennsylvania with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/serbia/vojvodina/subotica/</link>
 	<description>Explore the best attractions, food, culture, and logistics of Subotica with this helpful travel guide. Plan your trip with ease and make the most of your stay in this charming Vojvodina town.</description>
 	<pubDate>2024-07-20T11:10:43+03:00</pubDate>
-</item><item>
-	<title>Moro Travel Guide (Kwara State/North Central Nigeria/Nigeria/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-central-nigeria/kwara-state/moro/</link>
-	<description>Discover the best places to visit, activities to do, food and drink scene, where to stay, and more in Moro, a cultural and natural gem in Nigeria.</description>
-	<pubDate>2024-07-20T11:01:43+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
