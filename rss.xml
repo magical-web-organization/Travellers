@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T08:23:59+03:00</pubDate>
-        <lastBuildDate>2024-07-21T08:23:59+03:00</lastBuildDate>
+        <pubDate>2024-07-21T08:45:57+03:00</pubDate>
+        <lastBuildDate>2024-07-21T08:45:57+03:00</lastBuildDate>
 
         <item>
+	<title>Torricella Sicura Travel Guide (Teramo (province)/Abruzzo/Central Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/central-italy/abruzzo/teramo-province/torricella-sicura/</link>
+	<description>Discover the best things to do, places to visit, food and drink scene, where to stay, and more in Torricella Sicura, a charming town in Abruzzo, Italy.</description>
+	<pubDate>2024-07-21T08:45:57+03:00</pubDate>
+</item><item>
 	<title>Bonito Travel Guide (Mato Grosso do Sul/Central West/Brazil/South America)</title>
 	<link>https://travellers.wiki/en/south-america/brazil/central-west/mato-grosso-do-sul/bonito/</link>
 	<description>A comprehensive travel guide to Bonito, Brazil featuring the top attractions, activities, accommodations, food and drink scene, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/central-indiana/turkey-run-state-park/</link>
 	<description>Your ultimate guide to Turkey Run State Park with information on places to visit, hiking and biking routes, best things to do, food and drink scene, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-07-21T04:23:00+03:00</pubDate>
-</item><item>
-	<title>Denbigh Travel Guide (Clwyd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/clwyd/denbigh/</link>
-	<description>Make the most out of your trip to Denbigh with our comprehensive travel guide, featuring the best cultural attractions, natural wonders, food and drink scene, safety tips, and transportation options.</description>
-	<pubDate>2024-07-21T03:56:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
