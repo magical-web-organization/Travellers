@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T15:28:24+03:00</pubDate>
-        <lastBuildDate>2024-07-21T15:28:24+03:00</lastBuildDate>
+        <pubDate>2024-07-21T15:45:09+03:00</pubDate>
+        <lastBuildDate>2024-07-21T15:45:09+03:00</lastBuildDate>
 
         <item>
+	<title>Virginia Peninsula Travel Guide (Eastern Virginia/Virginia/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/eastern-virginia/virginia-peninsula/</link>
+	<description>Discover Virginia Peninsula with our comprehensive travel guide. Find out everything you need to know about the region, its popular attractions, food and drink, accommodations, transportation options, and more.</description>
+	<pubDate>2024-07-21T15:45:09+03:00</pubDate>
+</item><item>
 	<title>Trinidad Travel Guide (Central Interior/Uruguay/South America)</title>
 	<link>https://travellers.wiki/en/south-america/uruguay/central-interior/trinidad/</link>
 	<description>Plan your trip to Trinidad with this comprehensive travel guide including information on places to visit, things to do, where to stay and what to eat.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/osaka-prefecture/hirakata/</link>
 	<description>Discover the best places to visit, different activities and tours to do, where to stay in Hirakata, food and drink scene, and more in this comprehensive travel guide.</description>
 	<pubDate>2024-07-21T11:06:55+03:00</pubDate>
-</item><item>
-	<title>Mangalagiri Travel Guide (Southern Coast/Andhra Pradesh/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/andhra-pradesh/southern-coast/mangalagiri/</link>
-	<description>Discover the charms of Mangalagiri with this comprehensive travel guide, featuring everything from must-visit attractions and outdoor adventures to food and drink scene and transportation options.</description>
-	<pubDate>2024-07-21T11:03:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
