@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T21:30:40+03:00</pubDate>
-        <lastBuildDate>2024-07-21T21:30:40+03:00</lastBuildDate>
+        <pubDate>2024-07-21T22:02:22+03:00</pubDate>
+        <lastBuildDate>2024-07-21T22:02:22+03:00</lastBuildDate>
 
         <item>
+	<title>Fallbrook Travel Guide (North County/San Diego County/Southern California/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/north-county/fallbrook/</link>
+	<description>Discover the must-visit attractions, hiking and biking trails, local food and drink scenes, and transportation options in Fallbrook, Southern California.</description>
+	<pubDate>2024-07-21T22:02:22+03:00</pubDate>
+</item><item>
 	<title>Worcester Travel Guide (Worcestershire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/worcestershire/worcester/</link>
 	<description>Planning a trip to Worcester? This guide covers everything you need to know, including top attractions, where to stay, and what to eat.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/ireland/west-ireland/county-galway/spiddal/</link>
 	<description>Discover the rich culture, natural beauty, and exciting adventures of Spiddal, Ireland with this comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-07-21T17:05:37+03:00</pubDate>
-</item><item>
-	<title>Haverfordwest Travel Guide (Pembrokeshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/pembrokeshire/haverfordwest/</link>
-	<description>Discover the best places to visit, things to do, where to stay, and more in Haverfordwest, Wales- one of the most beautiful towns in Pembrokeshire.</description>
-	<pubDate>2024-07-21T16:41:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
