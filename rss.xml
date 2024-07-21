@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T16:25:10+03:00</pubDate>
-        <lastBuildDate>2024-07-21T16:25:10+03:00</lastBuildDate>
+        <pubDate>2024-07-21T16:41:35+03:00</pubDate>
+        <lastBuildDate>2024-07-21T16:41:35+03:00</lastBuildDate>
 
         <item>
+	<title>Haverfordwest Travel Guide (Pembrokeshire/South Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/south-wales/pembrokeshire/haverfordwest/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Haverfordwest, Wales- one of the most beautiful towns in Pembrokeshire.</description>
+	<pubDate>2024-07-21T16:41:35+03:00</pubDate>
+</item><item>
 	<title>Nunukan Travel Guide (East Kalimantan/Kalimantan/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/kalimantan/east-kalimantan/nunukan/</link>
 	<description>Explore the natural beauty and rich culture of Nunukan in East Kalimantan, Indonesia with this comprehensive travel guide. From must-see attractions to hiking and biking routes, food and drink, where to stay, and more, find everything you need to plan your perfect adventure.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/cornwall/st-just-in-penwith/</link>
 	<description>Discover the beautiful town of St. Just in Penwith in Cornwall, England. Our comprehensive travel guide covers must-see attractions, hiking and biking routes, local culture and customs, transportation options, and more.</description>
 	<pubDate>2024-07-21T12:29:40+03:00</pubDate>
-</item><item>
-	<title>Melton Mowbray Travel Guide (Leicestershire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/leicestershire/melton-mowbray/</link>
-	<description>Explore Melton Mowbray with our comprehensive travel guide. Discover the best things to do, places to visit, food and drink scene, local culture, safety tips, and transportation options.</description>
-	<pubDate>2024-07-21T11:38:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
