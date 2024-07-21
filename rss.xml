@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T01:45:34+03:00</pubDate>
-        <lastBuildDate>2024-07-22T01:45:34+03:00</lastBuildDate>
+        <pubDate>2024-07-22T02:04:02+03:00</pubDate>
+        <lastBuildDate>2024-07-22T02:04:02+03:00</lastBuildDate>
 
         <item>
+	<title>Tremiti Islands Travel Guide (Foggia (province)/Apulia/Southern Italy/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/southern-italy/apulia/foggia-province/tremiti-islands/</link>
+	<description>Get ready for a comprehensive tour guide to Tremiti Islands, exploring the charming cultural and natural attractions, offering delightful food, local customs, safety, logistics and all you need to know for a perfect vacation.</description>
+	<pubDate>2024-07-22T02:04:02+03:00</pubDate>
+</item><item>
 	<title>Palermo Travel Guide (Palermo (province)/Sicily/Italy/Europe)</title>
 	<link>https://travellers.wiki/en/europe/italy/sicily/palermo-province/palermo/</link>
 	<description>Discover the best places to visit, the food and drink scene, where to stay, local culture and customs, and more in Palermo, Sicily.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/southern-california/san-diego-county/north-county/fallbrook/</link>
 	<description>Discover the must-visit attractions, hiking and biking trails, local food and drink scenes, and transportation options in Fallbrook, Southern California.</description>
 	<pubDate>2024-07-21T22:02:22+03:00</pubDate>
-</item><item>
-	<title>Worcester Travel Guide (Worcestershire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/worcestershire/worcester/</link>
-	<description>Planning a trip to Worcester? This guide covers everything you need to know, including top attractions, where to stay, and what to eat.</description>
-	<pubDate>2024-07-21T21:30:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
