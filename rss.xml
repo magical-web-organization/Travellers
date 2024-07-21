@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T01:23:52+03:00</pubDate>
-        <lastBuildDate>2024-07-22T01:23:52+03:00</lastBuildDate>
+        <pubDate>2024-07-22T01:45:34+03:00</pubDate>
+        <lastBuildDate>2024-07-22T01:45:34+03:00</lastBuildDate>
 
         <item>
+	<title>Palermo Travel Guide (Palermo (province)/Sicily/Italy/Europe)</title>
+	<link>https://travellers.wiki/en/europe/italy/sicily/palermo-province/palermo/</link>
+	<description>Discover the best places to visit, the food and drink scene, where to stay, local culture and customs, and more in Palermo, Sicily.</description>
+	<pubDate>2024-07-22T01:45:34+03:00</pubDate>
+</item><item>
 	<title>Oakfield Travel Guide (Aroostook/Maine/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/aroostook/oakfield/</link>
 	<description>Discover the hidden gems of Oakfield with our comprehensive travel guide, from cultural attractions and outdoor adventures to food and drink scene and transportation options. Plan your dream trip now!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/worcestershire/worcester/</link>
 	<description>Planning a trip to Worcester? This guide covers everything you need to know, including top attractions, where to stay, and what to eat.</description>
 	<pubDate>2024-07-21T21:30:40+03:00</pubDate>
-</item><item>
-	<title>Putnam Travel Guide (Mystic-Eastern/Connecticut/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/connecticut/mystic-eastern/putnam/</link>
-	<description>Discover everything you need to know about Putnam, Connecticut with our comprehensive travel guide. Find out where to stay, what to do, and must-see attractions in this Mystic-Eastern town.</description>
-	<pubDate>2024-07-21T20:34:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
