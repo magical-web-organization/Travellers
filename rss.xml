@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T05:32:05+03:00</pubDate>
-        <lastBuildDate>2024-07-21T05:32:05+03:00</lastBuildDate>
+        <pubDate>2024-07-21T05:35:37+03:00</pubDate>
+        <lastBuildDate>2024-07-21T05:35:37+03:00</lastBuildDate>
 
         <item>
+	<title>De Bilt Travel Guide (Utrecht Hill Ridge/Utrecht (province)/Western Netherlands/Netherlands/Benelux/Europe)</title>
+	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/utrecht-province/utrecht-hill-ridge/de-bilt/</link>
+	<description>Plan your trip to De Bilt, Netherlands with this comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and more.</description>
+	<pubDate>2024-07-21T05:35:37+03:00</pubDate>
+</item><item>
 	<title>McClellan Park Travel Guide (Sacramento County/Sacramento Valley/California/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/sacramento-valley/sacramento-county/mcclellan-park/</link>
 	<description>Plan your visit to McClellan Park with this comprehensive travel guide, featuring top attractions, accommodations, dining options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/greece/northern-greece/epirus/ioannina/</link>
 	<description>Discover the cultural, natural, and gastronomical wonders of Ioannina, in Northern Greece. Explore museums, hiking/biking routes and must-try local dishes. Find out where to stay and what to buy. Learn about local customs, health and safety, and transportation options. Plan your next adventure now.</description>
 	<pubDate>2024-07-21T01:24:50+03:00</pubDate>
-</item><item>
-	<title>Northwest Travel Guide (Austin/Central Hill Country/Hill Country/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/hill-country/central-hill-country/austin/northwest/</link>
-	<description>Discover the culturally rich and vibrant Northwest Austin. From scenic views and hiking trails to museums and historic landmarks, find all the information you need to plan your perfect trip.</description>
-	<pubDate>2024-07-21T00:38:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
