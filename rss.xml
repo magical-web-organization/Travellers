@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T19:38:33+03:00</pubDate>
-        <lastBuildDate>2024-07-21T19:38:33+03:00</lastBuildDate>
+        <pubDate>2024-07-21T20:16:11+03:00</pubDate>
+        <lastBuildDate>2024-07-21T20:16:11+03:00</lastBuildDate>
 
         <item>
+	<title>Middleburg Heights Travel Guide (Cuyahoga County/Greater Cleveland/Northeast Ohio/Ohio/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/middleburg-heights/</link>
+	<description>Explore Middleburg Heights, Ohio with our comprehensive travel guide featuring must-visit places, things to do, where to stay, local food and drink scene, and more.</description>
+	<pubDate>2024-07-21T20:16:11+03:00</pubDate>
+</item><item>
 	<title>Port Orange Travel Guide (Volusia County/Florida/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/port-orange/</link>
 	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, food, and drink scene, where to stay, what to buy, local culture and customs, best time to visit, and safety and health tips in Port Orange, Florida.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/virginia/eastern-virginia/virginia-peninsula/</link>
 	<description>Discover Virginia Peninsula with our comprehensive travel guide. Find out everything you need to know about the region, its popular attractions, food and drink, accommodations, transportation options, and more.</description>
 	<pubDate>2024-07-21T15:45:09+03:00</pubDate>
-</item><item>
-	<title>Trinidad Travel Guide (Central Interior/Uruguay/South America)</title>
-	<link>https://travellers.wiki/en/south-america/uruguay/central-interior/trinidad/</link>
-	<description>Plan your trip to Trinidad with this comprehensive travel guide including information on places to visit, things to do, where to stay and what to eat.</description>
-	<pubDate>2024-07-21T15:28:24+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
