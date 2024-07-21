@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T19:02:25+03:00</pubDate>
-        <lastBuildDate>2024-07-21T19:02:25+03:00</lastBuildDate>
+        <pubDate>2024-07-21T19:26:56+03:00</pubDate>
+        <lastBuildDate>2024-07-21T19:26:56+03:00</lastBuildDate>
 
         <item>
+	<title>Woodbury Travel Guide (Gloucester County/Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/gloucester-county/woodbury/</link>
+	<description>Get a complete list of places to visit in Woodbury, including natural places, hiking and biking routes, must-try food and drinks, where to stay, and more.</description>
+	<pubDate>2024-07-21T19:26:56+03:00</pubDate>
+</item><item>
 	<title>Rushville Travel Guide (Central Indiana/Indiana/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/indiana/central-indiana/rushville/</link>
 	<description>Explore Rushville with our comprehensive travel guide. Find out the best places to visit, things to do, where to stay, what to eat, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/pennsylvania-dutch-country/harrisburg-area/millersburg/</link>
 	<description>Discover the best places to visit, outdoor adventures, food and drink scene, where to stay and more in beautiful Millersburg, Pennsylvania.</description>
 	<pubDate>2024-07-21T14:56:48+03:00</pubDate>
-</item><item>
-	<title>Râu de Mori Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/rau-de-mori/</link>
-	<description>Explore the best of Râu de Mori with our comprehensive travel guide featuring must-see attractions, outdoor adventures, local culture, and more. Plan your trip today!</description>
-	<pubDate>2024-07-21T14:18:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
