@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T11:06:55+03:00</pubDate>
-        <lastBuildDate>2024-07-21T11:06:55+03:00</lastBuildDate>
+        <pubDate>2024-07-21T11:38:59+03:00</pubDate>
+        <lastBuildDate>2024-07-21T11:38:59+03:00</lastBuildDate>
 
         <item>
+	<title>Melton Mowbray Travel Guide (Leicestershire/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/leicestershire/melton-mowbray/</link>
+	<description>Explore Melton Mowbray with our comprehensive travel guide. Discover the best things to do, places to visit, food and drink scene, local culture, safety tips, and transportation options.</description>
+	<pubDate>2024-07-21T11:38:59+03:00</pubDate>
+</item><item>
 	<title>Hirakata Travel Guide (Osaka (prefecture)/Kansai/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kansai/osaka-prefecture/hirakata/</link>
 	<description>Discover the best places to visit, different activities and tours to do, where to stay in Hirakata, food and drink scene, and more in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/ohio-erie-shore-west/milan/</link>
 	<description>A comprehensive travel guide for Milan, Ohio that covers places to visit, things to do, where to stay, what to eat, and more.</description>
 	<pubDate>2024-07-21T07:16:16+03:00</pubDate>
-</item><item>
-	<title>Port Arthur Travel Guide (Bayous/Gulf Coast/Texas/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/gulf-coast/bayous/port-arthur/</link>
-	<description>Discover the must-see attractions, delicious food, best places to stay, and more with this complete guide to Port Arthur, Texas.</description>
-	<pubDate>2024-07-21T06:40:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
