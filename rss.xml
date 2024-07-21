@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T23:44:06+03:00</pubDate>
-        <lastBuildDate>2024-07-21T23:44:06+03:00</lastBuildDate>
+        <pubDate>2024-07-22T00:06:09+03:00</pubDate>
+        <lastBuildDate>2024-07-22T00:06:09+03:00</lastBuildDate>
 
         <item>
+	<title>Auli Travel Guide (Garhwal/Uttarakhand/Himalayan North/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/auli/</link>
+	<description>Discover the must-visit places, activities, accommodations, and safety tips for your trip to Auli, India.</description>
+	<pubDate>2024-07-22T00:06:09+03:00</pubDate>
+</item><item>
 	<title>Hyannis Travel Guide (Mid Cape/Cape Cod/Massachusetts/New England/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/mid-cape/hyannis/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations in Hyannis, Massachusetts.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/port-orange/</link>
 	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, food, and drink scene, where to stay, what to buy, local culture and customs, best time to visit, and safety and health tips in Port Orange, Florida.</description>
 	<pubDate>2024-07-21T19:38:33+03:00</pubDate>
-</item><item>
-	<title>Woodbury Travel Guide (Gloucester County/Delaware River Region/New Jersey/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-jersey/delaware-river-region/gloucester-county/woodbury/</link>
-	<description>Get a complete list of places to visit in Woodbury, including natural places, hiking and biking routes, must-try food and drinks, where to stay, and more.</description>
-	<pubDate>2024-07-21T19:26:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
