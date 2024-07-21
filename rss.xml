@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-21T13:40:48+03:00</pubDate>
-        <lastBuildDate>2024-07-21T13:40:48+03:00</lastBuildDate>
+        <pubDate>2024-07-21T14:18:03+03:00</pubDate>
+        <lastBuildDate>2024-07-21T14:18:03+03:00</lastBuildDate>
 
         <item>
+	<title>Râu de Mori Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/rau-de-mori/</link>
+	<description>Explore the best of Râu de Mori with our comprehensive travel guide featuring must-see attractions, outdoor adventures, local culture, and more. Plan your trip today!</description>
+	<pubDate>2024-07-21T14:18:03+03:00</pubDate>
+</item><item>
 	<title>Harrisburg Travel Guide (Charlotte Metro/Piedmont/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/charlotte-metro/harrisburg/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Harrisburg, North Carolina with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kannur-district/taliparamba/</link>
 	<description>Explore Taliparamba with our comprehensive guide, including top attractions, hiking routes, traditional cuisine, and transportation options.</description>
 	<pubDate>2024-07-21T09:42:08+03:00</pubDate>
-</item><item>
-	<title>Top Station Travel Guide (Northern Travancore/Kerala/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/northern-travancore/top-station/</link>
-	<description>Get to know the best of Kerala's Southern India with an exploration in Top Station. From stunning natural views to cultural attractions, we've got insights into how to make the most of your trip.</description>
-	<pubDate>2024-07-21T09:29:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
