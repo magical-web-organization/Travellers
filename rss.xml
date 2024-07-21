@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T00:06:09+03:00</pubDate>
-        <lastBuildDate>2024-07-22T00:06:09+03:00</lastBuildDate>
+        <pubDate>2024-07-22T00:37:09+03:00</pubDate>
+        <lastBuildDate>2024-07-22T00:37:09+03:00</lastBuildDate>
 
         <item>
+	<title>Franz Josef Travel Guide (West Coast/South Island/New Zealand/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/new-zealand/south-island/west-coast/franz-josef/</link>
+	<description>Travel to Franz Josef, the beautiful glacial village situated in the rugged South Island of New Zealand. Find out all the information you need to make the most of your trip here, including what to see and do, where to stay, and the best time to visit.</description>
+	<pubDate>2024-07-22T00:37:09+03:00</pubDate>
+</item><item>
 	<title>Auli Travel Guide (Garhwal/Uttarakhand/Himalayan North/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/himalayan-north/uttarakhand/garhwal/auli/</link>
 	<description>Discover the must-visit places, activities, accommodations, and safety tips for your trip to Auli, India.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/ohio/northeast-ohio/greater-cleveland/cuyahoga-county/middleburg-heights/</link>
 	<description>Explore Middleburg Heights, Ohio with our comprehensive travel guide featuring must-visit places, things to do, where to stay, local food and drink scene, and more.</description>
 	<pubDate>2024-07-21T20:16:11+03:00</pubDate>
-</item><item>
-	<title>Port Orange Travel Guide (Volusia County/Florida/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/florida/volusia-county/port-orange/</link>
-	<description>Explore the culturally important attractions, natural wonders, hiking and biking routes, food, and drink scene, where to stay, what to buy, local culture and customs, best time to visit, and safety and health tips in Port Orange, Florida.</description>
-	<pubDate>2024-07-21T19:38:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
