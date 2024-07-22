@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T03:52:10+03:00</pubDate>
-        <lastBuildDate>2024-07-22T03:52:10+03:00</lastBuildDate>
+        <pubDate>2024-07-22T04:27:36+03:00</pubDate>
+        <lastBuildDate>2024-07-22T04:27:36+03:00</lastBuildDate>
 
         <item>
+	<title>Koktebel Travel Guide (Crimea/Southern Russia/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/crimea/koktebel/</link>
+	<description>Explore the natural and cultural wonders of Koktebel, learn about the best places to visit, things to do, food to try, and more with this in-depth travel guide.</description>
+	<pubDate>2024-07-22T04:27:36+03:00</pubDate>
+</item><item>
 	<title>Saki Travel Guide (Oyo State/South West Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-west-nigeria/oyo-state/saki/</link>
 	<description>Discover the best places to visit, things to do, and local culture and customs of Saki in Oyo State, Nigeria. Plan your trip with our detailed travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/mid-cape/hyannis/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, where to stay, local culture and customs, safety and health, transportation options, and nearby destinations in Hyannis, Massachusetts.</description>
 	<pubDate>2024-07-21T23:44:06+03:00</pubDate>
-</item><item>
-	<title>Orodara Travel Guide (Black Volta Region/Burkina Faso/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/burkina-faso/black-volta-region/orodara/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Orodara, Burkina Faso. Explore local culture, customs, and cuisine in this comprehensive travel guide.</description>
-	<pubDate>2024-07-21T23:25:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
