@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T11:53:52+03:00</pubDate>
-        <lastBuildDate>2024-07-22T11:53:52+03:00</lastBuildDate>
+        <pubDate>2024-07-22T12:04:59+03:00</pubDate>
+        <lastBuildDate>2024-07-22T12:04:59+03:00</lastBuildDate>
 
         <item>
+	<title>Whitefield Travel Guide (Lincoln County/Mid Coast/Maine/New England/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/mid-coast/lincoln-county/whitefield/</link>
+	<description>Read about the best things to do and places to visit in Whitefield, Maine. Discover the local culture and traditions, and get tips on where to eat, sleep, and buy souvenirs. Learn about transportation and safety in this comprehensive guide.</description>
+	<pubDate>2024-07-22T12:04:59+03:00</pubDate>
+</item><item>
 	<title>Outer Travel Guide (Dhaka/Dhaka Division/Bangladesh/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/dhaka-division/dhaka/outer/</link>
 	<description>Plan your trip to Outer in Dhaka, Bangladesh with this comprehensive tour guide. Discover the best places to visit, the local food and drink scene, where to stay, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/slovenia/julian-alps/kobarid/</link>
 	<description>Read this comprehensive guide to plan out your trip to Kobarid, Slovenia, including top things to do, places to visit, best hike/bike routes, food and drink scene, where to stay, local culture, safety tips, and more.</description>
 	<pubDate>2024-07-22T07:37:21+03:00</pubDate>
-</item><item>
-	<title>Bolmsö Travel Guide (Småland/Götaland/Sweden/Nordic countries/Europe)</title>
-	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/smaland/bolmso/</link>
-	<description>Discover the best places to visit, things to do, food to try, where to stay, and how to get to Bolmsö. Get ready for a memorable holiday in this gorgeous destination in Sweden.</description>
-	<pubDate>2024-07-22T07:15:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
