@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T10:33:04+03:00</pubDate>
-        <lastBuildDate>2024-07-22T10:33:04+03:00</lastBuildDate>
+        <pubDate>2024-07-22T10:56:06+03:00</pubDate>
+        <lastBuildDate>2024-07-22T10:56:06+03:00</lastBuildDate>
 
         <item>
+	<title>Bogor Travel Guide (Bogor Raya/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/bogor-raya/bogor/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Bogor, Indonesia. Explore the rich culture and natural beauty of Bogor with our comprehensive travel guide.</description>
+	<pubDate>2024-07-22T10:56:06+03:00</pubDate>
+</item><item>
 	<title>St. Louis County Travel Guide (St. Louis Area/Missouri/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/st-louis-area/st-louis-county/</link>
 	<description>Explore the best places to visit in St. Louis County with our helpful travel guide, featuring natural attractions, hiking/biking routes, food and drink scene, where to stay, and local culture and customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/central-africa/south-sudan/bahr-el-ghazal/</link>
 	<description>Plan your trip to Bahr el Ghazal, South Sudan with this informative and helpful long-form travel guide that covers everything from cultural attractions to natural wonders, food and drink scene to accommodations, and more.</description>
 	<pubDate>2024-07-22T06:33:28+03:00</pubDate>
-</item><item>
-	<title>Lenzerheide Travel Guide (Graubünden/Switzerland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/switzerland/graubunden/lenzerheide/</link>
-	<description>Plan your trip to Lenzerheide with our comprehensive guide. Discover the best places to visit, things to do, and where to stay in this charming Swiss town.</description>
-	<pubDate>2024-07-22T05:34:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
