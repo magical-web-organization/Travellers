@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T10:56:06+03:00</pubDate>
-        <lastBuildDate>2024-07-22T10:56:06+03:00</lastBuildDate>
+        <pubDate>2024-07-22T11:10:58+03:00</pubDate>
+        <lastBuildDate>2024-07-22T11:10:58+03:00</lastBuildDate>
 
         <item>
+	<title>Digby Travel Guide (Yarmouth and Digby/Nova Scotia/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/nova-scotia/yarmouth-and-digby/digby/</link>
+	<description>Discover the best activities, attractions, and local culture in Digby, a beautiful coastal town in Nova Scotia, Canada. This guide includes recommendations for accommodations, food and drink, transportation, safety, and more!</description>
+	<pubDate>2024-07-22T11:10:58+03:00</pubDate>
+</item><item>
 	<title>Bogor Travel Guide (Bogor Raya/Western Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/bogor-raya/bogor/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Bogor, Indonesia. Explore the rich culture and natural beauty of Bogor with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/mount-merbabu-national-park/</link>
 	<description>Discover the beauty of Mount Merbabu National Park with our comprehensive guide, which covers the best places to visit, things to do, local culture and customs, and more!</description>
 	<pubDate>2024-07-22T06:55:33+03:00</pubDate>
-</item><item>
-	<title>Bahr el Ghazal Travel Guide (South Sudan/Central Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/central-africa/south-sudan/bahr-el-ghazal/</link>
-	<description>Plan your trip to Bahr el Ghazal, South Sudan with this informative and helpful long-form travel guide that covers everything from cultural attractions to natural wonders, food and drink scene to accommodations, and more.</description>
-	<pubDate>2024-07-22T06:33:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
