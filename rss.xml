@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T22:40:30+03:00</pubDate>
-        <lastBuildDate>2024-07-22T22:40:30+03:00</lastBuildDate>
+        <pubDate>2024-07-22T23:27:35+03:00</pubDate>
+        <lastBuildDate>2024-07-22T23:27:35+03:00</lastBuildDate>
 
         <item>
+	<title>Kalibo Travel Guide (Aklan/Panay/Visayas/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/panay/aklan/kalibo/</link>
+	<description>Plan your trip to Kalibo with this comprehensive tour guide that includes a list of places to visit, hiking/biking routes, best things to do, local food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-07-22T23:27:35+03:00</pubDate>
+</item><item>
 	<title>Andorra la Vella Travel Guide (Andorra/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/andorra/andorra-la-vella/</link>
 	<description>Discover all the attractions, activities, food choices, and travel tips Andorra la Vella has to offer in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/benelux/luxembourg/eislek/esch-sur-sure/</link>
 	<description>Discover the best things to do and see in the charming town of Esch-sur-Sûre, Luxembourg. Find out where to eat, stay, shop, and more in this comprehensive travel guide.</description>
 	<pubDate>2024-07-22T18:38:34+03:00</pubDate>
-</item><item>
-	<title>Kohala Travel Guide (Big Island/Hawaii/Polynesia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/polynesia/hawaii/big-island/kohala/</link>
-	<description>Plan your trip to Kohala in Hawaii with our ultimate travel guide, including must-visit attractions, hiking routes, food and drink scene, local culture and customs, transport options, and more.</description>
-	<pubDate>2024-07-22T18:29:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
