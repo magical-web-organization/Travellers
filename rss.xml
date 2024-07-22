@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T01:51:09+03:00</pubDate>
-        <lastBuildDate>2024-07-23T01:51:09+03:00</lastBuildDate>
+        <pubDate>2024-07-23T02:25:51+03:00</pubDate>
+        <lastBuildDate>2024-07-23T02:25:51+03:00</lastBuildDate>
 
         <item>
+	<title>Ridgeland Travel Guide (Golden Corner/South Carolina/South/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/golden-corner/ridgeland/</link>
+	<description>Planning a trip to Ridgeland? This comprehensive travel guide will help you discover the best things to see, do, eat, and explore in Ridgeland, South Carolina.</description>
+	<pubDate>2024-07-23T02:25:51+03:00</pubDate>
+</item><item>
 	<title>Broken Arrow Travel Guide (Green Country/Oklahoma/Great Plains/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/broken-arrow/</link>
 	<description>Plan your trip to Broken Arrow with our helpful guide, featuring top attractions, accommodations, and insider tips.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/baltic-states/lithuania/aukstaitija/panevezys/</link>
 	<description>Discover the top things to do, best places to visit, local culture, and logistics for your trip to Panevėžys, Lithuania.</description>
 	<pubDate>2024-07-22T21:36:55+03:00</pubDate>
-</item><item>
-	<title>Ulladulla Travel Guide (Shoalhaven/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/shoalhaven/ulladulla/</link>
-	<description>Discover the best places to visit, stay, eat, and experience in Ulladulla with this comprehensive travel guide. Explore hiking trails, natural attractions, cultural landmarks, local cuisine, and more!</description>
-	<pubDate>2024-07-22T21:07:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
