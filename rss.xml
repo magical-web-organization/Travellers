@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T12:51:01+03:00</pubDate>
-        <lastBuildDate>2024-07-22T12:51:01+03:00</lastBuildDate>
+        <pubDate>2024-07-22T13:24:22+03:00</pubDate>
+        <lastBuildDate>2024-07-22T13:24:22+03:00</lastBuildDate>
 
         <item>
+	<title>North Travel Guide (Tel Aviv/Israeli Coastal Plain/Israel/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/israel/israeli-coastal-plain/tel-aviv/north/</link>
+	<description>Plan an unforgettable trip to North in Tel Aviv, Israel with this comprehensive travel guide. Discover the best attractions, outdoor adventures, hiking routes, food and drink scene, accommodations, and more with our detailed itinerary and helpful tips.</description>
+	<pubDate>2024-07-22T13:24:22+03:00</pubDate>
+</item><item>
 	<title>Jiquilpan Travel Guide (Michoacan/Pacific Coast/Mexico/North America)</title>
 	<link>https://travellers.wiki/en/north-america/mexico/pacific-coast/michoacan/jiquilpan/</link>
 	<description>Plan a perfect trip to Jiquilpan, Michoacan with our comprehensive travel guide. Discover the top things to see and do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/ukraine/southern-ukraine/mykolayiv/</link>
 	<description>A detailed travel guide for Mykolayiv, Ukraine. Discover the best places to visit, where to stay, what to eat, and more with this comprehensive tour guide.</description>
 	<pubDate>2024-07-22T08:38:05+03:00</pubDate>
-</item><item>
-	<title>Kainantu Travel Guide (Highlands/Papua New Guinea/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/papua-new-guinea/highlands/kainantu/</link>
-	<description>Discover the best places to visit, things to do, and where to stay in Kainantu, Papua New Guinea with this comprehensive travel guide.</description>
-	<pubDate>2024-07-22T08:19:42+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
