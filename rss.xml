@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T09:13:23+03:00</pubDate>
-        <lastBuildDate>2024-07-22T09:13:23+03:00</lastBuildDate>
+        <pubDate>2024-07-22T09:53:32+03:00</pubDate>
+        <lastBuildDate>2024-07-22T09:53:32+03:00</lastBuildDate>
 
         <item>
+	<title>Cooch Behar Travel Guide (Northern Plains/West Bengal/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/northern-plains/cooch-behar/</link>
+	<description>Explore the culturally significant attractions, natural wonders, hiking routes, delicious local food, and more in Cooch Behar, West Bengal, India.</description>
+	<pubDate>2024-07-22T09:53:32+03:00</pubDate>
+</item><item>
 	<title>Murphy Travel Guide (North Carolina Mountains/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/north-carolina-mountains/murphy/</link>
 	<description>Explore the hidden jewel of North Carolina Mountains, Murphy, with our comprehensive travel guide. Discover the best places to visit, food scene, local culture, hiking routes, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/fujian/south-fujian/quanzhou/</link>
 	<description>Discover the top attractions, activities, hotels, and cultural customs in Quanzhou with our comprehensive travel guide.</description>
 	<pubDate>2024-07-22T05:21:08+03:00</pubDate>
-</item><item>
-	<title>Milazzo Travel Guide (Messina (province)/Sicily/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/sicily/messina-province/milazzo/</link>
-	<description>A comprehensive travel guide for Milazzo, Sicily. From outdoor adventures to cultural attractions, this guide covers it all.</description>
-	<pubDate>2024-07-22T04:36:53+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
