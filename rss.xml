@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-22T14:34:41+03:00</pubDate>
-        <lastBuildDate>2024-07-22T14:34:41+03:00</lastBuildDate>
+        <pubDate>2024-07-22T15:33:04+03:00</pubDate>
+        <lastBuildDate>2024-07-22T15:33:04+03:00</lastBuildDate>
 
         <item>
+	<title>Blackwell Travel Guide (Red Carpet Country/Oklahoma/Great Plains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/red-carpet-country/blackwell/</link>
+	<description>Get ready to explore the must-see attractions, activities, food, and culture of Blackwell with our ultimate travel guide.</description>
+	<pubDate>2024-07-22T15:33:04+03:00</pubDate>
+</item><item>
 	<title>Meppel Travel Guide (Drenthe/Northern Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/northern-netherlands/drenthe/meppel/</link>
 	<description>Discover the best things to do and see in Meppel, Netherlands. Our travel guide covers top attractions, outdoor adventures, best dining spots, recommended lodgings, and local customs.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/bogor-raya/bogor/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Bogor, Indonesia. Explore the rich culture and natural beauty of Bogor with our comprehensive travel guide.</description>
 	<pubDate>2024-07-22T10:56:06+03:00</pubDate>
-</item><item>
-	<title>St. Louis County Travel Guide (St. Louis Area/Missouri/Midwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/st-louis-area/st-louis-county/</link>
-	<description>Explore the best places to visit in St. Louis County with our helpful travel guide, featuring natural attractions, hiking/biking routes, food and drink scene, where to stay, and local culture and customs.</description>
-	<pubDate>2024-07-22T10:33:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
