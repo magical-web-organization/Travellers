@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/iberia/andorra/andorra-la-vella/</loc>
+        <lastmod>2024-07-22T22:40:30+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/europe/central-europe/switzerland/zurich-region/zug/</loc>
         <lastmod>2024-07-22T22:29:36+03:00</lastmod>
     </url>
