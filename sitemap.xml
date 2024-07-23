@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/europe/france/brittany/belle-ile/</loc>
+        <lastmod>2024-07-23T20:51:01+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/africa/west-africa/sierra-leone/magburaka/</loc>
         <lastmod>2024-07-23T20:07:14+03:00</lastmod>
     </url>

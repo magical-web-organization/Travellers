@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T20:07:14+03:00</pubDate>
-        <lastBuildDate>2024-07-23T20:07:14+03:00</lastBuildDate>
+        <pubDate>2024-07-23T20:51:01+03:00</pubDate>
+        <lastBuildDate>2024-07-23T20:51:01+03:00</lastBuildDate>
 
         <item>
+	<title>Belle Île Travel Guide (Brittany/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/brittany/belle-ile/</link>
+	<description>Plan your visit to Belle Île, France with our comprehensive travel guide. Discover the top attractions, hiking/biking routes, food scene, accommodations, and more!</description>
+	<pubDate>2024-07-23T20:51:01+03:00</pubDate>
+</item><item>
 	<title>Magburaka Travel Guide (Sierra Leone/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/sierra-leone/magburaka/</link>
 	<description>Plan your trip to Magburaka with our comprehensive travel guide featuring places to visit, things to do, where to stay, local culture, safety tips, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/rutland/rutland-water/</link>
 	<description>Discover the wonders of Rutland Water in East Midlands, England, with our ultimate travel guide. From natural attractions and scenic views to hiking and biking routes, activities, and tours, this guide covers it all.</description>
 	<pubDate>2024-07-23T16:08:20+03:00</pubDate>
-</item><item>
-	<title>Invermere Travel Guide (East Kootenays/Kootenays/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/east-kootenays/invermere/</link>
-	<description>Plan your vacation to Invermere, Canada with this detailed travel guide. Discover top attractions, hiking and biking routes, and the best places to eat, stay, and shop in Invermere.</description>
-	<pubDate>2024-07-23T15:59:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
