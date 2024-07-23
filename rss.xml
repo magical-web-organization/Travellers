@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T02:36:02+03:00</pubDate>
-        <lastBuildDate>2024-07-23T02:36:02+03:00</lastBuildDate>
+        <pubDate>2024-07-23T03:29:25+03:00</pubDate>
+        <lastBuildDate>2024-07-23T03:29:25+03:00</lastBuildDate>
 
         <item>
+	<title>Breteil Travel Guide (Brittany/France/Europe)</title>
+	<link>https://travellers.wiki/en/europe/france/brittany/breteil/</link>
+	<description>Discover the best things to do, see, eat, and stay in Breteil plus helpful tips and advice for a safe and enjoyable trip.</description>
+	<pubDate>2024-07-23T03:29:25+03:00</pubDate>
+</item><item>
 	<title>ISimangaliso Wetland Park Travel Guide (Elephant Coast/KwaZulu-Natal/South Africa/Southern Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/elephant-coast/isimangaliso-wetland-park/</link>
 	<description>Plan your trip to ISimangaliso Wetland Park with this comprehensive tour guide featuring the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/andorra/andorra-la-vella/</link>
 	<description>Discover all the attractions, activities, food choices, and travel tips Andorra la Vella has to offer in this comprehensive travel guide.</description>
 	<pubDate>2024-07-22T22:40:30+03:00</pubDate>
-</item><item>
-	<title>Zug Travel Guide (Zurich (region)/Switzerland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/switzerland/zurich-region/zug/</link>
-	<description>Planning a trip to Zug, Switzerland? Check out this comprehensive travel guide that covers all the must-see attractions, activities, food, accommodation, and more for an unforgettable visit.</description>
-	<pubDate>2024-07-22T22:29:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
