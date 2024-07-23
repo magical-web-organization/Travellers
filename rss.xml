@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T06:53:06+03:00</pubDate>
-        <lastBuildDate>2024-07-23T06:53:06+03:00</lastBuildDate>
+        <pubDate>2024-07-23T07:03:42+03:00</pubDate>
+        <lastBuildDate>2024-07-23T07:03:42+03:00</lastBuildDate>
 
         <item>
+	<title>Tynda Travel Guide (Amur Oblast/Russian Far East/Russia/Eastern Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/eastern-europe/russia/russian-far-east/amur-oblast/tynda/</link>
+	<description>Explore the natural and cultural wonders of Tynda with our comprehensive travel guide. From hiking trails to local cuisine, we've got you covered.</description>
+	<pubDate>2024-07-23T07:03:42+03:00</pubDate>
+</item><item>
 	<title>Raub Travel Guide (Pahang/East Coast/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/pahang/raub/</link>
 	<description>Discover the hidden gem of Raub, Malaysia with this comprehensive travel guide. Learn about the best places to visit, food to try, and cultural customs to observe in this charming town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/kwazulu-natal/elephant-coast/isimangaliso-wetland-park/</link>
 	<description>Plan your trip to ISimangaliso Wetland Park with this comprehensive tour guide featuring the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-07-23T02:36:02+03:00</pubDate>
-</item><item>
-	<title>Ridgeland Travel Guide (Golden Corner/South Carolina/South/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/golden-corner/ridgeland/</link>
-	<description>Planning a trip to Ridgeland? This comprehensive travel guide will help you discover the best things to see, do, eat, and explore in Ridgeland, South Carolina.</description>
-	<pubDate>2024-07-23T02:25:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
