@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T22:38:16+03:00</pubDate>
-        <lastBuildDate>2024-07-23T22:38:16+03:00</lastBuildDate>
+        <pubDate>2024-07-23T23:04:16+03:00</pubDate>
+        <lastBuildDate>2024-07-23T23:04:16+03:00</lastBuildDate>
 
         <item>
+	<title>Leek Travel Guide (Staffordshire/West Midlands (region)/England/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-midlands-region/staffordshire/leek/</link>
+	<description>Discover the top attractions, hikes, food and drink scene, where to stay, local culture and customs, transportation options and logistics, and nearby destinations in Leek, England.</description>
+	<pubDate>2024-07-23T23:04:16+03:00</pubDate>
+</item><item>
 	<title>Balayan Travel Guide (Western Batangas/Batangas/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/western-batangas/balayan/</link>
 	<description>Discover the beauty of Balayan, Batangas with our comprehensive guide. From culturally important attractions to outdoor adventures, we've got you covered.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/kuwait/kuwait-city/</link>
 	<description>Plan your trip to Kuwait City with this comprehensive travel guide that covers the best places to visit, things to do, where to stay, and more.</description>
 	<pubDate>2024-07-23T19:00:17+03:00</pubDate>
-</item><item>
-	<title>Fairfield Travel Guide (Kennebec and Moose River Valleys/Maine/New England/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/kennebec-and-moose-river-valleys/fairfield/</link>
-	<description>Discover the best things to do, places to visit, where to stay, and eat in Fairfield, Maine in this comprehensive travel guide.</description>
-	<pubDate>2024-07-23T18:11:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
