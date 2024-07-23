@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T16:08:20+03:00</pubDate>
-        <lastBuildDate>2024-07-23T16:08:20+03:00</lastBuildDate>
+        <pubDate>2024-07-23T16:51:16+03:00</pubDate>
+        <lastBuildDate>2024-07-23T16:51:16+03:00</lastBuildDate>
 
         <item>
+	<title>A Coruña Travel Guide (Galicia/Green Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/green-spain/galicia/a-coruna/</link>
+	<description>Explore the best of A Coruña, Galicia, Spain with this comprehensive travel guide covering top attractions, things to do, food, culture, safety, logistics, and more.</description>
+	<pubDate>2024-07-23T16:51:16+03:00</pubDate>
+</item><item>
 	<title>Rutland Water Travel Guide (Rutland/East Midlands/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/rutland/rutland-water/</link>
 	<description>Discover the wonders of Rutland Water in East Midlands, England, with our ultimate travel guide. From natural attractions and scenic views to hiking and biking routes, activities, and tours, this guide covers it all.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/western-java/bogor-raya/cimaja/</link>
 	<description>Plan your trip to Cimaja, Indonesia with this comprehensive guide featuring must-visit attractions, outdoor adventures, local culture and customs, and more.</description>
 	<pubDate>2024-07-23T12:32:00+03:00</pubDate>
-</item><item>
-	<title>San Pedro (Côte d'Ivoire) Travel Guide (Southwestern Forests/Côte d'Ivoire/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/cote-d-ivoire/southwestern-forests/san-pedro-cote-d-ivoire/</link>
-	<description>Plan your trip to San Pedro with our in-depth travel guide. Explore the best places to visit, food and drink scene, where to stay, and much more.</description>
-	<pubDate>2024-07-23T11:46:33+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
