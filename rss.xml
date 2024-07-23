@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T15:03:29+03:00</pubDate>
-        <lastBuildDate>2024-07-23T15:03:29+03:00</lastBuildDate>
+        <pubDate>2024-07-23T15:59:22+03:00</pubDate>
+        <lastBuildDate>2024-07-23T15:59:22+03:00</lastBuildDate>
 
         <item>
+	<title>Invermere Travel Guide (East Kootenays/Kootenays/British Columbia/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/british-columbia/kootenays/east-kootenays/invermere/</link>
+	<description>Plan your vacation to Invermere, Canada with this detailed travel guide. Discover top attractions, hiking and biking routes, and the best places to eat, stay, and shop in Invermere.</description>
+	<pubDate>2024-07-23T15:59:22+03:00</pubDate>
+</item><item>
 	<title>Bear Lake Travel Guide (Grand Traverse Bay Area/Northern Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/northern-michigan/grand-traverse-bay-area/bear-lake/</link>
 	<description>Explore the beauty of Bear Lake in Northern Michigan with this comprehensive travel guide. Discover the best things to do, see, eat, and drink in Bear Lake.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/yorkshire/north-yorkshire/settle/</link>
 	<description>Plan your trip to Settle, Yorkshire with our comprehensive travel guide. Discover the best attractions, activities, accommodations, and more.</description>
 	<pubDate>2024-07-23T11:21:03+03:00</pubDate>
-</item><item>
-	<title>Pudong Travel Guide (Shanghai/East China/China/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/china/east-china/shanghai/pudong/</link>
-	<description>Explore the rich culture, natural landscapes, and distinctive cuisine of Pudong, Shanghai with our comprehensive travel guide. Find out where to stay, what to do, and how to get around in Pudong.</description>
-	<pubDate>2024-07-23T10:45:58+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
