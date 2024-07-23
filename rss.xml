@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T22:16:41+03:00</pubDate>
-        <lastBuildDate>2024-07-23T22:16:41+03:00</lastBuildDate>
+        <pubDate>2024-07-23T22:38:16+03:00</pubDate>
+        <lastBuildDate>2024-07-23T22:38:16+03:00</lastBuildDate>
 
         <item>
+	<title>Balayan Travel Guide (Western Batangas/Batangas/Calabarzon/Luzon/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/calabarzon/batangas/western-batangas/balayan/</link>
+	<description>Discover the beauty of Balayan, Batangas with our comprehensive guide. From culturally important attractions to outdoor adventures, we've got you covered.</description>
+	<pubDate>2024-07-23T22:38:16+03:00</pubDate>
+</item><item>
 	<title>Shirakawa-go Travel Guide (Gifu (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/gifu-prefecture/shirakawa-go/</link>
 	<description>This guide provides a comprehensive overview of the tourist sites, culture, food, accommodations, transportation, and more in Shirakawa-go, Japan.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/maine/kennebec-and-moose-river-valleys/fairfield/</link>
 	<description>Discover the best things to do, places to visit, where to stay, and eat in Fairfield, Maine in this comprehensive travel guide.</description>
 	<pubDate>2024-07-23T18:11:13+03:00</pubDate>
-</item><item>
-	<title>São Miguel do Araguaia Travel Guide (Goiás/Central West/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/central-west/goias/sao-miguel-do-araguaia/</link>
-	<description>Discover the best things to do, places to visit, and where to stay in São Miguel do Araguaia, Brazil. Learn about the local culture, food scene, and safety tips for a wonderful trip.</description>
-	<pubDate>2024-07-23T18:02:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
