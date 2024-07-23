@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T17:23:06+03:00</pubDate>
-        <lastBuildDate>2024-07-23T17:23:06+03:00</lastBuildDate>
+        <pubDate>2024-07-23T18:02:28+03:00</pubDate>
+        <lastBuildDate>2024-07-23T18:02:28+03:00</lastBuildDate>
 
         <item>
+	<title>São Miguel do Araguaia Travel Guide (Goiás/Central West/Brazil/South America)</title>
+	<link>https://travellers.wiki/en/south-america/brazil/central-west/goias/sao-miguel-do-araguaia/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in São Miguel do Araguaia, Brazil. Learn about the local culture, food scene, and safety tips for a wonderful trip.</description>
+	<pubDate>2024-07-23T18:02:28+03:00</pubDate>
+</item><item>
 	<title>Nikaho Travel Guide (Akita (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/akita-prefecture/nikaho/</link>
 	<description>Discover the cultural, natural, and culinary highlights of Nikaho in Tohoku, Japan. Get insider tips on where to go, what to do, and what to eat in this beautiful area.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/lazio/latina-province/ventotene/</link>
 	<description>Plan your perfect trip to Ventotene with this comprehensive travel guide. Discover the best things to do, places to visit, where to stay and eat, local culture, and more!</description>
 	<pubDate>2024-07-23T13:31:57+03:00</pubDate>
-</item><item>
-	<title>Überlingen Travel Guide (Bodensee Region/Baden-Württemberg/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/baden-wurttemberg/bodensee-region/uberlingen/</link>
-	<description>Explore the best museums, natural attractions, hiking and biking routes, food and drink scene, where to stay, local culture and customs, safety and health, transportation, and nearby destinations of Überlingen, Germany.</description>
-	<pubDate>2024-07-23T12:49:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
