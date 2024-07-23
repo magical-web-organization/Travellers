@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T06:10:07+03:00</pubDate>
-        <lastBuildDate>2024-07-23T06:10:07+03:00</lastBuildDate>
+        <pubDate>2024-07-23T06:53:06+03:00</pubDate>
+        <lastBuildDate>2024-07-23T06:53:06+03:00</lastBuildDate>
 
         <item>
+	<title>Raub Travel Guide (Pahang/East Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/east-coast/pahang/raub/</link>
+	<description>Discover the hidden gem of Raub, Malaysia with this comprehensive travel guide. Learn about the best places to visit, food to try, and cultural customs to observe in this charming town.</description>
+	<pubDate>2024-07-23T06:53:06+03:00</pubDate>
+</item><item>
 	<title>Apostle Islands National Lakeshore Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/apostle-islands-national-lakeshore/</link>
 	<description>Discover the top sights and activities of Apostle Islands National Lakeshore with our complete travel guide. Explore the beautiful scenery, enjoy local cuisine and immerse yourself in the local culture.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/golden-corner/ridgeland/</link>
 	<description>Planning a trip to Ridgeland? This comprehensive travel guide will help you discover the best things to see, do, eat, and explore in Ridgeland, South Carolina.</description>
 	<pubDate>2024-07-23T02:25:51+03:00</pubDate>
-</item><item>
-	<title>Broken Arrow Travel Guide (Green Country/Oklahoma/Great Plains/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/broken-arrow/</link>
-	<description>Plan your trip to Broken Arrow with our helpful guide, featuring top attractions, accommodations, and insider tips.</description>
-	<pubDate>2024-07-23T01:51:09+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
