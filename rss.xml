@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T05:44:26+03:00</pubDate>
-        <lastBuildDate>2024-07-23T05:44:26+03:00</lastBuildDate>
+        <pubDate>2024-07-23T06:10:07+03:00</pubDate>
+        <lastBuildDate>2024-07-23T06:10:07+03:00</lastBuildDate>
 
         <item>
+	<title>Apostle Islands National Lakeshore Travel Guide (Northwest Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northwest-wisconsin/apostle-islands-national-lakeshore/</link>
+	<description>Discover the top sights and activities of Apostle Islands National Lakeshore with our complete travel guide. Explore the beautiful scenery, enjoy local cuisine and immerse yourself in the local culture.</description>
+	<pubDate>2024-07-23T06:10:07+03:00</pubDate>
+</item><item>
 	<title>Porsgrunn Travel Guide (Telemark/East Norway/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/east-norway/telemark/porsgrunn/</link>
 	<description>Plan your trip to Porsgrunn with this comprehensive travel guide, complete with a list of places to visit, hiking/biking routes, food and drink recommendations, local culture insights, safety and health information, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/great-plains/oklahoma/green-country/broken-arrow/</link>
 	<description>Plan your trip to Broken Arrow with our helpful guide, featuring top attractions, accommodations, and insider tips.</description>
 	<pubDate>2024-07-23T01:51:09+03:00</pubDate>
-</item><item>
-	<title>Nakatsugawa Travel Guide (Gifu (prefecture)/Chubu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/gifu-prefecture/nakatsugawa/</link>
-	<description>Discover the best places to visit, eat, stay, and more in Nakatsugawa, a charming town located in Gifu, Chubu, Japan.</description>
-	<pubDate>2024-07-23T01:21:50+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
