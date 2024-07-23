@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-23T22:00:37+03:00</pubDate>
-        <lastBuildDate>2024-07-23T22:00:37+03:00</lastBuildDate>
+        <pubDate>2024-07-23T22:16:41+03:00</pubDate>
+        <lastBuildDate>2024-07-23T22:16:41+03:00</lastBuildDate>
 
         <item>
+	<title>Shirakawa-go Travel Guide (Gifu (prefecture)/Chubu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/gifu-prefecture/shirakawa-go/</link>
+	<description>This guide provides a comprehensive overview of the tourist sites, culture, food, accommodations, transportation, and more in Shirakawa-go, Japan.</description>
+	<pubDate>2024-07-23T22:16:41+03:00</pubDate>
+</item><item>
 	<title>Corozal Travel Guide (Northern Coast/Puerto Rico/Caribbean/North America)</title>
 	<link>https://travellers.wiki/en/north-america/caribbean/puerto-rico/northern-coast/corozal/</link>
 	<description>Discover Corozal, a charming town located on Puerto Rico's northern coast with this comprehensive travel guide. Explore its cultural and natural attractions, food and drink scene, accommodation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/central-west/goias/sao-miguel-do-araguaia/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in São Miguel do Araguaia, Brazil. Learn about the local culture, food scene, and safety tips for a wonderful trip.</description>
 	<pubDate>2024-07-23T18:02:28+03:00</pubDate>
-</item><item>
-	<title>Nikaho Travel Guide (Akita (prefecture)/Tohoku/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/tohoku/akita-prefecture/nikaho/</link>
-	<description>Discover the cultural, natural, and culinary highlights of Nikaho in Tohoku, Japan. Get insider tips on where to go, what to do, and what to eat in this beautiful area.</description>
-	<pubDate>2024-07-23T17:23:06+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
