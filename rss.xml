@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T14:03:07+03:00</pubDate>
-        <lastBuildDate>2024-07-24T14:03:07+03:00</lastBuildDate>
+        <pubDate>2024-07-24T14:26:23+03:00</pubDate>
+        <lastBuildDate>2024-07-24T14:26:23+03:00</lastBuildDate>
 
         <item>
+	<title>Mafraq Travel Guide (Eastern Desert/Jordan/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/jordan/eastern-desert/mafraq/</link>
+	<description>Discover Mafraq, an Eastern Desert city in Jordan, with our comprehensive tour guide. Explore its natural and cultural attractions, hiking/biking routes, must-try food and drink, and more!</description>
+	<pubDate>2024-07-24T14:26:23+03:00</pubDate>
+</item><item>
 	<title>Brad Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/brad/</link>
 	<description>Explore the best of Brad in Transylvania with our comprehensive travel guide, featuring top attractions, where to stay, how to get there, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/poland/lower-silesian-voivodeship/boleslawiec/</link>
 	<description>Plan your trip to Bolesławiec in Lower Silesian Voivodeship, Poland with this comprehensive travel guide. Discover the best places to visit, where to stay, what to eat, and more.</description>
 	<pubDate>2024-07-24T10:00:13+03:00</pubDate>
-</item><item>
-	<title>Parassinikkadavu Travel Guide (Kannur District/Malabar/Kerala/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kannur-district/parassinikkadavu/</link>
-	<description>Discover the best things to do and see in Parassinikkadavu, a beautiful district in Malabar, Kerala. Indulge yourself in its cultural and natural attractions, food and drink scene, accommodations, and nearby destinations in this comprehensive travel guide.</description>
-	<pubDate>2024-07-24T09:15:12+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
