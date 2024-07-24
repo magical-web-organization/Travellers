@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T17:07:11+03:00</pubDate>
-        <lastBuildDate>2024-07-24T17:07:11+03:00</lastBuildDate>
+        <pubDate>2024-07-24T17:42:37+03:00</pubDate>
+        <lastBuildDate>2024-07-24T17:42:37+03:00</lastBuildDate>
 
         <item>
+	<title>Strandzha Travel Guide (Bulgaria/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/bulgaria/strandzha/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and how to get there in this comprehensive guide to Strandzha, Bulgaria's best-kept secret.</description>
+	<pubDate>2024-07-24T17:42:37+03:00</pubDate>
+</item><item>
 	<title>Canal District Travel Guide (Amsterdam/Amstelland/North Holland/Western Netherlands/Netherlands/Benelux/Europe)</title>
 	<link>https://travellers.wiki/en/europe/benelux/netherlands/western-netherlands/north-holland/amstelland/amsterdam/canal-district/</link>
 	<description>Explore Amsterdam's charming Canal District with our comprehensive travel guide. Discover the best attractions, food & drink scene, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/bauchi-state/ganjuwa/</link>
 	<description>Explore the best of Ganjuwa with our comprehensive travel guide: from cultural attractions to natural wonders, local cuisine, accommodations, and transportation logistics.</description>
 	<pubDate>2024-07-24T13:07:45+03:00</pubDate>
-</item><item>
-	<title>Chinandega Travel Guide (Northern Pacific Coast/Nicaragua/Central America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/central-america/nicaragua/northern-pacific-coast/chinandega/</link>
-	<description>Planning a trip to Chinandega, Nicaragua? This comprehensive travel guide covers everything you need to know from places to visit, food and drink, where to stay, local culture, and much more!</description>
-	<pubDate>2024-07-24T12:44:18+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
