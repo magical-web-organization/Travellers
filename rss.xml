@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T01:35:14+03:00</pubDate>
-        <lastBuildDate>2024-07-25T01:35:14+03:00</lastBuildDate>
+        <pubDate>2024-07-25T02:26:24+03:00</pubDate>
+        <lastBuildDate>2024-07-25T02:26:24+03:00</lastBuildDate>
 
         <item>
+	<title>Lamu Travel Guide (Coastal Kenya/Kenya/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/kenya/coastal-kenya/lamu/</link>
+	<description>Explore the culturally rich Lamu in Kenya with this comprehensive guide featuring top attractions, food and drink scene, where to stay, safety tips, and more.</description>
+	<pubDate>2024-07-25T02:26:24+03:00</pubDate>
+</item><item>
 	<title>Gillingham Travel Guide (Dorset/West Country/England/United Kingdom/Britain and Ireland/Europe)</title>
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/dorset/gillingham/</link>
 	<description>Plan your trip to Gillingham, Dorset with this comprehensive travel guide that includes information on places to visit, things to do, where to stay, local culture and customs, safety and health, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/scotland/central-belt/the-lothians/edinburgh/south/</link>
 	<description>Explore the best of South in Edinburgh with our comprehensive travel guide. Discover must-visit places, activities, hiking routes, best time to visit, where to stay, and more.</description>
 	<pubDate>2024-07-24T21:56:19+03:00</pubDate>
-</item><item>
-	<title>Milnerton Travel Guide (Blaauwberg Coast/Cape Peninsula/Western Cape/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/western-cape/cape-peninsula/blaauwberg-coast/milnerton/</link>
-	<description>Read our ultimate tour guide for Milnerton, South Africa. Discover its attractions, things to do, food scene and more.</description>
-	<pubDate>2024-07-24T21:04:25+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
