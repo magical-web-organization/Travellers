@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T18:07:44+03:00</pubDate>
-        <lastBuildDate>2024-07-24T18:07:44+03:00</lastBuildDate>
+        <pubDate>2024-07-24T18:40:11+03:00</pubDate>
+        <lastBuildDate>2024-07-24T18:40:11+03:00</lastBuildDate>
 
         <item>
+	<title>Bridgeport Travel Guide (Cross Timbers/Prairies and Lakes/Texas/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/cross-timbers/bridgeport/</link>
+	<description>Plan your trip to Bridgeport, Texas with this comprehensive travel guide featuring must-visit attractions, hiking routes, food and drink scene, safety tips, and transportation options.</description>
+	<pubDate>2024-07-24T18:40:11+03:00</pubDate>
+</item><item>
 	<title>Minami-Uonuma Travel Guide (Niigata (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/niigata-prefecture/minami-uonuma/</link>
 	<description>This travel guide provides tourists with all the necessary information they need including places to visit, local culture and customs, food and drink scene, and transportation options in Minami-Uonuma.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/middle-east/jordan/eastern-desert/mafraq/</link>
 	<description>Discover Mafraq, an Eastern Desert city in Jordan, with our comprehensive tour guide. Explore its natural and cultural attractions, hiking/biking routes, must-try food and drink, and more!</description>
 	<pubDate>2024-07-24T14:26:23+03:00</pubDate>
-</item><item>
-	<title>Brad Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/brad/</link>
-	<description>Explore the best of Brad in Transylvania with our comprehensive travel guide, featuring top attractions, where to stay, how to get there, and more.</description>
-	<pubDate>2024-07-24T14:03:07+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
