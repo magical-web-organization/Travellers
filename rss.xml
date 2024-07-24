@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T08:24:39+03:00</pubDate>
-        <lastBuildDate>2024-07-24T08:24:39+03:00</lastBuildDate>
+        <pubDate>2024-07-24T09:02:15+03:00</pubDate>
+        <lastBuildDate>2024-07-24T09:02:15+03:00</lastBuildDate>
 
         <item>
+	<title>Surin Travel Guide (Southern Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/southern-isaan/surin/</link>
+	<description>Plan your trip to Surin with our comprehensive travel guide that covers places to visit, hiking routes, best things to do, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-07-24T09:02:15+03:00</pubDate>
+</item><item>
 	<title>Coldfoot Travel Guide (Arctic Alaska/Alaska/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/coldfoot/</link>
 	<description>Discover the best places to visit, things to do, and where to eat, stay, and shop in Coldfoot, Alaska, with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/south-korea/north-gyeongsang/gyeongju/</link>
 	<description>Discover the culturally rich and historically significant city of Gyeongju in South Korea. From ancient tombs to outdoor adventures, this comprehensive guide has everything you need to plan your trip, including top things to see and do, where to stay, and what to eat.</description>
 	<pubDate>2024-07-24T04:21:30+03:00</pubDate>
-</item><item>
-	<title>Cape Sata Travel Guide (Kagoshima (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/kagoshima-prefecture/cape-sata/</link>
-	<description>Plan your trip to Cape Sata in Kagoshima, Japan with our comprehensive travel guide. Discover top attractions, hiking/biking routes, food, accommodations, local customs and more!</description>
-	<pubDate>2024-07-24T03:35:29+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
