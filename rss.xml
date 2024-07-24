@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T10:11:03+03:00</pubDate>
-        <lastBuildDate>2024-07-24T10:11:03+03:00</lastBuildDate>
+        <pubDate>2024-07-24T10:49:31+03:00</pubDate>
+        <lastBuildDate>2024-07-24T10:49:31+03:00</lastBuildDate>
 
         <item>
+	<title>Cavendish Travel Guide (Prince Edward Island/Atlantic Canada/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/atlantic-canada/prince-edward-island/cavendish/</link>
+	<description>Discover the beauty of Cavendish with this comprehensive travel guide. From natural attractions to cultural landmarks, hiking and biking routes, food and drink scene, and safety tips, plan your perfect trip to this charming town.</description>
+	<pubDate>2024-07-24T10:49:31+03:00</pubDate>
+</item><item>
 	<title>Bergen Travel Guide (Hordaland/Western Norway/Norway/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/norway/western-norway/hordaland/bergen/</link>
 	<description>Plan your perfect trip to Bergen with our comprehensive travel guide. Discover the top attractions, best hiking/biking routes, must-try dishes, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/germany/schleswig-holstein/north-sea-coast/busum/</link>
 	<description>Plan your trip to Büsum with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and local culture in this North Sea Coast town.</description>
 	<pubDate>2024-07-24T06:11:43+03:00</pubDate>
-</item><item>
-	<title>Bacolod Travel Guide (Negros Occidental/Negros/Visayas/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/visayas/negros/negros-occidental/bacolod/</link>
-	<description>Explore Bacolod in Negros Occidental, Philippines. Learn about the must-see attractions, the food and drink scene, the local culture and customs, and more in this comprehensive travel guide.</description>
-	<pubDate>2024-07-24T05:50:04+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
