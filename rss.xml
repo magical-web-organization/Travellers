@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T07:48:36+03:00</pubDate>
-        <lastBuildDate>2024-07-24T07:48:36+03:00</lastBuildDate>
+        <pubDate>2024-07-24T08:24:39+03:00</pubDate>
+        <lastBuildDate>2024-07-24T08:24:39+03:00</lastBuildDate>
 
         <item>
+	<title>Coldfoot Travel Guide (Arctic Alaska/Alaska/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/alaska/arctic-alaska/coldfoot/</link>
+	<description>Discover the best places to visit, things to do, and where to eat, stay, and shop in Coldfoot, Alaska, with this comprehensive travel guide.</description>
+	<pubDate>2024-07-24T08:24:39+03:00</pubDate>
+</item><item>
 	<title>National Park of American Samoa Travel Guide (American Samoa/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/american-samoa/national-park-of-american-samoa/</link>
 	<description>Discover the best places to visit, things to do, local culture and customs, food and drink scene, safety and health, how to get there, and more in National Park of American Samoa.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/kagoshima-prefecture/cape-sata/</link>
 	<description>Plan your trip to Cape Sata in Kagoshima, Japan with our comprehensive travel guide. Discover top attractions, hiking/biking routes, food, accommodations, local customs and more!</description>
 	<pubDate>2024-07-24T03:35:29+03:00</pubDate>
-</item><item>
-	<title>Galaxidi Travel Guide (Phocis/Central Greece/Greece/Europe)</title>
-	<link>https://travellers.wiki/en/europe/greece/central-greece/phocis/galaxidi/</link>
-	<description>Plan your trip to Galaxidi with this comprehensive travel guide that covers top attractions, best places to stay, food and drink scene, local culture and customs, safety and health, transportation options, and nearby destinations.</description>
-	<pubDate>2024-07-24T03:08:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
