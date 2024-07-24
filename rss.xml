@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T20:29:58+03:00</pubDate>
-        <lastBuildDate>2024-07-24T20:29:58+03:00</lastBuildDate>
+        <pubDate>2024-07-24T20:43:14+03:00</pubDate>
+        <lastBuildDate>2024-07-24T20:43:14+03:00</lastBuildDate>
 
         <item>
+	<title>Ste. Genevieve Travel Guide (Southeast Missouri/Missouri/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/missouri/southeast-missouri/ste-genevieve/</link>
+	<description>Discover the rich history and natural wonders of Ste. Genevieve with this comprehensive tour guide. From cultural attractions, outdoor adventures, and local cuisine to transportation and safety tips, we've got you covered.</description>
+	<pubDate>2024-07-24T20:43:14+03:00</pubDate>
+</item><item>
 	<title>Singalila National Park Travel Guide (Darjeeling Hills/West Bengal/Eastern India/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/west-bengal/darjeeling-hills/singalila-national-park/</link>
 	<description>Discover the beauty of Singalila National Park in West Bengal, India with this comprehensive travel guide. Learn about the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/massachusetts/cape-cod/lower-cape/chatham/</link>
 	<description>Plan your dream trip to Chatham, Massachusetts with our ultimate travel guide! Discover the best places to visit, things to do, where to stay, what to eat, and much more!</description>
 	<pubDate>2024-07-24T16:14:03+03:00</pubDate>
-</item><item>
-	<title>Gramsh Travel Guide (Southeastern Albania/Albania/Balkans/Europe)</title>
-	<link>https://travellers.wiki/en/europe/balkans/albania/southeastern-albania/gramsh/</link>
-	<description>Explore the hidden gems of Southeastern Albania with this comprehensive guide to Gramsh. Discover culturally important attractions, natural wonders, hiking and biking routes, activities and tours, food and drink scene, where to stay, local culture and customs, and much more.</description>
-	<pubDate>2024-07-24T15:39:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
