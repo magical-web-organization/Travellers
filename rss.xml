@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T13:07:45+03:00</pubDate>
-        <lastBuildDate>2024-07-24T13:07:45+03:00</lastBuildDate>
+        <pubDate>2024-07-24T14:03:07+03:00</pubDate>
+        <lastBuildDate>2024-07-24T14:03:07+03:00</lastBuildDate>
 
         <item>
+	<title>Brad Travel Guide (Hunedoara County/Transylvania/Romania/Balkans/Europe)</title>
+	<link>https://travellers.wiki/en/europe/balkans/romania/transylvania/hunedoara-county/brad/</link>
+	<description>Explore the best of Brad in Transylvania with our comprehensive travel guide, featuring top attractions, where to stay, how to get there, and more.</description>
+	<pubDate>2024-07-24T14:03:07+03:00</pubDate>
+</item><item>
 	<title>Ganjuwa Travel Guide (Bauchi State/North East Nigeria/Nigeria/West Africa/Africa)</title>
 	<link>https://travellers.wiki/en/africa/west-africa/nigeria/north-east-nigeria/bauchi-state/ganjuwa/</link>
 	<description>Explore the best of Ganjuwa with our comprehensive travel guide: from cultural attractions to natural wonders, local cuisine, accommodations, and transportation logistics.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/kerala/malabar/kannur-district/parassinikkadavu/</link>
 	<description>Discover the best things to do and see in Parassinikkadavu, a beautiful district in Malabar, Kerala. Indulge yourself in its cultural and natural attractions, food and drink scene, accommodations, and nearby destinations in this comprehensive travel guide.</description>
 	<pubDate>2024-07-24T09:15:12+03:00</pubDate>
-</item><item>
-	<title>Surin Travel Guide (Southern Isaan/Isaan/Thailand/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/isaan/southern-isaan/surin/</link>
-	<description>Plan your trip to Surin with our comprehensive travel guide that covers places to visit, hiking routes, best things to do, food and drink scene, where to stay, and more.</description>
-	<pubDate>2024-07-24T09:02:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
