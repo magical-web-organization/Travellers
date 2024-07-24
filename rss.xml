@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-24T11:05:26+03:00</pubDate>
-        <lastBuildDate>2024-07-24T11:05:26+03:00</lastBuildDate>
+        <pubDate>2024-07-24T11:51:41+03:00</pubDate>
+        <lastBuildDate>2024-07-24T11:51:41+03:00</lastBuildDate>
 
         <item>
+	<title>Cyangugu Travel Guide (Rwanda/East Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/east-africa/rwanda/cyangugu/</link>
+	<description>Discover the top things to do and see in Cyangugu, Rwanda with our comprehensive travel guide. From hiking routes to local cuisine to nearby excursions, we've got you covered.</description>
+	<pubDate>2024-07-24T11:51:41+03:00</pubDate>
+</item><item>
 	<title>Grasslands National Park Travel Guide (Southwestern Saskatchewan/Saskatchewan/Prairies/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/prairies/saskatchewan/southwestern-saskatchewan/grasslands-national-park/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and how to get around in Grasslands National Park with our comprehensive tour guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sumatra/west-sumatra/padang/</link>
 	<description>Discover the best places to visit, food to try, cultural customs, safety tips, and transportation options in Padang, Indonesia. Plan your next adventure with our comprehensive guide.</description>
 	<pubDate>2024-07-24T07:29:45+03:00</pubDate>
-</item><item>
-	<title>Taganrog Travel Guide (Rostov Oblast/Southern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/southern-russia/rostov-oblast/taganrog/</link>
-	<description>Plan your trip and explore the rich heritage and natural beauty of southern Russia with our comprehensive tour guide to the city of Taganrog.</description>
-	<pubDate>2024-07-24T06:33:57+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
