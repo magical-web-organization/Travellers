@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T01:50:19+03:00</pubDate>
-        <lastBuildDate>2024-07-26T01:50:19+03:00</lastBuildDate>
+        <pubDate>2024-07-26T02:14:19+03:00</pubDate>
+        <lastBuildDate>2024-07-26T02:14:19+03:00</lastBuildDate>
 
         <item>
+	<title>Koraput Travel Guide (South Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/south-odisha/koraput/</link>
+	<description>Plan an unforgettable trip to Koraput with our comprehensive guide, including the best places to visit, things to do, where to stay, and more!</description>
+	<pubDate>2024-07-26T02:14:19+03:00</pubDate>
+</item><item>
 	<title>Sleeping Bear Dunes National Lakeshore Travel Guide (Grand Traverse Bay Area/Northern Michigan/Michigan/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/michigan/northern-michigan/grand-traverse-bay-area/sleeping-bear-dunes-national-lakeshore/</link>
 	<description>Discover the beauty of Sleeping Bear Dunes National Lakeshore with our comprehensive tour guide. Explore its natural and cultural attractions, learn about the best things to do and places to stay, and plan your perfect trip!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/quebec/north-shore/le-golfe-du-saint-laurent/</link>
 	<description>Discover the beauty of Le Golfe-du-Saint-Laurent in Quebec, Canada. From cultural and natural attractions to hiking and biking routes, this travel guide will help you plan your trip and make the most of your visit.</description>
 	<pubDate>2024-07-25T21:47:13+03:00</pubDate>
-</item><item>
-	<title>Marakele National Park Travel Guide (Limpopo/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/limpopo/marakele-national-park/</link>
-	<description>Plan your trip to Marakele National Park with this comprehensive guide featuring natural attractions, hiking routes, local culture, and more.</description>
-	<pubDate>2024-07-25T21:09:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
