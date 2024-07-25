@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T22:26:05+03:00</pubDate>
-        <lastBuildDate>2024-07-25T22:26:05+03:00</lastBuildDate>
+        <pubDate>2024-07-25T22:50:26+03:00</pubDate>
+        <lastBuildDate>2024-07-25T22:50:26+03:00</lastBuildDate>
 
         <item>
+	<title>Machala Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
+	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/machala/</link>
+	<description>Plan your trip to Machala with this comprehensive travel guide, including a list of places to visit, hiking and biking routes, food and drink scene, where to stay, and more.</description>
+	<pubDate>2024-07-25T22:50:26+03:00</pubDate>
+</item><item>
 	<title>Yame Travel Guide (Fukuoka (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/fukuoka-prefecture/yame/</link>
 	<description>Discover the culturally rich and naturally beautiful city of Yame in Japan with our comprehensive travel guide, including top attractions, best things to do, food and drink scene, where to stay, local culture, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/west-coast/finland-proper/laitila/</link>
 	<description>Explore the best places to visit, things to do, and insider tips in Laitila, Finland with our comprehensive travel guide. From natural wonders to cultural attractions, we've got you covered.</description>
 	<pubDate>2024-07-25T18:22:14+03:00</pubDate>
-</item><item>
-	<title>Wentworth Travel Guide (Lower Darling/Outback New South Wales/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/outback-new-south-wales/lower-darling/wentworth/</link>
-	<description>Discover the best places to visit, top things to do, where to stay, what to eat, and how to get around in Wentworth, New South Wales, Australia.</description>
-	<pubDate>2024-07-25T17:33:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
