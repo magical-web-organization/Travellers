@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T12:15:17+03:00</pubDate>
-        <lastBuildDate>2024-07-25T12:15:17+03:00</lastBuildDate>
+        <pubDate>2024-07-25T12:53:11+03:00</pubDate>
+        <lastBuildDate>2024-07-25T12:53:11+03:00</lastBuildDate>
 
         <item>
+	<title>Door County Travel Guide (Northeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northeast-wisconsin/door-county/</link>
+	<description>Discover all the must-see attractions, best things to do, top places to stay, and local culture and customs in Door County - the beautiful county in Northeast Wisconsin, US.</description>
+	<pubDate>2024-07-25T12:53:11+03:00</pubDate>
+</item><item>
 	<title>Durham Travel Guide (Research Triangle/Piedmont/North Carolina/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/north-carolina/piedmont/research-triangle/durham/</link>
 	<description>Explore Durham, North Carolina - a travel guide with attractions, hiking/biking routes, things to do, food and drink scene, where to stay, local culture, safety and health tips, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/isle-of-wight/ryde/</link>
 	<description>Explore the stunning natural attractions, cultural landmarks, local food and drink scene, and welcoming people of Ryde in this ultimate travel guide.</description>
 	<pubDate>2024-07-25T08:10:31+03:00</pubDate>
-</item><item>
-	<title>Atacames Travel Guide (Coastal Lowlands/Ecuador/South America)</title>
-	<link>https://travellers.wiki/en/south-america/ecuador/coastal-lowlands/atacames/</link>
-	<description>A comprehensive guide to Atacames, Ecuador, including places to visit, hiking/biking routes, food and drink, where to stay, local culture, safety tips, transportation options, and nearby destinations.</description>
-	<pubDate>2024-07-25T07:39:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
