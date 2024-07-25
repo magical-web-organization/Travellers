@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T00:58:30+03:00</pubDate>
-        <lastBuildDate>2024-07-26T00:58:30+03:00</lastBuildDate>
+        <pubDate>2024-07-26T01:04:00+03:00</pubDate>
+        <lastBuildDate>2024-07-26T01:04:00+03:00</lastBuildDate>
 
         <item>
+	<title>Highland Park Travel Guide (North Shore/Chicagoland/Illinois/Midwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/illinois/chicagoland/north-shore/highland-park/</link>
+	<description>Explore Highland Park, Illinois with our comprehensive travel guide featuring information on cultural attractions, natural wonders, hiking and biking routes, best things to do, food and drinks, where to stay and local culture and customs.</description>
+	<pubDate>2024-07-26T01:04:00+03:00</pubDate>
+</item><item>
 	<title>North Bay Travel Guide (Near North/Northern Ontario/Ontario/Canada/North America)</title>
 	<link>https://travellers.wiki/en/north-america/canada/ontario/northern-ontario/near-north/north-bay/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture of North Bay, Ontario.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/great-lakes/lake-ontario/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and local culture of Lake Ontario, one of the Great Lakes in North America. Plan your perfect trip with our comprehensive guide.</description>
 	<pubDate>2024-07-25T20:58:36+03:00</pubDate>
-</item><item>
-	<title>Mati Travel Guide (Davao Oriental/Davao Region/Mindanao/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/davao-region/davao-oriental/mati/</link>
-	<description>Discover the vibrant culture and breathtaking scenery of Mati in this travel guide, featuring must-visit attractions, outdoor adventures, food and drink, accommodations, and transportation options.</description>
-	<pubDate>2024-07-25T20:19:40+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
