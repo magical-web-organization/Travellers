@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T19:43:52+03:00</pubDate>
-        <lastBuildDate>2024-07-25T19:43:52+03:00</lastBuildDate>
+        <pubDate>2024-07-25T20:19:40+03:00</pubDate>
+        <lastBuildDate>2024-07-25T20:19:40+03:00</lastBuildDate>
 
         <item>
+	<title>Mati Travel Guide (Davao Oriental/Davao Region/Mindanao/Philippines/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/davao-region/davao-oriental/mati/</link>
+	<description>Discover the vibrant culture and breathtaking scenery of Mati in this travel guide, featuring must-visit attractions, outdoor adventures, food and drink, accommodations, and transportation options.</description>
+	<pubDate>2024-07-25T20:19:40+03:00</pubDate>
+</item><item>
 	<title>Mount Sinai (New York) Travel Guide (Suffolk County (New York)/Long Island/Downstate New York/New York (state)/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/new-york-state/downstate-new-york/long-island/suffolk-county-new-york/mount-sinai-new-york/</link>
 	<description>Plan your next trip to Mount Sinai (New York) with this comprehensive travel guide, including a list of places to visit, hiking and biking routes, where to stay, what to buy, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/forli-cesena/mercato-saraceno/</link>
 	<description>Plan your trip to Mercato Saraceno in Italy with our comprehensive travel guide featuring the best places to visit, where to eat and stay, and useful tips for a safe and enjoyable trip.</description>
 	<pubDate>2024-07-25T15:41:02+03:00</pubDate>
-</item><item>
-	<title>Caldera Travel Guide (Northern Chile/Chile/South America)</title>
-	<link>https://travellers.wiki/en/south-america/chile/northern-chile/caldera/</link>
-	<description>Plan your trip to Caldera, Chile with this comprehensive tour guide featuring the best things to do, places to visit, and tips for safety and health.</description>
-	<pubDate>2024-07-25T15:28:35+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
