@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T12:53:11+03:00</pubDate>
-        <lastBuildDate>2024-07-25T12:53:11+03:00</lastBuildDate>
+        <pubDate>2024-07-25T13:14:46+03:00</pubDate>
+        <lastBuildDate>2024-07-25T13:14:46+03:00</lastBuildDate>
 
         <item>
+	<title>Aranyaprathet Travel Guide (Inner Eastern Thailand/Eastern Thailand/Thailand/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/eastern-thailand/inner-eastern-thailand/aranyaprathet/</link>
+	<description>Discover the top attractions, activities, food, and accommodations of Aranyaprathet with our comprehensive travel guide.</description>
+	<pubDate>2024-07-25T13:14:46+03:00</pubDate>
+</item><item>
 	<title>Door County Travel Guide (Northeast Wisconsin/Wisconsin/Midwest/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/midwest/wisconsin/northeast-wisconsin/door-county/</link>
 	<description>Discover all the must-see attractions, best things to do, top places to stay, and local culture and customs in Door County - the beautiful county in Northeast Wisconsin, US.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/taiwan/northern-taiwan/taipei/old-taipei/</link>
 	<description>Explore the culturally rich and natural attractions of Old Taipei, hike and bike in scenic routes, taste the local cuisine, and learn about local culture and customs in this travel guide.</description>
 	<pubDate>2024-07-25T08:44:35+03:00</pubDate>
-</item><item>
-	<title>Ryde Travel Guide (Isle of Wight/South East England/England/United Kingdom/Britain and Ireland/Europe)</title>
-	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/south-east-england/isle-of-wight/ryde/</link>
-	<description>Explore the stunning natural attractions, cultural landmarks, local food and drink scene, and welcoming people of Ryde in this ultimate travel guide.</description>
-	<pubDate>2024-07-25T08:10:31+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
