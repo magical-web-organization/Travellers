@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T10:18:13+03:00</pubDate>
-        <lastBuildDate>2024-07-25T10:18:13+03:00</lastBuildDate>
+        <pubDate>2024-07-25T10:45:37+03:00</pubDate>
+        <lastBuildDate>2024-07-25T10:45:37+03:00</lastBuildDate>
 
         <item>
+	<title>Kushima Travel Guide (Miyazaki (prefecture)/Kyushu/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kyushu/miyazaki-prefecture/kushima/</link>
+	<description>Plan your next adventure with our comprehensive travel guide to Kushima. Discover the best attractions, activities, accommodations, local cuisine, and customs of this charming city.</description>
+	<pubDate>2024-07-25T10:45:37+03:00</pubDate>
+</item><item>
 	<title>Gainesville Travel Guide (Cross Timbers/Prairies and Lakes/Texas/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/prairies-and-lakes/cross-timbers/gainesville/</link>
 	<description>Discover the best things to do, places to visit, and local culture in Gainesville, Texas. Plan your trip with our comprehensive travel guide for a memorable experience.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/paso-robles/</link>
 	<description>Discover the best things to do, places to visit, and where to stay in Paso Robles, California, in this comprehensive travel guide.</description>
 	<pubDate>2024-07-25T06:29:05+03:00</pubDate>
-</item><item>
-	<title>Bad Kohlgrub Travel Guide (Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/bad-kohlgrub/</link>
-	<description>Everything you need to know before planning a trip to Bad Kohlgrub, Upper Bavaria, about its tourist attractions, culture, accommodation, food, transportation and more. Read on!</description>
-	<pubDate>2024-07-25T06:00:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
