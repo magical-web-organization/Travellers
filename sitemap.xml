@@ -3,6 +3,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+        <loc>https://travellers.wiki/en/north-america/great-lakes/lake-ontario/</loc>
+        <lastmod>2024-07-25T20:58:36+03:00</lastmod>
+    </url>
+    <url>
         <loc>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/davao-region/davao-oriental/mati/</loc>
         <lastmod>2024-07-25T20:19:40+03:00</lastmod>
     </url>

@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T20:19:40+03:00</pubDate>
-        <lastBuildDate>2024-07-25T20:19:40+03:00</lastBuildDate>
+        <pubDate>2024-07-25T20:58:36+03:00</pubDate>
+        <lastBuildDate>2024-07-25T20:58:36+03:00</lastBuildDate>
 
         <item>
+	<title>Lake Ontario Travel Guide (Great Lakes/North America)</title>
+	<link>https://travellers.wiki/en/north-america/great-lakes/lake-ontario/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and local culture of Lake Ontario, one of the Great Lakes in North America. Plan your perfect trip with our comprehensive guide.</description>
+	<pubDate>2024-07-25T20:58:36+03:00</pubDate>
+</item><item>
 	<title>Mati Travel Guide (Davao Oriental/Davao Region/Mindanao/Philippines/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/mindanao/davao-region/davao-oriental/mati/</link>
 	<description>Discover the vibrant culture and breathtaking scenery of Mati in this travel guide, featuring must-visit attractions, outdoor adventures, food and drink, accommodations, and transportation options.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/china/north-china/inner-mongolia/western-inner-mongolia/baotou/</link>
 	<description>Plan your trip to Baotou with our comprehensive travel guide, including top attractions, hiking/biking routes, where to stay, what to eat, cultural customs, safety tips, transportation options, and nearby destinations.</description>
 	<pubDate>2024-07-25T16:27:49+03:00</pubDate>
-</item><item>
-	<title>Mercato Saraceno Travel Guide (Forlì-Cesena/Emilia-Romagna/Northeast Italy/Italy/Europe)</title>
-	<link>https://travellers.wiki/en/europe/italy/northeast-italy/emilia-romagna/forli-cesena/mercato-saraceno/</link>
-	<description>Plan your trip to Mercato Saraceno in Italy with our comprehensive travel guide featuring the best places to visit, where to eat and stay, and useful tips for a safe and enjoyable trip.</description>
-	<pubDate>2024-07-25T15:41:02+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
