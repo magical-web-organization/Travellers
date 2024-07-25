@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-25T06:00:30+03:00</pubDate>
-        <lastBuildDate>2024-07-25T06:00:30+03:00</lastBuildDate>
+        <pubDate>2024-07-25T06:29:05+03:00</pubDate>
+        <lastBuildDate>2024-07-25T06:29:05+03:00</lastBuildDate>
 
         <item>
+	<title>Paso Robles Travel Guide (San Luis Obispo County/Central Coast/California/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/california/central-coast/san-luis-obispo-county/paso-robles/</link>
+	<description>Discover the best things to do, places to visit, and where to stay in Paso Robles, California, in this comprehensive travel guide.</description>
+	<pubDate>2024-07-25T06:29:05+03:00</pubDate>
+</item><item>
 	<title>Bad Kohlgrub Travel Guide (Upper Bavaria/Bavaria/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/bavaria/upper-bavaria/bad-kohlgrub/</link>
 	<description>Everything you need to know before planning a trip to Bad Kohlgrub, Upper Bavaria, about its tourist attractions, culture, accommodation, food, transportation and more. Read on!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/west-country/dorset/gillingham/</link>
 	<description>Plan your trip to Gillingham, Dorset with this comprehensive travel guide that includes information on places to visit, things to do, where to stay, local culture and customs, safety and health, and transportation options.</description>
 	<pubDate>2024-07-25T01:35:14+03:00</pubDate>
-</item><item>
-	<title>Southeast Travel Guide (Manila/Metro Manila/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/metro-manila/manila/southeast/</link>
-	<description>Discover the top attractions, food scene, accommodations, cultural customs, safety tips, and transportation options of Southeast, Manila.</description>
-	<pubDate>2024-07-25T01:23:54+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
