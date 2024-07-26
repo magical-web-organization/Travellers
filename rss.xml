@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T08:18:15+03:00</pubDate>
-        <lastBuildDate>2024-07-26T08:18:15+03:00</lastBuildDate>
+        <pubDate>2024-07-26T08:51:38+03:00</pubDate>
+        <lastBuildDate>2024-07-26T08:51:38+03:00</lastBuildDate>
 
         <item>
+	<title>Thanh Hoa Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/thanh-hoa/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Thanh Hoa, Vietnam. Plan your trip with this detailed travel guide.</description>
+	<pubDate>2024-07-26T08:51:38+03:00</pubDate>
+</item><item>
 	<title>Robertson Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/robertson/</link>
 	<description>Plan your trip to Robertson, New South Wales with our comprehensive travel guide. Explore the town's natural wonders, cultural attractions, food and drink scene, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/romania/muntenia/wallachian-plain/slobozia/</link>
 	<description>Discover the best places to visit, things to do, food and drink scene, and local culture and customs of Slobozia, Romania in this comprehensive travel guide.</description>
 	<pubDate>2024-07-26T04:22:22+03:00</pubDate>
-</item><item>
-	<title>Mikun Travel Guide (Komi Republic/Northwestern Russia/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/komi-republic/mikun/</link>
-	<description>Plan your trip to Mikun, located in Komi Republic, Northwestern Russia, and explore its culturally important attractions, natural wonders, hiking/biking routes, delicious local cuisine, accommodation options, and nearby destinations.</description>
-	<pubDate>2024-07-26T03:57:11+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
