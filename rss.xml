@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T07:43:06+03:00</pubDate>
-        <lastBuildDate>2024-07-26T07:43:06+03:00</lastBuildDate>
+        <pubDate>2024-07-26T08:18:15+03:00</pubDate>
+        <lastBuildDate>2024-07-26T08:18:15+03:00</lastBuildDate>
 
         <item>
+	<title>Robertson Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/robertson/</link>
+	<description>Plan your trip to Robertson, New South Wales with our comprehensive travel guide. Explore the town's natural wonders, cultural attractions, food and drink scene, and more.</description>
+	<pubDate>2024-07-26T08:18:15+03:00</pubDate>
+</item><item>
 	<title>Danube Delta Travel Guide (Northern Dobruja/Romania/Balkans/Europe)</title>
 	<link>https://travellers.wiki/en/europe/balkans/romania/northern-dobruja/danube-delta/</link>
 	<description>Plan your visit to Danube Delta, a beautiful natural wonder in Romania. Learn about its top attractions, outdoor adventures, hiking/biking routes, food and drink scene, where to stay, dos and don'ts, safety, transportation options, and nearby destinations.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/northwestern-russia/komi-republic/mikun/</link>
 	<description>Plan your trip to Mikun, located in Komi Republic, Northwestern Russia, and explore its culturally important attractions, natural wonders, hiking/biking routes, delicious local cuisine, accommodation options, and nearby destinations.</description>
 	<pubDate>2024-07-26T03:57:11+03:00</pubDate>
-</item><item>
-	<title>Chapecó Travel Guide (West/Santa Catarina/South/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/south/santa-catarina/west/chapeco/</link>
-	<description>Explore the must-see attractions, food and drink scene, hiking and biking routes, local culture, safety and health, transportation options, and nearby destinations of Chapecó, Brazil, in this comprehensive travel guide.</description>
-	<pubDate>2024-07-26T03:22:34+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
