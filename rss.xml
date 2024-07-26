@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T13:44:14+03:00</pubDate>
-        <lastBuildDate>2024-07-26T13:44:14+03:00</lastBuildDate>
+        <pubDate>2024-07-26T14:32:10+03:00</pubDate>
+        <lastBuildDate>2024-07-26T14:32:10+03:00</lastBuildDate>
 
         <item>
+	<title>Tangkak Travel Guide (Johor/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/johor/tangkak/</link>
+	<description>Explore the culturally rich and scenic Tangkak with this comprehensive travel guide featuring the best places to visit, things to do, and where to eat and stay.</description>
+	<pubDate>2024-07-26T14:32:10+03:00</pubDate>
+</item><item>
 	<title>Kőszeg Travel Guide (Vas County/Western Transdanubia/Hungary/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/western-transdanubia/vas-county/koszeg/</link>
 	<description>Discover the best things to do, places to stay, and local culture of Kőszeg with this comprehensive travel guide -safety and transportation options included.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/settler-country/hogsback/</link>
 	<description>Discover the natural beauty, cultural attractions, hiking & biking routes, food and drink scene, and much more in this comprehensive travel guide to Hogsback, South Africa.</description>
 	<pubDate>2024-07-26T09:39:36+03:00</pubDate>
-</item><item>
-	<title>Tatebayashi Travel Guide (Gunma/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/gunma/tatebayashi/</link>
-	<description>Explore the culturally and naturally rich city of Tatebayashi, Japan through this all-inclusive travel guide. Discover the must-visit places, best things to do, local culture and customs, and more.</description>
-	<pubDate>2024-07-26T09:11:46+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
