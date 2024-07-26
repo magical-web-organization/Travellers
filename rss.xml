@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T17:52:07+03:00</pubDate>
-        <lastBuildDate>2024-07-26T17:52:07+03:00</lastBuildDate>
+        <pubDate>2024-07-26T18:24:09+03:00</pubDate>
+        <lastBuildDate>2024-07-26T18:24:09+03:00</lastBuildDate>
 
         <item>
+	<title>Flint Travel Guide (Clwyd/North Wales/Wales/United Kingdom/Britain and Ireland/Europe)</title>
+	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/wales/north-wales/clwyd/flint/</link>
+	<description>Explore the stunning natural wonders, rich history, and vibrant local culture of Flint in North Wales, with this comprehensive travel guide.</description>
+	<pubDate>2024-07-26T18:24:09+03:00</pubDate>
+</item><item>
 	<title>Damoh Travel Guide (Jabalpur-Sagar Division/Madhya Pradesh/Plains/India/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/jabalpur-sagar-division/damoh/</link>
 	<description>Discover the best things to see, do, and eat in Damoh, India with our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/central-europe/hungary/western-transdanubia/vas-county/koszeg/</link>
 	<description>Discover the best things to do, places to stay, and local culture of Kőszeg with this comprehensive travel guide -safety and transportation options included.</description>
 	<pubDate>2024-07-26T13:44:14+03:00</pubDate>
-</item><item>
-	<title>Saint-Lambert Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/saint-lambert/</link>
-	<description>Plan your trip to Saint-Lambert with our comprehensive travel guide, featuring the best things to do, places to stay, and local culture and customs.</description>
-	<pubDate>2024-07-26T13:10:05+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
