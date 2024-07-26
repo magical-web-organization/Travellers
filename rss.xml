@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T10:06:28+03:00</pubDate>
-        <lastBuildDate>2024-07-26T10:06:28+03:00</lastBuildDate>
+        <pubDate>2024-07-26T10:54:44+03:00</pubDate>
+        <lastBuildDate>2024-07-26T10:54:44+03:00</lastBuildDate>
 
         <item>
+	<title>Izu Ōshima Travel Guide (Izu Islands/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/izu-islands/izu-oshima/</link>
+	<description>Discover Izu Ōshima, a hidden gem of Tokyo's Izu Islands. This comprehensive travel guide covers everything you need to know to plan your trip, from culturally important attractions to outdoor adventures and the best places to stay and eat.</description>
+	<pubDate>2024-07-26T10:54:44+03:00</pubDate>
+</item><item>
 	<title>Takaoka Travel Guide (Toyama (prefecture)/Chubu/Japan/East Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/toyama-prefecture/takaoka/</link>
 	<description>Travel to Takaoka in Toyama and discover the best things to do, see, eat, and buy with this comprehensive guide. Explore cultural attractions, outdoor adventure spots, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/southwest/new-mexico/northeast-new-mexico/san-jon/</link>
 	<description>Plan your trip to San Jon with our comprehensive guide featuring popular attractions, best things to do, where to stay, local cuisine, and travel tips.</description>
 	<pubDate>2024-07-26T06:16:02+03:00</pubDate>
-</item><item>
-	<title>Bayham Travel Guide (Lake Erie Shore/Southwestern Ontario/Ontario/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/ontario/southwestern-ontario/lake-erie-shore/bayham/</link>
-	<description>Bayham is a beautiful town located in Southwestern Ontario. This travel guide provides a comprehensive overview of all the must-visit places, activities, food, and culture in the town.</description>
-	<pubDate>2024-07-26T06:03:17+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
