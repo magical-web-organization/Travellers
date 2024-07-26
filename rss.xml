@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T11:15:31+03:00</pubDate>
-        <lastBuildDate>2024-07-26T11:15:31+03:00</lastBuildDate>
+        <pubDate>2024-07-26T11:57:26+03:00</pubDate>
+        <lastBuildDate>2024-07-26T11:57:26+03:00</lastBuildDate>
 
         <item>
+	<title>Bantul Travel Guide (Yogyakarta Special Region/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/yogyakarta-special-region/bantul/</link>
+	<description>Discover the best places to visit, things to do, where to stay, what to eat, local culture and customs, and more in Bantul, Indonesia with this comprehensive travel guide.</description>
+	<pubDate>2024-07-26T11:57:26+03:00</pubDate>
+</item><item>
 	<title>Castelldefels Travel Guide (Barcelona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/castelldefels/</link>
 	<description>Plan your perfect trip with this comprehensive tour guide for Castelldefels, Spain. Discover the best attractions, activities, food, and accommodations in this beautiful coastal town.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/chikmagalur-district/kemmannagundi/</link>
 	<description>Plan your trip to Kemmannagundi, a scenic and adventurous hill station in Karnataka, India. Discover cultural attractions, natural wonders, hiking routes, local food, and more.</description>
 	<pubDate>2024-07-26T07:09:41+03:00</pubDate>
-</item><item>
-	<title>Wilkes-Barre Travel Guide (Coal Region/Northeastern Pennsylvania/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/coal-region/wilkes-barre/</link>
-	<description>Plan your trip to Wilkes-Barre with this comprehensive travel guide! Explore the best things to do, where to stay, what to eat, and more.</description>
-	<pubDate>2024-07-26T06:49:14+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
