@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T14:32:10+03:00</pubDate>
-        <lastBuildDate>2024-07-26T14:32:10+03:00</lastBuildDate>
+        <pubDate>2024-07-26T14:40:55+03:00</pubDate>
+        <lastBuildDate>2024-07-26T14:40:55+03:00</lastBuildDate>
 
         <item>
+	<title>Amposta Travel Guide (Tarragona (province)/Catalonia/Eastern Spain/Spain/Iberia/Europe)</title>
+	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/tarragona-province/amposta/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more in Amposta, Catalonia, Spain.</description>
+	<pubDate>2024-07-26T14:40:55+03:00</pubDate>
+</item><item>
 	<title>Tangkak Travel Guide (Johor/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/johor/tangkak/</link>
 	<description>Explore the culturally rich and scenic Tangkak with this comprehensive travel guide featuring the best places to visit, things to do, and where to eat and stay.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/east-asia/japan/chubu/toyama-prefecture/takaoka/</link>
 	<description>Travel to Takaoka in Toyama and discover the best things to do, see, eat, and buy with this comprehensive guide. Explore cultural attractions, outdoor adventure spots, and more.</description>
 	<pubDate>2024-07-26T10:06:28+03:00</pubDate>
-</item><item>
-	<title>Hogsback Travel Guide (Settler Country/Eastern Cape/South Africa/Southern Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/southern-africa/south-africa/eastern-cape/settler-country/hogsback/</link>
-	<description>Discover the natural beauty, cultural attractions, hiking & biking routes, food and drink scene, and much more in this comprehensive travel guide to Hogsback, South Africa.</description>
-	<pubDate>2024-07-26T09:39:36+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
