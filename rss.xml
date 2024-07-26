@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T15:18:29+03:00</pubDate>
-        <lastBuildDate>2024-07-26T15:18:29+03:00</lastBuildDate>
+        <pubDate>2024-07-26T15:47:47+03:00</pubDate>
+        <lastBuildDate>2024-07-26T15:47:47+03:00</lastBuildDate>
 
         <item>
+	<title>Dongara Travel Guide (Mid West/Western Australia/Australia/Oceania)</title>
+	<link>https://travellers.wiki/en/oceania/australia/western-australia/mid-west/dongara/</link>
+	<description>Discover the best tourist attractions, hiking routes, food and drink scene, local culture, safety and health, transportation options, and nearby destinations to explore in Dongara with our comprehensive long-form content travel guide.</description>
+	<pubDate>2024-07-26T15:47:47+03:00</pubDate>
+</item><item>
 	<title>Selma Travel Guide (River Heritage/Alabama/South/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/alabama/river-heritage/selma/</link>
 	<description>Plan your trip to Selma, Alabama with our comprehensive travel guide showcasing the best things to do, places to stay, and local tips on things to eat, see, and experience.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/iberia/spain/eastern-spain/catalonia/barcelona-province/castelldefels/</link>
 	<description>Plan your perfect trip with this comprehensive tour guide for Castelldefels, Spain. Discover the best attractions, activities, food, and accommodations in this beautiful coastal town.</description>
 	<pubDate>2024-07-26T11:15:31+03:00</pubDate>
-</item><item>
-	<title>Izu Ōshima Travel Guide (Izu Islands/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/izu-islands/izu-oshima/</link>
-	<description>Discover Izu Ōshima, a hidden gem of Tokyo's Izu Islands. This comprehensive travel guide covers everything you need to know to plan your trip, from culturally important attractions to outdoor adventures and the best places to stay and eat.</description>
-	<pubDate>2024-07-26T10:54:44+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
