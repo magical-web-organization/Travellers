@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T21:52:41+03:00</pubDate>
-        <lastBuildDate>2024-07-26T21:52:41+03:00</lastBuildDate>
+        <pubDate>2024-07-26T22:17:54+03:00</pubDate>
+        <lastBuildDate>2024-07-26T22:17:54+03:00</lastBuildDate>
 
         <item>
+	<title>Aba Travel Guide (Abia State/South East Nigeria/Nigeria/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/nigeria/south-east-nigeria/abia-state/aba/</link>
+	<description>Discover the best places to visit, food and drink scene, where to stay, and more in Aba, Nigeria, with this comprehensive tour guide.</description>
+	<pubDate>2024-07-26T22:17:54+03:00</pubDate>
+</item><item>
 	<title>Glen Burnie Travel Guide (Central Maryland/Maryland/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/maryland/central-maryland/glen-burnie/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and tips for exploring Glen Burnie, Maryland in this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/south-asia/india/plains/madhya-pradesh/jabalpur-sagar-division/damoh/</link>
 	<description>Discover the best things to see, do, and eat in Damoh, India with our comprehensive travel guide.</description>
 	<pubDate>2024-07-26T17:52:07+03:00</pubDate>
-</item><item>
-	<title>Lakshadweep Travel Guide (Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/lakshadweep/</link>
-	<description>Discover the beautiful Lakshadweep islands in India with our comprehensive travel guide. Discover natural attractions, culturall important sites, and more.</description>
-	<pubDate>2024-07-26T17:24:03+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
