@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T11:57:26+03:00</pubDate>
-        <lastBuildDate>2024-07-26T11:57:26+03:00</lastBuildDate>
+        <pubDate>2024-07-26T12:23:00+03:00</pubDate>
+        <lastBuildDate>2024-07-26T12:23:00+03:00</lastBuildDate>
 
         <item>
+	<title>Kungälv Travel Guide (Bohuslän/Götaland/Sweden/Nordic countries/Europe)</title>
+	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/bohuslan/kungalv/</link>
+	<description>Discover the culturally important attractions, natural attractions, and outdoor adventures for your perfect Kungälv travel experience.</description>
+	<pubDate>2024-07-26T12:23:00+03:00</pubDate>
+</item><item>
 	<title>Bantul Travel Guide (Yogyakarta Special Region/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/yogyakarta-special-region/bantul/</link>
 	<description>Discover the best places to visit, things to do, where to stay, what to eat, local culture and customs, and more in Bantul, Indonesia with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/balkans/romania/northern-dobruja/danube-delta/</link>
 	<description>Plan your visit to Danube Delta, a beautiful natural wonder in Romania. Learn about its top attractions, outdoor adventures, hiking/biking routes, food and drink scene, where to stay, dos and don'ts, safety, transportation options, and nearby destinations.</description>
 	<pubDate>2024-07-26T07:43:06+03:00</pubDate>
-</item><item>
-	<title>Kemmannagundi Travel Guide (Chikmagalur (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/chikmagalur-district/kemmannagundi/</link>
-	<description>Plan your trip to Kemmannagundi, a scenic and adventurous hill station in Karnataka, India. Discover cultural attractions, natural wonders, hiking routes, local food, and more.</description>
-	<pubDate>2024-07-26T07:09:41+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
