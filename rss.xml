@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T16:23:27+03:00</pubDate>
-        <lastBuildDate>2024-07-26T16:23:27+03:00</lastBuildDate>
+        <pubDate>2024-07-26T16:55:13+03:00</pubDate>
+        <lastBuildDate>2024-07-26T16:55:13+03:00</lastBuildDate>
 
         <item>
+	<title>Twante Travel Guide (Southern Myanmar/Myanmar/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/myanmar/southern-myanmar/twante/</link>
+	<description>Planning a trip to Twante? This comprehensive guide provides a list of places to visit, things to do and see, local culture, and more.</description>
+	<pubDate>2024-07-26T16:55:13+03:00</pubDate>
+</item><item>
 	<title>Quirindi Travel Guide (Southern New England/New England/New South Wales/Australia/Oceania)</title>
 	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/new-england/southern-new-england/quirindi/</link>
 	<description>Discover the hidden gems of Quirindi with our comprehensive travel guide. Explore its cultural and natural attractions, hiking and biking routes, local cuisine, and much more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/gotaland/bohuslan/kungalv/</link>
 	<description>Discover the culturally important attractions, natural attractions, and outdoor adventures for your perfect Kungälv travel experience.</description>
 	<pubDate>2024-07-26T12:23:00+03:00</pubDate>
-</item><item>
-	<title>Bantul Travel Guide (Yogyakarta Special Region/Central Java/Java/Indonesia/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/java/central-java/yogyakarta-special-region/bantul/</link>
-	<description>Discover the best places to visit, things to do, where to stay, what to eat, local culture and customs, and more in Bantul, Indonesia with this comprehensive travel guide.</description>
-	<pubDate>2024-07-26T11:57:26+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
