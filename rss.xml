@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T12:44:53+03:00</pubDate>
-        <lastBuildDate>2024-07-26T12:44:53+03:00</lastBuildDate>
+        <pubDate>2024-07-26T13:10:05+03:00</pubDate>
+        <lastBuildDate>2024-07-26T13:10:05+03:00</lastBuildDate>
 
         <item>
+	<title>Saint-Lambert Travel Guide (Montérégie/Southwestern Quebec/Quebec/Canada/North America)</title>
+	<link>https://travellers.wiki/en/north-america/canada/quebec/southwestern-quebec/monteregie/saint-lambert/</link>
+	<description>Plan your trip to Saint-Lambert with our comprehensive travel guide, featuring the best things to do, places to stay, and local culture and customs.</description>
+	<pubDate>2024-07-26T13:10:05+03:00</pubDate>
+</item><item>
 	<title>Alonissos Travel Guide (Sporades Islands/Greek Islands/Greece/Europe)</title>
 	<link>https://travellers.wiki/en/europe/greece/greek-islands/sporades-islands/alonissos/</link>
 	<description>Discover the best places to visit, things to do, and where to stay in Alonissos, Greece. Learn about the local culture, safety and health tips, transportation options, and much more in our comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/thanh-hoa/</link>
 	<description>Discover the best places to visit, things to do, where to stay, and more in Thanh Hoa, Vietnam. Plan your trip with this detailed travel guide.</description>
 	<pubDate>2024-07-26T08:51:38+03:00</pubDate>
-</item><item>
-	<title>Robertson Travel Guide (Southern Highlands/New South Wales/Australia/Oceania)</title>
-	<link>https://travellers.wiki/en/oceania/australia/new-south-wales/southern-highlands/robertson/</link>
-	<description>Plan your trip to Robertson, New South Wales with our comprehensive travel guide. Explore the town's natural wonders, cultural attractions, food and drink scene, and more.</description>
-	<pubDate>2024-07-26T08:18:15+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
