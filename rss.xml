@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-26T06:49:14+03:00</pubDate>
-        <lastBuildDate>2024-07-26T06:49:14+03:00</lastBuildDate>
+        <pubDate>2024-07-26T07:09:41+03:00</pubDate>
+        <lastBuildDate>2024-07-26T07:09:41+03:00</lastBuildDate>
 
         <item>
+	<title>Kemmannagundi Travel Guide (Chikmagalur (district)/Cauvery Basin/Karnataka/Southern India/India/South Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/south-asia/india/southern-india/karnataka/cauvery-basin/chikmagalur-district/kemmannagundi/</link>
+	<description>Plan your trip to Kemmannagundi, a scenic and adventurous hill station in Karnataka, India. Discover cultural attractions, natural wonders, hiking routes, local food, and more.</description>
+	<pubDate>2024-07-26T07:09:41+03:00</pubDate>
+</item><item>
 	<title>Wilkes-Barre Travel Guide (Coal Region/Northeastern Pennsylvania/Pennsylvania/Mid-Atlantic/United States of America/North America)</title>
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/mid-atlantic/pennsylvania/northeastern-pennsylvania/coal-region/wilkes-barre/</link>
 	<description>Plan your trip to Wilkes-Barre with this comprehensive travel guide! Explore the best things to do, where to stay, what to eat, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/south-america/brazil/north/amazonas/presidente-figueiredo/</link>
 	<description>Discover the rich cultural and natural attractions, food and drink scene, accommodations, local culture and customs, safety and health, transportation options, and nearby destinations in Presidente Figueiredo with this comprehensive travel guide.</description>
 	<pubDate>2024-07-26T02:53:41+03:00</pubDate>
-</item><item>
-	<title>Koraput Travel Guide (South Odisha/Odisha/Eastern India/India/South Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/south-asia/india/eastern-india/odisha/south-odisha/koraput/</link>
-	<description>Plan an unforgettable trip to Koraput with our comprehensive guide, including the best places to visit, things to do, where to stay, and more!</description>
-	<pubDate>2024-07-26T02:14:19+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
