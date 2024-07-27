@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-27T21:19:59+03:00</pubDate>
-        <lastBuildDate>2024-07-27T21:19:59+03:00</lastBuildDate>
+        <pubDate>2024-07-27T21:59:25+03:00</pubDate>
+        <lastBuildDate>2024-07-27T21:59:25+03:00</lastBuildDate>
 
         <item>
+	<title>Thirassia Travel Guide (Cyclades/Greek Islands/Greece/Europe)</title>
+	<link>https://travellers.wiki/en/europe/greece/greek-islands/cyclades/thirassia/</link>
+	<description>Discover the best places to visit, things to do, and where to eat and stay in Thirassia, Greece. Plan your perfect itinerary with our comprehensive travel guide.</description>
+	<pubDate>2024-07-27T21:59:25+03:00</pubDate>
+</item><item>
 	<title>Wittenberg Travel Guide (Saxony-Anhalt/Germany/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/germany/saxony-anhalt/wittenberg/</link>
 	<description>Discover the best things to do, places to visit, and local culture in Wittenberg, Germany with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/italy/central-italy/umbria/montefalco/</link>
 	<description>A comprehensive travel guide for Montefalco, Umbria, Italy including attractions, activities, food and drink, accommodations, and transportation options.</description>
 	<pubDate>2024-07-27T17:09:39+03:00</pubDate>
-</item><item>
-	<title>Sandspit Travel Guide (Haida Gwaii/Northern British Columbia/British Columbia/Canada/North America)</title>
-	<link>https://travellers.wiki/en/north-america/canada/british-columbia/northern-british-columbia/haida-gwaii/sandspit/</link>
-	<description>Sandspit, located in Haida Gwaii, Northern BC, is a hidden gem off the beaten path. Our comprehensive guide covers all the must-see places, outdoor adventures, cultural landmarks, food, and transportation options.</description>
-	<pubDate>2024-07-27T16:48:56+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
