@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-27T23:21:51+03:00</pubDate>
-        <lastBuildDate>2024-07-27T23:21:51+03:00</lastBuildDate>
+        <pubDate>2024-07-28T00:02:24+03:00</pubDate>
+        <lastBuildDate>2024-07-28T00:02:24+03:00</lastBuildDate>
 
         <item>
+	<title>Gorom-Gorom Travel Guide (North Burkina Faso/Burkina Faso/West Africa/Africa)</title>
+	<link>https://travellers.wiki/en/africa/west-africa/burkina-faso/north-burkina-faso/gorom-gorom/</link>
+	<description>Explore the vibrant culture and natural beauty of Gorom-Gorom with this comprehensive travel guide. Discover must-see attractions, outdoor adventures, local cuisine, accommodations, and more.</description>
+	<pubDate>2024-07-28T00:02:24+03:00</pubDate>
+</item><item>
 	<title>Sylhet Travel Guide (Northeastern Bangladesh/Bangladesh/South Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/south-asia/bangladesh/northeastern-bangladesh/sylhet/</link>
 	<description>Discover the natural beauty, cultural heritage, and local cuisine of Sylhet, Bangladesh with this comprehensive travel guide.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/greenland/eastern-greenland/</link>
 	<description>Discover the gems of North America with this comprehensive guide to Eastern Greenland. Learn about the must-visit places, hiking/biking routes, local culture and customs, safety, transportation options, and more.</description>
 	<pubDate>2024-07-27T19:32:27+03:00</pubDate>
-</item><item>
-	<title>Limanowa Travel Guide (Małopolskie/Poland/Central Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/central-europe/poland/malopolskie/limanowa/</link>
-	<description>Plan your trip to Limanowa, Poland with our comprehensive travel guide. Discover the top attractions, recommended activities, where to stay, eat and drink, and how to get around in this beautiful destination.</description>
-	<pubDate>2024-07-27T18:41:47+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
