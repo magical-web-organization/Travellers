@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-27T19:49:51+03:00</pubDate>
-        <lastBuildDate>2024-07-27T19:49:51+03:00</lastBuildDate>
+        <pubDate>2024-07-27T20:20:53+03:00</pubDate>
+        <lastBuildDate>2024-07-27T20:20:53+03:00</lastBuildDate>
 
         <item>
+	<title>Crestone Travel Guide (South Central Colorado/Colorado/Rocky Mountains/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/rocky-mountains/colorado/south-central-colorado/crestone/</link>
+	<description>Discover the best places to visit, things to do, where to stay, and more with our comprehensive travel guide to Crestone, Colorado.</description>
+	<pubDate>2024-07-27T20:20:53+03:00</pubDate>
+</item><item>
 	<title>Kampar Travel Guide (Perak/West Coast/Malaysia/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/perak/kampar/</link>
 	<description>Plan your trip to Kampar, Malaysia with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/new-england/new-hampshire/white-mountains/jackson/</link>
 	<description>Explore the charming town of Jackson in White Mountains, New Hampshire with this comprehensive travel guide. Discover the best things to do, where to stay, and how to get around Jackson.</description>
 	<pubDate>2024-07-27T15:45:21+03:00</pubDate>
-</item><item>
-	<title>Oryol Oblast Travel Guide (Chernozemye/Russia/Eastern Europe/Europe)</title>
-	<link>https://travellers.wiki/en/europe/eastern-europe/russia/chernozemye/oryol-oblast/</link>
-	<description>Discover the best places to visit, things to do, local culture, and safety information for your trip to Oryol Oblast, Russia.</description>
-	<pubDate>2024-07-27T15:03:59+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
