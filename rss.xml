@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-27T19:32:27+03:00</pubDate>
-        <lastBuildDate>2024-07-27T19:32:27+03:00</lastBuildDate>
+        <pubDate>2024-07-27T19:49:51+03:00</pubDate>
+        <lastBuildDate>2024-07-27T19:49:51+03:00</lastBuildDate>
 
         <item>
+	<title>Kampar Travel Guide (Perak/West Coast/Malaysia/Southeast Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/southeast-asia/malaysia/west-coast/perak/kampar/</link>
+	<description>Plan your trip to Kampar, Malaysia with our comprehensive travel guide. Discover the best places to visit, things to do, where to stay, and more.</description>
+	<pubDate>2024-07-27T19:49:51+03:00</pubDate>
+</item><item>
 	<title>Eastern Greenland Travel Guide (Greenland/North America)</title>
 	<link>https://travellers.wiki/en/north-america/greenland/eastern-greenland/</link>
 	<description>Discover the gems of North America with this comprehensive guide to Eastern Greenland. Learn about the must-visit places, hiking/biking routes, local culture and customs, safety, transportation options, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/eastern-europe/russia/chernozemye/oryol-oblast/</link>
 	<description>Discover the best places to visit, things to do, local culture, and safety information for your trip to Oryol Oblast, Russia.</description>
 	<pubDate>2024-07-27T15:03:59+03:00</pubDate>
-</item><item>
-	<title>Badou Travel Guide (Togo/West Africa/Africa)</title>
-	<link>https://travellers.wiki/en/africa/west-africa/togo/badou/</link>
-	<description>Plan your trip to Badou, Togo with this comprehensive travel guide. Discover the top attractions, activities, where to stay, and more.</description>
-	<pubDate>2024-07-27T14:36:51+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
