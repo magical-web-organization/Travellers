@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-27T13:07:11+03:00</pubDate>
-        <lastBuildDate>2024-07-27T13:07:11+03:00</lastBuildDate>
+        <pubDate>2024-07-27T13:50:07+03:00</pubDate>
+        <lastBuildDate>2024-07-27T13:50:07+03:00</lastBuildDate>
 
         <item>
+	<title>Aloha Travel Guide (Portland Metropolitan Area/Oregon/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/oregon/portland-metropolitan-area/aloha/</link>
+	<description>Explore the best places to visit, things to do, where to eat, stay, and more in Aloha, Oregon with our comprehensive travel guide.</description>
+	<pubDate>2024-07-27T13:50:07+03:00</pubDate>
+</item><item>
 	<title>Frombork Travel Guide (Warmia-Masuria/Poland/Central Europe/Europe)</title>
 	<link>https://travellers.wiki/en/europe/central-europe/poland/warmia-masuria/frombork/</link>
 	<description>Planning a trip to Frombork? Check out our comprehensive travel guide for tips on where to stay, what to do, and more!</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/south/south-carolina/upcountry-south-carolina/anderson/</link>
 	<description>Get ready for an adventure in Anderson with this comprehensive travel guide that includes the best places to visit, hiking/biking routes, food scene, and more!</description>
 	<pubDate>2024-07-27T09:12:47+03:00</pubDate>
-</item><item>
-	<title>Raqqa Travel Guide (Rojava/Syria/Middle East/Asia)</title>
-	<link>https://travellers.wiki/en/asia/middle-east/syria/rojava/raqqa/</link>
-	<description>Plan your trip to Raqqa, Syria with this comprehensive travel guide. Discover the best places to visit, things to do, food to eat, and where to stay in Raqqa.</description>
-	<pubDate>2024-07-27T08:45:30+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
