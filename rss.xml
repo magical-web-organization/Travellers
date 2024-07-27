@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-27T05:51:45+03:00</pubDate>
-        <lastBuildDate>2024-07-27T05:51:45+03:00</lastBuildDate>
+        <pubDate>2024-07-27T06:18:37+03:00</pubDate>
+        <lastBuildDate>2024-07-27T06:18:37+03:00</lastBuildDate>
 
         <item>
+	<title>Auburn (Washington) Travel Guide (King County/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
+	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/king-county/auburn-washington/</link>
+	<description>Discover the best of Auburn, Washington with this comprehensive tour guide. From natural attractions to local culture and customs, we've got you covered.</description>
+	<pubDate>2024-07-27T06:18:37+03:00</pubDate>
+</item><item>
 	<title>Viborg Travel Guide (East Jutland/Jutland/Denmark/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/denmark/jutland/east-jutland/viborg/</link>
 	<description>Discover what Viborg, Denmark has to offer with this comprehensive travel guide, including a list of places to visit, best things to do, where to stay, and more.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/europe/britain-and-ireland/united-kingdom/england/east-midlands/leicestershire/loughborough/</link>
 	<description>Discover the best things to do and places to visit in Loughborough with our comprehensive travel guide. From culture and history to outdoor adventures and local cuisine, this guide has everything you need to plan your trip.</description>
 	<pubDate>2024-07-27T02:03:02+03:00</pubDate>
-</item><item>
-	<title>Phong Nha-Ke Bang Travel Guide (Central Coast/Vietnam/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/vietnam/central-coast/phong-nha-ke-bang/</link>
-	<description>Discover the natural and cultural attractions, best things to do, food and drinks, where to stay, and transportation options in Phong Nha-Ke Bang, Vietnam with this comprehensive travel guide.</description>
-	<pubDate>2024-07-27T01:05:22+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
