@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-27T10:52:05+03:00</pubDate>
-        <lastBuildDate>2024-07-27T10:52:05+03:00</lastBuildDate>
+        <pubDate>2024-07-27T11:06:14+03:00</pubDate>
+        <lastBuildDate>2024-07-27T11:06:14+03:00</lastBuildDate>
 
         <item>
+	<title>Kemer Travel Guide (Lycia/Mediterranean Turkey/Turkey/Middle East/Asia)</title>
+	<link>https://travellers.wiki/en/asia/middle-east/turkey/mediterranean-turkey/lycia/kemer/</link>
+	<description>Discover everything about Kemer, Turkey, including the best places to visit, food to try, where to stay, safety tips, and more!</description>
+	<pubDate>2024-07-27T11:06:14+03:00</pubDate>
+</item><item>
 	<title>Sattahip Travel Guide (Eastern Gulf Coast/Eastern Thailand/Thailand/Southeast Asia/Asia)</title>
 	<link>https://travellers.wiki/en/asia/southeast-asia/thailand/eastern-thailand/eastern-gulf-coast/sattahip/</link>
 	<description>Explore Sattahip, Thailand with our comprehensive travel guide. Discover the best things to do, places to stay, and local culture and customs of this hidden gem in Eastern Thailand.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/united-states-of-america/texas/piney-woods/deep-east-texas/huntsville/</link>
 	<description>Discover the best things to do, places to stay, and local culture of Huntsville, Texas, with our comprehensive travel guide.</description>
 	<pubDate>2024-07-27T06:52:25+03:00</pubDate>
-</item><item>
-	<title>Auburn (Washington) Travel Guide (King County/Puget Sound/Washington (state)/Pacific Northwest/United States of America/North America)</title>
-	<link>https://travellers.wiki/en/north-america/united-states-of-america/pacific-northwest/washington-state/puget-sound/king-county/auburn-washington/</link>
-	<description>Discover the best of Auburn, Washington with this comprehensive tour guide. From natural attractions to local culture and customs, we've got you covered.</description>
-	<pubDate>2024-07-27T06:18:37+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
