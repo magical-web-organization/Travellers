@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-28T12:43:46+03:00</pubDate>
-        <lastBuildDate>2024-07-28T12:43:46+03:00</lastBuildDate>
+        <pubDate>2024-07-28T13:32:48+03:00</pubDate>
+        <lastBuildDate>2024-07-28T13:32:48+03:00</lastBuildDate>
 
         <item>
+	<title>Shinagawa Travel Guide (Tokyo/Tokyo (prefecture)/Kanto/Japan/East Asia/Asia)</title>
+	<link>https://travellers.wiki/en/asia/east-asia/japan/kanto/tokyo-prefecture/tokyo/shinagawa/</link>
+	<description>Discover the best attractions, activities, food, accommodation, and transportation options, and get insider tips on local culture and customs in Shinagawa, Tokyo.</description>
+	<pubDate>2024-07-28T13:32:48+03:00</pubDate>
+</item><item>
 	<title>Sonkajärvi Travel Guide (North Savonia/Finnish Lakeland/Finland/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/finland/finnish-lakeland/north-savonia/sonkajarvi/</link>
 	<description>Discover the best places to visit, things to do, what to eat, where to stay, and more in the beautiful town of Sonkajärvi, Finland.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/north-america/canada/prairies/alberta/northern-alberta/lakeland/st-paul/</link>
 	<description>Explore the beautiful city of St. Paul in Northern Alberta, Canada, with this comprehensive travel guide. Discover the best attractions, activities, hikes, and more.</description>
 	<pubDate>2024-07-28T08:51:01+03:00</pubDate>
-</item><item>
-	<title>Dourados Travel Guide (Mato Grosso do Sul/Central West/Brazil/South America)</title>
-	<link>https://travellers.wiki/en/south-america/brazil/central-west/mato-grosso-do-sul/dourados/</link>
-	<description>A comprehensive travel guide for Dourados, Brazil. Learn about the best places to visit, things to do, food and drink scene, where to stay, local culture, safety, and transportation options.</description>
-	<pubDate>2024-07-28T08:12:13+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
