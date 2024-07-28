@@ -5,10 +5,15 @@
         <link>https://travellers.wiki</link>
         <description>Travellers.wiki RSS Feed</description>
         <atom:link href="https://travellers.wiki/rss.xml" rel="self" type="application/rss+xml" />
-        <pubDate>2024-07-28T06:22:10+03:00</pubDate>
-        <lastBuildDate>2024-07-28T06:22:10+03:00</lastBuildDate>
+        <pubDate>2024-07-28T06:53:07+03:00</pubDate>
+        <lastBuildDate>2024-07-28T06:53:07+03:00</lastBuildDate>
 
         <item>
+	<title>Soest Travel Guide (South Westphalia/North Rhine-Westphalia/Germany/Central Europe/Europe)</title>
+	<link>https://travellers.wiki/en/europe/central-europe/germany/north-rhine-westphalia/south-westphalia/soest/</link>
+	<description>Discover the top attractions, activities, food & drink options, and transportation options of Soest, Germany. Plan your perfect trip with our guide.</description>
+	<pubDate>2024-07-28T06:53:07+03:00</pubDate>
+</item><item>
 	<title>Bergslagen Travel Guide (Svealand/Sweden/Nordic countries/Europe)</title>
 	<link>https://travellers.wiki/en/europe/nordic-countries/sweden/svealand/bergslagen/</link>
 	<description>Discover the picturesque Bergslagen region in Sweden with our comprehensive travel guide. From natural attractions to cultural landmarks, food and drink recommendations to top hotels and transportation advice, we have everything you need to plan your perfect trip.</description>
@@ -53,11 +58,6 @@
 	<link>https://travellers.wiki/en/asia/southeast-asia/indonesia/sulawesi/northern-sulawesi/bitung/</link>
 	<description>Read on for a comprehensive guide on Bitung, Northern Sulawesi, including top places to visit, best things to do, hiking routes, food and drink scene, where to stay and much more.</description>
 	<pubDate>2024-07-28T02:16:18+03:00</pubDate>
-</item><item>
-	<title>San Jose del Monte Travel Guide (Bulacan/Central Luzon/Luzon/Philippines/Southeast Asia/Asia)</title>
-	<link>https://travellers.wiki/en/asia/southeast-asia/philippines/luzon/central-luzon/bulacan/san-jose-del-monte/</link>
-	<description>Planning a trip to San Jose del Monte, Bulacan, Philippines? Our guide covers everything from places to visit, hiking routes, food scene, transportation options, and more. Read now for a memorable trip.</description>
-	<pubDate>2024-07-28T01:43:28+03:00</pubDate>
 </item>
 
         <atom:link rel="self" href="https://travellers.wiki/rss.xml" />
